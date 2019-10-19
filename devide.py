@@ -18,16 +18,22 @@ data.columns = ['user_id','song_id','listen time']
 user = data.user_id
 #print(data.head())
 user1 = data.user_id[0]#get the first user
+
 print(user1)
 data1 = data[data.user_id.isin([user1])]
 #print(data1)
-list = data1.values.tolist()
+list1 = data1.values.tolist()
 #print(list)
 
 #cut the data base into a smaller one
-my_df = pd.DataFrame(list)
+my_df = pd.DataFrame(list1)
 my_df.to_csv("smallexample/user1.csv", index = False, header = False)
 
+user2 = data.user_id[1]#get the second user
+data2 = data[data.user_id.isin([user2])]
+list2 = data2.values.tolist()
+my_df = pd.DataFrame(list2)
+my_df.to_csv("smallexample/user2.csv", index = False, header = False)
 
 # csvFile = open("smallexample/data1.csv", "w")
 # writer = csv.writer(csvFile)
