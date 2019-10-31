@@ -6,68 +6,52 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 num = 1
-while(num < 11):
-	data = pd.read_csv('user%s.csv' %(num),header=None)
-	data.columns = ['user_id','song_id','listen_time']
-	#print(data)
-	#print(len(data))
-	songId = []
-	songName = []
-	songRelease = []
-	songArtist = []
-	songListen = []
-	#print(data.song_id[0])
+songName = []
+songRelease = []
+songArtist = []
+def FindOne():
+	data = pd.read_csv('user%s_songname.csv' %(num))
 	i = 0
-	k = len(data)
-	while i < k:
-		songId.append(data.song_id[i])
-		songListen.append(data.listen_time[i])
+	while(i < len(data)):
+		songName.append(data.song_name[i])
+		songRelease.append(data.song_release[i])
+		songArtist.append(data.song_artist[i])
 		i = i + 1
-	print(songId)
-	print(songListen)
-
-
-	song = pd.read_csv('D:\\final project\\The Echo Nest Taste Profile Subset\\song_data.csv')
-	#print(song)
-	t = 0#song id
-	l = len(songId)
-	#print(l)
-	while t < l:
-		id = songId[t]
-		t1 = len(song)
-		s1 = 0#song title
-		while s1 < t1:
-			if(song.song_id[s1] == id):
-				songName.append(song.title[s1])
-				songRelease.append(song.release[s1])
-				songArtist.append(song.artist_name[s1])
-				print(song.title[s1])
-				s1 = s1 + 1
+	#print(songName)
+	
+def FindAll():
+	k = 0
+	t = 0
+	count = 0
+	while(k < len(songName)):
+		name = songName[k]
+		while(t < len(songName)):
+			if(songName[t] != name):
+				t = t + 1
 			else:
-				s1 = s1 + 1
-		t = t + 1
+				songName.pop(t)
+				songRelease.pop(t)
+				songArtist.pop(t)
+				t = t + 1
+				count = count + 1
+		k = k + 1
 	print(songName)
+	print(count)
+	
 
-	fileHeader = ["song_name", "song_release", "song_artist", "listen_time"]
-	s = 0
-	csvFile = open("user%s_songname.csv" %(num), "w", newline='')
-	writer = csv.writer(csvFile)
-	writer.writerow(fileHeader)
-	while(s < l):
-		d = [songName[s], songRelease[s], songArtist[s], songListen[s]]
-		writer.writerow(d)
-		s = s + 1
-	csvFile.close()
+while(num < 101):
+	FindOne()
 	num = num + 1
-	
-	
-
-
-# file=open('data1-1.csv','w')
-# for items in data:
-	# for item in items:
-		# file.write(item)
-		# file.write(",")
-	# file.write("\n")
-# file.close()
+FindAll()
+s = 0
+csvFile = open("allsongname.csv", "w", newline='')
+fileHeader = ["song_name", "song_release", "song_artist"]
+writer = csv.writer(csvFile)
+writer.writerow(fileHeader)
+while(s < len(songName)):
+	d = [songName[s], songRelease[s], songArtist[s]]
+	writer.writerow(d)
+	s = s + 1
+csvFile.close()
