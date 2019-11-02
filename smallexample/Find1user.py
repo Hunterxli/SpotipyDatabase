@@ -25,19 +25,36 @@ def Findwords():
 	# print(artist)
 	# print(listen)
 	print(i)
-	r = Rake()
-	r.extract_keywords_from_text(name[0])
-	keyword = r.get_ranked_phrases()
-	word.append(keyword)
-	print(keyword)
-	print(name[0])
-	r.extract_keywords_from_text(release[0])
-	keyword = r.get_ranked_phrases()
-	word.append(keyword)
-	print(keyword)
-	print(release[0])
-	print(artist[0])
-	print(word)
+	k = 0
+	while(k < i):
+		word = []
+		r = Rake()
+		r.extract_keywords_from_text(name[k])
+		keyword = r.get_ranked_phrases()
+		keyword = ",".join(keyword)
+		word.append(keyword)
+		#print(keyword)
+		#print(name[0])
+		r.extract_keywords_from_text(release[k])
+		keyword = r.get_ranked_phrases()
+		keyword = ",".join(keyword)
+		word.append(keyword)
+		#print(keyword)
+		print(name[k])
+		print(release[k])
+		print(artist[k])
+		print(word)
+		words = ",".join(word)
+		fileHeader = ["song_name", "song_artist", "keywords", 'listen_time']
+		csvFile = open("keywords/the{}user-{}-song.csv".format(num, k + 1), "w", newline='', encoding='utf-8')
+		writer = csv.writer(csvFile)
+		writer.writerow(fileHeader)
+		d = [name[k], artist[k], words, listen[k]]
+		writer.writerow(d)
+		csvFile.close()
+		k = k + 1
 	
-
-Findwords()
+while(num < 101):
+	Findwords()
+	num = num + 1
+	

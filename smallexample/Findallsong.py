@@ -46,7 +46,7 @@ while(num < 101):
 	num = num + 1
 FindAll()
 s = 0
-csvFile = open("allsongname.csv", "w", newline='')
+csvFile = open("allsongname.csv", "w", newline='', encoding='utf-8')
 fileHeader = ["song_name", "song_release", "song_artist"]
 writer = csv.writer(csvFile)
 writer.writerow(fileHeader)
