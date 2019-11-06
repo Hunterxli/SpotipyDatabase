@@ -11,8 +11,8 @@ for word1 in list1:
 		if wordFromList1 and wordFromList2: #Thanks to @alexis' note
 			s = wordFromList1[0].wup_similarity(wordFromList2[0])
 			list.append(s)
-			print(word1 + " and " +word2 + ":")
-			print(s)
+			#print(word1 + " and " +word2 + ":")
+			#print(s)
 
 #print(list)
 
@@ -33,5 +33,15 @@ for w in word_tokens:
     if w not in stop_words: 
         filtered_sentence.append(w) 
   
-print(word_tokens) 
-print(filtered_sentence) 
+#print(word_tokens) 
+#print(filtered_sentence) 
+
+i = 1
+k = 2
+while(i < 10):
+	k = 2
+	while(k < 11):
+		if(i < k):
+			print(i, k)
+		k = k + 1
+	i = i + 1

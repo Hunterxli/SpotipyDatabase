@@ -13,8 +13,8 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize 
 from nltk.tokenize import RegexpTokenizer
 
-num1 = 1
-num2 = 2
+num1 = 1 #user 1
+num2 = 2 #user 2
 #songnum = 1
 keyword = []
 test = ["going", "done", "teaching", "better", "thicker", "die", "beautifully", "nothing"]
@@ -23,6 +23,11 @@ lenth = 0
 word1 = ""
 word2 = ""
 s = 0 
+wordcomp1 = []
+wordcomp2 = []
+compreslut = []
+arry_s1 = []
+arry_s2 = []
 
 def get_wordnet_pos(tag):
 	if tag.startswith('J'):
@@ -89,7 +94,7 @@ def Compare(num, songnum):
 		# i = i + 1
 
 
-def Calculate(firstsong, secondsong):
+def Calculate(num1, num2, firstsong, secondsong):
 	song1 = []
 	song2 = []
 	song1 = Compare(num1, firstsong)
@@ -106,6 +111,8 @@ def Calculate(firstsong, secondsong):
 			wordFromList2 = wn.synsets(word2)
 			if wordFromList1 and wordFromList2: #Thanks to @alexis' note
 				s = wordFromList1[0].wup_similarity(wordFromList2[0])
+				if(s == None):
+					s = 0
 				mylist = list()
 				mylist.append(s)
 				print(word1 + " and " +word2 + ":")
@@ -113,55 +120,69 @@ def Calculate(firstsong, secondsong):
 				wordcomp1.append(word1)
 				wordcomp2.append(word2)
 				compreslut.append(s)
+				arry_s1.append(firstsong)
+				arry_s2.append(secondsong)
+				
 			
+def Output(num1, num2):	
+	data2 = pd.read_csv('user{}_songname.csv'.format(num1))
+	data3 = pd.read_csv('user{}_songname.csv'.format(num2))
+	lenth1 = len(data2) + 1
+	lenth2 = len(data3) + 1
+	print(lenth1)
+	print(num1)
+	print(lenth2)
+	print(num2)
+	# s1 = 1
+	# s2 = 2
+	# Calculate(s1, s2)
 	
-data2 = pd.read_csv('user{}_songname.csv'.format(num1))
-data3 = pd.read_csv('user{}_songname.csv'.format(num2))
-lenth1 = len(data2) + 1
-lenth2 = len(data3) + 1
-print(lenth1)
-print(num1)
-print(lenth2)
-print(num2)
-# s1 = 1
-# s2 = 2
-# Calculate(s1, s2)
-wordcomp1 = []
-wordcomp2 = []
-compreslut = []
-arry_s1 = []
-arry_s2 = []
-s1 = 1
-while(s1 < lenth1):
-#while(s1 < 3):
-	s2 = 1
-	while(s2 < lenth2):
-	#while(s2 < 4):
-		Calculate(s1, s2)
-		print("the first song：", s1)
-		arry_s1.append(s1)
-		arry_s2.append(s2)
-		print("the second song：", s2)
-		s2 = s2 + 1
+	s1 = 1
+	while(s1 < lenth1):
+	#while(s1 < 3):
+		s2 = 1
+		while(s2 < lenth2):
+		#while(s2 < 3):
+
+			print("the first song：", s1)
+			print("the second song：", s2)
+			Calculate(num1, num2, s1, s2)
+			s2 = s2 + 1
 		
-	s1 = s1 + 1
-print(wordcomp1)
-print(wordcomp2)
-print(compreslut)
-i = 0
+		s1 = s1 + 1
+	print(wordcomp1)
+	print(wordcomp2)
+	print(compreslut)
+	i = 0
 
-csvFile = open("keyword2/the{}user-the{}user-calculation.csv".format(num1,num2), "w", newline='', encoding='utf-8')
-fileHeader = ["the first song", "the second song", "word1", 'word2', 'result']
-writer = csv.writer(csvFile)
-writer.writerow(fileHeader)
-while(i < len(arry_s2)):
-	print(wordcomp1[i]," and ", wordcomp2[i], ":", compreslut[i])
-	d = [arry_s1[i], arry_s2[i], wordcomp1[i], wordcomp2[i], compreslut[i]]
-	writer.writerow(d)
-	i = i + 1
+	csvFile = open("keyword2/the{}user-the{}user-calculation.csv".format(num1,num2), "w", newline='', encoding='utf-8')
+	fileHeader = ["the first song", "the second song", "word1", 'word2', 'result']
+	writer = csv.writer(csvFile)
+	writer.writerow(fileHeader)
+	while(i < len(compreslut)):
+		print(wordcomp1[i]," and ", wordcomp2[i], ":", compreslut[i])
+		d = [arry_s1[i], arry_s2[i], wordcomp1[i], wordcomp2[i], compreslut[i]]
+		writer.writerow(d)
+		i = i + 1
 
-csvFile.close()
+	csvFile.close()
 	
+	
+#Output()
+#num1 = 1 #user 1
+#num2 = 2 #user 2
+while(num1 < 6):
+	num2 = 2
+	while(num2 < 7):
+		if(num1 < num2):
+			Output(num1, num2)
+			wordcomp1 = []
+			wordcomp2 = []
+			compreslut = []
+			arry_s1 = []
+			arry_s2 = []
+		num2 = num2 + 1
+	num1 = num1 + 1
 
 	
 

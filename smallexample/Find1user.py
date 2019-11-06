@@ -8,7 +8,7 @@ from google.cloud import translate_v2 as translate
 
 
 
-num = 1
+num = 5
 name = []
 release = []
 artist = []
@@ -79,7 +79,7 @@ def Findwords(num):
 		csvFile.close()
 		k = k + 1
 	
-while(num < 5):
+while(num < 7):
 	Findwords(num)
 	num = num + 1
 	

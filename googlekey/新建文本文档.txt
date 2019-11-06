@@ -1,1 +1,1 @@
-$env:GOOGLE_APPLICATION_CREDENTIALS="D:\final project\The Echo Nest Taste Profile Subset\important\googlekey\My First Project-e81e046b0c04.json"
+$env:GOOGLE_APPLICATION_CREDENTIALS="D:\finalproject\SpotipyDatabase\googlekey\My First Project-e81e046b0c04.json"
