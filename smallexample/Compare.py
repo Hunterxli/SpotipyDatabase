@@ -9,13 +9,20 @@ import nltk
 from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 from itertools import product
+from nltk.corpus import stopwords 
+from nltk.tokenize import word_tokenize 
+from nltk.tokenize import RegexpTokenizer
 
-num = 1
+num1 = 1
+num2 = 2
 #songnum = 1
 keyword = []
 test = ["going", "done", "teaching", "better", "thicker", "die", "beautifully", "nothing"]
 tagged_sent = []
 lenth = 0
+word1 = ""
+word2 = ""
+s = 0 
 
 def get_wordnet_pos(tag):
 	if tag.startswith('J'):
@@ -29,15 +36,15 @@ def get_wordnet_pos(tag):
 	else:
 		return None
 
-def Compare(songnum):
-	data = pd.read_csv('keywords/the{}user-{}-song.csv'.format(num, songnum))
-	keyword = data.keywords[0]
-	keyword = keyword.split(',')
+def Compare(num, songnum):
+	data = pd.read_csv('keyword2/the{}user-{}-song.csv'.format(num, songnum))
+	keyword1 = data.keywords[0]
+	keyword = keyword1.split(',')
 	#keyword = test # test
 	print(keyword)
 	# get the original word
-	tagged_sent = nltk.pos_tag(keyword)
-	print(tagged_sent)
+	#tagged_sent = nltk.pos_tag(keyword)
+	#print(tagged_sent)
 	# wnl = ()
 	# lemmas_sent = []
 	# for tag in tagged_sent:
@@ -45,7 +52,21 @@ def Compare(songnum):
 		# lemmas_sent.append(wnl.lemmatize(tag[0], pos=wordnet_pos))
 		# #print(tag)
 	# print(lemmas_sent)
-	return tagged_sent
+	stop_words = set(stopwords.words('english'))
+	tokenizer = RegexpTokenizer(r'\w+')
+	word_tokens = tokenizer.tokenize(keyword1)
+	print("去掉标点：",word_tokens)
+	word_tokens = ",".join(word_tokens)
+	print(word_tokens)
+	word_tokens = word_tokenize(word_tokens)
+	filtered_sentence = [w for w in word_tokens if not w in stop_words] 
+	filtered_sentence = [] 
+	for w in word_tokens: 
+		if w not in stop_words: 
+			filtered_sentence.append(w) 
+	print(filtered_sentence)
+	
+	return filtered_sentence
 	# #return songnum
 	
 	# # get the synonyms
@@ -71,35 +92,77 @@ def Compare(songnum):
 def Calculate(firstsong, secondsong):
 	song1 = []
 	song2 = []
-	song1 = Compare(firstsong)
-	song2 = Compare(secondsong)
+	song1 = Compare(num1, firstsong)
+	song2 = Compare(num2, secondsong)
+	# print(song1)
+	# print(num1)
+	# print(song2)
+	# print(num2)
+		
 	i = 0
-	while(i < len(song2)):
-		k = 0
-		while(k < len(song1)):
-			sense1 = wn.synsets(song1[k])[0]
-			sense2 = wn.synsets(song2[i])[0]
-			print(song1[k]+" and "+song2[i]+":")
-			print(sense1.wup_similarity(sense2))
-			k = k + 1
-		#print(song2[i])
-		i = i + 1
-			
+	for word1 in song1:
+		for word2 in song2:
+			wordFromList1 = wn.synsets(word1)
+			wordFromList2 = wn.synsets(word2)
+			if wordFromList1 and wordFromList2: #Thanks to @alexis' note
+				s = wordFromList1[0].wup_similarity(wordFromList2[0])
+				mylist = list()
+				mylist.append(s)
+				print(word1 + " and " +word2 + ":")
+				print(s)
+				wordcomp1.append(word1)
+				wordcomp2.append(word2)
+				compreslut.append(s)
 			
 	
-data2 = pd.read_csv('user{}_songname.csv'.format(num))
-lenth = len(data2) + 1
-print(lenth)
-s1 = 1
-s2 = 3
-Calculate(s1, s2)
+data2 = pd.read_csv('user{}_songname.csv'.format(num1))
+data3 = pd.read_csv('user{}_songname.csv'.format(num2))
+lenth1 = len(data2) + 1
+lenth2 = len(data3) + 1
+print(lenth1)
+print(num1)
+print(lenth2)
+print(num2)
 # s1 = 1
-# while(s1 < lenth):
-	# s2 = 2
-	# while(s2 < lenth):
-		# Calculate(s1, s2)
-		# s2 = s2 + 1
-	# s1 = s1 + 1
+# s2 = 2
+# Calculate(s1, s2)
+wordcomp1 = []
+wordcomp2 = []
+compreslut = []
+arry_s1 = []
+arry_s2 = []
+s1 = 1
+while(s1 < lenth1):
+#while(s1 < 3):
+	s2 = 1
+	while(s2 < lenth2):
+	#while(s2 < 4):
+		Calculate(s1, s2)
+		print("the first song：", s1)
+		arry_s1.append(s1)
+		arry_s2.append(s2)
+		print("the second song：", s2)
+		s2 = s2 + 1
+		
+	s1 = s1 + 1
+print(wordcomp1)
+print(wordcomp2)
+print(compreslut)
+i = 0
+
+csvFile = open("keyword2/the{}user-the{}user-calculation.csv".format(num1,num2), "w", newline='', encoding='utf-8')
+fileHeader = ["the first song", "the second song", "word1", 'word2', 'result']
+writer = csv.writer(csvFile)
+writer.writerow(fileHeader)
+while(i < len(arry_s2)):
+	print(wordcomp1[i]," and ", wordcomp2[i], ":", compreslut[i])
+	d = [arry_s1[i], arry_s2[i], wordcomp1[i], wordcomp2[i], compreslut[i]]
+	writer.writerow(d)
+	i = i + 1
+
+csvFile.close()
+	
+
 	
 
 

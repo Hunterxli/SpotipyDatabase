@@ -14,12 +14,17 @@ release = []
 artist = []
 listen = []
 word = []
-def Findwords():
+def Findwords(num):
+	name = []
+	release = []
+	artist = []
+	listen = []
+	word = []
 	data = pd.read_csv('user%s_songname.csv' %(num))
 	data.columns = ['song_name','song_release','song_artist', 'listen_time']
 	i = 0
 	while(i < len(data)):
-		print(len(data))
+		print(i)
 		song_name = data.song_name[i]
 		song_release = data.song_release[i]
 		song_artist = data.song_artist[i]
@@ -66,7 +71,7 @@ def Findwords():
 		print(word)
 		words = ",".join(word)
 		fileHeader = ["song_name", "song_artist", "keywords", 'listen_time']
-		csvFile = open("keywords/the{}user-{}-song.csv".format(num, k + 1), "w", newline='', encoding='utf-8')
+		csvFile = open("keyword2/the{}user-{}-song.csv".format(num, k + 1), "w", newline='', encoding='utf-8')
 		writer = csv.writer(csvFile)
 		writer.writerow(fileHeader)
 		d = [name[k], artist[k], words, listen[k]]
@@ -74,7 +79,7 @@ def Findwords():
 		csvFile.close()
 		k = k + 1
 	
-while(num < 101):
-	Findwords()
+while(num < 5):
+	Findwords(num)
 	num = num + 1
 	
