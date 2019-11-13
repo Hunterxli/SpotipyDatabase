@@ -113,27 +113,28 @@ def Calculate(num1, num2, firstsong, secondsong):
 	# print(num1)
 	print(song2)
 	# print(num2)
+	if(song1 != song2):
 		
-	i = 0
-	for word1 in song1:
-		for word2 in song2:
-			#print(word1)
-			#print(word2)
-			wordFromList1 = wn.synsets(word1)
-			wordFromList2 = wn.synsets(word2)
-			if wordFromList1 and wordFromList2: 
-				s = wordFromList1[0].wup_similarity(wordFromList2[0])
-				if(s == None):
-					s = 0
-				mylist = list()
-				mylist.append(s)
-				print(word1 + " and " +word2 + ":")
-				print(s)
-				wordcomp1.append(word1)
-				wordcomp2.append(word2)
-				compreslut.append(s)
-				arry_s1.append(songname1)
-				arry_s2.append(songname2)
+		i = 0
+		for word1 in song1:
+			for word2 in song2:
+				#print(word1)
+				#print(word2)
+				wordFromList1 = wn.synsets(word1)
+				wordFromList2 = wn.synsets(word2)
+				if wordFromList1 and wordFromList2: 
+					s = wordFromList1[0].wup_similarity(wordFromList2[0])
+					if(s == None):
+						s = 0
+					mylist = list()
+					mylist.append(s)
+					print(word1 + " and " +word2 + ":")
+					print(s)
+					wordcomp1.append(word1)
+					wordcomp2.append(word2)
+					compreslut.append(s)
+					arry_s1.append(songname1)
+					arry_s2.append(songname2)
 				
 			
 def Output(num1, num2):	
@@ -167,8 +168,8 @@ def Output(num1, num2):
 	print(compreslut)
 	i = 0
 
-	csvFile = open("keyword2/the{}user-the{}user-calculation.csv".format(num1,num2), "w", newline='', encoding='utf-8')
-	fileHeader = ["the first song", "the second song", "word1", 'word2', 'result']
+	csvFile = open("keywordcal/the{}user-the{}user-calculation.csv".format(num1,num2), "w", newline='', encoding='utf-8')
+	fileHeader = ["the_first_song", "the_second_song", "word1", "word2", "result"]
 	writer = csv.writer(csvFile)
 	writer.writerow(fileHeader)
 	while(i < len(compreslut)):
