@@ -17,6 +17,7 @@ num1 = 1 #user 1
 num2 = 2 #user 2
 #songnum = 1
 keyword = []
+songname = ""
 test = ["going", "done", "teaching", "better", "thicker", "die", "beautifully", "nothing"]
 tagged_sent = []
 lenth = 0
@@ -42,8 +43,9 @@ def get_wordnet_pos(tag):
 		return None
 
 def Compare(num, songnum):
-	data = pd.read_csv('keyword2/the{}user-{}-song.csv'.format(num, songnum))
+	data = pd.read_csv('keyword/the{}user-{}-song.csv'.format(num, songnum))
 	keyword1 = data.keywords[0]
+	songname = data.song_name[0]
 	keyword = keyword1.split(',')
 	#keyword = test # test
 	print(keyword)
@@ -60,18 +62,24 @@ def Compare(num, songnum):
 	stop_words = set(stopwords.words('english'))
 	tokenizer = RegexpTokenizer(r'\w+')
 	word_tokens = tokenizer.tokenize(keyword1)
-	print("去掉标点：",word_tokens)
-	word_tokens = ",".join(word_tokens)
-	print(word_tokens)
+	word_tokens=[word.lower() for word in word_tokens if word.isalpha()]
+	print("remove numbers：",word_tokens)
+	word_tokens = " ".join(word_tokens)
+	#print(word_tokens)
+	
+	# word_tokens=[word.lower() for word in word_tokens if word.isalpha()]
+	# print("remove numbers:", word_tokens)
+	
 	word_tokens = word_tokenize(word_tokens)
 	filtered_sentence = [w for w in word_tokens if not w in stop_words] 
 	filtered_sentence = [] 
 	for w in word_tokens: 
 		if w not in stop_words: 
 			filtered_sentence.append(w) 
-	print(filtered_sentence)
+	#filtered_sentence = ",".join(filtered_sentence)
+	print("remove stopwords:", filtered_sentence)
 	
-	return filtered_sentence
+	return songname, filtered_sentence
 	# #return songnum
 	
 	# # get the synonyms
@@ -97,19 +105,23 @@ def Compare(num, songnum):
 def Calculate(num1, num2, firstsong, secondsong):
 	song1 = []
 	song2 = []
-	song1 = Compare(num1, firstsong)
-	song2 = Compare(num2, secondsong)
-	# print(song1)
+	songname1, x1 = Compare(num1, firstsong)
+	songname2, x2 = Compare(num2, secondsong)
+	song1 = x1
+	song2 = x2
+	print(song1)
 	# print(num1)
-	# print(song2)
+	print(song2)
 	# print(num2)
 		
 	i = 0
 	for word1 in song1:
 		for word2 in song2:
+			#print(word1)
+			#print(word2)
 			wordFromList1 = wn.synsets(word1)
 			wordFromList2 = wn.synsets(word2)
-			if wordFromList1 and wordFromList2: #Thanks to @alexis' note
+			if wordFromList1 and wordFromList2: 
 				s = wordFromList1[0].wup_similarity(wordFromList2[0])
 				if(s == None):
 					s = 0
@@ -120,8 +132,8 @@ def Calculate(num1, num2, firstsong, secondsong):
 				wordcomp1.append(word1)
 				wordcomp2.append(word2)
 				compreslut.append(s)
-				arry_s1.append(firstsong)
-				arry_s2.append(secondsong)
+				arry_s1.append(songname1)
+				arry_s2.append(songname2)
 				
 			
 def Output(num1, num2):	

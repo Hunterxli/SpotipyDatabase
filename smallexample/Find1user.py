@@ -71,7 +71,7 @@ def Findwords(num):
 		print(word)
 		words = ",".join(word)
 		fileHeader = ["song_name", "song_artist", "keywords", 'listen_time']
-		csvFile = open("keyword2/the{}user-{}-song.csv".format(num, k + 1), "w", newline='', encoding='utf-8')
+		csvFile = open("keyword/the{}user-{}-song.csv".format(num, k + 1), "w", newline='', encoding='utf-8')
 		writer = csv.writer(csvFile)
 		writer.writerow(fileHeader)
 		d = [name[k], artist[k], words, listen[k]]
