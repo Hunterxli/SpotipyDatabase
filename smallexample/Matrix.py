@@ -27,16 +27,18 @@ def Calavg():
 		result.append(data.result[i])
 		#print(result)
 		if(data.the_second_song[i] != data.the_second_song[i + 1]):
+			#print(result)
 			for item in result:
 				#print(item)
 				calculation += float(item)
-			avg = calculation / (i + 1)
+				#avg = calculation / (i + 1)
 			#print(avg)
-			print("{} and {}: {}".format(song1, song2, avg))
+			print("{} and {}: {}".format(song1, song2, calculation))
 			print("\n")
 			k = k + 1
 			calculation = 0
-				
+			result = []
+			
 		i = i + 1
 		
 def BuildMatirx():
