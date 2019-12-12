@@ -11,6 +11,7 @@ num = 1
 songName = []
 songRelease = []
 songArtist = []
+songUser = []
 def FindOne():
 	data = pd.read_csv('user%s_songname.csv' %(num))
 	i = 0
@@ -18,40 +19,34 @@ def FindOne():
 		songName.append(data.song_name[i])
 		songRelease.append(data.song_release[i])
 		songArtist.append(data.song_artist[i])
+		songUser.append(num)
 		i = i + 1
-	#print(songName)
 	
-def FindAll():
-	k = 0
-	t = 0
-	count = 0
-	while(k < len(songName)):
-		name = songName[k]
-		while(t < len(songName)):
-			if(songName[t] != name):
-				t = t + 1
-			else:
-				songName.pop(t)
-				songRelease.pop(t)
-				songArtist.pop(t)
-				t = t + 1
-				count = count + 1
-		k = k + 1
-	print(songName)
-	print(count)
+	#print(songName[0])
 	
 
 while(num < 101):
 	FindOne()
 	num = num + 1
-FindAll()
+print(len(songName))
+newlist = []
+repName = []
+for name in songName:
+	if name not in newlist:
+		newlist.append(name)
+	else:
+		repName.append(name)
+songName = newlist
+print(len(songName))
+print(repName)
+#print(songName[0])
 s = 0
 csvFile = open("allsongname.csv", "w", newline='', encoding='utf-8')
-fileHeader = ["song_name", "song_release", "song_artist"]
+fileHeader = ["song_name", "song_release", "song_artist", "user"]
 writer = csv.writer(csvFile)
 writer.writerow(fileHeader)
 while(s < len(songName)):
-	d = [songName[s], songRelease[s], songArtist[s]]
+	d = [songName[s], songRelease[s], songArtist[s], songUser[s]]
 	writer.writerow(d)
 	s = s + 1
 csvFile.close()
