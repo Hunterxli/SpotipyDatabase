@@ -38,7 +38,7 @@ def Calavg():
 		#print(data.result[i])
 		result.append(data.result[i])
 		#print(result)
-		if(data.the_second_song[i] != data.the_second_song[i + 1]):
+		if(i == len(data) - 1 or data.the_second_song[i] != data.the_second_song[i + 1]):
 			#print(result)
 			for item in result:
 				#print(item)
@@ -50,6 +50,7 @@ def Calavg():
 			final = calculation + cal2 + cal3
 			#print("final result: {}".format(final))
 			print("'{}' and '{}': {}".format(song1, song2, final))
+			print(word2)
 			#print("\n")
 			song1list.append(song1)
 			song2list.append(song2)
@@ -67,7 +68,7 @@ def Calavg():
 	# print(cal2list)
 	# print(cal3list)
 	s = 0
-	csvFile = open("Fianl.csv", "w", newline='', encoding='utf-8')
+	csvFile = open("Final.csv", "w", newline='', encoding='utf-8')
 	fileHeader = ["song1", "song2", "similarity", "Cal_artist", "Cal_user", "Cal_final"]
 	writer = csv.writer(csvFile)
 	writer.writerow(fileHeader)

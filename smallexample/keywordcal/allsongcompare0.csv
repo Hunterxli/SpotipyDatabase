@@ -1,0 +1,20 @@
+the_first_song,the_second_song,word1,word2,result
+The Cove,Nothing from Nothing,cove,nothing,0.18181818181818185
+The Cove,Nothing from Nothing,cove,die,0.2857142857142857
+The Cove,Nothing from Nothing,water,nothing,0.3076923076923077
+The Cove,Nothing from Nothing,water,die,0.2857142857142857
+The Cove,Nothing from Nothing,thicker,nothing,0.0
+The Cove,Nothing from Nothing,thicker,die,0.0
+The Cove,Entre Dos Aguas,cove,two,0.14285714285714285
+The Cove,Entre Dos Aguas,cove,waters,0.26666666666666666
+The Cove,Entre Dos Aguas,cove,flamenco,0.15384615384615385
+The Cove,Entre Dos Aguas,cove,children,0.3333333333333333
+The Cove,Entre Dos Aguas,water,two,0.25
+The Cove,Entre Dos Aguas,water,waters,0.26666666666666666
+The Cove,Entre Dos Aguas,water,flamenco,0.26666666666666666
+The Cove,Entre Dos Aguas,water,children,0.3333333333333333
+The Cove,Entre Dos Aguas,thicker,two,0.0
+The Cove,Entre Dos Aguas,thicker,waters,0.0
+The Cove,Entre Dos Aguas,thicker,flamenco,0.0
+The Cove,Entre Dos Aguas,thicker,children,0.0
+
