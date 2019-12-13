@@ -8,7 +8,7 @@ from google.cloud import translate_v2 as translate
 
 
 
-num = 5
+num = 1
 name = []
 release = []
 artist = []
@@ -16,6 +16,7 @@ listen = []
 word = []
 def Findwords(num):
 	name = []
+	originame = []
 	release = []
 	artist = []
 	listen = []
@@ -26,6 +27,7 @@ def Findwords(num):
 	while(i < len(data)):
 		print(i)
 		song_name = data.song_name[i]
+		originame.append(song_name)
 		song_release = data.song_release[i]
 		song_artist = data.song_artist[i]
 		listen_time = data.listen_time[i]
@@ -74,9 +76,10 @@ def Findwords(num):
 		csvFile = open("keyword/the{}user-{}-song.csv".format(num, k + 1), "w", newline='', encoding='utf-8')
 		writer = csv.writer(csvFile)
 		writer.writerow(fileHeader)
-		d = [name[k], artist[k], words, listen[k]]
+		d = [originame[k], artist[k], words, listen[k]]
 		writer.writerow(d)
 		csvFile.close()
+		print(originame)
 		k = k + 1
 	
 while(num < 7):

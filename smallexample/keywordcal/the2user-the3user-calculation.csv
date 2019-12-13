@@ -39,16 +39,16 @@ Water Line,Camera Talk,human,camera,0.34782608695652173
 Water Line,Camera Talk,human,talk,0.09523809523809523
 Water Line,Camera Talk,human,camera,0.34782608695652173
 Water Line,Camera Talk,human,talk,0.09523809523809523
-Water Line,Beautiful,water,beautiful,0
-Water Line,Beautiful,water,dreams,0.23529411764705882
-Water Line,Beautiful,line,beautiful,0
-Water Line,Beautiful,line,dreams,0.26666666666666666
-Water Line,Beautiful,death,beautiful,0
-Water Line,Beautiful,death,dreams,0.375
-Water Line,Beautiful,dance,beautiful,0
-Water Line,Beautiful,dance,dreams,0.11764705882352941
-Water Line,Beautiful,human,beautiful,0
-Water Line,Beautiful,human,dreams,0.08695652173913043
+Water Line,Belle,water,beautiful,0
+Water Line,Belle,water,dreams,0.23529411764705882
+Water Line,Belle,line,beautiful,0
+Water Line,Belle,line,dreams,0.26666666666666666
+Water Line,Belle,death,beautiful,0
+Water Line,Belle,death,dreams,0.375
+Water Line,Belle,dance,beautiful,0
+Water Line,Belle,dance,dreams,0.11764705882352941
+Water Line,Belle,human,beautiful,0
+Water Line,Belle,human,dreams,0.08695652173913043
 Water Line,Auto Rock,water,auto,0.23529411764705882
 Water Line,Auto Rock,water,rock,0.3333333333333333
 Water Line,Auto Rock,water,mr,0.42105263157894735
@@ -216,14 +216,14 @@ Agony In Her Body,Camera Talk,distrust,camera,0.1111111111111111
 Agony In Her Body,Camera Talk,distrust,talk,0.25
 Agony In Her Body,Camera Talk,distrust,camera,0.1111111111111111
 Agony In Her Body,Camera Talk,distrust,talk,0.25
-Agony In Her Body,Beautiful,body,beautiful,0
-Agony In Her Body,Beautiful,body,dreams,0.13333333333333333
-Agony In Her Body,Beautiful,agony,beautiful,0
-Agony In Her Body,Beautiful,agony,dreams,0.23529411764705882
-Agony In Her Body,Beautiful,healthy,beautiful,0
-Agony In Her Body,Beautiful,healthy,dreams,0
-Agony In Her Body,Beautiful,distrust,beautiful,0
-Agony In Her Body,Beautiful,distrust,dreams,0.2222222222222222
+Agony In Her Body,Belle,body,beautiful,0
+Agony In Her Body,Belle,body,dreams,0.13333333333333333
+Agony In Her Body,Belle,agony,beautiful,0
+Agony In Her Body,Belle,agony,dreams,0.23529411764705882
+Agony In Her Body,Belle,healthy,beautiful,0
+Agony In Her Body,Belle,healthy,dreams,0
+Agony In Her Body,Belle,distrust,beautiful,0
+Agony In Her Body,Belle,distrust,dreams,0.2222222222222222
 Agony In Her Body,Auto Rock,body,auto,0.47058823529411764
 Agony In Her Body,Auto Rock,body,rock,0.8333333333333334
 Agony In Her Body,Auto Rock,body,mr,0.13333333333333333
@@ -380,18 +380,18 @@ Black Out On White Night,Camera Talk,human,camera,0.34782608695652173
 Black Out On White Night,Camera Talk,human,talk,0.09523809523809523
 Black Out On White Night,Camera Talk,human,camera,0.34782608695652173
 Black Out On White Night,Camera Talk,human,talk,0.09523809523809523
-Black Out On White Night,Beautiful,white,beautiful,0
-Black Out On White Night,Beautiful,white,dreams,0.14285714285714285
-Black Out On White Night,Beautiful,night,beautiful,0
-Black Out On White Night,Beautiful,night,dreams,0.26666666666666666
-Black Out On White Night,Beautiful,black,beautiful,0
-Black Out On White Night,Beautiful,black,dreams,0.23529411764705882
-Black Out On White Night,Beautiful,death,beautiful,0
-Black Out On White Night,Beautiful,death,dreams,0.375
-Black Out On White Night,Beautiful,dance,beautiful,0
-Black Out On White Night,Beautiful,dance,dreams,0.11764705882352941
-Black Out On White Night,Beautiful,human,beautiful,0
-Black Out On White Night,Beautiful,human,dreams,0.08695652173913043
+Black Out On White Night,Belle,white,beautiful,0
+Black Out On White Night,Belle,white,dreams,0.14285714285714285
+Black Out On White Night,Belle,night,beautiful,0
+Black Out On White Night,Belle,night,dreams,0.26666666666666666
+Black Out On White Night,Belle,black,beautiful,0
+Black Out On White Night,Belle,black,dreams,0.23529411764705882
+Black Out On White Night,Belle,death,beautiful,0
+Black Out On White Night,Belle,death,dreams,0.375
+Black Out On White Night,Belle,dance,beautiful,0
+Black Out On White Night,Belle,dance,dreams,0.11764705882352941
+Black Out On White Night,Belle,human,beautiful,0
+Black Out On White Night,Belle,human,dreams,0.08695652173913043
 Black Out On White Night,Auto Rock,white,auto,0.42105263157894735
 Black Out On White Night,Auto Rock,white,rock,0.5714285714285714
 Black Out On White Night,Auto Rock,white,mr,0.14285714285714285
@@ -586,14 +586,14 @@ The Best of Times,Camera Talk,best,camera,0.11764705882352941
 The Best of Times,Camera Talk,best,talk,0.26666666666666666
 The Best of Times,Camera Talk,best,camera,0.11764705882352941
 The Best of Times,Camera Talk,best,talk,0.26666666666666666
-The Best of Times,Beautiful,times,beautiful,0
-The Best of Times,Beautiful,times,dreams,0.26666666666666666
-The Best of Times,Beautiful,best,beautiful,0
-The Best of Times,Beautiful,best,dreams,0.35294117647058826
-The Best of Times,Beautiful,times,beautiful,0
-The Best of Times,Beautiful,times,dreams,0.26666666666666666
-The Best of Times,Beautiful,best,beautiful,0
-The Best of Times,Beautiful,best,dreams,0.35294117647058826
+The Best of Times,Belle,times,beautiful,0
+The Best of Times,Belle,times,dreams,0.26666666666666666
+The Best of Times,Belle,best,beautiful,0
+The Best of Times,Belle,best,dreams,0.35294117647058826
+The Best of Times,Belle,times,beautiful,0
+The Best of Times,Belle,times,dreams,0.26666666666666666
+The Best of Times,Belle,best,beautiful,0
+The Best of Times,Belle,best,dreams,0.35294117647058826
 The Best of Times,Auto Rock,times,auto,0.11764705882352941
 The Best of Times,Auto Rock,times,rock,0.16666666666666666
 The Best of Times,Auto Rock,times,mr,0.26666666666666666
@@ -718,10 +718,10 @@ Gunz Yo,Camera Talk,distrust,camera,0.1111111111111111
 Gunz Yo,Camera Talk,distrust,talk,0.25
 Gunz Yo,Camera Talk,distrust,camera,0.1111111111111111
 Gunz Yo,Camera Talk,distrust,talk,0.25
-Gunz Yo,Beautiful,healthy,beautiful,0
-Gunz Yo,Beautiful,healthy,dreams,0
-Gunz Yo,Beautiful,distrust,beautiful,0
-Gunz Yo,Beautiful,distrust,dreams,0.2222222222222222
+Gunz Yo,Belle,healthy,beautiful,0
+Gunz Yo,Belle,healthy,dreams,0
+Gunz Yo,Belle,distrust,beautiful,0
+Gunz Yo,Belle,distrust,dreams,0.2222222222222222
 Gunz Yo,Auto Rock,healthy,auto,0
 Gunz Yo,Auto Rock,healthy,rock,0
 Gunz Yo,Auto Rock,healthy,mr,0
@@ -808,14 +808,14 @@ Clickety Clack,Camera Talk,human,camera,0.34782608695652173
 Clickety Clack,Camera Talk,human,talk,0.09523809523809523
 Clickety Clack,Camera Talk,human,camera,0.34782608695652173
 Clickety Clack,Camera Talk,human,talk,0.09523809523809523
-Clickety Clack,Beautiful,clack,beautiful,0
-Clickety Clack,Beautiful,clack,dreams,0.35294117647058826
-Clickety Clack,Beautiful,death,beautiful,0
-Clickety Clack,Beautiful,death,dreams,0.375
-Clickety Clack,Beautiful,dance,beautiful,0
-Clickety Clack,Beautiful,dance,dreams,0.11764705882352941
-Clickety Clack,Beautiful,human,beautiful,0
-Clickety Clack,Beautiful,human,dreams,0.08695652173913043
+Clickety Clack,Belle,clack,beautiful,0
+Clickety Clack,Belle,clack,dreams,0.35294117647058826
+Clickety Clack,Belle,death,beautiful,0
+Clickety Clack,Belle,death,dreams,0.375
+Clickety Clack,Belle,dance,beautiful,0
+Clickety Clack,Belle,dance,dreams,0.11764705882352941
+Clickety Clack,Belle,human,beautiful,0
+Clickety Clack,Belle,human,dreams,0.08695652173913043
 Clickety Clack,Auto Rock,clack,auto,0.10526315789473684
 Clickety Clack,Auto Rock,clack,rock,0.14285714285714285
 Clickety Clack,Auto Rock,clack,mr,0.23529411764705882
@@ -964,16 +964,16 @@ Midgets And Giants,Camera Talk,human,camera,0.34782608695652173
 Midgets And Giants,Camera Talk,human,talk,0.09523809523809523
 Midgets And Giants,Camera Talk,human,camera,0.34782608695652173
 Midgets And Giants,Camera Talk,human,talk,0.09523809523809523
-Midgets And Giants,Beautiful,midgets,beautiful,0
-Midgets And Giants,Beautiful,midgets,dreams,0.13333333333333333
-Midgets And Giants,Beautiful,giants,beautiful,0
-Midgets And Giants,Beautiful,giants,dreams,0.11764705882352941
-Midgets And Giants,Beautiful,death,beautiful,0
-Midgets And Giants,Beautiful,death,dreams,0.375
-Midgets And Giants,Beautiful,dance,beautiful,0
-Midgets And Giants,Beautiful,dance,dreams,0.11764705882352941
-Midgets And Giants,Beautiful,human,beautiful,0
-Midgets And Giants,Beautiful,human,dreams,0.08695652173913043
+Midgets And Giants,Belle,midgets,beautiful,0
+Midgets And Giants,Belle,midgets,dreams,0.13333333333333333
+Midgets And Giants,Belle,giants,beautiful,0
+Midgets And Giants,Belle,giants,dreams,0.11764705882352941
+Midgets And Giants,Belle,death,beautiful,0
+Midgets And Giants,Belle,death,dreams,0.375
+Midgets And Giants,Belle,dance,beautiful,0
+Midgets And Giants,Belle,dance,dreams,0.11764705882352941
+Midgets And Giants,Belle,human,beautiful,0
+Midgets And Giants,Belle,human,dreams,0.08695652173913043
 Midgets And Giants,Auto Rock,midgets,auto,0.4
 Midgets And Giants,Auto Rock,midgets,rock,0.5333333333333333
 Midgets And Giants,Auto Rock,midgets,mr,0.13333333333333333
@@ -1141,14 +1141,14 @@ Call Me Francois,Camera Talk,human,camera,0.34782608695652173
 Call Me Francois,Camera Talk,human,talk,0.09523809523809523
 Call Me Francois,Camera Talk,human,camera,0.34782608695652173
 Call Me Francois,Camera Talk,human,talk,0.09523809523809523
-Call Me Francois,Beautiful,call,beautiful,0
-Call Me Francois,Beautiful,call,dreams,0.10526315789473684
-Call Me Francois,Beautiful,death,beautiful,0
-Call Me Francois,Beautiful,death,dreams,0.375
-Call Me Francois,Beautiful,dance,beautiful,0
-Call Me Francois,Beautiful,dance,dreams,0.11764705882352941
-Call Me Francois,Beautiful,human,beautiful,0
-Call Me Francois,Beautiful,human,dreams,0.08695652173913043
+Call Me Francois,Belle,call,beautiful,0
+Call Me Francois,Belle,call,dreams,0.10526315789473684
+Call Me Francois,Belle,death,beautiful,0
+Call Me Francois,Belle,death,dreams,0.375
+Call Me Francois,Belle,dance,beautiful,0
+Call Me Francois,Belle,dance,dreams,0.11764705882352941
+Call Me Francois,Belle,human,beautiful,0
+Call Me Francois,Belle,human,dreams,0.08695652173913043
 Call Me Francois,Auto Rock,call,auto,0.5714285714285714
 Call Me Francois,Auto Rock,call,rock,0.5
 Call Me Francois,Auto Rock,call,mr,0.10526315789473684
@@ -1297,16 +1297,16 @@ Underground For Dummies,Camera Talk,human,camera,0.34782608695652173
 Underground For Dummies,Camera Talk,human,talk,0.09523809523809523
 Underground For Dummies,Camera Talk,human,camera,0.34782608695652173
 Underground For Dummies,Camera Talk,human,talk,0.09523809523809523
-Underground For Dummies,Beautiful,underground,beautiful,0
-Underground For Dummies,Beautiful,underground,dreams,0.2222222222222222
-Underground For Dummies,Beautiful,dummies,beautiful,0
-Underground For Dummies,Beautiful,dummies,dreams,0.125
-Underground For Dummies,Beautiful,death,beautiful,0
-Underground For Dummies,Beautiful,death,dreams,0.375
-Underground For Dummies,Beautiful,dance,beautiful,0
-Underground For Dummies,Beautiful,dance,dreams,0.11764705882352941
-Underground For Dummies,Beautiful,human,beautiful,0
-Underground For Dummies,Beautiful,human,dreams,0.08695652173913043
+Underground For Dummies,Belle,underground,beautiful,0
+Underground For Dummies,Belle,underground,dreams,0.2222222222222222
+Underground For Dummies,Belle,dummies,beautiful,0
+Underground For Dummies,Belle,dummies,dreams,0.125
+Underground For Dummies,Belle,death,beautiful,0
+Underground For Dummies,Belle,death,dreams,0.375
+Underground For Dummies,Belle,dance,beautiful,0
+Underground For Dummies,Belle,dance,dreams,0.11764705882352941
+Underground For Dummies,Belle,human,beautiful,0
+Underground For Dummies,Belle,human,dreams,0.08695652173913043
 Underground For Dummies,Auto Rock,underground,auto,0.1
 Underground For Dummies,Auto Rock,underground,rock,0.13333333333333333
 Underground For Dummies,Auto Rock,underground,mr,0.2222222222222222
@@ -1482,16 +1482,16 @@ Going Back To Rehab,Camera Talk,human,camera,0.34782608695652173
 Going Back To Rehab,Camera Talk,human,talk,0.09523809523809523
 Going Back To Rehab,Camera Talk,human,camera,0.34782608695652173
 Going Back To Rehab,Camera Talk,human,talk,0.09523809523809523
-Going Back To Rehab,Beautiful,going,beautiful,0
-Going Back To Rehab,Beautiful,going,dreams,0.4
-Going Back To Rehab,Beautiful,back,beautiful,0
-Going Back To Rehab,Beautiful,back,dreams,0.13333333333333333
-Going Back To Rehab,Beautiful,death,beautiful,0
-Going Back To Rehab,Beautiful,death,dreams,0.375
-Going Back To Rehab,Beautiful,dance,beautiful,0
-Going Back To Rehab,Beautiful,dance,dreams,0.11764705882352941
-Going Back To Rehab,Beautiful,human,beautiful,0
-Going Back To Rehab,Beautiful,human,dreams,0.08695652173913043
+Going Back To Rehab,Belle,going,beautiful,0
+Going Back To Rehab,Belle,going,dreams,0.4
+Going Back To Rehab,Belle,back,beautiful,0
+Going Back To Rehab,Belle,back,dreams,0.13333333333333333
+Going Back To Rehab,Belle,death,beautiful,0
+Going Back To Rehab,Belle,death,dreams,0.375
+Going Back To Rehab,Belle,dance,beautiful,0
+Going Back To Rehab,Belle,dance,dreams,0.11764705882352941
+Going Back To Rehab,Belle,human,beautiful,0
+Going Back To Rehab,Belle,human,dreams,0.08695652173913043
 Going Back To Rehab,Auto Rock,going,auto,0.11764705882352941
 Going Back To Rehab,Auto Rock,going,rock,0.16666666666666666
 Going Back To Rehab,Auto Rock,going,mr,0.26666666666666666
@@ -1667,16 +1667,16 @@ Civil Obedience,Camera Talk,human,camera,0.34782608695652173
 Civil Obedience,Camera Talk,human,talk,0.09523809523809523
 Civil Obedience,Camera Talk,human,camera,0.34782608695652173
 Civil Obedience,Camera Talk,human,talk,0.09523809523809523
-Civil Obedience,Beautiful,civil,beautiful,0
-Civil Obedience,Beautiful,civil,dreams,0
-Civil Obedience,Beautiful,obedience,beautiful,0
-Civil Obedience,Beautiful,obedience,dreams,0.375
-Civil Obedience,Beautiful,death,beautiful,0
-Civil Obedience,Beautiful,death,dreams,0.375
-Civil Obedience,Beautiful,dance,beautiful,0
-Civil Obedience,Beautiful,dance,dreams,0.11764705882352941
-Civil Obedience,Beautiful,human,beautiful,0
-Civil Obedience,Beautiful,human,dreams,0.08695652173913043
+Civil Obedience,Belle,civil,beautiful,0
+Civil Obedience,Belle,civil,dreams,0
+Civil Obedience,Belle,obedience,beautiful,0
+Civil Obedience,Belle,obedience,dreams,0.375
+Civil Obedience,Belle,death,beautiful,0
+Civil Obedience,Belle,death,dreams,0.375
+Civil Obedience,Belle,dance,beautiful,0
+Civil Obedience,Belle,dance,dreams,0.11764705882352941
+Civil Obedience,Belle,human,beautiful,0
+Civil Obedience,Belle,human,dreams,0.08695652173913043
 Civil Obedience,Auto Rock,civil,auto,0
 Civil Obedience,Auto Rock,civil,rock,0
 Civil Obedience,Auto Rock,civil,mr,0
@@ -1852,16 +1852,16 @@ Good Fashion,Camera Talk,human,camera,0.34782608695652173
 Good Fashion,Camera Talk,human,talk,0.09523809523809523
 Good Fashion,Camera Talk,human,camera,0.34782608695652173
 Good Fashion,Camera Talk,human,talk,0.09523809523809523
-Good Fashion,Beautiful,good,beautiful,0
-Good Fashion,Beautiful,good,dreams,0.25
-Good Fashion,Beautiful,fashion,beautiful,0
-Good Fashion,Beautiful,fashion,dreams,0.2857142857142857
-Good Fashion,Beautiful,death,beautiful,0
-Good Fashion,Beautiful,death,dreams,0.375
-Good Fashion,Beautiful,dance,beautiful,0
-Good Fashion,Beautiful,dance,dreams,0.11764705882352941
-Good Fashion,Beautiful,human,beautiful,0
-Good Fashion,Beautiful,human,dreams,0.08695652173913043
+Good Fashion,Belle,good,beautiful,0
+Good Fashion,Belle,good,dreams,0.25
+Good Fashion,Belle,fashion,beautiful,0
+Good Fashion,Belle,fashion,dreams,0.2857142857142857
+Good Fashion,Belle,death,beautiful,0
+Good Fashion,Belle,death,dreams,0.375
+Good Fashion,Belle,dance,beautiful,0
+Good Fashion,Belle,dance,dreams,0.11764705882352941
+Good Fashion,Belle,human,beautiful,0
+Good Fashion,Belle,human,dreams,0.08695652173913043
 Good Fashion,Auto Rock,good,auto,0.1111111111111111
 Good Fashion,Auto Rock,good,rock,0.15384615384615385
 Good Fashion,Auto Rock,good,mr,0.25
@@ -2045,18 +2045,18 @@ Growing Pains Intro,Camera Talk,human,camera,0.34782608695652173
 Growing Pains Intro,Camera Talk,human,talk,0.09523809523809523
 Growing Pains Intro,Camera Talk,human,camera,0.34782608695652173
 Growing Pains Intro,Camera Talk,human,talk,0.09523809523809523
-Growing Pains Intro,Beautiful,growing,beautiful,0
-Growing Pains Intro,Beautiful,growing,dreams,0.14285714285714285
-Growing Pains Intro,Beautiful,pains,beautiful,0
-Growing Pains Intro,Beautiful,pains,dreams,0.35294117647058826
-Growing Pains Intro,Beautiful,intro,beautiful,0
-Growing Pains Intro,Beautiful,intro,dreams,0.35294117647058826
-Growing Pains Intro,Beautiful,death,beautiful,0
-Growing Pains Intro,Beautiful,death,dreams,0.375
-Growing Pains Intro,Beautiful,dance,beautiful,0
-Growing Pains Intro,Beautiful,dance,dreams,0.11764705882352941
-Growing Pains Intro,Beautiful,human,beautiful,0
-Growing Pains Intro,Beautiful,human,dreams,0.08695652173913043
+Growing Pains Intro,Belle,growing,beautiful,0
+Growing Pains Intro,Belle,growing,dreams,0.14285714285714285
+Growing Pains Intro,Belle,pains,beautiful,0
+Growing Pains Intro,Belle,pains,dreams,0.35294117647058826
+Growing Pains Intro,Belle,intro,beautiful,0
+Growing Pains Intro,Belle,intro,dreams,0.35294117647058826
+Growing Pains Intro,Belle,death,beautiful,0
+Growing Pains Intro,Belle,death,dreams,0.375
+Growing Pains Intro,Belle,dance,beautiful,0
+Growing Pains Intro,Belle,dance,dreams,0.11764705882352941
+Growing Pains Intro,Belle,human,beautiful,0
+Growing Pains Intro,Belle,human,dreams,0.08695652173913043
 Growing Pains Intro,Auto Rock,growing,auto,0.25
 Growing Pains Intro,Auto Rock,growing,rock,0.36363636363636365
 Growing Pains Intro,Auto Rock,growing,mr,0.14285714285714285
@@ -2259,16 +2259,16 @@ Sun vs Moon,Camera Talk,distrust,camera,0.1111111111111111
 Sun vs Moon,Camera Talk,distrust,talk,0.25
 Sun vs Moon,Camera Talk,distrust,camera,0.1111111111111111
 Sun vs Moon,Camera Talk,distrust,talk,0.25
-Sun vs Moon,Beautiful,sun,beautiful,0
-Sun vs Moon,Beautiful,sun,dreams,0.11764705882352941
-Sun vs Moon,Beautiful,vs,beautiful,0
-Sun vs Moon,Beautiful,vs,dreams,0.23529411764705882
-Sun vs Moon,Beautiful,moon,beautiful,0
-Sun vs Moon,Beautiful,moon,dreams,0.11764705882352941
-Sun vs Moon,Beautiful,healthy,beautiful,0
-Sun vs Moon,Beautiful,healthy,dreams,0
-Sun vs Moon,Beautiful,distrust,beautiful,0
-Sun vs Moon,Beautiful,distrust,dreams,0.2222222222222222
+Sun vs Moon,Belle,sun,beautiful,0
+Sun vs Moon,Belle,sun,dreams,0.11764705882352941
+Sun vs Moon,Belle,vs,beautiful,0
+Sun vs Moon,Belle,vs,dreams,0.23529411764705882
+Sun vs Moon,Belle,moon,beautiful,0
+Sun vs Moon,Belle,moon,dreams,0.11764705882352941
+Sun vs Moon,Belle,healthy,beautiful,0
+Sun vs Moon,Belle,healthy,dreams,0
+Sun vs Moon,Belle,distrust,beautiful,0
+Sun vs Moon,Belle,distrust,dreams,0.2222222222222222
 Sun vs Moon,Auto Rock,sun,auto,0.42105263157894735
 Sun vs Moon,Auto Rock,sun,rock,0.7142857142857143
 Sun vs Moon,Auto Rock,sun,mr,0.11764705882352941
@@ -2444,16 +2444,16 @@ Got Up This Morning,Camera Talk,human,camera,0.34782608695652173
 Got Up This Morning,Camera Talk,human,talk,0.09523809523809523
 Got Up This Morning,Camera Talk,human,camera,0.34782608695652173
 Got Up This Morning,Camera Talk,human,talk,0.09523809523809523
-Got Up This Morning,Beautiful,morning,beautiful,0
-Got Up This Morning,Beautiful,morning,dreams,0.26666666666666666
-Got Up This Morning,Beautiful,got,beautiful,0.5
-Got Up This Morning,Beautiful,got,dreams,0.16666666666666666
-Got Up This Morning,Beautiful,death,beautiful,0
-Got Up This Morning,Beautiful,death,dreams,0.375
-Got Up This Morning,Beautiful,dance,beautiful,0
-Got Up This Morning,Beautiful,dance,dreams,0.11764705882352941
-Got Up This Morning,Beautiful,human,beautiful,0
-Got Up This Morning,Beautiful,human,dreams,0.08695652173913043
+Got Up This Morning,Belle,morning,beautiful,0
+Got Up This Morning,Belle,morning,dreams,0.26666666666666666
+Got Up This Morning,Belle,got,beautiful,0.5
+Got Up This Morning,Belle,got,dreams,0.16666666666666666
+Got Up This Morning,Belle,death,beautiful,0
+Got Up This Morning,Belle,death,dreams,0.375
+Got Up This Morning,Belle,dance,beautiful,0
+Got Up This Morning,Belle,dance,dreams,0.11764705882352941
+Got Up This Morning,Belle,human,beautiful,0
+Got Up This Morning,Belle,human,dreams,0.08695652173913043
 Got Up This Morning,Auto Rock,morning,auto,0.11764705882352941
 Got Up This Morning,Auto Rock,morning,rock,0.16666666666666666
 Got Up This Morning,Auto Rock,morning,mr,0.26666666666666666
@@ -2621,14 +2621,14 @@ The Buzz Kill,Camera Talk,distrust,camera,0.1111111111111111
 The Buzz Kill,Camera Talk,distrust,talk,0.25
 The Buzz Kill,Camera Talk,distrust,camera,0.1111111111111111
 The Buzz Kill,Camera Talk,distrust,talk,0.25
-The Buzz Kill,Beautiful,buzz,beautiful,0
-The Buzz Kill,Beautiful,buzz,dreams,0.375
-The Buzz Kill,Beautiful,kill,beautiful,0
-The Buzz Kill,Beautiful,kill,dreams,0.3157894736842105
-The Buzz Kill,Beautiful,healthy,beautiful,0
-The Buzz Kill,Beautiful,healthy,dreams,0
-The Buzz Kill,Beautiful,distrust,beautiful,0
-The Buzz Kill,Beautiful,distrust,dreams,0.2222222222222222
+The Buzz Kill,Belle,buzz,beautiful,0
+The Buzz Kill,Belle,buzz,dreams,0.375
+The Buzz Kill,Belle,kill,beautiful,0
+The Buzz Kill,Belle,kill,dreams,0.3157894736842105
+The Buzz Kill,Belle,healthy,beautiful,0
+The Buzz Kill,Belle,healthy,dreams,0
+The Buzz Kill,Belle,distrust,beautiful,0
+The Buzz Kill,Belle,distrust,dreams,0.2222222222222222
 The Buzz Kill,Auto Rock,buzz,auto,0.1111111111111111
 The Buzz Kill,Auto Rock,buzz,rock,0.15384615384615385
 The Buzz Kill,Auto Rock,buzz,mr,0.25
@@ -2777,16 +2777,16 @@ Hell Of A Year,Camera Talk,human,camera,0.34782608695652173
 Hell Of A Year,Camera Talk,human,talk,0.09523809523809523
 Hell Of A Year,Camera Talk,human,camera,0.34782608695652173
 Hell Of A Year,Camera Talk,human,talk,0.09523809523809523
-Hell Of A Year,Beautiful,year,beautiful,0
-Hell Of A Year,Beautiful,year,dreams,0.26666666666666666
-Hell Of A Year,Beautiful,hell,beautiful,0
-Hell Of A Year,Beautiful,hell,dreams,0.13333333333333333
-Hell Of A Year,Beautiful,death,beautiful,0
-Hell Of A Year,Beautiful,death,dreams,0.375
-Hell Of A Year,Beautiful,dance,beautiful,0
-Hell Of A Year,Beautiful,dance,dreams,0.11764705882352941
-Hell Of A Year,Beautiful,human,beautiful,0
-Hell Of A Year,Beautiful,human,dreams,0.08695652173913043
+Hell Of A Year,Belle,year,beautiful,0
+Hell Of A Year,Belle,year,dreams,0.26666666666666666
+Hell Of A Year,Belle,hell,beautiful,0
+Hell Of A Year,Belle,hell,dreams,0.13333333333333333
+Hell Of A Year,Belle,death,beautiful,0
+Hell Of A Year,Belle,death,dreams,0.375
+Hell Of A Year,Belle,dance,beautiful,0
+Hell Of A Year,Belle,dance,dreams,0.11764705882352941
+Hell Of A Year,Belle,human,beautiful,0
+Hell Of A Year,Belle,human,dreams,0.08695652173913043
 Hell Of A Year,Auto Rock,year,auto,0.11764705882352941
 Hell Of A Year,Auto Rock,year,rock,0.16666666666666666
 Hell Of A Year,Auto Rock,year,mr,0.26666666666666666
@@ -2962,16 +2962,16 @@ Hoofprints In The Sand,Camera Talk,human,camera,0.34782608695652173
 Hoofprints In The Sand,Camera Talk,human,talk,0.09523809523809523
 Hoofprints In The Sand,Camera Talk,human,camera,0.34782608695652173
 Hoofprints In The Sand,Camera Talk,human,talk,0.09523809523809523
-Hoofprints In The Sand,Beautiful,sand,beautiful,0
-Hoofprints In The Sand,Beautiful,sand,dreams,0.2222222222222222
-Hoofprints In The Sand,Beautiful,hoofprints,beautiful,0
-Hoofprints In The Sand,Beautiful,hoofprints,dreams,0.26666666666666666
-Hoofprints In The Sand,Beautiful,death,beautiful,0
-Hoofprints In The Sand,Beautiful,death,dreams,0.375
-Hoofprints In The Sand,Beautiful,dance,beautiful,0
-Hoofprints In The Sand,Beautiful,dance,dreams,0.11764705882352941
-Hoofprints In The Sand,Beautiful,human,beautiful,0
-Hoofprints In The Sand,Beautiful,human,dreams,0.08695652173913043
+Hoofprints In The Sand,Belle,sand,beautiful,0
+Hoofprints In The Sand,Belle,sand,dreams,0.2222222222222222
+Hoofprints In The Sand,Belle,hoofprints,beautiful,0
+Hoofprints In The Sand,Belle,hoofprints,dreams,0.26666666666666666
+Hoofprints In The Sand,Belle,death,beautiful,0
+Hoofprints In The Sand,Belle,death,dreams,0.375
+Hoofprints In The Sand,Belle,dance,beautiful,0
+Hoofprints In The Sand,Belle,dance,dreams,0.11764705882352941
+Hoofprints In The Sand,Belle,human,beautiful,0
+Hoofprints In The Sand,Belle,human,dreams,0.08695652173913043
 Hoofprints In The Sand,Auto Rock,sand,auto,0.21052631578947367
 Hoofprints In The Sand,Auto Rock,sand,rock,0.2857142857142857
 Hoofprints In The Sand,Auto Rock,sand,mr,0.4444444444444444
@@ -3147,16 +3147,16 @@ High Step,Camera Talk,human,camera,0.34782608695652173
 High Step,Camera Talk,human,talk,0.09523809523809523
 High Step,Camera Talk,human,camera,0.34782608695652173
 High Step,Camera Talk,human,talk,0.09523809523809523
-High Step,Beautiful,high,beautiful,0
-High Step,Beautiful,high,dreams,0.26666666666666666
-High Step,Beautiful,step,beautiful,0
-High Step,Beautiful,step,dreams,0.3
-High Step,Beautiful,death,beautiful,0
-High Step,Beautiful,death,dreams,0.375
-High Step,Beautiful,dance,beautiful,0
-High Step,Beautiful,dance,dreams,0.11764705882352941
-High Step,Beautiful,human,beautiful,0
-High Step,Beautiful,human,dreams,0.08695652173913043
+High Step,Belle,high,beautiful,0
+High Step,Belle,high,dreams,0.26666666666666666
+High Step,Belle,step,beautiful,0
+High Step,Belle,step,dreams,0.3
+High Step,Belle,death,beautiful,0
+High Step,Belle,death,dreams,0.375
+High Step,Belle,dance,beautiful,0
+High Step,Belle,dance,dreams,0.11764705882352941
+High Step,Belle,human,beautiful,0
+High Step,Belle,human,dreams,0.08695652173913043
 High Step,Auto Rock,high,auto,0.11764705882352941
 High Step,Auto Rock,high,rock,0.16666666666666666
 High Step,Auto Rock,high,mr,0.26666666666666666
@@ -3324,14 +3324,14 @@ Escape Artist,Camera Talk,distrust,camera,0.1111111111111111
 Escape Artist,Camera Talk,distrust,talk,0.25
 Escape Artist,Camera Talk,distrust,camera,0.1111111111111111
 Escape Artist,Camera Talk,distrust,talk,0.25
-Escape Artist,Beautiful,escape,beautiful,0
-Escape Artist,Beautiful,escape,dreams,0.375
-Escape Artist,Beautiful,artist,beautiful,0
-Escape Artist,Beautiful,artist,dreams,0.13333333333333333
-Escape Artist,Beautiful,healthy,beautiful,0
-Escape Artist,Beautiful,healthy,dreams,0
-Escape Artist,Beautiful,distrust,beautiful,0
-Escape Artist,Beautiful,distrust,dreams,0.2222222222222222
+Escape Artist,Belle,escape,beautiful,0
+Escape Artist,Belle,escape,dreams,0.375
+Escape Artist,Belle,artist,beautiful,0
+Escape Artist,Belle,artist,dreams,0.13333333333333333
+Escape Artist,Belle,healthy,beautiful,0
+Escape Artist,Belle,healthy,dreams,0
+Escape Artist,Belle,distrust,beautiful,0
+Escape Artist,Belle,distrust,dreams,0.2222222222222222
 Escape Artist,Auto Rock,escape,auto,0.1111111111111111
 Escape Artist,Auto Rock,escape,rock,0.15384615384615385
 Escape Artist,Auto Rock,escape,mr,0.25
@@ -3472,14 +3472,14 @@ Sea Lion,Camera Talk,distrust,camera,0.1111111111111111
 Sea Lion,Camera Talk,distrust,talk,0.25
 Sea Lion,Camera Talk,distrust,camera,0.1111111111111111
 Sea Lion,Camera Talk,distrust,talk,0.25
-Sea Lion,Beautiful,sea,beautiful,0
-Sea Lion,Beautiful,sea,dreams,0.14285714285714285
-Sea Lion,Beautiful,lion,beautiful,0
-Sea Lion,Beautiful,lion,dreams,0.08333333333333333
-Sea Lion,Beautiful,healthy,beautiful,0
-Sea Lion,Beautiful,healthy,dreams,0
-Sea Lion,Beautiful,distrust,beautiful,0
-Sea Lion,Beautiful,distrust,dreams,0.2222222222222222
+Sea Lion,Belle,sea,beautiful,0
+Sea Lion,Belle,sea,dreams,0.14285714285714285
+Sea Lion,Belle,lion,beautiful,0
+Sea Lion,Belle,lion,dreams,0.08333333333333333
+Sea Lion,Belle,healthy,beautiful,0
+Sea Lion,Belle,healthy,dreams,0
+Sea Lion,Belle,distrust,beautiful,0
+Sea Lion,Belle,distrust,dreams,0.2222222222222222
 Sea Lion,Auto Rock,sea,auto,0.25
 Sea Lion,Auto Rock,sea,rock,0.36363636363636365
 Sea Lion,Auto Rock,sea,mr,0.14285714285714285

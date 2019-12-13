@@ -13,8 +13,8 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize 
 from nltk.tokenize import RegexpTokenizer
 
-num1 = 1 #user 1
-num2 = 2 #user 2
+#num1 = 1 #user 1
+#num2 = 2 #user 2
 #songnum = 1
 keyword = []
 songname = ""
@@ -114,8 +114,6 @@ def Calculate(num1, num2, firstsong, secondsong):
 	print(song2)
 	# print(num2)
 	if(song1 != song2):
-		
-		i = 0
 		for word1 in song1:
 			for word2 in song2:
 				#print(word1)
@@ -182,18 +180,18 @@ def Output(num1, num2):
 	
 	
 #Output()
-#num1 = 1 #user 1
-#num2 = 2 #user 2
-while(num1 < 6):
-	num2 = 2
+num1 = 1 #user 1
+num2 = 1 #user 2
+while(num1 < 7):
+	num2 = num1
 	while(num2 < 7):
-		if(num1 < num2):
-			Output(num1, num2)
-			wordcomp1 = []
-			wordcomp2 = []
-			compreslut = []
-			arry_s1 = []
-			arry_s2 = []
+		#if(num1 < num2):
+		Output(num1, num2)
+		wordcomp1 = []
+		wordcomp2 = []
+		compreslut = []
+		arry_s1 = []
+		arry_s2 = []
 		num2 = num2 + 1
 	num1 = num1 + 1
 

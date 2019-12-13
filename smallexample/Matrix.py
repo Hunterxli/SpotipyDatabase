@@ -18,12 +18,14 @@ def Calavg():
 	
 	cal2 = 0
 	cal3 = 0
+	final = 0
 	
 	song1list = []
 	song2list = []
 	cal1list = []#similarity
 	cal2list = []#same artist
 	cal3list = []#same user for the artist
+	finlist = []
 	
 	avg = 0
 	k = 0
@@ -43,30 +45,34 @@ def Calavg():
 				calculation += float(item)
 				#avg = calculation / (i + 1)
 			#print(avg)
-			print("'{}' and '{}': {}".format(song1, song2, calculation))
+			#print("'{}' and '{}': {}".format(song1, song2, calculation))
 			cal2, cal3 = Calartist(song1, song2) #check if two songs belong to same artist
-			print("\n")
+			final = calculation + cal2 + cal3
+			#print("final result: {}".format(final))
+			print("'{}' and '{}': {}".format(song1, song2, final))
+			#print("\n")
 			song1list.append(song1)
 			song2list.append(song2)
 			cal1list.append(calculation)
 			cal2list.append(cal2)
 			cal3list.append(cal3)
+			finlist.append(final)
 			k = k + 1
 			calculation = 0
 			result = []
 		i = i + 1
-	print(song1list)
-	print(song2list)
-	print(cal1list)
-	print(cal2list)
-	print(cal3list)
+	# print(song1list)
+	# print(song2list)
+	# print(cal1list)
+	# print(cal2list)
+	# print(cal3list)
 	s = 0
 	csvFile = open("Fianl.csv", "w", newline='', encoding='utf-8')
-	fileHeader = ["song1", "song2", "similarity", "Cal_artist", "Cal_user"]
+	fileHeader = ["song1", "song2", "similarity", "Cal_artist", "Cal_user", "Cal_final"]
 	writer = csv.writer(csvFile)
 	writer.writerow(fileHeader)
 	while(s < len(song1list)):
-		d = [song1list[s], song2list[s], cal1list[s], cal2list[s], cal3list[s]]
+		d = [song1list[s], song2list[s], cal1list[s], cal2list[s], cal3list[s], finlist[s]]
 		writer.writerow(d)
 		s = s + 1
 	csvFile.close()
@@ -95,25 +101,25 @@ def Calartist(s1, s2):
 	#print("base on their artist calculation:")
 	if(artist1 == artist2):
 		calculation2 = 1
-		print("base on their artist calculation:{}/1".format(calculation2))
-	else:
-		print("base on their artist calculation:{}/1".format(calculation2))
+		#print("base on their artist calculation:{}".format(calculation2))
+	#else:
+		#print("base on their artist calculation:{}".format(calculation2))
 		
-	i = 0
-	while(i < len(data2)):
-		if(artist1 == data2.song_artist[i]):
-			user1 = data2.user[i]
-			i = i + 1
-		elif(artist2 == data2.song_artist[i]):
-			user2 = data2.user[i]
-			i = i + 1
+	j = 0
+	while(j < len(data2)):
+		if(artist1 == data2.song_artist[j]):
+			user1 = data2.user[j]
+			j = j + 1
+		elif(artist2 == data2.song_artist[j]):
+			user2 = data2.user[j]
+			j = j + 1
 		else:
-			i = i + 1
+			j = j + 1
 	if(user1 == user2):
 		calculation3 = 1
-		print("base on the same user like this atrist:{}/1".format(calculation3))
-	else:
-		print("base on the same user like this atrist:{}/1".format(calculation3))
+		#print("base on the same user like this atrist:{}".format(calculation3))
+	#else:
+		#print("base on the same user like this atrist:{}".format(calculation3))
 	return calculation2, calculation3
 
 

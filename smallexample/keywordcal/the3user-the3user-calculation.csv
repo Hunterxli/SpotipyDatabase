@@ -1,0 +1,1235 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Camera Talk,sun,camera,0.47058823529411764
+Sun Hands,Camera Talk,sun,talk,0.13333333333333333
+Sun Hands,Camera Talk,sun,camera,0.47058823529411764
+Sun Hands,Camera Talk,sun,talk,0.13333333333333333
+Sun Hands,Camera Talk,hands,camera,0.1111111111111111
+Sun Hands,Camera Talk,hands,talk,0.25
+Sun Hands,Camera Talk,hands,camera,0.1111111111111111
+Sun Hands,Camera Talk,hands,talk,0.25
+Sun Hands,Camera Talk,gorilla,camera,0.32
+Sun Hands,Camera Talk,gorilla,talk,0.08695652173913043
+Sun Hands,Camera Talk,gorilla,camera,0.32
+Sun Hands,Camera Talk,gorilla,talk,0.08695652173913043
+Sun Hands,Camera Talk,manor,camera,0.5263157894736842
+Sun Hands,Camera Talk,manor,talk,0.11764705882352941
+Sun Hands,Camera Talk,manor,camera,0.5263157894736842
+Sun Hands,Camera Talk,manor,talk,0.11764705882352941
+Sun Hands,Belle,sun,beautiful,0
+Sun Hands,Belle,sun,dreams,0.11764705882352941
+Sun Hands,Belle,hands,beautiful,0
+Sun Hands,Belle,hands,dreams,0.3333333333333333
+Sun Hands,Belle,gorilla,beautiful,0
+Sun Hands,Belle,gorilla,dreams,0.08
+Sun Hands,Belle,manor,beautiful,0
+Sun Hands,Belle,manor,dreams,0.10526315789473684
+Sun Hands,Auto Rock,sun,auto,0.42105263157894735
+Sun Hands,Auto Rock,sun,rock,0.7142857142857143
+Sun Hands,Auto Rock,sun,mr,0.11764705882352941
+Sun Hands,Auto Rock,sun,beast,0.5333333333333333
+Sun Hands,Auto Rock,hands,auto,0.1
+Sun Hands,Auto Rock,hands,rock,0.13333333333333333
+Sun Hands,Auto Rock,hands,mr,0.2222222222222222
+Sun Hands,Auto Rock,hands,beast,0.125
+Sun Hands,Auto Rock,gorilla,auto,0.2962962962962963
+Sun Hands,Auto Rock,gorilla,rock,0.36363636363636365
+Sun Hands,Auto Rock,gorilla,mr,0.08
+Sun Hands,Auto Rock,gorilla,beast,0.6086956521739131
+Sun Hands,Auto Rock,manor,auto,0.47619047619047616
+Sun Hands,Auto Rock,manor,rock,0.5
+Sun Hands,Auto Rock,manor,mr,0.10526315789473684
+Sun Hands,Auto Rock,manor,beast,0.47058823529411764
+Sun Hands,Who Knows Who Cares,sun,knows,0.125
+Sun Hands,Who Knows Who Cares,sun,cares,0.125
+Sun Hands,Who Knows Who Cares,sun,gorilla,0.3333333333333333
+Sun Hands,Who Knows Who Cares,sun,manor,0.4444444444444444
+Sun Hands,Who Knows Who Cares,hands,knows,0.35294117647058826
+Sun Hands,Who Knows Who Cares,hands,cares,0.5555555555555556
+Sun Hands,Who Knows Who Cares,hands,gorilla,0.08
+Sun Hands,Who Knows Who Cares,hands,manor,0.10526315789473684
+Sun Hands,Who Knows Who Cares,gorilla,knows,0.08333333333333333
+Sun Hands,Who Knows Who Cares,gorilla,cares,0.08333333333333333
+Sun Hands,Who Knows Who Cares,gorilla,gorilla,1.0
+Sun Hands,Who Knows Who Cares,gorilla,manor,0.3076923076923077
+Sun Hands,Who Knows Who Cares,manor,knows,0.1111111111111111
+Sun Hands,Who Knows Who Cares,manor,cares,0.1111111111111111
+Sun Hands,Who Knows Who Cares,manor,gorilla,0.3076923076923077
+Sun Hands,Who Knows Who Cares,manor,manor,1.0
+Sun Hands,Quiet,sun,quiet,0.21052631578947367
+Sun Hands,Quiet,sun,young,0.5
+Sun Hands,Quiet,sun,mountain,0.42857142857142855
+Sun Hands,Quiet,hands,quiet,0.1
+Sun Hands,Quiet,hands,young,0.11764705882352941
+Sun Hands,Quiet,hands,mountain,0.13333333333333333
+Sun Hands,Quiet,gorilla,quiet,0.14814814814814814
+Sun Hands,Quiet,gorilla,young,0.5833333333333334
+Sun Hands,Quiet,gorilla,mountain,0.2727272727272727
+Sun Hands,Quiet,manor,quiet,0.19047619047619047
+Sun Hands,Quiet,manor,young,0.4444444444444444
+Sun Hands,Quiet,manor,mountain,0.375
+Sun Hands,Girlfriend,sun,girlfriend,0.47058823529411764
+Sun Hands,Girlfriend,sun,phoenix,0.3157894736842105
+Sun Hands,Girlfriend,hands,girlfriend,0.13333333333333333
+Sun Hands,Girlfriend,hands,phoenix,0.1
+Sun Hands,Girlfriend,gorilla,girlfriend,0.48
+Sun Hands,Girlfriend,gorilla,phoenix,0.2222222222222222
+Sun Hands,Girlfriend,manor,girlfriend,0.42105263157894735
+Sun Hands,Girlfriend,manor,phoenix,0.2857142857142857
+Sun Hands,Happiness: We're All In It Together,sun,together,0
+Sun Hands,Happiness: We're All In It Together,sun,happiness,0.125
+Sun Hands,Happiness: We're All In It Together,sun,young,0.5
+Sun Hands,Happiness: We're All In It Together,sun,mountain,0.42857142857142855
+Sun Hands,Happiness: We're All In It Together,hands,together,0
+Sun Hands,Happiness: We're All In It Together,hands,happiness,0.23529411764705882
+Sun Hands,Happiness: We're All In It Together,hands,young,0.11764705882352941
+Sun Hands,Happiness: We're All In It Together,hands,mountain,0.13333333333333333
+Sun Hands,Happiness: We're All In It Together,gorilla,together,0
+Sun Hands,Happiness: We're All In It Together,gorilla,happiness,0.08333333333333333
+Sun Hands,Happiness: We're All In It Together,gorilla,young,0.5833333333333334
+Sun Hands,Happiness: We're All In It Together,gorilla,mountain,0.2727272727272727
+Sun Hands,Happiness: We're All In It Together,manor,together,0
+Sun Hands,Happiness: We're All In It Together,manor,happiness,0.1111111111111111
+Sun Hands,Happiness: We're All In It Together,manor,young,0.4444444444444444
+Sun Hands,Happiness: We're All In It Together,manor,mountain,0.375
+Sun Hands,Armistice,sun,armistice,0.13333333333333333
+Sun Hands,Armistice,sun,phoenix,0.3157894736842105
+Sun Hands,Armistice,hands,armistice,0.25
+Sun Hands,Armistice,hands,phoenix,0.1
+Sun Hands,Armistice,gorilla,armistice,0.08695652173913043
+Sun Hands,Armistice,gorilla,phoenix,0.2222222222222222
+Sun Hands,Armistice,manor,armistice,0.11764705882352941
+Sun Hands,Armistice,manor,phoenix,0.2857142857142857
+Sun Hands,There Are Some Remedies Worse Than The Disease,sun,remedies,0.10526315789473684
+Sun Hands,There Are Some Remedies Worse Than The Disease,sun,worse,0.14285714285714285
+Sun Hands,There Are Some Remedies Worse Than The Disease,sun,disease,0.1111111111111111
+Sun Hands,There Are Some Remedies Worse Than The Disease,sun,young,0.5
+Sun Hands,There Are Some Remedies Worse Than The Disease,sun,mountain,0.42857142857142855
+Sun Hands,There Are Some Remedies Worse Than The Disease,hands,remedies,0.47619047619047616
+Sun Hands,There Are Some Remedies Worse Than The Disease,hands,worse,0.26666666666666666
+Sun Hands,There Are Some Remedies Worse Than The Disease,hands,disease,0.21052631578947367
+Sun Hands,There Are Some Remedies Worse Than The Disease,hands,young,0.11764705882352941
+Sun Hands,There Are Some Remedies Worse Than The Disease,hands,mountain,0.13333333333333333
+Sun Hands,There Are Some Remedies Worse Than The Disease,gorilla,remedies,0.07407407407407407
+Sun Hands,There Are Some Remedies Worse Than The Disease,gorilla,worse,0.09090909090909091
+Sun Hands,There Are Some Remedies Worse Than The Disease,gorilla,disease,0.07692307692307693
+Sun Hands,There Are Some Remedies Worse Than The Disease,gorilla,young,0.5833333333333334
+Sun Hands,There Are Some Remedies Worse Than The Disease,gorilla,mountain,0.2727272727272727
+Sun Hands,There Are Some Remedies Worse Than The Disease,manor,remedies,0.09523809523809523
+Sun Hands,There Are Some Remedies Worse Than The Disease,manor,worse,0.125
+Sun Hands,There Are Some Remedies Worse Than The Disease,manor,disease,0.1
+Sun Hands,There Are Some Remedies Worse Than The Disease,manor,young,0.4444444444444444
+Sun Hands,There Are Some Remedies Worse Than The Disease,manor,mountain,0.375
+Sun Hands,Swimming In The Flood,sun,swimming,0.1111111111111111
+Sun Hands,Swimming In The Flood,sun,flood,0.26666666666666666
+Sun Hands,Swimming In The Flood,sun,manners,0.14285714285714285
+Sun Hands,Swimming In The Flood,hands,swimming,0.5
+Sun Hands,Swimming In The Flood,hands,flood,0.125
+Sun Hands,Swimming In The Flood,hands,manners,0.26666666666666666
+Sun Hands,Swimming In The Flood,gorilla,swimming,0.07692307692307693
+Sun Hands,Swimming In The Flood,gorilla,flood,0.17391304347826086
+Sun Hands,Swimming In The Flood,gorilla,manners,0.09090909090909091
+Sun Hands,Swimming In The Flood,manor,swimming,0.1
+Sun Hands,Swimming In The Flood,manor,flood,0.23529411764705882
+Sun Hands,Swimming In The Flood,manor,manners,0.125
+Camera Talk,Sun Hands,camera,sun,0.47058823529411764
+Camera Talk,Sun Hands,camera,hands,0.1111111111111111
+Camera Talk,Sun Hands,camera,gorilla,0.32
+Camera Talk,Sun Hands,camera,manor,0.5263157894736842
+Camera Talk,Sun Hands,talk,sun,0.13333333333333333
+Camera Talk,Sun Hands,talk,hands,0.25
+Camera Talk,Sun Hands,talk,gorilla,0.08695652173913043
+Camera Talk,Sun Hands,talk,manor,0.11764705882352941
+Camera Talk,Sun Hands,camera,sun,0.47058823529411764
+Camera Talk,Sun Hands,camera,hands,0.1111111111111111
+Camera Talk,Sun Hands,camera,gorilla,0.32
+Camera Talk,Sun Hands,camera,manor,0.5263157894736842
+Camera Talk,Sun Hands,talk,sun,0.13333333333333333
+Camera Talk,Sun Hands,talk,hands,0.25
+Camera Talk,Sun Hands,talk,gorilla,0.08695652173913043
+Camera Talk,Sun Hands,talk,manor,0.11764705882352941
+Camera Talk,Belle,camera,beautiful,0
+Camera Talk,Belle,camera,dreams,0.1111111111111111
+Camera Talk,Belle,talk,beautiful,0
+Camera Talk,Belle,talk,dreams,0.25
+Camera Talk,Belle,camera,beautiful,0
+Camera Talk,Belle,camera,dreams,0.1111111111111111
+Camera Talk,Belle,talk,beautiful,0
+Camera Talk,Belle,talk,dreams,0.25
+Camera Talk,Auto Rock,camera,auto,0.6
+Camera Talk,Auto Rock,camera,rock,0.5333333333333333
+Camera Talk,Auto Rock,camera,mr,0.1111111111111111
+Camera Talk,Auto Rock,camera,beast,0.5
+Camera Talk,Auto Rock,talk,auto,0.1111111111111111
+Camera Talk,Auto Rock,talk,rock,0.15384615384615385
+Camera Talk,Auto Rock,talk,mr,0.25
+Camera Talk,Auto Rock,talk,beast,0.14285714285714285
+Camera Talk,Auto Rock,camera,auto,0.6
+Camera Talk,Auto Rock,camera,rock,0.5333333333333333
+Camera Talk,Auto Rock,camera,mr,0.1111111111111111
+Camera Talk,Auto Rock,camera,beast,0.5
+Camera Talk,Auto Rock,talk,auto,0.1111111111111111
+Camera Talk,Auto Rock,talk,rock,0.15384615384615385
+Camera Talk,Auto Rock,talk,mr,0.25
+Camera Talk,Auto Rock,talk,beast,0.14285714285714285
+Camera Talk,Who Knows Who Cares,camera,knows,0.11764705882352941
+Camera Talk,Who Knows Who Cares,camera,cares,0.11764705882352941
+Camera Talk,Who Knows Who Cares,camera,gorilla,0.32
+Camera Talk,Who Knows Who Cares,camera,manor,0.5263157894736842
+Camera Talk,Who Knows Who Cares,talk,knows,0.26666666666666666
+Camera Talk,Who Knows Who Cares,talk,cares,0.26666666666666666
+Camera Talk,Who Knows Who Cares,talk,gorilla,0.08695652173913043
+Camera Talk,Who Knows Who Cares,talk,manor,0.11764705882352941
+Camera Talk,Who Knows Who Cares,camera,knows,0.11764705882352941
+Camera Talk,Who Knows Who Cares,camera,cares,0.11764705882352941
+Camera Talk,Who Knows Who Cares,camera,gorilla,0.32
+Camera Talk,Who Knows Who Cares,camera,manor,0.5263157894736842
+Camera Talk,Who Knows Who Cares,talk,knows,0.26666666666666666
+Camera Talk,Who Knows Who Cares,talk,cares,0.26666666666666666
+Camera Talk,Who Knows Who Cares,talk,gorilla,0.08695652173913043
+Camera Talk,Who Knows Who Cares,talk,manor,0.11764705882352941
+Camera Talk,Quiet,camera,quiet,0.2
+Camera Talk,Quiet,camera,young,0.47058823529411764
+Camera Talk,Quiet,camera,mountain,0.4
+Camera Talk,Quiet,talk,quiet,0.1111111111111111
+Camera Talk,Quiet,talk,young,0.13333333333333333
+Camera Talk,Quiet,talk,mountain,0.15384615384615385
+Camera Talk,Quiet,camera,quiet,0.2
+Camera Talk,Quiet,camera,young,0.47058823529411764
+Camera Talk,Quiet,camera,mountain,0.4
+Camera Talk,Quiet,talk,quiet,0.1111111111111111
+Camera Talk,Quiet,talk,young,0.13333333333333333
+Camera Talk,Quiet,talk,mountain,0.15384615384615385
+Camera Talk,Girlfriend,camera,girlfriend,0.4444444444444444
+Camera Talk,Girlfriend,camera,phoenix,0.3
+Camera Talk,Girlfriend,talk,girlfriend,0.15384615384615385
+Camera Talk,Girlfriend,talk,phoenix,0.1111111111111111
+Camera Talk,Girlfriend,camera,girlfriend,0.4444444444444444
+Camera Talk,Girlfriend,camera,phoenix,0.3
+Camera Talk,Girlfriend,talk,girlfriend,0.15384615384615385
+Camera Talk,Girlfriend,talk,phoenix,0.1111111111111111
+Camera Talk,Happiness: We're All In It Together,camera,together,0
+Camera Talk,Happiness: We're All In It Together,camera,happiness,0.11764705882352941
+Camera Talk,Happiness: We're All In It Together,camera,young,0.47058823529411764
+Camera Talk,Happiness: We're All In It Together,camera,mountain,0.4
+Camera Talk,Happiness: We're All In It Together,talk,together,0
+Camera Talk,Happiness: We're All In It Together,talk,happiness,0.26666666666666666
+Camera Talk,Happiness: We're All In It Together,talk,young,0.13333333333333333
+Camera Talk,Happiness: We're All In It Together,talk,mountain,0.15384615384615385
+Camera Talk,Happiness: We're All In It Together,camera,together,0
+Camera Talk,Happiness: We're All In It Together,camera,happiness,0.11764705882352941
+Camera Talk,Happiness: We're All In It Together,camera,young,0.47058823529411764
+Camera Talk,Happiness: We're All In It Together,camera,mountain,0.4
+Camera Talk,Happiness: We're All In It Together,talk,together,0
+Camera Talk,Happiness: We're All In It Together,talk,happiness,0.26666666666666666
+Camera Talk,Happiness: We're All In It Together,talk,young,0.13333333333333333
+Camera Talk,Happiness: We're All In It Together,talk,mountain,0.15384615384615385
+Camera Talk,Armistice,camera,armistice,0.125
+Camera Talk,Armistice,camera,phoenix,0.3
+Camera Talk,Armistice,talk,armistice,0.2857142857142857
+Camera Talk,Armistice,talk,phoenix,0.1111111111111111
+Camera Talk,Armistice,camera,armistice,0.125
+Camera Talk,Armistice,camera,phoenix,0.3
+Camera Talk,Armistice,talk,armistice,0.2857142857142857
+Camera Talk,Armistice,talk,phoenix,0.1111111111111111
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,remedies,0.1
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,worse,0.13333333333333333
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,disease,0.10526315789473684
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,young,0.47058823529411764
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,mountain,0.4
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,remedies,0.2222222222222222
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,worse,0.3076923076923077
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,disease,0.23529411764705882
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,young,0.13333333333333333
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,mountain,0.15384615384615385
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,remedies,0.1
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,worse,0.13333333333333333
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,disease,0.10526315789473684
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,young,0.47058823529411764
+Camera Talk,There Are Some Remedies Worse Than The Disease,camera,mountain,0.4
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,remedies,0.2222222222222222
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,worse,0.3076923076923077
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,disease,0.23529411764705882
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,young,0.13333333333333333
+Camera Talk,There Are Some Remedies Worse Than The Disease,talk,mountain,0.15384615384615385
+Camera Talk,Swimming In The Flood,camera,swimming,0.10526315789473684
+Camera Talk,Swimming In The Flood,camera,flood,0.25
+Camera Talk,Swimming In The Flood,camera,manners,0.13333333333333333
+Camera Talk,Swimming In The Flood,talk,swimming,0.23529411764705882
+Camera Talk,Swimming In The Flood,talk,flood,0.14285714285714285
+Camera Talk,Swimming In The Flood,talk,manners,0.3076923076923077
+Camera Talk,Swimming In The Flood,camera,swimming,0.10526315789473684
+Camera Talk,Swimming In The Flood,camera,flood,0.25
+Camera Talk,Swimming In The Flood,camera,manners,0.13333333333333333
+Camera Talk,Swimming In The Flood,talk,swimming,0.23529411764705882
+Camera Talk,Swimming In The Flood,talk,flood,0.14285714285714285
+Camera Talk,Swimming In The Flood,talk,manners,0.3076923076923077
+Belle,Sun Hands,beautiful,sun,0
+Belle,Sun Hands,beautiful,hands,0
+Belle,Sun Hands,beautiful,gorilla,0
+Belle,Sun Hands,beautiful,manor,0
+Belle,Sun Hands,dreams,sun,0.11764705882352941
+Belle,Sun Hands,dreams,hands,0.3333333333333333
+Belle,Sun Hands,dreams,gorilla,0.08
+Belle,Sun Hands,dreams,manor,0.10526315789473684
+Belle,Camera Talk,beautiful,camera,0
+Belle,Camera Talk,beautiful,talk,0
+Belle,Camera Talk,beautiful,camera,0
+Belle,Camera Talk,beautiful,talk,0
+Belle,Camera Talk,dreams,camera,0.1111111111111111
+Belle,Camera Talk,dreams,talk,0.25
+Belle,Camera Talk,dreams,camera,0.1111111111111111
+Belle,Camera Talk,dreams,talk,0.25
+Belle,Auto Rock,beautiful,auto,0
+Belle,Auto Rock,beautiful,rock,0
+Belle,Auto Rock,beautiful,mr,0
+Belle,Auto Rock,beautiful,beast,0
+Belle,Auto Rock,dreams,auto,0.1
+Belle,Auto Rock,dreams,rock,0.13333333333333333
+Belle,Auto Rock,dreams,mr,0.2222222222222222
+Belle,Auto Rock,dreams,beast,0.125
+Belle,Who Knows Who Cares,beautiful,knows,0
+Belle,Who Knows Who Cares,beautiful,cares,0
+Belle,Who Knows Who Cares,beautiful,gorilla,0
+Belle,Who Knows Who Cares,beautiful,manor,0
+Belle,Who Knows Who Cares,dreams,knows,0.5882352941176471
+Belle,Who Knows Who Cares,dreams,cares,0.35294117647058826
+Belle,Who Knows Who Cares,dreams,gorilla,0.08
+Belle,Who Knows Who Cares,dreams,manor,0.10526315789473684
+Belle,Quiet,beautiful,quiet,0
+Belle,Quiet,beautiful,young,0
+Belle,Quiet,beautiful,mountain,0
+Belle,Quiet,dreams,quiet,0.1
+Belle,Quiet,dreams,young,0.11764705882352941
+Belle,Quiet,dreams,mountain,0.13333333333333333
+Belle,Girlfriend,beautiful,girlfriend,0
+Belle,Girlfriend,beautiful,phoenix,0
+Belle,Girlfriend,dreams,girlfriend,0.13333333333333333
+Belle,Girlfriend,dreams,phoenix,0.1
+Belle,Happiness: We're All In It Together,beautiful,together,0
+Belle,Happiness: We're All In It Together,beautiful,happiness,0
+Belle,Happiness: We're All In It Together,beautiful,young,0
+Belle,Happiness: We're All In It Together,beautiful,mountain,0
+Belle,Happiness: We're All In It Together,dreams,together,0
+Belle,Happiness: We're All In It Together,dreams,happiness,0.23529411764705882
+Belle,Happiness: We're All In It Together,dreams,young,0.11764705882352941
+Belle,Happiness: We're All In It Together,dreams,mountain,0.13333333333333333
+Belle,Armistice,beautiful,armistice,0
+Belle,Armistice,beautiful,phoenix,0
+Belle,Armistice,dreams,armistice,0.25
+Belle,Armistice,dreams,phoenix,0.1
+Belle,There Are Some Remedies Worse Than The Disease,beautiful,remedies,0
+Belle,There Are Some Remedies Worse Than The Disease,beautiful,worse,0
+Belle,There Are Some Remedies Worse Than The Disease,beautiful,disease,0
+Belle,There Are Some Remedies Worse Than The Disease,beautiful,young,0
+Belle,There Are Some Remedies Worse Than The Disease,beautiful,mountain,0
+Belle,There Are Some Remedies Worse Than The Disease,dreams,remedies,0.3
+Belle,There Are Some Remedies Worse Than The Disease,dreams,worse,0.26666666666666666
+Belle,There Are Some Remedies Worse Than The Disease,dreams,disease,0.21052631578947367
+Belle,There Are Some Remedies Worse Than The Disease,dreams,young,0.11764705882352941
+Belle,There Are Some Remedies Worse Than The Disease,dreams,mountain,0.13333333333333333
+Belle,Swimming In The Flood,beautiful,swimming,0
+Belle,Swimming In The Flood,beautiful,flood,0
+Belle,Swimming In The Flood,beautiful,manners,0
+Belle,Swimming In The Flood,dreams,swimming,0.3157894736842105
+Belle,Swimming In The Flood,dreams,flood,0.125
+Belle,Swimming In The Flood,dreams,manners,0.26666666666666666
+Auto Rock,Sun Hands,auto,sun,0.42105263157894735
+Auto Rock,Sun Hands,auto,hands,0.1
+Auto Rock,Sun Hands,auto,gorilla,0.2962962962962963
+Auto Rock,Sun Hands,auto,manor,0.47619047619047616
+Auto Rock,Sun Hands,rock,sun,0.7142857142857143
+Auto Rock,Sun Hands,rock,hands,0.13333333333333333
+Auto Rock,Sun Hands,rock,gorilla,0.36363636363636365
+Auto Rock,Sun Hands,rock,manor,0.5
+Auto Rock,Sun Hands,mr,sun,0.11764705882352941
+Auto Rock,Sun Hands,mr,hands,0.2222222222222222
+Auto Rock,Sun Hands,mr,gorilla,0.08
+Auto Rock,Sun Hands,mr,manor,0.10526315789473684
+Auto Rock,Sun Hands,beast,sun,0.5333333333333333
+Auto Rock,Sun Hands,beast,hands,0.125
+Auto Rock,Sun Hands,beast,gorilla,0.6086956521739131
+Auto Rock,Sun Hands,beast,manor,0.47058823529411764
+Auto Rock,Camera Talk,auto,camera,0.6
+Auto Rock,Camera Talk,auto,talk,0.1111111111111111
+Auto Rock,Camera Talk,auto,camera,0.6
+Auto Rock,Camera Talk,auto,talk,0.1111111111111111
+Auto Rock,Camera Talk,rock,camera,0.5333333333333333
+Auto Rock,Camera Talk,rock,talk,0.15384615384615385
+Auto Rock,Camera Talk,rock,camera,0.5333333333333333
+Auto Rock,Camera Talk,rock,talk,0.15384615384615385
+Auto Rock,Camera Talk,mr,camera,0.1111111111111111
+Auto Rock,Camera Talk,mr,talk,0.25
+Auto Rock,Camera Talk,mr,camera,0.1111111111111111
+Auto Rock,Camera Talk,mr,talk,0.25
+Auto Rock,Camera Talk,beast,camera,0.5
+Auto Rock,Camera Talk,beast,talk,0.14285714285714285
+Auto Rock,Camera Talk,beast,camera,0.5
+Auto Rock,Camera Talk,beast,talk,0.14285714285714285
+Auto Rock,Belle,auto,beautiful,0
+Auto Rock,Belle,auto,dreams,0.1
+Auto Rock,Belle,rock,beautiful,0
+Auto Rock,Belle,rock,dreams,0.13333333333333333
+Auto Rock,Belle,mr,beautiful,0
+Auto Rock,Belle,mr,dreams,0.2222222222222222
+Auto Rock,Belle,beast,beautiful,0
+Auto Rock,Belle,beast,dreams,0.125
+Auto Rock,Who Knows Who Cares,auto,knows,0.10526315789473684
+Auto Rock,Who Knows Who Cares,auto,cares,0.10526315789473684
+Auto Rock,Who Knows Who Cares,auto,gorilla,0.2962962962962963
+Auto Rock,Who Knows Who Cares,auto,manor,0.47619047619047616
+Auto Rock,Who Knows Who Cares,rock,knows,0.14285714285714285
+Auto Rock,Who Knows Who Cares,rock,cares,0.14285714285714285
+Auto Rock,Who Knows Who Cares,rock,gorilla,0.36363636363636365
+Auto Rock,Who Knows Who Cares,rock,manor,0.5
+Auto Rock,Who Knows Who Cares,mr,knows,0.23529411764705882
+Auto Rock,Who Knows Who Cares,mr,cares,0.23529411764705882
+Auto Rock,Who Knows Who Cares,mr,gorilla,0.08
+Auto Rock,Who Knows Who Cares,mr,manor,0.10526315789473684
+Auto Rock,Who Knows Who Cares,beast,knows,0.13333333333333333
+Auto Rock,Who Knows Who Cares,beast,cares,0.13333333333333333
+Auto Rock,Who Knows Who Cares,beast,gorilla,0.6086956521739131
+Auto Rock,Who Knows Who Cares,beast,manor,0.47058823529411764
+Auto Rock,Quiet,auto,quiet,0.18181818181818182
+Auto Rock,Quiet,auto,young,0.42105263157894735
+Auto Rock,Quiet,auto,mountain,0.35294117647058826
+Auto Rock,Quiet,rock,quiet,0.23529411764705882
+Auto Rock,Quiet,rock,young,0.5714285714285714
+Auto Rock,Quiet,rock,mountain,0.5
+Auto Rock,Quiet,mr,quiet,0.1
+Auto Rock,Quiet,mr,young,0.11764705882352941
+Auto Rock,Quiet,mr,mountain,0.13333333333333333
+Auto Rock,Quiet,beast,quiet,0.2222222222222222
+Auto Rock,Quiet,beast,young,0.9333333333333333
+Auto Rock,Quiet,beast,mountain,0.46153846153846156
+Auto Rock,Girlfriend,auto,girlfriend,0.4
+Auto Rock,Girlfriend,auto,phoenix,0.2727272727272727
+Auto Rock,Girlfriend,rock,girlfriend,0.5333333333333333
+Auto Rock,Girlfriend,rock,phoenix,0.35294117647058826
+Auto Rock,Girlfriend,mr,girlfriend,0.13333333333333333
+Auto Rock,Girlfriend,mr,phoenix,0.1
+Auto Rock,Girlfriend,beast,girlfriend,0.75
+Auto Rock,Girlfriend,beast,phoenix,0.3333333333333333
+Auto Rock,Happiness: We're All In It Together,auto,together,0
+Auto Rock,Happiness: We're All In It Together,auto,happiness,0.10526315789473684
+Auto Rock,Happiness: We're All In It Together,auto,young,0.42105263157894735
+Auto Rock,Happiness: We're All In It Together,auto,mountain,0.35294117647058826
+Auto Rock,Happiness: We're All In It Together,rock,together,0
+Auto Rock,Happiness: We're All In It Together,rock,happiness,0.14285714285714285
+Auto Rock,Happiness: We're All In It Together,rock,young,0.5714285714285714
+Auto Rock,Happiness: We're All In It Together,rock,mountain,0.5
+Auto Rock,Happiness: We're All In It Together,mr,together,0
+Auto Rock,Happiness: We're All In It Together,mr,happiness,0.23529411764705882
+Auto Rock,Happiness: We're All In It Together,mr,young,0.11764705882352941
+Auto Rock,Happiness: We're All In It Together,mr,mountain,0.13333333333333333
+Auto Rock,Happiness: We're All In It Together,beast,together,0
+Auto Rock,Happiness: We're All In It Together,beast,happiness,0.13333333333333333
+Auto Rock,Happiness: We're All In It Together,beast,young,0.9333333333333333
+Auto Rock,Happiness: We're All In It Together,beast,mountain,0.46153846153846156
+Auto Rock,Armistice,auto,armistice,0.1111111111111111
+Auto Rock,Armistice,auto,phoenix,0.2727272727272727
+Auto Rock,Armistice,rock,armistice,0.15384615384615385
+Auto Rock,Armistice,rock,phoenix,0.35294117647058826
+Auto Rock,Armistice,mr,armistice,0.25
+Auto Rock,Armistice,mr,phoenix,0.1
+Auto Rock,Armistice,beast,armistice,0.14285714285714285
+Auto Rock,Armistice,beast,phoenix,0.3333333333333333
+Auto Rock,There Are Some Remedies Worse Than The Disease,auto,remedies,0.09090909090909091
+Auto Rock,There Are Some Remedies Worse Than The Disease,auto,worse,0.11764705882352941
+Auto Rock,There Are Some Remedies Worse Than The Disease,auto,disease,0.09523809523809523
+Auto Rock,There Are Some Remedies Worse Than The Disease,auto,young,0.42105263157894735
+Auto Rock,There Are Some Remedies Worse Than The Disease,auto,mountain,0.35294117647058826
+Auto Rock,There Are Some Remedies Worse Than The Disease,rock,remedies,0.11764705882352941
+Auto Rock,There Are Some Remedies Worse Than The Disease,rock,worse,0.16666666666666666
+Auto Rock,There Are Some Remedies Worse Than The Disease,rock,disease,0.125
+Auto Rock,There Are Some Remedies Worse Than The Disease,rock,young,0.5714285714285714
+Auto Rock,There Are Some Remedies Worse Than The Disease,rock,mountain,0.5
+Auto Rock,There Are Some Remedies Worse Than The Disease,mr,remedies,0.2
+Auto Rock,There Are Some Remedies Worse Than The Disease,mr,worse,0.26666666666666666
+Auto Rock,There Are Some Remedies Worse Than The Disease,mr,disease,0.21052631578947367
+Auto Rock,There Are Some Remedies Worse Than The Disease,mr,young,0.11764705882352941
+Auto Rock,There Are Some Remedies Worse Than The Disease,mr,mountain,0.13333333333333333
+Auto Rock,There Are Some Remedies Worse Than The Disease,beast,remedies,0.1111111111111111
+Auto Rock,There Are Some Remedies Worse Than The Disease,beast,worse,0.15384615384615385
+Auto Rock,There Are Some Remedies Worse Than The Disease,beast,disease,0.11764705882352941
+Auto Rock,There Are Some Remedies Worse Than The Disease,beast,young,0.9333333333333333
+Auto Rock,There Are Some Remedies Worse Than The Disease,beast,mountain,0.46153846153846156
+Auto Rock,Swimming In The Flood,auto,swimming,0.09523809523809523
+Auto Rock,Swimming In The Flood,auto,flood,0.2222222222222222
+Auto Rock,Swimming In The Flood,auto,manners,0.11764705882352941
+Auto Rock,Swimming In The Flood,rock,swimming,0.125
+Auto Rock,Swimming In The Flood,rock,flood,0.3076923076923077
+Auto Rock,Swimming In The Flood,rock,manners,0.16666666666666666
+Auto Rock,Swimming In The Flood,mr,swimming,0.21052631578947367
+Auto Rock,Swimming In The Flood,mr,flood,0.125
+Auto Rock,Swimming In The Flood,mr,manners,0.26666666666666666
+Auto Rock,Swimming In The Flood,beast,swimming,0.11764705882352941
+Auto Rock,Swimming In The Flood,beast,flood,0.2857142857142857
+Auto Rock,Swimming In The Flood,beast,manners,0.15384615384615385
+Who Knows Who Cares,Sun Hands,knows,sun,0.125
+Who Knows Who Cares,Sun Hands,knows,hands,0.35294117647058826
+Who Knows Who Cares,Sun Hands,knows,gorilla,0.08333333333333333
+Who Knows Who Cares,Sun Hands,knows,manor,0.1111111111111111
+Who Knows Who Cares,Sun Hands,cares,sun,0.125
+Who Knows Who Cares,Sun Hands,cares,hands,0.5555555555555556
+Who Knows Who Cares,Sun Hands,cares,gorilla,0.08333333333333333
+Who Knows Who Cares,Sun Hands,cares,manor,0.1111111111111111
+Who Knows Who Cares,Sun Hands,gorilla,sun,0.3333333333333333
+Who Knows Who Cares,Sun Hands,gorilla,hands,0.08
+Who Knows Who Cares,Sun Hands,gorilla,gorilla,1.0
+Who Knows Who Cares,Sun Hands,gorilla,manor,0.3076923076923077
+Who Knows Who Cares,Sun Hands,manor,sun,0.4444444444444444
+Who Knows Who Cares,Sun Hands,manor,hands,0.10526315789473684
+Who Knows Who Cares,Sun Hands,manor,gorilla,0.3076923076923077
+Who Knows Who Cares,Sun Hands,manor,manor,1.0
+Who Knows Who Cares,Camera Talk,knows,camera,0.11764705882352941
+Who Knows Who Cares,Camera Talk,knows,talk,0.26666666666666666
+Who Knows Who Cares,Camera Talk,knows,camera,0.11764705882352941
+Who Knows Who Cares,Camera Talk,knows,talk,0.26666666666666666
+Who Knows Who Cares,Camera Talk,cares,camera,0.11764705882352941
+Who Knows Who Cares,Camera Talk,cares,talk,0.26666666666666666
+Who Knows Who Cares,Camera Talk,cares,camera,0.11764705882352941
+Who Knows Who Cares,Camera Talk,cares,talk,0.26666666666666666
+Who Knows Who Cares,Camera Talk,gorilla,camera,0.32
+Who Knows Who Cares,Camera Talk,gorilla,talk,0.08695652173913043
+Who Knows Who Cares,Camera Talk,gorilla,camera,0.32
+Who Knows Who Cares,Camera Talk,gorilla,talk,0.08695652173913043
+Who Knows Who Cares,Camera Talk,manor,camera,0.5263157894736842
+Who Knows Who Cares,Camera Talk,manor,talk,0.11764705882352941
+Who Knows Who Cares,Camera Talk,manor,camera,0.5263157894736842
+Who Knows Who Cares,Camera Talk,manor,talk,0.11764705882352941
+Who Knows Who Cares,Belle,knows,beautiful,0
+Who Knows Who Cares,Belle,knows,dreams,0.5882352941176471
+Who Knows Who Cares,Belle,cares,beautiful,0
+Who Knows Who Cares,Belle,cares,dreams,0.35294117647058826
+Who Knows Who Cares,Belle,gorilla,beautiful,0
+Who Knows Who Cares,Belle,gorilla,dreams,0.08
+Who Knows Who Cares,Belle,manor,beautiful,0
+Who Knows Who Cares,Belle,manor,dreams,0.10526315789473684
+Who Knows Who Cares,Auto Rock,knows,auto,0.10526315789473684
+Who Knows Who Cares,Auto Rock,knows,rock,0.14285714285714285
+Who Knows Who Cares,Auto Rock,knows,mr,0.23529411764705882
+Who Knows Who Cares,Auto Rock,knows,beast,0.13333333333333333
+Who Knows Who Cares,Auto Rock,cares,auto,0.10526315789473684
+Who Knows Who Cares,Auto Rock,cares,rock,0.14285714285714285
+Who Knows Who Cares,Auto Rock,cares,mr,0.23529411764705882
+Who Knows Who Cares,Auto Rock,cares,beast,0.13333333333333333
+Who Knows Who Cares,Auto Rock,gorilla,auto,0.2962962962962963
+Who Knows Who Cares,Auto Rock,gorilla,rock,0.36363636363636365
+Who Knows Who Cares,Auto Rock,gorilla,mr,0.08
+Who Knows Who Cares,Auto Rock,gorilla,beast,0.6086956521739131
+Who Knows Who Cares,Auto Rock,manor,auto,0.47619047619047616
+Who Knows Who Cares,Auto Rock,manor,rock,0.5
+Who Knows Who Cares,Auto Rock,manor,mr,0.10526315789473684
+Who Knows Who Cares,Auto Rock,manor,beast,0.47058823529411764
+Who Knows Who Cares,Quiet,knows,quiet,0.10526315789473684
+Who Knows Who Cares,Quiet,knows,young,0.125
+Who Knows Who Cares,Quiet,knows,mountain,0.14285714285714285
+Who Knows Who Cares,Quiet,cares,quiet,0.10526315789473684
+Who Knows Who Cares,Quiet,cares,young,0.125
+Who Knows Who Cares,Quiet,cares,mountain,0.14285714285714285
+Who Knows Who Cares,Quiet,gorilla,quiet,0.14814814814814814
+Who Knows Who Cares,Quiet,gorilla,young,0.5833333333333334
+Who Knows Who Cares,Quiet,gorilla,mountain,0.2727272727272727
+Who Knows Who Cares,Quiet,manor,quiet,0.19047619047619047
+Who Knows Who Cares,Quiet,manor,young,0.4444444444444444
+Who Knows Who Cares,Quiet,manor,mountain,0.375
+Who Knows Who Cares,Girlfriend,knows,girlfriend,0.14285714285714285
+Who Knows Who Cares,Girlfriend,knows,phoenix,0.10526315789473684
+Who Knows Who Cares,Girlfriend,cares,girlfriend,0.14285714285714285
+Who Knows Who Cares,Girlfriend,cares,phoenix,0.10526315789473684
+Who Knows Who Cares,Girlfriend,gorilla,girlfriend,0.48
+Who Knows Who Cares,Girlfriend,gorilla,phoenix,0.2222222222222222
+Who Knows Who Cares,Girlfriend,manor,girlfriend,0.42105263157894735
+Who Knows Who Cares,Girlfriend,manor,phoenix,0.2857142857142857
+Who Knows Who Cares,Happiness: We're All In It Together,knows,together,0
+Who Knows Who Cares,Happiness: We're All In It Together,knows,happiness,0.25
+Who Knows Who Cares,Happiness: We're All In It Together,knows,young,0.125
+Who Knows Who Cares,Happiness: We're All In It Together,knows,mountain,0.14285714285714285
+Who Knows Who Cares,Happiness: We're All In It Together,cares,together,0
+Who Knows Who Cares,Happiness: We're All In It Together,cares,happiness,0.25
+Who Knows Who Cares,Happiness: We're All In It Together,cares,young,0.125
+Who Knows Who Cares,Happiness: We're All In It Together,cares,mountain,0.14285714285714285
+Who Knows Who Cares,Happiness: We're All In It Together,gorilla,together,0
+Who Knows Who Cares,Happiness: We're All In It Together,gorilla,happiness,0.08333333333333333
+Who Knows Who Cares,Happiness: We're All In It Together,gorilla,young,0.5833333333333334
+Who Knows Who Cares,Happiness: We're All In It Together,gorilla,mountain,0.2727272727272727
+Who Knows Who Cares,Happiness: We're All In It Together,manor,together,0
+Who Knows Who Cares,Happiness: We're All In It Together,manor,happiness,0.1111111111111111
+Who Knows Who Cares,Happiness: We're All In It Together,manor,young,0.4444444444444444
+Who Knows Who Cares,Happiness: We're All In It Together,manor,mountain,0.375
+Who Knows Who Cares,Armistice,knows,armistice,0.26666666666666666
+Who Knows Who Cares,Armistice,knows,phoenix,0.10526315789473684
+Who Knows Who Cares,Armistice,cares,armistice,0.26666666666666666
+Who Knows Who Cares,Armistice,cares,phoenix,0.10526315789473684
+Who Knows Who Cares,Armistice,gorilla,armistice,0.08695652173913043
+Who Knows Who Cares,Armistice,gorilla,phoenix,0.2222222222222222
+Who Knows Who Cares,Armistice,manor,armistice,0.11764705882352941
+Who Knows Who Cares,Armistice,manor,phoenix,0.2857142857142857
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,knows,remedies,0.3157894736842105
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,knows,worse,0.2857142857142857
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,knows,disease,0.2222222222222222
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,knows,young,0.125
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,knows,mountain,0.14285714285714285
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,cares,remedies,0.5263157894736842
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,cares,worse,0.2857142857142857
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,cares,disease,0.2222222222222222
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,cares,young,0.125
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,cares,mountain,0.14285714285714285
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,gorilla,remedies,0.07407407407407407
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,gorilla,worse,0.09090909090909091
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,gorilla,disease,0.07692307692307693
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,gorilla,young,0.5833333333333334
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,gorilla,mountain,0.2727272727272727
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,manor,remedies,0.09523809523809523
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,manor,worse,0.125
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,manor,disease,0.1
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,manor,young,0.4444444444444444
+Who Knows Who Cares,There Are Some Remedies Worse Than The Disease,manor,mountain,0.375
+Who Knows Who Cares,Swimming In The Flood,knows,swimming,0.3333333333333333
+Who Knows Who Cares,Swimming In The Flood,knows,flood,0.13333333333333333
+Who Knows Who Cares,Swimming In The Flood,knows,manners,0.2857142857142857
+Who Knows Who Cares,Swimming In The Flood,cares,swimming,0.6666666666666666
+Who Knows Who Cares,Swimming In The Flood,cares,flood,0.13333333333333333
+Who Knows Who Cares,Swimming In The Flood,cares,manners,0.2857142857142857
+Who Knows Who Cares,Swimming In The Flood,gorilla,swimming,0.07692307692307693
+Who Knows Who Cares,Swimming In The Flood,gorilla,flood,0.17391304347826086
+Who Knows Who Cares,Swimming In The Flood,gorilla,manners,0.09090909090909091
+Who Knows Who Cares,Swimming In The Flood,manor,swimming,0.1
+Who Knows Who Cares,Swimming In The Flood,manor,flood,0.23529411764705882
+Who Knows Who Cares,Swimming In The Flood,manor,manners,0.125
+Quiet,Sun Hands,quiet,sun,0.21052631578947367
+Quiet,Sun Hands,quiet,hands,0.1
+Quiet,Sun Hands,quiet,gorilla,0.14814814814814814
+Quiet,Sun Hands,quiet,manor,0.19047619047619047
+Quiet,Sun Hands,young,sun,0.5
+Quiet,Sun Hands,young,hands,0.11764705882352941
+Quiet,Sun Hands,young,gorilla,0.5833333333333334
+Quiet,Sun Hands,young,manor,0.4444444444444444
+Quiet,Sun Hands,mountain,sun,0.42857142857142855
+Quiet,Sun Hands,mountain,hands,0.13333333333333333
+Quiet,Sun Hands,mountain,gorilla,0.2727272727272727
+Quiet,Sun Hands,mountain,manor,0.375
+Quiet,Camera Talk,quiet,camera,0.2
+Quiet,Camera Talk,quiet,talk,0.1111111111111111
+Quiet,Camera Talk,quiet,camera,0.2
+Quiet,Camera Talk,quiet,talk,0.1111111111111111
+Quiet,Camera Talk,young,camera,0.47058823529411764
+Quiet,Camera Talk,young,talk,0.13333333333333333
+Quiet,Camera Talk,young,camera,0.47058823529411764
+Quiet,Camera Talk,young,talk,0.13333333333333333
+Quiet,Camera Talk,mountain,camera,0.4
+Quiet,Camera Talk,mountain,talk,0.15384615384615385
+Quiet,Camera Talk,mountain,camera,0.4
+Quiet,Camera Talk,mountain,talk,0.15384615384615385
+Quiet,Belle,quiet,beautiful,0
+Quiet,Belle,quiet,dreams,0.1
+Quiet,Belle,young,beautiful,0
+Quiet,Belle,young,dreams,0.11764705882352941
+Quiet,Belle,mountain,beautiful,0
+Quiet,Belle,mountain,dreams,0.13333333333333333
+Quiet,Auto Rock,quiet,auto,0.18181818181818182
+Quiet,Auto Rock,quiet,rock,0.23529411764705882
+Quiet,Auto Rock,quiet,mr,0.1
+Quiet,Auto Rock,quiet,beast,0.2222222222222222
+Quiet,Auto Rock,young,auto,0.42105263157894735
+Quiet,Auto Rock,young,rock,0.5714285714285714
+Quiet,Auto Rock,young,mr,0.11764705882352941
+Quiet,Auto Rock,young,beast,0.9333333333333333
+Quiet,Auto Rock,mountain,auto,0.35294117647058826
+Quiet,Auto Rock,mountain,rock,0.5
+Quiet,Auto Rock,mountain,mr,0.13333333333333333
+Quiet,Auto Rock,mountain,beast,0.46153846153846156
+Quiet,Who Knows Who Cares,quiet,knows,0.10526315789473684
+Quiet,Who Knows Who Cares,quiet,cares,0.10526315789473684
+Quiet,Who Knows Who Cares,quiet,gorilla,0.14814814814814814
+Quiet,Who Knows Who Cares,quiet,manor,0.19047619047619047
+Quiet,Who Knows Who Cares,young,knows,0.125
+Quiet,Who Knows Who Cares,young,cares,0.125
+Quiet,Who Knows Who Cares,young,gorilla,0.5833333333333334
+Quiet,Who Knows Who Cares,young,manor,0.4444444444444444
+Quiet,Who Knows Who Cares,mountain,knows,0.14285714285714285
+Quiet,Who Knows Who Cares,mountain,cares,0.14285714285714285
+Quiet,Who Knows Who Cares,mountain,gorilla,0.2727272727272727
+Quiet,Who Knows Who Cares,mountain,manor,0.375
+Quiet,Girlfriend,quiet,girlfriend,0.23529411764705882
+Quiet,Girlfriend,quiet,phoenix,0.18181818181818182
+Quiet,Girlfriend,young,girlfriend,0.7058823529411765
+Quiet,Girlfriend,young,phoenix,0.3157894736842105
+Quiet,Girlfriend,mountain,girlfriend,0.42857142857142855
+Quiet,Girlfriend,mountain,phoenix,0.35294117647058826
+Quiet,Happiness: We're All In It Together,quiet,together,0
+Quiet,Happiness: We're All In It Together,quiet,happiness,0.10526315789473684
+Quiet,Happiness: We're All In It Together,quiet,young,0.21052631578947367
+Quiet,Happiness: We're All In It Together,quiet,mountain,0.23529411764705882
+Quiet,Happiness: We're All In It Together,young,together,0
+Quiet,Happiness: We're All In It Together,young,happiness,0.125
+Quiet,Happiness: We're All In It Together,young,young,1.0
+Quiet,Happiness: We're All In It Together,young,mountain,0.42857142857142855
+Quiet,Happiness: We're All In It Together,mountain,together,0
+Quiet,Happiness: We're All In It Together,mountain,happiness,0.14285714285714285
+Quiet,Happiness: We're All In It Together,mountain,young,0.42857142857142855
+Quiet,Happiness: We're All In It Together,mountain,mountain,1.0
+Quiet,Armistice,quiet,armistice,0.1111111111111111
+Quiet,Armistice,quiet,phoenix,0.18181818181818182
+Quiet,Armistice,young,armistice,0.13333333333333333
+Quiet,Armistice,young,phoenix,0.3157894736842105
+Quiet,Armistice,mountain,armistice,0.15384615384615385
+Quiet,Armistice,mountain,phoenix,0.35294117647058826
+Quiet,There Are Some Remedies Worse Than The Disease,quiet,remedies,0.09090909090909091
+Quiet,There Are Some Remedies Worse Than The Disease,quiet,worse,0.11764705882352941
+Quiet,There Are Some Remedies Worse Than The Disease,quiet,disease,0.09523809523809523
+Quiet,There Are Some Remedies Worse Than The Disease,quiet,young,0.21052631578947367
+Quiet,There Are Some Remedies Worse Than The Disease,quiet,mountain,0.23529411764705882
+Quiet,There Are Some Remedies Worse Than The Disease,young,remedies,0.10526315789473684
+Quiet,There Are Some Remedies Worse Than The Disease,young,worse,0.14285714285714285
+Quiet,There Are Some Remedies Worse Than The Disease,young,disease,0.1111111111111111
+Quiet,There Are Some Remedies Worse Than The Disease,young,young,1.0
+Quiet,There Are Some Remedies Worse Than The Disease,young,mountain,0.42857142857142855
+Quiet,There Are Some Remedies Worse Than The Disease,mountain,remedies,0.11764705882352941
+Quiet,There Are Some Remedies Worse Than The Disease,mountain,worse,0.16666666666666666
+Quiet,There Are Some Remedies Worse Than The Disease,mountain,disease,0.125
+Quiet,There Are Some Remedies Worse Than The Disease,mountain,young,0.42857142857142855
+Quiet,There Are Some Remedies Worse Than The Disease,mountain,mountain,1.0
+Quiet,Swimming In The Flood,quiet,swimming,0.09523809523809523
+Quiet,Swimming In The Flood,quiet,flood,0.5555555555555556
+Quiet,Swimming In The Flood,quiet,manners,0.11764705882352941
+Quiet,Swimming In The Flood,young,swimming,0.1111111111111111
+Quiet,Swimming In The Flood,young,flood,0.26666666666666666
+Quiet,Swimming In The Flood,young,manners,0.14285714285714285
+Quiet,Swimming In The Flood,mountain,swimming,0.125
+Quiet,Swimming In The Flood,mountain,flood,0.3076923076923077
+Quiet,Swimming In The Flood,mountain,manners,0.16666666666666666
+Girlfriend,Sun Hands,girlfriend,sun,0.47058823529411764
+Girlfriend,Sun Hands,girlfriend,hands,0.13333333333333333
+Girlfriend,Sun Hands,girlfriend,gorilla,0.48
+Girlfriend,Sun Hands,girlfriend,manor,0.42105263157894735
+Girlfriend,Sun Hands,phoenix,sun,0.3157894736842105
+Girlfriend,Sun Hands,phoenix,hands,0.1
+Girlfriend,Sun Hands,phoenix,gorilla,0.2222222222222222
+Girlfriend,Sun Hands,phoenix,manor,0.2857142857142857
+Girlfriend,Camera Talk,girlfriend,camera,0.4444444444444444
+Girlfriend,Camera Talk,girlfriend,talk,0.15384615384615385
+Girlfriend,Camera Talk,girlfriend,camera,0.4444444444444444
+Girlfriend,Camera Talk,girlfriend,talk,0.15384615384615385
+Girlfriend,Camera Talk,phoenix,camera,0.3
+Girlfriend,Camera Talk,phoenix,talk,0.1111111111111111
+Girlfriend,Camera Talk,phoenix,camera,0.3
+Girlfriend,Camera Talk,phoenix,talk,0.1111111111111111
+Girlfriend,Belle,girlfriend,beautiful,0
+Girlfriend,Belle,girlfriend,dreams,0.13333333333333333
+Girlfriend,Belle,phoenix,beautiful,0
+Girlfriend,Belle,phoenix,dreams,0.1
+Girlfriend,Auto Rock,girlfriend,auto,0.4
+Girlfriend,Auto Rock,girlfriend,rock,0.5333333333333333
+Girlfriend,Auto Rock,girlfriend,mr,0.13333333333333333
+Girlfriend,Auto Rock,girlfriend,beast,0.75
+Girlfriend,Auto Rock,phoenix,auto,0.2727272727272727
+Girlfriend,Auto Rock,phoenix,rock,0.35294117647058826
+Girlfriend,Auto Rock,phoenix,mr,0.1
+Girlfriend,Auto Rock,phoenix,beast,0.3333333333333333
+Girlfriend,Who Knows Who Cares,girlfriend,knows,0.14285714285714285
+Girlfriend,Who Knows Who Cares,girlfriend,cares,0.14285714285714285
+Girlfriend,Who Knows Who Cares,girlfriend,gorilla,0.48
+Girlfriend,Who Knows Who Cares,girlfriend,manor,0.42105263157894735
+Girlfriend,Who Knows Who Cares,phoenix,knows,0.10526315789473684
+Girlfriend,Who Knows Who Cares,phoenix,cares,0.10526315789473684
+Girlfriend,Who Knows Who Cares,phoenix,gorilla,0.2222222222222222
+Girlfriend,Who Knows Who Cares,phoenix,manor,0.2857142857142857
+Girlfriend,Quiet,girlfriend,quiet,0.23529411764705882
+Girlfriend,Quiet,girlfriend,young,0.7058823529411765
+Girlfriend,Quiet,girlfriend,mountain,0.42857142857142855
+Girlfriend,Quiet,phoenix,quiet,0.18181818181818182
+Girlfriend,Quiet,phoenix,young,0.3157894736842105
+Girlfriend,Quiet,phoenix,mountain,0.35294117647058826
+Girlfriend,Happiness: We're All In It Together,girlfriend,together,0
+Girlfriend,Happiness: We're All In It Together,girlfriend,happiness,0.14285714285714285
+Girlfriend,Happiness: We're All In It Together,girlfriend,young,0.7058823529411765
+Girlfriend,Happiness: We're All In It Together,girlfriend,mountain,0.42857142857142855
+Girlfriend,Happiness: We're All In It Together,phoenix,together,0
+Girlfriend,Happiness: We're All In It Together,phoenix,happiness,0.10526315789473684
+Girlfriend,Happiness: We're All In It Together,phoenix,young,0.3157894736842105
+Girlfriend,Happiness: We're All In It Together,phoenix,mountain,0.35294117647058826
+Girlfriend,Armistice,girlfriend,armistice,0.15384615384615385
+Girlfriend,Armistice,girlfriend,phoenix,0.3157894736842105
+Girlfriend,Armistice,phoenix,armistice,0.1111111111111111
+Girlfriend,Armistice,phoenix,phoenix,1.0
+Girlfriend,There Are Some Remedies Worse Than The Disease,girlfriend,remedies,0.11764705882352941
+Girlfriend,There Are Some Remedies Worse Than The Disease,girlfriend,worse,0.16666666666666666
+Girlfriend,There Are Some Remedies Worse Than The Disease,girlfriend,disease,0.125
+Girlfriend,There Are Some Remedies Worse Than The Disease,girlfriend,young,0.7058823529411765
+Girlfriend,There Are Some Remedies Worse Than The Disease,girlfriend,mountain,0.42857142857142855
+Girlfriend,There Are Some Remedies Worse Than The Disease,phoenix,remedies,0.09090909090909091
+Girlfriend,There Are Some Remedies Worse Than The Disease,phoenix,worse,0.11764705882352941
+Girlfriend,There Are Some Remedies Worse Than The Disease,phoenix,disease,0.09523809523809523
+Girlfriend,There Are Some Remedies Worse Than The Disease,phoenix,young,0.3157894736842105
+Girlfriend,There Are Some Remedies Worse Than The Disease,phoenix,mountain,0.35294117647058826
+Girlfriend,Swimming In The Flood,girlfriend,swimming,0.125
+Girlfriend,Swimming In The Flood,girlfriend,flood,0.3076923076923077
+Girlfriend,Swimming In The Flood,girlfriend,manners,0.16666666666666666
+Girlfriend,Swimming In The Flood,phoenix,swimming,0.09523809523809523
+Girlfriend,Swimming In The Flood,phoenix,flood,0.2222222222222222
+Girlfriend,Swimming In The Flood,phoenix,manners,0.11764705882352941
+Happiness: We're All In It Together,Sun Hands,together,sun,0
+Happiness: We're All In It Together,Sun Hands,together,hands,0
+Happiness: We're All In It Together,Sun Hands,together,gorilla,0
+Happiness: We're All In It Together,Sun Hands,together,manor,0
+Happiness: We're All In It Together,Sun Hands,happiness,sun,0.125
+Happiness: We're All In It Together,Sun Hands,happiness,hands,0.23529411764705882
+Happiness: We're All In It Together,Sun Hands,happiness,gorilla,0.08333333333333333
+Happiness: We're All In It Together,Sun Hands,happiness,manor,0.1111111111111111
+Happiness: We're All In It Together,Sun Hands,young,sun,0.5
+Happiness: We're All In It Together,Sun Hands,young,hands,0.11764705882352941
+Happiness: We're All In It Together,Sun Hands,young,gorilla,0.5833333333333334
+Happiness: We're All In It Together,Sun Hands,young,manor,0.4444444444444444
+Happiness: We're All In It Together,Sun Hands,mountain,sun,0.42857142857142855
+Happiness: We're All In It Together,Sun Hands,mountain,hands,0.13333333333333333
+Happiness: We're All In It Together,Sun Hands,mountain,gorilla,0.2727272727272727
+Happiness: We're All In It Together,Sun Hands,mountain,manor,0.375
+Happiness: We're All In It Together,Camera Talk,together,camera,0
+Happiness: We're All In It Together,Camera Talk,together,talk,0
+Happiness: We're All In It Together,Camera Talk,together,camera,0
+Happiness: We're All In It Together,Camera Talk,together,talk,0
+Happiness: We're All In It Together,Camera Talk,happiness,camera,0.11764705882352941
+Happiness: We're All In It Together,Camera Talk,happiness,talk,0.26666666666666666
+Happiness: We're All In It Together,Camera Talk,happiness,camera,0.11764705882352941
+Happiness: We're All In It Together,Camera Talk,happiness,talk,0.26666666666666666
+Happiness: We're All In It Together,Camera Talk,young,camera,0.47058823529411764
+Happiness: We're All In It Together,Camera Talk,young,talk,0.13333333333333333
+Happiness: We're All In It Together,Camera Talk,young,camera,0.47058823529411764
+Happiness: We're All In It Together,Camera Talk,young,talk,0.13333333333333333
+Happiness: We're All In It Together,Camera Talk,mountain,camera,0.4
+Happiness: We're All In It Together,Camera Talk,mountain,talk,0.15384615384615385
+Happiness: We're All In It Together,Camera Talk,mountain,camera,0.4
+Happiness: We're All In It Together,Camera Talk,mountain,talk,0.15384615384615385
+Happiness: We're All In It Together,Belle,together,beautiful,0
+Happiness: We're All In It Together,Belle,together,dreams,0
+Happiness: We're All In It Together,Belle,happiness,beautiful,0
+Happiness: We're All In It Together,Belle,happiness,dreams,0.23529411764705882
+Happiness: We're All In It Together,Belle,young,beautiful,0
+Happiness: We're All In It Together,Belle,young,dreams,0.11764705882352941
+Happiness: We're All In It Together,Belle,mountain,beautiful,0
+Happiness: We're All In It Together,Belle,mountain,dreams,0.13333333333333333
+Happiness: We're All In It Together,Auto Rock,together,auto,0
+Happiness: We're All In It Together,Auto Rock,together,rock,0
+Happiness: We're All In It Together,Auto Rock,together,mr,0
+Happiness: We're All In It Together,Auto Rock,together,beast,0
+Happiness: We're All In It Together,Auto Rock,happiness,auto,0.10526315789473684
+Happiness: We're All In It Together,Auto Rock,happiness,rock,0.14285714285714285
+Happiness: We're All In It Together,Auto Rock,happiness,mr,0.23529411764705882
+Happiness: We're All In It Together,Auto Rock,happiness,beast,0.13333333333333333
+Happiness: We're All In It Together,Auto Rock,young,auto,0.42105263157894735
+Happiness: We're All In It Together,Auto Rock,young,rock,0.5714285714285714
+Happiness: We're All In It Together,Auto Rock,young,mr,0.11764705882352941
+Happiness: We're All In It Together,Auto Rock,young,beast,0.9333333333333333
+Happiness: We're All In It Together,Auto Rock,mountain,auto,0.35294117647058826
+Happiness: We're All In It Together,Auto Rock,mountain,rock,0.5
+Happiness: We're All In It Together,Auto Rock,mountain,mr,0.13333333333333333
+Happiness: We're All In It Together,Auto Rock,mountain,beast,0.46153846153846156
+Happiness: We're All In It Together,Who Knows Who Cares,together,knows,0
+Happiness: We're All In It Together,Who Knows Who Cares,together,cares,0
+Happiness: We're All In It Together,Who Knows Who Cares,together,gorilla,0
+Happiness: We're All In It Together,Who Knows Who Cares,together,manor,0
+Happiness: We're All In It Together,Who Knows Who Cares,happiness,knows,0.25
+Happiness: We're All In It Together,Who Knows Who Cares,happiness,cares,0.25
+Happiness: We're All In It Together,Who Knows Who Cares,happiness,gorilla,0.08333333333333333
+Happiness: We're All In It Together,Who Knows Who Cares,happiness,manor,0.1111111111111111
+Happiness: We're All In It Together,Who Knows Who Cares,young,knows,0.125
+Happiness: We're All In It Together,Who Knows Who Cares,young,cares,0.125
+Happiness: We're All In It Together,Who Knows Who Cares,young,gorilla,0.5833333333333334
+Happiness: We're All In It Together,Who Knows Who Cares,young,manor,0.4444444444444444
+Happiness: We're All In It Together,Who Knows Who Cares,mountain,knows,0.14285714285714285
+Happiness: We're All In It Together,Who Knows Who Cares,mountain,cares,0.14285714285714285
+Happiness: We're All In It Together,Who Knows Who Cares,mountain,gorilla,0.2727272727272727
+Happiness: We're All In It Together,Who Knows Who Cares,mountain,manor,0.375
+Happiness: We're All In It Together,Quiet,together,quiet,0
+Happiness: We're All In It Together,Quiet,together,young,0
+Happiness: We're All In It Together,Quiet,together,mountain,0
+Happiness: We're All In It Together,Quiet,happiness,quiet,0.10526315789473684
+Happiness: We're All In It Together,Quiet,happiness,young,0.125
+Happiness: We're All In It Together,Quiet,happiness,mountain,0.14285714285714285
+Happiness: We're All In It Together,Quiet,young,quiet,0.21052631578947367
+Happiness: We're All In It Together,Quiet,young,young,1.0
+Happiness: We're All In It Together,Quiet,young,mountain,0.42857142857142855
+Happiness: We're All In It Together,Quiet,mountain,quiet,0.23529411764705882
+Happiness: We're All In It Together,Quiet,mountain,young,0.42857142857142855
+Happiness: We're All In It Together,Quiet,mountain,mountain,1.0
+Happiness: We're All In It Together,Girlfriend,together,girlfriend,0
+Happiness: We're All In It Together,Girlfriend,together,phoenix,0
+Happiness: We're All In It Together,Girlfriend,happiness,girlfriend,0.14285714285714285
+Happiness: We're All In It Together,Girlfriend,happiness,phoenix,0.10526315789473684
+Happiness: We're All In It Together,Girlfriend,young,girlfriend,0.7058823529411765
+Happiness: We're All In It Together,Girlfriend,young,phoenix,0.3157894736842105
+Happiness: We're All In It Together,Girlfriend,mountain,girlfriend,0.42857142857142855
+Happiness: We're All In It Together,Girlfriend,mountain,phoenix,0.35294117647058826
+Happiness: We're All In It Together,Armistice,together,armistice,0
+Happiness: We're All In It Together,Armistice,together,phoenix,0
+Happiness: We're All In It Together,Armistice,happiness,armistice,0.5333333333333333
+Happiness: We're All In It Together,Armistice,happiness,phoenix,0.10526315789473684
+Happiness: We're All In It Together,Armistice,young,armistice,0.13333333333333333
+Happiness: We're All In It Together,Armistice,young,phoenix,0.3157894736842105
+Happiness: We're All In It Together,Armistice,mountain,armistice,0.15384615384615385
+Happiness: We're All In It Together,Armistice,mountain,phoenix,0.35294117647058826
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,together,remedies,0
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,together,worse,0
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,together,disease,0
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,together,young,0
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,together,mountain,0
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,happiness,remedies,0.21052631578947367
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,happiness,worse,0.42857142857142855
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,happiness,disease,0.4444444444444444
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,happiness,young,0.125
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,happiness,mountain,0.14285714285714285
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,young,remedies,0.10526315789473684
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,young,worse,0.14285714285714285
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,young,disease,0.1111111111111111
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,young,young,1.0
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,young,mountain,0.42857142857142855
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,mountain,remedies,0.11764705882352941
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,mountain,worse,0.16666666666666666
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,mountain,disease,0.125
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,mountain,young,0.42857142857142855
+Happiness: We're All In It Together,There Are Some Remedies Worse Than The Disease,mountain,mountain,1.0
+Happiness: We're All In It Together,Swimming In The Flood,together,swimming,0
+Happiness: We're All In It Together,Swimming In The Flood,together,flood,0
+Happiness: We're All In It Together,Swimming In The Flood,together,manners,0
+Happiness: We're All In It Together,Swimming In The Flood,happiness,swimming,0.2222222222222222
+Happiness: We're All In It Together,Swimming In The Flood,happiness,flood,0.13333333333333333
+Happiness: We're All In It Together,Swimming In The Flood,happiness,manners,0.42857142857142855
+Happiness: We're All In It Together,Swimming In The Flood,young,swimming,0.1111111111111111
+Happiness: We're All In It Together,Swimming In The Flood,young,flood,0.26666666666666666
+Happiness: We're All In It Together,Swimming In The Flood,young,manners,0.14285714285714285
+Happiness: We're All In It Together,Swimming In The Flood,mountain,swimming,0.125
+Happiness: We're All In It Together,Swimming In The Flood,mountain,flood,0.3076923076923077
+Happiness: We're All In It Together,Swimming In The Flood,mountain,manners,0.16666666666666666
+Armistice,Sun Hands,armistice,sun,0.13333333333333333
+Armistice,Sun Hands,armistice,hands,0.25
+Armistice,Sun Hands,armistice,gorilla,0.08695652173913043
+Armistice,Sun Hands,armistice,manor,0.11764705882352941
+Armistice,Sun Hands,phoenix,sun,0.3157894736842105
+Armistice,Sun Hands,phoenix,hands,0.1
+Armistice,Sun Hands,phoenix,gorilla,0.2222222222222222
+Armistice,Sun Hands,phoenix,manor,0.2857142857142857
+Armistice,Camera Talk,armistice,camera,0.125
+Armistice,Camera Talk,armistice,talk,0.2857142857142857
+Armistice,Camera Talk,armistice,camera,0.125
+Armistice,Camera Talk,armistice,talk,0.2857142857142857
+Armistice,Camera Talk,phoenix,camera,0.3
+Armistice,Camera Talk,phoenix,talk,0.1111111111111111
+Armistice,Camera Talk,phoenix,camera,0.3
+Armistice,Camera Talk,phoenix,talk,0.1111111111111111
+Armistice,Belle,armistice,beautiful,0
+Armistice,Belle,armistice,dreams,0.25
+Armistice,Belle,phoenix,beautiful,0
+Armistice,Belle,phoenix,dreams,0.1
+Armistice,Auto Rock,armistice,auto,0.1111111111111111
+Armistice,Auto Rock,armistice,rock,0.15384615384615385
+Armistice,Auto Rock,armistice,mr,0.25
+Armistice,Auto Rock,armistice,beast,0.14285714285714285
+Armistice,Auto Rock,phoenix,auto,0.2727272727272727
+Armistice,Auto Rock,phoenix,rock,0.35294117647058826
+Armistice,Auto Rock,phoenix,mr,0.1
+Armistice,Auto Rock,phoenix,beast,0.3333333333333333
+Armistice,Who Knows Who Cares,armistice,knows,0.26666666666666666
+Armistice,Who Knows Who Cares,armistice,cares,0.26666666666666666
+Armistice,Who Knows Who Cares,armistice,gorilla,0.08695652173913043
+Armistice,Who Knows Who Cares,armistice,manor,0.11764705882352941
+Armistice,Who Knows Who Cares,phoenix,knows,0.10526315789473684
+Armistice,Who Knows Who Cares,phoenix,cares,0.10526315789473684
+Armistice,Who Knows Who Cares,phoenix,gorilla,0.2222222222222222
+Armistice,Who Knows Who Cares,phoenix,manor,0.2857142857142857
+Armistice,Quiet,armistice,quiet,0.1111111111111111
+Armistice,Quiet,armistice,young,0.13333333333333333
+Armistice,Quiet,armistice,mountain,0.15384615384615385
+Armistice,Quiet,phoenix,quiet,0.18181818181818182
+Armistice,Quiet,phoenix,young,0.3157894736842105
+Armistice,Quiet,phoenix,mountain,0.35294117647058826
+Armistice,Girlfriend,armistice,girlfriend,0.15384615384615385
+Armistice,Girlfriend,armistice,phoenix,0.1111111111111111
+Armistice,Girlfriend,phoenix,girlfriend,0.3157894736842105
+Armistice,Girlfriend,phoenix,phoenix,1.0
+Armistice,Happiness: We're All In It Together,armistice,together,0
+Armistice,Happiness: We're All In It Together,armistice,happiness,0.5333333333333333
+Armistice,Happiness: We're All In It Together,armistice,young,0.13333333333333333
+Armistice,Happiness: We're All In It Together,armistice,mountain,0.15384615384615385
+Armistice,Happiness: We're All In It Together,phoenix,together,0
+Armistice,Happiness: We're All In It Together,phoenix,happiness,0.10526315789473684
+Armistice,Happiness: We're All In It Together,phoenix,young,0.3157894736842105
+Armistice,Happiness: We're All In It Together,phoenix,mountain,0.35294117647058826
+Armistice,There Are Some Remedies Worse Than The Disease,armistice,remedies,0.2222222222222222
+Armistice,There Are Some Remedies Worse Than The Disease,armistice,worse,0.46153846153846156
+Armistice,There Are Some Remedies Worse Than The Disease,armistice,disease,0.47058823529411764
+Armistice,There Are Some Remedies Worse Than The Disease,armistice,young,0.13333333333333333
+Armistice,There Are Some Remedies Worse Than The Disease,armistice,mountain,0.15384615384615385
+Armistice,There Are Some Remedies Worse Than The Disease,phoenix,remedies,0.09090909090909091
+Armistice,There Are Some Remedies Worse Than The Disease,phoenix,worse,0.11764705882352941
+Armistice,There Are Some Remedies Worse Than The Disease,phoenix,disease,0.09523809523809523
+Armistice,There Are Some Remedies Worse Than The Disease,phoenix,young,0.3157894736842105
+Armistice,There Are Some Remedies Worse Than The Disease,phoenix,mountain,0.35294117647058826
+Armistice,Swimming In The Flood,armistice,swimming,0.23529411764705882
+Armistice,Swimming In The Flood,armistice,flood,0.14285714285714285
+Armistice,Swimming In The Flood,armistice,manners,0.46153846153846156
+Armistice,Swimming In The Flood,phoenix,swimming,0.09523809523809523
+Armistice,Swimming In The Flood,phoenix,flood,0.2222222222222222
+Armistice,Swimming In The Flood,phoenix,manners,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Sun Hands,remedies,sun,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Sun Hands,remedies,hands,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,Sun Hands,remedies,gorilla,0.07407407407407407
+There Are Some Remedies Worse Than The Disease,Sun Hands,remedies,manor,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Sun Hands,worse,sun,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Sun Hands,worse,hands,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Sun Hands,worse,gorilla,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Sun Hands,worse,manor,0.125
+There Are Some Remedies Worse Than The Disease,Sun Hands,disease,sun,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Sun Hands,disease,hands,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Sun Hands,disease,gorilla,0.07692307692307693
+There Are Some Remedies Worse Than The Disease,Sun Hands,disease,manor,0.1
+There Are Some Remedies Worse Than The Disease,Sun Hands,young,sun,0.5
+There Are Some Remedies Worse Than The Disease,Sun Hands,young,hands,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Sun Hands,young,gorilla,0.5833333333333334
+There Are Some Remedies Worse Than The Disease,Sun Hands,young,manor,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Sun Hands,mountain,sun,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Sun Hands,mountain,hands,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Sun Hands,mountain,gorilla,0.2727272727272727
+There Are Some Remedies Worse Than The Disease,Sun Hands,mountain,manor,0.375
+There Are Some Remedies Worse Than The Disease,Camera Talk,remedies,camera,0.1
+There Are Some Remedies Worse Than The Disease,Camera Talk,remedies,talk,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Camera Talk,remedies,camera,0.1
+There Are Some Remedies Worse Than The Disease,Camera Talk,remedies,talk,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Camera Talk,worse,camera,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Camera Talk,worse,talk,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Camera Talk,worse,camera,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Camera Talk,worse,talk,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Camera Talk,disease,camera,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Camera Talk,disease,talk,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Camera Talk,disease,camera,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Camera Talk,disease,talk,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Camera Talk,young,camera,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Camera Talk,young,talk,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Camera Talk,young,camera,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Camera Talk,young,talk,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Camera Talk,mountain,camera,0.4
+There Are Some Remedies Worse Than The Disease,Camera Talk,mountain,talk,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Camera Talk,mountain,camera,0.4
+There Are Some Remedies Worse Than The Disease,Camera Talk,mountain,talk,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Belle,remedies,beautiful,0
+There Are Some Remedies Worse Than The Disease,Belle,remedies,dreams,0.3
+There Are Some Remedies Worse Than The Disease,Belle,worse,beautiful,0
+There Are Some Remedies Worse Than The Disease,Belle,worse,dreams,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Belle,disease,beautiful,0
+There Are Some Remedies Worse Than The Disease,Belle,disease,dreams,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Belle,young,beautiful,0
+There Are Some Remedies Worse Than The Disease,Belle,young,dreams,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Belle,mountain,beautiful,0
+There Are Some Remedies Worse Than The Disease,Belle,mountain,dreams,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Auto Rock,remedies,auto,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Auto Rock,remedies,rock,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Auto Rock,remedies,mr,0.2
+There Are Some Remedies Worse Than The Disease,Auto Rock,remedies,beast,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Auto Rock,worse,auto,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Auto Rock,worse,rock,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Auto Rock,worse,mr,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Auto Rock,worse,beast,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Auto Rock,disease,auto,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Auto Rock,disease,rock,0.125
+There Are Some Remedies Worse Than The Disease,Auto Rock,disease,mr,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Auto Rock,disease,beast,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Auto Rock,young,auto,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Auto Rock,young,rock,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,Auto Rock,young,mr,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Auto Rock,young,beast,0.9333333333333333
+There Are Some Remedies Worse Than The Disease,Auto Rock,mountain,auto,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Auto Rock,mountain,rock,0.5
+There Are Some Remedies Worse Than The Disease,Auto Rock,mountain,mr,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Auto Rock,mountain,beast,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,remedies,knows,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,remedies,cares,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,remedies,gorilla,0.07407407407407407
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,remedies,manor,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,worse,knows,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,worse,cares,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,worse,gorilla,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,worse,manor,0.125
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,disease,knows,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,disease,cares,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,disease,gorilla,0.07692307692307693
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,disease,manor,0.1
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,young,knows,0.125
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,young,cares,0.125
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,young,gorilla,0.5833333333333334
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,young,manor,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,mountain,knows,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,mountain,cares,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,mountain,gorilla,0.2727272727272727
+There Are Some Remedies Worse Than The Disease,Who Knows Who Cares,mountain,manor,0.375
+There Are Some Remedies Worse Than The Disease,Quiet,remedies,quiet,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Quiet,remedies,young,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Quiet,remedies,mountain,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Quiet,worse,quiet,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Quiet,worse,young,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Quiet,worse,mountain,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Quiet,disease,quiet,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Quiet,disease,young,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Quiet,disease,mountain,0.125
+There Are Some Remedies Worse Than The Disease,Quiet,young,quiet,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Quiet,young,young,1.0
+There Are Some Remedies Worse Than The Disease,Quiet,young,mountain,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Quiet,mountain,quiet,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Quiet,mountain,young,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Quiet,mountain,mountain,1.0
+There Are Some Remedies Worse Than The Disease,Girlfriend,remedies,girlfriend,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Girlfriend,remedies,phoenix,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Girlfriend,worse,girlfriend,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Girlfriend,worse,phoenix,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Girlfriend,disease,girlfriend,0.125
+There Are Some Remedies Worse Than The Disease,Girlfriend,disease,phoenix,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Girlfriend,young,girlfriend,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Girlfriend,young,phoenix,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Girlfriend,mountain,girlfriend,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Girlfriend,mountain,phoenix,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,remedies,together,0
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,remedies,happiness,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,remedies,young,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,remedies,mountain,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,worse,together,0
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,worse,happiness,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,worse,young,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,worse,mountain,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,disease,together,0
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,disease,happiness,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,disease,young,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,disease,mountain,0.125
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,young,together,0
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,young,happiness,0.125
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,young,young,1.0
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,young,mountain,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,mountain,together,0
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,mountain,happiness,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,mountain,young,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Happiness: We're All In It Together,mountain,mountain,1.0
+There Are Some Remedies Worse Than The Disease,Armistice,remedies,armistice,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Armistice,remedies,phoenix,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Armistice,worse,armistice,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Armistice,worse,phoenix,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Armistice,disease,armistice,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Armistice,disease,phoenix,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Armistice,young,armistice,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Armistice,young,phoenix,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Armistice,mountain,armistice,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Armistice,mountain,phoenix,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,remedies,swimming,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,remedies,flood,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,remedies,manners,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,worse,swimming,0.25
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,worse,flood,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,worse,manners,0.5
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,disease,swimming,0.2
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,disease,flood,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,disease,manners,0.375
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,young,swimming,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,young,flood,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,young,manners,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,mountain,swimming,0.125
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,mountain,flood,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Swimming In The Flood,mountain,manners,0.16666666666666666
+Swimming In The Flood,Sun Hands,swimming,sun,0.1111111111111111
+Swimming In The Flood,Sun Hands,swimming,hands,0.5
+Swimming In The Flood,Sun Hands,swimming,gorilla,0.07692307692307693
+Swimming In The Flood,Sun Hands,swimming,manor,0.1
+Swimming In The Flood,Sun Hands,flood,sun,0.26666666666666666
+Swimming In The Flood,Sun Hands,flood,hands,0.125
+Swimming In The Flood,Sun Hands,flood,gorilla,0.17391304347826086
+Swimming In The Flood,Sun Hands,flood,manor,0.23529411764705882
+Swimming In The Flood,Sun Hands,manners,sun,0.14285714285714285
+Swimming In The Flood,Sun Hands,manners,hands,0.26666666666666666
+Swimming In The Flood,Sun Hands,manners,gorilla,0.09090909090909091
+Swimming In The Flood,Sun Hands,manners,manor,0.125
+Swimming In The Flood,Camera Talk,swimming,camera,0.10526315789473684
+Swimming In The Flood,Camera Talk,swimming,talk,0.23529411764705882
+Swimming In The Flood,Camera Talk,swimming,camera,0.10526315789473684
+Swimming In The Flood,Camera Talk,swimming,talk,0.23529411764705882
+Swimming In The Flood,Camera Talk,flood,camera,0.25
+Swimming In The Flood,Camera Talk,flood,talk,0.14285714285714285
+Swimming In The Flood,Camera Talk,flood,camera,0.25
+Swimming In The Flood,Camera Talk,flood,talk,0.14285714285714285
+Swimming In The Flood,Camera Talk,manners,camera,0.13333333333333333
+Swimming In The Flood,Camera Talk,manners,talk,0.3076923076923077
+Swimming In The Flood,Camera Talk,manners,camera,0.13333333333333333
+Swimming In The Flood,Camera Talk,manners,talk,0.3076923076923077
+Swimming In The Flood,Belle,swimming,beautiful,0
+Swimming In The Flood,Belle,swimming,dreams,0.3157894736842105
+Swimming In The Flood,Belle,flood,beautiful,0
+Swimming In The Flood,Belle,flood,dreams,0.125
+Swimming In The Flood,Belle,manners,beautiful,0
+Swimming In The Flood,Belle,manners,dreams,0.26666666666666666
+Swimming In The Flood,Auto Rock,swimming,auto,0.09523809523809523
+Swimming In The Flood,Auto Rock,swimming,rock,0.125
+Swimming In The Flood,Auto Rock,swimming,mr,0.21052631578947367
+Swimming In The Flood,Auto Rock,swimming,beast,0.11764705882352941
+Swimming In The Flood,Auto Rock,flood,auto,0.2222222222222222
+Swimming In The Flood,Auto Rock,flood,rock,0.3076923076923077
+Swimming In The Flood,Auto Rock,flood,mr,0.125
+Swimming In The Flood,Auto Rock,flood,beast,0.2857142857142857
+Swimming In The Flood,Auto Rock,manners,auto,0.11764705882352941
+Swimming In The Flood,Auto Rock,manners,rock,0.16666666666666666
+Swimming In The Flood,Auto Rock,manners,mr,0.26666666666666666
+Swimming In The Flood,Auto Rock,manners,beast,0.15384615384615385
+Swimming In The Flood,Who Knows Who Cares,swimming,knows,0.3333333333333333
+Swimming In The Flood,Who Knows Who Cares,swimming,cares,0.6666666666666666
+Swimming In The Flood,Who Knows Who Cares,swimming,gorilla,0.07692307692307693
+Swimming In The Flood,Who Knows Who Cares,swimming,manor,0.1
+Swimming In The Flood,Who Knows Who Cares,flood,knows,0.13333333333333333
+Swimming In The Flood,Who Knows Who Cares,flood,cares,0.13333333333333333
+Swimming In The Flood,Who Knows Who Cares,flood,gorilla,0.17391304347826086
+Swimming In The Flood,Who Knows Who Cares,flood,manor,0.23529411764705882
+Swimming In The Flood,Who Knows Who Cares,manners,knows,0.2857142857142857
+Swimming In The Flood,Who Knows Who Cares,manners,cares,0.2857142857142857
+Swimming In The Flood,Who Knows Who Cares,manners,gorilla,0.09090909090909091
+Swimming In The Flood,Who Knows Who Cares,manners,manor,0.125
+Swimming In The Flood,Quiet,swimming,quiet,0.09523809523809523
+Swimming In The Flood,Quiet,swimming,young,0.1111111111111111
+Swimming In The Flood,Quiet,swimming,mountain,0.125
+Swimming In The Flood,Quiet,flood,quiet,0.5555555555555556
+Swimming In The Flood,Quiet,flood,young,0.26666666666666666
+Swimming In The Flood,Quiet,flood,mountain,0.3076923076923077
+Swimming In The Flood,Quiet,manners,quiet,0.11764705882352941
+Swimming In The Flood,Quiet,manners,young,0.14285714285714285
+Swimming In The Flood,Quiet,manners,mountain,0.16666666666666666
+Swimming In The Flood,Girlfriend,swimming,girlfriend,0.125
+Swimming In The Flood,Girlfriend,swimming,phoenix,0.09523809523809523
+Swimming In The Flood,Girlfriend,flood,girlfriend,0.3076923076923077
+Swimming In The Flood,Girlfriend,flood,phoenix,0.2222222222222222
+Swimming In The Flood,Girlfriend,manners,girlfriend,0.16666666666666666
+Swimming In The Flood,Girlfriend,manners,phoenix,0.11764705882352941
+Swimming In The Flood,Happiness: We're All In It Together,swimming,together,0
+Swimming In The Flood,Happiness: We're All In It Together,swimming,happiness,0.2222222222222222
+Swimming In The Flood,Happiness: We're All In It Together,swimming,young,0.1111111111111111
+Swimming In The Flood,Happiness: We're All In It Together,swimming,mountain,0.125
+Swimming In The Flood,Happiness: We're All In It Together,flood,together,0
+Swimming In The Flood,Happiness: We're All In It Together,flood,happiness,0.13333333333333333
+Swimming In The Flood,Happiness: We're All In It Together,flood,young,0.26666666666666666
+Swimming In The Flood,Happiness: We're All In It Together,flood,mountain,0.3076923076923077
+Swimming In The Flood,Happiness: We're All In It Together,manners,together,0
+Swimming In The Flood,Happiness: We're All In It Together,manners,happiness,0.42857142857142855
+Swimming In The Flood,Happiness: We're All In It Together,manners,young,0.14285714285714285
+Swimming In The Flood,Happiness: We're All In It Together,manners,mountain,0.16666666666666666
+Swimming In The Flood,Armistice,swimming,armistice,0.23529411764705882
+Swimming In The Flood,Armistice,swimming,phoenix,0.09523809523809523
+Swimming In The Flood,Armistice,flood,armistice,0.14285714285714285
+Swimming In The Flood,Armistice,flood,phoenix,0.2222222222222222
+Swimming In The Flood,Armistice,manners,armistice,0.46153846153846156
+Swimming In The Flood,Armistice,manners,phoenix,0.11764705882352941
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,swimming,remedies,0.47619047619047616
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,swimming,worse,0.25
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,swimming,disease,0.2
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,swimming,young,0.1111111111111111
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,swimming,mountain,0.125
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,flood,remedies,0.1111111111111111
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,flood,worse,0.15384615384615385
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,flood,disease,0.11764705882352941
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,flood,young,0.26666666666666666
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,flood,mountain,0.3076923076923077
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,manners,remedies,0.23529411764705882
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,manners,worse,0.5
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,manners,disease,0.375
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,manners,young,0.14285714285714285
+Swimming In The Flood,There Are Some Remedies Worse Than The Disease,manners,mountain,0.16666666666666666

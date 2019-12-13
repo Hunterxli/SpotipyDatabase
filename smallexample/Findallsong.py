@@ -31,14 +31,16 @@ while(num < 101):
 print(len(songName))
 newlist = []
 repName = []
+count = 0
 for name in songName:
 	if name not in newlist:
 		newlist.append(name)
 	else:
 		repName.append(name)
+		count = count + 1
 songName = newlist
 print(len(songName))
-print(repName)
+print(count)
 #print(songName[0])
 s = 0
 csvFile = open("allsongname.csv", "w", newline='', encoding='utf-8')

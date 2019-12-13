@@ -114,26 +114,26 @@ Water Line,Streets On Lock,human,streets,0.34782608695652173
 Water Line,Streets On Lock,human,lock,0.3333333333333333
 Water Line,Streets On Lock,human,jam,0.16
 Water Line,Streets On Lock,human,beef,0.6875
-Water Line,Love words,water,love,0.26666666666666666
-Water Line,Love words,water,words,0.2857142857142857
-Water Line,Love words,water,risky,0
-Water Line,Love words,water,business,0.26666666666666666
-Water Line,Love words,line,love,0.3076923076923077
-Water Line,Love words,line,words,0.3333333333333333
-Water Line,Love words,line,risky,0
-Water Line,Love words,line,business,0.46153846153846156
-Water Line,Love words,death,love,0.2857142857142857
-Water Line,Love words,death,words,0.3076923076923077
-Water Line,Love words,death,risky,0
-Water Line,Love words,death,business,0.2857142857142857
-Water Line,Love words,dance,love,0.13333333333333333
-Water Line,Love words,dance,words,0.14285714285714285
-Water Line,Love words,dance,risky,0
-Water Line,Love words,dance,business,0.13333333333333333
-Water Line,Love words,human,love,0.09523809523809523
-Water Line,Love words,human,words,0.1
-Water Line,Love words,human,risky,0
-Water Line,Love words,human,business,0.09523809523809523
+Water Line,Les Mots D'Amour,water,love,0.26666666666666666
+Water Line,Les Mots D'Amour,water,words,0.2857142857142857
+Water Line,Les Mots D'Amour,water,risky,0
+Water Line,Les Mots D'Amour,water,business,0.26666666666666666
+Water Line,Les Mots D'Amour,line,love,0.3076923076923077
+Water Line,Les Mots D'Amour,line,words,0.3333333333333333
+Water Line,Les Mots D'Amour,line,risky,0
+Water Line,Les Mots D'Amour,line,business,0.46153846153846156
+Water Line,Les Mots D'Amour,death,love,0.2857142857142857
+Water Line,Les Mots D'Amour,death,words,0.3076923076923077
+Water Line,Les Mots D'Amour,death,risky,0
+Water Line,Les Mots D'Amour,death,business,0.2857142857142857
+Water Line,Les Mots D'Amour,dance,love,0.13333333333333333
+Water Line,Les Mots D'Amour,dance,words,0.14285714285714285
+Water Line,Les Mots D'Amour,dance,risky,0
+Water Line,Les Mots D'Amour,dance,business,0.13333333333333333
+Water Line,Les Mots D'Amour,human,love,0.09523809523809523
+Water Line,Les Mots D'Amour,human,words,0.1
+Water Line,Les Mots D'Amour,human,risky,0
+Water Line,Les Mots D'Amour,human,business,0.09523809523809523
 Water Line,Never Ever (Booker T's Up North Dub),water,north,0.3076923076923077
 Water Line,Never Ever (Booker T's Up North Dub),water,dub,0.2222222222222222
 Water Line,Never Ever (Booker T's Up North Dub),water,never,0
@@ -234,11 +234,11 @@ Water Line,Haven't We Met Somewhere Before?,human,somewhere,0.3157894736842105
 Water Line,Haven't We Met Somewhere Before?,human,sex,0.2
 Water Line,Haven't We Met Somewhere Before?,human,birds,0.75
 Water Line,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Water Line,The Route,water,route,0.3333333333333333
-Water Line,The Route,line,route,0.16666666666666666
-Water Line,The Route,death,route,0.15384615384615385
-Water Line,The Route,dance,route,0.42857142857142855
-Water Line,The Route,human,route,0.3
+Water Line,L'Itinéraire,water,route,0.3333333333333333
+Water Line,L'Itinéraire,line,route,0.16666666666666666
+Water Line,L'Itinéraire,death,route,0.15384615384615385
+Water Line,L'Itinéraire,dance,route,0.42857142857142855
+Water Line,L'Itinéraire,human,route,0.3
 Water Line,The Way Things Go,water,way,0.3076923076923077
 Water Line,The Way Things Go,water,things,0.375
 Water Line,The Way Things Go,water,go,0.23529411764705882
@@ -264,21 +264,21 @@ Water Line,The Way Things Go,human,things,0.1
 Water Line,The Way Things Go,human,go,0.08695652173913043
 Water Line,The Way Things Go,human,identification,0.09090909090909091
 Water Line,The Way Things Go,human,parade,0.1
-Water Line,There&#39;s a girl who lives at home,water,lives,0.2857142857142857
-Water Line,There&#39;s a girl who lives at home,water,home,0.26666666666666666
-Water Line,There&#39;s a girl who lives at home,water,girl,0.3076923076923077
-Water Line,There&#39;s a girl who lives at home,line,lives,0.3333333333333333
-Water Line,There&#39;s a girl who lives at home,line,home,0.13333333333333333
-Water Line,There&#39;s a girl who lives at home,line,girl,0.15384615384615385
-Water Line,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Water Line,There&#39;s a girl who lives at home,death,home,0.125
-Water Line,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Water Line,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Water Line,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Water Line,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Water Line,There&#39;s a girl who lives at home,human,lives,0.1
-Water Line,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Water Line,There&#39;s a girl who lives at home,human,girl,0.5
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,water,lives,0.2857142857142857
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,water,home,0.26666666666666666
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,water,girl,0.3076923076923077
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,line,lives,0.3333333333333333
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,line,home,0.13333333333333333
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,line,girl,0.15384615384615385
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Water Line,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Agony In Her Body,Permanently Lonely,body,permanently,0
 Agony In Her Body,Permanently Lonely,body,lonely,0
 Agony In Her Body,Permanently Lonely,agony,permanently,0
@@ -371,22 +371,22 @@ Agony In Her Body,Streets On Lock,distrust,streets,0.1111111111111111
 Agony In Her Body,Streets On Lock,distrust,lock,0.10526315789473684
 Agony In Her Body,Streets On Lock,distrust,jam,0.1
 Agony In Her Body,Streets On Lock,distrust,beef,0.07407407407407407
-Agony In Her Body,Love words,body,love,0.15384615384615385
-Agony In Her Body,Love words,body,words,0.16666666666666666
-Agony In Her Body,Love words,body,risky,0
-Agony In Her Body,Love words,body,business,0.15384615384615385
-Agony In Her Body,Love words,agony,love,0.6666666666666666
-Agony In Her Body,Love words,agony,words,0.2857142857142857
-Agony In Her Body,Love words,agony,risky,0
-Agony In Her Body,Love words,agony,business,0.26666666666666666
-Agony In Her Body,Love words,healthy,love,0
-Agony In Her Body,Love words,healthy,words,0
-Agony In Her Body,Love words,healthy,risky,0
-Agony In Her Body,Love words,healthy,business,0
-Agony In Her Body,Love words,distrust,love,0.5
-Agony In Her Body,Love words,distrust,words,0.26666666666666666
-Agony In Her Body,Love words,distrust,risky,0
-Agony In Her Body,Love words,distrust,business,0.25
+Agony In Her Body,Les Mots D'Amour,body,love,0.15384615384615385
+Agony In Her Body,Les Mots D'Amour,body,words,0.16666666666666666
+Agony In Her Body,Les Mots D'Amour,body,risky,0
+Agony In Her Body,Les Mots D'Amour,body,business,0.15384615384615385
+Agony In Her Body,Les Mots D'Amour,agony,love,0.6666666666666666
+Agony In Her Body,Les Mots D'Amour,agony,words,0.2857142857142857
+Agony In Her Body,Les Mots D'Amour,agony,risky,0
+Agony In Her Body,Les Mots D'Amour,agony,business,0.26666666666666666
+Agony In Her Body,Les Mots D'Amour,healthy,love,0
+Agony In Her Body,Les Mots D'Amour,healthy,words,0
+Agony In Her Body,Les Mots D'Amour,healthy,risky,0
+Agony In Her Body,Les Mots D'Amour,healthy,business,0
+Agony In Her Body,Les Mots D'Amour,distrust,love,0.5
+Agony In Her Body,Les Mots D'Amour,distrust,words,0.26666666666666666
+Agony In Her Body,Les Mots D'Amour,distrust,risky,0
+Agony In Her Body,Les Mots D'Amour,distrust,business,0.25
 Agony In Her Body,Never Ever (Booker T's Up North Dub),body,north,0.46153846153846156
 Agony In Her Body,Never Ever (Booker T's Up North Dub),body,dub,0.125
 Agony In Her Body,Never Ever (Booker T's Up North Dub),body,never,0
@@ -467,10 +467,10 @@ Agony In Her Body,Haven't We Met Somewhere Before?,distrust,somewhere,0.14285714
 Agony In Her Body,Haven't We Met Somewhere Before?,distrust,sex,0.13333333333333333
 Agony In Her Body,Haven't We Met Somewhere Before?,distrust,birds,0.10526315789473684
 Agony In Her Body,Haven't We Met Somewhere Before?,distrust,bees,0.09523809523809523
-Agony In Her Body,The Route,body,route,0.5
-Agony In Her Body,The Route,agony,route,0.14285714285714285
-Agony In Her Body,The Route,healthy,route,0
-Agony In Her Body,The Route,distrust,route,0.13333333333333333
+Agony In Her Body,L'Itinéraire,body,route,0.5
+Agony In Her Body,L'Itinéraire,agony,route,0.14285714285714285
+Agony In Her Body,L'Itinéraire,healthy,route,0
+Agony In Her Body,L'Itinéraire,distrust,route,0.13333333333333333
 Agony In Her Body,The Way Things Go,body,way,0.18181818181818182
 Agony In Her Body,The Way Things Go,body,things,0.16666666666666666
 Agony In Her Body,The Way Things Go,body,go,0.13333333333333333
@@ -491,18 +491,18 @@ Agony In Her Body,The Way Things Go,distrust,things,0.26666666666666666
 Agony In Her Body,The Way Things Go,distrust,go,0.2222222222222222
 Agony In Her Body,The Way Things Go,distrust,identification,0.23529411764705882
 Agony In Her Body,The Way Things Go,distrust,parade,0.26666666666666666
-Agony In Her Body,There&#39;s a girl who lives at home,body,lives,0.16666666666666666
-Agony In Her Body,There&#39;s a girl who lives at home,body,home,0.4
-Agony In Her Body,There&#39;s a girl who lives at home,body,girl,0.5
-Agony In Her Body,There&#39;s a girl who lives at home,agony,lives,0.5714285714285714
-Agony In Her Body,There&#39;s a girl who lives at home,agony,home,0.11764705882352941
-Agony In Her Body,There&#39;s a girl who lives at home,agony,girl,0.13333333333333333
-Agony In Her Body,There&#39;s a girl who lives at home,healthy,lives,0
-Agony In Her Body,There&#39;s a girl who lives at home,healthy,home,0
-Agony In Her Body,There&#39;s a girl who lives at home,healthy,girl,0
-Agony In Her Body,There&#39;s a girl who lives at home,distrust,lives,0.5333333333333333
-Agony In Her Body,There&#39;s a girl who lives at home,distrust,home,0.1111111111111111
-Agony In Her Body,There&#39;s a girl who lives at home,distrust,girl,0.125
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,body,lives,0.16666666666666666
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,body,home,0.4
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,body,girl,0.5
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,agony,lives,0.5714285714285714
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,agony,home,0.11764705882352941
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,agony,girl,0.13333333333333333
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,healthy,lives,0
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,healthy,home,0
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,healthy,girl,0
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,distrust,lives,0.5333333333333333
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,distrust,home,0.1111111111111111
+Agony In Her Body,Y'a Une Fille Qu'Habite Chez Moi,distrust,girl,0.125
 Black Out On White Night,Permanently Lonely,white,permanently,0
 Black Out On White Night,Permanently Lonely,white,lonely,0
 Black Out On White Night,Permanently Lonely,night,permanently,0
@@ -641,30 +641,30 @@ Black Out On White Night,Streets On Lock,human,streets,0.34782608695652173
 Black Out On White Night,Streets On Lock,human,lock,0.3333333333333333
 Black Out On White Night,Streets On Lock,human,jam,0.16
 Black Out On White Night,Streets On Lock,human,beef,0.6875
-Black Out On White Night,Love words,white,love,0.16666666666666666
-Black Out On White Night,Love words,white,words,0.18181818181818182
-Black Out On White Night,Love words,white,risky,0
-Black Out On White Night,Love words,white,business,0.16666666666666666
-Black Out On White Night,Love words,night,love,0.3076923076923077
-Black Out On White Night,Love words,night,words,0.3333333333333333
-Black Out On White Night,Love words,night,risky,0
-Black Out On White Night,Love words,night,business,0.3076923076923077
-Black Out On White Night,Love words,black,love,0.4
-Black Out On White Night,Love words,black,words,0.2857142857142857
-Black Out On White Night,Love words,black,risky,0
-Black Out On White Night,Love words,black,business,0.26666666666666666
-Black Out On White Night,Love words,death,love,0.2857142857142857
-Black Out On White Night,Love words,death,words,0.3076923076923077
-Black Out On White Night,Love words,death,risky,0
-Black Out On White Night,Love words,death,business,0.2857142857142857
-Black Out On White Night,Love words,dance,love,0.13333333333333333
-Black Out On White Night,Love words,dance,words,0.14285714285714285
-Black Out On White Night,Love words,dance,risky,0
-Black Out On White Night,Love words,dance,business,0.13333333333333333
-Black Out On White Night,Love words,human,love,0.09523809523809523
-Black Out On White Night,Love words,human,words,0.1
-Black Out On White Night,Love words,human,risky,0
-Black Out On White Night,Love words,human,business,0.09523809523809523
+Black Out On White Night,Les Mots D'Amour,white,love,0.16666666666666666
+Black Out On White Night,Les Mots D'Amour,white,words,0.18181818181818182
+Black Out On White Night,Les Mots D'Amour,white,risky,0
+Black Out On White Night,Les Mots D'Amour,white,business,0.16666666666666666
+Black Out On White Night,Les Mots D'Amour,night,love,0.3076923076923077
+Black Out On White Night,Les Mots D'Amour,night,words,0.3333333333333333
+Black Out On White Night,Les Mots D'Amour,night,risky,0
+Black Out On White Night,Les Mots D'Amour,night,business,0.3076923076923077
+Black Out On White Night,Les Mots D'Amour,black,love,0.4
+Black Out On White Night,Les Mots D'Amour,black,words,0.2857142857142857
+Black Out On White Night,Les Mots D'Amour,black,risky,0
+Black Out On White Night,Les Mots D'Amour,black,business,0.26666666666666666
+Black Out On White Night,Les Mots D'Amour,death,love,0.2857142857142857
+Black Out On White Night,Les Mots D'Amour,death,words,0.3076923076923077
+Black Out On White Night,Les Mots D'Amour,death,risky,0
+Black Out On White Night,Les Mots D'Amour,death,business,0.2857142857142857
+Black Out On White Night,Les Mots D'Amour,dance,love,0.13333333333333333
+Black Out On White Night,Les Mots D'Amour,dance,words,0.14285714285714285
+Black Out On White Night,Les Mots D'Amour,dance,risky,0
+Black Out On White Night,Les Mots D'Amour,dance,business,0.13333333333333333
+Black Out On White Night,Les Mots D'Amour,human,love,0.09523809523809523
+Black Out On White Night,Les Mots D'Amour,human,words,0.1
+Black Out On White Night,Les Mots D'Amour,human,risky,0
+Black Out On White Night,Les Mots D'Amour,human,business,0.09523809523809523
 Black Out On White Night,Never Ever (Booker T's Up North Dub),white,north,0.42857142857142855
 Black Out On White Night,Never Ever (Booker T's Up North Dub),white,dub,0.13333333333333333
 Black Out On White Night,Never Ever (Booker T's Up North Dub),white,never,0
@@ -785,12 +785,12 @@ Black Out On White Night,Haven't We Met Somewhere Before?,human,somewhere,0.3157
 Black Out On White Night,Haven't We Met Somewhere Before?,human,sex,0.2
 Black Out On White Night,Haven't We Met Somewhere Before?,human,birds,0.75
 Black Out On White Night,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Black Out On White Night,The Route,white,route,0.46153846153846156
-Black Out On White Night,The Route,night,route,0.16666666666666666
-Black Out On White Night,The Route,black,route,0.14285714285714285
-Black Out On White Night,The Route,death,route,0.15384615384615385
-Black Out On White Night,The Route,dance,route,0.42857142857142855
-Black Out On White Night,The Route,human,route,0.3
+Black Out On White Night,L'Itinéraire,white,route,0.46153846153846156
+Black Out On White Night,L'Itinéraire,night,route,0.16666666666666666
+Black Out On White Night,L'Itinéraire,black,route,0.14285714285714285
+Black Out On White Night,L'Itinéraire,death,route,0.15384615384615385
+Black Out On White Night,L'Itinéraire,dance,route,0.42857142857142855
+Black Out On White Night,L'Itinéraire,human,route,0.3
 Black Out On White Night,The Way Things Go,white,way,0.2
 Black Out On White Night,The Way Things Go,white,things,0.18181818181818182
 Black Out On White Night,The Way Things Go,white,go,0.14285714285714285
@@ -821,24 +821,24 @@ Black Out On White Night,The Way Things Go,human,things,0.1
 Black Out On White Night,The Way Things Go,human,go,0.08695652173913043
 Black Out On White Night,The Way Things Go,human,identification,0.09090909090909091
 Black Out On White Night,The Way Things Go,human,parade,0.1
-Black Out On White Night,There&#39;s a girl who lives at home,white,lives,0.18181818181818182
-Black Out On White Night,There&#39;s a girl who lives at home,white,home,0.375
-Black Out On White Night,There&#39;s a girl who lives at home,white,girl,0.6666666666666666
-Black Out On White Night,There&#39;s a girl who lives at home,night,lives,0.3333333333333333
-Black Out On White Night,There&#39;s a girl who lives at home,night,home,0.13333333333333333
-Black Out On White Night,There&#39;s a girl who lives at home,night,girl,0.15384615384615385
-Black Out On White Night,There&#39;s a girl who lives at home,black,lives,0.42857142857142855
-Black Out On White Night,There&#39;s a girl who lives at home,black,home,0.11764705882352941
-Black Out On White Night,There&#39;s a girl who lives at home,black,girl,0.13333333333333333
-Black Out On White Night,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Black Out On White Night,There&#39;s a girl who lives at home,death,home,0.125
-Black Out On White Night,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Black Out On White Night,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Black Out On White Night,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Black Out On White Night,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Black Out On White Night,There&#39;s a girl who lives at home,human,lives,0.1
-Black Out On White Night,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Black Out On White Night,There&#39;s a girl who lives at home,human,girl,0.5
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,white,lives,0.18181818181818182
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,white,home,0.375
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,white,girl,0.6666666666666666
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,night,lives,0.3333333333333333
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,night,home,0.13333333333333333
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,night,girl,0.15384615384615385
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,black,lives,0.42857142857142855
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,black,home,0.11764705882352941
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,black,girl,0.13333333333333333
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Black Out On White Night,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 The Best of Times,Permanently Lonely,times,permanently,0
 The Best of Times,Permanently Lonely,times,lonely,0
 The Best of Times,Permanently Lonely,best,permanently,0
@@ -931,22 +931,22 @@ The Best of Times,Streets On Lock,best,streets,0.11764705882352941
 The Best of Times,Streets On Lock,best,lock,0.1111111111111111
 The Best of Times,Streets On Lock,best,jam,0.10526315789473684
 The Best of Times,Streets On Lock,best,beef,0.07692307692307693
-The Best of Times,Love words,times,love,0.3076923076923077
-The Best of Times,Love words,times,words,0.3333333333333333
-The Best of Times,Love words,times,risky,0
-The Best of Times,Love words,times,business,0.3076923076923077
-The Best of Times,Love words,best,love,0.26666666666666666
-The Best of Times,Love words,best,words,0.2857142857142857
-The Best of Times,Love words,best,risky,0
-The Best of Times,Love words,best,business,0.26666666666666666
-The Best of Times,Love words,times,love,0.3076923076923077
-The Best of Times,Love words,times,words,0.3333333333333333
-The Best of Times,Love words,times,risky,0
-The Best of Times,Love words,times,business,0.3076923076923077
-The Best of Times,Love words,best,love,0.26666666666666666
-The Best of Times,Love words,best,words,0.2857142857142857
-The Best of Times,Love words,best,risky,0
-The Best of Times,Love words,best,business,0.26666666666666666
+The Best of Times,Les Mots D'Amour,times,love,0.3076923076923077
+The Best of Times,Les Mots D'Amour,times,words,0.3333333333333333
+The Best of Times,Les Mots D'Amour,times,risky,0
+The Best of Times,Les Mots D'Amour,times,business,0.3076923076923077
+The Best of Times,Les Mots D'Amour,best,love,0.26666666666666666
+The Best of Times,Les Mots D'Amour,best,words,0.2857142857142857
+The Best of Times,Les Mots D'Amour,best,risky,0
+The Best of Times,Les Mots D'Amour,best,business,0.26666666666666666
+The Best of Times,Les Mots D'Amour,times,love,0.3076923076923077
+The Best of Times,Les Mots D'Amour,times,words,0.3333333333333333
+The Best of Times,Les Mots D'Amour,times,risky,0
+The Best of Times,Les Mots D'Amour,times,business,0.3076923076923077
+The Best of Times,Les Mots D'Amour,best,love,0.26666666666666666
+The Best of Times,Les Mots D'Amour,best,words,0.2857142857142857
+The Best of Times,Les Mots D'Amour,best,risky,0
+The Best of Times,Les Mots D'Amour,best,business,0.26666666666666666
 The Best of Times,Never Ever (Booker T's Up North Dub),times,north,0.15384615384615385
 The Best of Times,Never Ever (Booker T's Up North Dub),times,dub,0.25
 The Best of Times,Never Ever (Booker T's Up North Dub),times,never,0
@@ -1027,10 +1027,10 @@ The Best of Times,Haven't We Met Somewhere Before?,best,somewhere,0.153846153846
 The Best of Times,Haven't We Met Somewhere Before?,best,sex,0.14285714285714285
 The Best of Times,Haven't We Met Somewhere Before?,best,birds,0.1111111111111111
 The Best of Times,Haven't We Met Somewhere Before?,best,bees,0.1
-The Best of Times,The Route,times,route,0.16666666666666666
-The Best of Times,The Route,best,route,0.14285714285714285
-The Best of Times,The Route,times,route,0.16666666666666666
-The Best of Times,The Route,best,route,0.14285714285714285
+The Best of Times,L'Itinéraire,times,route,0.16666666666666666
+The Best of Times,L'Itinéraire,best,route,0.14285714285714285
+The Best of Times,L'Itinéraire,times,route,0.16666666666666666
+The Best of Times,L'Itinéraire,best,route,0.14285714285714285
 The Best of Times,The Way Things Go,times,way,0.36363636363636365
 The Best of Times,The Way Things Go,times,things,0.3333333333333333
 The Best of Times,The Way Things Go,times,go,0.6666666666666666
@@ -1051,18 +1051,18 @@ The Best of Times,The Way Things Go,best,things,0.2857142857142857
 The Best of Times,The Way Things Go,best,go,0.23529411764705882
 The Best of Times,The Way Things Go,best,identification,0.625
 The Best of Times,The Way Things Go,best,parade,0.625
-The Best of Times,There&#39;s a girl who lives at home,times,lives,0.3333333333333333
-The Best of Times,There&#39;s a girl who lives at home,times,home,0.13333333333333333
-The Best of Times,There&#39;s a girl who lives at home,times,girl,0.15384615384615385
-The Best of Times,There&#39;s a girl who lives at home,best,lives,0.2857142857142857
-The Best of Times,There&#39;s a girl who lives at home,best,home,0.11764705882352941
-The Best of Times,There&#39;s a girl who lives at home,best,girl,0.13333333333333333
-The Best of Times,There&#39;s a girl who lives at home,times,lives,0.3333333333333333
-The Best of Times,There&#39;s a girl who lives at home,times,home,0.13333333333333333
-The Best of Times,There&#39;s a girl who lives at home,times,girl,0.15384615384615385
-The Best of Times,There&#39;s a girl who lives at home,best,lives,0.2857142857142857
-The Best of Times,There&#39;s a girl who lives at home,best,home,0.11764705882352941
-The Best of Times,There&#39;s a girl who lives at home,best,girl,0.13333333333333333
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,times,lives,0.3333333333333333
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,times,home,0.13333333333333333
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,times,girl,0.15384615384615385
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,best,lives,0.2857142857142857
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,best,home,0.11764705882352941
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,best,girl,0.13333333333333333
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,times,lives,0.3333333333333333
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,times,home,0.13333333333333333
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,times,girl,0.15384615384615385
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,best,lives,0.2857142857142857
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,best,home,0.11764705882352941
+The Best of Times,Y'a Une Fille Qu'Habite Chez Moi,best,girl,0.13333333333333333
 Gunz Yo,Permanently Lonely,healthy,permanently,0
 Gunz Yo,Permanently Lonely,healthy,lonely,0
 Gunz Yo,Permanently Lonely,distrust,permanently,0
@@ -1109,14 +1109,14 @@ Gunz Yo,Streets On Lock,distrust,streets,0.1111111111111111
 Gunz Yo,Streets On Lock,distrust,lock,0.10526315789473684
 Gunz Yo,Streets On Lock,distrust,jam,0.1
 Gunz Yo,Streets On Lock,distrust,beef,0.07407407407407407
-Gunz Yo,Love words,healthy,love,0
-Gunz Yo,Love words,healthy,words,0
-Gunz Yo,Love words,healthy,risky,0
-Gunz Yo,Love words,healthy,business,0
-Gunz Yo,Love words,distrust,love,0.5
-Gunz Yo,Love words,distrust,words,0.26666666666666666
-Gunz Yo,Love words,distrust,risky,0
-Gunz Yo,Love words,distrust,business,0.25
+Gunz Yo,Les Mots D'Amour,healthy,love,0
+Gunz Yo,Les Mots D'Amour,healthy,words,0
+Gunz Yo,Les Mots D'Amour,healthy,risky,0
+Gunz Yo,Les Mots D'Amour,healthy,business,0
+Gunz Yo,Les Mots D'Amour,distrust,love,0.5
+Gunz Yo,Les Mots D'Amour,distrust,words,0.26666666666666666
+Gunz Yo,Les Mots D'Amour,distrust,risky,0
+Gunz Yo,Les Mots D'Amour,distrust,business,0.25
 Gunz Yo,Never Ever (Booker T's Up North Dub),healthy,north,0
 Gunz Yo,Never Ever (Booker T's Up North Dub),healthy,dub,0
 Gunz Yo,Never Ever (Booker T's Up North Dub),healthy,never,0
@@ -1157,8 +1157,8 @@ Gunz Yo,Haven't We Met Somewhere Before?,distrust,somewhere,0.14285714285714285
 Gunz Yo,Haven't We Met Somewhere Before?,distrust,sex,0.13333333333333333
 Gunz Yo,Haven't We Met Somewhere Before?,distrust,birds,0.10526315789473684
 Gunz Yo,Haven't We Met Somewhere Before?,distrust,bees,0.09523809523809523
-Gunz Yo,The Route,healthy,route,0
-Gunz Yo,The Route,distrust,route,0.13333333333333333
+Gunz Yo,L'Itinéraire,healthy,route,0
+Gunz Yo,L'Itinéraire,distrust,route,0.13333333333333333
 Gunz Yo,The Way Things Go,healthy,way,0
 Gunz Yo,The Way Things Go,healthy,things,0
 Gunz Yo,The Way Things Go,healthy,go,0
@@ -1169,12 +1169,12 @@ Gunz Yo,The Way Things Go,distrust,things,0.26666666666666666
 Gunz Yo,The Way Things Go,distrust,go,0.2222222222222222
 Gunz Yo,The Way Things Go,distrust,identification,0.23529411764705882
 Gunz Yo,The Way Things Go,distrust,parade,0.26666666666666666
-Gunz Yo,There&#39;s a girl who lives at home,healthy,lives,0
-Gunz Yo,There&#39;s a girl who lives at home,healthy,home,0
-Gunz Yo,There&#39;s a girl who lives at home,healthy,girl,0
-Gunz Yo,There&#39;s a girl who lives at home,distrust,lives,0.5333333333333333
-Gunz Yo,There&#39;s a girl who lives at home,distrust,home,0.1111111111111111
-Gunz Yo,There&#39;s a girl who lives at home,distrust,girl,0.125
+Gunz Yo,Y'a Une Fille Qu'Habite Chez Moi,healthy,lives,0
+Gunz Yo,Y'a Une Fille Qu'Habite Chez Moi,healthy,home,0
+Gunz Yo,Y'a Une Fille Qu'Habite Chez Moi,healthy,girl,0
+Gunz Yo,Y'a Une Fille Qu'Habite Chez Moi,distrust,lives,0.5333333333333333
+Gunz Yo,Y'a Une Fille Qu'Habite Chez Moi,distrust,home,0.1111111111111111
+Gunz Yo,Y'a Une Fille Qu'Habite Chez Moi,distrust,girl,0.125
 Clickety Clack,Permanently Lonely,clack,permanently,0
 Clickety Clack,Permanently Lonely,clack,lonely,0
 Clickety Clack,Permanently Lonely,death,permanently,0
@@ -1267,22 +1267,22 @@ Clickety Clack,Streets On Lock,human,streets,0.34782608695652173
 Clickety Clack,Streets On Lock,human,lock,0.3333333333333333
 Clickety Clack,Streets On Lock,human,jam,0.16
 Clickety Clack,Streets On Lock,human,beef,0.6875
-Clickety Clack,Love words,clack,love,0.26666666666666666
-Clickety Clack,Love words,clack,words,0.2857142857142857
-Clickety Clack,Love words,clack,risky,0
-Clickety Clack,Love words,clack,business,0.26666666666666666
-Clickety Clack,Love words,death,love,0.2857142857142857
-Clickety Clack,Love words,death,words,0.3076923076923077
-Clickety Clack,Love words,death,risky,0
-Clickety Clack,Love words,death,business,0.2857142857142857
-Clickety Clack,Love words,dance,love,0.13333333333333333
-Clickety Clack,Love words,dance,words,0.14285714285714285
-Clickety Clack,Love words,dance,risky,0
-Clickety Clack,Love words,dance,business,0.13333333333333333
-Clickety Clack,Love words,human,love,0.09523809523809523
-Clickety Clack,Love words,human,words,0.1
-Clickety Clack,Love words,human,risky,0
-Clickety Clack,Love words,human,business,0.09523809523809523
+Clickety Clack,Les Mots D'Amour,clack,love,0.26666666666666666
+Clickety Clack,Les Mots D'Amour,clack,words,0.2857142857142857
+Clickety Clack,Les Mots D'Amour,clack,risky,0
+Clickety Clack,Les Mots D'Amour,clack,business,0.26666666666666666
+Clickety Clack,Les Mots D'Amour,death,love,0.2857142857142857
+Clickety Clack,Les Mots D'Amour,death,words,0.3076923076923077
+Clickety Clack,Les Mots D'Amour,death,risky,0
+Clickety Clack,Les Mots D'Amour,death,business,0.2857142857142857
+Clickety Clack,Les Mots D'Amour,dance,love,0.13333333333333333
+Clickety Clack,Les Mots D'Amour,dance,words,0.14285714285714285
+Clickety Clack,Les Mots D'Amour,dance,risky,0
+Clickety Clack,Les Mots D'Amour,dance,business,0.13333333333333333
+Clickety Clack,Les Mots D'Amour,human,love,0.09523809523809523
+Clickety Clack,Les Mots D'Amour,human,words,0.1
+Clickety Clack,Les Mots D'Amour,human,risky,0
+Clickety Clack,Les Mots D'Amour,human,business,0.09523809523809523
 Clickety Clack,Never Ever (Booker T's Up North Dub),clack,north,0.13333333333333333
 Clickety Clack,Never Ever (Booker T's Up North Dub),clack,dub,0.3333333333333333
 Clickety Clack,Never Ever (Booker T's Up North Dub),clack,never,0
@@ -1363,10 +1363,10 @@ Clickety Clack,Haven't We Met Somewhere Before?,human,somewhere,0.31578947368421
 Clickety Clack,Haven't We Met Somewhere Before?,human,sex,0.2
 Clickety Clack,Haven't We Met Somewhere Before?,human,birds,0.75
 Clickety Clack,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Clickety Clack,The Route,clack,route,0.14285714285714285
-Clickety Clack,The Route,death,route,0.15384615384615385
-Clickety Clack,The Route,dance,route,0.42857142857142855
-Clickety Clack,The Route,human,route,0.3
+Clickety Clack,L'Itinéraire,clack,route,0.14285714285714285
+Clickety Clack,L'Itinéraire,death,route,0.15384615384615385
+Clickety Clack,L'Itinéraire,dance,route,0.42857142857142855
+Clickety Clack,L'Itinéraire,human,route,0.3
 Clickety Clack,The Way Things Go,clack,way,0.3076923076923077
 Clickety Clack,The Way Things Go,clack,things,0.2857142857142857
 Clickety Clack,The Way Things Go,clack,go,0.23529411764705882
@@ -1387,18 +1387,18 @@ Clickety Clack,The Way Things Go,human,things,0.1
 Clickety Clack,The Way Things Go,human,go,0.08695652173913043
 Clickety Clack,The Way Things Go,human,identification,0.09090909090909091
 Clickety Clack,The Way Things Go,human,parade,0.1
-Clickety Clack,There&#39;s a girl who lives at home,clack,lives,0.2857142857142857
-Clickety Clack,There&#39;s a girl who lives at home,clack,home,0.11764705882352941
-Clickety Clack,There&#39;s a girl who lives at home,clack,girl,0.13333333333333333
-Clickety Clack,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Clickety Clack,There&#39;s a girl who lives at home,death,home,0.125
-Clickety Clack,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Clickety Clack,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Clickety Clack,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Clickety Clack,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Clickety Clack,There&#39;s a girl who lives at home,human,lives,0.1
-Clickety Clack,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Clickety Clack,There&#39;s a girl who lives at home,human,girl,0.5
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,clack,lives,0.2857142857142857
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,clack,home,0.11764705882352941
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,clack,girl,0.13333333333333333
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Clickety Clack,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Midgets And Giants,Permanently Lonely,midgets,permanently,0
 Midgets And Giants,Permanently Lonely,midgets,lonely,0
 Midgets And Giants,Permanently Lonely,giants,permanently,0
@@ -1514,26 +1514,26 @@ Midgets And Giants,Streets On Lock,human,streets,0.34782608695652173
 Midgets And Giants,Streets On Lock,human,lock,0.3333333333333333
 Midgets And Giants,Streets On Lock,human,jam,0.16
 Midgets And Giants,Streets On Lock,human,beef,0.6875
-Midgets And Giants,Love words,midgets,love,0.15384615384615385
-Midgets And Giants,Love words,midgets,words,0.16666666666666666
-Midgets And Giants,Love words,midgets,risky,0
-Midgets And Giants,Love words,midgets,business,0.15384615384615385
-Midgets And Giants,Love words,giants,love,0.13333333333333333
-Midgets And Giants,Love words,giants,words,0.14285714285714285
-Midgets And Giants,Love words,giants,risky,0
-Midgets And Giants,Love words,giants,business,0.13333333333333333
-Midgets And Giants,Love words,death,love,0.2857142857142857
-Midgets And Giants,Love words,death,words,0.3076923076923077
-Midgets And Giants,Love words,death,risky,0
-Midgets And Giants,Love words,death,business,0.2857142857142857
-Midgets And Giants,Love words,dance,love,0.13333333333333333
-Midgets And Giants,Love words,dance,words,0.14285714285714285
-Midgets And Giants,Love words,dance,risky,0
-Midgets And Giants,Love words,dance,business,0.13333333333333333
-Midgets And Giants,Love words,human,love,0.09523809523809523
-Midgets And Giants,Love words,human,words,0.1
-Midgets And Giants,Love words,human,risky,0
-Midgets And Giants,Love words,human,business,0.09523809523809523
+Midgets And Giants,Les Mots D'Amour,midgets,love,0.15384615384615385
+Midgets And Giants,Les Mots D'Amour,midgets,words,0.16666666666666666
+Midgets And Giants,Les Mots D'Amour,midgets,risky,0
+Midgets And Giants,Les Mots D'Amour,midgets,business,0.15384615384615385
+Midgets And Giants,Les Mots D'Amour,giants,love,0.13333333333333333
+Midgets And Giants,Les Mots D'Amour,giants,words,0.14285714285714285
+Midgets And Giants,Les Mots D'Amour,giants,risky,0
+Midgets And Giants,Les Mots D'Amour,giants,business,0.13333333333333333
+Midgets And Giants,Les Mots D'Amour,death,love,0.2857142857142857
+Midgets And Giants,Les Mots D'Amour,death,words,0.3076923076923077
+Midgets And Giants,Les Mots D'Amour,death,risky,0
+Midgets And Giants,Les Mots D'Amour,death,business,0.2857142857142857
+Midgets And Giants,Les Mots D'Amour,dance,love,0.13333333333333333
+Midgets And Giants,Les Mots D'Amour,dance,words,0.14285714285714285
+Midgets And Giants,Les Mots D'Amour,dance,risky,0
+Midgets And Giants,Les Mots D'Amour,dance,business,0.13333333333333333
+Midgets And Giants,Les Mots D'Amour,human,love,0.09523809523809523
+Midgets And Giants,Les Mots D'Amour,human,words,0.1
+Midgets And Giants,Les Mots D'Amour,human,risky,0
+Midgets And Giants,Les Mots D'Amour,human,business,0.09523809523809523
 Midgets And Giants,Never Ever (Booker T's Up North Dub),midgets,north,0.4
 Midgets And Giants,Never Ever (Booker T's Up North Dub),midgets,dub,0.125
 Midgets And Giants,Never Ever (Booker T's Up North Dub),midgets,never,0
@@ -1634,11 +1634,11 @@ Midgets And Giants,Haven't We Met Somewhere Before?,human,somewhere,0.3157894736
 Midgets And Giants,Haven't We Met Somewhere Before?,human,sex,0.2
 Midgets And Giants,Haven't We Met Somewhere Before?,human,birds,0.75
 Midgets And Giants,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Midgets And Giants,The Route,midgets,route,0.42857142857142855
-Midgets And Giants,The Route,giants,route,0.42857142857142855
-Midgets And Giants,The Route,death,route,0.15384615384615385
-Midgets And Giants,The Route,dance,route,0.42857142857142855
-Midgets And Giants,The Route,human,route,0.3
+Midgets And Giants,L'Itinéraire,midgets,route,0.42857142857142855
+Midgets And Giants,L'Itinéraire,giants,route,0.42857142857142855
+Midgets And Giants,L'Itinéraire,death,route,0.15384615384615385
+Midgets And Giants,L'Itinéraire,dance,route,0.42857142857142855
+Midgets And Giants,L'Itinéraire,human,route,0.3
 Midgets And Giants,The Way Things Go,midgets,way,0.18181818181818182
 Midgets And Giants,The Way Things Go,midgets,things,0.16666666666666666
 Midgets And Giants,The Way Things Go,midgets,go,0.13333333333333333
@@ -1664,21 +1664,21 @@ Midgets And Giants,The Way Things Go,human,things,0.1
 Midgets And Giants,The Way Things Go,human,go,0.08695652173913043
 Midgets And Giants,The Way Things Go,human,identification,0.09090909090909091
 Midgets And Giants,The Way Things Go,human,parade,0.1
-Midgets And Giants,There&#39;s a girl who lives at home,midgets,lives,0.16666666666666666
-Midgets And Giants,There&#39;s a girl who lives at home,midgets,home,0.35294117647058826
-Midgets And Giants,There&#39;s a girl who lives at home,midgets,girl,0.631578947368421
-Midgets And Giants,There&#39;s a girl who lives at home,giants,lives,0.14285714285714285
-Midgets And Giants,There&#39;s a girl who lives at home,giants,home,0.35294117647058826
-Midgets And Giants,There&#39;s a girl who lives at home,giants,girl,0.6666666666666666
-Midgets And Giants,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Midgets And Giants,There&#39;s a girl who lives at home,death,home,0.125
-Midgets And Giants,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Midgets And Giants,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Midgets And Giants,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Midgets And Giants,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Midgets And Giants,There&#39;s a girl who lives at home,human,lives,0.1
-Midgets And Giants,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Midgets And Giants,There&#39;s a girl who lives at home,human,girl,0.5
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,midgets,lives,0.16666666666666666
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,midgets,home,0.35294117647058826
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,midgets,girl,0.631578947368421
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,giants,lives,0.14285714285714285
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,giants,home,0.35294117647058826
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,giants,girl,0.6666666666666666
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Midgets And Giants,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Call Me Francois,Permanently Lonely,call,permanently,0
 Call Me Francois,Permanently Lonely,call,lonely,0
 Call Me Francois,Permanently Lonely,death,permanently,0
@@ -1771,22 +1771,22 @@ Call Me Francois,Streets On Lock,human,streets,0.34782608695652173
 Call Me Francois,Streets On Lock,human,lock,0.3333333333333333
 Call Me Francois,Streets On Lock,human,jam,0.16
 Call Me Francois,Streets On Lock,human,beef,0.6875
-Call Me Francois,Love words,call,love,0.11764705882352941
-Call Me Francois,Love words,call,words,0.125
-Call Me Francois,Love words,call,risky,0
-Call Me Francois,Love words,call,business,0.11764705882352941
-Call Me Francois,Love words,death,love,0.2857142857142857
-Call Me Francois,Love words,death,words,0.3076923076923077
-Call Me Francois,Love words,death,risky,0
-Call Me Francois,Love words,death,business,0.2857142857142857
-Call Me Francois,Love words,dance,love,0.13333333333333333
-Call Me Francois,Love words,dance,words,0.14285714285714285
-Call Me Francois,Love words,dance,risky,0
-Call Me Francois,Love words,dance,business,0.13333333333333333
-Call Me Francois,Love words,human,love,0.09523809523809523
-Call Me Francois,Love words,human,words,0.1
-Call Me Francois,Love words,human,risky,0
-Call Me Francois,Love words,human,business,0.09523809523809523
+Call Me Francois,Les Mots D'Amour,call,love,0.11764705882352941
+Call Me Francois,Les Mots D'Amour,call,words,0.125
+Call Me Francois,Les Mots D'Amour,call,risky,0
+Call Me Francois,Les Mots D'Amour,call,business,0.11764705882352941
+Call Me Francois,Les Mots D'Amour,death,love,0.2857142857142857
+Call Me Francois,Les Mots D'Amour,death,words,0.3076923076923077
+Call Me Francois,Les Mots D'Amour,death,risky,0
+Call Me Francois,Les Mots D'Amour,death,business,0.2857142857142857
+Call Me Francois,Les Mots D'Amour,dance,love,0.13333333333333333
+Call Me Francois,Les Mots D'Amour,dance,words,0.14285714285714285
+Call Me Francois,Les Mots D'Amour,dance,risky,0
+Call Me Francois,Les Mots D'Amour,dance,business,0.13333333333333333
+Call Me Francois,Les Mots D'Amour,human,love,0.09523809523809523
+Call Me Francois,Les Mots D'Amour,human,words,0.1
+Call Me Francois,Les Mots D'Amour,human,risky,0
+Call Me Francois,Les Mots D'Amour,human,business,0.09523809523809523
 Call Me Francois,Never Ever (Booker T's Up North Dub),call,north,0.35294117647058826
 Call Me Francois,Never Ever (Booker T's Up North Dub),call,dub,0.1
 Call Me Francois,Never Ever (Booker T's Up North Dub),call,never,0
@@ -1867,10 +1867,10 @@ Call Me Francois,Haven't We Met Somewhere Before?,human,somewhere,0.315789473684
 Call Me Francois,Haven't We Met Somewhere Before?,human,sex,0.2
 Call Me Francois,Haven't We Met Somewhere Before?,human,birds,0.75
 Call Me Francois,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Call Me Francois,The Route,call,route,0.375
-Call Me Francois,The Route,death,route,0.15384615384615385
-Call Me Francois,The Route,dance,route,0.42857142857142855
-Call Me Francois,The Route,human,route,0.3
+Call Me Francois,L'Itinéraire,call,route,0.375
+Call Me Francois,L'Itinéraire,death,route,0.15384615384615385
+Call Me Francois,L'Itinéraire,dance,route,0.42857142857142855
+Call Me Francois,L'Itinéraire,human,route,0.3
 Call Me Francois,The Way Things Go,call,way,0.13333333333333333
 Call Me Francois,The Way Things Go,call,things,0.125
 Call Me Francois,The Way Things Go,call,go,0.10526315789473684
@@ -1891,18 +1891,18 @@ Call Me Francois,The Way Things Go,human,things,0.1
 Call Me Francois,The Way Things Go,human,go,0.08695652173913043
 Call Me Francois,The Way Things Go,human,identification,0.09090909090909091
 Call Me Francois,The Way Things Go,human,parade,0.1
-Call Me Francois,There&#39;s a girl who lives at home,call,lives,0.125
-Call Me Francois,There&#39;s a girl who lives at home,call,home,0.3157894736842105
-Call Me Francois,There&#39;s a girl who lives at home,call,girl,0.4
-Call Me Francois,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Call Me Francois,There&#39;s a girl who lives at home,death,home,0.125
-Call Me Francois,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Call Me Francois,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Call Me Francois,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Call Me Francois,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Call Me Francois,There&#39;s a girl who lives at home,human,lives,0.1
-Call Me Francois,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Call Me Francois,There&#39;s a girl who lives at home,human,girl,0.5
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,call,lives,0.125
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,call,home,0.3157894736842105
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,call,girl,0.4
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Call Me Francois,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Underground For Dummies,Permanently Lonely,underground,permanently,0
 Underground For Dummies,Permanently Lonely,underground,lonely,0
 Underground For Dummies,Permanently Lonely,dummies,permanently,0
@@ -2018,26 +2018,26 @@ Underground For Dummies,Streets On Lock,human,streets,0.34782608695652173
 Underground For Dummies,Streets On Lock,human,lock,0.3333333333333333
 Underground For Dummies,Streets On Lock,human,jam,0.16
 Underground For Dummies,Streets On Lock,human,beef,0.6875
-Underground For Dummies,Love words,underground,love,0.25
-Underground For Dummies,Love words,underground,words,0.26666666666666666
-Underground For Dummies,Love words,underground,risky,0
-Underground For Dummies,Love words,underground,business,0.625
-Underground For Dummies,Love words,dummies,love,0.14285714285714285
-Underground For Dummies,Love words,dummies,words,0.15384615384615385
-Underground For Dummies,Love words,dummies,risky,0
-Underground For Dummies,Love words,dummies,business,0.14285714285714285
-Underground For Dummies,Love words,death,love,0.2857142857142857
-Underground For Dummies,Love words,death,words,0.3076923076923077
-Underground For Dummies,Love words,death,risky,0
-Underground For Dummies,Love words,death,business,0.2857142857142857
-Underground For Dummies,Love words,dance,love,0.13333333333333333
-Underground For Dummies,Love words,dance,words,0.14285714285714285
-Underground For Dummies,Love words,dance,risky,0
-Underground For Dummies,Love words,dance,business,0.13333333333333333
-Underground For Dummies,Love words,human,love,0.09523809523809523
-Underground For Dummies,Love words,human,words,0.1
-Underground For Dummies,Love words,human,risky,0
-Underground For Dummies,Love words,human,business,0.09523809523809523
+Underground For Dummies,Les Mots D'Amour,underground,love,0.25
+Underground For Dummies,Les Mots D'Amour,underground,words,0.26666666666666666
+Underground For Dummies,Les Mots D'Amour,underground,risky,0
+Underground For Dummies,Les Mots D'Amour,underground,business,0.625
+Underground For Dummies,Les Mots D'Amour,dummies,love,0.14285714285714285
+Underground For Dummies,Les Mots D'Amour,dummies,words,0.15384615384615385
+Underground For Dummies,Les Mots D'Amour,dummies,risky,0
+Underground For Dummies,Les Mots D'Amour,dummies,business,0.14285714285714285
+Underground For Dummies,Les Mots D'Amour,death,love,0.2857142857142857
+Underground For Dummies,Les Mots D'Amour,death,words,0.3076923076923077
+Underground For Dummies,Les Mots D'Amour,death,risky,0
+Underground For Dummies,Les Mots D'Amour,death,business,0.2857142857142857
+Underground For Dummies,Les Mots D'Amour,dance,love,0.13333333333333333
+Underground For Dummies,Les Mots D'Amour,dance,words,0.14285714285714285
+Underground For Dummies,Les Mots D'Amour,dance,risky,0
+Underground For Dummies,Les Mots D'Amour,dance,business,0.13333333333333333
+Underground For Dummies,Les Mots D'Amour,human,love,0.09523809523809523
+Underground For Dummies,Les Mots D'Amour,human,words,0.1
+Underground For Dummies,Les Mots D'Amour,human,risky,0
+Underground For Dummies,Les Mots D'Amour,human,business,0.09523809523809523
 Underground For Dummies,Never Ever (Booker T's Up North Dub),underground,north,0.125
 Underground For Dummies,Never Ever (Booker T's Up North Dub),underground,dub,0.21052631578947367
 Underground For Dummies,Never Ever (Booker T's Up North Dub),underground,never,0
@@ -2138,11 +2138,11 @@ Underground For Dummies,Haven't We Met Somewhere Before?,human,somewhere,0.31578
 Underground For Dummies,Haven't We Met Somewhere Before?,human,sex,0.2
 Underground For Dummies,Haven't We Met Somewhere Before?,human,birds,0.75
 Underground For Dummies,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Underground For Dummies,The Route,underground,route,0.13333333333333333
-Underground For Dummies,The Route,dummies,route,0.4
-Underground For Dummies,The Route,death,route,0.15384615384615385
-Underground For Dummies,The Route,dance,route,0.42857142857142855
-Underground For Dummies,The Route,human,route,0.3
+Underground For Dummies,L'Itinéraire,underground,route,0.13333333333333333
+Underground For Dummies,L'Itinéraire,dummies,route,0.4
+Underground For Dummies,L'Itinéraire,death,route,0.15384615384615385
+Underground For Dummies,L'Itinéraire,dance,route,0.42857142857142855
+Underground For Dummies,L'Itinéraire,human,route,0.3
 Underground For Dummies,The Way Things Go,underground,way,0.2857142857142857
 Underground For Dummies,The Way Things Go,underground,things,0.26666666666666666
 Underground For Dummies,The Way Things Go,underground,go,0.2222222222222222
@@ -2168,21 +2168,21 @@ Underground For Dummies,The Way Things Go,human,things,0.1
 Underground For Dummies,The Way Things Go,human,go,0.08695652173913043
 Underground For Dummies,The Way Things Go,human,identification,0.09090909090909091
 Underground For Dummies,The Way Things Go,human,parade,0.1
-Underground For Dummies,There&#39;s a girl who lives at home,underground,lives,0.26666666666666666
-Underground For Dummies,There&#39;s a girl who lives at home,underground,home,0.1111111111111111
-Underground For Dummies,There&#39;s a girl who lives at home,underground,girl,0.125
-Underground For Dummies,There&#39;s a girl who lives at home,dummies,lives,0.15384615384615385
-Underground For Dummies,There&#39;s a girl who lives at home,dummies,home,0.3333333333333333
-Underground For Dummies,There&#39;s a girl who lives at home,dummies,girl,0.6
-Underground For Dummies,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Underground For Dummies,There&#39;s a girl who lives at home,death,home,0.125
-Underground For Dummies,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Underground For Dummies,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Underground For Dummies,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Underground For Dummies,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Underground For Dummies,There&#39;s a girl who lives at home,human,lives,0.1
-Underground For Dummies,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Underground For Dummies,There&#39;s a girl who lives at home,human,girl,0.5
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,underground,lives,0.26666666666666666
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,underground,home,0.1111111111111111
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,underground,girl,0.125
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,dummies,lives,0.15384615384615385
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,dummies,home,0.3333333333333333
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,dummies,girl,0.6
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Underground For Dummies,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Going Back To Rehab,Permanently Lonely,going,permanently,0
 Going Back To Rehab,Permanently Lonely,going,lonely,0
 Going Back To Rehab,Permanently Lonely,back,permanently,0
@@ -2298,26 +2298,26 @@ Going Back To Rehab,Streets On Lock,human,streets,0.34782608695652173
 Going Back To Rehab,Streets On Lock,human,lock,0.3333333333333333
 Going Back To Rehab,Streets On Lock,human,jam,0.16
 Going Back To Rehab,Streets On Lock,human,beef,0.6875
-Going Back To Rehab,Love words,going,love,0.3076923076923077
-Going Back To Rehab,Love words,going,words,0.3333333333333333
-Going Back To Rehab,Love words,going,risky,0
-Going Back To Rehab,Love words,going,business,0.3076923076923077
-Going Back To Rehab,Love words,back,love,0.15384615384615385
-Going Back To Rehab,Love words,back,words,0.16666666666666666
-Going Back To Rehab,Love words,back,risky,0
-Going Back To Rehab,Love words,back,business,0.15384615384615385
-Going Back To Rehab,Love words,death,love,0.2857142857142857
-Going Back To Rehab,Love words,death,words,0.3076923076923077
-Going Back To Rehab,Love words,death,risky,0
-Going Back To Rehab,Love words,death,business,0.2857142857142857
-Going Back To Rehab,Love words,dance,love,0.13333333333333333
-Going Back To Rehab,Love words,dance,words,0.14285714285714285
-Going Back To Rehab,Love words,dance,risky,0
-Going Back To Rehab,Love words,dance,business,0.13333333333333333
-Going Back To Rehab,Love words,human,love,0.09523809523809523
-Going Back To Rehab,Love words,human,words,0.1
-Going Back To Rehab,Love words,human,risky,0
-Going Back To Rehab,Love words,human,business,0.09523809523809523
+Going Back To Rehab,Les Mots D'Amour,going,love,0.3076923076923077
+Going Back To Rehab,Les Mots D'Amour,going,words,0.3333333333333333
+Going Back To Rehab,Les Mots D'Amour,going,risky,0
+Going Back To Rehab,Les Mots D'Amour,going,business,0.3076923076923077
+Going Back To Rehab,Les Mots D'Amour,back,love,0.15384615384615385
+Going Back To Rehab,Les Mots D'Amour,back,words,0.16666666666666666
+Going Back To Rehab,Les Mots D'Amour,back,risky,0
+Going Back To Rehab,Les Mots D'Amour,back,business,0.15384615384615385
+Going Back To Rehab,Les Mots D'Amour,death,love,0.2857142857142857
+Going Back To Rehab,Les Mots D'Amour,death,words,0.3076923076923077
+Going Back To Rehab,Les Mots D'Amour,death,risky,0
+Going Back To Rehab,Les Mots D'Amour,death,business,0.2857142857142857
+Going Back To Rehab,Les Mots D'Amour,dance,love,0.13333333333333333
+Going Back To Rehab,Les Mots D'Amour,dance,words,0.14285714285714285
+Going Back To Rehab,Les Mots D'Amour,dance,risky,0
+Going Back To Rehab,Les Mots D'Amour,dance,business,0.13333333333333333
+Going Back To Rehab,Les Mots D'Amour,human,love,0.09523809523809523
+Going Back To Rehab,Les Mots D'Amour,human,words,0.1
+Going Back To Rehab,Les Mots D'Amour,human,risky,0
+Going Back To Rehab,Les Mots D'Amour,human,business,0.09523809523809523
 Going Back To Rehab,Never Ever (Booker T's Up North Dub),going,north,0.15384615384615385
 Going Back To Rehab,Never Ever (Booker T's Up North Dub),going,dub,0.375
 Going Back To Rehab,Never Ever (Booker T's Up North Dub),going,never,0
@@ -2418,11 +2418,11 @@ Going Back To Rehab,Haven't We Met Somewhere Before?,human,somewhere,0.315789473
 Going Back To Rehab,Haven't We Met Somewhere Before?,human,sex,0.2
 Going Back To Rehab,Haven't We Met Somewhere Before?,human,birds,0.75
 Going Back To Rehab,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Going Back To Rehab,The Route,going,route,0.16666666666666666
-Going Back To Rehab,The Route,back,route,0.3333333333333333
-Going Back To Rehab,The Route,death,route,0.15384615384615385
-Going Back To Rehab,The Route,dance,route,0.42857142857142855
-Going Back To Rehab,The Route,human,route,0.3
+Going Back To Rehab,L'Itinéraire,going,route,0.16666666666666666
+Going Back To Rehab,L'Itinéraire,back,route,0.3333333333333333
+Going Back To Rehab,L'Itinéraire,death,route,0.15384615384615385
+Going Back To Rehab,L'Itinéraire,dance,route,0.42857142857142855
+Going Back To Rehab,L'Itinéraire,human,route,0.3
 Going Back To Rehab,The Way Things Go,going,way,0.36363636363636365
 Going Back To Rehab,The Way Things Go,going,things,0.3333333333333333
 Going Back To Rehab,The Way Things Go,going,go,0.26666666666666666
@@ -2448,21 +2448,21 @@ Going Back To Rehab,The Way Things Go,human,things,0.1
 Going Back To Rehab,The Way Things Go,human,go,0.08695652173913043
 Going Back To Rehab,The Way Things Go,human,identification,0.09090909090909091
 Going Back To Rehab,The Way Things Go,human,parade,0.1
-Going Back To Rehab,There&#39;s a girl who lives at home,going,lives,0.3333333333333333
-Going Back To Rehab,There&#39;s a girl who lives at home,going,home,0.13333333333333333
-Going Back To Rehab,There&#39;s a girl who lives at home,going,girl,0.15384615384615385
-Going Back To Rehab,There&#39;s a girl who lives at home,back,lives,0.16666666666666666
-Going Back To Rehab,There&#39;s a girl who lives at home,back,home,0.26666666666666666
-Going Back To Rehab,There&#39;s a girl who lives at home,back,girl,0.3076923076923077
-Going Back To Rehab,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Going Back To Rehab,There&#39;s a girl who lives at home,death,home,0.125
-Going Back To Rehab,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Going Back To Rehab,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Going Back To Rehab,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Going Back To Rehab,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Going Back To Rehab,There&#39;s a girl who lives at home,human,lives,0.1
-Going Back To Rehab,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Going Back To Rehab,There&#39;s a girl who lives at home,human,girl,0.5
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,going,lives,0.3333333333333333
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,going,home,0.13333333333333333
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,going,girl,0.15384615384615385
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,back,lives,0.16666666666666666
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,back,home,0.26666666666666666
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,back,girl,0.3076923076923077
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Going Back To Rehab,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Civil Obedience,Permanently Lonely,civil,permanently,0
 Civil Obedience,Permanently Lonely,civil,lonely,0
 Civil Obedience,Permanently Lonely,obedience,permanently,0
@@ -2578,26 +2578,26 @@ Civil Obedience,Streets On Lock,human,streets,0.34782608695652173
 Civil Obedience,Streets On Lock,human,lock,0.3333333333333333
 Civil Obedience,Streets On Lock,human,jam,0.16
 Civil Obedience,Streets On Lock,human,beef,0.6875
-Civil Obedience,Love words,civil,love,0
-Civil Obedience,Love words,civil,words,0
-Civil Obedience,Love words,civil,risky,0
-Civil Obedience,Love words,civil,business,0
-Civil Obedience,Love words,obedience,love,0.2857142857142857
-Civil Obedience,Love words,obedience,words,0.3076923076923077
-Civil Obedience,Love words,obedience,risky,0
-Civil Obedience,Love words,obedience,business,0.2857142857142857
-Civil Obedience,Love words,death,love,0.2857142857142857
-Civil Obedience,Love words,death,words,0.3076923076923077
-Civil Obedience,Love words,death,risky,0
-Civil Obedience,Love words,death,business,0.2857142857142857
-Civil Obedience,Love words,dance,love,0.13333333333333333
-Civil Obedience,Love words,dance,words,0.14285714285714285
-Civil Obedience,Love words,dance,risky,0
-Civil Obedience,Love words,dance,business,0.13333333333333333
-Civil Obedience,Love words,human,love,0.09523809523809523
-Civil Obedience,Love words,human,words,0.1
-Civil Obedience,Love words,human,risky,0
-Civil Obedience,Love words,human,business,0.09523809523809523
+Civil Obedience,Les Mots D'Amour,civil,love,0
+Civil Obedience,Les Mots D'Amour,civil,words,0
+Civil Obedience,Les Mots D'Amour,civil,risky,0
+Civil Obedience,Les Mots D'Amour,civil,business,0
+Civil Obedience,Les Mots D'Amour,obedience,love,0.2857142857142857
+Civil Obedience,Les Mots D'Amour,obedience,words,0.3076923076923077
+Civil Obedience,Les Mots D'Amour,obedience,risky,0
+Civil Obedience,Les Mots D'Amour,obedience,business,0.2857142857142857
+Civil Obedience,Les Mots D'Amour,death,love,0.2857142857142857
+Civil Obedience,Les Mots D'Amour,death,words,0.3076923076923077
+Civil Obedience,Les Mots D'Amour,death,risky,0
+Civil Obedience,Les Mots D'Amour,death,business,0.2857142857142857
+Civil Obedience,Les Mots D'Amour,dance,love,0.13333333333333333
+Civil Obedience,Les Mots D'Amour,dance,words,0.14285714285714285
+Civil Obedience,Les Mots D'Amour,dance,risky,0
+Civil Obedience,Les Mots D'Amour,dance,business,0.13333333333333333
+Civil Obedience,Les Mots D'Amour,human,love,0.09523809523809523
+Civil Obedience,Les Mots D'Amour,human,words,0.1
+Civil Obedience,Les Mots D'Amour,human,risky,0
+Civil Obedience,Les Mots D'Amour,human,business,0.09523809523809523
 Civil Obedience,Never Ever (Booker T's Up North Dub),civil,north,0
 Civil Obedience,Never Ever (Booker T's Up North Dub),civil,dub,0
 Civil Obedience,Never Ever (Booker T's Up North Dub),civil,never,0
@@ -2698,11 +2698,11 @@ Civil Obedience,Haven't We Met Somewhere Before?,human,somewhere,0.3157894736842
 Civil Obedience,Haven't We Met Somewhere Before?,human,sex,0.2
 Civil Obedience,Haven't We Met Somewhere Before?,human,birds,0.75
 Civil Obedience,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Civil Obedience,The Route,civil,route,0
-Civil Obedience,The Route,obedience,route,0.15384615384615385
-Civil Obedience,The Route,death,route,0.15384615384615385
-Civil Obedience,The Route,dance,route,0.42857142857142855
-Civil Obedience,The Route,human,route,0.3
+Civil Obedience,L'Itinéraire,civil,route,0
+Civil Obedience,L'Itinéraire,obedience,route,0.15384615384615385
+Civil Obedience,L'Itinéraire,death,route,0.15384615384615385
+Civil Obedience,L'Itinéraire,dance,route,0.42857142857142855
+Civil Obedience,L'Itinéraire,human,route,0.3
 Civil Obedience,The Way Things Go,civil,way,0
 Civil Obedience,The Way Things Go,civil,things,0
 Civil Obedience,The Way Things Go,civil,go,0
@@ -2728,21 +2728,21 @@ Civil Obedience,The Way Things Go,human,things,0.1
 Civil Obedience,The Way Things Go,human,go,0.08695652173913043
 Civil Obedience,The Way Things Go,human,identification,0.09090909090909091
 Civil Obedience,The Way Things Go,human,parade,0.1
-Civil Obedience,There&#39;s a girl who lives at home,civil,lives,0
-Civil Obedience,There&#39;s a girl who lives at home,civil,home,0
-Civil Obedience,There&#39;s a girl who lives at home,civil,girl,0
-Civil Obedience,There&#39;s a girl who lives at home,obedience,lives,0.3076923076923077
-Civil Obedience,There&#39;s a girl who lives at home,obedience,home,0.125
-Civil Obedience,There&#39;s a girl who lives at home,obedience,girl,0.14285714285714285
-Civil Obedience,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Civil Obedience,There&#39;s a girl who lives at home,death,home,0.125
-Civil Obedience,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Civil Obedience,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Civil Obedience,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Civil Obedience,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Civil Obedience,There&#39;s a girl who lives at home,human,lives,0.1
-Civil Obedience,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Civil Obedience,There&#39;s a girl who lives at home,human,girl,0.5
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,civil,lives,0
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,civil,home,0
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,civil,girl,0
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,obedience,lives,0.3076923076923077
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,obedience,home,0.125
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,obedience,girl,0.14285714285714285
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Civil Obedience,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Good Fashion,Permanently Lonely,good,permanently,0
 Good Fashion,Permanently Lonely,good,lonely,0
 Good Fashion,Permanently Lonely,fashion,permanently,0
@@ -2858,26 +2858,26 @@ Good Fashion,Streets On Lock,human,streets,0.34782608695652173
 Good Fashion,Streets On Lock,human,lock,0.3333333333333333
 Good Fashion,Streets On Lock,human,jam,0.16
 Good Fashion,Streets On Lock,human,beef,0.6875
-Good Fashion,Love words,good,love,0.42857142857142855
-Good Fashion,Love words,good,words,0.3076923076923077
-Good Fashion,Love words,good,risky,0
-Good Fashion,Love words,good,business,0.2857142857142857
-Good Fashion,Love words,fashion,love,0.5
-Good Fashion,Love words,fashion,words,0.36363636363636365
-Good Fashion,Love words,fashion,risky,0
-Good Fashion,Love words,fashion,business,0.3333333333333333
-Good Fashion,Love words,death,love,0.2857142857142857
-Good Fashion,Love words,death,words,0.3076923076923077
-Good Fashion,Love words,death,risky,0
-Good Fashion,Love words,death,business,0.2857142857142857
-Good Fashion,Love words,dance,love,0.13333333333333333
-Good Fashion,Love words,dance,words,0.14285714285714285
-Good Fashion,Love words,dance,risky,0
-Good Fashion,Love words,dance,business,0.13333333333333333
-Good Fashion,Love words,human,love,0.09523809523809523
-Good Fashion,Love words,human,words,0.1
-Good Fashion,Love words,human,risky,0
-Good Fashion,Love words,human,business,0.09523809523809523
+Good Fashion,Les Mots D'Amour,good,love,0.42857142857142855
+Good Fashion,Les Mots D'Amour,good,words,0.3076923076923077
+Good Fashion,Les Mots D'Amour,good,risky,0
+Good Fashion,Les Mots D'Amour,good,business,0.2857142857142857
+Good Fashion,Les Mots D'Amour,fashion,love,0.5
+Good Fashion,Les Mots D'Amour,fashion,words,0.36363636363636365
+Good Fashion,Les Mots D'Amour,fashion,risky,0
+Good Fashion,Les Mots D'Amour,fashion,business,0.3333333333333333
+Good Fashion,Les Mots D'Amour,death,love,0.2857142857142857
+Good Fashion,Les Mots D'Amour,death,words,0.3076923076923077
+Good Fashion,Les Mots D'Amour,death,risky,0
+Good Fashion,Les Mots D'Amour,death,business,0.2857142857142857
+Good Fashion,Les Mots D'Amour,dance,love,0.13333333333333333
+Good Fashion,Les Mots D'Amour,dance,words,0.14285714285714285
+Good Fashion,Les Mots D'Amour,dance,risky,0
+Good Fashion,Les Mots D'Amour,dance,business,0.13333333333333333
+Good Fashion,Les Mots D'Amour,human,love,0.09523809523809523
+Good Fashion,Les Mots D'Amour,human,words,0.1
+Good Fashion,Les Mots D'Amour,human,risky,0
+Good Fashion,Les Mots D'Amour,human,business,0.09523809523809523
 Good Fashion,Never Ever (Booker T's Up North Dub),good,north,0.14285714285714285
 Good Fashion,Never Ever (Booker T's Up North Dub),good,dub,0.23529411764705882
 Good Fashion,Never Ever (Booker T's Up North Dub),good,never,0
@@ -2978,11 +2978,11 @@ Good Fashion,Haven't We Met Somewhere Before?,human,somewhere,0.3157894736842105
 Good Fashion,Haven't We Met Somewhere Before?,human,sex,0.2
 Good Fashion,Haven't We Met Somewhere Before?,human,birds,0.75
 Good Fashion,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Good Fashion,The Route,good,route,0.15384615384615385
-Good Fashion,The Route,fashion,route,0.18181818181818182
-Good Fashion,The Route,death,route,0.15384615384615385
-Good Fashion,The Route,dance,route,0.42857142857142855
-Good Fashion,The Route,human,route,0.3
+Good Fashion,L'Itinéraire,good,route,0.15384615384615385
+Good Fashion,L'Itinéraire,fashion,route,0.18181818181818182
+Good Fashion,L'Itinéraire,death,route,0.15384615384615385
+Good Fashion,L'Itinéraire,dance,route,0.42857142857142855
+Good Fashion,L'Itinéraire,human,route,0.3
 Good Fashion,The Way Things Go,good,way,0.5
 Good Fashion,The Way Things Go,good,things,0.3076923076923077
 Good Fashion,The Way Things Go,good,go,0.25
@@ -3008,21 +3008,21 @@ Good Fashion,The Way Things Go,human,things,0.1
 Good Fashion,The Way Things Go,human,go,0.08695652173913043
 Good Fashion,The Way Things Go,human,identification,0.09090909090909091
 Good Fashion,The Way Things Go,human,parade,0.1
-Good Fashion,There&#39;s a girl who lives at home,good,lives,0.46153846153846156
-Good Fashion,There&#39;s a girl who lives at home,good,home,0.125
-Good Fashion,There&#39;s a girl who lives at home,good,girl,0.14285714285714285
-Good Fashion,There&#39;s a girl who lives at home,fashion,lives,0.5454545454545454
-Good Fashion,There&#39;s a girl who lives at home,fashion,home,0.14285714285714285
-Good Fashion,There&#39;s a girl who lives at home,fashion,girl,0.16666666666666666
-Good Fashion,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Good Fashion,There&#39;s a girl who lives at home,death,home,0.125
-Good Fashion,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Good Fashion,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Good Fashion,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Good Fashion,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Good Fashion,There&#39;s a girl who lives at home,human,lives,0.1
-Good Fashion,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Good Fashion,There&#39;s a girl who lives at home,human,girl,0.5
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,good,lives,0.46153846153846156
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,good,home,0.125
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,good,girl,0.14285714285714285
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,fashion,lives,0.5454545454545454
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,fashion,home,0.14285714285714285
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,fashion,girl,0.16666666666666666
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Good Fashion,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Growing Pains Intro,Permanently Lonely,growing,permanently,0
 Growing Pains Intro,Permanently Lonely,growing,lonely,0
 Growing Pains Intro,Permanently Lonely,pains,permanently,0
@@ -3161,30 +3161,30 @@ Growing Pains Intro,Streets On Lock,human,streets,0.34782608695652173
 Growing Pains Intro,Streets On Lock,human,lock,0.3333333333333333
 Growing Pains Intro,Streets On Lock,human,jam,0.16
 Growing Pains Intro,Streets On Lock,human,beef,0.6875
-Growing Pains Intro,Love words,growing,love,0.16666666666666666
-Growing Pains Intro,Love words,growing,words,0.18181818181818182
-Growing Pains Intro,Love words,growing,risky,0
-Growing Pains Intro,Love words,growing,business,0.16666666666666666
-Growing Pains Intro,Love words,pains,love,0.26666666666666666
-Growing Pains Intro,Love words,pains,words,0.2857142857142857
-Growing Pains Intro,Love words,pains,risky,0
-Growing Pains Intro,Love words,pains,business,0.26666666666666666
-Growing Pains Intro,Love words,intro,love,0.26666666666666666
-Growing Pains Intro,Love words,intro,words,0.2857142857142857
-Growing Pains Intro,Love words,intro,risky,0
-Growing Pains Intro,Love words,intro,business,0.26666666666666666
-Growing Pains Intro,Love words,death,love,0.2857142857142857
-Growing Pains Intro,Love words,death,words,0.3076923076923077
-Growing Pains Intro,Love words,death,risky,0
-Growing Pains Intro,Love words,death,business,0.2857142857142857
-Growing Pains Intro,Love words,dance,love,0.13333333333333333
-Growing Pains Intro,Love words,dance,words,0.14285714285714285
-Growing Pains Intro,Love words,dance,risky,0
-Growing Pains Intro,Love words,dance,business,0.13333333333333333
-Growing Pains Intro,Love words,human,love,0.09523809523809523
-Growing Pains Intro,Love words,human,words,0.1
-Growing Pains Intro,Love words,human,risky,0
-Growing Pains Intro,Love words,human,business,0.09523809523809523
+Growing Pains Intro,Les Mots D'Amour,growing,love,0.16666666666666666
+Growing Pains Intro,Les Mots D'Amour,growing,words,0.18181818181818182
+Growing Pains Intro,Les Mots D'Amour,growing,risky,0
+Growing Pains Intro,Les Mots D'Amour,growing,business,0.16666666666666666
+Growing Pains Intro,Les Mots D'Amour,pains,love,0.26666666666666666
+Growing Pains Intro,Les Mots D'Amour,pains,words,0.2857142857142857
+Growing Pains Intro,Les Mots D'Amour,pains,risky,0
+Growing Pains Intro,Les Mots D'Amour,pains,business,0.26666666666666666
+Growing Pains Intro,Les Mots D'Amour,intro,love,0.26666666666666666
+Growing Pains Intro,Les Mots D'Amour,intro,words,0.2857142857142857
+Growing Pains Intro,Les Mots D'Amour,intro,risky,0
+Growing Pains Intro,Les Mots D'Amour,intro,business,0.26666666666666666
+Growing Pains Intro,Les Mots D'Amour,death,love,0.2857142857142857
+Growing Pains Intro,Les Mots D'Amour,death,words,0.3076923076923077
+Growing Pains Intro,Les Mots D'Amour,death,risky,0
+Growing Pains Intro,Les Mots D'Amour,death,business,0.2857142857142857
+Growing Pains Intro,Les Mots D'Amour,dance,love,0.13333333333333333
+Growing Pains Intro,Les Mots D'Amour,dance,words,0.14285714285714285
+Growing Pains Intro,Les Mots D'Amour,dance,risky,0
+Growing Pains Intro,Les Mots D'Amour,dance,business,0.13333333333333333
+Growing Pains Intro,Les Mots D'Amour,human,love,0.09523809523809523
+Growing Pains Intro,Les Mots D'Amour,human,words,0.1
+Growing Pains Intro,Les Mots D'Amour,human,risky,0
+Growing Pains Intro,Les Mots D'Amour,human,business,0.09523809523809523
 Growing Pains Intro,Never Ever (Booker T's Up North Dub),growing,north,0.3333333333333333
 Growing Pains Intro,Never Ever (Booker T's Up North Dub),growing,dub,0.13333333333333333
 Growing Pains Intro,Never Ever (Booker T's Up North Dub),growing,never,0
@@ -3305,12 +3305,12 @@ Growing Pains Intro,Haven't We Met Somewhere Before?,human,somewhere,0.315789473
 Growing Pains Intro,Haven't We Met Somewhere Before?,human,sex,0.2
 Growing Pains Intro,Haven't We Met Somewhere Before?,human,birds,0.75
 Growing Pains Intro,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Growing Pains Intro,The Route,growing,route,0.36363636363636365
-Growing Pains Intro,The Route,pains,route,0.14285714285714285
-Growing Pains Intro,The Route,intro,route,0.14285714285714285
-Growing Pains Intro,The Route,death,route,0.15384615384615385
-Growing Pains Intro,The Route,dance,route,0.42857142857142855
-Growing Pains Intro,The Route,human,route,0.3
+Growing Pains Intro,L'Itinéraire,growing,route,0.36363636363636365
+Growing Pains Intro,L'Itinéraire,pains,route,0.14285714285714285
+Growing Pains Intro,L'Itinéraire,intro,route,0.14285714285714285
+Growing Pains Intro,L'Itinéraire,death,route,0.15384615384615385
+Growing Pains Intro,L'Itinéraire,dance,route,0.42857142857142855
+Growing Pains Intro,L'Itinéraire,human,route,0.3
 Growing Pains Intro,The Way Things Go,growing,way,0.2
 Growing Pains Intro,The Way Things Go,growing,things,0.18181818181818182
 Growing Pains Intro,The Way Things Go,growing,go,0.14285714285714285
@@ -3341,24 +3341,24 @@ Growing Pains Intro,The Way Things Go,human,things,0.1
 Growing Pains Intro,The Way Things Go,human,go,0.08695652173913043
 Growing Pains Intro,The Way Things Go,human,identification,0.09090909090909091
 Growing Pains Intro,The Way Things Go,human,parade,0.1
-Growing Pains Intro,There&#39;s a girl who lives at home,growing,lives,0.18181818181818182
-Growing Pains Intro,There&#39;s a girl who lives at home,growing,home,0.2857142857142857
-Growing Pains Intro,There&#39;s a girl who lives at home,growing,girl,0.3333333333333333
-Growing Pains Intro,There&#39;s a girl who lives at home,pains,lives,0.2857142857142857
-Growing Pains Intro,There&#39;s a girl who lives at home,pains,home,0.11764705882352941
-Growing Pains Intro,There&#39;s a girl who lives at home,pains,girl,0.13333333333333333
-Growing Pains Intro,There&#39;s a girl who lives at home,intro,lives,0.2857142857142857
-Growing Pains Intro,There&#39;s a girl who lives at home,intro,home,0.11764705882352941
-Growing Pains Intro,There&#39;s a girl who lives at home,intro,girl,0.13333333333333333
-Growing Pains Intro,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Growing Pains Intro,There&#39;s a girl who lives at home,death,home,0.125
-Growing Pains Intro,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Growing Pains Intro,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Growing Pains Intro,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Growing Pains Intro,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Growing Pains Intro,There&#39;s a girl who lives at home,human,lives,0.1
-Growing Pains Intro,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Growing Pains Intro,There&#39;s a girl who lives at home,human,girl,0.5
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,growing,lives,0.18181818181818182
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,growing,home,0.2857142857142857
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,growing,girl,0.3333333333333333
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,pains,lives,0.2857142857142857
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,pains,home,0.11764705882352941
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,pains,girl,0.13333333333333333
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,intro,lives,0.2857142857142857
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,intro,home,0.11764705882352941
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,intro,girl,0.13333333333333333
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Growing Pains Intro,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Sun vs Moon,Permanently Lonely,sun,permanently,0
 Sun vs Moon,Permanently Lonely,sun,lonely,0
 Sun vs Moon,Permanently Lonely,vs,permanently,0
@@ -3474,26 +3474,26 @@ Sun vs Moon,Streets On Lock,distrust,streets,0.1111111111111111
 Sun vs Moon,Streets On Lock,distrust,lock,0.10526315789473684
 Sun vs Moon,Streets On Lock,distrust,jam,0.1
 Sun vs Moon,Streets On Lock,distrust,beef,0.07407407407407407
-Sun vs Moon,Love words,sun,love,0.13333333333333333
-Sun vs Moon,Love words,sun,words,0.14285714285714285
-Sun vs Moon,Love words,sun,risky,0
-Sun vs Moon,Love words,sun,business,0.13333333333333333
-Sun vs Moon,Love words,vs,love,0.26666666666666666
-Sun vs Moon,Love words,vs,words,0.2857142857142857
-Sun vs Moon,Love words,vs,risky,0
-Sun vs Moon,Love words,vs,business,0.26666666666666666
-Sun vs Moon,Love words,moon,love,0.13333333333333333
-Sun vs Moon,Love words,moon,words,0.14285714285714285
-Sun vs Moon,Love words,moon,risky,0
-Sun vs Moon,Love words,moon,business,0.13333333333333333
-Sun vs Moon,Love words,healthy,love,0
-Sun vs Moon,Love words,healthy,words,0
-Sun vs Moon,Love words,healthy,risky,0
-Sun vs Moon,Love words,healthy,business,0
-Sun vs Moon,Love words,distrust,love,0.5
-Sun vs Moon,Love words,distrust,words,0.26666666666666666
-Sun vs Moon,Love words,distrust,risky,0
-Sun vs Moon,Love words,distrust,business,0.25
+Sun vs Moon,Les Mots D'Amour,sun,love,0.13333333333333333
+Sun vs Moon,Les Mots D'Amour,sun,words,0.14285714285714285
+Sun vs Moon,Les Mots D'Amour,sun,risky,0
+Sun vs Moon,Les Mots D'Amour,sun,business,0.13333333333333333
+Sun vs Moon,Les Mots D'Amour,vs,love,0.26666666666666666
+Sun vs Moon,Les Mots D'Amour,vs,words,0.2857142857142857
+Sun vs Moon,Les Mots D'Amour,vs,risky,0
+Sun vs Moon,Les Mots D'Amour,vs,business,0.26666666666666666
+Sun vs Moon,Les Mots D'Amour,moon,love,0.13333333333333333
+Sun vs Moon,Les Mots D'Amour,moon,words,0.14285714285714285
+Sun vs Moon,Les Mots D'Amour,moon,risky,0
+Sun vs Moon,Les Mots D'Amour,moon,business,0.13333333333333333
+Sun vs Moon,Les Mots D'Amour,healthy,love,0
+Sun vs Moon,Les Mots D'Amour,healthy,words,0
+Sun vs Moon,Les Mots D'Amour,healthy,risky,0
+Sun vs Moon,Les Mots D'Amour,healthy,business,0
+Sun vs Moon,Les Mots D'Amour,distrust,love,0.5
+Sun vs Moon,Les Mots D'Amour,distrust,words,0.26666666666666666
+Sun vs Moon,Les Mots D'Amour,distrust,risky,0
+Sun vs Moon,Les Mots D'Amour,distrust,business,0.25
 Sun vs Moon,Never Ever (Booker T's Up North Dub),sun,north,0.4
 Sun vs Moon,Never Ever (Booker T's Up North Dub),sun,dub,0.1111111111111111
 Sun vs Moon,Never Ever (Booker T's Up North Dub),sun,never,0
@@ -3594,11 +3594,11 @@ Sun vs Moon,Haven't We Met Somewhere Before?,distrust,somewhere,0.14285714285714
 Sun vs Moon,Haven't We Met Somewhere Before?,distrust,sex,0.13333333333333333
 Sun vs Moon,Haven't We Met Somewhere Before?,distrust,birds,0.10526315789473684
 Sun vs Moon,Haven't We Met Somewhere Before?,distrust,bees,0.09523809523809523
-Sun vs Moon,The Route,sun,route,0.42857142857142855
-Sun vs Moon,The Route,vs,route,0.14285714285714285
-Sun vs Moon,The Route,moon,route,0.42857142857142855
-Sun vs Moon,The Route,healthy,route,0
-Sun vs Moon,The Route,distrust,route,0.13333333333333333
+Sun vs Moon,L'Itinéraire,sun,route,0.42857142857142855
+Sun vs Moon,L'Itinéraire,vs,route,0.14285714285714285
+Sun vs Moon,L'Itinéraire,moon,route,0.42857142857142855
+Sun vs Moon,L'Itinéraire,healthy,route,0
+Sun vs Moon,L'Itinéraire,distrust,route,0.13333333333333333
 Sun vs Moon,The Way Things Go,sun,way,0.15384615384615385
 Sun vs Moon,The Way Things Go,sun,things,0.14285714285714285
 Sun vs Moon,The Way Things Go,sun,go,0.11764705882352941
@@ -3624,21 +3624,21 @@ Sun vs Moon,The Way Things Go,distrust,things,0.26666666666666666
 Sun vs Moon,The Way Things Go,distrust,go,0.2222222222222222
 Sun vs Moon,The Way Things Go,distrust,identification,0.23529411764705882
 Sun vs Moon,The Way Things Go,distrust,parade,0.26666666666666666
-Sun vs Moon,There&#39;s a girl who lives at home,sun,lives,0.14285714285714285
-Sun vs Moon,There&#39;s a girl who lives at home,sun,home,0.35294117647058826
-Sun vs Moon,There&#39;s a girl who lives at home,sun,girl,0.4444444444444444
-Sun vs Moon,There&#39;s a girl who lives at home,vs,lives,0.2857142857142857
-Sun vs Moon,There&#39;s a girl who lives at home,vs,home,0.11764705882352941
-Sun vs Moon,There&#39;s a girl who lives at home,vs,girl,0.13333333333333333
-Sun vs Moon,There&#39;s a girl who lives at home,moon,lives,0.14285714285714285
-Sun vs Moon,There&#39;s a girl who lives at home,moon,home,0.35294117647058826
-Sun vs Moon,There&#39;s a girl who lives at home,moon,girl,0.4444444444444444
-Sun vs Moon,There&#39;s a girl who lives at home,healthy,lives,0
-Sun vs Moon,There&#39;s a girl who lives at home,healthy,home,0
-Sun vs Moon,There&#39;s a girl who lives at home,healthy,girl,0
-Sun vs Moon,There&#39;s a girl who lives at home,distrust,lives,0.5333333333333333
-Sun vs Moon,There&#39;s a girl who lives at home,distrust,home,0.1111111111111111
-Sun vs Moon,There&#39;s a girl who lives at home,distrust,girl,0.125
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,sun,lives,0.14285714285714285
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,sun,home,0.35294117647058826
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,sun,girl,0.4444444444444444
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,vs,lives,0.2857142857142857
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,vs,home,0.11764705882352941
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,vs,girl,0.13333333333333333
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,moon,lives,0.14285714285714285
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,moon,home,0.35294117647058826
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,moon,girl,0.4444444444444444
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,healthy,lives,0
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,healthy,home,0
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,healthy,girl,0
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,distrust,lives,0.5333333333333333
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,distrust,home,0.1111111111111111
+Sun vs Moon,Y'a Une Fille Qu'Habite Chez Moi,distrust,girl,0.125
 Got Up This Morning,Permanently Lonely,morning,permanently,0
 Got Up This Morning,Permanently Lonely,morning,lonely,0
 Got Up This Morning,Permanently Lonely,got,permanently,0.5
@@ -3754,26 +3754,26 @@ Got Up This Morning,Streets On Lock,human,streets,0.34782608695652173
 Got Up This Morning,Streets On Lock,human,lock,0.3333333333333333
 Got Up This Morning,Streets On Lock,human,jam,0.16
 Got Up This Morning,Streets On Lock,human,beef,0.6875
-Got Up This Morning,Love words,morning,love,0.3076923076923077
-Got Up This Morning,Love words,morning,words,0.3333333333333333
-Got Up This Morning,Love words,morning,risky,0
-Got Up This Morning,Love words,morning,business,0.3076923076923077
-Got Up This Morning,Love words,got,love,0.2
-Got Up This Morning,Love words,got,words,0.2222222222222222
-Got Up This Morning,Love words,got,risky,0.5
-Got Up This Morning,Love words,got,business,0.2
-Got Up This Morning,Love words,death,love,0.2857142857142857
-Got Up This Morning,Love words,death,words,0.3076923076923077
-Got Up This Morning,Love words,death,risky,0
-Got Up This Morning,Love words,death,business,0.2857142857142857
-Got Up This Morning,Love words,dance,love,0.13333333333333333
-Got Up This Morning,Love words,dance,words,0.14285714285714285
-Got Up This Morning,Love words,dance,risky,0
-Got Up This Morning,Love words,dance,business,0.13333333333333333
-Got Up This Morning,Love words,human,love,0.09523809523809523
-Got Up This Morning,Love words,human,words,0.1
-Got Up This Morning,Love words,human,risky,0
-Got Up This Morning,Love words,human,business,0.09523809523809523
+Got Up This Morning,Les Mots D'Amour,morning,love,0.3076923076923077
+Got Up This Morning,Les Mots D'Amour,morning,words,0.3333333333333333
+Got Up This Morning,Les Mots D'Amour,morning,risky,0
+Got Up This Morning,Les Mots D'Amour,morning,business,0.3076923076923077
+Got Up This Morning,Les Mots D'Amour,got,love,0.2
+Got Up This Morning,Les Mots D'Amour,got,words,0.2222222222222222
+Got Up This Morning,Les Mots D'Amour,got,risky,0.5
+Got Up This Morning,Les Mots D'Amour,got,business,0.2
+Got Up This Morning,Les Mots D'Amour,death,love,0.2857142857142857
+Got Up This Morning,Les Mots D'Amour,death,words,0.3076923076923077
+Got Up This Morning,Les Mots D'Amour,death,risky,0
+Got Up This Morning,Les Mots D'Amour,death,business,0.2857142857142857
+Got Up This Morning,Les Mots D'Amour,dance,love,0.13333333333333333
+Got Up This Morning,Les Mots D'Amour,dance,words,0.14285714285714285
+Got Up This Morning,Les Mots D'Amour,dance,risky,0
+Got Up This Morning,Les Mots D'Amour,dance,business,0.13333333333333333
+Got Up This Morning,Les Mots D'Amour,human,love,0.09523809523809523
+Got Up This Morning,Les Mots D'Amour,human,words,0.1
+Got Up This Morning,Les Mots D'Amour,human,risky,0
+Got Up This Morning,Les Mots D'Amour,human,business,0.09523809523809523
 Got Up This Morning,Never Ever (Booker T's Up North Dub),morning,north,0.15384615384615385
 Got Up This Morning,Never Ever (Booker T's Up North Dub),morning,dub,0.25
 Got Up This Morning,Never Ever (Booker T's Up North Dub),morning,never,0
@@ -3874,11 +3874,11 @@ Got Up This Morning,Haven't We Met Somewhere Before?,human,somewhere,0.315789473
 Got Up This Morning,Haven't We Met Somewhere Before?,human,sex,0.2
 Got Up This Morning,Haven't We Met Somewhere Before?,human,birds,0.75
 Got Up This Morning,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Got Up This Morning,The Route,morning,route,0.16666666666666666
-Got Up This Morning,The Route,got,route,0.2222222222222222
-Got Up This Morning,The Route,death,route,0.15384615384615385
-Got Up This Morning,The Route,dance,route,0.42857142857142855
-Got Up This Morning,The Route,human,route,0.3
+Got Up This Morning,L'Itinéraire,morning,route,0.16666666666666666
+Got Up This Morning,L'Itinéraire,got,route,0.2222222222222222
+Got Up This Morning,L'Itinéraire,death,route,0.15384615384615385
+Got Up This Morning,L'Itinéraire,dance,route,0.42857142857142855
+Got Up This Morning,L'Itinéraire,human,route,0.3
 Got Up This Morning,The Way Things Go,morning,way,0.36363636363636365
 Got Up This Morning,The Way Things Go,morning,things,0.3333333333333333
 Got Up This Morning,The Way Things Go,morning,go,0.6666666666666666
@@ -3904,21 +3904,21 @@ Got Up This Morning,The Way Things Go,human,things,0.1
 Got Up This Morning,The Way Things Go,human,go,0.08695652173913043
 Got Up This Morning,The Way Things Go,human,identification,0.09090909090909091
 Got Up This Morning,The Way Things Go,human,parade,0.1
-Got Up This Morning,There&#39;s a girl who lives at home,morning,lives,0.3333333333333333
-Got Up This Morning,There&#39;s a girl who lives at home,morning,home,0.13333333333333333
-Got Up This Morning,There&#39;s a girl who lives at home,morning,girl,0.15384615384615385
-Got Up This Morning,There&#39;s a girl who lives at home,got,lives,0.2222222222222222
-Got Up This Morning,There&#39;s a girl who lives at home,got,home,0.16666666666666666
-Got Up This Morning,There&#39;s a girl who lives at home,got,girl,0.18181818181818182
-Got Up This Morning,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Got Up This Morning,There&#39;s a girl who lives at home,death,home,0.125
-Got Up This Morning,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Got Up This Morning,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Got Up This Morning,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Got Up This Morning,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Got Up This Morning,There&#39;s a girl who lives at home,human,lives,0.1
-Got Up This Morning,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Got Up This Morning,There&#39;s a girl who lives at home,human,girl,0.5
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,morning,lives,0.3333333333333333
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,morning,home,0.13333333333333333
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,morning,girl,0.15384615384615385
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,got,lives,0.2222222222222222
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,got,home,0.16666666666666666
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,got,girl,0.18181818181818182
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Got Up This Morning,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 The Buzz Kill,Permanently Lonely,buzz,permanently,0
 The Buzz Kill,Permanently Lonely,buzz,lonely,0
 The Buzz Kill,Permanently Lonely,kill,permanently,0
@@ -4011,22 +4011,22 @@ The Buzz Kill,Streets On Lock,distrust,streets,0.1111111111111111
 The Buzz Kill,Streets On Lock,distrust,lock,0.10526315789473684
 The Buzz Kill,Streets On Lock,distrust,jam,0.1
 The Buzz Kill,Streets On Lock,distrust,beef,0.07407407407407407
-The Buzz Kill,Love words,buzz,love,0.2857142857142857
-The Buzz Kill,Love words,buzz,words,0.3076923076923077
-The Buzz Kill,Love words,buzz,risky,0
-The Buzz Kill,Love words,buzz,business,0.2857142857142857
-The Buzz Kill,Love words,kill,love,0.23529411764705882
-The Buzz Kill,Love words,kill,words,0.25
-The Buzz Kill,Love words,kill,risky,0
-The Buzz Kill,Love words,kill,business,0.23529411764705882
-The Buzz Kill,Love words,healthy,love,0
-The Buzz Kill,Love words,healthy,words,0
-The Buzz Kill,Love words,healthy,risky,0
-The Buzz Kill,Love words,healthy,business,0
-The Buzz Kill,Love words,distrust,love,0.5
-The Buzz Kill,Love words,distrust,words,0.26666666666666666
-The Buzz Kill,Love words,distrust,risky,0
-The Buzz Kill,Love words,distrust,business,0.25
+The Buzz Kill,Les Mots D'Amour,buzz,love,0.2857142857142857
+The Buzz Kill,Les Mots D'Amour,buzz,words,0.3076923076923077
+The Buzz Kill,Les Mots D'Amour,buzz,risky,0
+The Buzz Kill,Les Mots D'Amour,buzz,business,0.2857142857142857
+The Buzz Kill,Les Mots D'Amour,kill,love,0.23529411764705882
+The Buzz Kill,Les Mots D'Amour,kill,words,0.25
+The Buzz Kill,Les Mots D'Amour,kill,risky,0
+The Buzz Kill,Les Mots D'Amour,kill,business,0.23529411764705882
+The Buzz Kill,Les Mots D'Amour,healthy,love,0
+The Buzz Kill,Les Mots D'Amour,healthy,words,0
+The Buzz Kill,Les Mots D'Amour,healthy,risky,0
+The Buzz Kill,Les Mots D'Amour,healthy,business,0
+The Buzz Kill,Les Mots D'Amour,distrust,love,0.5
+The Buzz Kill,Les Mots D'Amour,distrust,words,0.26666666666666666
+The Buzz Kill,Les Mots D'Amour,distrust,risky,0
+The Buzz Kill,Les Mots D'Amour,distrust,business,0.25
 The Buzz Kill,Never Ever (Booker T's Up North Dub),buzz,north,0.14285714285714285
 The Buzz Kill,Never Ever (Booker T's Up North Dub),buzz,dub,0.35294117647058826
 The Buzz Kill,Never Ever (Booker T's Up North Dub),buzz,never,0
@@ -4107,10 +4107,10 @@ The Buzz Kill,Haven't We Met Somewhere Before?,distrust,somewhere,0.142857142857
 The Buzz Kill,Haven't We Met Somewhere Before?,distrust,sex,0.13333333333333333
 The Buzz Kill,Haven't We Met Somewhere Before?,distrust,birds,0.10526315789473684
 The Buzz Kill,Haven't We Met Somewhere Before?,distrust,bees,0.09523809523809523
-The Buzz Kill,The Route,buzz,route,0.15384615384615385
-The Buzz Kill,The Route,kill,route,0.125
-The Buzz Kill,The Route,healthy,route,0
-The Buzz Kill,The Route,distrust,route,0.13333333333333333
+The Buzz Kill,L'Itinéraire,buzz,route,0.15384615384615385
+The Buzz Kill,L'Itinéraire,kill,route,0.125
+The Buzz Kill,L'Itinéraire,healthy,route,0
+The Buzz Kill,L'Itinéraire,distrust,route,0.13333333333333333
 The Buzz Kill,The Way Things Go,buzz,way,0.3333333333333333
 The Buzz Kill,The Way Things Go,buzz,things,0.3076923076923077
 The Buzz Kill,The Way Things Go,buzz,go,0.25
@@ -4131,18 +4131,18 @@ The Buzz Kill,The Way Things Go,distrust,things,0.26666666666666666
 The Buzz Kill,The Way Things Go,distrust,go,0.2222222222222222
 The Buzz Kill,The Way Things Go,distrust,identification,0.23529411764705882
 The Buzz Kill,The Way Things Go,distrust,parade,0.26666666666666666
-The Buzz Kill,There&#39;s a girl who lives at home,buzz,lives,0.3076923076923077
-The Buzz Kill,There&#39;s a girl who lives at home,buzz,home,0.125
-The Buzz Kill,There&#39;s a girl who lives at home,buzz,girl,0.14285714285714285
-The Buzz Kill,There&#39;s a girl who lives at home,kill,lives,0.25
-The Buzz Kill,There&#39;s a girl who lives at home,kill,home,0.10526315789473684
-The Buzz Kill,There&#39;s a girl who lives at home,kill,girl,0.11764705882352941
-The Buzz Kill,There&#39;s a girl who lives at home,healthy,lives,0
-The Buzz Kill,There&#39;s a girl who lives at home,healthy,home,0
-The Buzz Kill,There&#39;s a girl who lives at home,healthy,girl,0
-The Buzz Kill,There&#39;s a girl who lives at home,distrust,lives,0.5333333333333333
-The Buzz Kill,There&#39;s a girl who lives at home,distrust,home,0.1111111111111111
-The Buzz Kill,There&#39;s a girl who lives at home,distrust,girl,0.125
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,buzz,lives,0.3076923076923077
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,buzz,home,0.125
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,buzz,girl,0.14285714285714285
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,kill,lives,0.25
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,kill,home,0.10526315789473684
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,kill,girl,0.11764705882352941
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,healthy,lives,0
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,healthy,home,0
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,healthy,girl,0
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,distrust,lives,0.5333333333333333
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,distrust,home,0.1111111111111111
+The Buzz Kill,Y'a Une Fille Qu'Habite Chez Moi,distrust,girl,0.125
 Hell Of A Year,Permanently Lonely,year,permanently,0
 Hell Of A Year,Permanently Lonely,year,lonely,0
 Hell Of A Year,Permanently Lonely,hell,permanently,0
@@ -4258,26 +4258,26 @@ Hell Of A Year,Streets On Lock,human,streets,0.34782608695652173
 Hell Of A Year,Streets On Lock,human,lock,0.3333333333333333
 Hell Of A Year,Streets On Lock,human,jam,0.16
 Hell Of A Year,Streets On Lock,human,beef,0.6875
-Hell Of A Year,Love words,year,love,0.3076923076923077
-Hell Of A Year,Love words,year,words,0.3333333333333333
-Hell Of A Year,Love words,year,risky,0
-Hell Of A Year,Love words,year,business,0.3076923076923077
-Hell Of A Year,Love words,hell,love,0.15384615384615385
-Hell Of A Year,Love words,hell,words,0.16666666666666666
-Hell Of A Year,Love words,hell,risky,0
-Hell Of A Year,Love words,hell,business,0.15384615384615385
-Hell Of A Year,Love words,death,love,0.2857142857142857
-Hell Of A Year,Love words,death,words,0.3076923076923077
-Hell Of A Year,Love words,death,risky,0
-Hell Of A Year,Love words,death,business,0.2857142857142857
-Hell Of A Year,Love words,dance,love,0.13333333333333333
-Hell Of A Year,Love words,dance,words,0.14285714285714285
-Hell Of A Year,Love words,dance,risky,0
-Hell Of A Year,Love words,dance,business,0.13333333333333333
-Hell Of A Year,Love words,human,love,0.09523809523809523
-Hell Of A Year,Love words,human,words,0.1
-Hell Of A Year,Love words,human,risky,0
-Hell Of A Year,Love words,human,business,0.09523809523809523
+Hell Of A Year,Les Mots D'Amour,year,love,0.3076923076923077
+Hell Of A Year,Les Mots D'Amour,year,words,0.3333333333333333
+Hell Of A Year,Les Mots D'Amour,year,risky,0
+Hell Of A Year,Les Mots D'Amour,year,business,0.3076923076923077
+Hell Of A Year,Les Mots D'Amour,hell,love,0.15384615384615385
+Hell Of A Year,Les Mots D'Amour,hell,words,0.16666666666666666
+Hell Of A Year,Les Mots D'Amour,hell,risky,0
+Hell Of A Year,Les Mots D'Amour,hell,business,0.15384615384615385
+Hell Of A Year,Les Mots D'Amour,death,love,0.2857142857142857
+Hell Of A Year,Les Mots D'Amour,death,words,0.3076923076923077
+Hell Of A Year,Les Mots D'Amour,death,risky,0
+Hell Of A Year,Les Mots D'Amour,death,business,0.2857142857142857
+Hell Of A Year,Les Mots D'Amour,dance,love,0.13333333333333333
+Hell Of A Year,Les Mots D'Amour,dance,words,0.14285714285714285
+Hell Of A Year,Les Mots D'Amour,dance,risky,0
+Hell Of A Year,Les Mots D'Amour,dance,business,0.13333333333333333
+Hell Of A Year,Les Mots D'Amour,human,love,0.09523809523809523
+Hell Of A Year,Les Mots D'Amour,human,words,0.1
+Hell Of A Year,Les Mots D'Amour,human,risky,0
+Hell Of A Year,Les Mots D'Amour,human,business,0.09523809523809523
 Hell Of A Year,Never Ever (Booker T's Up North Dub),year,north,0.15384615384615385
 Hell Of A Year,Never Ever (Booker T's Up North Dub),year,dub,0.25
 Hell Of A Year,Never Ever (Booker T's Up North Dub),year,never,0
@@ -4378,11 +4378,11 @@ Hell Of A Year,Haven't We Met Somewhere Before?,human,somewhere,0.31578947368421
 Hell Of A Year,Haven't We Met Somewhere Before?,human,sex,0.2
 Hell Of A Year,Haven't We Met Somewhere Before?,human,birds,0.75
 Hell Of A Year,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Hell Of A Year,The Route,year,route,0.16666666666666666
-Hell Of A Year,The Route,hell,route,0.6666666666666666
-Hell Of A Year,The Route,death,route,0.15384615384615385
-Hell Of A Year,The Route,dance,route,0.42857142857142855
-Hell Of A Year,The Route,human,route,0.3
+Hell Of A Year,L'Itinéraire,year,route,0.16666666666666666
+Hell Of A Year,L'Itinéraire,hell,route,0.6666666666666666
+Hell Of A Year,L'Itinéraire,death,route,0.15384615384615385
+Hell Of A Year,L'Itinéraire,dance,route,0.42857142857142855
+Hell Of A Year,L'Itinéraire,human,route,0.3
 Hell Of A Year,The Way Things Go,year,way,0.36363636363636365
 Hell Of A Year,The Way Things Go,year,things,0.3333333333333333
 Hell Of A Year,The Way Things Go,year,go,0.6666666666666666
@@ -4408,21 +4408,21 @@ Hell Of A Year,The Way Things Go,human,things,0.1
 Hell Of A Year,The Way Things Go,human,go,0.08695652173913043
 Hell Of A Year,The Way Things Go,human,identification,0.09090909090909091
 Hell Of A Year,The Way Things Go,human,parade,0.1
-Hell Of A Year,There&#39;s a girl who lives at home,year,lives,0.3333333333333333
-Hell Of A Year,There&#39;s a girl who lives at home,year,home,0.13333333333333333
-Hell Of A Year,There&#39;s a girl who lives at home,year,girl,0.15384615384615385
-Hell Of A Year,There&#39;s a girl who lives at home,hell,lives,0.16666666666666666
-Hell Of A Year,There&#39;s a girl who lives at home,hell,home,0.5333333333333333
-Hell Of A Year,There&#39;s a girl who lives at home,hell,girl,0.4
-Hell Of A Year,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Hell Of A Year,There&#39;s a girl who lives at home,death,home,0.125
-Hell Of A Year,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Hell Of A Year,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Hell Of A Year,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Hell Of A Year,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Hell Of A Year,There&#39;s a girl who lives at home,human,lives,0.1
-Hell Of A Year,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Hell Of A Year,There&#39;s a girl who lives at home,human,girl,0.5
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,year,lives,0.3333333333333333
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,year,home,0.13333333333333333
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,year,girl,0.15384615384615385
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,hell,lives,0.16666666666666666
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,hell,home,0.5333333333333333
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,hell,girl,0.4
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Hell Of A Year,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Hoofprints In The Sand,Permanently Lonely,sand,permanently,0
 Hoofprints In The Sand,Permanently Lonely,sand,lonely,0
 Hoofprints In The Sand,Permanently Lonely,hoofprints,permanently,0
@@ -4538,26 +4538,26 @@ Hoofprints In The Sand,Streets On Lock,human,streets,0.34782608695652173
 Hoofprints In The Sand,Streets On Lock,human,lock,0.3333333333333333
 Hoofprints In The Sand,Streets On Lock,human,jam,0.16
 Hoofprints In The Sand,Streets On Lock,human,beef,0.6875
-Hoofprints In The Sand,Love words,sand,love,0.25
-Hoofprints In The Sand,Love words,sand,words,0.26666666666666666
-Hoofprints In The Sand,Love words,sand,risky,0
-Hoofprints In The Sand,Love words,sand,business,0.25
-Hoofprints In The Sand,Love words,hoofprints,love,0.3076923076923077
-Hoofprints In The Sand,Love words,hoofprints,words,0.5
-Hoofprints In The Sand,Love words,hoofprints,risky,0
-Hoofprints In The Sand,Love words,hoofprints,business,0.3076923076923077
-Hoofprints In The Sand,Love words,death,love,0.2857142857142857
-Hoofprints In The Sand,Love words,death,words,0.3076923076923077
-Hoofprints In The Sand,Love words,death,risky,0
-Hoofprints In The Sand,Love words,death,business,0.2857142857142857
-Hoofprints In The Sand,Love words,dance,love,0.13333333333333333
-Hoofprints In The Sand,Love words,dance,words,0.14285714285714285
-Hoofprints In The Sand,Love words,dance,risky,0
-Hoofprints In The Sand,Love words,dance,business,0.13333333333333333
-Hoofprints In The Sand,Love words,human,love,0.09523809523809523
-Hoofprints In The Sand,Love words,human,words,0.1
-Hoofprints In The Sand,Love words,human,risky,0
-Hoofprints In The Sand,Love words,human,business,0.09523809523809523
+Hoofprints In The Sand,Les Mots D'Amour,sand,love,0.25
+Hoofprints In The Sand,Les Mots D'Amour,sand,words,0.26666666666666666
+Hoofprints In The Sand,Les Mots D'Amour,sand,risky,0
+Hoofprints In The Sand,Les Mots D'Amour,sand,business,0.25
+Hoofprints In The Sand,Les Mots D'Amour,hoofprints,love,0.3076923076923077
+Hoofprints In The Sand,Les Mots D'Amour,hoofprints,words,0.5
+Hoofprints In The Sand,Les Mots D'Amour,hoofprints,risky,0
+Hoofprints In The Sand,Les Mots D'Amour,hoofprints,business,0.3076923076923077
+Hoofprints In The Sand,Les Mots D'Amour,death,love,0.2857142857142857
+Hoofprints In The Sand,Les Mots D'Amour,death,words,0.3076923076923077
+Hoofprints In The Sand,Les Mots D'Amour,death,risky,0
+Hoofprints In The Sand,Les Mots D'Amour,death,business,0.2857142857142857
+Hoofprints In The Sand,Les Mots D'Amour,dance,love,0.13333333333333333
+Hoofprints In The Sand,Les Mots D'Amour,dance,words,0.14285714285714285
+Hoofprints In The Sand,Les Mots D'Amour,dance,risky,0
+Hoofprints In The Sand,Les Mots D'Amour,dance,business,0.13333333333333333
+Hoofprints In The Sand,Les Mots D'Amour,human,love,0.09523809523809523
+Hoofprints In The Sand,Les Mots D'Amour,human,words,0.1
+Hoofprints In The Sand,Les Mots D'Amour,human,risky,0
+Hoofprints In The Sand,Les Mots D'Amour,human,business,0.09523809523809523
 Hoofprints In The Sand,Never Ever (Booker T's Up North Dub),sand,north,0.26666666666666666
 Hoofprints In The Sand,Never Ever (Booker T's Up North Dub),sand,dub,0.21052631578947367
 Hoofprints In The Sand,Never Ever (Booker T's Up North Dub),sand,never,0
@@ -4658,11 +4658,11 @@ Hoofprints In The Sand,Haven't We Met Somewhere Before?,human,somewhere,0.315789
 Hoofprints In The Sand,Haven't We Met Somewhere Before?,human,sex,0.2
 Hoofprints In The Sand,Haven't We Met Somewhere Before?,human,birds,0.75
 Hoofprints In The Sand,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-Hoofprints In The Sand,The Route,sand,route,0.2857142857142857
-Hoofprints In The Sand,The Route,hoofprints,route,0.16666666666666666
-Hoofprints In The Sand,The Route,death,route,0.15384615384615385
-Hoofprints In The Sand,The Route,dance,route,0.42857142857142855
-Hoofprints In The Sand,The Route,human,route,0.3
+Hoofprints In The Sand,L'Itinéraire,sand,route,0.2857142857142857
+Hoofprints In The Sand,L'Itinéraire,hoofprints,route,0.16666666666666666
+Hoofprints In The Sand,L'Itinéraire,death,route,0.15384615384615385
+Hoofprints In The Sand,L'Itinéraire,dance,route,0.42857142857142855
+Hoofprints In The Sand,L'Itinéraire,human,route,0.3
 Hoofprints In The Sand,The Way Things Go,sand,way,0.2857142857142857
 Hoofprints In The Sand,The Way Things Go,sand,things,0.4
 Hoofprints In The Sand,The Way Things Go,sand,go,0.2222222222222222
@@ -4688,21 +4688,21 @@ Hoofprints In The Sand,The Way Things Go,human,things,0.1
 Hoofprints In The Sand,The Way Things Go,human,go,0.08695652173913043
 Hoofprints In The Sand,The Way Things Go,human,identification,0.09090909090909091
 Hoofprints In The Sand,The Way Things Go,human,parade,0.1
-Hoofprints In The Sand,There&#39;s a girl who lives at home,sand,lives,0.26666666666666666
-Hoofprints In The Sand,There&#39;s a girl who lives at home,sand,home,0.23529411764705882
-Hoofprints In The Sand,There&#39;s a girl who lives at home,sand,girl,0.26666666666666666
-Hoofprints In The Sand,There&#39;s a girl who lives at home,hoofprints,lives,0.3333333333333333
-Hoofprints In The Sand,There&#39;s a girl who lives at home,hoofprints,home,0.13333333333333333
-Hoofprints In The Sand,There&#39;s a girl who lives at home,hoofprints,girl,0.15384615384615385
-Hoofprints In The Sand,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-Hoofprints In The Sand,There&#39;s a girl who lives at home,death,home,0.125
-Hoofprints In The Sand,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-Hoofprints In The Sand,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-Hoofprints In The Sand,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-Hoofprints In The Sand,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-Hoofprints In The Sand,There&#39;s a girl who lives at home,human,lives,0.1
-Hoofprints In The Sand,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-Hoofprints In The Sand,There&#39;s a girl who lives at home,human,girl,0.5
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,sand,lives,0.26666666666666666
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,sand,home,0.23529411764705882
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,sand,girl,0.26666666666666666
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,hoofprints,lives,0.3333333333333333
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,hoofprints,home,0.13333333333333333
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,hoofprints,girl,0.15384615384615385
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+Hoofprints In The Sand,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 High Step,Permanently Lonely,high,permanently,0
 High Step,Permanently Lonely,high,lonely,0
 High Step,Permanently Lonely,step,permanently,0
@@ -4818,26 +4818,26 @@ High Step,Streets On Lock,human,streets,0.34782608695652173
 High Step,Streets On Lock,human,lock,0.3333333333333333
 High Step,Streets On Lock,human,jam,0.16
 High Step,Streets On Lock,human,beef,0.6875
-High Step,Love words,high,love,0.46153846153846156
-High Step,Love words,high,words,0.3333333333333333
-High Step,Love words,high,risky,0
-High Step,Love words,high,business,0.3076923076923077
-High Step,Love words,step,love,0.2222222222222222
-High Step,Love words,step,words,0.23529411764705882
-High Step,Love words,step,risky,0
-High Step,Love words,step,business,0.2222222222222222
-High Step,Love words,death,love,0.2857142857142857
-High Step,Love words,death,words,0.3076923076923077
-High Step,Love words,death,risky,0
-High Step,Love words,death,business,0.2857142857142857
-High Step,Love words,dance,love,0.13333333333333333
-High Step,Love words,dance,words,0.14285714285714285
-High Step,Love words,dance,risky,0
-High Step,Love words,dance,business,0.13333333333333333
-High Step,Love words,human,love,0.09523809523809523
-High Step,Love words,human,words,0.1
-High Step,Love words,human,risky,0
-High Step,Love words,human,business,0.09523809523809523
+High Step,Les Mots D'Amour,high,love,0.46153846153846156
+High Step,Les Mots D'Amour,high,words,0.3333333333333333
+High Step,Les Mots D'Amour,high,risky,0
+High Step,Les Mots D'Amour,high,business,0.3076923076923077
+High Step,Les Mots D'Amour,step,love,0.2222222222222222
+High Step,Les Mots D'Amour,step,words,0.23529411764705882
+High Step,Les Mots D'Amour,step,risky,0
+High Step,Les Mots D'Amour,step,business,0.2222222222222222
+High Step,Les Mots D'Amour,death,love,0.2857142857142857
+High Step,Les Mots D'Amour,death,words,0.3076923076923077
+High Step,Les Mots D'Amour,death,risky,0
+High Step,Les Mots D'Amour,death,business,0.2857142857142857
+High Step,Les Mots D'Amour,dance,love,0.13333333333333333
+High Step,Les Mots D'Amour,dance,words,0.14285714285714285
+High Step,Les Mots D'Amour,dance,risky,0
+High Step,Les Mots D'Amour,dance,business,0.13333333333333333
+High Step,Les Mots D'Amour,human,love,0.09523809523809523
+High Step,Les Mots D'Amour,human,words,0.1
+High Step,Les Mots D'Amour,human,risky,0
+High Step,Les Mots D'Amour,human,business,0.09523809523809523
 High Step,Never Ever (Booker T's Up North Dub),high,north,0.15384615384615385
 High Step,Never Ever (Booker T's Up North Dub),high,dub,0.25
 High Step,Never Ever (Booker T's Up North Dub),high,never,0
@@ -4938,11 +4938,11 @@ High Step,Haven't We Met Somewhere Before?,human,somewhere,0.3157894736842105
 High Step,Haven't We Met Somewhere Before?,human,sex,0.2
 High Step,Haven't We Met Somewhere Before?,human,birds,0.75
 High Step,Haven't We Met Somewhere Before?,human,bees,0.5384615384615384
-High Step,The Route,high,route,0.16666666666666666
-High Step,The Route,step,route,0.11764705882352941
-High Step,The Route,death,route,0.15384615384615385
-High Step,The Route,dance,route,0.42857142857142855
-High Step,The Route,human,route,0.3
+High Step,L'Itinéraire,high,route,0.16666666666666666
+High Step,L'Itinéraire,step,route,0.11764705882352941
+High Step,L'Itinéraire,death,route,0.15384615384615385
+High Step,L'Itinéraire,dance,route,0.42857142857142855
+High Step,L'Itinéraire,human,route,0.3
 High Step,The Way Things Go,high,way,0.7272727272727273
 High Step,The Way Things Go,high,things,0.3333333333333333
 High Step,The Way Things Go,high,go,0.26666666666666666
@@ -4968,21 +4968,21 @@ High Step,The Way Things Go,human,things,0.1
 High Step,The Way Things Go,human,go,0.08695652173913043
 High Step,The Way Things Go,human,identification,0.09090909090909091
 High Step,The Way Things Go,human,parade,0.1
-High Step,There&#39;s a girl who lives at home,high,lives,0.5
-High Step,There&#39;s a girl who lives at home,high,home,0.13333333333333333
-High Step,There&#39;s a girl who lives at home,high,girl,0.15384615384615385
-High Step,There&#39;s a girl who lives at home,step,lives,0.23529411764705882
-High Step,There&#39;s a girl who lives at home,step,home,0.1
-High Step,There&#39;s a girl who lives at home,step,girl,0.1111111111111111
-High Step,There&#39;s a girl who lives at home,death,lives,0.3076923076923077
-High Step,There&#39;s a girl who lives at home,death,home,0.125
-High Step,There&#39;s a girl who lives at home,death,girl,0.14285714285714285
-High Step,There&#39;s a girl who lives at home,dance,lives,0.14285714285714285
-High Step,There&#39;s a girl who lives at home,dance,home,0.35294117647058826
-High Step,There&#39;s a girl who lives at home,dance,girl,0.4444444444444444
-High Step,There&#39;s a girl who lives at home,human,lives,0.1
-High Step,There&#39;s a girl who lives at home,human,home,0.2608695652173913
-High Step,There&#39;s a girl who lives at home,human,girl,0.5
+High Step,Y'a Une Fille Qu'Habite Chez Moi,high,lives,0.5
+High Step,Y'a Une Fille Qu'Habite Chez Moi,high,home,0.13333333333333333
+High Step,Y'a Une Fille Qu'Habite Chez Moi,high,girl,0.15384615384615385
+High Step,Y'a Une Fille Qu'Habite Chez Moi,step,lives,0.23529411764705882
+High Step,Y'a Une Fille Qu'Habite Chez Moi,step,home,0.1
+High Step,Y'a Une Fille Qu'Habite Chez Moi,step,girl,0.1111111111111111
+High Step,Y'a Une Fille Qu'Habite Chez Moi,death,lives,0.3076923076923077
+High Step,Y'a Une Fille Qu'Habite Chez Moi,death,home,0.125
+High Step,Y'a Une Fille Qu'Habite Chez Moi,death,girl,0.14285714285714285
+High Step,Y'a Une Fille Qu'Habite Chez Moi,dance,lives,0.14285714285714285
+High Step,Y'a Une Fille Qu'Habite Chez Moi,dance,home,0.35294117647058826
+High Step,Y'a Une Fille Qu'Habite Chez Moi,dance,girl,0.4444444444444444
+High Step,Y'a Une Fille Qu'Habite Chez Moi,human,lives,0.1
+High Step,Y'a Une Fille Qu'Habite Chez Moi,human,home,0.2608695652173913
+High Step,Y'a Une Fille Qu'Habite Chez Moi,human,girl,0.5
 Escape Artist,Permanently Lonely,escape,permanently,0
 Escape Artist,Permanently Lonely,escape,lonely,0
 Escape Artist,Permanently Lonely,artist,permanently,0
@@ -5075,22 +5075,22 @@ Escape Artist,Streets On Lock,distrust,streets,0.1111111111111111
 Escape Artist,Streets On Lock,distrust,lock,0.10526315789473684
 Escape Artist,Streets On Lock,distrust,jam,0.1
 Escape Artist,Streets On Lock,distrust,beef,0.07407407407407407
-Escape Artist,Love words,escape,love,0.2857142857142857
-Escape Artist,Love words,escape,words,0.3076923076923077
-Escape Artist,Love words,escape,risky,0
-Escape Artist,Love words,escape,business,0.2857142857142857
-Escape Artist,Love words,artist,love,0.15384615384615385
-Escape Artist,Love words,artist,words,0.16666666666666666
-Escape Artist,Love words,artist,risky,0
-Escape Artist,Love words,artist,business,0.15384615384615385
-Escape Artist,Love words,healthy,love,0
-Escape Artist,Love words,healthy,words,0
-Escape Artist,Love words,healthy,risky,0
-Escape Artist,Love words,healthy,business,0
-Escape Artist,Love words,distrust,love,0.5
-Escape Artist,Love words,distrust,words,0.26666666666666666
-Escape Artist,Love words,distrust,risky,0
-Escape Artist,Love words,distrust,business,0.25
+Escape Artist,Les Mots D'Amour,escape,love,0.2857142857142857
+Escape Artist,Les Mots D'Amour,escape,words,0.3076923076923077
+Escape Artist,Les Mots D'Amour,escape,risky,0
+Escape Artist,Les Mots D'Amour,escape,business,0.2857142857142857
+Escape Artist,Les Mots D'Amour,artist,love,0.15384615384615385
+Escape Artist,Les Mots D'Amour,artist,words,0.16666666666666666
+Escape Artist,Les Mots D'Amour,artist,risky,0
+Escape Artist,Les Mots D'Amour,artist,business,0.15384615384615385
+Escape Artist,Les Mots D'Amour,healthy,love,0
+Escape Artist,Les Mots D'Amour,healthy,words,0
+Escape Artist,Les Mots D'Amour,healthy,risky,0
+Escape Artist,Les Mots D'Amour,healthy,business,0
+Escape Artist,Les Mots D'Amour,distrust,love,0.5
+Escape Artist,Les Mots D'Amour,distrust,words,0.26666666666666666
+Escape Artist,Les Mots D'Amour,distrust,risky,0
+Escape Artist,Les Mots D'Amour,distrust,business,0.25
 Escape Artist,Never Ever (Booker T's Up North Dub),escape,north,0.14285714285714285
 Escape Artist,Never Ever (Booker T's Up North Dub),escape,dub,0.35294117647058826
 Escape Artist,Never Ever (Booker T's Up North Dub),escape,never,0
@@ -5171,10 +5171,10 @@ Escape Artist,Haven't We Met Somewhere Before?,distrust,somewhere,0.142857142857
 Escape Artist,Haven't We Met Somewhere Before?,distrust,sex,0.13333333333333333
 Escape Artist,Haven't We Met Somewhere Before?,distrust,birds,0.10526315789473684
 Escape Artist,Haven't We Met Somewhere Before?,distrust,bees,0.09523809523809523
-Escape Artist,The Route,escape,route,0.15384615384615385
-Escape Artist,The Route,artist,route,0.42857142857142855
-Escape Artist,The Route,healthy,route,0
-Escape Artist,The Route,distrust,route,0.13333333333333333
+Escape Artist,L'Itinéraire,escape,route,0.15384615384615385
+Escape Artist,L'Itinéraire,artist,route,0.42857142857142855
+Escape Artist,L'Itinéraire,healthy,route,0
+Escape Artist,L'Itinéraire,distrust,route,0.13333333333333333
 Escape Artist,The Way Things Go,escape,way,0.3333333333333333
 Escape Artist,The Way Things Go,escape,things,0.3076923076923077
 Escape Artist,The Way Things Go,escape,go,0.25
@@ -5195,18 +5195,18 @@ Escape Artist,The Way Things Go,distrust,things,0.26666666666666666
 Escape Artist,The Way Things Go,distrust,go,0.2222222222222222
 Escape Artist,The Way Things Go,distrust,identification,0.23529411764705882
 Escape Artist,The Way Things Go,distrust,parade,0.26666666666666666
-Escape Artist,There&#39;s a girl who lives at home,escape,lives,0.3076923076923077
-Escape Artist,There&#39;s a girl who lives at home,escape,home,0.125
-Escape Artist,There&#39;s a girl who lives at home,escape,girl,0.14285714285714285
-Escape Artist,There&#39;s a girl who lives at home,artist,lives,0.16666666666666666
-Escape Artist,There&#39;s a girl who lives at home,artist,home,0.35294117647058826
-Escape Artist,There&#39;s a girl who lives at home,artist,girl,0.631578947368421
-Escape Artist,There&#39;s a girl who lives at home,healthy,lives,0
-Escape Artist,There&#39;s a girl who lives at home,healthy,home,0
-Escape Artist,There&#39;s a girl who lives at home,healthy,girl,0
-Escape Artist,There&#39;s a girl who lives at home,distrust,lives,0.5333333333333333
-Escape Artist,There&#39;s a girl who lives at home,distrust,home,0.1111111111111111
-Escape Artist,There&#39;s a girl who lives at home,distrust,girl,0.125
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,escape,lives,0.3076923076923077
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,escape,home,0.125
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,escape,girl,0.14285714285714285
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,artist,lives,0.16666666666666666
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,artist,home,0.35294117647058826
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,artist,girl,0.631578947368421
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,healthy,lives,0
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,healthy,home,0
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,healthy,girl,0
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,distrust,lives,0.5333333333333333
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,distrust,home,0.1111111111111111
+Escape Artist,Y'a Une Fille Qu'Habite Chez Moi,distrust,girl,0.125
 Sea Lion,Permanently Lonely,sea,permanently,0
 Sea Lion,Permanently Lonely,sea,lonely,0
 Sea Lion,Permanently Lonely,lion,permanently,0
@@ -5299,22 +5299,22 @@ Sea Lion,Streets On Lock,distrust,streets,0.1111111111111111
 Sea Lion,Streets On Lock,distrust,lock,0.10526315789473684
 Sea Lion,Streets On Lock,distrust,jam,0.1
 Sea Lion,Streets On Lock,distrust,beef,0.07407407407407407
-Sea Lion,Love words,sea,love,0.16666666666666666
-Sea Lion,Love words,sea,words,0.18181818181818182
-Sea Lion,Love words,sea,risky,0
-Sea Lion,Love words,sea,business,0.16666666666666666
-Sea Lion,Love words,lion,love,0.09090909090909091
-Sea Lion,Love words,lion,words,0.09523809523809523
-Sea Lion,Love words,lion,risky,0
-Sea Lion,Love words,lion,business,0.09090909090909091
-Sea Lion,Love words,healthy,love,0
-Sea Lion,Love words,healthy,words,0
-Sea Lion,Love words,healthy,risky,0
-Sea Lion,Love words,healthy,business,0
-Sea Lion,Love words,distrust,love,0.5
-Sea Lion,Love words,distrust,words,0.26666666666666666
-Sea Lion,Love words,distrust,risky,0
-Sea Lion,Love words,distrust,business,0.25
+Sea Lion,Les Mots D'Amour,sea,love,0.16666666666666666
+Sea Lion,Les Mots D'Amour,sea,words,0.18181818181818182
+Sea Lion,Les Mots D'Amour,sea,risky,0
+Sea Lion,Les Mots D'Amour,sea,business,0.16666666666666666
+Sea Lion,Les Mots D'Amour,lion,love,0.09090909090909091
+Sea Lion,Les Mots D'Amour,lion,words,0.09523809523809523
+Sea Lion,Les Mots D'Amour,lion,risky,0
+Sea Lion,Les Mots D'Amour,lion,business,0.09090909090909091
+Sea Lion,Les Mots D'Amour,healthy,love,0
+Sea Lion,Les Mots D'Amour,healthy,words,0
+Sea Lion,Les Mots D'Amour,healthy,risky,0
+Sea Lion,Les Mots D'Amour,healthy,business,0
+Sea Lion,Les Mots D'Amour,distrust,love,0.5
+Sea Lion,Les Mots D'Amour,distrust,words,0.26666666666666666
+Sea Lion,Les Mots D'Amour,distrust,risky,0
+Sea Lion,Les Mots D'Amour,distrust,business,0.25
 Sea Lion,Never Ever (Booker T's Up North Dub),sea,north,0.3333333333333333
 Sea Lion,Never Ever (Booker T's Up North Dub),sea,dub,0.13333333333333333
 Sea Lion,Never Ever (Booker T's Up North Dub),sea,never,0
@@ -5395,10 +5395,10 @@ Sea Lion,Haven't We Met Somewhere Before?,distrust,somewhere,0.14285714285714285
 Sea Lion,Haven't We Met Somewhere Before?,distrust,sex,0.13333333333333333
 Sea Lion,Haven't We Met Somewhere Before?,distrust,birds,0.10526315789473684
 Sea Lion,Haven't We Met Somewhere Before?,distrust,bees,0.09523809523809523
-Sea Lion,The Route,sea,route,0.36363636363636365
-Sea Lion,The Route,lion,route,0.2857142857142857
-Sea Lion,The Route,healthy,route,0
-Sea Lion,The Route,distrust,route,0.13333333333333333
+Sea Lion,L'Itinéraire,sea,route,0.36363636363636365
+Sea Lion,L'Itinéraire,lion,route,0.2857142857142857
+Sea Lion,L'Itinéraire,healthy,route,0
+Sea Lion,L'Itinéraire,distrust,route,0.13333333333333333
 Sea Lion,The Way Things Go,sea,way,0.2
 Sea Lion,The Way Things Go,sea,things,0.18181818181818182
 Sea Lion,The Way Things Go,sea,go,0.14285714285714285
@@ -5419,15 +5419,15 @@ Sea Lion,The Way Things Go,distrust,things,0.26666666666666666
 Sea Lion,The Way Things Go,distrust,go,0.2222222222222222
 Sea Lion,The Way Things Go,distrust,identification,0.23529411764705882
 Sea Lion,The Way Things Go,distrust,parade,0.26666666666666666
-Sea Lion,There&#39;s a girl who lives at home,sea,lives,0.18181818181818182
-Sea Lion,There&#39;s a girl who lives at home,sea,home,0.2857142857142857
-Sea Lion,There&#39;s a girl who lives at home,sea,girl,0.3333333333333333
-Sea Lion,There&#39;s a girl who lives at home,lion,lives,0.09523809523809523
-Sea Lion,There&#39;s a girl who lives at home,lion,home,0.25
-Sea Lion,There&#39;s a girl who lives at home,lion,girl,0.48
-Sea Lion,There&#39;s a girl who lives at home,healthy,lives,0
-Sea Lion,There&#39;s a girl who lives at home,healthy,home,0
-Sea Lion,There&#39;s a girl who lives at home,healthy,girl,0
-Sea Lion,There&#39;s a girl who lives at home,distrust,lives,0.5333333333333333
-Sea Lion,There&#39;s a girl who lives at home,distrust,home,0.1111111111111111
-Sea Lion,There&#39;s a girl who lives at home,distrust,girl,0.125
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,sea,lives,0.18181818181818182
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,sea,home,0.2857142857142857
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,sea,girl,0.3333333333333333
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,lion,lives,0.09523809523809523
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,lion,home,0.25
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,lion,girl,0.48
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,healthy,lives,0
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,healthy,home,0
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,healthy,girl,0
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,distrust,lives,0.5333333333333333
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,distrust,home,0.1111111111111111
+Sea Lion,Y'a Une Fille Qu'Habite Chez Moi,distrust,girl,0.125
