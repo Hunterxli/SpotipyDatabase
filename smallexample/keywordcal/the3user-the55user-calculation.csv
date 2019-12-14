@@ -1,0 +1,2628 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Adam's Song,sun,song,0.13333333333333333
+Sun Hands,Adam's Song,sun,adam,0.4444444444444444
+Sun Hands,Adam's Song,sun,state,0.375
+Sun Hands,Adam's Song,sun,enema,0.1
+Sun Hands,Adam's Song,hands,song,0.25
+Sun Hands,Adam's Song,hands,adam,0.125
+Sun Hands,Adam's Song,hands,state,0.11764705882352941
+Sun Hands,Adam's Song,hands,enema,0.45454545454545453
+Sun Hands,Adam's Song,gorilla,song,0.08695652173913043
+Sun Hands,Adam's Song,gorilla,adam,0.46153846153846156
+Sun Hands,Adam's Song,gorilla,state,0.25
+Sun Hands,Adam's Song,gorilla,enema,0.07142857142857142
+Sun Hands,Adam's Song,manor,song,0.11764705882352941
+Sun Hands,Adam's Song,manor,adam,0.4
+Sun Hands,Adam's Song,manor,state,0.3333333333333333
+Sun Hands,Adam's Song,manor,enema,0.09090909090909091
+Sun Hands,Don't Cry (Original),sun,original,0.5333333333333333
+Sun Hands,Don't Cry (Original),sun,cry,0.14285714285714285
+Sun Hands,Don't Cry (Original),sun,greatest,0
+Sun Hands,Don't Cry (Original),sun,hits,0.11764705882352941
+Sun Hands,Don't Cry (Original),hands,original,0.125
+Sun Hands,Don't Cry (Original),hands,cry,0.26666666666666666
+Sun Hands,Don't Cry (Original),hands,greatest,0
+Sun Hands,Don't Cry (Original),hands,hits,0.5263157894736842
+Sun Hands,Don't Cry (Original),gorilla,original,0.34782608695652173
+Sun Hands,Don't Cry (Original),gorilla,cry,0.09090909090909091
+Sun Hands,Don't Cry (Original),gorilla,greatest,0
+Sun Hands,Don't Cry (Original),gorilla,hits,0.08
+Sun Hands,Don't Cry (Original),manor,original,0.5882352941176471
+Sun Hands,Don't Cry (Original),manor,cry,0.125
+Sun Hands,Don't Cry (Original),manor,greatest,0
+Sun Hands,Don't Cry (Original),manor,hits,0.10526315789473684
+Sun Hands,Something In The Way,sun,way,0.15384615384615385
+Sun Hands,Something In The Way,hands,way,0.2857142857142857
+Sun Hands,Something In The Way,gorilla,way,0.09523809523809523
+Sun Hands,Something In The Way,manor,way,0.13333333333333333
+Sun Hands,Superman (It's Not Easy),sun,superman,0.47058823529411764
+Sun Hands,Superman (It's Not Easy),sun,easy,0
+Sun Hands,Superman (It's Not Easy),sun,songs,0.13333333333333333
+Sun Hands,Superman (It's Not Easy),sun,ii,0.125
+Sun Hands,Superman (It's Not Easy),sun,dawson,0.3333333333333333
+Sun Hands,Superman (It's Not Easy),sun,creek,0.2857142857142857
+Sun Hands,Superman (It's Not Easy),hands,superman,0.13333333333333333
+Sun Hands,Superman (It's Not Easy),hands,easy,0
+Sun Hands,Superman (It's Not Easy),hands,songs,0.25
+Sun Hands,Superman (It's Not Easy),hands,ii,0.23529411764705882
+Sun Hands,Superman (It's Not Easy),hands,dawson,0.10526315789473684
+Sun Hands,Superman (It's Not Easy),hands,creek,0.13333333333333333
+Sun Hands,Superman (It's Not Easy),gorilla,superman,0.48
+Sun Hands,Superman (It's Not Easy),gorilla,easy,0
+Sun Hands,Superman (It's Not Easy),gorilla,songs,0.08695652173913043
+Sun Hands,Superman (It's Not Easy),gorilla,ii,0.08333333333333333
+Sun Hands,Superman (It's Not Easy),gorilla,dawson,0.23076923076923078
+Sun Hands,Superman (It's Not Easy),gorilla,creek,0.18181818181818182
+Sun Hands,Superman (It's Not Easy),manor,superman,0.42105263157894735
+Sun Hands,Superman (It's Not Easy),manor,easy,0
+Sun Hands,Superman (It's Not Easy),manor,songs,0.11764705882352941
+Sun Hands,Superman (It's Not Easy),manor,ii,0.1111111111111111
+Sun Hands,Superman (It's Not Easy),manor,dawson,0.3
+Sun Hands,Superman (It's Not Easy),manor,creek,0.25
+Sun Hands,Beautiful,sun,beautiful,0
+Sun Hands,Beautiful,sun,hotel,0.5
+Sun Hands,Beautiful,hands,beautiful,0
+Sun Hands,Beautiful,hands,hotel,0.11764705882352941
+Sun Hands,Beautiful,gorilla,beautiful,0
+Sun Hands,Beautiful,gorilla,hotel,0.3333333333333333
+Sun Hands,Beautiful,manor,beautiful,0
+Sun Hands,Beautiful,manor,hotel,0.7777777777777778
+Sun Hands,Livin' On A Prayer,sun,prayer,0.125
+Sun Hands,Livin' On A Prayer,sun,cross,0.5333333333333333
+Sun Hands,Livin' On A Prayer,sun,road,0.5333333333333333
+Sun Hands,Livin' On A Prayer,hands,prayer,0.5555555555555556
+Sun Hands,Livin' On A Prayer,hands,cross,0.125
+Sun Hands,Livin' On A Prayer,hands,road,0.125
+Sun Hands,Livin' On A Prayer,gorilla,prayer,0.08333333333333333
+Sun Hands,Livin' On A Prayer,gorilla,cross,0.34782608695652173
+Sun Hands,Livin' On A Prayer,gorilla,road,0.34782608695652173
+Sun Hands,Livin' On A Prayer,manor,prayer,0.1111111111111111
+Sun Hands,Livin' On A Prayer,manor,cross,0.7058823529411765
+Sun Hands,Livin' On A Prayer,manor,road,0.5882352941176471
+Sun Hands,Crazy,sun,crazy,0.42105263157894735
+Sun Hands,Crazy,sun,grip,0.11764705882352941
+Sun Hands,Crazy,sun,get,0.09523809523809523
+Sun Hands,Crazy,hands,crazy,0.11764705882352941
+Sun Hands,Crazy,hands,grip,0.5263157894736842
+Sun Hands,Crazy,hands,get,0.43478260869565216
+Sun Hands,Crazy,gorilla,crazy,0.4444444444444444
+Sun Hands,Crazy,gorilla,grip,0.08
+Sun Hands,Crazy,gorilla,get,0.06896551724137931
+Sun Hands,Crazy,manor,crazy,0.38095238095238093
+Sun Hands,Crazy,manor,grip,0.10526315789473684
+Sun Hands,Crazy,manor,get,0.08695652173913043
+Sun Hands,You're Crazy,sun,crazy,0.42105263157894735
+Sun Hands,You're Crazy,sun,r,0.125
+Sun Hands,You're Crazy,sun,lies,0.13333333333333333
+Sun Hands,You're Crazy,sun,g,0.125
+Sun Hands,You're Crazy,sun,n,0.2857142857142857
+Sun Hands,You're Crazy,hands,crazy,0.11764705882352941
+Sun Hands,You're Crazy,hands,r,0.23529411764705882
+Sun Hands,You're Crazy,hands,lies,0.25
+Sun Hands,You're Crazy,hands,g,0.23529411764705882
+Sun Hands,You're Crazy,hands,n,0.25
+Sun Hands,You're Crazy,gorilla,crazy,0.4444444444444444
+Sun Hands,You're Crazy,gorilla,r,0.08333333333333333
+Sun Hands,You're Crazy,gorilla,lies,0.08695652173913043
+Sun Hands,You're Crazy,gorilla,g,0.08333333333333333
+Sun Hands,You're Crazy,gorilla,n,0.18181818181818182
+Sun Hands,You're Crazy,manor,crazy,0.38095238095238093
+Sun Hands,You're Crazy,manor,r,0.1111111111111111
+Sun Hands,You're Crazy,manor,lies,0.11764705882352941
+Sun Hands,You're Crazy,manor,g,0.1111111111111111
+Sun Hands,You're Crazy,manor,n,0.25
+Sun Hands,Drain You,sun,drain,0.1
+Sun Hands,Drain You,sun,drain,0.1
+Sun Hands,Drain You,hands,drain,0.45454545454545453
+Sun Hands,Drain You,hands,drain,0.45454545454545453
+Sun Hands,Drain You,gorilla,drain,0.07142857142857142
+Sun Hands,Drain You,gorilla,drain,0.07142857142857142
+Sun Hands,Drain You,manor,drain,0.09090909090909091
+Sun Hands,Drain You,manor,drain,0.09090909090909091
+Sun Hands,If He Should Break Your Heart,sun,heart,0.11764705882352941
+Sun Hands,If He Should Break Your Heart,sun,break,0.14285714285714285
+Sun Hands,If He Should Break Your Heart,sun,trial,0.125
+Sun Hands,If He Should Break Your Heart,sun,fire,0.14285714285714285
+Sun Hands,If He Should Break Your Heart,hands,heart,0.3333333333333333
+Sun Hands,If He Should Break Your Heart,hands,break,0.5333333333333333
+Sun Hands,If He Should Break Your Heart,hands,trial,0.5555555555555556
+Sun Hands,If He Should Break Your Heart,hands,fire,0.5333333333333333
+Sun Hands,If He Should Break Your Heart,gorilla,heart,0.08
+Sun Hands,If He Should Break Your Heart,gorilla,break,0.09090909090909091
+Sun Hands,If He Should Break Your Heart,gorilla,trial,0.08333333333333333
+Sun Hands,If He Should Break Your Heart,gorilla,fire,0.09090909090909091
+Sun Hands,If He Should Break Your Heart,manor,heart,0.10526315789473684
+Sun Hands,If He Should Break Your Heart,manor,break,0.125
+Sun Hands,If He Should Break Your Heart,manor,trial,0.1111111111111111
+Sun Hands,If He Should Break Your Heart,manor,fire,0.125
+Sun Hands,Float On,sun,float,0.15384615384615385
+Sun Hands,Float On,sun,float,0.15384615384615385
+Sun Hands,Float On,hands,float,0.2857142857142857
+Sun Hands,Float On,hands,float,0.2857142857142857
+Sun Hands,Float On,gorilla,float,0.09523809523809523
+Sun Hands,Float On,gorilla,float,0.09523809523809523
+Sun Hands,Float On,manor,float,0.13333333333333333
+Sun Hands,Float On,manor,float,0.13333333333333333
+Sun Hands,Angie (1993 Digital Remaster),sun,digital,0
+Sun Hands,Angie (1993 Digital Remaster),sun,rolling,0.13333333333333333
+Sun Hands,Angie (1993 Digital Remaster),sun,jump,0.125
+Sun Hands,Angie (1993 Digital Remaster),sun,back,0.2857142857142857
+Sun Hands,Angie (1993 Digital Remaster),sun,best,0.125
+Sun Hands,Angie (1993 Digital Remaster),hands,digital,0
+Sun Hands,Angie (1993 Digital Remaster),hands,rolling,0.5
+Sun Hands,Angie (1993 Digital Remaster),hands,jump,0.47058823529411764
+Sun Hands,Angie (1993 Digital Remaster),hands,back,0.13333333333333333
+Sun Hands,Angie (1993 Digital Remaster),hands,best,0.5555555555555556
+Sun Hands,Angie (1993 Digital Remaster),gorilla,digital,0
+Sun Hands,Angie (1993 Digital Remaster),gorilla,rolling,0.08695652173913043
+Sun Hands,Angie (1993 Digital Remaster),gorilla,jump,0.08333333333333333
+Sun Hands,Angie (1993 Digital Remaster),gorilla,back,0.18181818181818182
+Sun Hands,Angie (1993 Digital Remaster),gorilla,best,0.08333333333333333
+Sun Hands,Angie (1993 Digital Remaster),manor,digital,0
+Sun Hands,Angie (1993 Digital Remaster),manor,rolling,0.11764705882352941
+Sun Hands,Angie (1993 Digital Remaster),manor,jump,0.1111111111111111
+Sun Hands,Angie (1993 Digital Remaster),manor,back,0.25
+Sun Hands,Angie (1993 Digital Remaster),manor,best,0.1111111111111111
+Sun Hands,Chasing Cars,sun,chasing,0
+Sun Hands,Chasing Cars,sun,cars,0.42105263157894735
+Sun Hands,Chasing Cars,sun,chasing,0
+Sun Hands,Chasing Cars,sun,cars,0.42105263157894735
+Sun Hands,Chasing Cars,sun,toronto,0.3157894736842105
+Sun Hands,Chasing Cars,sun,live,0
+Sun Hands,Chasing Cars,hands,chasing,0
+Sun Hands,Chasing Cars,hands,cars,0.1
+Sun Hands,Chasing Cars,hands,chasing,0
+Sun Hands,Chasing Cars,hands,cars,0.1
+Sun Hands,Chasing Cars,hands,toronto,0.1
+Sun Hands,Chasing Cars,hands,live,0
+Sun Hands,Chasing Cars,gorilla,chasing,0
+Sun Hands,Chasing Cars,gorilla,cars,0.2962962962962963
+Sun Hands,Chasing Cars,gorilla,chasing,0
+Sun Hands,Chasing Cars,gorilla,cars,0.2962962962962963
+Sun Hands,Chasing Cars,gorilla,toronto,0.2222222222222222
+Sun Hands,Chasing Cars,gorilla,live,0
+Sun Hands,Chasing Cars,manor,chasing,0
+Sun Hands,Chasing Cars,manor,cars,0.47619047619047616
+Sun Hands,Chasing Cars,manor,chasing,0
+Sun Hands,Chasing Cars,manor,cars,0.47619047619047616
+Sun Hands,Chasing Cars,manor,toronto,0.2857142857142857
+Sun Hands,Chasing Cars,manor,live,0
+Sun Hands,I Just Wanna Be Loved (LP Version),sun,lp,0.4
+Sun Hands,I Just Wanna Be Loved (LP Version),sun,version,0.125
+Sun Hands,I Just Wanna Be Loved (LP Version),sun,wan,0.4444444444444444
+Sun Hands,I Just Wanna Be Loved (LP Version),sun,na,0.26666666666666666
+Sun Hands,I Just Wanna Be Loved (LP Version),sun,loved,0
+Sun Hands,I Just Wanna Be Loved (LP Version),sun,talon,0.23529411764705882
+Sun Hands,I Just Wanna Be Loved (LP Version),sun,mix,0.25
+Sun Hands,I Just Wanna Be Loved (LP Version),hands,lp,0.09523809523809523
+Sun Hands,I Just Wanna Be Loved (LP Version),hands,version,0.23529411764705882
+Sun Hands,I Just Wanna Be Loved (LP Version),hands,wan,0.10526315789473684
+Sun Hands,I Just Wanna Be Loved (LP Version),hands,na,0.23529411764705882
+Sun Hands,I Just Wanna Be Loved (LP Version),hands,loved,0
+Sun Hands,I Just Wanna Be Loved (LP Version),hands,talon,0.1111111111111111
+Sun Hands,I Just Wanna Be Loved (LP Version),hands,mix,0.11764705882352941
+Sun Hands,I Just Wanna Be Loved (LP Version),gorilla,lp,0.2857142857142857
+Sun Hands,I Just Wanna Be Loved (LP Version),gorilla,version,0.08333333333333333
+Sun Hands,I Just Wanna Be Loved (LP Version),gorilla,wan,0.3076923076923077
+Sun Hands,I Just Wanna Be Loved (LP Version),gorilla,na,0.17391304347826086
+Sun Hands,I Just Wanna Be Loved (LP Version),gorilla,loved,0
+Sun Hands,I Just Wanna Be Loved (LP Version),gorilla,talon,0.16
+Sun Hands,I Just Wanna Be Loved (LP Version),gorilla,mix,0.16666666666666666
+Sun Hands,I Just Wanna Be Loved (LP Version),manor,lp,0.45454545454545453
+Sun Hands,I Just Wanna Be Loved (LP Version),manor,version,0.1111111111111111
+Sun Hands,I Just Wanna Be Loved (LP Version),manor,wan,0.5
+Sun Hands,I Just Wanna Be Loved (LP Version),manor,na,0.23529411764705882
+Sun Hands,I Just Wanna Be Loved (LP Version),manor,loved,0
+Sun Hands,I Just Wanna Be Loved (LP Version),manor,talon,0.21052631578947367
+Sun Hands,I Just Wanna Be Loved (LP Version),manor,mix,0.2222222222222222
+Sun Hands,In My Arms,sun,arms,0.5333333333333333
+Sun Hands,In My Arms,sun,eyes,0.125
+Sun Hands,In My Arms,sun,open,0.4
+Sun Hands,In My Arms,hands,arms,0.125
+Sun Hands,In My Arms,hands,eyes,0.35294117647058826
+Sun Hands,In My Arms,hands,open,0.125
+Sun Hands,In My Arms,gorilla,arms,0.34782608695652173
+Sun Hands,In My Arms,gorilla,eyes,0.08333333333333333
+Sun Hands,In My Arms,gorilla,open,0.2608695652173913
+Sun Hands,In My Arms,manor,arms,0.5882352941176471
+Sun Hands,In My Arms,manor,eyes,0.1111111111111111
+Sun Hands,In My Arms,manor,open,0.35294117647058826
+Sun Hands,Hands Open,sun,hands,0.11764705882352941
+Sun Hands,Hands Open,sun,open,0.4
+Sun Hands,Hands Open,sun,eyes,0.125
+Sun Hands,Hands Open,sun,open,0.4
+Sun Hands,Hands Open,hands,hands,1.0
+Sun Hands,Hands Open,hands,open,0.125
+Sun Hands,Hands Open,hands,eyes,0.35294117647058826
+Sun Hands,Hands Open,hands,open,0.125
+Sun Hands,Hands Open,gorilla,hands,0.08
+Sun Hands,Hands Open,gorilla,open,0.2608695652173913
+Sun Hands,Hands Open,gorilla,eyes,0.08333333333333333
+Sun Hands,Hands Open,gorilla,open,0.2608695652173913
+Sun Hands,Hands Open,manor,hands,0.10526315789473684
+Sun Hands,Hands Open,manor,open,0.35294117647058826
+Sun Hands,Hands Open,manor,eyes,0.1111111111111111
+Sun Hands,Hands Open,manor,open,0.35294117647058826
+Sun Hands,Humans Being (Album Version),sun,album,0.5
+Sun Hands,Humans Being (Album Version),sun,version,0.125
+Sun Hands,Humans Being (Album Version),sun,humans,0.4444444444444444
+Sun Hands,Humans Being (Album Version),sun,motion,0.15384615384615385
+Sun Hands,Humans Being (Album Version),sun,picture,0.5
+Sun Hands,Humans Being (Album Version),sun,twister,0.21052631578947367
+Sun Hands,Humans Being (Album Version),sun,dark,0.14285714285714285
+Sun Hands,Humans Being (Album Version),sun,side,0.42857142857142855
+Sun Hands,Humans Being (Album Version),sun,nature,0.15384615384615385
+Sun Hands,Humans Being (Album Version),sun,music,0.15384615384615385
+Sun Hands,Humans Being (Album Version),hands,album,0.11764705882352941
+Sun Hands,Humans Being (Album Version),hands,version,0.23529411764705882
+Sun Hands,Humans Being (Album Version),hands,humans,0.3076923076923077
+Sun Hands,Humans Being (Album Version),hands,motion,0.2857142857142857
+Sun Hands,Humans Being (Album Version),hands,picture,0.11764705882352941
+Sun Hands,Humans Being (Album Version),hands,twister,0.1
+Sun Hands,Humans Being (Album Version),hands,dark,0.26666666666666666
+Sun Hands,Humans Being (Album Version),hands,side,0.13333333333333333
+Sun Hands,Humans Being (Album Version),hands,nature,0.2857142857142857
+Sun Hands,Humans Being (Album Version),hands,music,0.2857142857142857
+Sun Hands,Humans Being (Album Version),gorilla,album,0.3333333333333333
+Sun Hands,Humans Being (Album Version),gorilla,version,0.08333333333333333
+Sun Hands,Humans Being (Album Version),gorilla,humans,0.7741935483870968
+Sun Hands,Humans Being (Album Version),gorilla,motion,0.09523809523809523
+Sun Hands,Humans Being (Album Version),gorilla,picture,0.3333333333333333
+Sun Hands,Humans Being (Album Version),gorilla,twister,0.14814814814814814
+Sun Hands,Humans Being (Album Version),gorilla,dark,0.09090909090909091
+Sun Hands,Humans Being (Album Version),gorilla,side,0.2727272727272727
+Sun Hands,Humans Being (Album Version),gorilla,nature,0.09523809523809523
+Sun Hands,Humans Being (Album Version),gorilla,music,0.09523809523809523
+Sun Hands,Humans Being (Album Version),manor,album,0.5555555555555556
+Sun Hands,Humans Being (Album Version),manor,version,0.1111111111111111
+Sun Hands,Humans Being (Album Version),manor,humans,0.4
+Sun Hands,Humans Being (Album Version),manor,motion,0.13333333333333333
+Sun Hands,Humans Being (Album Version),manor,picture,0.5555555555555556
+Sun Hands,Humans Being (Album Version),manor,twister,0.19047619047619047
+Sun Hands,Humans Being (Album Version),manor,dark,0.125
+Sun Hands,Humans Being (Album Version),manor,side,0.375
+Sun Hands,Humans Being (Album Version),manor,nature,0.13333333333333333
+Sun Hands,Humans Being (Album Version),manor,music,0.13333333333333333
+Camera Talk,Adam's Song,camera,song,0.125
+Camera Talk,Adam's Song,camera,adam,0.42105263157894735
+Camera Talk,Adam's Song,camera,state,0.35294117647058826
+Camera Talk,Adam's Song,camera,enema,0.09523809523809523
+Camera Talk,Adam's Song,talk,song,0.5714285714285714
+Camera Talk,Adam's Song,talk,adam,0.14285714285714285
+Camera Talk,Adam's Song,talk,state,0.13333333333333333
+Camera Talk,Adam's Song,talk,enema,0.21052631578947367
+Camera Talk,Adam's Song,camera,song,0.125
+Camera Talk,Adam's Song,camera,adam,0.42105263157894735
+Camera Talk,Adam's Song,camera,state,0.35294117647058826
+Camera Talk,Adam's Song,camera,enema,0.09523809523809523
+Camera Talk,Adam's Song,talk,song,0.5714285714285714
+Camera Talk,Adam's Song,talk,adam,0.14285714285714285
+Camera Talk,Adam's Song,talk,state,0.13333333333333333
+Camera Talk,Adam's Song,talk,enema,0.21052631578947367
+Camera Talk,Don't Cry (Original),camera,original,0.625
+Camera Talk,Don't Cry (Original),camera,cry,0.13333333333333333
+Camera Talk,Don't Cry (Original),camera,greatest,0
+Camera Talk,Don't Cry (Original),camera,hits,0.1111111111111111
+Camera Talk,Don't Cry (Original),talk,original,0.14285714285714285
+Camera Talk,Don't Cry (Original),talk,cry,0.6153846153846154
+Camera Talk,Don't Cry (Original),talk,greatest,0
+Camera Talk,Don't Cry (Original),talk,hits,0.25
+Camera Talk,Don't Cry (Original),camera,original,0.625
+Camera Talk,Don't Cry (Original),camera,cry,0.13333333333333333
+Camera Talk,Don't Cry (Original),camera,greatest,0
+Camera Talk,Don't Cry (Original),camera,hits,0.1111111111111111
+Camera Talk,Don't Cry (Original),talk,original,0.14285714285714285
+Camera Talk,Don't Cry (Original),talk,cry,0.6153846153846154
+Camera Talk,Don't Cry (Original),talk,greatest,0
+Camera Talk,Don't Cry (Original),talk,hits,0.25
+Camera Talk,Something In The Way,camera,way,0.14285714285714285
+Camera Talk,Something In The Way,talk,way,0.3333333333333333
+Camera Talk,Something In The Way,camera,way,0.14285714285714285
+Camera Talk,Something In The Way,talk,way,0.3333333333333333
+Camera Talk,Superman (It's Not Easy),camera,superman,0.4444444444444444
+Camera Talk,Superman (It's Not Easy),camera,easy,0
+Camera Talk,Superman (It's Not Easy),camera,songs,0.125
+Camera Talk,Superman (It's Not Easy),camera,ii,0.11764705882352941
+Camera Talk,Superman (It's Not Easy),camera,dawson,0.3157894736842105
+Camera Talk,Superman (It's Not Easy),camera,creek,0.26666666666666666
+Camera Talk,Superman (It's Not Easy),talk,superman,0.15384615384615385
+Camera Talk,Superman (It's Not Easy),talk,easy,0
+Camera Talk,Superman (It's Not Easy),talk,songs,0.5714285714285714
+Camera Talk,Superman (It's Not Easy),talk,ii,0.26666666666666666
+Camera Talk,Superman (It's Not Easy),talk,dawson,0.11764705882352941
+Camera Talk,Superman (It's Not Easy),talk,creek,0.15384615384615385
+Camera Talk,Superman (It's Not Easy),camera,superman,0.4444444444444444
+Camera Talk,Superman (It's Not Easy),camera,easy,0
+Camera Talk,Superman (It's Not Easy),camera,songs,0.125
+Camera Talk,Superman (It's Not Easy),camera,ii,0.11764705882352941
+Camera Talk,Superman (It's Not Easy),camera,dawson,0.3157894736842105
+Camera Talk,Superman (It's Not Easy),camera,creek,0.26666666666666666
+Camera Talk,Superman (It's Not Easy),talk,superman,0.15384615384615385
+Camera Talk,Superman (It's Not Easy),talk,easy,0
+Camera Talk,Superman (It's Not Easy),talk,songs,0.5714285714285714
+Camera Talk,Superman (It's Not Easy),talk,ii,0.26666666666666666
+Camera Talk,Superman (It's Not Easy),talk,dawson,0.11764705882352941
+Camera Talk,Superman (It's Not Easy),talk,creek,0.15384615384615385
+Camera Talk,Beautiful,camera,beautiful,0
+Camera Talk,Beautiful,camera,hotel,0.5882352941176471
+Camera Talk,Beautiful,talk,beautiful,0
+Camera Talk,Beautiful,talk,hotel,0.13333333333333333
+Camera Talk,Beautiful,camera,beautiful,0
+Camera Talk,Beautiful,camera,hotel,0.5882352941176471
+Camera Talk,Beautiful,talk,beautiful,0
+Camera Talk,Beautiful,talk,hotel,0.13333333333333333
+Camera Talk,Livin' On A Prayer,camera,prayer,0.11764705882352941
+Camera Talk,Livin' On A Prayer,camera,cross,0.625
+Camera Talk,Livin' On A Prayer,camera,road,0.625
+Camera Talk,Livin' On A Prayer,talk,prayer,0.26666666666666666
+Camera Talk,Livin' On A Prayer,talk,cross,0.14285714285714285
+Camera Talk,Livin' On A Prayer,talk,road,0.14285714285714285
+Camera Talk,Livin' On A Prayer,camera,prayer,0.11764705882352941
+Camera Talk,Livin' On A Prayer,camera,cross,0.625
+Camera Talk,Livin' On A Prayer,camera,road,0.625
+Camera Talk,Livin' On A Prayer,talk,prayer,0.26666666666666666
+Camera Talk,Livin' On A Prayer,talk,cross,0.14285714285714285
+Camera Talk,Livin' On A Prayer,talk,road,0.14285714285714285
+Camera Talk,Crazy,camera,crazy,0.4
+Camera Talk,Crazy,camera,grip,0.1111111111111111
+Camera Talk,Crazy,camera,get,0.09090909090909091
+Camera Talk,Crazy,talk,crazy,0.13333333333333333
+Camera Talk,Crazy,talk,grip,0.25
+Camera Talk,Crazy,talk,get,0.2
+Camera Talk,Crazy,camera,crazy,0.4
+Camera Talk,Crazy,camera,grip,0.1111111111111111
+Camera Talk,Crazy,camera,get,0.09090909090909091
+Camera Talk,Crazy,talk,crazy,0.13333333333333333
+Camera Talk,Crazy,talk,grip,0.25
+Camera Talk,Crazy,talk,get,0.2
+Camera Talk,You're Crazy,camera,crazy,0.4
+Camera Talk,You're Crazy,camera,r,0.11764705882352941
+Camera Talk,You're Crazy,camera,lies,0.125
+Camera Talk,You're Crazy,camera,g,0.11764705882352941
+Camera Talk,You're Crazy,camera,n,0.26666666666666666
+Camera Talk,You're Crazy,talk,crazy,0.13333333333333333
+Camera Talk,You're Crazy,talk,r,0.26666666666666666
+Camera Talk,You're Crazy,talk,lies,0.42857142857142855
+Camera Talk,You're Crazy,talk,g,0.26666666666666666
+Camera Talk,You're Crazy,talk,n,0.2857142857142857
+Camera Talk,You're Crazy,camera,crazy,0.4
+Camera Talk,You're Crazy,camera,r,0.11764705882352941
+Camera Talk,You're Crazy,camera,lies,0.125
+Camera Talk,You're Crazy,camera,g,0.11764705882352941
+Camera Talk,You're Crazy,camera,n,0.26666666666666666
+Camera Talk,You're Crazy,talk,crazy,0.13333333333333333
+Camera Talk,You're Crazy,talk,r,0.26666666666666666
+Camera Talk,You're Crazy,talk,lies,0.42857142857142855
+Camera Talk,You're Crazy,talk,g,0.26666666666666666
+Camera Talk,You're Crazy,talk,n,0.2857142857142857
+Camera Talk,Drain You,camera,drain,0.09523809523809523
+Camera Talk,Drain You,camera,drain,0.09523809523809523
+Camera Talk,Drain You,talk,drain,0.21052631578947367
+Camera Talk,Drain You,talk,drain,0.21052631578947367
+Camera Talk,Drain You,camera,drain,0.09523809523809523
+Camera Talk,Drain You,camera,drain,0.09523809523809523
+Camera Talk,Drain You,talk,drain,0.21052631578947367
+Camera Talk,Drain You,talk,drain,0.21052631578947367
+Camera Talk,If He Should Break Your Heart,camera,heart,0.1111111111111111
+Camera Talk,If He Should Break Your Heart,camera,break,0.13333333333333333
+Camera Talk,If He Should Break Your Heart,camera,trial,0.11764705882352941
+Camera Talk,If He Should Break Your Heart,camera,fire,0.13333333333333333
+Camera Talk,If He Should Break Your Heart,talk,heart,0.25
+Camera Talk,If He Should Break Your Heart,talk,break,0.3076923076923077
+Camera Talk,If He Should Break Your Heart,talk,trial,0.26666666666666666
+Camera Talk,If He Should Break Your Heart,talk,fire,0.3076923076923077
+Camera Talk,If He Should Break Your Heart,camera,heart,0.1111111111111111
+Camera Talk,If He Should Break Your Heart,camera,break,0.13333333333333333
+Camera Talk,If He Should Break Your Heart,camera,trial,0.11764705882352941
+Camera Talk,If He Should Break Your Heart,camera,fire,0.13333333333333333
+Camera Talk,If He Should Break Your Heart,talk,heart,0.25
+Camera Talk,If He Should Break Your Heart,talk,break,0.3076923076923077
+Camera Talk,If He Should Break Your Heart,talk,trial,0.26666666666666666
+Camera Talk,If He Should Break Your Heart,talk,fire,0.3076923076923077
+Camera Talk,Float On,camera,float,0.14285714285714285
+Camera Talk,Float On,camera,float,0.14285714285714285
+Camera Talk,Float On,talk,float,0.3333333333333333
+Camera Talk,Float On,talk,float,0.3333333333333333
+Camera Talk,Float On,camera,float,0.14285714285714285
+Camera Talk,Float On,camera,float,0.14285714285714285
+Camera Talk,Float On,talk,float,0.3333333333333333
+Camera Talk,Float On,talk,float,0.3333333333333333
+Camera Talk,Angie (1993 Digital Remaster),camera,digital,0
+Camera Talk,Angie (1993 Digital Remaster),camera,rolling,0.125
+Camera Talk,Angie (1993 Digital Remaster),camera,jump,0.11764705882352941
+Camera Talk,Angie (1993 Digital Remaster),camera,back,0.26666666666666666
+Camera Talk,Angie (1993 Digital Remaster),camera,best,0.11764705882352941
+Camera Talk,Angie (1993 Digital Remaster),talk,digital,0
+Camera Talk,Angie (1993 Digital Remaster),talk,rolling,0.2857142857142857
+Camera Talk,Angie (1993 Digital Remaster),talk,jump,0.26666666666666666
+Camera Talk,Angie (1993 Digital Remaster),talk,back,0.15384615384615385
+Camera Talk,Angie (1993 Digital Remaster),talk,best,0.26666666666666666
+Camera Talk,Angie (1993 Digital Remaster),camera,digital,0
+Camera Talk,Angie (1993 Digital Remaster),camera,rolling,0.125
+Camera Talk,Angie (1993 Digital Remaster),camera,jump,0.11764705882352941
+Camera Talk,Angie (1993 Digital Remaster),camera,back,0.26666666666666666
+Camera Talk,Angie (1993 Digital Remaster),camera,best,0.11764705882352941
+Camera Talk,Angie (1993 Digital Remaster),talk,digital,0
+Camera Talk,Angie (1993 Digital Remaster),talk,rolling,0.2857142857142857
+Camera Talk,Angie (1993 Digital Remaster),talk,jump,0.26666666666666666
+Camera Talk,Angie (1993 Digital Remaster),talk,back,0.15384615384615385
+Camera Talk,Angie (1993 Digital Remaster),talk,best,0.26666666666666666
+Camera Talk,Chasing Cars,camera,chasing,0
+Camera Talk,Chasing Cars,camera,cars,0.6
+Camera Talk,Chasing Cars,camera,chasing,0
+Camera Talk,Chasing Cars,camera,cars,0.6
+Camera Talk,Chasing Cars,camera,toronto,0.3
+Camera Talk,Chasing Cars,camera,live,0
+Camera Talk,Chasing Cars,talk,chasing,0
+Camera Talk,Chasing Cars,talk,cars,0.1111111111111111
+Camera Talk,Chasing Cars,talk,chasing,0
+Camera Talk,Chasing Cars,talk,cars,0.1111111111111111
+Camera Talk,Chasing Cars,talk,toronto,0.1111111111111111
+Camera Talk,Chasing Cars,talk,live,0
+Camera Talk,Chasing Cars,camera,chasing,0
+Camera Talk,Chasing Cars,camera,cars,0.6
+Camera Talk,Chasing Cars,camera,chasing,0
+Camera Talk,Chasing Cars,camera,cars,0.6
+Camera Talk,Chasing Cars,camera,toronto,0.3
+Camera Talk,Chasing Cars,camera,live,0
+Camera Talk,Chasing Cars,talk,chasing,0
+Camera Talk,Chasing Cars,talk,cars,0.1111111111111111
+Camera Talk,Chasing Cars,talk,chasing,0
+Camera Talk,Chasing Cars,talk,cars,0.1111111111111111
+Camera Talk,Chasing Cars,talk,toronto,0.1111111111111111
+Camera Talk,Chasing Cars,talk,live,0
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,lp,0.5714285714285714
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,version,0.11764705882352941
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,wan,0.631578947368421
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,na,0.25
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,loved,0
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,talon,0.2222222222222222
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,mix,0.23529411764705882
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,lp,0.10526315789473684
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,version,0.4
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,wan,0.11764705882352941
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,na,0.26666666666666666
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,loved,0
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,talon,0.125
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,mix,0.13333333333333333
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,lp,0.5714285714285714
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,version,0.11764705882352941
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,wan,0.631578947368421
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,na,0.25
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,loved,0
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,talon,0.2222222222222222
+Camera Talk,I Just Wanna Be Loved (LP Version),camera,mix,0.23529411764705882
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,lp,0.10526315789473684
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,version,0.4
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,wan,0.11764705882352941
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,na,0.26666666666666666
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,loved,0
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,talon,0.125
+Camera Talk,I Just Wanna Be Loved (LP Version),talk,mix,0.13333333333333333
+Camera Talk,In My Arms,camera,arms,0.75
+Camera Talk,In My Arms,camera,eyes,0.11764705882352941
+Camera Talk,In My Arms,camera,open,0.375
+Camera Talk,In My Arms,talk,arms,0.14285714285714285
+Camera Talk,In My Arms,talk,eyes,0.26666666666666666
+Camera Talk,In My Arms,talk,open,0.14285714285714285
+Camera Talk,In My Arms,camera,arms,0.75
+Camera Talk,In My Arms,camera,eyes,0.11764705882352941
+Camera Talk,In My Arms,camera,open,0.375
+Camera Talk,In My Arms,talk,arms,0.14285714285714285
+Camera Talk,In My Arms,talk,eyes,0.26666666666666666
+Camera Talk,In My Arms,talk,open,0.14285714285714285
+Camera Talk,Hands Open,camera,hands,0.1111111111111111
+Camera Talk,Hands Open,camera,open,0.375
+Camera Talk,Hands Open,camera,eyes,0.11764705882352941
+Camera Talk,Hands Open,camera,open,0.375
+Camera Talk,Hands Open,talk,hands,0.25
+Camera Talk,Hands Open,talk,open,0.14285714285714285
+Camera Talk,Hands Open,talk,eyes,0.26666666666666666
+Camera Talk,Hands Open,talk,open,0.14285714285714285
+Camera Talk,Hands Open,camera,hands,0.1111111111111111
+Camera Talk,Hands Open,camera,open,0.375
+Camera Talk,Hands Open,camera,eyes,0.11764705882352941
+Camera Talk,Hands Open,camera,open,0.375
+Camera Talk,Hands Open,talk,hands,0.25
+Camera Talk,Hands Open,talk,open,0.14285714285714285
+Camera Talk,Hands Open,talk,eyes,0.26666666666666666
+Camera Talk,Hands Open,talk,open,0.14285714285714285
+Camera Talk,Humans Being (Album Version),camera,album,0.7058823529411765
+Camera Talk,Humans Being (Album Version),camera,version,0.11764705882352941
+Camera Talk,Humans Being (Album Version),camera,humans,0.42105263157894735
+Camera Talk,Humans Being (Album Version),camera,motion,0.14285714285714285
+Camera Talk,Humans Being (Album Version),camera,picture,0.5882352941176471
+Camera Talk,Humans Being (Album Version),camera,twister,0.2
+Camera Talk,Humans Being (Album Version),camera,dark,0.13333333333333333
+Camera Talk,Humans Being (Album Version),camera,side,0.4
+Camera Talk,Humans Being (Album Version),camera,nature,0.14285714285714285
+Camera Talk,Humans Being (Album Version),camera,music,0.14285714285714285
+Camera Talk,Humans Being (Album Version),talk,album,0.13333333333333333
+Camera Talk,Humans Being (Album Version),talk,version,0.4
+Camera Talk,Humans Being (Album Version),talk,humans,0.36363636363636365
+Camera Talk,Humans Being (Album Version),talk,motion,0.5
+Camera Talk,Humans Being (Album Version),talk,picture,0.13333333333333333
+Camera Talk,Humans Being (Album Version),talk,twister,0.1111111111111111
+Camera Talk,Humans Being (Album Version),talk,dark,0.3076923076923077
+Camera Talk,Humans Being (Album Version),talk,side,0.15384615384615385
+Camera Talk,Humans Being (Album Version),talk,nature,0.3333333333333333
+Camera Talk,Humans Being (Album Version),talk,music,0.6666666666666666
+Camera Talk,Humans Being (Album Version),camera,album,0.7058823529411765
+Camera Talk,Humans Being (Album Version),camera,version,0.11764705882352941
+Camera Talk,Humans Being (Album Version),camera,humans,0.42105263157894735
+Camera Talk,Humans Being (Album Version),camera,motion,0.14285714285714285
+Camera Talk,Humans Being (Album Version),camera,picture,0.5882352941176471
+Camera Talk,Humans Being (Album Version),camera,twister,0.2
+Camera Talk,Humans Being (Album Version),camera,dark,0.13333333333333333
+Camera Talk,Humans Being (Album Version),camera,side,0.4
+Camera Talk,Humans Being (Album Version),camera,nature,0.14285714285714285
+Camera Talk,Humans Being (Album Version),camera,music,0.14285714285714285
+Camera Talk,Humans Being (Album Version),talk,album,0.13333333333333333
+Camera Talk,Humans Being (Album Version),talk,version,0.4
+Camera Talk,Humans Being (Album Version),talk,humans,0.36363636363636365
+Camera Talk,Humans Being (Album Version),talk,motion,0.5
+Camera Talk,Humans Being (Album Version),talk,picture,0.13333333333333333
+Camera Talk,Humans Being (Album Version),talk,twister,0.1111111111111111
+Camera Talk,Humans Being (Album Version),talk,dark,0.3076923076923077
+Camera Talk,Humans Being (Album Version),talk,side,0.15384615384615385
+Camera Talk,Humans Being (Album Version),talk,nature,0.3333333333333333
+Camera Talk,Humans Being (Album Version),talk,music,0.6666666666666666
+Belle,Adam's Song,beautiful,song,0
+Belle,Adam's Song,beautiful,adam,0
+Belle,Adam's Song,beautiful,state,0
+Belle,Adam's Song,beautiful,enema,0
+Belle,Adam's Song,dreams,song,0.25
+Belle,Adam's Song,dreams,adam,0.125
+Belle,Adam's Song,dreams,state,0.11764705882352941
+Belle,Adam's Song,dreams,enema,0.2857142857142857
+Belle,Don't Cry (Original),beautiful,original,0
+Belle,Don't Cry (Original),beautiful,cry,0
+Belle,Don't Cry (Original),beautiful,greatest,0
+Belle,Don't Cry (Original),beautiful,hits,0
+Belle,Don't Cry (Original),dreams,original,0.125
+Belle,Don't Cry (Original),dreams,cry,0.26666666666666666
+Belle,Don't Cry (Original),dreams,greatest,0
+Belle,Don't Cry (Original),dreams,hits,0.3333333333333333
+Belle,Something In The Way,beautiful,way,0
+Belle,Something In The Way,dreams,way,0.2857142857142857
+Belle,Superman (It's Not Easy),beautiful,superman,0
+Belle,Superman (It's Not Easy),beautiful,easy,0
+Belle,Superman (It's Not Easy),beautiful,songs,0
+Belle,Superman (It's Not Easy),beautiful,ii,0
+Belle,Superman (It's Not Easy),beautiful,dawson,0
+Belle,Superman (It's Not Easy),beautiful,creek,0
+Belle,Superman (It's Not Easy),dreams,superman,0.13333333333333333
+Belle,Superman (It's Not Easy),dreams,easy,0
+Belle,Superman (It's Not Easy),dreams,songs,0.25
+Belle,Superman (It's Not Easy),dreams,ii,0.23529411764705882
+Belle,Superman (It's Not Easy),dreams,dawson,0.10526315789473684
+Belle,Superman (It's Not Easy),dreams,creek,0.13333333333333333
+Belle,Beautiful,beautiful,beautiful,1.0
+Belle,Beautiful,beautiful,hotel,0
+Belle,Beautiful,dreams,beautiful,0
+Belle,Beautiful,dreams,hotel,0.11764705882352941
+Belle,Livin' On A Prayer,beautiful,prayer,0
+Belle,Livin' On A Prayer,beautiful,cross,0
+Belle,Livin' On A Prayer,beautiful,road,0
+Belle,Livin' On A Prayer,dreams,prayer,0.35294117647058826
+Belle,Livin' On A Prayer,dreams,cross,0.125
+Belle,Livin' On A Prayer,dreams,road,0.125
+Belle,Crazy,beautiful,crazy,0
+Belle,Crazy,beautiful,grip,0
+Belle,Crazy,beautiful,get,0
+Belle,Crazy,dreams,crazy,0.11764705882352941
+Belle,Crazy,dreams,grip,0.3333333333333333
+Belle,Crazy,dreams,get,0.2727272727272727
+Belle,You're Crazy,beautiful,crazy,0
+Belle,You're Crazy,beautiful,r,0
+Belle,You're Crazy,beautiful,lies,0
+Belle,You're Crazy,beautiful,g,0
+Belle,You're Crazy,beautiful,n,0
+Belle,You're Crazy,dreams,crazy,0.11764705882352941
+Belle,You're Crazy,dreams,r,0.23529411764705882
+Belle,You're Crazy,dreams,lies,0.25
+Belle,You're Crazy,dreams,g,0.23529411764705882
+Belle,You're Crazy,dreams,n,0.25
+Belle,Drain You,beautiful,drain,0
+Belle,Drain You,beautiful,drain,0
+Belle,Drain You,dreams,drain,0.2857142857142857
+Belle,Drain You,dreams,drain,0.2857142857142857
+Belle,If He Should Break Your Heart,beautiful,heart,0
+Belle,If He Should Break Your Heart,beautiful,break,0
+Belle,If He Should Break Your Heart,beautiful,trial,0
+Belle,If He Should Break Your Heart,beautiful,fire,0
+Belle,If He Should Break Your Heart,dreams,heart,0.4444444444444444
+Belle,If He Should Break Your Heart,dreams,break,0.4
+Belle,If He Should Break Your Heart,dreams,trial,0.35294117647058826
+Belle,If He Should Break Your Heart,dreams,fire,0.4
+Belle,Float On,beautiful,float,0
+Belle,Float On,beautiful,float,0
+Belle,Float On,dreams,float,0.2857142857142857
+Belle,Float On,dreams,float,0.2857142857142857
+Belle,Angie (1993 Digital Remaster),beautiful,digital,0
+Belle,Angie (1993 Digital Remaster),beautiful,rolling,0
+Belle,Angie (1993 Digital Remaster),beautiful,jump,0
+Belle,Angie (1993 Digital Remaster),beautiful,back,0
+Belle,Angie (1993 Digital Remaster),beautiful,best,0
+Belle,Angie (1993 Digital Remaster),dreams,digital,0
+Belle,Angie (1993 Digital Remaster),dreams,rolling,0.375
+Belle,Angie (1993 Digital Remaster),dreams,jump,0.35294117647058826
+Belle,Angie (1993 Digital Remaster),dreams,back,0.13333333333333333
+Belle,Angie (1993 Digital Remaster),dreams,best,0.35294117647058826
+Belle,Chasing Cars,beautiful,chasing,0
+Belle,Chasing Cars,beautiful,cars,0
+Belle,Chasing Cars,beautiful,chasing,0
+Belle,Chasing Cars,beautiful,cars,0
+Belle,Chasing Cars,beautiful,toronto,0
+Belle,Chasing Cars,beautiful,live,0
+Belle,Chasing Cars,dreams,chasing,0
+Belle,Chasing Cars,dreams,cars,0.1
+Belle,Chasing Cars,dreams,chasing,0
+Belle,Chasing Cars,dreams,cars,0.1
+Belle,Chasing Cars,dreams,toronto,0.1
+Belle,Chasing Cars,dreams,live,0
+Belle,I Just Wanna Be Loved (LP Version),beautiful,lp,0
+Belle,I Just Wanna Be Loved (LP Version),beautiful,version,0
+Belle,I Just Wanna Be Loved (LP Version),beautiful,wan,0
+Belle,I Just Wanna Be Loved (LP Version),beautiful,na,0
+Belle,I Just Wanna Be Loved (LP Version),beautiful,loved,0
+Belle,I Just Wanna Be Loved (LP Version),beautiful,talon,0
+Belle,I Just Wanna Be Loved (LP Version),beautiful,mix,0
+Belle,I Just Wanna Be Loved (LP Version),dreams,lp,0.09523809523809523
+Belle,I Just Wanna Be Loved (LP Version),dreams,version,0.23529411764705882
+Belle,I Just Wanna Be Loved (LP Version),dreams,wan,0.10526315789473684
+Belle,I Just Wanna Be Loved (LP Version),dreams,na,0.23529411764705882
+Belle,I Just Wanna Be Loved (LP Version),dreams,loved,0
+Belle,I Just Wanna Be Loved (LP Version),dreams,talon,0.1111111111111111
+Belle,I Just Wanna Be Loved (LP Version),dreams,mix,0.11764705882352941
+Belle,In My Arms,beautiful,arms,0
+Belle,In My Arms,beautiful,eyes,0
+Belle,In My Arms,beautiful,open,0
+Belle,In My Arms,dreams,arms,0.125
+Belle,In My Arms,dreams,eyes,0.47058823529411764
+Belle,In My Arms,dreams,open,0.125
+Belle,Hands Open,beautiful,hands,0
+Belle,Hands Open,beautiful,open,0
+Belle,Hands Open,beautiful,eyes,0
+Belle,Hands Open,beautiful,open,0
+Belle,Hands Open,dreams,hands,0.3333333333333333
+Belle,Hands Open,dreams,open,0.125
+Belle,Hands Open,dreams,eyes,0.47058823529411764
+Belle,Hands Open,dreams,open,0.125
+Belle,Humans Being (Album Version),beautiful,album,0
+Belle,Humans Being (Album Version),beautiful,version,0
+Belle,Humans Being (Album Version),beautiful,humans,0
+Belle,Humans Being (Album Version),beautiful,motion,0
+Belle,Humans Being (Album Version),beautiful,picture,0
+Belle,Humans Being (Album Version),beautiful,twister,0
+Belle,Humans Being (Album Version),beautiful,dark,0
+Belle,Humans Being (Album Version),beautiful,side,0
+Belle,Humans Being (Album Version),beautiful,nature,0
+Belle,Humans Being (Album Version),beautiful,music,0
+Belle,Humans Being (Album Version),dreams,album,0.11764705882352941
+Belle,Humans Being (Album Version),dreams,version,0.23529411764705882
+Belle,Humans Being (Album Version),dreams,humans,0.3076923076923077
+Belle,Humans Being (Album Version),dreams,motion,0.2857142857142857
+Belle,Humans Being (Album Version),dreams,picture,0.11764705882352941
+Belle,Humans Being (Album Version),dreams,twister,0.1
+Belle,Humans Being (Album Version),dreams,dark,0.26666666666666666
+Belle,Humans Being (Album Version),dreams,side,0.13333333333333333
+Belle,Humans Being (Album Version),dreams,nature,0.2857142857142857
+Belle,Humans Being (Album Version),dreams,music,0.2857142857142857
+Auto Rock,Adam's Song,auto,song,0.1111111111111111
+Auto Rock,Adam's Song,auto,adam,0.38095238095238093
+Auto Rock,Adam's Song,auto,state,0.3157894736842105
+Auto Rock,Adam's Song,auto,enema,0.08695652173913043
+Auto Rock,Adam's Song,rock,song,0.15384615384615385
+Auto Rock,Adam's Song,rock,adam,0.5
+Auto Rock,Adam's Song,rock,state,0.42857142857142855
+Auto Rock,Adam's Song,rock,enema,0.1111111111111111
+Auto Rock,Adam's Song,mr,song,0.25
+Auto Rock,Adam's Song,mr,adam,0.125
+Auto Rock,Adam's Song,mr,state,0.11764705882352941
+Auto Rock,Adam's Song,mr,enema,0.19047619047619047
+Auto Rock,Adam's Song,beast,song,0.14285714285714285
+Auto Rock,Adam's Song,beast,adam,0.7058823529411765
+Auto Rock,Adam's Song,beast,state,0.4
+Auto Rock,Adam's Song,beast,enema,0.10526315789473684
+Auto Rock,Don't Cry (Original),auto,original,0.5555555555555556
+Auto Rock,Don't Cry (Original),auto,cry,0.11764705882352941
+Auto Rock,Don't Cry (Original),auto,greatest,0
+Auto Rock,Don't Cry (Original),auto,hits,0.1
+Auto Rock,Don't Cry (Original),rock,original,0.6153846153846154
+Auto Rock,Don't Cry (Original),rock,cry,0.16666666666666666
+Auto Rock,Don't Cry (Original),rock,greatest,0
+Auto Rock,Don't Cry (Original),rock,hits,0.13333333333333333
+Auto Rock,Don't Cry (Original),mr,original,0.125
+Auto Rock,Don't Cry (Original),mr,cry,0.26666666666666666
+Auto Rock,Don't Cry (Original),mr,greatest,0
+Auto Rock,Don't Cry (Original),mr,hits,0.2222222222222222
+Auto Rock,Don't Cry (Original),beast,original,0.5714285714285714
+Auto Rock,Don't Cry (Original),beast,cry,0.15384615384615385
+Auto Rock,Don't Cry (Original),beast,greatest,0
+Auto Rock,Don't Cry (Original),beast,hits,0.125
+Auto Rock,Something In The Way,auto,way,0.125
+Auto Rock,Something In The Way,rock,way,0.18181818181818182
+Auto Rock,Something In The Way,mr,way,0.2857142857142857
+Auto Rock,Something In The Way,beast,way,0.16666666666666666
+Auto Rock,Superman (It's Not Easy),auto,superman,0.4
+Auto Rock,Superman (It's Not Easy),auto,easy,0
+Auto Rock,Superman (It's Not Easy),auto,songs,0.1111111111111111
+Auto Rock,Superman (It's Not Easy),auto,ii,0.10526315789473684
+Auto Rock,Superman (It's Not Easy),auto,dawson,0.2857142857142857
+Auto Rock,Superman (It's Not Easy),auto,creek,0.23529411764705882
+Auto Rock,Superman (It's Not Easy),rock,superman,0.5333333333333333
+Auto Rock,Superman (It's Not Easy),rock,easy,0
+Auto Rock,Superman (It's Not Easy),rock,songs,0.15384615384615385
+Auto Rock,Superman (It's Not Easy),rock,ii,0.14285714285714285
+Auto Rock,Superman (It's Not Easy),rock,dawson,0.375
+Auto Rock,Superman (It's Not Easy),rock,creek,0.3333333333333333
+Auto Rock,Superman (It's Not Easy),mr,superman,0.13333333333333333
+Auto Rock,Superman (It's Not Easy),mr,easy,0
+Auto Rock,Superman (It's Not Easy),mr,songs,0.25
+Auto Rock,Superman (It's Not Easy),mr,ii,0.23529411764705882
+Auto Rock,Superman (It's Not Easy),mr,dawson,0.10526315789473684
+Auto Rock,Superman (It's Not Easy),mr,creek,0.13333333333333333
+Auto Rock,Superman (It's Not Easy),beast,superman,0.75
+Auto Rock,Superman (It's Not Easy),beast,easy,0
+Auto Rock,Superman (It's Not Easy),beast,songs,0.14285714285714285
+Auto Rock,Superman (It's Not Easy),beast,ii,0.13333333333333333
+Auto Rock,Superman (It's Not Easy),beast,dawson,0.35294117647058826
+Auto Rock,Superman (It's Not Easy),beast,creek,0.3076923076923077
+Auto Rock,Beautiful,auto,beautiful,0
+Auto Rock,Beautiful,auto,hotel,0.5263157894736842
+Auto Rock,Beautiful,rock,beautiful,0
+Auto Rock,Beautiful,rock,hotel,0.5714285714285714
+Auto Rock,Beautiful,mr,beautiful,0
+Auto Rock,Beautiful,mr,hotel,0.11764705882352941
+Auto Rock,Beautiful,beast,beautiful,0
+Auto Rock,Beautiful,beast,hotel,0.5333333333333333
+Auto Rock,Livin' On A Prayer,auto,prayer,0.10526315789473684
+Auto Rock,Livin' On A Prayer,auto,cross,0.5555555555555556
+Auto Rock,Livin' On A Prayer,auto,road,0.5555555555555556
+Auto Rock,Livin' On A Prayer,rock,prayer,0.14285714285714285
+Auto Rock,Livin' On A Prayer,rock,cross,0.6153846153846154
+Auto Rock,Livin' On A Prayer,rock,road,0.6153846153846154
+Auto Rock,Livin' On A Prayer,mr,prayer,0.23529411764705882
+Auto Rock,Livin' On A Prayer,mr,cross,0.125
+Auto Rock,Livin' On A Prayer,mr,road,0.125
+Auto Rock,Livin' On A Prayer,beast,prayer,0.13333333333333333
+Auto Rock,Livin' On A Prayer,beast,cross,0.5714285714285714
+Auto Rock,Livin' On A Prayer,beast,road,0.5714285714285714
+Auto Rock,Crazy,auto,crazy,0.36363636363636365
+Auto Rock,Crazy,auto,grip,0.1
+Auto Rock,Crazy,auto,get,0.08333333333333333
+Auto Rock,Crazy,rock,crazy,0.47058823529411764
+Auto Rock,Crazy,rock,grip,0.13333333333333333
+Auto Rock,Crazy,rock,get,0.10526315789473684
+Auto Rock,Crazy,mr,crazy,0.11764705882352941
+Auto Rock,Crazy,mr,grip,0.2222222222222222
+Auto Rock,Crazy,mr,get,0.18181818181818182
+Auto Rock,Crazy,beast,crazy,0.6666666666666666
+Auto Rock,Crazy,beast,grip,0.125
+Auto Rock,Crazy,beast,get,0.1
+Auto Rock,You're Crazy,auto,crazy,0.36363636363636365
+Auto Rock,You're Crazy,auto,r,0.10526315789473684
+Auto Rock,You're Crazy,auto,lies,0.1111111111111111
+Auto Rock,You're Crazy,auto,g,0.10526315789473684
+Auto Rock,You're Crazy,auto,n,0.23529411764705882
+Auto Rock,You're Crazy,rock,crazy,0.47058823529411764
+Auto Rock,You're Crazy,rock,r,0.14285714285714285
+Auto Rock,You're Crazy,rock,lies,0.15384615384615385
+Auto Rock,You're Crazy,rock,g,0.14285714285714285
+Auto Rock,You're Crazy,rock,n,0.3333333333333333
+Auto Rock,You're Crazy,mr,crazy,0.11764705882352941
+Auto Rock,You're Crazy,mr,r,0.23529411764705882
+Auto Rock,You're Crazy,mr,lies,0.25
+Auto Rock,You're Crazy,mr,g,0.23529411764705882
+Auto Rock,You're Crazy,mr,n,0.5
+Auto Rock,You're Crazy,beast,crazy,0.6666666666666666
+Auto Rock,You're Crazy,beast,r,0.13333333333333333
+Auto Rock,You're Crazy,beast,lies,0.14285714285714285
+Auto Rock,You're Crazy,beast,g,0.13333333333333333
+Auto Rock,You're Crazy,beast,n,0.3076923076923077
+Auto Rock,Drain You,auto,drain,0.08695652173913043
+Auto Rock,Drain You,auto,drain,0.08695652173913043
+Auto Rock,Drain You,rock,drain,0.1111111111111111
+Auto Rock,Drain You,rock,drain,0.1111111111111111
+Auto Rock,Drain You,mr,drain,0.19047619047619047
+Auto Rock,Drain You,mr,drain,0.19047619047619047
+Auto Rock,Drain You,beast,drain,0.10526315789473684
+Auto Rock,Drain You,beast,drain,0.10526315789473684
+Auto Rock,If He Should Break Your Heart,auto,heart,0.1
+Auto Rock,If He Should Break Your Heart,auto,break,0.11764705882352941
+Auto Rock,If He Should Break Your Heart,auto,trial,0.10526315789473684
+Auto Rock,If He Should Break Your Heart,auto,fire,0.11764705882352941
+Auto Rock,If He Should Break Your Heart,rock,heart,0.13333333333333333
+Auto Rock,If He Should Break Your Heart,rock,break,0.16666666666666666
+Auto Rock,If He Should Break Your Heart,rock,trial,0.14285714285714285
+Auto Rock,If He Should Break Your Heart,rock,fire,0.16666666666666666
+Auto Rock,If He Should Break Your Heart,mr,heart,0.2222222222222222
+Auto Rock,If He Should Break Your Heart,mr,break,0.26666666666666666
+Auto Rock,If He Should Break Your Heart,mr,trial,0.23529411764705882
+Auto Rock,If He Should Break Your Heart,mr,fire,0.26666666666666666
+Auto Rock,If He Should Break Your Heart,beast,heart,0.125
+Auto Rock,If He Should Break Your Heart,beast,break,0.15384615384615385
+Auto Rock,If He Should Break Your Heart,beast,trial,0.13333333333333333
+Auto Rock,If He Should Break Your Heart,beast,fire,0.15384615384615385
+Auto Rock,Float On,auto,float,0.125
+Auto Rock,Float On,auto,float,0.125
+Auto Rock,Float On,rock,float,0.18181818181818182
+Auto Rock,Float On,rock,float,0.18181818181818182
+Auto Rock,Float On,mr,float,0.2857142857142857
+Auto Rock,Float On,mr,float,0.2857142857142857
+Auto Rock,Float On,beast,float,0.16666666666666666
+Auto Rock,Float On,beast,float,0.16666666666666666
+Auto Rock,Angie (1993 Digital Remaster),auto,digital,0
+Auto Rock,Angie (1993 Digital Remaster),auto,rolling,0.1111111111111111
+Auto Rock,Angie (1993 Digital Remaster),auto,jump,0.10526315789473684
+Auto Rock,Angie (1993 Digital Remaster),auto,back,0.23529411764705882
+Auto Rock,Angie (1993 Digital Remaster),auto,best,0.10526315789473684
+Auto Rock,Angie (1993 Digital Remaster),rock,digital,0
+Auto Rock,Angie (1993 Digital Remaster),rock,rolling,0.15384615384615385
+Auto Rock,Angie (1993 Digital Remaster),rock,jump,0.14285714285714285
+Auto Rock,Angie (1993 Digital Remaster),rock,back,0.3333333333333333
+Auto Rock,Angie (1993 Digital Remaster),rock,best,0.14285714285714285
+Auto Rock,Angie (1993 Digital Remaster),mr,digital,0
+Auto Rock,Angie (1993 Digital Remaster),mr,rolling,0.25
+Auto Rock,Angie (1993 Digital Remaster),mr,jump,0.23529411764705882
+Auto Rock,Angie (1993 Digital Remaster),mr,back,0.13333333333333333
+Auto Rock,Angie (1993 Digital Remaster),mr,best,0.23529411764705882
+Auto Rock,Angie (1993 Digital Remaster),beast,digital,0
+Auto Rock,Angie (1993 Digital Remaster),beast,rolling,0.14285714285714285
+Auto Rock,Angie (1993 Digital Remaster),beast,jump,0.13333333333333333
+Auto Rock,Angie (1993 Digital Remaster),beast,back,0.3076923076923077
+Auto Rock,Angie (1993 Digital Remaster),beast,best,0.13333333333333333
+Auto Rock,Chasing Cars,auto,chasing,0
+Auto Rock,Chasing Cars,auto,cars,1.0
+Auto Rock,Chasing Cars,auto,chasing,0
+Auto Rock,Chasing Cars,auto,cars,1.0
+Auto Rock,Chasing Cars,auto,toronto,0.2727272727272727
+Auto Rock,Chasing Cars,auto,live,0
+Auto Rock,Chasing Cars,rock,chasing,0
+Auto Rock,Chasing Cars,rock,cars,0.47058823529411764
+Auto Rock,Chasing Cars,rock,chasing,0
+Auto Rock,Chasing Cars,rock,cars,0.47058823529411764
+Auto Rock,Chasing Cars,rock,toronto,0.35294117647058826
+Auto Rock,Chasing Cars,rock,live,0
+Auto Rock,Chasing Cars,mr,chasing,0
+Auto Rock,Chasing Cars,mr,cars,0.1
+Auto Rock,Chasing Cars,mr,chasing,0
+Auto Rock,Chasing Cars,mr,cars,0.1
+Auto Rock,Chasing Cars,mr,toronto,0.1
+Auto Rock,Chasing Cars,mr,live,0
+Auto Rock,Chasing Cars,beast,chasing,0
+Auto Rock,Chasing Cars,beast,cars,0.4444444444444444
+Auto Rock,Chasing Cars,beast,chasing,0
+Auto Rock,Chasing Cars,beast,cars,0.4444444444444444
+Auto Rock,Chasing Cars,beast,toronto,0.3333333333333333
+Auto Rock,Chasing Cars,beast,live,0
+Auto Rock,I Just Wanna Be Loved (LP Version),auto,lp,0.5217391304347826
+Auto Rock,I Just Wanna Be Loved (LP Version),auto,version,0.10526315789473684
+Auto Rock,I Just Wanna Be Loved (LP Version),auto,wan,0.5714285714285714
+Auto Rock,I Just Wanna Be Loved (LP Version),auto,na,0.2222222222222222
+Auto Rock,I Just Wanna Be Loved (LP Version),auto,loved,0
+Auto Rock,I Just Wanna Be Loved (LP Version),auto,talon,0.2
+Auto Rock,I Just Wanna Be Loved (LP Version),auto,mix,0.21052631578947367
+Auto Rock,I Just Wanna Be Loved (LP Version),rock,lp,0.4444444444444444
+Auto Rock,I Just Wanna Be Loved (LP Version),rock,version,0.14285714285714285
+Auto Rock,I Just Wanna Be Loved (LP Version),rock,wan,0.5
+Auto Rock,I Just Wanna Be Loved (LP Version),rock,na,0.3076923076923077
+Auto Rock,I Just Wanna Be Loved (LP Version),rock,loved,0
+Auto Rock,I Just Wanna Be Loved (LP Version),rock,talon,0.26666666666666666
+Auto Rock,I Just Wanna Be Loved (LP Version),rock,mix,0.2857142857142857
+Auto Rock,I Just Wanna Be Loved (LP Version),mr,lp,0.09523809523809523
+Auto Rock,I Just Wanna Be Loved (LP Version),mr,version,0.23529411764705882
+Auto Rock,I Just Wanna Be Loved (LP Version),mr,wan,0.10526315789473684
+Auto Rock,I Just Wanna Be Loved (LP Version),mr,na,0.47058823529411764
+Auto Rock,I Just Wanna Be Loved (LP Version),mr,loved,0
+Auto Rock,I Just Wanna Be Loved (LP Version),mr,talon,0.1111111111111111
+Auto Rock,I Just Wanna Be Loved (LP Version),mr,mix,0.11764705882352941
+Auto Rock,I Just Wanna Be Loved (LP Version),beast,lp,0.42105263157894735
+Auto Rock,I Just Wanna Be Loved (LP Version),beast,version,0.13333333333333333
+Auto Rock,I Just Wanna Be Loved (LP Version),beast,wan,0.47058823529411764
+Auto Rock,I Just Wanna Be Loved (LP Version),beast,na,0.2857142857142857
+Auto Rock,I Just Wanna Be Loved (LP Version),beast,loved,0
+Auto Rock,I Just Wanna Be Loved (LP Version),beast,talon,0.25
+Auto Rock,I Just Wanna Be Loved (LP Version),beast,mix,0.26666666666666666
+Auto Rock,In My Arms,auto,arms,0.6666666666666666
+Auto Rock,In My Arms,auto,eyes,0.10526315789473684
+Auto Rock,In My Arms,auto,open,0.3333333333333333
+Auto Rock,In My Arms,rock,arms,0.6153846153846154
+Auto Rock,In My Arms,rock,eyes,0.14285714285714285
+Auto Rock,In My Arms,rock,open,0.46153846153846156
+Auto Rock,In My Arms,mr,arms,0.125
+Auto Rock,In My Arms,mr,eyes,0.23529411764705882
+Auto Rock,In My Arms,mr,open,0.125
+Auto Rock,In My Arms,beast,arms,0.5714285714285714
+Auto Rock,In My Arms,beast,eyes,0.13333333333333333
+Auto Rock,In My Arms,beast,open,0.42857142857142855
+Auto Rock,Hands Open,auto,hands,0.1
+Auto Rock,Hands Open,auto,open,0.3333333333333333
+Auto Rock,Hands Open,auto,eyes,0.10526315789473684
+Auto Rock,Hands Open,auto,open,0.3333333333333333
+Auto Rock,Hands Open,rock,hands,0.13333333333333333
+Auto Rock,Hands Open,rock,open,0.46153846153846156
+Auto Rock,Hands Open,rock,eyes,0.14285714285714285
+Auto Rock,Hands Open,rock,open,0.46153846153846156
+Auto Rock,Hands Open,mr,hands,0.2222222222222222
+Auto Rock,Hands Open,mr,open,0.125
+Auto Rock,Hands Open,mr,eyes,0.23529411764705882
+Auto Rock,Hands Open,mr,open,0.125
+Auto Rock,Hands Open,beast,hands,0.125
+Auto Rock,Hands Open,beast,open,0.42857142857142855
+Auto Rock,Hands Open,beast,eyes,0.13333333333333333
+Auto Rock,Hands Open,beast,open,0.42857142857142855
+Auto Rock,Humans Being (Album Version),auto,album,0.631578947368421
+Auto Rock,Humans Being (Album Version),auto,version,0.10526315789473684
+Auto Rock,Humans Being (Album Version),auto,humans,0.38095238095238093
+Auto Rock,Humans Being (Album Version),auto,motion,0.125
+Auto Rock,Humans Being (Album Version),auto,picture,0.5263157894736842
+Auto Rock,Humans Being (Album Version),auto,twister,0.18181818181818182
+Auto Rock,Humans Being (Album Version),auto,dark,0.11764705882352941
+Auto Rock,Humans Being (Album Version),auto,side,0.35294117647058826
+Auto Rock,Humans Being (Album Version),auto,nature,0.125
+Auto Rock,Humans Being (Album Version),auto,music,0.125
+Auto Rock,Humans Being (Album Version),rock,album,0.5714285714285714
+Auto Rock,Humans Being (Album Version),rock,version,0.14285714285714285
+Auto Rock,Humans Being (Album Version),rock,humans,0.5
+Auto Rock,Humans Being (Album Version),rock,motion,0.18181818181818182
+Auto Rock,Humans Being (Album Version),rock,picture,0.5714285714285714
+Auto Rock,Humans Being (Album Version),rock,twister,0.23529411764705882
+Auto Rock,Humans Being (Album Version),rock,dark,0.16666666666666666
+Auto Rock,Humans Being (Album Version),rock,side,0.5
+Auto Rock,Humans Being (Album Version),rock,nature,0.18181818181818182
+Auto Rock,Humans Being (Album Version),rock,music,0.18181818181818182
+Auto Rock,Humans Being (Album Version),mr,album,0.11764705882352941
+Auto Rock,Humans Being (Album Version),mr,version,0.23529411764705882
+Auto Rock,Humans Being (Album Version),mr,humans,0.3076923076923077
+Auto Rock,Humans Being (Album Version),mr,motion,0.2857142857142857
+Auto Rock,Humans Being (Album Version),mr,picture,0.11764705882352941
+Auto Rock,Humans Being (Album Version),mr,twister,0.1
+Auto Rock,Humans Being (Album Version),mr,dark,0.26666666666666666
+Auto Rock,Humans Being (Album Version),mr,side,0.13333333333333333
+Auto Rock,Humans Being (Album Version),mr,nature,0.2857142857142857
+Auto Rock,Humans Being (Album Version),mr,music,0.2857142857142857
+Auto Rock,Humans Being (Album Version),beast,album,0.5333333333333333
+Auto Rock,Humans Being (Album Version),beast,version,0.13333333333333333
+Auto Rock,Humans Being (Album Version),beast,humans,0.6363636363636364
+Auto Rock,Humans Being (Album Version),beast,motion,0.16666666666666666
+Auto Rock,Humans Being (Album Version),beast,picture,0.5333333333333333
+Auto Rock,Humans Being (Album Version),beast,twister,0.2222222222222222
+Auto Rock,Humans Being (Album Version),beast,dark,0.15384615384615385
+Auto Rock,Humans Being (Album Version),beast,side,0.46153846153846156
+Auto Rock,Humans Being (Album Version),beast,nature,0.16666666666666666
+Auto Rock,Humans Being (Album Version),beast,music,0.16666666666666666
+Who Knows Who Cares,Adam's Song,knows,song,0.26666666666666666
+Who Knows Who Cares,Adam's Song,knows,adam,0.13333333333333333
+Who Knows Who Cares,Adam's Song,knows,state,0.125
+Who Knows Who Cares,Adam's Song,knows,enema,0.3
+Who Knows Who Cares,Adam's Song,cares,song,0.26666666666666666
+Who Knows Who Cares,Adam's Song,cares,adam,0.13333333333333333
+Who Knows Who Cares,Adam's Song,cares,state,0.125
+Who Knows Who Cares,Adam's Song,cares,enema,0.8
+Who Knows Who Cares,Adam's Song,gorilla,song,0.08695652173913043
+Who Knows Who Cares,Adam's Song,gorilla,adam,0.46153846153846156
+Who Knows Who Cares,Adam's Song,gorilla,state,0.25
+Who Knows Who Cares,Adam's Song,gorilla,enema,0.07142857142857142
+Who Knows Who Cares,Adam's Song,manor,song,0.11764705882352941
+Who Knows Who Cares,Adam's Song,manor,adam,0.4
+Who Knows Who Cares,Adam's Song,manor,state,0.3333333333333333
+Who Knows Who Cares,Adam's Song,manor,enema,0.09090909090909091
+Who Knows Who Cares,Don't Cry (Original),knows,original,0.13333333333333333
+Who Knows Who Cares,Don't Cry (Original),knows,cry,0.2857142857142857
+Who Knows Who Cares,Don't Cry (Original),knows,greatest,0
+Who Knows Who Cares,Don't Cry (Original),knows,hits,0.35294117647058826
+Who Knows Who Cares,Don't Cry (Original),cares,original,0.13333333333333333
+Who Knows Who Cares,Don't Cry (Original),cares,cry,0.2857142857142857
+Who Knows Who Cares,Don't Cry (Original),cares,greatest,0
+Who Knows Who Cares,Don't Cry (Original),cares,hits,0.5882352941176471
+Who Knows Who Cares,Don't Cry (Original),gorilla,original,0.34782608695652173
+Who Knows Who Cares,Don't Cry (Original),gorilla,cry,0.09090909090909091
+Who Knows Who Cares,Don't Cry (Original),gorilla,greatest,0
+Who Knows Who Cares,Don't Cry (Original),gorilla,hits,0.08
+Who Knows Who Cares,Don't Cry (Original),manor,original,0.5882352941176471
+Who Knows Who Cares,Don't Cry (Original),manor,cry,0.125
+Who Knows Who Cares,Don't Cry (Original),manor,greatest,0
+Who Knows Who Cares,Don't Cry (Original),manor,hits,0.10526315789473684
+Who Knows Who Cares,Something In The Way,knows,way,0.3076923076923077
+Who Knows Who Cares,Something In The Way,cares,way,0.3076923076923077
+Who Knows Who Cares,Something In The Way,gorilla,way,0.09523809523809523
+Who Knows Who Cares,Something In The Way,manor,way,0.13333333333333333
+Who Knows Who Cares,Superman (It's Not Easy),knows,superman,0.14285714285714285
+Who Knows Who Cares,Superman (It's Not Easy),knows,easy,0
+Who Knows Who Cares,Superman (It's Not Easy),knows,songs,0.26666666666666666
+Who Knows Who Cares,Superman (It's Not Easy),knows,ii,0.25
+Who Knows Who Cares,Superman (It's Not Easy),knows,dawson,0.1111111111111111
+Who Knows Who Cares,Superman (It's Not Easy),knows,creek,0.14285714285714285
+Who Knows Who Cares,Superman (It's Not Easy),cares,superman,0.14285714285714285
+Who Knows Who Cares,Superman (It's Not Easy),cares,easy,0
+Who Knows Who Cares,Superman (It's Not Easy),cares,songs,0.26666666666666666
+Who Knows Who Cares,Superman (It's Not Easy),cares,ii,0.25
+Who Knows Who Cares,Superman (It's Not Easy),cares,dawson,0.1111111111111111
+Who Knows Who Cares,Superman (It's Not Easy),cares,creek,0.14285714285714285
+Who Knows Who Cares,Superman (It's Not Easy),gorilla,superman,0.48
+Who Knows Who Cares,Superman (It's Not Easy),gorilla,easy,0
+Who Knows Who Cares,Superman (It's Not Easy),gorilla,songs,0.08695652173913043
+Who Knows Who Cares,Superman (It's Not Easy),gorilla,ii,0.08333333333333333
+Who Knows Who Cares,Superman (It's Not Easy),gorilla,dawson,0.23076923076923078
+Who Knows Who Cares,Superman (It's Not Easy),gorilla,creek,0.18181818181818182
+Who Knows Who Cares,Superman (It's Not Easy),manor,superman,0.42105263157894735
+Who Knows Who Cares,Superman (It's Not Easy),manor,easy,0
+Who Knows Who Cares,Superman (It's Not Easy),manor,songs,0.11764705882352941
+Who Knows Who Cares,Superman (It's Not Easy),manor,ii,0.1111111111111111
+Who Knows Who Cares,Superman (It's Not Easy),manor,dawson,0.3
+Who Knows Who Cares,Superman (It's Not Easy),manor,creek,0.25
+Who Knows Who Cares,Beautiful,knows,beautiful,0
+Who Knows Who Cares,Beautiful,knows,hotel,0.125
+Who Knows Who Cares,Beautiful,cares,beautiful,0
+Who Knows Who Cares,Beautiful,cares,hotel,0.125
+Who Knows Who Cares,Beautiful,gorilla,beautiful,0
+Who Knows Who Cares,Beautiful,gorilla,hotel,0.3333333333333333
+Who Knows Who Cares,Beautiful,manor,beautiful,0
+Who Knows Who Cares,Beautiful,manor,hotel,0.7777777777777778
+Who Knows Who Cares,Livin' On A Prayer,knows,prayer,0.375
+Who Knows Who Cares,Livin' On A Prayer,knows,cross,0.13333333333333333
+Who Knows Who Cares,Livin' On A Prayer,knows,road,0.13333333333333333
+Who Knows Who Cares,Livin' On A Prayer,cares,prayer,0.75
+Who Knows Who Cares,Livin' On A Prayer,cares,cross,0.13333333333333333
+Who Knows Who Cares,Livin' On A Prayer,cares,road,0.13333333333333333
+Who Knows Who Cares,Livin' On A Prayer,gorilla,prayer,0.08333333333333333
+Who Knows Who Cares,Livin' On A Prayer,gorilla,cross,0.34782608695652173
+Who Knows Who Cares,Livin' On A Prayer,gorilla,road,0.34782608695652173
+Who Knows Who Cares,Livin' On A Prayer,manor,prayer,0.1111111111111111
+Who Knows Who Cares,Livin' On A Prayer,manor,cross,0.7058823529411765
+Who Knows Who Cares,Livin' On A Prayer,manor,road,0.5882352941176471
+Who Knows Who Cares,Crazy,knows,crazy,0.125
+Who Knows Who Cares,Crazy,knows,grip,0.35294117647058826
+Who Knows Who Cares,Crazy,knows,get,0.2857142857142857
+Who Knows Who Cares,Crazy,cares,crazy,0.125
+Who Knows Who Cares,Crazy,cares,grip,0.7058823529411765
+Who Knows Who Cares,Crazy,cares,get,0.47619047619047616
+Who Knows Who Cares,Crazy,gorilla,crazy,0.4444444444444444
+Who Knows Who Cares,Crazy,gorilla,grip,0.08
+Who Knows Who Cares,Crazy,gorilla,get,0.06896551724137931
+Who Knows Who Cares,Crazy,manor,crazy,0.38095238095238093
+Who Knows Who Cares,Crazy,manor,grip,0.10526315789473684
+Who Knows Who Cares,Crazy,manor,get,0.08695652173913043
+Who Knows Who Cares,You're Crazy,knows,crazy,0.125
+Who Knows Who Cares,You're Crazy,knows,r,0.25
+Who Knows Who Cares,You're Crazy,knows,lies,0.26666666666666666
+Who Knows Who Cares,You're Crazy,knows,g,0.25
+Who Knows Who Cares,You're Crazy,knows,n,0.26666666666666666
+Who Knows Who Cares,You're Crazy,cares,crazy,0.125
+Who Knows Who Cares,You're Crazy,cares,r,0.25
+Who Knows Who Cares,You're Crazy,cares,lies,0.26666666666666666
+Who Knows Who Cares,You're Crazy,cares,g,0.25
+Who Knows Who Cares,You're Crazy,cares,n,0.26666666666666666
+Who Knows Who Cares,You're Crazy,gorilla,crazy,0.4444444444444444
+Who Knows Who Cares,You're Crazy,gorilla,r,0.08333333333333333
+Who Knows Who Cares,You're Crazy,gorilla,lies,0.08695652173913043
+Who Knows Who Cares,You're Crazy,gorilla,g,0.08333333333333333
+Who Knows Who Cares,You're Crazy,gorilla,n,0.18181818181818182
+Who Knows Who Cares,You're Crazy,manor,crazy,0.38095238095238093
+Who Knows Who Cares,You're Crazy,manor,r,0.1111111111111111
+Who Knows Who Cares,You're Crazy,manor,lies,0.11764705882352941
+Who Knows Who Cares,You're Crazy,manor,g,0.1111111111111111
+Who Knows Who Cares,You're Crazy,manor,n,0.25
+Who Knows Who Cares,Drain You,knows,drain,0.3
+Who Knows Who Cares,Drain You,knows,drain,0.3
+Who Knows Who Cares,Drain You,cares,drain,0.5
+Who Knows Who Cares,Drain You,cares,drain,0.5
+Who Knows Who Cares,Drain You,gorilla,drain,0.07142857142857142
+Who Knows Who Cares,Drain You,gorilla,drain,0.07142857142857142
+Who Knows Who Cares,Drain You,manor,drain,0.09090909090909091
+Who Knows Who Cares,Drain You,manor,drain,0.09090909090909091
+Who Knows Who Cares,If He Should Break Your Heart,knows,heart,0.47058823529411764
+Who Knows Who Cares,If He Should Break Your Heart,knows,break,0.42857142857142855
+Who Knows Who Cares,If He Should Break Your Heart,knows,trial,0.375
+Who Knows Who Cares,If He Should Break Your Heart,knows,fire,0.42857142857142855
+Who Knows Who Cares,If He Should Break Your Heart,cares,heart,0.35294117647058826
+Who Knows Who Cares,If He Should Break Your Heart,cares,break,0.5714285714285714
+Who Knows Who Cares,If He Should Break Your Heart,cares,trial,0.75
+Who Knows Who Cares,If He Should Break Your Heart,cares,fire,0.5714285714285714
+Who Knows Who Cares,If He Should Break Your Heart,gorilla,heart,0.08
+Who Knows Who Cares,If He Should Break Your Heart,gorilla,break,0.09090909090909091
+Who Knows Who Cares,If He Should Break Your Heart,gorilla,trial,0.08333333333333333
+Who Knows Who Cares,If He Should Break Your Heart,gorilla,fire,0.09090909090909091
+Who Knows Who Cares,If He Should Break Your Heart,manor,heart,0.10526315789473684
+Who Knows Who Cares,If He Should Break Your Heart,manor,break,0.125
+Who Knows Who Cares,If He Should Break Your Heart,manor,trial,0.1111111111111111
+Who Knows Who Cares,If He Should Break Your Heart,manor,fire,0.125
+Who Knows Who Cares,Float On,knows,float,0.3076923076923077
+Who Knows Who Cares,Float On,knows,float,0.3076923076923077
+Who Knows Who Cares,Float On,cares,float,0.3076923076923077
+Who Knows Who Cares,Float On,cares,float,0.3076923076923077
+Who Knows Who Cares,Float On,gorilla,float,0.09523809523809523
+Who Knows Who Cares,Float On,gorilla,float,0.09523809523809523
+Who Knows Who Cares,Float On,manor,float,0.13333333333333333
+Who Knows Who Cares,Float On,manor,float,0.13333333333333333
+Who Knows Who Cares,Angie (1993 Digital Remaster),knows,digital,0
+Who Knows Who Cares,Angie (1993 Digital Remaster),knows,rolling,0.4
+Who Knows Who Cares,Angie (1993 Digital Remaster),knows,jump,0.375
+Who Knows Who Cares,Angie (1993 Digital Remaster),knows,back,0.14285714285714285
+Who Knows Who Cares,Angie (1993 Digital Remaster),knows,best,0.375
+Who Knows Who Cares,Angie (1993 Digital Remaster),cares,digital,0
+Who Knows Who Cares,Angie (1993 Digital Remaster),cares,rolling,0.5333333333333333
+Who Knows Who Cares,Angie (1993 Digital Remaster),cares,jump,0.5
+Who Knows Who Cares,Angie (1993 Digital Remaster),cares,back,0.14285714285714285
+Who Knows Who Cares,Angie (1993 Digital Remaster),cares,best,0.75
+Who Knows Who Cares,Angie (1993 Digital Remaster),gorilla,digital,0
+Who Knows Who Cares,Angie (1993 Digital Remaster),gorilla,rolling,0.08695652173913043
+Who Knows Who Cares,Angie (1993 Digital Remaster),gorilla,jump,0.08333333333333333
+Who Knows Who Cares,Angie (1993 Digital Remaster),gorilla,back,0.18181818181818182
+Who Knows Who Cares,Angie (1993 Digital Remaster),gorilla,best,0.08333333333333333
+Who Knows Who Cares,Angie (1993 Digital Remaster),manor,digital,0
+Who Knows Who Cares,Angie (1993 Digital Remaster),manor,rolling,0.11764705882352941
+Who Knows Who Cares,Angie (1993 Digital Remaster),manor,jump,0.1111111111111111
+Who Knows Who Cares,Angie (1993 Digital Remaster),manor,back,0.25
+Who Knows Who Cares,Angie (1993 Digital Remaster),manor,best,0.1111111111111111
+Who Knows Who Cares,Chasing Cars,knows,chasing,0
+Who Knows Who Cares,Chasing Cars,knows,cars,0.10526315789473684
+Who Knows Who Cares,Chasing Cars,knows,chasing,0
+Who Knows Who Cares,Chasing Cars,knows,cars,0.10526315789473684
+Who Knows Who Cares,Chasing Cars,knows,toronto,0.10526315789473684
+Who Knows Who Cares,Chasing Cars,knows,live,0
+Who Knows Who Cares,Chasing Cars,cares,chasing,0
+Who Knows Who Cares,Chasing Cars,cares,cars,0.10526315789473684
+Who Knows Who Cares,Chasing Cars,cares,chasing,0
+Who Knows Who Cares,Chasing Cars,cares,cars,0.10526315789473684
+Who Knows Who Cares,Chasing Cars,cares,toronto,0.10526315789473684
+Who Knows Who Cares,Chasing Cars,cares,live,0
+Who Knows Who Cares,Chasing Cars,gorilla,chasing,0
+Who Knows Who Cares,Chasing Cars,gorilla,cars,0.2962962962962963
+Who Knows Who Cares,Chasing Cars,gorilla,chasing,0
+Who Knows Who Cares,Chasing Cars,gorilla,cars,0.2962962962962963
+Who Knows Who Cares,Chasing Cars,gorilla,toronto,0.2222222222222222
+Who Knows Who Cares,Chasing Cars,gorilla,live,0
+Who Knows Who Cares,Chasing Cars,manor,chasing,0
+Who Knows Who Cares,Chasing Cars,manor,cars,0.47619047619047616
+Who Knows Who Cares,Chasing Cars,manor,chasing,0
+Who Knows Who Cares,Chasing Cars,manor,cars,0.47619047619047616
+Who Knows Who Cares,Chasing Cars,manor,toronto,0.2857142857142857
+Who Knows Who Cares,Chasing Cars,manor,live,0
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),knows,lp,0.1
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),knows,version,0.25
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),knows,wan,0.1111111111111111
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),knows,na,0.25
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),knows,loved,0
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),knows,talon,0.11764705882352941
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),knows,mix,0.125
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),cares,lp,0.1
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),cares,version,0.25
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),cares,wan,0.1111111111111111
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),cares,na,0.25
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),cares,loved,0
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),cares,talon,0.11764705882352941
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),cares,mix,0.125
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),gorilla,lp,0.2857142857142857
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),gorilla,wan,0.3076923076923077
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),gorilla,na,0.17391304347826086
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),gorilla,loved,0
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),gorilla,talon,0.16
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),gorilla,mix,0.16666666666666666
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),manor,lp,0.45454545454545453
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),manor,version,0.1111111111111111
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),manor,wan,0.5
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),manor,na,0.23529411764705882
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),manor,loved,0
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),manor,talon,0.21052631578947367
+Who Knows Who Cares,I Just Wanna Be Loved (LP Version),manor,mix,0.2222222222222222
+Who Knows Who Cares,In My Arms,knows,arms,0.13333333333333333
+Who Knows Who Cares,In My Arms,knows,eyes,0.5
+Who Knows Who Cares,In My Arms,knows,open,0.13333333333333333
+Who Knows Who Cares,In My Arms,cares,arms,0.13333333333333333
+Who Knows Who Cares,In My Arms,cares,eyes,0.375
+Who Knows Who Cares,In My Arms,cares,open,0.13333333333333333
+Who Knows Who Cares,In My Arms,gorilla,arms,0.34782608695652173
+Who Knows Who Cares,In My Arms,gorilla,eyes,0.08333333333333333
+Who Knows Who Cares,In My Arms,gorilla,open,0.2608695652173913
+Who Knows Who Cares,In My Arms,manor,arms,0.5882352941176471
+Who Knows Who Cares,In My Arms,manor,eyes,0.1111111111111111
+Who Knows Who Cares,In My Arms,manor,open,0.35294117647058826
+Who Knows Who Cares,Hands Open,knows,hands,0.35294117647058826
+Who Knows Who Cares,Hands Open,knows,open,0.13333333333333333
+Who Knows Who Cares,Hands Open,knows,eyes,0.5
+Who Knows Who Cares,Hands Open,knows,open,0.13333333333333333
+Who Knows Who Cares,Hands Open,cares,hands,0.5555555555555556
+Who Knows Who Cares,Hands Open,cares,open,0.13333333333333333
+Who Knows Who Cares,Hands Open,cares,eyes,0.375
+Who Knows Who Cares,Hands Open,cares,open,0.13333333333333333
+Who Knows Who Cares,Hands Open,gorilla,hands,0.08
+Who Knows Who Cares,Hands Open,gorilla,open,0.2608695652173913
+Who Knows Who Cares,Hands Open,gorilla,eyes,0.08333333333333333
+Who Knows Who Cares,Hands Open,gorilla,open,0.2608695652173913
+Who Knows Who Cares,Hands Open,manor,hands,0.10526315789473684
+Who Knows Who Cares,Hands Open,manor,open,0.35294117647058826
+Who Knows Who Cares,Hands Open,manor,eyes,0.1111111111111111
+Who Knows Who Cares,Hands Open,manor,open,0.35294117647058826
+Who Knows Who Cares,Humans Being (Album Version),knows,album,0.125
+Who Knows Who Cares,Humans Being (Album Version),knows,version,0.25
+Who Knows Who Cares,Humans Being (Album Version),knows,humans,0.3333333333333333
+Who Knows Who Cares,Humans Being (Album Version),knows,motion,0.3076923076923077
+Who Knows Who Cares,Humans Being (Album Version),knows,picture,0.125
+Who Knows Who Cares,Humans Being (Album Version),knows,twister,0.10526315789473684
+Who Knows Who Cares,Humans Being (Album Version),knows,dark,0.2857142857142857
+Who Knows Who Cares,Humans Being (Album Version),knows,side,0.14285714285714285
+Who Knows Who Cares,Humans Being (Album Version),knows,nature,0.3076923076923077
+Who Knows Who Cares,Humans Being (Album Version),knows,music,0.3076923076923077
+Who Knows Who Cares,Humans Being (Album Version),cares,album,0.125
+Who Knows Who Cares,Humans Being (Album Version),cares,version,0.25
+Who Knows Who Cares,Humans Being (Album Version),cares,humans,0.3333333333333333
+Who Knows Who Cares,Humans Being (Album Version),cares,motion,0.3076923076923077
+Who Knows Who Cares,Humans Being (Album Version),cares,picture,0.125
+Who Knows Who Cares,Humans Being (Album Version),cares,twister,0.10526315789473684
+Who Knows Who Cares,Humans Being (Album Version),cares,dark,0.2857142857142857
+Who Knows Who Cares,Humans Being (Album Version),cares,side,0.14285714285714285
+Who Knows Who Cares,Humans Being (Album Version),cares,nature,0.3076923076923077
+Who Knows Who Cares,Humans Being (Album Version),cares,music,0.3076923076923077
+Who Knows Who Cares,Humans Being (Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,Humans Being (Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Humans Being (Album Version),gorilla,humans,0.7741935483870968
+Who Knows Who Cares,Humans Being (Album Version),gorilla,motion,0.09523809523809523
+Who Knows Who Cares,Humans Being (Album Version),gorilla,picture,0.3333333333333333
+Who Knows Who Cares,Humans Being (Album Version),gorilla,twister,0.14814814814814814
+Who Knows Who Cares,Humans Being (Album Version),gorilla,dark,0.09090909090909091
+Who Knows Who Cares,Humans Being (Album Version),gorilla,side,0.2727272727272727
+Who Knows Who Cares,Humans Being (Album Version),gorilla,nature,0.09523809523809523
+Who Knows Who Cares,Humans Being (Album Version),gorilla,music,0.09523809523809523
+Who Knows Who Cares,Humans Being (Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,Humans Being (Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Humans Being (Album Version),manor,humans,0.4
+Who Knows Who Cares,Humans Being (Album Version),manor,motion,0.13333333333333333
+Who Knows Who Cares,Humans Being (Album Version),manor,picture,0.5555555555555556
+Who Knows Who Cares,Humans Being (Album Version),manor,twister,0.19047619047619047
+Who Knows Who Cares,Humans Being (Album Version),manor,dark,0.125
+Who Knows Who Cares,Humans Being (Album Version),manor,side,0.375
+Who Knows Who Cares,Humans Being (Album Version),manor,nature,0.13333333333333333
+Who Knows Who Cares,Humans Being (Album Version),manor,music,0.13333333333333333
+Quiet,Adam's Song,quiet,song,0.1111111111111111
+Quiet,Adam's Song,quiet,adam,0.2222222222222222
+Quiet,Adam's Song,quiet,state,0.21052631578947367
+Quiet,Adam's Song,quiet,enema,0.08695652173913043
+Quiet,Adam's Song,young,song,0.13333333333333333
+Quiet,Adam's Song,young,adam,0.6666666666666666
+Quiet,Adam's Song,young,state,0.375
+Quiet,Adam's Song,young,enema,0.1
+Quiet,Adam's Song,mountain,song,0.15384615384615385
+Quiet,Adam's Song,mountain,adam,0.4
+Quiet,Adam's Song,mountain,state,0.42857142857142855
+Quiet,Adam's Song,mountain,enema,0.1111111111111111
+Quiet,Don't Cry (Original),quiet,original,0.2222222222222222
+Quiet,Don't Cry (Original),quiet,cry,0.11764705882352941
+Quiet,Don't Cry (Original),quiet,greatest,0
+Quiet,Don't Cry (Original),quiet,hits,0.1
+Quiet,Don't Cry (Original),young,original,0.5333333333333333
+Quiet,Don't Cry (Original),young,cry,0.14285714285714285
+Quiet,Don't Cry (Original),young,greatest,0
+Quiet,Don't Cry (Original),young,hits,0.11764705882352941
+Quiet,Don't Cry (Original),mountain,original,0.46153846153846156
+Quiet,Don't Cry (Original),mountain,cry,0.16666666666666666
+Quiet,Don't Cry (Original),mountain,greatest,0
+Quiet,Don't Cry (Original),mountain,hits,0.13333333333333333
+Quiet,Something In The Way,quiet,way,0.125
+Quiet,Something In The Way,young,way,0.15384615384615385
+Quiet,Something In The Way,mountain,way,0.18181818181818182
+Quiet,Superman (It's Not Easy),quiet,superman,0.23529411764705882
+Quiet,Superman (It's Not Easy),quiet,easy,0
+Quiet,Superman (It's Not Easy),quiet,songs,0.1111111111111111
+Quiet,Superman (It's Not Easy),quiet,ii,0.10526315789473684
+Quiet,Superman (It's Not Easy),quiet,dawson,0.19047619047619047
+Quiet,Superman (It's Not Easy),quiet,creek,0.23529411764705882
+Quiet,Superman (It's Not Easy),young,superman,0.7058823529411765
+Quiet,Superman (It's Not Easy),young,easy,0
+Quiet,Superman (It's Not Easy),young,songs,0.13333333333333333
+Quiet,Superman (It's Not Easy),young,ii,0.125
+Quiet,Superman (It's Not Easy),young,dawson,0.3333333333333333
+Quiet,Superman (It's Not Easy),young,creek,0.2857142857142857
+Quiet,Superman (It's Not Easy),mountain,superman,0.42857142857142855
+Quiet,Superman (It's Not Easy),mountain,easy,0
+Quiet,Superman (It's Not Easy),mountain,songs,0.15384615384615385
+Quiet,Superman (It's Not Easy),mountain,ii,0.14285714285714285
+Quiet,Superman (It's Not Easy),mountain,dawson,0.375
+Quiet,Superman (It's Not Easy),mountain,creek,0.3333333333333333
+Quiet,Beautiful,quiet,beautiful,0
+Quiet,Beautiful,quiet,hotel,0.21052631578947367
+Quiet,Beautiful,young,beautiful,0
+Quiet,Beautiful,young,hotel,0.5
+Quiet,Beautiful,mountain,beautiful,0
+Quiet,Beautiful,mountain,hotel,0.42857142857142855
+Quiet,Livin' On A Prayer,quiet,prayer,0.10526315789473684
+Quiet,Livin' On A Prayer,quiet,cross,0.2222222222222222
+Quiet,Livin' On A Prayer,quiet,road,0.2222222222222222
+Quiet,Livin' On A Prayer,young,prayer,0.125
+Quiet,Livin' On A Prayer,young,cross,0.5333333333333333
+Quiet,Livin' On A Prayer,young,road,0.5333333333333333
+Quiet,Livin' On A Prayer,mountain,prayer,0.14285714285714285
+Quiet,Livin' On A Prayer,mountain,cross,0.46153846153846156
+Quiet,Livin' On A Prayer,mountain,road,0.46153846153846156
+Quiet,Crazy,quiet,crazy,0.21052631578947367
+Quiet,Crazy,quiet,grip,0.1
+Quiet,Crazy,quiet,get,0.08333333333333333
+Quiet,Crazy,young,crazy,0.631578947368421
+Quiet,Crazy,young,grip,0.11764705882352941
+Quiet,Crazy,young,get,0.09523809523809523
+Quiet,Crazy,mountain,crazy,0.375
+Quiet,Crazy,mountain,grip,0.13333333333333333
+Quiet,Crazy,mountain,get,0.10526315789473684
+Quiet,You're Crazy,quiet,crazy,0.21052631578947367
+Quiet,You're Crazy,quiet,r,0.10526315789473684
+Quiet,You're Crazy,quiet,lies,0.1111111111111111
+Quiet,You're Crazy,quiet,g,0.10526315789473684
+Quiet,You're Crazy,quiet,n,0.23529411764705882
+Quiet,You're Crazy,young,crazy,0.631578947368421
+Quiet,You're Crazy,young,r,0.125
+Quiet,You're Crazy,young,lies,0.13333333333333333
+Quiet,You're Crazy,young,g,0.125
+Quiet,You're Crazy,young,n,0.2857142857142857
+Quiet,You're Crazy,mountain,crazy,0.375
+Quiet,You're Crazy,mountain,r,0.14285714285714285
+Quiet,You're Crazy,mountain,lies,0.15384615384615385
+Quiet,You're Crazy,mountain,g,0.14285714285714285
+Quiet,You're Crazy,mountain,n,0.3333333333333333
+Quiet,Drain You,quiet,drain,0.08695652173913043
+Quiet,Drain You,quiet,drain,0.08695652173913043
+Quiet,Drain You,young,drain,0.1
+Quiet,Drain You,young,drain,0.1
+Quiet,Drain You,mountain,drain,0.1111111111111111
+Quiet,Drain You,mountain,drain,0.1111111111111111
+Quiet,If He Should Break Your Heart,quiet,heart,0.1
+Quiet,If He Should Break Your Heart,quiet,break,0.11764705882352941
+Quiet,If He Should Break Your Heart,quiet,trial,0.10526315789473684
+Quiet,If He Should Break Your Heart,quiet,fire,0.11764705882352941
+Quiet,If He Should Break Your Heart,young,heart,0.11764705882352941
+Quiet,If He Should Break Your Heart,young,break,0.14285714285714285
+Quiet,If He Should Break Your Heart,young,trial,0.125
+Quiet,If He Should Break Your Heart,young,fire,0.14285714285714285
+Quiet,If He Should Break Your Heart,mountain,heart,0.13333333333333333
+Quiet,If He Should Break Your Heart,mountain,break,0.16666666666666666
+Quiet,If He Should Break Your Heart,mountain,trial,0.14285714285714285
+Quiet,If He Should Break Your Heart,mountain,fire,0.16666666666666666
+Quiet,Float On,quiet,float,0.125
+Quiet,Float On,quiet,float,0.125
+Quiet,Float On,young,float,0.15384615384615385
+Quiet,Float On,young,float,0.15384615384615385
+Quiet,Float On,mountain,float,0.18181818181818182
+Quiet,Float On,mountain,float,0.18181818181818182
+Quiet,Angie (1993 Digital Remaster),quiet,digital,0
+Quiet,Angie (1993 Digital Remaster),quiet,rolling,0.1111111111111111
+Quiet,Angie (1993 Digital Remaster),quiet,jump,0.10526315789473684
+Quiet,Angie (1993 Digital Remaster),quiet,back,0.23529411764705882
+Quiet,Angie (1993 Digital Remaster),quiet,best,0.10526315789473684
+Quiet,Angie (1993 Digital Remaster),young,digital,0
+Quiet,Angie (1993 Digital Remaster),young,rolling,0.13333333333333333
+Quiet,Angie (1993 Digital Remaster),young,jump,0.125
+Quiet,Angie (1993 Digital Remaster),young,back,0.2857142857142857
+Quiet,Angie (1993 Digital Remaster),young,best,0.125
+Quiet,Angie (1993 Digital Remaster),mountain,digital,0
+Quiet,Angie (1993 Digital Remaster),mountain,rolling,0.15384615384615385
+Quiet,Angie (1993 Digital Remaster),mountain,jump,0.14285714285714285
+Quiet,Angie (1993 Digital Remaster),mountain,back,0.3333333333333333
+Quiet,Angie (1993 Digital Remaster),mountain,best,0.14285714285714285
+Quiet,Chasing Cars,quiet,chasing,0
+Quiet,Chasing Cars,quiet,cars,0.18181818181818182
+Quiet,Chasing Cars,quiet,chasing,0
+Quiet,Chasing Cars,quiet,cars,0.18181818181818182
+Quiet,Chasing Cars,quiet,toronto,0.18181818181818182
+Quiet,Chasing Cars,quiet,live,0
+Quiet,Chasing Cars,young,chasing,0
+Quiet,Chasing Cars,young,cars,0.42105263157894735
+Quiet,Chasing Cars,young,chasing,0
+Quiet,Chasing Cars,young,cars,0.42105263157894735
+Quiet,Chasing Cars,young,toronto,0.3157894736842105
+Quiet,Chasing Cars,young,live,0
+Quiet,Chasing Cars,mountain,chasing,0
+Quiet,Chasing Cars,mountain,cars,0.35294117647058826
+Quiet,Chasing Cars,mountain,chasing,0
+Quiet,Chasing Cars,mountain,cars,0.35294117647058826
+Quiet,Chasing Cars,mountain,toronto,0.35294117647058826
+Quiet,Chasing Cars,mountain,live,0
+Quiet,I Just Wanna Be Loved (LP Version),quiet,lp,0.17391304347826086
+Quiet,I Just Wanna Be Loved (LP Version),quiet,version,0.10526315789473684
+Quiet,I Just Wanna Be Loved (LP Version),quiet,wan,0.19047619047619047
+Quiet,I Just Wanna Be Loved (LP Version),quiet,na,0.2222222222222222
+Quiet,I Just Wanna Be Loved (LP Version),quiet,loved,0
+Quiet,I Just Wanna Be Loved (LP Version),quiet,talon,0.2
+Quiet,I Just Wanna Be Loved (LP Version),quiet,mix,0.21052631578947367
+Quiet,I Just Wanna Be Loved (LP Version),young,lp,0.4
+Quiet,I Just Wanna Be Loved (LP Version),young,version,0.125
+Quiet,I Just Wanna Be Loved (LP Version),young,wan,0.4444444444444444
+Quiet,I Just Wanna Be Loved (LP Version),young,na,0.26666666666666666
+Quiet,I Just Wanna Be Loved (LP Version),young,loved,0
+Quiet,I Just Wanna Be Loved (LP Version),young,talon,0.23529411764705882
+Quiet,I Just Wanna Be Loved (LP Version),young,mix,0.25
+Quiet,I Just Wanna Be Loved (LP Version),mountain,lp,0.3333333333333333
+Quiet,I Just Wanna Be Loved (LP Version),mountain,version,0.14285714285714285
+Quiet,I Just Wanna Be Loved (LP Version),mountain,wan,0.375
+Quiet,I Just Wanna Be Loved (LP Version),mountain,na,0.3076923076923077
+Quiet,I Just Wanna Be Loved (LP Version),mountain,loved,0
+Quiet,I Just Wanna Be Loved (LP Version),mountain,talon,0.26666666666666666
+Quiet,I Just Wanna Be Loved (LP Version),mountain,mix,0.2857142857142857
+Quiet,In My Arms,quiet,arms,0.2222222222222222
+Quiet,In My Arms,quiet,eyes,0.10526315789473684
+Quiet,In My Arms,quiet,open,0.2222222222222222
+Quiet,In My Arms,young,arms,0.5333333333333333
+Quiet,In My Arms,young,eyes,0.125
+Quiet,In My Arms,young,open,0.4
+Quiet,In My Arms,mountain,arms,0.46153846153846156
+Quiet,In My Arms,mountain,eyes,0.14285714285714285
+Quiet,In My Arms,mountain,open,0.46153846153846156
+Quiet,Hands Open,quiet,hands,0.1
+Quiet,Hands Open,quiet,open,0.2222222222222222
+Quiet,Hands Open,quiet,eyes,0.10526315789473684
+Quiet,Hands Open,quiet,open,0.2222222222222222
+Quiet,Hands Open,young,hands,0.11764705882352941
+Quiet,Hands Open,young,open,0.4
+Quiet,Hands Open,young,eyes,0.125
+Quiet,Hands Open,young,open,0.4
+Quiet,Hands Open,mountain,hands,0.13333333333333333
+Quiet,Hands Open,mountain,open,0.46153846153846156
+Quiet,Hands Open,mountain,eyes,0.14285714285714285
+Quiet,Hands Open,mountain,open,0.46153846153846156
+Quiet,Humans Being (Album Version),quiet,album,0.21052631578947367
+Quiet,Humans Being (Album Version),quiet,version,0.10526315789473684
+Quiet,Humans Being (Album Version),quiet,humans,0.23529411764705882
+Quiet,Humans Being (Album Version),quiet,motion,0.125
+Quiet,Humans Being (Album Version),quiet,picture,0.21052631578947367
+Quiet,Humans Being (Album Version),quiet,twister,0.6363636363636364
+Quiet,Humans Being (Album Version),quiet,dark,0.11764705882352941
+Quiet,Humans Being (Album Version),quiet,side,0.23529411764705882
+Quiet,Humans Being (Album Version),quiet,nature,0.125
+Quiet,Humans Being (Album Version),quiet,music,0.125
+Quiet,Humans Being (Album Version),young,album,0.5
+Quiet,Humans Being (Album Version),young,version,0.125
+Quiet,Humans Being (Album Version),young,humans,0.6086956521739131
+Quiet,Humans Being (Album Version),young,motion,0.15384615384615385
+Quiet,Humans Being (Album Version),young,picture,0.5
+Quiet,Humans Being (Album Version),young,twister,0.21052631578947367
+Quiet,Humans Being (Album Version),young,dark,0.14285714285714285
+Quiet,Humans Being (Album Version),young,side,0.42857142857142855
+Quiet,Humans Being (Album Version),young,nature,0.15384615384615385
+Quiet,Humans Being (Album Version),young,music,0.15384615384615385
+Quiet,Humans Being (Album Version),mountain,album,0.42857142857142855
+Quiet,Humans Being (Album Version),mountain,version,0.14285714285714285
+Quiet,Humans Being (Album Version),mountain,humans,0.42857142857142855
+Quiet,Humans Being (Album Version),mountain,motion,0.18181818181818182
+Quiet,Humans Being (Album Version),mountain,picture,0.42857142857142855
+Quiet,Humans Being (Album Version),mountain,twister,0.23529411764705882
+Quiet,Humans Being (Album Version),mountain,dark,0.16666666666666666
+Quiet,Humans Being (Album Version),mountain,side,0.5
+Quiet,Humans Being (Album Version),mountain,nature,0.18181818181818182
+Quiet,Humans Being (Album Version),mountain,music,0.18181818181818182
+Girlfriend,Adam's Song,girlfriend,song,0.15384615384615385
+Girlfriend,Adam's Song,girlfriend,adam,0.631578947368421
+Girlfriend,Adam's Song,girlfriend,state,0.375
+Girlfriend,Adam's Song,girlfriend,enema,0.1111111111111111
+Girlfriend,Adam's Song,phoenix,song,0.1111111111111111
+Girlfriend,Adam's Song,phoenix,adam,0.3
+Girlfriend,Adam's Song,phoenix,state,0.7368421052631579
+Girlfriend,Adam's Song,phoenix,enema,0.08695652173913043
+Girlfriend,Don't Cry (Original),girlfriend,original,0.5
+Girlfriend,Don't Cry (Original),girlfriend,cry,0.16666666666666666
+Girlfriend,Don't Cry (Original),girlfriend,greatest,0
+Girlfriend,Don't Cry (Original),girlfriend,hits,0.13333333333333333
+Girlfriend,Don't Cry (Original),phoenix,original,0.3333333333333333
+Girlfriend,Don't Cry (Original),phoenix,cry,0.11764705882352941
+Girlfriend,Don't Cry (Original),phoenix,greatest,0
+Girlfriend,Don't Cry (Original),phoenix,hits,0.1
+Girlfriend,Something In The Way,girlfriend,way,0.18181818181818182
+Girlfriend,Something In The Way,phoenix,way,0.125
+Girlfriend,Superman (It's Not Easy),girlfriend,superman,0.6666666666666666
+Girlfriend,Superman (It's Not Easy),girlfriend,easy,0
+Girlfriend,Superman (It's Not Easy),girlfriend,songs,0.15384615384615385
+Girlfriend,Superman (It's Not Easy),girlfriend,ii,0.14285714285714285
+Girlfriend,Superman (It's Not Easy),girlfriend,dawson,0.3333333333333333
+Girlfriend,Superman (It's Not Easy),girlfriend,creek,0.3333333333333333
+Girlfriend,Superman (It's Not Easy),phoenix,superman,0.3157894736842105
+Girlfriend,Superman (It's Not Easy),phoenix,easy,0
+Girlfriend,Superman (It's Not Easy),phoenix,songs,0.1111111111111111
+Girlfriend,Superman (It's Not Easy),phoenix,ii,0.10526315789473684
+Girlfriend,Superman (It's Not Easy),phoenix,dawson,0.7619047619047619
+Girlfriend,Superman (It's Not Easy),phoenix,creek,0.23529411764705882
+Girlfriend,Beautiful,girlfriend,beautiful,0
+Girlfriend,Beautiful,girlfriend,hotel,0.47058823529411764
+Girlfriend,Beautiful,phoenix,beautiful,0
+Girlfriend,Beautiful,phoenix,hotel,0.3157894736842105
+Girlfriend,Livin' On A Prayer,girlfriend,prayer,0.14285714285714285
+Girlfriend,Livin' On A Prayer,girlfriend,cross,0.5
+Girlfriend,Livin' On A Prayer,girlfriend,road,0.5
+Girlfriend,Livin' On A Prayer,phoenix,prayer,0.10526315789473684
+Girlfriend,Livin' On A Prayer,phoenix,cross,0.3333333333333333
+Girlfriend,Livin' On A Prayer,phoenix,road,0.3333333333333333
+Girlfriend,Crazy,girlfriend,crazy,0.6
+Girlfriend,Crazy,girlfriend,grip,0.13333333333333333
+Girlfriend,Crazy,girlfriend,get,0.10526315789473684
+Girlfriend,Crazy,phoenix,crazy,0.2857142857142857
+Girlfriend,Crazy,phoenix,grip,0.1
+Girlfriend,Crazy,phoenix,get,0.08333333333333333
+Girlfriend,You're Crazy,girlfriend,crazy,0.6
+Girlfriend,You're Crazy,girlfriend,r,0.14285714285714285
+Girlfriend,You're Crazy,girlfriend,lies,0.15384615384615385
+Girlfriend,You're Crazy,girlfriend,g,0.14285714285714285
+Girlfriend,You're Crazy,girlfriend,n,0.3333333333333333
+Girlfriend,You're Crazy,phoenix,crazy,0.2857142857142857
+Girlfriend,You're Crazy,phoenix,r,0.10526315789473684
+Girlfriend,You're Crazy,phoenix,lies,0.1111111111111111
+Girlfriend,You're Crazy,phoenix,g,0.10526315789473684
+Girlfriend,You're Crazy,phoenix,n,0.23529411764705882
+Girlfriend,Drain You,girlfriend,drain,0.1111111111111111
+Girlfriend,Drain You,girlfriend,drain,0.1111111111111111
+Girlfriend,Drain You,phoenix,drain,0.08695652173913043
+Girlfriend,Drain You,phoenix,drain,0.08695652173913043
+Girlfriend,If He Should Break Your Heart,girlfriend,heart,0.13333333333333333
+Girlfriend,If He Should Break Your Heart,girlfriend,break,0.16666666666666666
+Girlfriend,If He Should Break Your Heart,girlfriend,trial,0.14285714285714285
+Girlfriend,If He Should Break Your Heart,girlfriend,fire,0.16666666666666666
+Girlfriend,If He Should Break Your Heart,phoenix,heart,0.1
+Girlfriend,If He Should Break Your Heart,phoenix,break,0.11764705882352941
+Girlfriend,If He Should Break Your Heart,phoenix,trial,0.10526315789473684
+Girlfriend,If He Should Break Your Heart,phoenix,fire,0.11764705882352941
+Girlfriend,Float On,girlfriend,float,0.18181818181818182
+Girlfriend,Float On,girlfriend,float,0.18181818181818182
+Girlfriend,Float On,phoenix,float,0.125
+Girlfriend,Float On,phoenix,float,0.125
+Girlfriend,Angie (1993 Digital Remaster),girlfriend,digital,0
+Girlfriend,Angie (1993 Digital Remaster),girlfriend,rolling,0.15384615384615385
+Girlfriend,Angie (1993 Digital Remaster),girlfriend,jump,0.14285714285714285
+Girlfriend,Angie (1993 Digital Remaster),girlfriend,back,0.3333333333333333
+Girlfriend,Angie (1993 Digital Remaster),girlfriend,best,0.14285714285714285
+Girlfriend,Angie (1993 Digital Remaster),phoenix,digital,0
+Girlfriend,Angie (1993 Digital Remaster),phoenix,rolling,0.1111111111111111
+Girlfriend,Angie (1993 Digital Remaster),phoenix,jump,0.10526315789473684
+Girlfriend,Angie (1993 Digital Remaster),phoenix,back,0.23529411764705882
+Girlfriend,Angie (1993 Digital Remaster),phoenix,best,0.10526315789473684
+Girlfriend,Chasing Cars,girlfriend,chasing,0
+Girlfriend,Chasing Cars,girlfriend,cars,0.4
+Girlfriend,Chasing Cars,girlfriend,chasing,0
+Girlfriend,Chasing Cars,girlfriend,cars,0.4
+Girlfriend,Chasing Cars,girlfriend,toronto,0.3157894736842105
+Girlfriend,Chasing Cars,girlfriend,live,0
+Girlfriend,Chasing Cars,phoenix,chasing,0
+Girlfriend,Chasing Cars,phoenix,cars,0.2727272727272727
+Girlfriend,Chasing Cars,phoenix,chasing,0
+Girlfriend,Chasing Cars,phoenix,cars,0.2727272727272727
+Girlfriend,Chasing Cars,phoenix,toronto,0.8181818181818182
+Girlfriend,Chasing Cars,phoenix,live,0
+Girlfriend,I Just Wanna Be Loved (LP Version),girlfriend,lp,0.38095238095238093
+Girlfriend,I Just Wanna Be Loved (LP Version),girlfriend,version,0.14285714285714285
+Girlfriend,I Just Wanna Be Loved (LP Version),girlfriend,wan,0.42105263157894735
+Girlfriend,I Just Wanna Be Loved (LP Version),girlfriend,na,0.3076923076923077
+Girlfriend,I Just Wanna Be Loved (LP Version),girlfriend,loved,0
+Girlfriend,I Just Wanna Be Loved (LP Version),girlfriend,talon,0.26666666666666666
+Girlfriend,I Just Wanna Be Loved (LP Version),girlfriend,mix,0.2857142857142857
+Girlfriend,I Just Wanna Be Loved (LP Version),phoenix,lp,0.2608695652173913
+Girlfriend,I Just Wanna Be Loved (LP Version),phoenix,version,0.10526315789473684
+Girlfriend,I Just Wanna Be Loved (LP Version),phoenix,wan,0.2857142857142857
+Girlfriend,I Just Wanna Be Loved (LP Version),phoenix,na,0.2222222222222222
+Girlfriend,I Just Wanna Be Loved (LP Version),phoenix,loved,0
+Girlfriend,I Just Wanna Be Loved (LP Version),phoenix,talon,0.2
+Girlfriend,I Just Wanna Be Loved (LP Version),phoenix,mix,0.21052631578947367
+Girlfriend,In My Arms,girlfriend,arms,0.5
+Girlfriend,In My Arms,girlfriend,eyes,0.14285714285714285
+Girlfriend,In My Arms,girlfriend,open,0.4
+Girlfriend,In My Arms,phoenix,arms,0.3333333333333333
+Girlfriend,In My Arms,phoenix,eyes,0.10526315789473684
+Girlfriend,In My Arms,phoenix,open,0.6666666666666666
+Girlfriend,Hands Open,girlfriend,hands,0.13333333333333333
+Girlfriend,Hands Open,girlfriend,open,0.4
+Girlfriend,Hands Open,girlfriend,eyes,0.14285714285714285
+Girlfriend,Hands Open,girlfriend,open,0.4
+Girlfriend,Hands Open,phoenix,hands,0.1
+Girlfriend,Hands Open,phoenix,open,0.6666666666666666
+Girlfriend,Hands Open,phoenix,eyes,0.10526315789473684
+Girlfriend,Hands Open,phoenix,open,0.6666666666666666
+Girlfriend,Humans Being (Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,Humans Being (Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,Humans Being (Album Version),girlfriend,humans,0.5217391304347826
+Girlfriend,Humans Being (Album Version),girlfriend,motion,0.18181818181818182
+Girlfriend,Humans Being (Album Version),girlfriend,picture,0.47058823529411764
+Girlfriend,Humans Being (Album Version),girlfriend,twister,0.23529411764705882
+Girlfriend,Humans Being (Album Version),girlfriend,dark,0.16666666666666666
+Girlfriend,Humans Being (Album Version),girlfriend,side,0.42857142857142855
+Girlfriend,Humans Being (Album Version),girlfriend,nature,0.18181818181818182
+Girlfriend,Humans Being (Album Version),girlfriend,music,0.18181818181818182
+Girlfriend,Humans Being (Album Version),phoenix,album,0.3157894736842105
+Girlfriend,Humans Being (Album Version),phoenix,version,0.10526315789473684
+Girlfriend,Humans Being (Album Version),phoenix,humans,0.3157894736842105
+Girlfriend,Humans Being (Album Version),phoenix,motion,0.125
+Girlfriend,Humans Being (Album Version),phoenix,picture,0.3157894736842105
+Girlfriend,Humans Being (Album Version),phoenix,twister,0.18181818181818182
+Girlfriend,Humans Being (Album Version),phoenix,dark,0.11764705882352941
+Girlfriend,Humans Being (Album Version),phoenix,side,0.47058823529411764
+Girlfriend,Humans Being (Album Version),phoenix,nature,0.125
+Girlfriend,Humans Being (Album Version),phoenix,music,0.125
+Happiness: We're All In It Together,Adam's Song,together,song,0
+Happiness: We're All In It Together,Adam's Song,together,adam,0
+Happiness: We're All In It Together,Adam's Song,together,state,0
+Happiness: We're All In It Together,Adam's Song,together,enema,0
+Happiness: We're All In It Together,Adam's Song,happiness,song,0.26666666666666666
+Happiness: We're All In It Together,Adam's Song,happiness,adam,0.13333333333333333
+Happiness: We're All In It Together,Adam's Song,happiness,state,0.125
+Happiness: We're All In It Together,Adam's Song,happiness,enema,0.2
+Happiness: We're All In It Together,Adam's Song,young,song,0.13333333333333333
+Happiness: We're All In It Together,Adam's Song,young,adam,0.6666666666666666
+Happiness: We're All In It Together,Adam's Song,young,state,0.375
+Happiness: We're All In It Together,Adam's Song,young,enema,0.1
+Happiness: We're All In It Together,Adam's Song,mountain,song,0.15384615384615385
+Happiness: We're All In It Together,Adam's Song,mountain,adam,0.4
+Happiness: We're All In It Together,Adam's Song,mountain,state,0.42857142857142855
+Happiness: We're All In It Together,Adam's Song,mountain,enema,0.1111111111111111
+Happiness: We're All In It Together,Don't Cry (Original),together,original,0
+Happiness: We're All In It Together,Don't Cry (Original),together,cry,0
+Happiness: We're All In It Together,Don't Cry (Original),together,greatest,0
+Happiness: We're All In It Together,Don't Cry (Original),together,hits,0
+Happiness: We're All In It Together,Don't Cry (Original),happiness,original,0.13333333333333333
+Happiness: We're All In It Together,Don't Cry (Original),happiness,cry,0.2857142857142857
+Happiness: We're All In It Together,Don't Cry (Original),happiness,greatest,0
+Happiness: We're All In It Together,Don't Cry (Original),happiness,hits,0.23529411764705882
+Happiness: We're All In It Together,Don't Cry (Original),young,original,0.5333333333333333
+Happiness: We're All In It Together,Don't Cry (Original),young,cry,0.14285714285714285
+Happiness: We're All In It Together,Don't Cry (Original),young,greatest,0
+Happiness: We're All In It Together,Don't Cry (Original),young,hits,0.11764705882352941
+Happiness: We're All In It Together,Don't Cry (Original),mountain,original,0.46153846153846156
+Happiness: We're All In It Together,Don't Cry (Original),mountain,cry,0.16666666666666666
+Happiness: We're All In It Together,Don't Cry (Original),mountain,greatest,0
+Happiness: We're All In It Together,Don't Cry (Original),mountain,hits,0.13333333333333333
+Happiness: We're All In It Together,Something In The Way,together,way,0
+Happiness: We're All In It Together,Something In The Way,happiness,way,0.46153846153846156
+Happiness: We're All In It Together,Something In The Way,young,way,0.15384615384615385
+Happiness: We're All In It Together,Something In The Way,mountain,way,0.18181818181818182
+Happiness: We're All In It Together,Superman (It's Not Easy),together,superman,0
+Happiness: We're All In It Together,Superman (It's Not Easy),together,easy,0
+Happiness: We're All In It Together,Superman (It's Not Easy),together,songs,0
+Happiness: We're All In It Together,Superman (It's Not Easy),together,ii,0
+Happiness: We're All In It Together,Superman (It's Not Easy),together,dawson,0
+Happiness: We're All In It Together,Superman (It's Not Easy),together,creek,0
+Happiness: We're All In It Together,Superman (It's Not Easy),happiness,superman,0.14285714285714285
+Happiness: We're All In It Together,Superman (It's Not Easy),happiness,easy,0
+Happiness: We're All In It Together,Superman (It's Not Easy),happiness,songs,0.26666666666666666
+Happiness: We're All In It Together,Superman (It's Not Easy),happiness,ii,0.25
+Happiness: We're All In It Together,Superman (It's Not Easy),happiness,dawson,0.1111111111111111
+Happiness: We're All In It Together,Superman (It's Not Easy),happiness,creek,0.14285714285714285
+Happiness: We're All In It Together,Superman (It's Not Easy),young,superman,0.7058823529411765
+Happiness: We're All In It Together,Superman (It's Not Easy),young,easy,0
+Happiness: We're All In It Together,Superman (It's Not Easy),young,songs,0.13333333333333333
+Happiness: We're All In It Together,Superman (It's Not Easy),young,ii,0.125
+Happiness: We're All In It Together,Superman (It's Not Easy),young,dawson,0.3333333333333333
+Happiness: We're All In It Together,Superman (It's Not Easy),young,creek,0.2857142857142857
+Happiness: We're All In It Together,Superman (It's Not Easy),mountain,superman,0.42857142857142855
+Happiness: We're All In It Together,Superman (It's Not Easy),mountain,easy,0
+Happiness: We're All In It Together,Superman (It's Not Easy),mountain,songs,0.15384615384615385
+Happiness: We're All In It Together,Superman (It's Not Easy),mountain,ii,0.14285714285714285
+Happiness: We're All In It Together,Superman (It's Not Easy),mountain,dawson,0.375
+Happiness: We're All In It Together,Superman (It's Not Easy),mountain,creek,0.3333333333333333
+Happiness: We're All In It Together,Beautiful,together,beautiful,0
+Happiness: We're All In It Together,Beautiful,together,hotel,0
+Happiness: We're All In It Together,Beautiful,happiness,beautiful,0
+Happiness: We're All In It Together,Beautiful,happiness,hotel,0.125
+Happiness: We're All In It Together,Beautiful,young,beautiful,0
+Happiness: We're All In It Together,Beautiful,young,hotel,0.5
+Happiness: We're All In It Together,Beautiful,mountain,beautiful,0
+Happiness: We're All In It Together,Beautiful,mountain,hotel,0.42857142857142855
+Happiness: We're All In It Together,Livin' On A Prayer,together,prayer,0
+Happiness: We're All In It Together,Livin' On A Prayer,together,cross,0
+Happiness: We're All In It Together,Livin' On A Prayer,together,road,0
+Happiness: We're All In It Together,Livin' On A Prayer,happiness,prayer,0.25
+Happiness: We're All In It Together,Livin' On A Prayer,happiness,cross,0.13333333333333333
+Happiness: We're All In It Together,Livin' On A Prayer,happiness,road,0.13333333333333333
+Happiness: We're All In It Together,Livin' On A Prayer,young,prayer,0.125
+Happiness: We're All In It Together,Livin' On A Prayer,young,cross,0.5333333333333333
+Happiness: We're All In It Together,Livin' On A Prayer,young,road,0.5333333333333333
+Happiness: We're All In It Together,Livin' On A Prayer,mountain,prayer,0.14285714285714285
+Happiness: We're All In It Together,Livin' On A Prayer,mountain,cross,0.46153846153846156
+Happiness: We're All In It Together,Livin' On A Prayer,mountain,road,0.46153846153846156
+Happiness: We're All In It Together,Crazy,together,crazy,0
+Happiness: We're All In It Together,Crazy,together,grip,0
+Happiness: We're All In It Together,Crazy,together,get,0
+Happiness: We're All In It Together,Crazy,happiness,crazy,0.125
+Happiness: We're All In It Together,Crazy,happiness,grip,0.23529411764705882
+Happiness: We're All In It Together,Crazy,happiness,get,0.19047619047619047
+Happiness: We're All In It Together,Crazy,young,crazy,0.631578947368421
+Happiness: We're All In It Together,Crazy,young,grip,0.11764705882352941
+Happiness: We're All In It Together,Crazy,young,get,0.09523809523809523
+Happiness: We're All In It Together,Crazy,mountain,crazy,0.375
+Happiness: We're All In It Together,Crazy,mountain,grip,0.13333333333333333
+Happiness: We're All In It Together,Crazy,mountain,get,0.10526315789473684
+Happiness: We're All In It Together,You're Crazy,together,crazy,0
+Happiness: We're All In It Together,You're Crazy,together,r,0
+Happiness: We're All In It Together,You're Crazy,together,lies,0
+Happiness: We're All In It Together,You're Crazy,together,g,0
+Happiness: We're All In It Together,You're Crazy,together,n,0
+Happiness: We're All In It Together,You're Crazy,happiness,crazy,0.125
+Happiness: We're All In It Together,You're Crazy,happiness,r,0.25
+Happiness: We're All In It Together,You're Crazy,happiness,lies,0.26666666666666666
+Happiness: We're All In It Together,You're Crazy,happiness,g,0.25
+Happiness: We're All In It Together,You're Crazy,happiness,n,0.26666666666666666
+Happiness: We're All In It Together,You're Crazy,young,crazy,0.631578947368421
+Happiness: We're All In It Together,You're Crazy,young,r,0.125
+Happiness: We're All In It Together,You're Crazy,young,lies,0.13333333333333333
+Happiness: We're All In It Together,You're Crazy,young,g,0.125
+Happiness: We're All In It Together,You're Crazy,young,n,0.2857142857142857
+Happiness: We're All In It Together,You're Crazy,mountain,crazy,0.375
+Happiness: We're All In It Together,You're Crazy,mountain,r,0.14285714285714285
+Happiness: We're All In It Together,You're Crazy,mountain,lies,0.15384615384615385
+Happiness: We're All In It Together,You're Crazy,mountain,g,0.14285714285714285
+Happiness: We're All In It Together,You're Crazy,mountain,n,0.3333333333333333
+Happiness: We're All In It Together,Drain You,together,drain,0
+Happiness: We're All In It Together,Drain You,together,drain,0
+Happiness: We're All In It Together,Drain You,happiness,drain,0.2
+Happiness: We're All In It Together,Drain You,happiness,drain,0.2
+Happiness: We're All In It Together,Drain You,young,drain,0.1
+Happiness: We're All In It Together,Drain You,young,drain,0.1
+Happiness: We're All In It Together,Drain You,mountain,drain,0.1111111111111111
+Happiness: We're All In It Together,Drain You,mountain,drain,0.1111111111111111
+Happiness: We're All In It Together,If He Should Break Your Heart,together,heart,0
+Happiness: We're All In It Together,If He Should Break Your Heart,together,break,0
+Happiness: We're All In It Together,If He Should Break Your Heart,together,trial,0
+Happiness: We're All In It Together,If He Should Break Your Heart,together,fire,0
+Happiness: We're All In It Together,If He Should Break Your Heart,happiness,heart,0.23529411764705882
+Happiness: We're All In It Together,If He Should Break Your Heart,happiness,break,0.2857142857142857
+Happiness: We're All In It Together,If He Should Break Your Heart,happiness,trial,0.25
+Happiness: We're All In It Together,If He Should Break Your Heart,happiness,fire,0.2857142857142857
+Happiness: We're All In It Together,If He Should Break Your Heart,young,heart,0.11764705882352941
+Happiness: We're All In It Together,If He Should Break Your Heart,young,break,0.14285714285714285
+Happiness: We're All In It Together,If He Should Break Your Heart,young,trial,0.125
+Happiness: We're All In It Together,If He Should Break Your Heart,young,fire,0.14285714285714285
+Happiness: We're All In It Together,If He Should Break Your Heart,mountain,heart,0.13333333333333333
+Happiness: We're All In It Together,If He Should Break Your Heart,mountain,break,0.16666666666666666
+Happiness: We're All In It Together,If He Should Break Your Heart,mountain,trial,0.14285714285714285
+Happiness: We're All In It Together,If He Should Break Your Heart,mountain,fire,0.16666666666666666
+Happiness: We're All In It Together,Float On,together,float,0
+Happiness: We're All In It Together,Float On,together,float,0
+Happiness: We're All In It Together,Float On,happiness,float,0.3076923076923077
+Happiness: We're All In It Together,Float On,happiness,float,0.3076923076923077
+Happiness: We're All In It Together,Float On,young,float,0.15384615384615385
+Happiness: We're All In It Together,Float On,young,float,0.15384615384615385
+Happiness: We're All In It Together,Float On,mountain,float,0.18181818181818182
+Happiness: We're All In It Together,Float On,mountain,float,0.18181818181818182
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),together,digital,0
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),together,rolling,0
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),together,jump,0
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),together,back,0
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),together,best,0
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),happiness,digital,0
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),happiness,rolling,0.26666666666666666
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),happiness,jump,0.25
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),happiness,back,0.14285714285714285
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),happiness,best,0.25
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),young,digital,0
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),young,rolling,0.13333333333333333
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),young,jump,0.125
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),young,back,0.2857142857142857
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),young,best,0.125
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),mountain,digital,0
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),mountain,rolling,0.15384615384615385
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),mountain,jump,0.14285714285714285
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),mountain,back,0.3333333333333333
+Happiness: We're All In It Together,Angie (1993 Digital Remaster),mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Chasing Cars,together,chasing,0
+Happiness: We're All In It Together,Chasing Cars,together,cars,0
+Happiness: We're All In It Together,Chasing Cars,together,chasing,0
+Happiness: We're All In It Together,Chasing Cars,together,cars,0
+Happiness: We're All In It Together,Chasing Cars,together,toronto,0
+Happiness: We're All In It Together,Chasing Cars,together,live,0
+Happiness: We're All In It Together,Chasing Cars,happiness,chasing,0
+Happiness: We're All In It Together,Chasing Cars,happiness,cars,0.10526315789473684
+Happiness: We're All In It Together,Chasing Cars,happiness,chasing,0
+Happiness: We're All In It Together,Chasing Cars,happiness,cars,0.10526315789473684
+Happiness: We're All In It Together,Chasing Cars,happiness,toronto,0.10526315789473684
+Happiness: We're All In It Together,Chasing Cars,happiness,live,0
+Happiness: We're All In It Together,Chasing Cars,young,chasing,0
+Happiness: We're All In It Together,Chasing Cars,young,cars,0.42105263157894735
+Happiness: We're All In It Together,Chasing Cars,young,chasing,0
+Happiness: We're All In It Together,Chasing Cars,young,cars,0.42105263157894735
+Happiness: We're All In It Together,Chasing Cars,young,toronto,0.3157894736842105
+Happiness: We're All In It Together,Chasing Cars,young,live,0
+Happiness: We're All In It Together,Chasing Cars,mountain,chasing,0
+Happiness: We're All In It Together,Chasing Cars,mountain,cars,0.35294117647058826
+Happiness: We're All In It Together,Chasing Cars,mountain,chasing,0
+Happiness: We're All In It Together,Chasing Cars,mountain,cars,0.35294117647058826
+Happiness: We're All In It Together,Chasing Cars,mountain,toronto,0.35294117647058826
+Happiness: We're All In It Together,Chasing Cars,mountain,live,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),together,lp,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),together,version,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),together,wan,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),together,na,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),together,loved,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),together,talon,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),together,mix,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),happiness,lp,0.1
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),happiness,version,0.25
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),happiness,wan,0.1111111111111111
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),happiness,na,0.25
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),happiness,loved,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),happiness,talon,0.11764705882352941
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),happiness,mix,0.125
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),young,lp,0.4
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),young,version,0.125
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),young,wan,0.4444444444444444
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),young,na,0.26666666666666666
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),young,loved,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),young,talon,0.23529411764705882
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),young,mix,0.25
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),mountain,lp,0.3333333333333333
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),mountain,wan,0.375
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),mountain,na,0.3076923076923077
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),mountain,loved,0
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),mountain,talon,0.26666666666666666
+Happiness: We're All In It Together,I Just Wanna Be Loved (LP Version),mountain,mix,0.2857142857142857
+Happiness: We're All In It Together,In My Arms,together,arms,0
+Happiness: We're All In It Together,In My Arms,together,eyes,0
+Happiness: We're All In It Together,In My Arms,together,open,0
+Happiness: We're All In It Together,In My Arms,happiness,arms,0.13333333333333333
+Happiness: We're All In It Together,In My Arms,happiness,eyes,0.25
+Happiness: We're All In It Together,In My Arms,happiness,open,0.13333333333333333
+Happiness: We're All In It Together,In My Arms,young,arms,0.5333333333333333
+Happiness: We're All In It Together,In My Arms,young,eyes,0.125
+Happiness: We're All In It Together,In My Arms,young,open,0.4
+Happiness: We're All In It Together,In My Arms,mountain,arms,0.46153846153846156
+Happiness: We're All In It Together,In My Arms,mountain,eyes,0.14285714285714285
+Happiness: We're All In It Together,In My Arms,mountain,open,0.46153846153846156
+Happiness: We're All In It Together,Hands Open,together,hands,0
+Happiness: We're All In It Together,Hands Open,together,open,0
+Happiness: We're All In It Together,Hands Open,together,eyes,0
+Happiness: We're All In It Together,Hands Open,together,open,0
+Happiness: We're All In It Together,Hands Open,happiness,hands,0.23529411764705882
+Happiness: We're All In It Together,Hands Open,happiness,open,0.13333333333333333
+Happiness: We're All In It Together,Hands Open,happiness,eyes,0.25
+Happiness: We're All In It Together,Hands Open,happiness,open,0.13333333333333333
+Happiness: We're All In It Together,Hands Open,young,hands,0.11764705882352941
+Happiness: We're All In It Together,Hands Open,young,open,0.4
+Happiness: We're All In It Together,Hands Open,young,eyes,0.125
+Happiness: We're All In It Together,Hands Open,young,open,0.4
+Happiness: We're All In It Together,Hands Open,mountain,hands,0.13333333333333333
+Happiness: We're All In It Together,Hands Open,mountain,open,0.46153846153846156
+Happiness: We're All In It Together,Hands Open,mountain,eyes,0.14285714285714285
+Happiness: We're All In It Together,Hands Open,mountain,open,0.46153846153846156
+Happiness: We're All In It Together,Humans Being (Album Version),together,album,0
+Happiness: We're All In It Together,Humans Being (Album Version),together,version,0
+Happiness: We're All In It Together,Humans Being (Album Version),together,humans,0
+Happiness: We're All In It Together,Humans Being (Album Version),together,motion,0
+Happiness: We're All In It Together,Humans Being (Album Version),together,picture,0
+Happiness: We're All In It Together,Humans Being (Album Version),together,twister,0
+Happiness: We're All In It Together,Humans Being (Album Version),together,dark,0
+Happiness: We're All In It Together,Humans Being (Album Version),together,side,0
+Happiness: We're All In It Together,Humans Being (Album Version),together,nature,0
+Happiness: We're All In It Together,Humans Being (Album Version),together,music,0
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,album,0.125
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,version,0.25
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,humans,0.3333333333333333
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,motion,0.3076923076923077
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,picture,0.125
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,twister,0.10526315789473684
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,dark,0.5714285714285714
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,side,0.14285714285714285
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,nature,0.46153846153846156
+Happiness: We're All In It Together,Humans Being (Album Version),happiness,music,0.3076923076923077
+Happiness: We're All In It Together,Humans Being (Album Version),young,album,0.5
+Happiness: We're All In It Together,Humans Being (Album Version),young,version,0.125
+Happiness: We're All In It Together,Humans Being (Album Version),young,humans,0.6086956521739131
+Happiness: We're All In It Together,Humans Being (Album Version),young,motion,0.15384615384615385
+Happiness: We're All In It Together,Humans Being (Album Version),young,picture,0.5
+Happiness: We're All In It Together,Humans Being (Album Version),young,twister,0.21052631578947367
+Happiness: We're All In It Together,Humans Being (Album Version),young,dark,0.14285714285714285
+Happiness: We're All In It Together,Humans Being (Album Version),young,side,0.42857142857142855
+Happiness: We're All In It Together,Humans Being (Album Version),young,nature,0.15384615384615385
+Happiness: We're All In It Together,Humans Being (Album Version),young,music,0.15384615384615385
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,humans,0.42857142857142855
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,motion,0.18181818181818182
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,picture,0.42857142857142855
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,twister,0.23529411764705882
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,dark,0.16666666666666666
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,side,0.5
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,nature,0.18181818181818182
+Happiness: We're All In It Together,Humans Being (Album Version),mountain,music,0.18181818181818182
+Armistice,Adam's Song,armistice,song,0.2857142857142857
+Armistice,Adam's Song,armistice,adam,0.14285714285714285
+Armistice,Adam's Song,armistice,state,0.13333333333333333
+Armistice,Adam's Song,armistice,enema,0.21052631578947367
+Armistice,Adam's Song,phoenix,song,0.1111111111111111
+Armistice,Adam's Song,phoenix,adam,0.3
+Armistice,Adam's Song,phoenix,state,0.7368421052631579
+Armistice,Adam's Song,phoenix,enema,0.08695652173913043
+Armistice,Don't Cry (Original),armistice,original,0.14285714285714285
+Armistice,Don't Cry (Original),armistice,cry,0.3076923076923077
+Armistice,Don't Cry (Original),armistice,greatest,0
+Armistice,Don't Cry (Original),armistice,hits,0.25
+Armistice,Don't Cry (Original),phoenix,original,0.3333333333333333
+Armistice,Don't Cry (Original),phoenix,cry,0.11764705882352941
+Armistice,Don't Cry (Original),phoenix,greatest,0
+Armistice,Don't Cry (Original),phoenix,hits,0.1
+Armistice,Something In The Way,armistice,way,0.5
+Armistice,Something In The Way,phoenix,way,0.125
+Armistice,Superman (It's Not Easy),armistice,superman,0.15384615384615385
+Armistice,Superman (It's Not Easy),armistice,easy,0
+Armistice,Superman (It's Not Easy),armistice,songs,0.2857142857142857
+Armistice,Superman (It's Not Easy),armistice,ii,0.26666666666666666
+Armistice,Superman (It's Not Easy),armistice,dawson,0.11764705882352941
+Armistice,Superman (It's Not Easy),armistice,creek,0.15384615384615385
+Armistice,Superman (It's Not Easy),phoenix,superman,0.3157894736842105
+Armistice,Superman (It's Not Easy),phoenix,easy,0
+Armistice,Superman (It's Not Easy),phoenix,songs,0.1111111111111111
+Armistice,Superman (It's Not Easy),phoenix,ii,0.10526315789473684
+Armistice,Superman (It's Not Easy),phoenix,dawson,0.7619047619047619
+Armistice,Superman (It's Not Easy),phoenix,creek,0.23529411764705882
+Armistice,Beautiful,armistice,beautiful,0
+Armistice,Beautiful,armistice,hotel,0.13333333333333333
+Armistice,Beautiful,phoenix,beautiful,0
+Armistice,Beautiful,phoenix,hotel,0.3157894736842105
+Armistice,Livin' On A Prayer,armistice,prayer,0.26666666666666666
+Armistice,Livin' On A Prayer,armistice,cross,0.14285714285714285
+Armistice,Livin' On A Prayer,armistice,road,0.14285714285714285
+Armistice,Livin' On A Prayer,phoenix,prayer,0.10526315789473684
+Armistice,Livin' On A Prayer,phoenix,cross,0.3333333333333333
+Armistice,Livin' On A Prayer,phoenix,road,0.3333333333333333
+Armistice,Crazy,armistice,crazy,0.13333333333333333
+Armistice,Crazy,armistice,grip,0.25
+Armistice,Crazy,armistice,get,0.2
+Armistice,Crazy,phoenix,crazy,0.2857142857142857
+Armistice,Crazy,phoenix,grip,0.1
+Armistice,Crazy,phoenix,get,0.08333333333333333
+Armistice,You're Crazy,armistice,crazy,0.13333333333333333
+Armistice,You're Crazy,armistice,r,0.26666666666666666
+Armistice,You're Crazy,armistice,lies,0.2857142857142857
+Armistice,You're Crazy,armistice,g,0.26666666666666666
+Armistice,You're Crazy,armistice,n,0.2857142857142857
+Armistice,You're Crazy,phoenix,crazy,0.2857142857142857
+Armistice,You're Crazy,phoenix,r,0.10526315789473684
+Armistice,You're Crazy,phoenix,lies,0.1111111111111111
+Armistice,You're Crazy,phoenix,g,0.10526315789473684
+Armistice,You're Crazy,phoenix,n,0.23529411764705882
+Armistice,Drain You,armistice,drain,0.21052631578947367
+Armistice,Drain You,armistice,drain,0.21052631578947367
+Armistice,Drain You,phoenix,drain,0.08695652173913043
+Armistice,Drain You,phoenix,drain,0.08695652173913043
+Armistice,If He Should Break Your Heart,armistice,heart,0.25
+Armistice,If He Should Break Your Heart,armistice,break,0.3076923076923077
+Armistice,If He Should Break Your Heart,armistice,trial,0.26666666666666666
+Armistice,If He Should Break Your Heart,armistice,fire,0.3076923076923077
+Armistice,If He Should Break Your Heart,phoenix,heart,0.1
+Armistice,If He Should Break Your Heart,phoenix,break,0.11764705882352941
+Armistice,If He Should Break Your Heart,phoenix,trial,0.10526315789473684
+Armistice,If He Should Break Your Heart,phoenix,fire,0.11764705882352941
+Armistice,Float On,armistice,float,0.3333333333333333
+Armistice,Float On,armistice,float,0.3333333333333333
+Armistice,Float On,phoenix,float,0.125
+Armistice,Float On,phoenix,float,0.125
+Armistice,Angie (1993 Digital Remaster),armistice,digital,0
+Armistice,Angie (1993 Digital Remaster),armistice,rolling,0.2857142857142857
+Armistice,Angie (1993 Digital Remaster),armistice,jump,0.26666666666666666
+Armistice,Angie (1993 Digital Remaster),armistice,back,0.15384615384615385
+Armistice,Angie (1993 Digital Remaster),armistice,best,0.26666666666666666
+Armistice,Angie (1993 Digital Remaster),phoenix,digital,0
+Armistice,Angie (1993 Digital Remaster),phoenix,rolling,0.1111111111111111
+Armistice,Angie (1993 Digital Remaster),phoenix,jump,0.10526315789473684
+Armistice,Angie (1993 Digital Remaster),phoenix,back,0.23529411764705882
+Armistice,Angie (1993 Digital Remaster),phoenix,best,0.10526315789473684
+Armistice,Chasing Cars,armistice,chasing,0
+Armistice,Chasing Cars,armistice,cars,0.1111111111111111
+Armistice,Chasing Cars,armistice,chasing,0
+Armistice,Chasing Cars,armistice,cars,0.1111111111111111
+Armistice,Chasing Cars,armistice,toronto,0.1111111111111111
+Armistice,Chasing Cars,armistice,live,0
+Armistice,Chasing Cars,phoenix,chasing,0
+Armistice,Chasing Cars,phoenix,cars,0.2727272727272727
+Armistice,Chasing Cars,phoenix,chasing,0
+Armistice,Chasing Cars,phoenix,cars,0.2727272727272727
+Armistice,Chasing Cars,phoenix,toronto,0.8181818181818182
+Armistice,Chasing Cars,phoenix,live,0
+Armistice,I Just Wanna Be Loved (LP Version),armistice,lp,0.10526315789473684
+Armistice,I Just Wanna Be Loved (LP Version),armistice,version,0.26666666666666666
+Armistice,I Just Wanna Be Loved (LP Version),armistice,wan,0.11764705882352941
+Armistice,I Just Wanna Be Loved (LP Version),armistice,na,0.26666666666666666
+Armistice,I Just Wanna Be Loved (LP Version),armistice,loved,0
+Armistice,I Just Wanna Be Loved (LP Version),armistice,talon,0.125
+Armistice,I Just Wanna Be Loved (LP Version),armistice,mix,0.13333333333333333
+Armistice,I Just Wanna Be Loved (LP Version),phoenix,lp,0.2608695652173913
+Armistice,I Just Wanna Be Loved (LP Version),phoenix,version,0.10526315789473684
+Armistice,I Just Wanna Be Loved (LP Version),phoenix,wan,0.2857142857142857
+Armistice,I Just Wanna Be Loved (LP Version),phoenix,na,0.2222222222222222
+Armistice,I Just Wanna Be Loved (LP Version),phoenix,loved,0
+Armistice,I Just Wanna Be Loved (LP Version),phoenix,talon,0.2
+Armistice,I Just Wanna Be Loved (LP Version),phoenix,mix,0.21052631578947367
+Armistice,In My Arms,armistice,arms,0.14285714285714285
+Armistice,In My Arms,armistice,eyes,0.26666666666666666
+Armistice,In My Arms,armistice,open,0.14285714285714285
+Armistice,In My Arms,phoenix,arms,0.3333333333333333
+Armistice,In My Arms,phoenix,eyes,0.10526315789473684
+Armistice,In My Arms,phoenix,open,0.6666666666666666
+Armistice,Hands Open,armistice,hands,0.25
+Armistice,Hands Open,armistice,open,0.14285714285714285
+Armistice,Hands Open,armistice,eyes,0.26666666666666666
+Armistice,Hands Open,armistice,open,0.14285714285714285
+Armistice,Hands Open,phoenix,hands,0.1
+Armistice,Hands Open,phoenix,open,0.6666666666666666
+Armistice,Hands Open,phoenix,eyes,0.10526315789473684
+Armistice,Hands Open,phoenix,open,0.6666666666666666
+Armistice,Humans Being (Album Version),armistice,album,0.13333333333333333
+Armistice,Humans Being (Album Version),armistice,version,0.26666666666666666
+Armistice,Humans Being (Album Version),armistice,humans,0.36363636363636365
+Armistice,Humans Being (Album Version),armistice,motion,0.3333333333333333
+Armistice,Humans Being (Album Version),armistice,picture,0.13333333333333333
+Armistice,Humans Being (Album Version),armistice,twister,0.1111111111111111
+Armistice,Humans Being (Album Version),armistice,dark,0.6153846153846154
+Armistice,Humans Being (Album Version),armistice,side,0.15384615384615385
+Armistice,Humans Being (Album Version),armistice,nature,0.5
+Armistice,Humans Being (Album Version),armistice,music,0.3333333333333333
+Armistice,Humans Being (Album Version),phoenix,album,0.3157894736842105
+Armistice,Humans Being (Album Version),phoenix,version,0.10526315789473684
+Armistice,Humans Being (Album Version),phoenix,humans,0.3157894736842105
+Armistice,Humans Being (Album Version),phoenix,motion,0.125
+Armistice,Humans Being (Album Version),phoenix,picture,0.3157894736842105
+Armistice,Humans Being (Album Version),phoenix,twister,0.18181818181818182
+Armistice,Humans Being (Album Version),phoenix,dark,0.11764705882352941
+Armistice,Humans Being (Album Version),phoenix,side,0.47058823529411764
+Armistice,Humans Being (Album Version),phoenix,nature,0.125
+Armistice,Humans Being (Album Version),phoenix,music,0.125
+There Are Some Remedies Worse Than The Disease,Adam's Song,remedies,song,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Adam's Song,remedies,adam,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Adam's Song,remedies,state,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Adam's Song,remedies,enema,0.43478260869565216
+There Are Some Remedies Worse Than The Disease,Adam's Song,worse,song,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Adam's Song,worse,adam,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Adam's Song,worse,state,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Adam's Song,worse,enema,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Adam's Song,disease,song,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Adam's Song,disease,adam,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Adam's Song,disease,state,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Adam's Song,disease,enema,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Adam's Song,young,song,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Adam's Song,young,adam,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Adam's Song,young,state,0.375
+There Are Some Remedies Worse Than The Disease,Adam's Song,young,enema,0.1
+There Are Some Remedies Worse Than The Disease,Adam's Song,mountain,song,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Adam's Song,mountain,adam,0.4
+There Are Some Remedies Worse Than The Disease,Adam's Song,mountain,state,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Adam's Song,mountain,enema,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),remedies,original,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),remedies,cry,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),remedies,greatest,0
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),remedies,hits,0.6
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),worse,original,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),worse,cry,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),worse,greatest,0
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),worse,hits,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),disease,original,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),disease,cry,0.25
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),disease,greatest,0
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),disease,hits,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),young,original,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),young,cry,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),young,greatest,0
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),young,hits,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),mountain,original,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),mountain,cry,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),mountain,greatest,0
+There Are Some Remedies Worse Than The Disease,Don't Cry (Original),mountain,hits,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Something In The Way,remedies,way,0.25
+There Are Some Remedies Worse Than The Disease,Something In The Way,worse,way,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Something In The Way,disease,way,0.4
+There Are Some Remedies Worse Than The Disease,Something In The Way,young,way,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Something In The Way,mountain,way,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),remedies,superman,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),remedies,easy,0
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),remedies,songs,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),remedies,ii,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),remedies,dawson,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),remedies,creek,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),worse,superman,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),worse,easy,0
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),worse,songs,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),worse,ii,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),worse,dawson,0.125
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),worse,creek,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),disease,superman,0.125
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),disease,easy,0
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),disease,songs,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),disease,ii,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),disease,dawson,0.1
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),disease,creek,0.125
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),young,superman,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),young,easy,0
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),young,songs,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),young,ii,0.125
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),young,dawson,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),young,creek,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),mountain,superman,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),mountain,easy,0
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),mountain,songs,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),mountain,ii,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),mountain,dawson,0.375
+There Are Some Remedies Worse Than The Disease,Superman (It's Not Easy),mountain,creek,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Beautiful,remedies,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,remedies,hotel,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Beautiful,worse,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,worse,hotel,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Beautiful,disease,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,disease,hotel,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Beautiful,young,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,young,hotel,0.5
+There Are Some Remedies Worse Than The Disease,Beautiful,mountain,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,mountain,hotel,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,remedies,prayer,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,remedies,cross,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,remedies,road,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,worse,prayer,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,worse,cross,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,worse,road,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,disease,prayer,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,disease,cross,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,disease,road,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,young,prayer,0.125
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,young,cross,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,young,road,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,mountain,prayer,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,mountain,cross,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Livin' On A Prayer,mountain,road,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Crazy,remedies,crazy,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Crazy,remedies,grip,0.5
+There Are Some Remedies Worse Than The Disease,Crazy,remedies,get,0.5833333333333334
+There Are Some Remedies Worse Than The Disease,Crazy,worse,crazy,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Crazy,worse,grip,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Crazy,worse,get,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Crazy,disease,crazy,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Crazy,disease,grip,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Crazy,disease,get,0.17391304347826086
+There Are Some Remedies Worse Than The Disease,Crazy,young,crazy,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Crazy,young,grip,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Crazy,young,get,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Crazy,mountain,crazy,0.375
+There Are Some Remedies Worse Than The Disease,Crazy,mountain,grip,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Crazy,mountain,get,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,You're Crazy,remedies,crazy,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,You're Crazy,remedies,r,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,You're Crazy,remedies,lies,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You're Crazy,remedies,g,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,You're Crazy,remedies,n,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You're Crazy,worse,crazy,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You're Crazy,worse,r,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,You're Crazy,worse,lies,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,You're Crazy,worse,g,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,You're Crazy,worse,n,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,You're Crazy,disease,crazy,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,You're Crazy,disease,r,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You're Crazy,disease,lies,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,You're Crazy,disease,g,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You're Crazy,disease,n,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,You're Crazy,young,crazy,0.631578947368421
+There Are Some Remedies Worse Than The Disease,You're Crazy,young,r,0.125
+There Are Some Remedies Worse Than The Disease,You're Crazy,young,lies,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,You're Crazy,young,g,0.125
+There Are Some Remedies Worse Than The Disease,You're Crazy,young,n,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,You're Crazy,mountain,crazy,0.375
+There Are Some Remedies Worse Than The Disease,You're Crazy,mountain,r,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You're Crazy,mountain,lies,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,You're Crazy,mountain,g,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You're Crazy,mountain,n,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Drain You,remedies,drain,0.6086956521739131
+There Are Some Remedies Worse Than The Disease,Drain You,remedies,drain,0.6086956521739131
+There Are Some Remedies Worse Than The Disease,Drain You,worse,drain,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Drain You,worse,drain,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Drain You,disease,drain,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Drain You,disease,drain,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Drain You,young,drain,0.1
+There Are Some Remedies Worse Than The Disease,Drain You,young,drain,0.1
+There Are Some Remedies Worse Than The Disease,Drain You,mountain,drain,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Drain You,mountain,drain,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,remedies,heart,0.3
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,remedies,break,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,remedies,trial,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,remedies,fire,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,worse,heart,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,worse,break,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,worse,trial,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,worse,fire,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,disease,heart,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,disease,break,0.25
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,disease,trial,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,disease,fire,0.25
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,young,heart,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,young,break,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,young,trial,0.125
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,young,fire,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,mountain,heart,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,mountain,break,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,mountain,trial,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,If He Should Break Your Heart,mountain,fire,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Float On,remedies,float,0.25
+There Are Some Remedies Worse Than The Disease,Float On,remedies,float,0.25
+There Are Some Remedies Worse Than The Disease,Float On,worse,float,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Float On,worse,float,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Float On,disease,float,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Float On,disease,float,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Float On,young,float,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Float On,young,float,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Float On,mountain,float,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Float On,mountain,float,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),remedies,digital,0
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),remedies,rolling,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),remedies,jump,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),worse,digital,0
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),worse,rolling,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),worse,jump,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),disease,digital,0
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),disease,rolling,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),disease,jump,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),disease,back,0.125
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),young,digital,0
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),young,rolling,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),young,jump,0.125
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),young,best,0.125
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),mountain,digital,0
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),mountain,rolling,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),mountain,jump,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),mountain,back,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Angie (1993 Digital Remaster),mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Chasing Cars,remedies,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,remedies,cars,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Chasing Cars,remedies,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,remedies,cars,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Chasing Cars,remedies,toronto,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Chasing Cars,remedies,live,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,worse,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,worse,cars,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Chasing Cars,worse,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,worse,cars,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Chasing Cars,worse,toronto,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Chasing Cars,worse,live,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,disease,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,disease,cars,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Chasing Cars,disease,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,disease,cars,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Chasing Cars,disease,toronto,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Chasing Cars,disease,live,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,young,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,young,cars,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Chasing Cars,young,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,young,cars,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Chasing Cars,young,toronto,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Chasing Cars,young,live,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,mountain,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,mountain,cars,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Chasing Cars,mountain,chasing,0
+There Are Some Remedies Worse Than The Disease,Chasing Cars,mountain,cars,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Chasing Cars,mountain,toronto,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Chasing Cars,mountain,live,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),remedies,lp,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),remedies,wan,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),remedies,na,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),remedies,loved,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),remedies,talon,0.1
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),remedies,mix,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),worse,lp,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),worse,wan,0.125
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),worse,na,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),worse,loved,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),worse,talon,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),worse,mix,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),disease,lp,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),disease,wan,0.1
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),disease,na,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),disease,loved,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),disease,talon,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),disease,mix,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),young,lp,0.4
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),young,wan,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),young,na,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),young,loved,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),young,talon,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),young,mix,0.25
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),mountain,lp,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),mountain,wan,0.375
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),mountain,na,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),mountain,loved,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),mountain,talon,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,I Just Wanna Be Loved (LP Version),mountain,mix,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,In My Arms,remedies,arms,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,In My Arms,remedies,eyes,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,In My Arms,remedies,open,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,In My Arms,worse,arms,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,In My Arms,worse,eyes,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,In My Arms,worse,open,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,In My Arms,disease,arms,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,In My Arms,disease,eyes,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,In My Arms,disease,open,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,In My Arms,young,arms,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,In My Arms,young,eyes,0.125
+There Are Some Remedies Worse Than The Disease,In My Arms,young,open,0.4
+There Are Some Remedies Worse Than The Disease,In My Arms,mountain,arms,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,In My Arms,mountain,eyes,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,In My Arms,mountain,open,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Hands Open,remedies,hands,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,Hands Open,remedies,open,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Hands Open,remedies,eyes,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Hands Open,remedies,open,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Hands Open,worse,hands,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Hands Open,worse,open,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Hands Open,worse,eyes,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Hands Open,worse,open,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Hands Open,disease,hands,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Hands Open,disease,open,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hands Open,disease,eyes,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Hands Open,disease,open,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hands Open,young,hands,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hands Open,young,open,0.4
+There Are Some Remedies Worse Than The Disease,Hands Open,young,eyes,0.125
+There Are Some Remedies Worse Than The Disease,Hands Open,young,open,0.4
+There Are Some Remedies Worse Than The Disease,Hands Open,mountain,hands,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Hands Open,mountain,open,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Hands Open,mountain,eyes,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Hands Open,mountain,open,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,humans,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,motion,0.25
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,picture,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,twister,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,dark,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,side,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,nature,0.25
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),remedies,music,0.25
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,humans,0.4
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,motion,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,picture,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,twister,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,dark,0.5
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,side,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,nature,0.7272727272727273
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),worse,music,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,humans,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,motion,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,picture,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,twister,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,dark,0.5
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,side,0.125
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,nature,0.4
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),disease,music,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,humans,0.6086956521739131
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,motion,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,picture,0.5
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,twister,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,dark,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,side,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,nature,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),young,music,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,humans,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,motion,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,picture,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,twister,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,dark,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,side,0.5
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,nature,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Humans Being (Album Version),mountain,music,0.18181818181818182
+Swimming In The Flood,Adam's Song,swimming,song,0.23529411764705882
+Swimming In The Flood,Adam's Song,swimming,adam,0.11764705882352941
+Swimming In The Flood,Adam's Song,swimming,state,0.1111111111111111
+Swimming In The Flood,Adam's Song,swimming,enema,0.5454545454545454
+Swimming In The Flood,Adam's Song,flood,song,0.14285714285714285
+Swimming In The Flood,Adam's Song,flood,adam,0.2857142857142857
+Swimming In The Flood,Adam's Song,flood,state,0.26666666666666666
+Swimming In The Flood,Adam's Song,flood,enema,0.10526315789473684
+Swimming In The Flood,Adam's Song,manners,song,0.3076923076923077
+Swimming In The Flood,Adam's Song,manners,adam,0.15384615384615385
+Swimming In The Flood,Adam's Song,manners,state,0.14285714285714285
+Swimming In The Flood,Adam's Song,manners,enema,0.2222222222222222
+Swimming In The Flood,Don't Cry (Original),swimming,original,0.11764705882352941
+Swimming In The Flood,Don't Cry (Original),swimming,cry,0.25
+Swimming In The Flood,Don't Cry (Original),swimming,greatest,0
+Swimming In The Flood,Don't Cry (Original),swimming,hits,0.5263157894736842
+Swimming In The Flood,Don't Cry (Original),flood,original,0.2857142857142857
+Swimming In The Flood,Don't Cry (Original),flood,cry,0.15384615384615385
+Swimming In The Flood,Don't Cry (Original),flood,greatest,0
+Swimming In The Flood,Don't Cry (Original),flood,hits,0.125
+Swimming In The Flood,Don't Cry (Original),manners,original,0.15384615384615385
+Swimming In The Flood,Don't Cry (Original),manners,cry,0.3333333333333333
+Swimming In The Flood,Don't Cry (Original),manners,greatest,0
+Swimming In The Flood,Don't Cry (Original),manners,hits,0.26666666666666666
+Swimming In The Flood,Something In The Way,swimming,way,0.26666666666666666
+Swimming In The Flood,Something In The Way,flood,way,0.16666666666666666
+Swimming In The Flood,Something In The Way,manners,way,0.5454545454545454
+Swimming In The Flood,Superman (It's Not Easy),swimming,superman,0.125
+Swimming In The Flood,Superman (It's Not Easy),swimming,easy,0
+Swimming In The Flood,Superman (It's Not Easy),swimming,songs,0.23529411764705882
+Swimming In The Flood,Superman (It's Not Easy),swimming,ii,0.2222222222222222
+Swimming In The Flood,Superman (It's Not Easy),swimming,dawson,0.1
+Swimming In The Flood,Superman (It's Not Easy),swimming,creek,0.125
+Swimming In The Flood,Superman (It's Not Easy),flood,superman,0.3076923076923077
+Swimming In The Flood,Superman (It's Not Easy),flood,easy,0
+Swimming In The Flood,Superman (It's Not Easy),flood,songs,0.14285714285714285
+Swimming In The Flood,Superman (It's Not Easy),flood,ii,0.13333333333333333
+Swimming In The Flood,Superman (It's Not Easy),flood,dawson,0.23529411764705882
+Swimming In The Flood,Superman (It's Not Easy),flood,creek,0.3076923076923077
+Swimming In The Flood,Superman (It's Not Easy),manners,superman,0.16666666666666666
+Swimming In The Flood,Superman (It's Not Easy),manners,easy,0
+Swimming In The Flood,Superman (It's Not Easy),manners,songs,0.3076923076923077
+Swimming In The Flood,Superman (It's Not Easy),manners,ii,0.2857142857142857
+Swimming In The Flood,Superman (It's Not Easy),manners,dawson,0.125
+Swimming In The Flood,Superman (It's Not Easy),manners,creek,0.16666666666666666
+Swimming In The Flood,Beautiful,swimming,beautiful,0
+Swimming In The Flood,Beautiful,swimming,hotel,0.1111111111111111
+Swimming In The Flood,Beautiful,flood,beautiful,0
+Swimming In The Flood,Beautiful,flood,hotel,0.26666666666666666
+Swimming In The Flood,Beautiful,manners,beautiful,0
+Swimming In The Flood,Beautiful,manners,hotel,0.14285714285714285
+Swimming In The Flood,Livin' On A Prayer,swimming,prayer,0.6666666666666666
+Swimming In The Flood,Livin' On A Prayer,swimming,cross,0.11764705882352941
+Swimming In The Flood,Livin' On A Prayer,swimming,road,0.11764705882352941
+Swimming In The Flood,Livin' On A Prayer,flood,prayer,0.13333333333333333
+Swimming In The Flood,Livin' On A Prayer,flood,cross,0.2857142857142857
+Swimming In The Flood,Livin' On A Prayer,flood,road,0.2857142857142857
+Swimming In The Flood,Livin' On A Prayer,manners,prayer,0.2857142857142857
+Swimming In The Flood,Livin' On A Prayer,manners,cross,0.15384615384615385
+Swimming In The Flood,Livin' On A Prayer,manners,road,0.15384615384615385
+Swimming In The Flood,Crazy,swimming,crazy,0.1111111111111111
+Swimming In The Flood,Crazy,swimming,grip,0.631578947368421
+Swimming In The Flood,Crazy,swimming,get,0.43478260869565216
+Swimming In The Flood,Crazy,flood,crazy,0.26666666666666666
+Swimming In The Flood,Crazy,flood,grip,0.125
+Swimming In The Flood,Crazy,flood,get,0.1
+Swimming In The Flood,Crazy,manners,crazy,0.14285714285714285
+Swimming In The Flood,Crazy,manners,grip,0.26666666666666666
+Swimming In The Flood,Crazy,manners,get,0.21052631578947367
+Swimming In The Flood,You're Crazy,swimming,crazy,0.1111111111111111
+Swimming In The Flood,You're Crazy,swimming,r,0.2222222222222222
+Swimming In The Flood,You're Crazy,swimming,lies,0.23529411764705882
+Swimming In The Flood,You're Crazy,swimming,g,0.2222222222222222
+Swimming In The Flood,You're Crazy,swimming,n,0.23529411764705882
+Swimming In The Flood,You're Crazy,flood,crazy,0.26666666666666666
+Swimming In The Flood,You're Crazy,flood,r,0.13333333333333333
+Swimming In The Flood,You're Crazy,flood,lies,0.14285714285714285
+Swimming In The Flood,You're Crazy,flood,g,0.13333333333333333
+Swimming In The Flood,You're Crazy,flood,n,0.3076923076923077
+Swimming In The Flood,You're Crazy,manners,crazy,0.14285714285714285
+Swimming In The Flood,You're Crazy,manners,r,0.2857142857142857
+Swimming In The Flood,You're Crazy,manners,lies,0.3076923076923077
+Swimming In The Flood,You're Crazy,manners,g,0.2857142857142857
+Swimming In The Flood,You're Crazy,manners,n,0.3076923076923077
+Swimming In The Flood,Drain You,swimming,drain,0.45454545454545453
+Swimming In The Flood,Drain You,swimming,drain,0.45454545454545453
+Swimming In The Flood,Drain You,flood,drain,0.10526315789473684
+Swimming In The Flood,Drain You,flood,drain,0.10526315789473684
+Swimming In The Flood,Drain You,manners,drain,0.2222222222222222
+Swimming In The Flood,Drain You,manners,drain,0.2222222222222222
+Swimming In The Flood,If He Should Break Your Heart,swimming,heart,0.3157894736842105
+Swimming In The Flood,If He Should Break Your Heart,swimming,break,0.5
+Swimming In The Flood,If He Should Break Your Heart,swimming,trial,0.6666666666666666
+Swimming In The Flood,If He Should Break Your Heart,swimming,fire,0.5
+Swimming In The Flood,If He Should Break Your Heart,flood,heart,0.125
+Swimming In The Flood,If He Should Break Your Heart,flood,break,0.15384615384615385
+Swimming In The Flood,If He Should Break Your Heart,flood,trial,0.13333333333333333
+Swimming In The Flood,If He Should Break Your Heart,flood,fire,0.15384615384615385
+Swimming In The Flood,If He Should Break Your Heart,manners,heart,0.26666666666666666
+Swimming In The Flood,If He Should Break Your Heart,manners,break,0.3333333333333333
+Swimming In The Flood,If He Should Break Your Heart,manners,trial,0.2857142857142857
+Swimming In The Flood,If He Should Break Your Heart,manners,fire,0.3333333333333333
+Swimming In The Flood,Float On,swimming,float,0.26666666666666666
+Swimming In The Flood,Float On,swimming,float,0.26666666666666666
+Swimming In The Flood,Float On,flood,float,0.16666666666666666
+Swimming In The Flood,Float On,flood,float,0.16666666666666666
+Swimming In The Flood,Float On,manners,float,0.36363636363636365
+Swimming In The Flood,Float On,manners,float,0.36363636363636365
+Swimming In The Flood,Angie (1993 Digital Remaster),swimming,digital,0
+Swimming In The Flood,Angie (1993 Digital Remaster),swimming,rolling,0.47058823529411764
+Swimming In The Flood,Angie (1993 Digital Remaster),swimming,jump,0.4444444444444444
+Swimming In The Flood,Angie (1993 Digital Remaster),swimming,back,0.125
+Swimming In The Flood,Angie (1993 Digital Remaster),swimming,best,0.6666666666666666
+Swimming In The Flood,Angie (1993 Digital Remaster),flood,digital,0
+Swimming In The Flood,Angie (1993 Digital Remaster),flood,rolling,0.14285714285714285
+Swimming In The Flood,Angie (1993 Digital Remaster),flood,jump,0.13333333333333333
+Swimming In The Flood,Angie (1993 Digital Remaster),flood,back,0.3076923076923077
+Swimming In The Flood,Angie (1993 Digital Remaster),flood,best,0.13333333333333333
+Swimming In The Flood,Angie (1993 Digital Remaster),manners,digital,0
+Swimming In The Flood,Angie (1993 Digital Remaster),manners,rolling,0.3076923076923077
+Swimming In The Flood,Angie (1993 Digital Remaster),manners,jump,0.2857142857142857
+Swimming In The Flood,Angie (1993 Digital Remaster),manners,back,0.16666666666666666
+Swimming In The Flood,Angie (1993 Digital Remaster),manners,best,0.2857142857142857
+Swimming In The Flood,Chasing Cars,swimming,chasing,0
+Swimming In The Flood,Chasing Cars,swimming,cars,0.09523809523809523
+Swimming In The Flood,Chasing Cars,swimming,chasing,0
+Swimming In The Flood,Chasing Cars,swimming,cars,0.09523809523809523
+Swimming In The Flood,Chasing Cars,swimming,toronto,0.09523809523809523
+Swimming In The Flood,Chasing Cars,swimming,live,0
+Swimming In The Flood,Chasing Cars,flood,chasing,0
+Swimming In The Flood,Chasing Cars,flood,cars,0.2222222222222222
+Swimming In The Flood,Chasing Cars,flood,chasing,0
+Swimming In The Flood,Chasing Cars,flood,cars,0.2222222222222222
+Swimming In The Flood,Chasing Cars,flood,toronto,0.2222222222222222
+Swimming In The Flood,Chasing Cars,flood,live,0
+Swimming In The Flood,Chasing Cars,manners,chasing,0
+Swimming In The Flood,Chasing Cars,manners,cars,0.11764705882352941
+Swimming In The Flood,Chasing Cars,manners,chasing,0
+Swimming In The Flood,Chasing Cars,manners,cars,0.11764705882352941
+Swimming In The Flood,Chasing Cars,manners,toronto,0.11764705882352941
+Swimming In The Flood,Chasing Cars,manners,live,0
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),swimming,lp,0.09090909090909091
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),swimming,version,0.2222222222222222
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),swimming,wan,0.1
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),swimming,na,0.2222222222222222
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),swimming,loved,0
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),swimming,talon,0.10526315789473684
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),swimming,mix,0.1111111111111111
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),flood,lp,0.21052631578947367
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),flood,version,0.13333333333333333
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),flood,wan,0.23529411764705882
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),flood,na,0.2857142857142857
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),flood,loved,0
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),flood,talon,0.25
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),flood,mix,0.26666666666666666
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),manners,lp,0.1111111111111111
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),manners,version,0.2857142857142857
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),manners,wan,0.125
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),manners,na,0.2857142857142857
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),manners,loved,0
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),manners,talon,0.13333333333333333
+Swimming In The Flood,I Just Wanna Be Loved (LP Version),manners,mix,0.14285714285714285
+Swimming In The Flood,In My Arms,swimming,arms,0.11764705882352941
+Swimming In The Flood,In My Arms,swimming,eyes,0.3333333333333333
+Swimming In The Flood,In My Arms,swimming,open,0.11764705882352941
+Swimming In The Flood,In My Arms,flood,arms,0.2857142857142857
+Swimming In The Flood,In My Arms,flood,eyes,0.13333333333333333
+Swimming In The Flood,In My Arms,flood,open,0.2857142857142857
+Swimming In The Flood,In My Arms,manners,arms,0.15384615384615385
+Swimming In The Flood,In My Arms,manners,eyes,0.2857142857142857
+Swimming In The Flood,In My Arms,manners,open,0.15384615384615385
+Swimming In The Flood,Hands Open,swimming,hands,0.5
+Swimming In The Flood,Hands Open,swimming,open,0.11764705882352941
+Swimming In The Flood,Hands Open,swimming,eyes,0.3333333333333333
+Swimming In The Flood,Hands Open,swimming,open,0.11764705882352941
+Swimming In The Flood,Hands Open,flood,hands,0.125
+Swimming In The Flood,Hands Open,flood,open,0.2857142857142857
+Swimming In The Flood,Hands Open,flood,eyes,0.13333333333333333
+Swimming In The Flood,Hands Open,flood,open,0.2857142857142857
+Swimming In The Flood,Hands Open,manners,hands,0.26666666666666666
+Swimming In The Flood,Hands Open,manners,open,0.15384615384615385
+Swimming In The Flood,Hands Open,manners,eyes,0.2857142857142857
+Swimming In The Flood,Hands Open,manners,open,0.15384615384615385
+Swimming In The Flood,Humans Being (Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,Humans Being (Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Humans Being (Album Version),swimming,humans,0.2857142857142857
+Swimming In The Flood,Humans Being (Album Version),swimming,motion,0.26666666666666666
+Swimming In The Flood,Humans Being (Album Version),swimming,picture,0.1111111111111111
+Swimming In The Flood,Humans Being (Album Version),swimming,twister,0.09523809523809523
+Swimming In The Flood,Humans Being (Album Version),swimming,dark,0.25
+Swimming In The Flood,Humans Being (Album Version),swimming,side,0.125
+Swimming In The Flood,Humans Being (Album Version),swimming,nature,0.26666666666666666
+Swimming In The Flood,Humans Being (Album Version),swimming,music,0.26666666666666666
+Swimming In The Flood,Humans Being (Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,Humans Being (Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,Humans Being (Album Version),flood,humans,0.3076923076923077
+Swimming In The Flood,Humans Being (Album Version),flood,motion,0.16666666666666666
+Swimming In The Flood,Humans Being (Album Version),flood,picture,0.26666666666666666
+Swimming In The Flood,Humans Being (Album Version),flood,twister,0.5555555555555556
+Swimming In The Flood,Humans Being (Album Version),flood,dark,0.15384615384615385
+Swimming In The Flood,Humans Being (Album Version),flood,side,0.3076923076923077
+Swimming In The Flood,Humans Being (Album Version),flood,nature,0.16666666666666666
+Swimming In The Flood,Humans Being (Album Version),flood,music,0.16666666666666666
+Swimming In The Flood,Humans Being (Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,Humans Being (Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,Humans Being (Album Version),manners,humans,0.4
+Swimming In The Flood,Humans Being (Album Version),manners,motion,0.36363636363636365
+Swimming In The Flood,Humans Being (Album Version),manners,picture,0.14285714285714285
+Swimming In The Flood,Humans Being (Album Version),manners,twister,0.11764705882352941
+Swimming In The Flood,Humans Being (Album Version),manners,dark,0.5
+Swimming In The Flood,Humans Being (Album Version),manners,side,0.16666666666666666
+Swimming In The Flood,Humans Being (Album Version),manners,nature,0.5454545454545454
+Swimming In The Flood,Humans Being (Album Version),manners,music,0.36363636363636365

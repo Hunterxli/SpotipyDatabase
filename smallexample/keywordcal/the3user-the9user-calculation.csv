@@ -1,0 +1,1999 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Rocket In The Sky ,sun,sky,0.26666666666666666
+Sun Hands,Rocket In The Sky ,sun,rocket,0.47058823529411764
+Sun Hands,Rocket In The Sky ,sun,sky,0.26666666666666666
+Sun Hands,Rocket In The Sky ,sun,single,0.10526315789473684
+Sun Hands,Rocket In The Sky ,sun,rocket,0.47058823529411764
+Sun Hands,Rocket In The Sky ,hands,sky,0.125
+Sun Hands,Rocket In The Sky ,hands,rocket,0.1111111111111111
+Sun Hands,Rocket In The Sky ,hands,sky,0.125
+Sun Hands,Rocket In The Sky ,hands,single,0.47619047619047616
+Sun Hands,Rocket In The Sky ,hands,rocket,0.1111111111111111
+Sun Hands,Rocket In The Sky ,gorilla,sky,0.17391304347826086
+Sun Hands,Rocket In The Sky ,gorilla,rocket,0.32
+Sun Hands,Rocket In The Sky ,gorilla,sky,0.17391304347826086
+Sun Hands,Rocket In The Sky ,gorilla,single,0.07407407407407407
+Sun Hands,Rocket In The Sky ,gorilla,rocket,0.32
+Sun Hands,Rocket In The Sky ,manor,sky,0.23529411764705882
+Sun Hands,Rocket In The Sky ,manor,rocket,0.5263157894736842
+Sun Hands,Rocket In The Sky ,manor,sky,0.23529411764705882
+Sun Hands,Rocket In The Sky ,manor,single,0.09523809523809523
+Sun Hands,Rocket In The Sky ,manor,rocket,0.5263157894736842
+Sun Hands,Lola's Theme (Main Mix),sun,main,0.3076923076923077
+Sun Hands,Lola's Theme (Main Mix),sun,mix,0.25
+Sun Hands,Lola's Theme (Main Mix),sun,theme,0.15384615384615385
+Sun Hands,Lola's Theme (Main Mix),sun,theme,0.15384615384615385
+Sun Hands,Lola's Theme (Main Mix),hands,main,0.14285714285714285
+Sun Hands,Lola's Theme (Main Mix),hands,mix,0.11764705882352941
+Sun Hands,Lola's Theme (Main Mix),hands,theme,0.2857142857142857
+Sun Hands,Lola's Theme (Main Mix),hands,theme,0.2857142857142857
+Sun Hands,Lola's Theme (Main Mix),gorilla,main,0.19047619047619047
+Sun Hands,Lola's Theme (Main Mix),gorilla,mix,0.16666666666666666
+Sun Hands,Lola's Theme (Main Mix),gorilla,theme,0.09523809523809523
+Sun Hands,Lola's Theme (Main Mix),gorilla,theme,0.09523809523809523
+Sun Hands,Lola's Theme (Main Mix),manor,main,0.26666666666666666
+Sun Hands,Lola's Theme (Main Mix),manor,mix,0.2222222222222222
+Sun Hands,Lola's Theme (Main Mix),manor,theme,0.13333333333333333
+Sun Hands,Lola's Theme (Main Mix),manor,theme,0.13333333333333333
+Sun Hands,Loneliness,sun,loneliness,0.13333333333333333
+Sun Hands,Loneliness,sun,trance,0.13333333333333333
+Sun Hands,Loneliness,sun,anthems,0.125
+Sun Hands,Loneliness,sun,euphoria,0.11764705882352941
+Sun Hands,Loneliness,sun,decade,0.14285714285714285
+Sun Hands,Loneliness,hands,loneliness,0.25
+Sun Hands,Loneliness,hands,trance,0.25
+Sun Hands,Loneliness,hands,anthems,0.23529411764705882
+Sun Hands,Loneliness,hands,euphoria,0.2222222222222222
+Sun Hands,Loneliness,hands,decade,0.26666666666666666
+Sun Hands,Loneliness,gorilla,loneliness,0.08695652173913043
+Sun Hands,Loneliness,gorilla,trance,0.08695652173913043
+Sun Hands,Loneliness,gorilla,anthems,0.08333333333333333
+Sun Hands,Loneliness,gorilla,euphoria,0.08
+Sun Hands,Loneliness,gorilla,decade,0.09090909090909091
+Sun Hands,Loneliness,manor,loneliness,0.11764705882352941
+Sun Hands,Loneliness,manor,trance,0.11764705882352941
+Sun Hands,Loneliness,manor,anthems,0.1111111111111111
+Sun Hands,Loneliness,manor,euphoria,0.10526315789473684
+Sun Hands,Loneliness,manor,decade,0.125
+Sun Hands,Need To Feel Loved,sun,feel,0.11764705882352941
+Sun Hands,Need To Feel Loved,sun,loved,0
+Sun Hands,Need To Feel Loved,sun,need,0.14285714285714285
+Sun Hands,Need To Feel Loved,sun,pure,0
+Sun Hands,Need To Feel Loved,sun,trance,0.13333333333333333
+Sun Hands,Need To Feel Loved,sun,anthems,0.125
+Sun Hands,Need To Feel Loved,hands,feel,0.3333333333333333
+Sun Hands,Need To Feel Loved,hands,loved,0
+Sun Hands,Need To Feel Loved,hands,need,0.26666666666666666
+Sun Hands,Need To Feel Loved,hands,pure,0
+Sun Hands,Need To Feel Loved,hands,trance,0.25
+Sun Hands,Need To Feel Loved,hands,anthems,0.23529411764705882
+Sun Hands,Need To Feel Loved,gorilla,feel,0.08
+Sun Hands,Need To Feel Loved,gorilla,loved,0
+Sun Hands,Need To Feel Loved,gorilla,need,0.09090909090909091
+Sun Hands,Need To Feel Loved,gorilla,pure,0
+Sun Hands,Need To Feel Loved,gorilla,trance,0.08695652173913043
+Sun Hands,Need To Feel Loved,gorilla,anthems,0.08333333333333333
+Sun Hands,Need To Feel Loved,manor,feel,0.10526315789473684
+Sun Hands,Need To Feel Loved,manor,loved,0
+Sun Hands,Need To Feel Loved,manor,need,0.125
+Sun Hands,Need To Feel Loved,manor,pure,0
+Sun Hands,Need To Feel Loved,manor,trance,0.11764705882352941
+Sun Hands,Need To Feel Loved,manor,anthems,0.1111111111111111
+Sun Hands,Tell Me Why,sun,tell,0.4444444444444444
+Sun Hands,Tell Me Why,sun,data,0.15384615384615385
+Sun Hands,Tell Me Why,sun,records,0.14285714285714285
+Sun Hands,Tell Me Why,sun,best,0.125
+Sun Hands,Tell Me Why,hands,tell,0.125
+Sun Hands,Tell Me Why,hands,data,0.2857142857142857
+Sun Hands,Tell Me Why,hands,records,0.26666666666666666
+Sun Hands,Tell Me Why,hands,best,0.5555555555555556
+Sun Hands,Tell Me Why,gorilla,tell,0.46153846153846156
+Sun Hands,Tell Me Why,gorilla,data,0.09523809523809523
+Sun Hands,Tell Me Why,gorilla,records,0.09090909090909091
+Sun Hands,Tell Me Why,gorilla,best,0.08333333333333333
+Sun Hands,Tell Me Why,manor,tell,0.4
+Sun Hands,Tell Me Why,manor,data,0.13333333333333333
+Sun Hands,Tell Me Why,manor,records,0.125
+Sun Hands,Tell Me Why,manor,best,0.1111111111111111
+Sun Hands,Easy Love,sun,easy,0
+Sun Hands,Easy Love,sun,love,0.13333333333333333
+Sun Hands,Easy Love,sun,looks,0.13333333333333333
+Sun Hands,Easy Love,hands,easy,0
+Sun Hands,Easy Love,hands,love,0.25
+Sun Hands,Easy Love,hands,looks,0.25
+Sun Hands,Easy Love,gorilla,easy,0
+Sun Hands,Easy Love,gorilla,love,0.08695652173913043
+Sun Hands,Easy Love,gorilla,looks,0.08695652173913043
+Sun Hands,Easy Love,manor,easy,0
+Sun Hands,Easy Love,manor,love,0.11764705882352941
+Sun Hands,Easy Love,manor,looks,0.11764705882352941
+Sun Hands,Bulletproof,sun,bulletproof,0
+Sun Hands,Bulletproof,sun,bulletproof,0
+Sun Hands,Bulletproof,hands,bulletproof,0
+Sun Hands,Bulletproof,hands,bulletproof,0
+Sun Hands,Bulletproof,gorilla,bulletproof,0
+Sun Hands,Bulletproof,gorilla,bulletproof,0
+Sun Hands,Bulletproof,manor,bulletproof,0
+Sun Hands,Bulletproof,manor,bulletproof,0
+Sun Hands,Better Day,sun,better,0.14285714285714285
+Sun Hands,Better Day,sun,day,0.15384615384615385
+Sun Hands,Better Day,sun,gu,0.42857142857142855
+Sun Hands,Better Day,sun,mixed,0
+Sun Hands,Better Day,hands,better,0.26666666666666666
+Sun Hands,Better Day,hands,day,0.2857142857142857
+Sun Hands,Better Day,hands,gu,0.13333333333333333
+Sun Hands,Better Day,hands,mixed,0
+Sun Hands,Better Day,gorilla,better,0.09090909090909091
+Sun Hands,Better Day,gorilla,day,0.09523809523809523
+Sun Hands,Better Day,gorilla,gu,0.2727272727272727
+Sun Hands,Better Day,gorilla,mixed,0
+Sun Hands,Better Day,manor,better,0.125
+Sun Hands,Better Day,manor,day,0.13333333333333333
+Sun Hands,Better Day,manor,gu,0.375
+Sun Hands,Better Day,manor,mixed,0
+Sun Hands,Brazil,sun,brazil,0.3333333333333333
+Sun Hands,Brazil,sun,random,0
+Sun Hands,Brazil,sun,album,0.5
+Sun Hands,Brazil,sun,title,0.1111111111111111
+Sun Hands,Brazil,hands,brazil,0.10526315789473684
+Sun Hands,Brazil,hands,random,0
+Sun Hands,Brazil,hands,album,0.11764705882352941
+Sun Hands,Brazil,hands,title,0.21052631578947367
+Sun Hands,Brazil,gorilla,brazil,0.23076923076923078
+Sun Hands,Brazil,gorilla,random,0
+Sun Hands,Brazil,gorilla,album,0.3333333333333333
+Sun Hands,Brazil,gorilla,title,0.07692307692307693
+Sun Hands,Brazil,manor,brazil,0.3
+Sun Hands,Brazil,manor,random,0
+Sun Hands,Brazil,manor,album,0.5555555555555556
+Sun Hands,Brazil,manor,title,0.1
+Sun Hands,That's My Name (Album Version),sun,album,0.5
+Sun Hands,That's My Name (Album Version),sun,version,0.125
+Sun Hands,That's My Name (Album Version),sun,name,0.14285714285714285
+Sun Hands,That's My Name (Album Version),sun,name,0.14285714285714285
+Sun Hands,That's My Name (Album Version),hands,album,0.11764705882352941
+Sun Hands,That's My Name (Album Version),hands,version,0.23529411764705882
+Sun Hands,That's My Name (Album Version),hands,name,0.26666666666666666
+Sun Hands,That's My Name (Album Version),hands,name,0.26666666666666666
+Sun Hands,That's My Name (Album Version),gorilla,album,0.3333333333333333
+Sun Hands,That's My Name (Album Version),gorilla,version,0.08333333333333333
+Sun Hands,That's My Name (Album Version),gorilla,name,0.09090909090909091
+Sun Hands,That's My Name (Album Version),gorilla,name,0.09090909090909091
+Sun Hands,That's My Name (Album Version),manor,album,0.5555555555555556
+Sun Hands,That's My Name (Album Version),manor,version,0.1111111111111111
+Sun Hands,That's My Name (Album Version),manor,name,0.125
+Sun Hands,That's My Name (Album Version),manor,name,0.125
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),sun,vocal,0.14285714285714285
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),sun,mix,0.25
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),sun,raining,0
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),sun,hotel,0.5
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),hands,vocal,0.26666666666666666
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),hands,mix,0.11764705882352941
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),hands,raining,0
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),hands,hotel,0.11764705882352941
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),gorilla,vocal,0.09090909090909091
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),gorilla,mix,0.16666666666666666
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),gorilla,raining,0
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),gorilla,hotel,0.3333333333333333
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),manor,vocal,0.125
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),manor,mix,0.2222222222222222
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),manor,raining,0
+Sun Hands,Raining Again (Steve Angello's Vocal Mix),manor,hotel,0.7777777777777778
+Sun Hands,Surround,sun,surround,0.4
+Sun Hands,Surround,sun,american,0.47058823529411764
+Sun Hands,Surround,sun,hi,0.13333333333333333
+Sun Hands,Surround,hands,surround,0.125
+Sun Hands,Surround,hands,american,0.13333333333333333
+Sun Hands,Surround,hands,hi,0.25
+Sun Hands,Surround,gorilla,surround,0.2608695652173913
+Sun Hands,Surround,gorilla,american,0.48
+Sun Hands,Surround,gorilla,hi,0.08695652173913043
+Sun Hands,Surround,manor,surround,0.35294117647058826
+Sun Hands,Surround,manor,american,0.42105263157894735
+Sun Hands,Surround,manor,hi,0.11764705882352941
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),sun,radio,0.4444444444444444
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),sun,edit,0
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),sun,shoulder,0.2857142857142857
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),sun,angel,0.125
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),sun,shoulder,0.2857142857142857
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),sun,angel,0.125
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),hands,radio,0.10526315789473684
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),hands,edit,0
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),hands,shoulder,0.13333333333333333
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),hands,angel,0.35294117647058826
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),hands,shoulder,0.13333333333333333
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),hands,angel,0.35294117647058826
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),gorilla,radio,0.3076923076923077
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),gorilla,edit,0
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),gorilla,shoulder,0.18181818181818182
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),gorilla,angel,0.08333333333333333
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),gorilla,shoulder,0.18181818181818182
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),gorilla,angel,0.08333333333333333
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),manor,radio,0.5
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),manor,edit,0
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),manor,shoulder,0.25
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),manor,angel,0.1111111111111111
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),manor,shoulder,0.25
+Sun Hands,Angel On My Shoulder (EDX Radio Edit),manor,angel,0.1111111111111111
+Camera Talk,Rocket In The Sky ,camera,sky,0.25
+Camera Talk,Rocket In The Sky ,camera,rocket,0.6666666666666666
+Camera Talk,Rocket In The Sky ,camera,sky,0.25
+Camera Talk,Rocket In The Sky ,camera,single,0.1
+Camera Talk,Rocket In The Sky ,camera,rocket,0.6666666666666666
+Camera Talk,Rocket In The Sky ,talk,sky,0.14285714285714285
+Camera Talk,Rocket In The Sky ,talk,rocket,0.125
+Camera Talk,Rocket In The Sky ,talk,sky,0.14285714285714285
+Camera Talk,Rocket In The Sky ,talk,single,0.2222222222222222
+Camera Talk,Rocket In The Sky ,talk,rocket,0.125
+Camera Talk,Rocket In The Sky ,camera,sky,0.25
+Camera Talk,Rocket In The Sky ,camera,rocket,0.6666666666666666
+Camera Talk,Rocket In The Sky ,camera,sky,0.25
+Camera Talk,Rocket In The Sky ,camera,single,0.1
+Camera Talk,Rocket In The Sky ,camera,rocket,0.6666666666666666
+Camera Talk,Rocket In The Sky ,talk,sky,0.14285714285714285
+Camera Talk,Rocket In The Sky ,talk,rocket,0.125
+Camera Talk,Rocket In The Sky ,talk,sky,0.14285714285714285
+Camera Talk,Rocket In The Sky ,talk,single,0.2222222222222222
+Camera Talk,Rocket In The Sky ,talk,rocket,0.125
+Camera Talk,Lola's Theme (Main Mix),camera,main,0.2857142857142857
+Camera Talk,Lola's Theme (Main Mix),camera,mix,0.23529411764705882
+Camera Talk,Lola's Theme (Main Mix),camera,theme,0.14285714285714285
+Camera Talk,Lola's Theme (Main Mix),camera,theme,0.14285714285714285
+Camera Talk,Lola's Theme (Main Mix),talk,main,0.16666666666666666
+Camera Talk,Lola's Theme (Main Mix),talk,mix,0.13333333333333333
+Camera Talk,Lola's Theme (Main Mix),talk,theme,0.5
+Camera Talk,Lola's Theme (Main Mix),talk,theme,0.5
+Camera Talk,Lola's Theme (Main Mix),camera,main,0.2857142857142857
+Camera Talk,Lola's Theme (Main Mix),camera,mix,0.23529411764705882
+Camera Talk,Lola's Theme (Main Mix),camera,theme,0.14285714285714285
+Camera Talk,Lola's Theme (Main Mix),camera,theme,0.14285714285714285
+Camera Talk,Lola's Theme (Main Mix),talk,main,0.16666666666666666
+Camera Talk,Lola's Theme (Main Mix),talk,mix,0.13333333333333333
+Camera Talk,Lola's Theme (Main Mix),talk,theme,0.5
+Camera Talk,Lola's Theme (Main Mix),talk,theme,0.5
+Camera Talk,Loneliness,camera,loneliness,0.125
+Camera Talk,Loneliness,camera,trance,0.125
+Camera Talk,Loneliness,camera,anthems,0.11764705882352941
+Camera Talk,Loneliness,camera,euphoria,0.1111111111111111
+Camera Talk,Loneliness,camera,decade,0.13333333333333333
+Camera Talk,Loneliness,talk,loneliness,0.2857142857142857
+Camera Talk,Loneliness,talk,trance,0.2857142857142857
+Camera Talk,Loneliness,talk,anthems,0.5333333333333333
+Camera Talk,Loneliness,talk,euphoria,0.25
+Camera Talk,Loneliness,talk,decade,0.3076923076923077
+Camera Talk,Loneliness,camera,loneliness,0.125
+Camera Talk,Loneliness,camera,trance,0.125
+Camera Talk,Loneliness,camera,anthems,0.11764705882352941
+Camera Talk,Loneliness,camera,euphoria,0.1111111111111111
+Camera Talk,Loneliness,camera,decade,0.13333333333333333
+Camera Talk,Loneliness,talk,loneliness,0.2857142857142857
+Camera Talk,Loneliness,talk,trance,0.2857142857142857
+Camera Talk,Loneliness,talk,anthems,0.5333333333333333
+Camera Talk,Loneliness,talk,euphoria,0.25
+Camera Talk,Loneliness,talk,decade,0.3076923076923077
+Camera Talk,Need To Feel Loved,camera,feel,0.1111111111111111
+Camera Talk,Need To Feel Loved,camera,loved,0
+Camera Talk,Need To Feel Loved,camera,need,0.13333333333333333
+Camera Talk,Need To Feel Loved,camera,pure,0
+Camera Talk,Need To Feel Loved,camera,trance,0.125
+Camera Talk,Need To Feel Loved,camera,anthems,0.11764705882352941
+Camera Talk,Need To Feel Loved,talk,feel,0.25
+Camera Talk,Need To Feel Loved,talk,loved,0
+Camera Talk,Need To Feel Loved,talk,need,0.3076923076923077
+Camera Talk,Need To Feel Loved,talk,pure,0
+Camera Talk,Need To Feel Loved,talk,trance,0.2857142857142857
+Camera Talk,Need To Feel Loved,talk,anthems,0.5333333333333333
+Camera Talk,Need To Feel Loved,camera,feel,0.1111111111111111
+Camera Talk,Need To Feel Loved,camera,loved,0
+Camera Talk,Need To Feel Loved,camera,need,0.13333333333333333
+Camera Talk,Need To Feel Loved,camera,pure,0
+Camera Talk,Need To Feel Loved,camera,trance,0.125
+Camera Talk,Need To Feel Loved,camera,anthems,0.11764705882352941
+Camera Talk,Need To Feel Loved,talk,feel,0.25
+Camera Talk,Need To Feel Loved,talk,loved,0
+Camera Talk,Need To Feel Loved,talk,need,0.3076923076923077
+Camera Talk,Need To Feel Loved,talk,pure,0
+Camera Talk,Need To Feel Loved,talk,trance,0.2857142857142857
+Camera Talk,Need To Feel Loved,talk,anthems,0.5333333333333333
+Camera Talk,Tell Me Why,camera,tell,0.42105263157894735
+Camera Talk,Tell Me Why,camera,data,0.14285714285714285
+Camera Talk,Tell Me Why,camera,records,0.13333333333333333
+Camera Talk,Tell Me Why,camera,best,0.11764705882352941
+Camera Talk,Tell Me Why,talk,tell,0.14285714285714285
+Camera Talk,Tell Me Why,talk,data,0.3333333333333333
+Camera Talk,Tell Me Why,talk,records,0.46153846153846156
+Camera Talk,Tell Me Why,talk,best,0.26666666666666666
+Camera Talk,Tell Me Why,camera,tell,0.42105263157894735
+Camera Talk,Tell Me Why,camera,data,0.14285714285714285
+Camera Talk,Tell Me Why,camera,records,0.13333333333333333
+Camera Talk,Tell Me Why,camera,best,0.11764705882352941
+Camera Talk,Tell Me Why,talk,tell,0.14285714285714285
+Camera Talk,Tell Me Why,talk,data,0.3333333333333333
+Camera Talk,Tell Me Why,talk,records,0.46153846153846156
+Camera Talk,Tell Me Why,talk,best,0.26666666666666666
+Camera Talk,Easy Love,camera,easy,0
+Camera Talk,Easy Love,camera,love,0.125
+Camera Talk,Easy Love,camera,looks,0.125
+Camera Talk,Easy Love,talk,easy,0
+Camera Talk,Easy Love,talk,love,0.2857142857142857
+Camera Talk,Easy Love,talk,looks,0.2857142857142857
+Camera Talk,Easy Love,camera,easy,0
+Camera Talk,Easy Love,camera,love,0.125
+Camera Talk,Easy Love,camera,looks,0.125
+Camera Talk,Easy Love,talk,easy,0
+Camera Talk,Easy Love,talk,love,0.2857142857142857
+Camera Talk,Easy Love,talk,looks,0.2857142857142857
+Camera Talk,Bulletproof,camera,bulletproof,0
+Camera Talk,Bulletproof,camera,bulletproof,0
+Camera Talk,Bulletproof,talk,bulletproof,0
+Camera Talk,Bulletproof,talk,bulletproof,0
+Camera Talk,Bulletproof,camera,bulletproof,0
+Camera Talk,Bulletproof,camera,bulletproof,0
+Camera Talk,Bulletproof,talk,bulletproof,0
+Camera Talk,Bulletproof,talk,bulletproof,0
+Camera Talk,Better Day,camera,better,0.13333333333333333
+Camera Talk,Better Day,camera,day,0.14285714285714285
+Camera Talk,Better Day,camera,gu,0.4
+Camera Talk,Better Day,camera,mixed,0
+Camera Talk,Better Day,talk,better,0.3076923076923077
+Camera Talk,Better Day,talk,day,0.3333333333333333
+Camera Talk,Better Day,talk,gu,0.15384615384615385
+Camera Talk,Better Day,talk,mixed,0
+Camera Talk,Better Day,camera,better,0.13333333333333333
+Camera Talk,Better Day,camera,day,0.14285714285714285
+Camera Talk,Better Day,camera,gu,0.4
+Camera Talk,Better Day,camera,mixed,0
+Camera Talk,Better Day,talk,better,0.3076923076923077
+Camera Talk,Better Day,talk,day,0.3333333333333333
+Camera Talk,Better Day,talk,gu,0.15384615384615385
+Camera Talk,Better Day,talk,mixed,0
+Camera Talk,Brazil,camera,brazil,0.3157894736842105
+Camera Talk,Brazil,camera,random,0
+Camera Talk,Brazil,camera,album,0.7058823529411765
+Camera Talk,Brazil,camera,title,0.10526315789473684
+Camera Talk,Brazil,talk,brazil,0.11764705882352941
+Camera Talk,Brazil,talk,random,0
+Camera Talk,Brazil,talk,album,0.13333333333333333
+Camera Talk,Brazil,talk,title,0.35294117647058826
+Camera Talk,Brazil,camera,brazil,0.3157894736842105
+Camera Talk,Brazil,camera,random,0
+Camera Talk,Brazil,camera,album,0.7058823529411765
+Camera Talk,Brazil,camera,title,0.10526315789473684
+Camera Talk,Brazil,talk,brazil,0.11764705882352941
+Camera Talk,Brazil,talk,random,0
+Camera Talk,Brazil,talk,album,0.13333333333333333
+Camera Talk,Brazil,talk,title,0.35294117647058826
+Camera Talk,That's My Name (Album Version),camera,album,0.7058823529411765
+Camera Talk,That's My Name (Album Version),camera,version,0.11764705882352941
+Camera Talk,That's My Name (Album Version),camera,name,0.13333333333333333
+Camera Talk,That's My Name (Album Version),camera,name,0.13333333333333333
+Camera Talk,That's My Name (Album Version),talk,album,0.13333333333333333
+Camera Talk,That's My Name (Album Version),talk,version,0.4
+Camera Talk,That's My Name (Album Version),talk,name,0.3076923076923077
+Camera Talk,That's My Name (Album Version),talk,name,0.3076923076923077
+Camera Talk,That's My Name (Album Version),camera,album,0.7058823529411765
+Camera Talk,That's My Name (Album Version),camera,version,0.11764705882352941
+Camera Talk,That's My Name (Album Version),camera,name,0.13333333333333333
+Camera Talk,That's My Name (Album Version),camera,name,0.13333333333333333
+Camera Talk,That's My Name (Album Version),talk,album,0.13333333333333333
+Camera Talk,That's My Name (Album Version),talk,version,0.4
+Camera Talk,That's My Name (Album Version),talk,name,0.3076923076923077
+Camera Talk,That's My Name (Album Version),talk,name,0.3076923076923077
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),camera,vocal,0.13333333333333333
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),camera,mix,0.23529411764705882
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),camera,raining,0
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),camera,hotel,0.5882352941176471
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),talk,vocal,0.6153846153846154
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),talk,mix,0.13333333333333333
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),talk,raining,0
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),talk,hotel,0.13333333333333333
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),camera,vocal,0.13333333333333333
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),camera,mix,0.23529411764705882
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),camera,raining,0
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),camera,hotel,0.5882352941176471
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),talk,vocal,0.6153846153846154
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),talk,mix,0.13333333333333333
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),talk,raining,0
+Camera Talk,Raining Again (Steve Angello's Vocal Mix),talk,hotel,0.13333333333333333
+Camera Talk,Surround,camera,surround,0.375
+Camera Talk,Surround,camera,american,0.4444444444444444
+Camera Talk,Surround,camera,hi,0.125
+Camera Talk,Surround,talk,surround,0.14285714285714285
+Camera Talk,Surround,talk,american,0.15384615384615385
+Camera Talk,Surround,talk,hi,0.42857142857142855
+Camera Talk,Surround,camera,surround,0.375
+Camera Talk,Surround,camera,american,0.4444444444444444
+Camera Talk,Surround,camera,hi,0.125
+Camera Talk,Surround,talk,surround,0.14285714285714285
+Camera Talk,Surround,talk,american,0.15384615384615385
+Camera Talk,Surround,talk,hi,0.42857142857142855
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,radio,0.631578947368421
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,edit,0
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,shoulder,0.26666666666666666
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,angel,0.11764705882352941
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,shoulder,0.26666666666666666
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,angel,0.11764705882352941
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,radio,0.11764705882352941
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,edit,0
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,shoulder,0.15384615384615385
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,angel,0.26666666666666666
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,shoulder,0.15384615384615385
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,angel,0.26666666666666666
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,radio,0.631578947368421
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,edit,0
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,shoulder,0.26666666666666666
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,angel,0.11764705882352941
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,shoulder,0.26666666666666666
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),camera,angel,0.11764705882352941
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,radio,0.11764705882352941
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,edit,0
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,shoulder,0.15384615384615385
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,angel,0.26666666666666666
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,shoulder,0.15384615384615385
+Camera Talk,Angel On My Shoulder (EDX Radio Edit),talk,angel,0.26666666666666666
+Belle,Rocket In The Sky ,beautiful,sky,0
+Belle,Rocket In The Sky ,beautiful,rocket,0
+Belle,Rocket In The Sky ,beautiful,sky,0
+Belle,Rocket In The Sky ,beautiful,single,0
+Belle,Rocket In The Sky ,beautiful,rocket,0
+Belle,Rocket In The Sky ,dreams,sky,0.125
+Belle,Rocket In The Sky ,dreams,rocket,0.1111111111111111
+Belle,Rocket In The Sky ,dreams,sky,0.125
+Belle,Rocket In The Sky ,dreams,single,0.3
+Belle,Rocket In The Sky ,dreams,rocket,0.1111111111111111
+Belle,Lola's Theme (Main Mix),beautiful,main,0
+Belle,Lola's Theme (Main Mix),beautiful,mix,0
+Belle,Lola's Theme (Main Mix),beautiful,theme,0
+Belle,Lola's Theme (Main Mix),beautiful,theme,0
+Belle,Lola's Theme (Main Mix),dreams,main,0.14285714285714285
+Belle,Lola's Theme (Main Mix),dreams,mix,0.11764705882352941
+Belle,Lola's Theme (Main Mix),dreams,theme,0.2857142857142857
+Belle,Lola's Theme (Main Mix),dreams,theme,0.2857142857142857
+Belle,Loneliness,beautiful,loneliness,0
+Belle,Loneliness,beautiful,trance,0
+Belle,Loneliness,beautiful,anthems,0
+Belle,Loneliness,beautiful,euphoria,0
+Belle,Loneliness,beautiful,decade,0
+Belle,Loneliness,dreams,loneliness,0.25
+Belle,Loneliness,dreams,trance,0.25
+Belle,Loneliness,dreams,anthems,0.23529411764705882
+Belle,Loneliness,dreams,euphoria,0.2222222222222222
+Belle,Loneliness,dreams,decade,0.26666666666666666
+Belle,Need To Feel Loved,beautiful,feel,0
+Belle,Need To Feel Loved,beautiful,loved,0
+Belle,Need To Feel Loved,beautiful,need,0
+Belle,Need To Feel Loved,beautiful,pure,0
+Belle,Need To Feel Loved,beautiful,trance,0
+Belle,Need To Feel Loved,beautiful,anthems,0
+Belle,Need To Feel Loved,dreams,feel,0.5555555555555556
+Belle,Need To Feel Loved,dreams,loved,0
+Belle,Need To Feel Loved,dreams,need,0.26666666666666666
+Belle,Need To Feel Loved,dreams,pure,0
+Belle,Need To Feel Loved,dreams,trance,0.25
+Belle,Need To Feel Loved,dreams,anthems,0.23529411764705882
+Belle,Tell Me Why,beautiful,tell,0
+Belle,Tell Me Why,beautiful,data,0
+Belle,Tell Me Why,beautiful,records,0
+Belle,Tell Me Why,beautiful,best,0
+Belle,Tell Me Why,dreams,tell,0.125
+Belle,Tell Me Why,dreams,data,0.2857142857142857
+Belle,Tell Me Why,dreams,records,0.26666666666666666
+Belle,Tell Me Why,dreams,best,0.35294117647058826
+Belle,Easy Love,beautiful,easy,0
+Belle,Easy Love,beautiful,love,0
+Belle,Easy Love,beautiful,looks,0
+Belle,Easy Love,dreams,easy,0
+Belle,Easy Love,dreams,love,0.25
+Belle,Easy Love,dreams,looks,0.25
+Belle,Bulletproof,beautiful,bulletproof,0
+Belle,Bulletproof,beautiful,bulletproof,0
+Belle,Bulletproof,dreams,bulletproof,0
+Belle,Bulletproof,dreams,bulletproof,0
+Belle,Better Day,beautiful,better,0
+Belle,Better Day,beautiful,day,0
+Belle,Better Day,beautiful,gu,0
+Belle,Better Day,beautiful,mixed,0
+Belle,Better Day,dreams,better,0.26666666666666666
+Belle,Better Day,dreams,day,0.2857142857142857
+Belle,Better Day,dreams,gu,0.13333333333333333
+Belle,Better Day,dreams,mixed,0
+Belle,Brazil,beautiful,brazil,0
+Belle,Brazil,beautiful,random,0
+Belle,Brazil,beautiful,album,0
+Belle,Brazil,beautiful,title,0
+Belle,Brazil,dreams,brazil,0.10526315789473684
+Belle,Brazil,dreams,random,0
+Belle,Brazil,dreams,album,0.11764705882352941
+Belle,Brazil,dreams,title,0.21052631578947367
+Belle,That's My Name (Album Version),beautiful,album,0
+Belle,That's My Name (Album Version),beautiful,version,0
+Belle,That's My Name (Album Version),beautiful,name,0
+Belle,That's My Name (Album Version),beautiful,name,0
+Belle,That's My Name (Album Version),dreams,album,0.11764705882352941
+Belle,That's My Name (Album Version),dreams,version,0.23529411764705882
+Belle,That's My Name (Album Version),dreams,name,0.26666666666666666
+Belle,That's My Name (Album Version),dreams,name,0.26666666666666666
+Belle,Raining Again (Steve Angello's Vocal Mix),beautiful,vocal,0
+Belle,Raining Again (Steve Angello's Vocal Mix),beautiful,mix,0
+Belle,Raining Again (Steve Angello's Vocal Mix),beautiful,raining,0
+Belle,Raining Again (Steve Angello's Vocal Mix),beautiful,hotel,0
+Belle,Raining Again (Steve Angello's Vocal Mix),dreams,vocal,0.26666666666666666
+Belle,Raining Again (Steve Angello's Vocal Mix),dreams,mix,0.11764705882352941
+Belle,Raining Again (Steve Angello's Vocal Mix),dreams,raining,0
+Belle,Raining Again (Steve Angello's Vocal Mix),dreams,hotel,0.11764705882352941
+Belle,Surround,beautiful,surround,0
+Belle,Surround,beautiful,american,0
+Belle,Surround,beautiful,hi,0
+Belle,Surround,dreams,surround,0.125
+Belle,Surround,dreams,american,0.13333333333333333
+Belle,Surround,dreams,hi,0.25
+Belle,Angel On My Shoulder (EDX Radio Edit),beautiful,radio,0
+Belle,Angel On My Shoulder (EDX Radio Edit),beautiful,edit,0
+Belle,Angel On My Shoulder (EDX Radio Edit),beautiful,shoulder,0
+Belle,Angel On My Shoulder (EDX Radio Edit),beautiful,angel,0
+Belle,Angel On My Shoulder (EDX Radio Edit),beautiful,shoulder,0
+Belle,Angel On My Shoulder (EDX Radio Edit),beautiful,angel,0
+Belle,Angel On My Shoulder (EDX Radio Edit),dreams,radio,0.10526315789473684
+Belle,Angel On My Shoulder (EDX Radio Edit),dreams,edit,0
+Belle,Angel On My Shoulder (EDX Radio Edit),dreams,shoulder,0.13333333333333333
+Belle,Angel On My Shoulder (EDX Radio Edit),dreams,angel,0.47058823529411764
+Belle,Angel On My Shoulder (EDX Radio Edit),dreams,shoulder,0.13333333333333333
+Belle,Angel On My Shoulder (EDX Radio Edit),dreams,angel,0.47058823529411764
+Auto Rock,Rocket In The Sky ,auto,sky,0.2222222222222222
+Auto Rock,Rocket In The Sky ,auto,rocket,0.7619047619047619
+Auto Rock,Rocket In The Sky ,auto,sky,0.2222222222222222
+Auto Rock,Rocket In The Sky ,auto,single,0.09090909090909091
+Auto Rock,Rocket In The Sky ,auto,rocket,0.7619047619047619
+Auto Rock,Rocket In The Sky ,rock,sky,0.3076923076923077
+Auto Rock,Rocket In The Sky ,rock,rocket,0.5333333333333333
+Auto Rock,Rocket In The Sky ,rock,sky,0.3076923076923077
+Auto Rock,Rocket In The Sky ,rock,single,0.11764705882352941
+Auto Rock,Rocket In The Sky ,rock,rocket,0.5333333333333333
+Auto Rock,Rocket In The Sky ,mr,sky,0.125
+Auto Rock,Rocket In The Sky ,mr,rocket,0.1111111111111111
+Auto Rock,Rocket In The Sky ,mr,sky,0.125
+Auto Rock,Rocket In The Sky ,mr,single,0.2
+Auto Rock,Rocket In The Sky ,mr,rocket,0.1111111111111111
+Auto Rock,Rocket In The Sky ,beast,sky,0.2857142857142857
+Auto Rock,Rocket In The Sky ,beast,rocket,0.5
+Auto Rock,Rocket In The Sky ,beast,sky,0.2857142857142857
+Auto Rock,Rocket In The Sky ,beast,single,0.1111111111111111
+Auto Rock,Rocket In The Sky ,beast,rocket,0.5
+Auto Rock,Lola's Theme (Main Mix),auto,main,0.25
+Auto Rock,Lola's Theme (Main Mix),auto,mix,0.21052631578947367
+Auto Rock,Lola's Theme (Main Mix),auto,theme,0.125
+Auto Rock,Lola's Theme (Main Mix),auto,theme,0.125
+Auto Rock,Lola's Theme (Main Mix),rock,main,0.36363636363636365
+Auto Rock,Lola's Theme (Main Mix),rock,mix,0.2857142857142857
+Auto Rock,Lola's Theme (Main Mix),rock,theme,0.18181818181818182
+Auto Rock,Lola's Theme (Main Mix),rock,theme,0.18181818181818182
+Auto Rock,Lola's Theme (Main Mix),mr,main,0.14285714285714285
+Auto Rock,Lola's Theme (Main Mix),mr,mix,0.11764705882352941
+Auto Rock,Lola's Theme (Main Mix),mr,theme,0.2857142857142857
+Auto Rock,Lola's Theme (Main Mix),mr,theme,0.2857142857142857
+Auto Rock,Lola's Theme (Main Mix),beast,main,0.3333333333333333
+Auto Rock,Lola's Theme (Main Mix),beast,mix,0.26666666666666666
+Auto Rock,Lola's Theme (Main Mix),beast,theme,0.16666666666666666
+Auto Rock,Lola's Theme (Main Mix),beast,theme,0.16666666666666666
+Auto Rock,Loneliness,auto,loneliness,0.1111111111111111
+Auto Rock,Loneliness,auto,trance,0.1111111111111111
+Auto Rock,Loneliness,auto,anthems,0.10526315789473684
+Auto Rock,Loneliness,auto,euphoria,0.1
+Auto Rock,Loneliness,auto,decade,0.11764705882352941
+Auto Rock,Loneliness,rock,loneliness,0.15384615384615385
+Auto Rock,Loneliness,rock,trance,0.15384615384615385
+Auto Rock,Loneliness,rock,anthems,0.14285714285714285
+Auto Rock,Loneliness,rock,euphoria,0.13333333333333333
+Auto Rock,Loneliness,rock,decade,0.16666666666666666
+Auto Rock,Loneliness,mr,loneliness,0.25
+Auto Rock,Loneliness,mr,trance,0.25
+Auto Rock,Loneliness,mr,anthems,0.23529411764705882
+Auto Rock,Loneliness,mr,euphoria,0.2222222222222222
+Auto Rock,Loneliness,mr,decade,0.26666666666666666
+Auto Rock,Loneliness,beast,loneliness,0.14285714285714285
+Auto Rock,Loneliness,beast,trance,0.14285714285714285
+Auto Rock,Loneliness,beast,anthems,0.13333333333333333
+Auto Rock,Loneliness,beast,euphoria,0.125
+Auto Rock,Loneliness,beast,decade,0.15384615384615385
+Auto Rock,Need To Feel Loved,auto,feel,0.1
+Auto Rock,Need To Feel Loved,auto,loved,0
+Auto Rock,Need To Feel Loved,auto,need,0.11764705882352941
+Auto Rock,Need To Feel Loved,auto,pure,0
+Auto Rock,Need To Feel Loved,auto,trance,0.1111111111111111
+Auto Rock,Need To Feel Loved,auto,anthems,0.10526315789473684
+Auto Rock,Need To Feel Loved,rock,feel,0.13333333333333333
+Auto Rock,Need To Feel Loved,rock,loved,0
+Auto Rock,Need To Feel Loved,rock,need,0.16666666666666666
+Auto Rock,Need To Feel Loved,rock,pure,0
+Auto Rock,Need To Feel Loved,rock,trance,0.15384615384615385
+Auto Rock,Need To Feel Loved,rock,anthems,0.14285714285714285
+Auto Rock,Need To Feel Loved,mr,feel,0.2222222222222222
+Auto Rock,Need To Feel Loved,mr,loved,0
+Auto Rock,Need To Feel Loved,mr,need,0.26666666666666666
+Auto Rock,Need To Feel Loved,mr,pure,0
+Auto Rock,Need To Feel Loved,mr,trance,0.25
+Auto Rock,Need To Feel Loved,mr,anthems,0.23529411764705882
+Auto Rock,Need To Feel Loved,beast,feel,0.125
+Auto Rock,Need To Feel Loved,beast,loved,0
+Auto Rock,Need To Feel Loved,beast,need,0.15384615384615385
+Auto Rock,Need To Feel Loved,beast,pure,0
+Auto Rock,Need To Feel Loved,beast,trance,0.14285714285714285
+Auto Rock,Need To Feel Loved,beast,anthems,0.13333333333333333
+Auto Rock,Tell Me Why,auto,tell,0.38095238095238093
+Auto Rock,Tell Me Why,auto,data,0.125
+Auto Rock,Tell Me Why,auto,records,0.11764705882352941
+Auto Rock,Tell Me Why,auto,best,0.10526315789473684
+Auto Rock,Tell Me Why,rock,tell,0.5
+Auto Rock,Tell Me Why,rock,data,0.18181818181818182
+Auto Rock,Tell Me Why,rock,records,0.16666666666666666
+Auto Rock,Tell Me Why,rock,best,0.14285714285714285
+Auto Rock,Tell Me Why,mr,tell,0.125
+Auto Rock,Tell Me Why,mr,data,0.2857142857142857
+Auto Rock,Tell Me Why,mr,records,0.26666666666666666
+Auto Rock,Tell Me Why,mr,best,0.23529411764705882
+Auto Rock,Tell Me Why,beast,tell,0.7058823529411765
+Auto Rock,Tell Me Why,beast,data,0.16666666666666666
+Auto Rock,Tell Me Why,beast,records,0.15384615384615385
+Auto Rock,Tell Me Why,beast,best,0.13333333333333333
+Auto Rock,Easy Love,auto,easy,0
+Auto Rock,Easy Love,auto,love,0.1111111111111111
+Auto Rock,Easy Love,auto,looks,0.1111111111111111
+Auto Rock,Easy Love,rock,easy,0
+Auto Rock,Easy Love,rock,love,0.15384615384615385
+Auto Rock,Easy Love,rock,looks,0.15384615384615385
+Auto Rock,Easy Love,mr,easy,0
+Auto Rock,Easy Love,mr,love,0.25
+Auto Rock,Easy Love,mr,looks,0.25
+Auto Rock,Easy Love,beast,easy,0
+Auto Rock,Easy Love,beast,love,0.14285714285714285
+Auto Rock,Easy Love,beast,looks,0.14285714285714285
+Auto Rock,Bulletproof,auto,bulletproof,0
+Auto Rock,Bulletproof,auto,bulletproof,0
+Auto Rock,Bulletproof,rock,bulletproof,0
+Auto Rock,Bulletproof,rock,bulletproof,0
+Auto Rock,Bulletproof,mr,bulletproof,0
+Auto Rock,Bulletproof,mr,bulletproof,0
+Auto Rock,Bulletproof,beast,bulletproof,0
+Auto Rock,Bulletproof,beast,bulletproof,0
+Auto Rock,Better Day,auto,better,0.11764705882352941
+Auto Rock,Better Day,auto,day,0.125
+Auto Rock,Better Day,auto,gu,0.35294117647058826
+Auto Rock,Better Day,auto,mixed,0
+Auto Rock,Better Day,rock,better,0.16666666666666666
+Auto Rock,Better Day,rock,day,0.18181818181818182
+Auto Rock,Better Day,rock,gu,0.5
+Auto Rock,Better Day,rock,mixed,0
+Auto Rock,Better Day,mr,better,0.26666666666666666
+Auto Rock,Better Day,mr,day,0.2857142857142857
+Auto Rock,Better Day,mr,gu,0.13333333333333333
+Auto Rock,Better Day,mr,mixed,0
+Auto Rock,Better Day,beast,better,0.15384615384615385
+Auto Rock,Better Day,beast,day,0.16666666666666666
+Auto Rock,Better Day,beast,gu,0.46153846153846156
+Auto Rock,Better Day,beast,mixed,0
+Auto Rock,Brazil,auto,brazil,0.2857142857142857
+Auto Rock,Brazil,auto,random,0
+Auto Rock,Brazil,auto,album,0.631578947368421
+Auto Rock,Brazil,auto,title,0.09523809523809523
+Auto Rock,Brazil,rock,brazil,0.375
+Auto Rock,Brazil,rock,random,0
+Auto Rock,Brazil,rock,album,0.5714285714285714
+Auto Rock,Brazil,rock,title,0.125
+Auto Rock,Brazil,mr,brazil,0.10526315789473684
+Auto Rock,Brazil,mr,random,0
+Auto Rock,Brazil,mr,album,0.11764705882352941
+Auto Rock,Brazil,mr,title,0.21052631578947367
+Auto Rock,Brazil,beast,brazil,0.35294117647058826
+Auto Rock,Brazil,beast,random,0
+Auto Rock,Brazil,beast,album,0.5333333333333333
+Auto Rock,Brazil,beast,title,0.11764705882352941
+Auto Rock,That's My Name (Album Version),auto,album,0.631578947368421
+Auto Rock,That's My Name (Album Version),auto,version,0.10526315789473684
+Auto Rock,That's My Name (Album Version),auto,name,0.11764705882352941
+Auto Rock,That's My Name (Album Version),auto,name,0.11764705882352941
+Auto Rock,That's My Name (Album Version),rock,album,0.5714285714285714
+Auto Rock,That's My Name (Album Version),rock,version,0.14285714285714285
+Auto Rock,That's My Name (Album Version),rock,name,0.16666666666666666
+Auto Rock,That's My Name (Album Version),rock,name,0.16666666666666666
+Auto Rock,That's My Name (Album Version),mr,album,0.11764705882352941
+Auto Rock,That's My Name (Album Version),mr,version,0.23529411764705882
+Auto Rock,That's My Name (Album Version),mr,name,0.8
+Auto Rock,That's My Name (Album Version),mr,name,0.8
+Auto Rock,That's My Name (Album Version),beast,album,0.5333333333333333
+Auto Rock,That's My Name (Album Version),beast,version,0.13333333333333333
+Auto Rock,That's My Name (Album Version),beast,name,0.15384615384615385
+Auto Rock,That's My Name (Album Version),beast,name,0.15384615384615385
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),auto,vocal,0.11764705882352941
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),auto,mix,0.21052631578947367
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),auto,raining,0
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),auto,hotel,0.5263157894736842
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),rock,vocal,0.16666666666666666
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),rock,mix,0.2857142857142857
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),rock,raining,0
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),rock,hotel,0.5714285714285714
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),mr,vocal,0.26666666666666666
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),mr,mix,0.11764705882352941
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),mr,raining,0
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),mr,hotel,0.11764705882352941
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),beast,vocal,0.15384615384615385
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),beast,mix,0.26666666666666666
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),beast,raining,0
+Auto Rock,Raining Again (Steve Angello's Vocal Mix),beast,hotel,0.5333333333333333
+Auto Rock,Surround,auto,surround,0.3333333333333333
+Auto Rock,Surround,auto,american,0.4
+Auto Rock,Surround,auto,hi,0.1111111111111111
+Auto Rock,Surround,rock,surround,0.46153846153846156
+Auto Rock,Surround,rock,american,0.5333333333333333
+Auto Rock,Surround,rock,hi,0.15384615384615385
+Auto Rock,Surround,mr,surround,0.125
+Auto Rock,Surround,mr,american,0.13333333333333333
+Auto Rock,Surround,mr,hi,0.25
+Auto Rock,Surround,beast,surround,0.42857142857142855
+Auto Rock,Surround,beast,american,0.75
+Auto Rock,Surround,beast,hi,0.14285714285714285
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),auto,radio,0.5714285714285714
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),auto,edit,0
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),auto,shoulder,0.23529411764705882
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),auto,angel,0.10526315789473684
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),auto,shoulder,0.23529411764705882
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),auto,angel,0.10526315789473684
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),rock,radio,0.5
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),rock,edit,0
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),rock,shoulder,0.3333333333333333
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),rock,angel,0.14285714285714285
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),rock,shoulder,0.3333333333333333
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),rock,angel,0.14285714285714285
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),mr,radio,0.10526315789473684
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),mr,edit,0
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),mr,shoulder,0.13333333333333333
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),mr,angel,0.23529411764705882
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),mr,shoulder,0.13333333333333333
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),mr,angel,0.23529411764705882
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),beast,radio,0.47058823529411764
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),beast,edit,0
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),beast,shoulder,0.3076923076923077
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),beast,angel,0.13333333333333333
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),beast,shoulder,0.3076923076923077
+Auto Rock,Angel On My Shoulder (EDX Radio Edit),beast,angel,0.13333333333333333
+Who Knows Who Cares,Rocket In The Sky ,knows,sky,0.13333333333333333
+Who Knows Who Cares,Rocket In The Sky ,knows,rocket,0.11764705882352941
+Who Knows Who Cares,Rocket In The Sky ,knows,sky,0.13333333333333333
+Who Knows Who Cares,Rocket In The Sky ,knows,single,0.3157894736842105
+Who Knows Who Cares,Rocket In The Sky ,knows,rocket,0.11764705882352941
+Who Knows Who Cares,Rocket In The Sky ,cares,sky,0.13333333333333333
+Who Knows Who Cares,Rocket In The Sky ,cares,rocket,0.11764705882352941
+Who Knows Who Cares,Rocket In The Sky ,cares,sky,0.13333333333333333
+Who Knows Who Cares,Rocket In The Sky ,cares,single,0.5263157894736842
+Who Knows Who Cares,Rocket In The Sky ,cares,rocket,0.11764705882352941
+Who Knows Who Cares,Rocket In The Sky ,gorilla,sky,0.17391304347826086
+Who Knows Who Cares,Rocket In The Sky ,gorilla,rocket,0.32
+Who Knows Who Cares,Rocket In The Sky ,gorilla,sky,0.17391304347826086
+Who Knows Who Cares,Rocket In The Sky ,gorilla,single,0.07407407407407407
+Who Knows Who Cares,Rocket In The Sky ,gorilla,rocket,0.32
+Who Knows Who Cares,Rocket In The Sky ,manor,sky,0.23529411764705882
+Who Knows Who Cares,Rocket In The Sky ,manor,rocket,0.5263157894736842
+Who Knows Who Cares,Rocket In The Sky ,manor,sky,0.23529411764705882
+Who Knows Who Cares,Rocket In The Sky ,manor,single,0.09523809523809523
+Who Knows Who Cares,Rocket In The Sky ,manor,rocket,0.5263157894736842
+Who Knows Who Cares,Lola's Theme (Main Mix),knows,main,0.15384615384615385
+Who Knows Who Cares,Lola's Theme (Main Mix),knows,mix,0.125
+Who Knows Who Cares,Lola's Theme (Main Mix),knows,theme,0.3076923076923077
+Who Knows Who Cares,Lola's Theme (Main Mix),knows,theme,0.3076923076923077
+Who Knows Who Cares,Lola's Theme (Main Mix),cares,main,0.15384615384615385
+Who Knows Who Cares,Lola's Theme (Main Mix),cares,mix,0.125
+Who Knows Who Cares,Lola's Theme (Main Mix),cares,theme,0.3076923076923077
+Who Knows Who Cares,Lola's Theme (Main Mix),cares,theme,0.3076923076923077
+Who Knows Who Cares,Lola's Theme (Main Mix),gorilla,main,0.19047619047619047
+Who Knows Who Cares,Lola's Theme (Main Mix),gorilla,mix,0.16666666666666666
+Who Knows Who Cares,Lola's Theme (Main Mix),gorilla,theme,0.09523809523809523
+Who Knows Who Cares,Lola's Theme (Main Mix),gorilla,theme,0.09523809523809523
+Who Knows Who Cares,Lola's Theme (Main Mix),manor,main,0.26666666666666666
+Who Knows Who Cares,Lola's Theme (Main Mix),manor,mix,0.2222222222222222
+Who Knows Who Cares,Lola's Theme (Main Mix),manor,theme,0.13333333333333333
+Who Knows Who Cares,Lola's Theme (Main Mix),manor,theme,0.13333333333333333
+Who Knows Who Cares,Loneliness,knows,loneliness,0.26666666666666666
+Who Knows Who Cares,Loneliness,knows,trance,0.26666666666666666
+Who Knows Who Cares,Loneliness,knows,anthems,0.25
+Who Knows Who Cares,Loneliness,knows,euphoria,0.23529411764705882
+Who Knows Who Cares,Loneliness,knows,decade,0.2857142857142857
+Who Knows Who Cares,Loneliness,cares,loneliness,0.26666666666666666
+Who Knows Who Cares,Loneliness,cares,trance,0.26666666666666666
+Who Knows Who Cares,Loneliness,cares,anthems,0.25
+Who Knows Who Cares,Loneliness,cares,euphoria,0.23529411764705882
+Who Knows Who Cares,Loneliness,cares,decade,0.2857142857142857
+Who Knows Who Cares,Loneliness,gorilla,loneliness,0.08695652173913043
+Who Knows Who Cares,Loneliness,gorilla,trance,0.08695652173913043
+Who Knows Who Cares,Loneliness,gorilla,anthems,0.08333333333333333
+Who Knows Who Cares,Loneliness,gorilla,euphoria,0.08
+Who Knows Who Cares,Loneliness,gorilla,decade,0.09090909090909091
+Who Knows Who Cares,Loneliness,manor,loneliness,0.11764705882352941
+Who Knows Who Cares,Loneliness,manor,trance,0.11764705882352941
+Who Knows Who Cares,Loneliness,manor,anthems,0.1111111111111111
+Who Knows Who Cares,Loneliness,manor,euphoria,0.10526315789473684
+Who Knows Who Cares,Loneliness,manor,decade,0.125
+Who Knows Who Cares,Need To Feel Loved,knows,feel,0.8235294117647058
+Who Knows Who Cares,Need To Feel Loved,knows,loved,0
+Who Knows Who Cares,Need To Feel Loved,knows,need,0.2857142857142857
+Who Knows Who Cares,Need To Feel Loved,knows,pure,0
+Who Knows Who Cares,Need To Feel Loved,knows,trance,0.26666666666666666
+Who Knows Who Cares,Need To Feel Loved,knows,anthems,0.25
+Who Knows Who Cares,Need To Feel Loved,cares,feel,0.35294117647058826
+Who Knows Who Cares,Need To Feel Loved,cares,loved,0
+Who Knows Who Cares,Need To Feel Loved,cares,need,0.2857142857142857
+Who Knows Who Cares,Need To Feel Loved,cares,pure,0
+Who Knows Who Cares,Need To Feel Loved,cares,trance,0.26666666666666666
+Who Knows Who Cares,Need To Feel Loved,cares,anthems,0.25
+Who Knows Who Cares,Need To Feel Loved,gorilla,feel,0.08
+Who Knows Who Cares,Need To Feel Loved,gorilla,loved,0
+Who Knows Who Cares,Need To Feel Loved,gorilla,need,0.09090909090909091
+Who Knows Who Cares,Need To Feel Loved,gorilla,pure,0
+Who Knows Who Cares,Need To Feel Loved,gorilla,trance,0.08695652173913043
+Who Knows Who Cares,Need To Feel Loved,gorilla,anthems,0.08333333333333333
+Who Knows Who Cares,Need To Feel Loved,manor,feel,0.10526315789473684
+Who Knows Who Cares,Need To Feel Loved,manor,loved,0
+Who Knows Who Cares,Need To Feel Loved,manor,need,0.125
+Who Knows Who Cares,Need To Feel Loved,manor,pure,0
+Who Knows Who Cares,Need To Feel Loved,manor,trance,0.11764705882352941
+Who Knows Who Cares,Need To Feel Loved,manor,anthems,0.1111111111111111
+Who Knows Who Cares,Tell Me Why,knows,tell,0.13333333333333333
+Who Knows Who Cares,Tell Me Why,knows,data,0.3076923076923077
+Who Knows Who Cares,Tell Me Why,knows,records,0.2857142857142857
+Who Knows Who Cares,Tell Me Why,knows,best,0.375
+Who Knows Who Cares,Tell Me Why,cares,tell,0.13333333333333333
+Who Knows Who Cares,Tell Me Why,cares,data,0.3076923076923077
+Who Knows Who Cares,Tell Me Why,cares,records,0.2857142857142857
+Who Knows Who Cares,Tell Me Why,cares,best,0.75
+Who Knows Who Cares,Tell Me Why,gorilla,tell,0.46153846153846156
+Who Knows Who Cares,Tell Me Why,gorilla,data,0.09523809523809523
+Who Knows Who Cares,Tell Me Why,gorilla,records,0.09090909090909091
+Who Knows Who Cares,Tell Me Why,gorilla,best,0.08333333333333333
+Who Knows Who Cares,Tell Me Why,manor,tell,0.4
+Who Knows Who Cares,Tell Me Why,manor,data,0.13333333333333333
+Who Knows Who Cares,Tell Me Why,manor,records,0.125
+Who Knows Who Cares,Tell Me Why,manor,best,0.1111111111111111
+Who Knows Who Cares,Easy Love,knows,easy,0
+Who Knows Who Cares,Easy Love,knows,love,0.26666666666666666
+Who Knows Who Cares,Easy Love,knows,looks,0.26666666666666666
+Who Knows Who Cares,Easy Love,cares,easy,0
+Who Knows Who Cares,Easy Love,cares,love,0.26666666666666666
+Who Knows Who Cares,Easy Love,cares,looks,0.26666666666666666
+Who Knows Who Cares,Easy Love,gorilla,easy,0
+Who Knows Who Cares,Easy Love,gorilla,love,0.08695652173913043
+Who Knows Who Cares,Easy Love,gorilla,looks,0.08695652173913043
+Who Knows Who Cares,Easy Love,manor,easy,0
+Who Knows Who Cares,Easy Love,manor,love,0.11764705882352941
+Who Knows Who Cares,Easy Love,manor,looks,0.11764705882352941
+Who Knows Who Cares,Bulletproof,knows,bulletproof,0
+Who Knows Who Cares,Bulletproof,knows,bulletproof,0
+Who Knows Who Cares,Bulletproof,cares,bulletproof,0
+Who Knows Who Cares,Bulletproof,cares,bulletproof,0
+Who Knows Who Cares,Bulletproof,gorilla,bulletproof,0
+Who Knows Who Cares,Bulletproof,gorilla,bulletproof,0
+Who Knows Who Cares,Bulletproof,manor,bulletproof,0
+Who Knows Who Cares,Bulletproof,manor,bulletproof,0
+Who Knows Who Cares,Better Day,knows,better,0.2857142857142857
+Who Knows Who Cares,Better Day,knows,day,0.3076923076923077
+Who Knows Who Cares,Better Day,knows,gu,0.14285714285714285
+Who Knows Who Cares,Better Day,knows,mixed,0
+Who Knows Who Cares,Better Day,cares,better,0.2857142857142857
+Who Knows Who Cares,Better Day,cares,day,0.3076923076923077
+Who Knows Who Cares,Better Day,cares,gu,0.14285714285714285
+Who Knows Who Cares,Better Day,cares,mixed,0
+Who Knows Who Cares,Better Day,gorilla,better,0.09090909090909091
+Who Knows Who Cares,Better Day,gorilla,day,0.09523809523809523
+Who Knows Who Cares,Better Day,gorilla,gu,0.2727272727272727
+Who Knows Who Cares,Better Day,gorilla,mixed,0
+Who Knows Who Cares,Better Day,manor,better,0.125
+Who Knows Who Cares,Better Day,manor,day,0.13333333333333333
+Who Knows Who Cares,Better Day,manor,gu,0.375
+Who Knows Who Cares,Better Day,manor,mixed,0
+Who Knows Who Cares,Brazil,knows,brazil,0.1111111111111111
+Who Knows Who Cares,Brazil,knows,random,0
+Who Knows Who Cares,Brazil,knows,album,0.125
+Who Knows Who Cares,Brazil,knows,title,0.2222222222222222
+Who Knows Who Cares,Brazil,cares,brazil,0.1111111111111111
+Who Knows Who Cares,Brazil,cares,random,0
+Who Knows Who Cares,Brazil,cares,album,0.125
+Who Knows Who Cares,Brazil,cares,title,0.2222222222222222
+Who Knows Who Cares,Brazil,gorilla,brazil,0.23076923076923078
+Who Knows Who Cares,Brazil,gorilla,random,0
+Who Knows Who Cares,Brazil,gorilla,album,0.3333333333333333
+Who Knows Who Cares,Brazil,gorilla,title,0.07692307692307693
+Who Knows Who Cares,Brazil,manor,brazil,0.3
+Who Knows Who Cares,Brazil,manor,random,0
+Who Knows Who Cares,Brazil,manor,album,0.5555555555555556
+Who Knows Who Cares,Brazil,manor,title,0.1
+Who Knows Who Cares,That's My Name (Album Version),knows,album,0.125
+Who Knows Who Cares,That's My Name (Album Version),knows,version,0.25
+Who Knows Who Cares,That's My Name (Album Version),knows,name,0.2857142857142857
+Who Knows Who Cares,That's My Name (Album Version),knows,name,0.2857142857142857
+Who Knows Who Cares,That's My Name (Album Version),cares,album,0.125
+Who Knows Who Cares,That's My Name (Album Version),cares,version,0.25
+Who Knows Who Cares,That's My Name (Album Version),cares,name,0.2857142857142857
+Who Knows Who Cares,That's My Name (Album Version),cares,name,0.2857142857142857
+Who Knows Who Cares,That's My Name (Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,That's My Name (Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,That's My Name (Album Version),gorilla,name,0.09090909090909091
+Who Knows Who Cares,That's My Name (Album Version),gorilla,name,0.09090909090909091
+Who Knows Who Cares,That's My Name (Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,That's My Name (Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,That's My Name (Album Version),manor,name,0.125
+Who Knows Who Cares,That's My Name (Album Version),manor,name,0.125
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),knows,vocal,0.2857142857142857
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),knows,mix,0.125
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),knows,raining,0
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),knows,hotel,0.125
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),cares,vocal,0.2857142857142857
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),cares,mix,0.125
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),cares,raining,0
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),cares,hotel,0.125
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),gorilla,vocal,0.09090909090909091
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),gorilla,mix,0.16666666666666666
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),gorilla,raining,0
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),gorilla,hotel,0.3333333333333333
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),manor,vocal,0.125
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),manor,mix,0.2222222222222222
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),manor,raining,0
+Who Knows Who Cares,Raining Again (Steve Angello's Vocal Mix),manor,hotel,0.7777777777777778
+Who Knows Who Cares,Surround,knows,surround,0.13333333333333333
+Who Knows Who Cares,Surround,knows,american,0.14285714285714285
+Who Knows Who Cares,Surround,knows,hi,0.26666666666666666
+Who Knows Who Cares,Surround,cares,surround,0.13333333333333333
+Who Knows Who Cares,Surround,cares,american,0.14285714285714285
+Who Knows Who Cares,Surround,cares,hi,0.26666666666666666
+Who Knows Who Cares,Surround,gorilla,surround,0.2608695652173913
+Who Knows Who Cares,Surround,gorilla,american,0.48
+Who Knows Who Cares,Surround,gorilla,hi,0.08695652173913043
+Who Knows Who Cares,Surround,manor,surround,0.35294117647058826
+Who Knows Who Cares,Surround,manor,american,0.42105263157894735
+Who Knows Who Cares,Surround,manor,hi,0.11764705882352941
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),knows,radio,0.1111111111111111
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),knows,edit,0
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),knows,shoulder,0.14285714285714285
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),knows,angel,0.5
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),knows,shoulder,0.14285714285714285
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),knows,angel,0.5
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),cares,radio,0.1111111111111111
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),cares,edit,0
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),cares,shoulder,0.14285714285714285
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),cares,angel,0.375
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),cares,shoulder,0.14285714285714285
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),cares,angel,0.375
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),gorilla,radio,0.3076923076923077
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),gorilla,edit,0
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),gorilla,shoulder,0.18181818181818182
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),gorilla,angel,0.08333333333333333
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),gorilla,shoulder,0.18181818181818182
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),gorilla,angel,0.08333333333333333
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),manor,radio,0.5
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),manor,edit,0
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),manor,shoulder,0.25
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),manor,angel,0.1111111111111111
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),manor,shoulder,0.25
+Who Knows Who Cares,Angel On My Shoulder (EDX Radio Edit),manor,angel,0.1111111111111111
+Quiet,Rocket In The Sky ,quiet,sky,0.2222222222222222
+Quiet,Rocket In The Sky ,quiet,rocket,0.2
+Quiet,Rocket In The Sky ,quiet,sky,0.2222222222222222
+Quiet,Rocket In The Sky ,quiet,single,0.09090909090909091
+Quiet,Rocket In The Sky ,quiet,rocket,0.2
+Quiet,Rocket In The Sky ,young,sky,0.26666666666666666
+Quiet,Rocket In The Sky ,young,rocket,0.47058823529411764
+Quiet,Rocket In The Sky ,young,sky,0.26666666666666666
+Quiet,Rocket In The Sky ,young,single,0.10526315789473684
+Quiet,Rocket In The Sky ,young,rocket,0.47058823529411764
+Quiet,Rocket In The Sky ,mountain,sky,0.3076923076923077
+Quiet,Rocket In The Sky ,mountain,rocket,0.4
+Quiet,Rocket In The Sky ,mountain,sky,0.3076923076923077
+Quiet,Rocket In The Sky ,mountain,single,0.11764705882352941
+Quiet,Rocket In The Sky ,mountain,rocket,0.4
+Quiet,Lola's Theme (Main Mix),quiet,main,0.25
+Quiet,Lola's Theme (Main Mix),quiet,mix,0.21052631578947367
+Quiet,Lola's Theme (Main Mix),quiet,theme,0.125
+Quiet,Lola's Theme (Main Mix),quiet,theme,0.125
+Quiet,Lola's Theme (Main Mix),young,main,0.3076923076923077
+Quiet,Lola's Theme (Main Mix),young,mix,0.25
+Quiet,Lola's Theme (Main Mix),young,theme,0.15384615384615385
+Quiet,Lola's Theme (Main Mix),young,theme,0.15384615384615385
+Quiet,Lola's Theme (Main Mix),mountain,main,0.36363636363636365
+Quiet,Lola's Theme (Main Mix),mountain,mix,0.2857142857142857
+Quiet,Lola's Theme (Main Mix),mountain,theme,0.18181818181818182
+Quiet,Lola's Theme (Main Mix),mountain,theme,0.18181818181818182
+Quiet,Loneliness,quiet,loneliness,0.1111111111111111
+Quiet,Loneliness,quiet,trance,0.1111111111111111
+Quiet,Loneliness,quiet,anthems,0.10526315789473684
+Quiet,Loneliness,quiet,euphoria,0.1
+Quiet,Loneliness,quiet,decade,0.11764705882352941
+Quiet,Loneliness,young,loneliness,0.13333333333333333
+Quiet,Loneliness,young,trance,0.13333333333333333
+Quiet,Loneliness,young,anthems,0.125
+Quiet,Loneliness,young,euphoria,0.11764705882352941
+Quiet,Loneliness,young,decade,0.14285714285714285
+Quiet,Loneliness,mountain,loneliness,0.15384615384615385
+Quiet,Loneliness,mountain,trance,0.15384615384615385
+Quiet,Loneliness,mountain,anthems,0.14285714285714285
+Quiet,Loneliness,mountain,euphoria,0.13333333333333333
+Quiet,Loneliness,mountain,decade,0.16666666666666666
+Quiet,Need To Feel Loved,quiet,feel,0.1
+Quiet,Need To Feel Loved,quiet,loved,0
+Quiet,Need To Feel Loved,quiet,need,0.11764705882352941
+Quiet,Need To Feel Loved,quiet,pure,0
+Quiet,Need To Feel Loved,quiet,trance,0.1111111111111111
+Quiet,Need To Feel Loved,quiet,anthems,0.10526315789473684
+Quiet,Need To Feel Loved,young,feel,0.11764705882352941
+Quiet,Need To Feel Loved,young,loved,0
+Quiet,Need To Feel Loved,young,need,0.14285714285714285
+Quiet,Need To Feel Loved,young,pure,0
+Quiet,Need To Feel Loved,young,trance,0.13333333333333333
+Quiet,Need To Feel Loved,young,anthems,0.125
+Quiet,Need To Feel Loved,mountain,feel,0.13333333333333333
+Quiet,Need To Feel Loved,mountain,loved,0
+Quiet,Need To Feel Loved,mountain,need,0.16666666666666666
+Quiet,Need To Feel Loved,mountain,pure,0
+Quiet,Need To Feel Loved,mountain,trance,0.15384615384615385
+Quiet,Need To Feel Loved,mountain,anthems,0.14285714285714285
+Quiet,Tell Me Why,quiet,tell,0.2222222222222222
+Quiet,Tell Me Why,quiet,data,0.125
+Quiet,Tell Me Why,quiet,records,0.11764705882352941
+Quiet,Tell Me Why,quiet,best,0.10526315789473684
+Quiet,Tell Me Why,young,tell,0.6666666666666666
+Quiet,Tell Me Why,young,data,0.15384615384615385
+Quiet,Tell Me Why,young,records,0.14285714285714285
+Quiet,Tell Me Why,young,best,0.125
+Quiet,Tell Me Why,mountain,tell,0.4
+Quiet,Tell Me Why,mountain,data,0.18181818181818182
+Quiet,Tell Me Why,mountain,records,0.16666666666666666
+Quiet,Tell Me Why,mountain,best,0.14285714285714285
+Quiet,Easy Love,quiet,easy,0
+Quiet,Easy Love,quiet,love,0.1111111111111111
+Quiet,Easy Love,quiet,looks,0.1111111111111111
+Quiet,Easy Love,young,easy,0
+Quiet,Easy Love,young,love,0.13333333333333333
+Quiet,Easy Love,young,looks,0.13333333333333333
+Quiet,Easy Love,mountain,easy,0
+Quiet,Easy Love,mountain,love,0.15384615384615385
+Quiet,Easy Love,mountain,looks,0.15384615384615385
+Quiet,Bulletproof,quiet,bulletproof,0
+Quiet,Bulletproof,quiet,bulletproof,0
+Quiet,Bulletproof,young,bulletproof,0
+Quiet,Bulletproof,young,bulletproof,0
+Quiet,Bulletproof,mountain,bulletproof,0
+Quiet,Bulletproof,mountain,bulletproof,0
+Quiet,Better Day,quiet,better,0.11764705882352941
+Quiet,Better Day,quiet,day,0.125
+Quiet,Better Day,quiet,gu,0.23529411764705882
+Quiet,Better Day,quiet,mixed,0
+Quiet,Better Day,young,better,0.14285714285714285
+Quiet,Better Day,young,day,0.15384615384615385
+Quiet,Better Day,young,gu,0.42857142857142855
+Quiet,Better Day,young,mixed,0
+Quiet,Better Day,mountain,better,0.16666666666666666
+Quiet,Better Day,mountain,day,0.18181818181818182
+Quiet,Better Day,mountain,gu,0.5
+Quiet,Better Day,mountain,mixed,0
+Quiet,Brazil,quiet,brazil,0.19047619047619047
+Quiet,Brazil,quiet,random,0
+Quiet,Brazil,quiet,album,0.21052631578947367
+Quiet,Brazil,quiet,title,0.09523809523809523
+Quiet,Brazil,young,brazil,0.3333333333333333
+Quiet,Brazil,young,random,0
+Quiet,Brazil,young,album,0.5
+Quiet,Brazil,young,title,0.1111111111111111
+Quiet,Brazil,mountain,brazil,0.375
+Quiet,Brazil,mountain,random,0
+Quiet,Brazil,mountain,album,0.42857142857142855
+Quiet,Brazil,mountain,title,0.125
+Quiet,That's My Name (Album Version),quiet,album,0.21052631578947367
+Quiet,That's My Name (Album Version),quiet,version,0.10526315789473684
+Quiet,That's My Name (Album Version),quiet,name,0.11764705882352941
+Quiet,That's My Name (Album Version),quiet,name,0.11764705882352941
+Quiet,That's My Name (Album Version),young,album,0.5
+Quiet,That's My Name (Album Version),young,version,0.125
+Quiet,That's My Name (Album Version),young,name,0.14285714285714285
+Quiet,That's My Name (Album Version),young,name,0.14285714285714285
+Quiet,That's My Name (Album Version),mountain,album,0.42857142857142855
+Quiet,That's My Name (Album Version),mountain,version,0.14285714285714285
+Quiet,That's My Name (Album Version),mountain,name,0.16666666666666666
+Quiet,That's My Name (Album Version),mountain,name,0.16666666666666666
+Quiet,Raining Again (Steve Angello's Vocal Mix),quiet,vocal,0.11764705882352941
+Quiet,Raining Again (Steve Angello's Vocal Mix),quiet,mix,0.21052631578947367
+Quiet,Raining Again (Steve Angello's Vocal Mix),quiet,raining,0
+Quiet,Raining Again (Steve Angello's Vocal Mix),quiet,hotel,0.21052631578947367
+Quiet,Raining Again (Steve Angello's Vocal Mix),young,vocal,0.14285714285714285
+Quiet,Raining Again (Steve Angello's Vocal Mix),young,mix,0.25
+Quiet,Raining Again (Steve Angello's Vocal Mix),young,raining,0
+Quiet,Raining Again (Steve Angello's Vocal Mix),young,hotel,0.5
+Quiet,Raining Again (Steve Angello's Vocal Mix),mountain,vocal,0.16666666666666666
+Quiet,Raining Again (Steve Angello's Vocal Mix),mountain,mix,0.2857142857142857
+Quiet,Raining Again (Steve Angello's Vocal Mix),mountain,raining,0
+Quiet,Raining Again (Steve Angello's Vocal Mix),mountain,hotel,0.42857142857142855
+Quiet,Surround,quiet,surround,0.2222222222222222
+Quiet,Surround,quiet,american,0.23529411764705882
+Quiet,Surround,quiet,hi,0.1111111111111111
+Quiet,Surround,young,surround,0.4
+Quiet,Surround,young,american,0.7058823529411765
+Quiet,Surround,young,hi,0.13333333333333333
+Quiet,Surround,mountain,surround,0.46153846153846156
+Quiet,Surround,mountain,american,0.42857142857142855
+Quiet,Surround,mountain,hi,0.15384615384615385
+Quiet,Angel On My Shoulder (EDX Radio Edit),quiet,radio,0.19047619047619047
+Quiet,Angel On My Shoulder (EDX Radio Edit),quiet,edit,0
+Quiet,Angel On My Shoulder (EDX Radio Edit),quiet,shoulder,0.23529411764705882
+Quiet,Angel On My Shoulder (EDX Radio Edit),quiet,angel,0.10526315789473684
+Quiet,Angel On My Shoulder (EDX Radio Edit),quiet,shoulder,0.23529411764705882
+Quiet,Angel On My Shoulder (EDX Radio Edit),quiet,angel,0.10526315789473684
+Quiet,Angel On My Shoulder (EDX Radio Edit),young,radio,0.4444444444444444
+Quiet,Angel On My Shoulder (EDX Radio Edit),young,edit,0
+Quiet,Angel On My Shoulder (EDX Radio Edit),young,shoulder,0.2857142857142857
+Quiet,Angel On My Shoulder (EDX Radio Edit),young,angel,0.125
+Quiet,Angel On My Shoulder (EDX Radio Edit),young,shoulder,0.2857142857142857
+Quiet,Angel On My Shoulder (EDX Radio Edit),young,angel,0.125
+Quiet,Angel On My Shoulder (EDX Radio Edit),mountain,radio,0.375
+Quiet,Angel On My Shoulder (EDX Radio Edit),mountain,edit,0
+Quiet,Angel On My Shoulder (EDX Radio Edit),mountain,shoulder,0.3333333333333333
+Quiet,Angel On My Shoulder (EDX Radio Edit),mountain,angel,0.14285714285714285
+Quiet,Angel On My Shoulder (EDX Radio Edit),mountain,shoulder,0.3333333333333333
+Quiet,Angel On My Shoulder (EDX Radio Edit),mountain,angel,0.14285714285714285
+Girlfriend,Rocket In The Sky ,girlfriend,sky,0.3076923076923077
+Girlfriend,Rocket In The Sky ,girlfriend,rocket,0.4444444444444444
+Girlfriend,Rocket In The Sky ,girlfriend,sky,0.3076923076923077
+Girlfriend,Rocket In The Sky ,girlfriend,single,0.11764705882352941
+Girlfriend,Rocket In The Sky ,girlfriend,rocket,0.4444444444444444
+Girlfriend,Rocket In The Sky ,phoenix,sky,0.2222222222222222
+Girlfriend,Rocket In The Sky ,phoenix,rocket,0.3
+Girlfriend,Rocket In The Sky ,phoenix,sky,0.2222222222222222
+Girlfriend,Rocket In The Sky ,phoenix,single,0.09090909090909091
+Girlfriend,Rocket In The Sky ,phoenix,rocket,0.3
+Girlfriend,Lola's Theme (Main Mix),girlfriend,main,0.36363636363636365
+Girlfriend,Lola's Theme (Main Mix),girlfriend,mix,0.2857142857142857
+Girlfriend,Lola's Theme (Main Mix),girlfriend,theme,0.18181818181818182
+Girlfriend,Lola's Theme (Main Mix),girlfriend,theme,0.18181818181818182
+Girlfriend,Lola's Theme (Main Mix),phoenix,main,0.25
+Girlfriend,Lola's Theme (Main Mix),phoenix,mix,0.21052631578947367
+Girlfriend,Lola's Theme (Main Mix),phoenix,theme,0.125
+Girlfriend,Lola's Theme (Main Mix),phoenix,theme,0.125
+Girlfriend,Loneliness,girlfriend,loneliness,0.15384615384615385
+Girlfriend,Loneliness,girlfriend,trance,0.15384615384615385
+Girlfriend,Loneliness,girlfriend,anthems,0.14285714285714285
+Girlfriend,Loneliness,girlfriend,euphoria,0.13333333333333333
+Girlfriend,Loneliness,girlfriend,decade,0.16666666666666666
+Girlfriend,Loneliness,phoenix,loneliness,0.1111111111111111
+Girlfriend,Loneliness,phoenix,trance,0.1111111111111111
+Girlfriend,Loneliness,phoenix,anthems,0.10526315789473684
+Girlfriend,Loneliness,phoenix,euphoria,0.1
+Girlfriend,Loneliness,phoenix,decade,0.11764705882352941
+Girlfriend,Need To Feel Loved,girlfriend,feel,0.13333333333333333
+Girlfriend,Need To Feel Loved,girlfriend,loved,0
+Girlfriend,Need To Feel Loved,girlfriend,need,0.16666666666666666
+Girlfriend,Need To Feel Loved,girlfriend,pure,0
+Girlfriend,Need To Feel Loved,girlfriend,trance,0.15384615384615385
+Girlfriend,Need To Feel Loved,girlfriend,anthems,0.14285714285714285
+Girlfriend,Need To Feel Loved,phoenix,feel,0.1
+Girlfriend,Need To Feel Loved,phoenix,loved,0
+Girlfriend,Need To Feel Loved,phoenix,need,0.11764705882352941
+Girlfriend,Need To Feel Loved,phoenix,pure,0
+Girlfriend,Need To Feel Loved,phoenix,trance,0.1111111111111111
+Girlfriend,Need To Feel Loved,phoenix,anthems,0.10526315789473684
+Girlfriend,Tell Me Why,girlfriend,tell,0.631578947368421
+Girlfriend,Tell Me Why,girlfriend,data,0.18181818181818182
+Girlfriend,Tell Me Why,girlfriend,records,0.16666666666666666
+Girlfriend,Tell Me Why,girlfriend,best,0.14285714285714285
+Girlfriend,Tell Me Why,phoenix,tell,0.3
+Girlfriend,Tell Me Why,phoenix,data,0.125
+Girlfriend,Tell Me Why,phoenix,records,0.11764705882352941
+Girlfriend,Tell Me Why,phoenix,best,0.10526315789473684
+Girlfriend,Easy Love,girlfriend,easy,0
+Girlfriend,Easy Love,girlfriend,love,0.15384615384615385
+Girlfriend,Easy Love,girlfriend,looks,0.15384615384615385
+Girlfriend,Easy Love,phoenix,easy,0
+Girlfriend,Easy Love,phoenix,love,0.1111111111111111
+Girlfriend,Easy Love,phoenix,looks,0.1111111111111111
+Girlfriend,Bulletproof,girlfriend,bulletproof,0
+Girlfriend,Bulletproof,girlfriend,bulletproof,0
+Girlfriend,Bulletproof,phoenix,bulletproof,0
+Girlfriend,Bulletproof,phoenix,bulletproof,0
+Girlfriend,Better Day,girlfriend,better,0.16666666666666666
+Girlfriend,Better Day,girlfriend,day,0.18181818181818182
+Girlfriend,Better Day,girlfriend,gu,0.42857142857142855
+Girlfriend,Better Day,girlfriend,mixed,0
+Girlfriend,Better Day,phoenix,better,0.11764705882352941
+Girlfriend,Better Day,phoenix,day,0.125
+Girlfriend,Better Day,phoenix,gu,0.35294117647058826
+Girlfriend,Better Day,phoenix,mixed,0
+Girlfriend,Brazil,girlfriend,brazil,0.3333333333333333
+Girlfriend,Brazil,girlfriend,random,0
+Girlfriend,Brazil,girlfriend,album,0.47058823529411764
+Girlfriend,Brazil,girlfriend,title,0.125
+Girlfriend,Brazil,phoenix,brazil,0.6666666666666666
+Girlfriend,Brazil,phoenix,random,0
+Girlfriend,Brazil,phoenix,album,0.3157894736842105
+Girlfriend,Brazil,phoenix,title,0.09523809523809523
+Girlfriend,That's My Name (Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,That's My Name (Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,That's My Name (Album Version),girlfriend,name,0.16666666666666666
+Girlfriend,That's My Name (Album Version),girlfriend,name,0.16666666666666666
+Girlfriend,That's My Name (Album Version),phoenix,album,0.3157894736842105
+Girlfriend,That's My Name (Album Version),phoenix,version,0.10526315789473684
+Girlfriend,That's My Name (Album Version),phoenix,name,0.11764705882352941
+Girlfriend,That's My Name (Album Version),phoenix,name,0.11764705882352941
+Girlfriend,Raining Again (Steve Angello's Vocal Mix),girlfriend,vocal,0.16666666666666666
+Girlfriend,Raining Again (Steve Angello's Vocal Mix),girlfriend,mix,0.2857142857142857
+Girlfriend,Raining Again (Steve Angello's Vocal Mix),girlfriend,raining,0
+Girlfriend,Raining Again (Steve Angello's Vocal Mix),girlfriend,hotel,0.47058823529411764
+Girlfriend,Raining Again (Steve Angello's Vocal Mix),phoenix,vocal,0.11764705882352941
+Girlfriend,Raining Again (Steve Angello's Vocal Mix),phoenix,mix,0.21052631578947367
+Girlfriend,Raining Again (Steve Angello's Vocal Mix),phoenix,raining,0
+Girlfriend,Raining Again (Steve Angello's Vocal Mix),phoenix,hotel,0.3157894736842105
+Girlfriend,Surround,girlfriend,surround,0.4
+Girlfriend,Surround,girlfriend,american,0.6666666666666666
+Girlfriend,Surround,girlfriend,hi,0.15384615384615385
+Girlfriend,Surround,phoenix,surround,0.6666666666666666
+Girlfriend,Surround,phoenix,american,0.3157894736842105
+Girlfriend,Surround,phoenix,hi,0.1111111111111111
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),girlfriend,radio,0.42105263157894735
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),girlfriend,edit,0
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),girlfriend,shoulder,0.3333333333333333
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),girlfriend,angel,0.14285714285714285
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),girlfriend,shoulder,0.3333333333333333
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),girlfriend,angel,0.14285714285714285
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),phoenix,radio,0.2857142857142857
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),phoenix,edit,0
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),phoenix,shoulder,0.23529411764705882
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),phoenix,angel,0.10526315789473684
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),phoenix,shoulder,0.23529411764705882
+Girlfriend,Angel On My Shoulder (EDX Radio Edit),phoenix,angel,0.10526315789473684
+Happiness: We're All In It Together,Rocket In The Sky ,together,sky,0
+Happiness: We're All In It Together,Rocket In The Sky ,together,rocket,0
+Happiness: We're All In It Together,Rocket In The Sky ,together,sky,0
+Happiness: We're All In It Together,Rocket In The Sky ,together,single,0
+Happiness: We're All In It Together,Rocket In The Sky ,together,rocket,0
+Happiness: We're All In It Together,Rocket In The Sky ,happiness,sky,0.13333333333333333
+Happiness: We're All In It Together,Rocket In The Sky ,happiness,rocket,0.11764705882352941
+Happiness: We're All In It Together,Rocket In The Sky ,happiness,sky,0.13333333333333333
+Happiness: We're All In It Together,Rocket In The Sky ,happiness,single,0.21052631578947367
+Happiness: We're All In It Together,Rocket In The Sky ,happiness,rocket,0.11764705882352941
+Happiness: We're All In It Together,Rocket In The Sky ,young,sky,0.26666666666666666
+Happiness: We're All In It Together,Rocket In The Sky ,young,rocket,0.47058823529411764
+Happiness: We're All In It Together,Rocket In The Sky ,young,sky,0.26666666666666666
+Happiness: We're All In It Together,Rocket In The Sky ,young,single,0.10526315789473684
+Happiness: We're All In It Together,Rocket In The Sky ,young,rocket,0.47058823529411764
+Happiness: We're All In It Together,Rocket In The Sky ,mountain,sky,0.3076923076923077
+Happiness: We're All In It Together,Rocket In The Sky ,mountain,rocket,0.4
+Happiness: We're All In It Together,Rocket In The Sky ,mountain,sky,0.3076923076923077
+Happiness: We're All In It Together,Rocket In The Sky ,mountain,single,0.11764705882352941
+Happiness: We're All In It Together,Rocket In The Sky ,mountain,rocket,0.4
+Happiness: We're All In It Together,Lola's Theme (Main Mix),together,main,0
+Happiness: We're All In It Together,Lola's Theme (Main Mix),together,mix,0
+Happiness: We're All In It Together,Lola's Theme (Main Mix),together,theme,0
+Happiness: We're All In It Together,Lola's Theme (Main Mix),together,theme,0
+Happiness: We're All In It Together,Lola's Theme (Main Mix),happiness,main,0.15384615384615385
+Happiness: We're All In It Together,Lola's Theme (Main Mix),happiness,mix,0.125
+Happiness: We're All In It Together,Lola's Theme (Main Mix),happiness,theme,0.3076923076923077
+Happiness: We're All In It Together,Lola's Theme (Main Mix),happiness,theme,0.3076923076923077
+Happiness: We're All In It Together,Lola's Theme (Main Mix),young,main,0.3076923076923077
+Happiness: We're All In It Together,Lola's Theme (Main Mix),young,mix,0.25
+Happiness: We're All In It Together,Lola's Theme (Main Mix),young,theme,0.15384615384615385
+Happiness: We're All In It Together,Lola's Theme (Main Mix),young,theme,0.15384615384615385
+Happiness: We're All In It Together,Lola's Theme (Main Mix),mountain,main,0.36363636363636365
+Happiness: We're All In It Together,Lola's Theme (Main Mix),mountain,mix,0.2857142857142857
+Happiness: We're All In It Together,Lola's Theme (Main Mix),mountain,theme,0.18181818181818182
+Happiness: We're All In It Together,Lola's Theme (Main Mix),mountain,theme,0.18181818181818182
+Happiness: We're All In It Together,Loneliness,together,loneliness,0
+Happiness: We're All In It Together,Loneliness,together,trance,0
+Happiness: We're All In It Together,Loneliness,together,anthems,0
+Happiness: We're All In It Together,Loneliness,together,euphoria,0
+Happiness: We're All In It Together,Loneliness,together,decade,0
+Happiness: We're All In It Together,Loneliness,happiness,loneliness,0.5333333333333333
+Happiness: We're All In It Together,Loneliness,happiness,trance,0.5333333333333333
+Happiness: We're All In It Together,Loneliness,happiness,anthems,0.25
+Happiness: We're All In It Together,Loneliness,happiness,euphoria,0.7058823529411765
+Happiness: We're All In It Together,Loneliness,happiness,decade,0.2857142857142857
+Happiness: We're All In It Together,Loneliness,young,loneliness,0.13333333333333333
+Happiness: We're All In It Together,Loneliness,young,trance,0.13333333333333333
+Happiness: We're All In It Together,Loneliness,young,anthems,0.125
+Happiness: We're All In It Together,Loneliness,young,euphoria,0.11764705882352941
+Happiness: We're All In It Together,Loneliness,young,decade,0.14285714285714285
+Happiness: We're All In It Together,Loneliness,mountain,loneliness,0.15384615384615385
+Happiness: We're All In It Together,Loneliness,mountain,trance,0.15384615384615385
+Happiness: We're All In It Together,Loneliness,mountain,anthems,0.14285714285714285
+Happiness: We're All In It Together,Loneliness,mountain,euphoria,0.13333333333333333
+Happiness: We're All In It Together,Loneliness,mountain,decade,0.16666666666666666
+Happiness: We're All In It Together,Need To Feel Loved,together,feel,0
+Happiness: We're All In It Together,Need To Feel Loved,together,loved,0
+Happiness: We're All In It Together,Need To Feel Loved,together,need,0
+Happiness: We're All In It Together,Need To Feel Loved,together,pure,0
+Happiness: We're All In It Together,Need To Feel Loved,together,trance,0
+Happiness: We're All In It Together,Need To Feel Loved,together,anthems,0
+Happiness: We're All In It Together,Need To Feel Loved,happiness,feel,0.23529411764705882
+Happiness: We're All In It Together,Need To Feel Loved,happiness,loved,0
+Happiness: We're All In It Together,Need To Feel Loved,happiness,need,0.5714285714285714
+Happiness: We're All In It Together,Need To Feel Loved,happiness,pure,0
+Happiness: We're All In It Together,Need To Feel Loved,happiness,trance,0.5333333333333333
+Happiness: We're All In It Together,Need To Feel Loved,happiness,anthems,0.25
+Happiness: We're All In It Together,Need To Feel Loved,young,feel,0.11764705882352941
+Happiness: We're All In It Together,Need To Feel Loved,young,loved,0
+Happiness: We're All In It Together,Need To Feel Loved,young,need,0.14285714285714285
+Happiness: We're All In It Together,Need To Feel Loved,young,pure,0
+Happiness: We're All In It Together,Need To Feel Loved,young,trance,0.13333333333333333
+Happiness: We're All In It Together,Need To Feel Loved,young,anthems,0.125
+Happiness: We're All In It Together,Need To Feel Loved,mountain,feel,0.13333333333333333
+Happiness: We're All In It Together,Need To Feel Loved,mountain,loved,0
+Happiness: We're All In It Together,Need To Feel Loved,mountain,need,0.16666666666666666
+Happiness: We're All In It Together,Need To Feel Loved,mountain,pure,0
+Happiness: We're All In It Together,Need To Feel Loved,mountain,trance,0.15384615384615385
+Happiness: We're All In It Together,Need To Feel Loved,mountain,anthems,0.14285714285714285
+Happiness: We're All In It Together,Tell Me Why,together,tell,0
+Happiness: We're All In It Together,Tell Me Why,together,data,0
+Happiness: We're All In It Together,Tell Me Why,together,records,0
+Happiness: We're All In It Together,Tell Me Why,together,best,0
+Happiness: We're All In It Together,Tell Me Why,happiness,tell,0.13333333333333333
+Happiness: We're All In It Together,Tell Me Why,happiness,data,0.3076923076923077
+Happiness: We're All In It Together,Tell Me Why,happiness,records,0.2857142857142857
+Happiness: We're All In It Together,Tell Me Why,happiness,best,0.25
+Happiness: We're All In It Together,Tell Me Why,young,tell,0.6666666666666666
+Happiness: We're All In It Together,Tell Me Why,young,data,0.15384615384615385
+Happiness: We're All In It Together,Tell Me Why,young,records,0.14285714285714285
+Happiness: We're All In It Together,Tell Me Why,young,best,0.125
+Happiness: We're All In It Together,Tell Me Why,mountain,tell,0.4
+Happiness: We're All In It Together,Tell Me Why,mountain,data,0.18181818181818182
+Happiness: We're All In It Together,Tell Me Why,mountain,records,0.16666666666666666
+Happiness: We're All In It Together,Tell Me Why,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Easy Love,together,easy,0
+Happiness: We're All In It Together,Easy Love,together,love,0
+Happiness: We're All In It Together,Easy Love,together,looks,0
+Happiness: We're All In It Together,Easy Love,happiness,easy,0
+Happiness: We're All In It Together,Easy Love,happiness,love,0.8
+Happiness: We're All In It Together,Easy Love,happiness,looks,0.4
+Happiness: We're All In It Together,Easy Love,young,easy,0
+Happiness: We're All In It Together,Easy Love,young,love,0.13333333333333333
+Happiness: We're All In It Together,Easy Love,young,looks,0.13333333333333333
+Happiness: We're All In It Together,Easy Love,mountain,easy,0
+Happiness: We're All In It Together,Easy Love,mountain,love,0.15384615384615385
+Happiness: We're All In It Together,Easy Love,mountain,looks,0.15384615384615385
+Happiness: We're All In It Together,Bulletproof,together,bulletproof,0
+Happiness: We're All In It Together,Bulletproof,together,bulletproof,0
+Happiness: We're All In It Together,Bulletproof,happiness,bulletproof,0
+Happiness: We're All In It Together,Bulletproof,happiness,bulletproof,0
+Happiness: We're All In It Together,Bulletproof,young,bulletproof,0
+Happiness: We're All In It Together,Bulletproof,young,bulletproof,0
+Happiness: We're All In It Together,Bulletproof,mountain,bulletproof,0
+Happiness: We're All In It Together,Bulletproof,mountain,bulletproof,0
+Happiness: We're All In It Together,Better Day,together,better,0
+Happiness: We're All In It Together,Better Day,together,day,0
+Happiness: We're All In It Together,Better Day,together,gu,0
+Happiness: We're All In It Together,Better Day,together,mixed,0
+Happiness: We're All In It Together,Better Day,happiness,better,0.42857142857142855
+Happiness: We're All In It Together,Better Day,happiness,day,0.3076923076923077
+Happiness: We're All In It Together,Better Day,happiness,gu,0.14285714285714285
+Happiness: We're All In It Together,Better Day,happiness,mixed,0
+Happiness: We're All In It Together,Better Day,young,better,0.14285714285714285
+Happiness: We're All In It Together,Better Day,young,day,0.15384615384615385
+Happiness: We're All In It Together,Better Day,young,gu,0.42857142857142855
+Happiness: We're All In It Together,Better Day,young,mixed,0
+Happiness: We're All In It Together,Better Day,mountain,better,0.16666666666666666
+Happiness: We're All In It Together,Better Day,mountain,day,0.18181818181818182
+Happiness: We're All In It Together,Better Day,mountain,gu,0.5
+Happiness: We're All In It Together,Better Day,mountain,mixed,0
+Happiness: We're All In It Together,Brazil,together,brazil,0
+Happiness: We're All In It Together,Brazil,together,random,0
+Happiness: We're All In It Together,Brazil,together,album,0
+Happiness: We're All In It Together,Brazil,together,title,0
+Happiness: We're All In It Together,Brazil,happiness,brazil,0.1111111111111111
+Happiness: We're All In It Together,Brazil,happiness,random,0
+Happiness: We're All In It Together,Brazil,happiness,album,0.125
+Happiness: We're All In It Together,Brazil,happiness,title,0.2222222222222222
+Happiness: We're All In It Together,Brazil,young,brazil,0.3333333333333333
+Happiness: We're All In It Together,Brazil,young,random,0
+Happiness: We're All In It Together,Brazil,young,album,0.5
+Happiness: We're All In It Together,Brazil,young,title,0.1111111111111111
+Happiness: We're All In It Together,Brazil,mountain,brazil,0.375
+Happiness: We're All In It Together,Brazil,mountain,random,0
+Happiness: We're All In It Together,Brazil,mountain,album,0.42857142857142855
+Happiness: We're All In It Together,Brazil,mountain,title,0.125
+Happiness: We're All In It Together,That's My Name (Album Version),together,album,0
+Happiness: We're All In It Together,That's My Name (Album Version),together,version,0
+Happiness: We're All In It Together,That's My Name (Album Version),together,name,0
+Happiness: We're All In It Together,That's My Name (Album Version),together,name,0
+Happiness: We're All In It Together,That's My Name (Album Version),happiness,album,0.125
+Happiness: We're All In It Together,That's My Name (Album Version),happiness,version,0.25
+Happiness: We're All In It Together,That's My Name (Album Version),happiness,name,0.2857142857142857
+Happiness: We're All In It Together,That's My Name (Album Version),happiness,name,0.2857142857142857
+Happiness: We're All In It Together,That's My Name (Album Version),young,album,0.5
+Happiness: We're All In It Together,That's My Name (Album Version),young,version,0.125
+Happiness: We're All In It Together,That's My Name (Album Version),young,name,0.14285714285714285
+Happiness: We're All In It Together,That's My Name (Album Version),young,name,0.14285714285714285
+Happiness: We're All In It Together,That's My Name (Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,That's My Name (Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,That's My Name (Album Version),mountain,name,0.16666666666666666
+Happiness: We're All In It Together,That's My Name (Album Version),mountain,name,0.16666666666666666
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),together,vocal,0
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),together,mix,0
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),together,raining,0
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),together,hotel,0
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),happiness,vocal,0.2857142857142857
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),happiness,mix,0.125
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),happiness,raining,0
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),happiness,hotel,0.125
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),young,vocal,0.14285714285714285
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),young,mix,0.25
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),young,raining,0
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),young,hotel,0.5
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),mountain,vocal,0.16666666666666666
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),mountain,mix,0.2857142857142857
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),mountain,raining,0
+Happiness: We're All In It Together,Raining Again (Steve Angello's Vocal Mix),mountain,hotel,0.42857142857142855
+Happiness: We're All In It Together,Surround,together,surround,0
+Happiness: We're All In It Together,Surround,together,american,0
+Happiness: We're All In It Together,Surround,together,hi,0
+Happiness: We're All In It Together,Surround,happiness,surround,0.13333333333333333
+Happiness: We're All In It Together,Surround,happiness,american,0.14285714285714285
+Happiness: We're All In It Together,Surround,happiness,hi,0.26666666666666666
+Happiness: We're All In It Together,Surround,young,surround,0.4
+Happiness: We're All In It Together,Surround,young,american,0.7058823529411765
+Happiness: We're All In It Together,Surround,young,hi,0.13333333333333333
+Happiness: We're All In It Together,Surround,mountain,surround,0.46153846153846156
+Happiness: We're All In It Together,Surround,mountain,american,0.42857142857142855
+Happiness: We're All In It Together,Surround,mountain,hi,0.15384615384615385
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),together,radio,0
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),together,edit,0
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),together,shoulder,0
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),together,angel,0
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),together,shoulder,0
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),together,angel,0
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),happiness,radio,0.1111111111111111
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),happiness,edit,0
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),happiness,shoulder,0.14285714285714285
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),happiness,angel,0.25
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),happiness,shoulder,0.14285714285714285
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),happiness,angel,0.25
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),young,radio,0.4444444444444444
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),young,edit,0
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),young,shoulder,0.2857142857142857
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),young,angel,0.125
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),young,shoulder,0.2857142857142857
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),young,angel,0.125
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),mountain,radio,0.375
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),mountain,edit,0
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),mountain,shoulder,0.3333333333333333
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),mountain,angel,0.14285714285714285
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),mountain,shoulder,0.3333333333333333
+Happiness: We're All In It Together,Angel On My Shoulder (EDX Radio Edit),mountain,angel,0.14285714285714285
+Armistice,Rocket In The Sky ,armistice,sky,0.14285714285714285
+Armistice,Rocket In The Sky ,armistice,rocket,0.125
+Armistice,Rocket In The Sky ,armistice,sky,0.14285714285714285
+Armistice,Rocket In The Sky ,armistice,single,0.2222222222222222
+Armistice,Rocket In The Sky ,armistice,rocket,0.125
+Armistice,Rocket In The Sky ,phoenix,sky,0.2222222222222222
+Armistice,Rocket In The Sky ,phoenix,rocket,0.3
+Armistice,Rocket In The Sky ,phoenix,sky,0.2222222222222222
+Armistice,Rocket In The Sky ,phoenix,single,0.09090909090909091
+Armistice,Rocket In The Sky ,phoenix,rocket,0.3
+Armistice,Lola's Theme (Main Mix),armistice,main,0.16666666666666666
+Armistice,Lola's Theme (Main Mix),armistice,mix,0.13333333333333333
+Armistice,Lola's Theme (Main Mix),armistice,theme,0.3333333333333333
+Armistice,Lola's Theme (Main Mix),armistice,theme,0.3333333333333333
+Armistice,Lola's Theme (Main Mix),phoenix,main,0.25
+Armistice,Lola's Theme (Main Mix),phoenix,mix,0.21052631578947367
+Armistice,Lola's Theme (Main Mix),phoenix,theme,0.125
+Armistice,Lola's Theme (Main Mix),phoenix,theme,0.125
+Armistice,Loneliness,armistice,loneliness,0.5714285714285714
+Armistice,Loneliness,armistice,trance,0.5714285714285714
+Armistice,Loneliness,armistice,anthems,0.26666666666666666
+Armistice,Loneliness,armistice,euphoria,0.5
+Armistice,Loneliness,armistice,decade,0.3076923076923077
+Armistice,Loneliness,phoenix,loneliness,0.1111111111111111
+Armistice,Loneliness,phoenix,trance,0.1111111111111111
+Armistice,Loneliness,phoenix,anthems,0.10526315789473684
+Armistice,Loneliness,phoenix,euphoria,0.1
+Armistice,Loneliness,phoenix,decade,0.11764705882352941
+Armistice,Need To Feel Loved,armistice,feel,0.25
+Armistice,Need To Feel Loved,armistice,loved,0
+Armistice,Need To Feel Loved,armistice,need,0.6153846153846154
+Armistice,Need To Feel Loved,armistice,pure,0
+Armistice,Need To Feel Loved,armistice,trance,0.5714285714285714
+Armistice,Need To Feel Loved,armistice,anthems,0.26666666666666666
+Armistice,Need To Feel Loved,phoenix,feel,0.1
+Armistice,Need To Feel Loved,phoenix,loved,0
+Armistice,Need To Feel Loved,phoenix,need,0.11764705882352941
+Armistice,Need To Feel Loved,phoenix,pure,0
+Armistice,Need To Feel Loved,phoenix,trance,0.1111111111111111
+Armistice,Need To Feel Loved,phoenix,anthems,0.10526315789473684
+Armistice,Tell Me Why,armistice,tell,0.14285714285714285
+Armistice,Tell Me Why,armistice,data,0.3333333333333333
+Armistice,Tell Me Why,armistice,records,0.3076923076923077
+Armistice,Tell Me Why,armistice,best,0.26666666666666666
+Armistice,Tell Me Why,phoenix,tell,0.3
+Armistice,Tell Me Why,phoenix,data,0.125
+Armistice,Tell Me Why,phoenix,records,0.11764705882352941
+Armistice,Tell Me Why,phoenix,best,0.10526315789473684
+Armistice,Easy Love,armistice,easy,0
+Armistice,Easy Love,armistice,love,0.5714285714285714
+Armistice,Easy Love,armistice,looks,0.42857142857142855
+Armistice,Easy Love,phoenix,easy,0
+Armistice,Easy Love,phoenix,love,0.1111111111111111
+Armistice,Easy Love,phoenix,looks,0.1111111111111111
+Armistice,Bulletproof,armistice,bulletproof,0
+Armistice,Bulletproof,armistice,bulletproof,0
+Armistice,Bulletproof,phoenix,bulletproof,0
+Armistice,Bulletproof,phoenix,bulletproof,0
+Armistice,Better Day,armistice,better,0.46153846153846156
+Armistice,Better Day,armistice,day,0.3333333333333333
+Armistice,Better Day,armistice,gu,0.15384615384615385
+Armistice,Better Day,armistice,mixed,0
+Armistice,Better Day,phoenix,better,0.11764705882352941
+Armistice,Better Day,phoenix,day,0.125
+Armistice,Better Day,phoenix,gu,0.35294117647058826
+Armistice,Better Day,phoenix,mixed,0
+Armistice,Brazil,armistice,brazil,0.11764705882352941
+Armistice,Brazil,armistice,random,0
+Armistice,Brazil,armistice,album,0.13333333333333333
+Armistice,Brazil,armistice,title,0.23529411764705882
+Armistice,Brazil,phoenix,brazil,0.6666666666666666
+Armistice,Brazil,phoenix,random,0
+Armistice,Brazil,phoenix,album,0.3157894736842105
+Armistice,Brazil,phoenix,title,0.09523809523809523
+Armistice,That's My Name (Album Version),armistice,album,0.13333333333333333
+Armistice,That's My Name (Album Version),armistice,version,0.26666666666666666
+Armistice,That's My Name (Album Version),armistice,name,0.3076923076923077
+Armistice,That's My Name (Album Version),armistice,name,0.3076923076923077
+Armistice,That's My Name (Album Version),phoenix,album,0.3157894736842105
+Armistice,That's My Name (Album Version),phoenix,version,0.10526315789473684
+Armistice,That's My Name (Album Version),phoenix,name,0.11764705882352941
+Armistice,That's My Name (Album Version),phoenix,name,0.11764705882352941
+Armistice,Raining Again (Steve Angello's Vocal Mix),armistice,vocal,0.3076923076923077
+Armistice,Raining Again (Steve Angello's Vocal Mix),armistice,mix,0.13333333333333333
+Armistice,Raining Again (Steve Angello's Vocal Mix),armistice,raining,0
+Armistice,Raining Again (Steve Angello's Vocal Mix),armistice,hotel,0.13333333333333333
+Armistice,Raining Again (Steve Angello's Vocal Mix),phoenix,vocal,0.11764705882352941
+Armistice,Raining Again (Steve Angello's Vocal Mix),phoenix,mix,0.21052631578947367
+Armistice,Raining Again (Steve Angello's Vocal Mix),phoenix,raining,0
+Armistice,Raining Again (Steve Angello's Vocal Mix),phoenix,hotel,0.3157894736842105
+Armistice,Surround,armistice,surround,0.14285714285714285
+Armistice,Surround,armistice,american,0.15384615384615385
+Armistice,Surround,armistice,hi,0.2857142857142857
+Armistice,Surround,phoenix,surround,0.6666666666666666
+Armistice,Surround,phoenix,american,0.3157894736842105
+Armistice,Surround,phoenix,hi,0.1111111111111111
+Armistice,Angel On My Shoulder (EDX Radio Edit),armistice,radio,0.11764705882352941
+Armistice,Angel On My Shoulder (EDX Radio Edit),armistice,edit,0
+Armistice,Angel On My Shoulder (EDX Radio Edit),armistice,shoulder,0.15384615384615385
+Armistice,Angel On My Shoulder (EDX Radio Edit),armistice,angel,0.26666666666666666
+Armistice,Angel On My Shoulder (EDX Radio Edit),armistice,shoulder,0.15384615384615385
+Armistice,Angel On My Shoulder (EDX Radio Edit),armistice,angel,0.26666666666666666
+Armistice,Angel On My Shoulder (EDX Radio Edit),phoenix,radio,0.2857142857142857
+Armistice,Angel On My Shoulder (EDX Radio Edit),phoenix,edit,0
+Armistice,Angel On My Shoulder (EDX Radio Edit),phoenix,shoulder,0.23529411764705882
+Armistice,Angel On My Shoulder (EDX Radio Edit),phoenix,angel,0.10526315789473684
+Armistice,Angel On My Shoulder (EDX Radio Edit),phoenix,shoulder,0.23529411764705882
+Armistice,Angel On My Shoulder (EDX Radio Edit),phoenix,angel,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,remedies,sky,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,remedies,rocket,0.1
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,remedies,sky,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,remedies,single,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,remedies,rocket,0.1
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,worse,sky,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,worse,rocket,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,worse,sky,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,worse,single,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,worse,rocket,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,disease,sky,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,disease,rocket,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,disease,sky,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,disease,single,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,disease,rocket,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,young,sky,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,young,rocket,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,young,sky,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,young,single,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,young,rocket,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,mountain,sky,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,mountain,rocket,0.4
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,mountain,sky,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,mountain,single,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Rocket In The Sky ,mountain,rocket,0.4
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),remedies,main,0.125
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),remedies,mix,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),remedies,theme,0.25
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),remedies,theme,0.25
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),worse,main,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),worse,mix,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),worse,theme,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),worse,theme,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),disease,main,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),disease,mix,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),disease,theme,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),disease,theme,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),young,main,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),young,mix,0.25
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),young,theme,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),young,theme,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),mountain,main,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),mountain,mix,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),mountain,theme,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Lola's Theme (Main Mix),mountain,theme,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Loneliness,remedies,loneliness,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Loneliness,remedies,trance,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Loneliness,remedies,anthems,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Loneliness,remedies,euphoria,0.2
+There Are Some Remedies Worse Than The Disease,Loneliness,remedies,decade,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Loneliness,worse,loneliness,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Loneliness,worse,trance,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Loneliness,worse,anthems,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Loneliness,worse,euphoria,0.4
+There Are Some Remedies Worse Than The Disease,Loneliness,worse,decade,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Loneliness,disease,loneliness,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Loneliness,disease,trance,0.5882352941176471
+There Are Some Remedies Worse Than The Disease,Loneliness,disease,anthems,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Loneliness,disease,euphoria,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Loneliness,disease,decade,0.25
+There Are Some Remedies Worse Than The Disease,Loneliness,young,loneliness,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Loneliness,young,trance,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Loneliness,young,anthems,0.125
+There Are Some Remedies Worse Than The Disease,Loneliness,young,euphoria,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Loneliness,young,decade,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Loneliness,mountain,loneliness,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Loneliness,mountain,trance,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Loneliness,mountain,anthems,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Loneliness,mountain,euphoria,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Loneliness,mountain,decade,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,remedies,feel,0.3
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,remedies,loved,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,remedies,need,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,remedies,pure,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,remedies,trance,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,remedies,anthems,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,worse,feel,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,worse,loved,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,worse,need,0.5
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,worse,pure,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,worse,trance,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,worse,anthems,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,disease,feel,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,disease,loved,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,disease,need,0.625
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,disease,pure,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,disease,trance,0.5882352941176471
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,disease,anthems,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,young,feel,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,young,loved,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,young,need,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,young,pure,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,young,trance,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,young,anthems,0.125
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,mountain,feel,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,mountain,loved,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,mountain,need,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,mountain,pure,0
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,mountain,trance,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Need To Feel Loved,mountain,anthems,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Tell Me Why,remedies,tell,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Tell Me Why,remedies,data,0.25
+There Are Some Remedies Worse Than The Disease,Tell Me Why,remedies,records,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Tell Me Why,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Tell Me Why,worse,tell,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Tell Me Why,worse,data,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Tell Me Why,worse,records,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Tell Me Why,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Tell Me Why,disease,tell,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Tell Me Why,disease,data,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Tell Me Why,disease,records,0.25
+There Are Some Remedies Worse Than The Disease,Tell Me Why,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Tell Me Why,young,tell,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Tell Me Why,young,data,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Tell Me Why,young,records,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Tell Me Why,young,best,0.125
+There Are Some Remedies Worse Than The Disease,Tell Me Why,mountain,tell,0.4
+There Are Some Remedies Worse Than The Disease,Tell Me Why,mountain,data,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Tell Me Why,mountain,records,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Tell Me Why,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Easy Love,remedies,easy,0
+There Are Some Remedies Worse Than The Disease,Easy Love,remedies,love,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Easy Love,remedies,looks,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Easy Love,worse,easy,0
+There Are Some Remedies Worse Than The Disease,Easy Love,worse,love,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Easy Love,worse,looks,0.6153846153846154
+There Are Some Remedies Worse Than The Disease,Easy Love,disease,easy,0
+There Are Some Remedies Worse Than The Disease,Easy Love,disease,love,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Easy Love,disease,looks,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Easy Love,young,easy,0
+There Are Some Remedies Worse Than The Disease,Easy Love,young,love,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Easy Love,young,looks,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Easy Love,mountain,easy,0
+There Are Some Remedies Worse Than The Disease,Easy Love,mountain,love,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Easy Love,mountain,looks,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Bulletproof,remedies,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Bulletproof,remedies,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Bulletproof,worse,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Bulletproof,worse,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Bulletproof,disease,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Bulletproof,disease,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Bulletproof,young,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Bulletproof,young,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Bulletproof,mountain,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Bulletproof,mountain,bulletproof,0
+There Are Some Remedies Worse Than The Disease,Better Day,remedies,better,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Better Day,remedies,day,0.25
+There Are Some Remedies Worse Than The Disease,Better Day,remedies,gu,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Better Day,remedies,mixed,0
+There Are Some Remedies Worse Than The Disease,Better Day,worse,better,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Better Day,worse,day,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Better Day,worse,gu,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Better Day,worse,mixed,0
+There Are Some Remedies Worse Than The Disease,Better Day,disease,better,0.375
+There Are Some Remedies Worse Than The Disease,Better Day,disease,day,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Better Day,disease,gu,0.125
+There Are Some Remedies Worse Than The Disease,Better Day,disease,mixed,0
+There Are Some Remedies Worse Than The Disease,Better Day,young,better,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Better Day,young,day,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Better Day,young,gu,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Better Day,young,mixed,0
+There Are Some Remedies Worse Than The Disease,Better Day,mountain,better,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Better Day,mountain,day,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Better Day,mountain,gu,0.5
+There Are Some Remedies Worse Than The Disease,Better Day,mountain,mixed,0
+There Are Some Remedies Worse Than The Disease,Brazil,remedies,brazil,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Brazil,remedies,random,0
+There Are Some Remedies Worse Than The Disease,Brazil,remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Brazil,remedies,title,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Brazil,worse,brazil,0.125
+There Are Some Remedies Worse Than The Disease,Brazil,worse,random,0
+There Are Some Remedies Worse Than The Disease,Brazil,worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Brazil,worse,title,0.25
+There Are Some Remedies Worse Than The Disease,Brazil,disease,brazil,0.1
+There Are Some Remedies Worse Than The Disease,Brazil,disease,random,0
+There Are Some Remedies Worse Than The Disease,Brazil,disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Brazil,disease,title,0.2
+There Are Some Remedies Worse Than The Disease,Brazil,young,brazil,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Brazil,young,random,0
+There Are Some Remedies Worse Than The Disease,Brazil,young,album,0.5
+There Are Some Remedies Worse Than The Disease,Brazil,young,title,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Brazil,mountain,brazil,0.375
+There Are Some Remedies Worse Than The Disease,Brazil,mountain,random,0
+There Are Some Remedies Worse Than The Disease,Brazil,mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Brazil,mountain,title,0.125
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),remedies,name,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),remedies,name,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),worse,name,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),worse,name,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),disease,name,0.25
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),disease,name,0.25
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),young,name,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),young,name,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),mountain,name,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,That's My Name (Album Version),mountain,name,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),remedies,vocal,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),remedies,mix,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),remedies,raining,0
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),remedies,hotel,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),worse,vocal,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),worse,mix,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),worse,raining,0
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),worse,hotel,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),disease,vocal,0.25
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),disease,mix,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),disease,raining,0
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),disease,hotel,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),young,vocal,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),young,mix,0.25
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),young,raining,0
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),young,hotel,0.5
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),mountain,vocal,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),mountain,mix,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),mountain,raining,0
+There Are Some Remedies Worse Than The Disease,Raining Again (Steve Angello's Vocal Mix),mountain,hotel,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Surround,remedies,surround,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Surround,remedies,american,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Surround,remedies,hi,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Surround,worse,surround,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Surround,worse,american,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Surround,worse,hi,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Surround,disease,surround,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Surround,disease,american,0.125
+There Are Some Remedies Worse Than The Disease,Surround,disease,hi,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Surround,young,surround,0.4
+There Are Some Remedies Worse Than The Disease,Surround,young,american,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Surround,young,hi,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Surround,mountain,surround,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Surround,mountain,american,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Surround,mountain,hi,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),remedies,radio,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),remedies,edit,0
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),remedies,shoulder,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),remedies,angel,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),remedies,shoulder,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),remedies,angel,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),worse,radio,0.125
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),worse,edit,0
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),worse,shoulder,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),worse,angel,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),worse,shoulder,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),worse,angel,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),disease,radio,0.1
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),disease,edit,0
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),disease,shoulder,0.125
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),disease,angel,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),disease,shoulder,0.125
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),disease,angel,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),young,radio,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),young,edit,0
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),young,shoulder,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),young,angel,0.125
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),young,shoulder,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),young,angel,0.125
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),mountain,radio,0.375
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),mountain,edit,0
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),mountain,shoulder,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),mountain,angel,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),mountain,shoulder,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Angel On My Shoulder (EDX Radio Edit),mountain,angel,0.14285714285714285
+Swimming In The Flood,Rocket In The Sky ,swimming,sky,0.11764705882352941
+Swimming In The Flood,Rocket In The Sky ,swimming,rocket,0.10526315789473684
+Swimming In The Flood,Rocket In The Sky ,swimming,sky,0.11764705882352941
+Swimming In The Flood,Rocket In The Sky ,swimming,single,0.47619047619047616
+Swimming In The Flood,Rocket In The Sky ,swimming,rocket,0.10526315789473684
+Swimming In The Flood,Rocket In The Sky ,flood,sky,0.2857142857142857
+Swimming In The Flood,Rocket In The Sky ,flood,rocket,0.25
+Swimming In The Flood,Rocket In The Sky ,flood,sky,0.2857142857142857
+Swimming In The Flood,Rocket In The Sky ,flood,single,0.1111111111111111
+Swimming In The Flood,Rocket In The Sky ,flood,rocket,0.25
+Swimming In The Flood,Rocket In The Sky ,manners,sky,0.15384615384615385
+Swimming In The Flood,Rocket In The Sky ,manners,rocket,0.13333333333333333
+Swimming In The Flood,Rocket In The Sky ,manners,sky,0.15384615384615385
+Swimming In The Flood,Rocket In The Sky ,manners,single,0.23529411764705882
+Swimming In The Flood,Rocket In The Sky ,manners,rocket,0.13333333333333333
+Swimming In The Flood,Lola's Theme (Main Mix),swimming,main,0.13333333333333333
+Swimming In The Flood,Lola's Theme (Main Mix),swimming,mix,0.1111111111111111
+Swimming In The Flood,Lola's Theme (Main Mix),swimming,theme,0.26666666666666666
+Swimming In The Flood,Lola's Theme (Main Mix),swimming,theme,0.26666666666666666
+Swimming In The Flood,Lola's Theme (Main Mix),flood,main,0.3333333333333333
+Swimming In The Flood,Lola's Theme (Main Mix),flood,mix,0.26666666666666666
+Swimming In The Flood,Lola's Theme (Main Mix),flood,theme,0.16666666666666666
+Swimming In The Flood,Lola's Theme (Main Mix),flood,theme,0.16666666666666666
+Swimming In The Flood,Lola's Theme (Main Mix),manners,main,0.18181818181818182
+Swimming In The Flood,Lola's Theme (Main Mix),manners,mix,0.14285714285714285
+Swimming In The Flood,Lola's Theme (Main Mix),manners,theme,0.36363636363636365
+Swimming In The Flood,Lola's Theme (Main Mix),manners,theme,0.36363636363636365
+Swimming In The Flood,Loneliness,swimming,loneliness,0.23529411764705882
+Swimming In The Flood,Loneliness,swimming,trance,0.23529411764705882
+Swimming In The Flood,Loneliness,swimming,anthems,0.2222222222222222
+Swimming In The Flood,Loneliness,swimming,euphoria,0.21052631578947367
+Swimming In The Flood,Loneliness,swimming,decade,0.25
+Swimming In The Flood,Loneliness,flood,loneliness,0.14285714285714285
+Swimming In The Flood,Loneliness,flood,trance,0.14285714285714285
+Swimming In The Flood,Loneliness,flood,anthems,0.13333333333333333
+Swimming In The Flood,Loneliness,flood,euphoria,0.125
+Swimming In The Flood,Loneliness,flood,decade,0.15384615384615385
+Swimming In The Flood,Loneliness,manners,loneliness,0.46153846153846156
+Swimming In The Flood,Loneliness,manners,trance,0.46153846153846156
+Swimming In The Flood,Loneliness,manners,anthems,0.2857142857142857
+Swimming In The Flood,Loneliness,manners,euphoria,0.4
+Swimming In The Flood,Loneliness,manners,decade,0.3333333333333333
+Swimming In The Flood,Need To Feel Loved,swimming,feel,0.3157894736842105
+Swimming In The Flood,Need To Feel Loved,swimming,loved,0
+Swimming In The Flood,Need To Feel Loved,swimming,need,0.25
+Swimming In The Flood,Need To Feel Loved,swimming,pure,0
+Swimming In The Flood,Need To Feel Loved,swimming,trance,0.23529411764705882
+Swimming In The Flood,Need To Feel Loved,swimming,anthems,0.2222222222222222
+Swimming In The Flood,Need To Feel Loved,flood,feel,0.125
+Swimming In The Flood,Need To Feel Loved,flood,loved,0
+Swimming In The Flood,Need To Feel Loved,flood,need,0.15384615384615385
+Swimming In The Flood,Need To Feel Loved,flood,pure,0
+Swimming In The Flood,Need To Feel Loved,flood,trance,0.14285714285714285
+Swimming In The Flood,Need To Feel Loved,flood,anthems,0.13333333333333333
+Swimming In The Flood,Need To Feel Loved,manners,feel,0.26666666666666666
+Swimming In The Flood,Need To Feel Loved,manners,loved,0
+Swimming In The Flood,Need To Feel Loved,manners,need,0.5
+Swimming In The Flood,Need To Feel Loved,manners,pure,0
+Swimming In The Flood,Need To Feel Loved,manners,trance,0.46153846153846156
+Swimming In The Flood,Need To Feel Loved,manners,anthems,0.2857142857142857
+Swimming In The Flood,Tell Me Why,swimming,tell,0.11764705882352941
+Swimming In The Flood,Tell Me Why,swimming,data,0.26666666666666666
+Swimming In The Flood,Tell Me Why,swimming,records,0.25
+Swimming In The Flood,Tell Me Why,swimming,best,0.6666666666666666
+Swimming In The Flood,Tell Me Why,flood,tell,0.2857142857142857
+Swimming In The Flood,Tell Me Why,flood,data,0.16666666666666666
+Swimming In The Flood,Tell Me Why,flood,records,0.15384615384615385
+Swimming In The Flood,Tell Me Why,flood,best,0.13333333333333333
+Swimming In The Flood,Tell Me Why,manners,tell,0.15384615384615385
+Swimming In The Flood,Tell Me Why,manners,data,0.36363636363636365
+Swimming In The Flood,Tell Me Why,manners,records,0.3333333333333333
+Swimming In The Flood,Tell Me Why,manners,best,0.2857142857142857
+Swimming In The Flood,Easy Love,swimming,easy,0
+Swimming In The Flood,Easy Love,swimming,love,0.23529411764705882
+Swimming In The Flood,Easy Love,swimming,looks,0.23529411764705882
+Swimming In The Flood,Easy Love,flood,easy,0
+Swimming In The Flood,Easy Love,flood,love,0.14285714285714285
+Swimming In The Flood,Easy Love,flood,looks,0.14285714285714285
+Swimming In The Flood,Easy Love,manners,easy,0
+Swimming In The Flood,Easy Love,manners,love,0.46153846153846156
+Swimming In The Flood,Easy Love,manners,looks,0.46153846153846156
+Swimming In The Flood,Bulletproof,swimming,bulletproof,0
+Swimming In The Flood,Bulletproof,swimming,bulletproof,0
+Swimming In The Flood,Bulletproof,flood,bulletproof,0
+Swimming In The Flood,Bulletproof,flood,bulletproof,0
+Swimming In The Flood,Bulletproof,manners,bulletproof,0
+Swimming In The Flood,Bulletproof,manners,bulletproof,0
+Swimming In The Flood,Better Day,swimming,better,0.25
+Swimming In The Flood,Better Day,swimming,day,0.26666666666666666
+Swimming In The Flood,Better Day,swimming,gu,0.125
+Swimming In The Flood,Better Day,swimming,mixed,0
+Swimming In The Flood,Better Day,flood,better,0.15384615384615385
+Swimming In The Flood,Better Day,flood,day,0.16666666666666666
+Swimming In The Flood,Better Day,flood,gu,0.3076923076923077
+Swimming In The Flood,Better Day,flood,mixed,0
+Swimming In The Flood,Better Day,manners,better,0.5
+Swimming In The Flood,Better Day,manners,day,0.36363636363636365
+Swimming In The Flood,Better Day,manners,gu,0.16666666666666666
+Swimming In The Flood,Better Day,manners,mixed,0
+Swimming In The Flood,Brazil,swimming,brazil,0.1
+Swimming In The Flood,Brazil,swimming,random,0
+Swimming In The Flood,Brazil,swimming,album,0.1111111111111111
+Swimming In The Flood,Brazil,swimming,title,0.2
+Swimming In The Flood,Brazil,flood,brazil,0.23529411764705882
+Swimming In The Flood,Brazil,flood,random,0
+Swimming In The Flood,Brazil,flood,album,0.26666666666666666
+Swimming In The Flood,Brazil,flood,title,0.11764705882352941
+Swimming In The Flood,Brazil,manners,brazil,0.125
+Swimming In The Flood,Brazil,manners,random,0
+Swimming In The Flood,Brazil,manners,album,0.14285714285714285
+Swimming In The Flood,Brazil,manners,title,0.25
+Swimming In The Flood,That's My Name (Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,That's My Name (Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,That's My Name (Album Version),swimming,name,0.25
+Swimming In The Flood,That's My Name (Album Version),swimming,name,0.25
+Swimming In The Flood,That's My Name (Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,That's My Name (Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,That's My Name (Album Version),flood,name,0.15384615384615385
+Swimming In The Flood,That's My Name (Album Version),flood,name,0.15384615384615385
+Swimming In The Flood,That's My Name (Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,That's My Name (Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,That's My Name (Album Version),manners,name,0.3333333333333333
+Swimming In The Flood,That's My Name (Album Version),manners,name,0.3333333333333333
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),swimming,vocal,0.25
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),swimming,mix,0.1111111111111111
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),swimming,raining,0
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),swimming,hotel,0.1111111111111111
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),flood,vocal,0.15384615384615385
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),flood,mix,0.26666666666666666
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),flood,raining,0
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),flood,hotel,0.26666666666666666
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),manners,vocal,0.3333333333333333
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),manners,mix,0.14285714285714285
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),manners,raining,0
+Swimming In The Flood,Raining Again (Steve Angello's Vocal Mix),manners,hotel,0.14285714285714285
+Swimming In The Flood,Surround,swimming,surround,0.11764705882352941
+Swimming In The Flood,Surround,swimming,american,0.125
+Swimming In The Flood,Surround,swimming,hi,0.23529411764705882
+Swimming In The Flood,Surround,flood,surround,0.2857142857142857
+Swimming In The Flood,Surround,flood,american,0.3076923076923077
+Swimming In The Flood,Surround,flood,hi,0.14285714285714285
+Swimming In The Flood,Surround,manners,surround,0.15384615384615385
+Swimming In The Flood,Surround,manners,american,0.16666666666666666
+Swimming In The Flood,Surround,manners,hi,0.3076923076923077
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),swimming,radio,0.1
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),swimming,edit,0
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),swimming,shoulder,0.125
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),swimming,angel,0.3333333333333333
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),swimming,shoulder,0.125
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),swimming,angel,0.3333333333333333
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),flood,radio,0.23529411764705882
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),flood,edit,0
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),flood,shoulder,0.3076923076923077
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),flood,angel,0.13333333333333333
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),flood,shoulder,0.3076923076923077
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),flood,angel,0.13333333333333333
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),manners,radio,0.125
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),manners,edit,0
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),manners,shoulder,0.16666666666666666
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),manners,angel,0.2857142857142857
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),manners,shoulder,0.16666666666666666
+Swimming In The Flood,Angel On My Shoulder (EDX Radio Edit),manners,angel,0.2857142857142857

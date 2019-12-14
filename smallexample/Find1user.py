@@ -8,7 +8,7 @@ from google.cloud import translate_v2 as translate
 
 
 
-num = 1
+num = 7
 name = []
 release = []
 artist = []
@@ -82,7 +82,7 @@ def Findwords(num):
 		print(originame)
 		k = k + 1
 	
-while(num < 7):
+while(num < 101):
 	Findwords(num)
 	num = num + 1
 	

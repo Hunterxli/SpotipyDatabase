@@ -31,15 +31,31 @@ while(num < 101):
 print(len(songName))
 newlist = []
 repName = []
+newlist2 = []
+newlist3 = []
+newlist4 = []
+the_i = 0
 count = 0
+
 for name in songName:
 	if name not in newlist:
 		newlist.append(name)
+		#print(name)
+		print(songName.index(name))
+		the_i = songName.index(name)
+		newlist2.append(songRelease[the_i])
+		newlist3.append(songArtist[the_i])
+		newlist4.append(songUser[the_i])
 	else:
 		repName.append(name)
 		count = count + 1
 songName = newlist
+songRelease = newlist2
+songArtist = newlist3
+songUser = newlist4
+
 print(len(songName))
+print(len(songRelease))
 print(count)
 #print(songName[0])
 s = 0

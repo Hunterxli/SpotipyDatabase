@@ -182,9 +182,9 @@ def Output(num1, num2):
 #Output()
 num1 = 1 #user 1
 num2 = 1 #user 2
-while(num1 < 7):
+while(num1 < 101):
 	num2 = num1
-	while(num2 < 7):
+	while(num2 < 101):
 		#if(num1 < num2):
 		Output(num1, num2)
 		wordcomp1 = []
@@ -194,7 +194,9 @@ while(num1 < 7):
 		arry_s2 = []
 		num2 = num2 + 1
 	num1 = num1 + 1
-
+	
+#12/13 5:53(100 users)
+#
 	
 
 

@@ -1,0 +1,1888 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Dear Friend (The Secret Of Time Album Version),sun,time,0.13333333333333333
+Sun Hands,Dear Friend (The Secret Of Time Album Version),sun,album,0.5
+Sun Hands,Dear Friend (The Secret Of Time Album Version),sun,version,0.125
+Sun Hands,Dear Friend (The Secret Of Time Album Version),sun,dear,0.47058823529411764
+Sun Hands,Dear Friend (The Secret Of Time Album Version),sun,friend,0.5
+Sun Hands,Dear Friend (The Secret Of Time Album Version),sun,secret,0.14285714285714285
+Sun Hands,Dear Friend (The Secret Of Time Album Version),sun,time,0.13333333333333333
+Sun Hands,Dear Friend (The Secret Of Time Album Version),sun,secret,0.14285714285714285
+Sun Hands,Dear Friend (The Secret Of Time Album Version),hands,time,0.5
+Sun Hands,Dear Friend (The Secret Of Time Album Version),hands,album,0.11764705882352941
+Sun Hands,Dear Friend (The Secret Of Time Album Version),hands,version,0.23529411764705882
+Sun Hands,Dear Friend (The Secret Of Time Album Version),hands,dear,0.13333333333333333
+Sun Hands,Dear Friend (The Secret Of Time Album Version),hands,friend,0.14285714285714285
+Sun Hands,Dear Friend (The Secret Of Time Album Version),hands,secret,0.26666666666666666
+Sun Hands,Dear Friend (The Secret Of Time Album Version),hands,time,0.5
+Sun Hands,Dear Friend (The Secret Of Time Album Version),hands,secret,0.26666666666666666
+Sun Hands,Dear Friend (The Secret Of Time Album Version),gorilla,time,0.08695652173913043
+Sun Hands,Dear Friend (The Secret Of Time Album Version),gorilla,album,0.3333333333333333
+Sun Hands,Dear Friend (The Secret Of Time Album Version),gorilla,version,0.08333333333333333
+Sun Hands,Dear Friend (The Secret Of Time Album Version),gorilla,dear,0.48
+Sun Hands,Dear Friend (The Secret Of Time Album Version),gorilla,friend,0.5
+Sun Hands,Dear Friend (The Secret Of Time Album Version),gorilla,secret,0.09090909090909091
+Sun Hands,Dear Friend (The Secret Of Time Album Version),gorilla,time,0.08695652173913043
+Sun Hands,Dear Friend (The Secret Of Time Album Version),gorilla,secret,0.09090909090909091
+Sun Hands,Dear Friend (The Secret Of Time Album Version),manor,time,0.11764705882352941
+Sun Hands,Dear Friend (The Secret Of Time Album Version),manor,album,0.5555555555555556
+Sun Hands,Dear Friend (The Secret Of Time Album Version),manor,version,0.1111111111111111
+Sun Hands,Dear Friend (The Secret Of Time Album Version),manor,dear,0.42105263157894735
+Sun Hands,Dear Friend (The Secret Of Time Album Version),manor,friend,0.4444444444444444
+Sun Hands,Dear Friend (The Secret Of Time Album Version),manor,secret,0.125
+Sun Hands,Dear Friend (The Secret Of Time Album Version),manor,time,0.11764705882352941
+Sun Hands,Dear Friend (The Secret Of Time Album Version),manor,secret,0.125
+Sun Hands,Just The Way You Are,sun,way,0.15384615384615385
+Sun Hands,Just The Way You Are,sun,n,0.2857142857142857
+Sun Hands,Just The Way You Are,sun,heartbreakers,0.47058823529411764
+Sun Hands,Just The Way You Are,hands,way,0.2857142857142857
+Sun Hands,Just The Way You Are,hands,n,0.25
+Sun Hands,Just The Way You Are,hands,heartbreakers,0.13333333333333333
+Sun Hands,Just The Way You Are,gorilla,way,0.09523809523809523
+Sun Hands,Just The Way You Are,gorilla,n,0.18181818181818182
+Sun Hands,Just The Way You Are,gorilla,heartbreakers,0.48
+Sun Hands,Just The Way You Are,manor,way,0.13333333333333333
+Sun Hands,Just The Way You Are,manor,n,0.25
+Sun Hands,Just The Way You Are,manor,heartbreakers,0.42105263157894735
+Sun Hands,Miss Your Touch (Album Version),sun,album,0.5
+Sun Hands,Miss Your Touch (Album Version),sun,version,0.125
+Sun Hands,Miss Your Touch (Album Version),sun,touch,0.13333333333333333
+Sun Hands,Miss Your Touch (Album Version),sun,miss,0.4444444444444444
+Sun Hands,Miss Your Touch (Album Version),sun,cassie,0.4
+Sun Hands,Miss Your Touch (Album Version),hands,album,0.11764705882352941
+Sun Hands,Miss Your Touch (Album Version),hands,version,0.23529411764705882
+Sun Hands,Miss Your Touch (Album Version),hands,touch,0.5
+Sun Hands,Miss Your Touch (Album Version),hands,miss,0.125
+Sun Hands,Miss Your Touch (Album Version),hands,cassie,0.09523809523809523
+Sun Hands,Miss Your Touch (Album Version),gorilla,album,0.3333333333333333
+Sun Hands,Miss Your Touch (Album Version),gorilla,version,0.08333333333333333
+Sun Hands,Miss Your Touch (Album Version),gorilla,touch,0.08695652173913043
+Sun Hands,Miss Your Touch (Album Version),gorilla,miss,0.46153846153846156
+Sun Hands,Miss Your Touch (Album Version),gorilla,cassie,0.42857142857142855
+Sun Hands,Miss Your Touch (Album Version),manor,album,0.5555555555555556
+Sun Hands,Miss Your Touch (Album Version),manor,version,0.1111111111111111
+Sun Hands,Miss Your Touch (Album Version),manor,touch,0.11764705882352941
+Sun Hands,Miss Your Touch (Album Version),manor,miss,0.4
+Sun Hands,Miss Your Touch (Album Version),manor,cassie,0.36363636363636365
+Sun Hands,Green,sun,green,0.125
+Sun Hands,Green,sun,abnormal,0
+Sun Hands,Green,hands,green,0.23529411764705882
+Sun Hands,Green,hands,abnormal,0
+Sun Hands,Green,gorilla,green,0.08333333333333333
+Sun Hands,Green,gorilla,abnormal,0
+Sun Hands,Green,manor,green,0.1111111111111111
+Sun Hands,Green,manor,abnormal,0
+Sun Hands,Make Music,sun,make,0.1111111111111111
+Sun Hands,Make Music,sun,music,0.15384615384615385
+Sun Hands,Make Music,sun,waiting,0.13333333333333333
+Sun Hands,Make Music,sun,room,0.5
+Sun Hands,Make Music,hands,make,0.3157894736842105
+Sun Hands,Make Music,hands,music,0.2857142857142857
+Sun Hands,Make Music,hands,waiting,0.5882352941176471
+Sun Hands,Make Music,hands,room,0.11764705882352941
+Sun Hands,Make Music,gorilla,make,0.07692307692307693
+Sun Hands,Make Music,gorilla,music,0.09523809523809523
+Sun Hands,Make Music,gorilla,waiting,0.08695652173913043
+Sun Hands,Make Music,gorilla,room,0.3333333333333333
+Sun Hands,Make Music,manor,make,0.1
+Sun Hands,Make Music,manor,music,0.13333333333333333
+Sun Hands,Make Music,manor,waiting,0.11764705882352941
+Sun Hands,Make Music,manor,room,0.6666666666666666
+Sun Hands,Stay,sun,stay,0.14285714285714285
+Sun Hands,Stay,sun,essential,0.3333333333333333
+Sun Hands,Stay,sun,eternal,0
+Sun Hands,Stay,hands,stay,0.625
+Sun Hands,Stay,hands,essential,0.15384615384615385
+Sun Hands,Stay,hands,eternal,0
+Sun Hands,Stay,gorilla,stay,0.09090909090909091
+Sun Hands,Stay,gorilla,essential,0.2
+Sun Hands,Stay,gorilla,eternal,0
+Sun Hands,Stay,manor,stay,0.125
+Sun Hands,Stay,manor,essential,0.2857142857142857
+Sun Hands,Stay,manor,eternal,0
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),sun,digital,0
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),sun,girls,0.4444444444444444
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),sun,version,0.125
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),sun,alley,0.4444444444444444
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),sun,greenhouse,0.5
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),sun,granny,0.4
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),sun,doughnut,0.13333333333333333
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),hands,digital,0
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),hands,girls,0.125
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),hands,version,0.23529411764705882
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),hands,alley,0.10526315789473684
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),hands,greenhouse,0.11764705882352941
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),hands,granny,0.1111111111111111
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),hands,doughnut,0.25
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,digital,0
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,girls,0.46153846153846156
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,version,0.08333333333333333
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,alley,0.3076923076923077
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,greenhouse,0.3333333333333333
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,granny,0.42857142857142855
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,doughnut,0.08695652173913043
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),manor,digital,0
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),manor,girls,0.4
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),manor,version,0.1111111111111111
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),manor,alley,0.5
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),manor,greenhouse,0.7777777777777778
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),manor,granny,0.36363636363636365
+Sun Hands,Alley Oop (Girls Version) (2007 Digital Remaster),manor,doughnut,0.11764705882352941
+Sun Hands,Cups,sun,cups,0.5
+Sun Hands,Cups,sun,chilled,0
+Sun Hands,Cups,sun,house,0.5
+Sun Hands,Cups,sun,session,0.125
+Sun Hands,Cups,hands,cups,0.11764705882352941
+Sun Hands,Cups,hands,chilled,0
+Sun Hands,Cups,hands,house,0.11764705882352941
+Sun Hands,Cups,hands,session,0.23529411764705882
+Sun Hands,Cups,gorilla,cups,0.3333333333333333
+Sun Hands,Cups,gorilla,chilled,0
+Sun Hands,Cups,gorilla,house,0.3333333333333333
+Sun Hands,Cups,gorilla,session,0.08333333333333333
+Sun Hands,Cups,manor,cups,0.5555555555555556
+Sun Hands,Cups,manor,chilled,0
+Sun Hands,Cups,manor,house,0.8
+Sun Hands,Cups,manor,session,0.1111111111111111
+Sun Hands,Still Take You Home,sun,still,0.47058823529411764
+Sun Hands,Still Take You Home,sun,take,0.1111111111111111
+Sun Hands,Still Take You Home,sun,home,0.35294117647058826
+Sun Hands,Still Take You Home,sun,people,0.16666666666666666
+Sun Hands,Still Take You Home,sun,say,0.125
+Sun Hands,Still Take You Home,sun,digital,0
+Sun Hands,Still Take You Home,hands,still,0.1111111111111111
+Sun Hands,Still Take You Home,hands,take,0.21052631578947367
+Sun Hands,Still Take You Home,hands,home,0.1111111111111111
+Sun Hands,Still Take You Home,hands,people,0.3076923076923077
+Sun Hands,Still Take You Home,hands,say,0.23529411764705882
+Sun Hands,Still Take You Home,hands,digital,0
+Sun Hands,Still Take You Home,gorilla,still,0.32
+Sun Hands,Still Take You Home,gorilla,take,0.07692307692307693
+Sun Hands,Still Take You Home,gorilla,home,0.24
+Sun Hands,Still Take You Home,gorilla,people,0.1
+Sun Hands,Still Take You Home,gorilla,say,0.08333333333333333
+Sun Hands,Still Take You Home,gorilla,digital,0
+Sun Hands,Still Take You Home,manor,still,0.5263157894736842
+Sun Hands,Still Take You Home,manor,take,0.1
+Sun Hands,Still Take You Home,manor,home,0.3157894736842105
+Sun Hands,Still Take You Home,manor,people,0.14285714285714285
+Sun Hands,Still Take You Home,manor,say,0.1111111111111111
+Sun Hands,Still Take You Home,manor,digital,0
+Sun Hands,Milkshake,sun,milkshake,0.125
+Sun Hands,Milkshake,sun,original,0.5333333333333333
+Sun Hands,Milkshake,sun,hits,0.11764705882352941
+Sun Hands,Milkshake,sun,soul,0.2857142857142857
+Sun Hands,Milkshake,sun,rap,0.11764705882352941
+Sun Hands,Milkshake,hands,milkshake,0.23529411764705882
+Sun Hands,Milkshake,hands,original,0.125
+Sun Hands,Milkshake,hands,hits,0.5263157894736842
+Sun Hands,Milkshake,hands,soul,0.13333333333333333
+Sun Hands,Milkshake,hands,rap,0.2222222222222222
+Sun Hands,Milkshake,gorilla,milkshake,0.08333333333333333
+Sun Hands,Milkshake,gorilla,original,0.34782608695652173
+Sun Hands,Milkshake,gorilla,hits,0.08
+Sun Hands,Milkshake,gorilla,soul,0.18181818181818182
+Sun Hands,Milkshake,gorilla,rap,0.08
+Sun Hands,Milkshake,manor,milkshake,0.1111111111111111
+Sun Hands,Milkshake,manor,original,0.5882352941176471
+Sun Hands,Milkshake,manor,hits,0.10526315789473684
+Sun Hands,Milkshake,manor,soul,0.25
+Sun Hands,Milkshake,manor,rap,0.10526315789473684
+Sun Hands,The Way She Moves,sun,way,0.15384615384615385
+Sun Hands,The Way She Moves,sun,moves,0.11764705882352941
+Sun Hands,The Way She Moves,sun,perfect,0.125
+Sun Hands,The Way She Moves,sun,melody,0.14285714285714285
+Sun Hands,The Way She Moves,hands,way,0.2857142857142857
+Sun Hands,The Way She Moves,hands,moves,0.5263157894736842
+Sun Hands,The Way She Moves,hands,perfect,0.23529411764705882
+Sun Hands,The Way She Moves,hands,melody,0.26666666666666666
+Sun Hands,The Way She Moves,gorilla,way,0.09523809523809523
+Sun Hands,The Way She Moves,gorilla,moves,0.08
+Sun Hands,The Way She Moves,gorilla,perfect,0.08333333333333333
+Sun Hands,The Way She Moves,gorilla,melody,0.09090909090909091
+Sun Hands,The Way She Moves,manor,way,0.13333333333333333
+Sun Hands,The Way She Moves,manor,moves,0.10526315789473684
+Sun Hands,The Way She Moves,manor,perfect,0.1111111111111111
+Sun Hands,The Way She Moves,manor,melody,0.125
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,time,0.125
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,album,0.7058823529411765
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,version,0.11764705882352941
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,dear,0.4444444444444444
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,friend,0.47058823529411764
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,secret,0.13333333333333333
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,time,0.125
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,secret,0.13333333333333333
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,time,0.2857142857142857
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,album,0.13333333333333333
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,version,0.4
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,dear,0.15384615384615385
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,friend,0.16666666666666666
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,secret,0.46153846153846156
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,time,0.2857142857142857
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,secret,0.46153846153846156
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,time,0.125
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,album,0.7058823529411765
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,version,0.11764705882352941
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,dear,0.4444444444444444
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,friend,0.47058823529411764
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,secret,0.13333333333333333
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,time,0.125
+Camera Talk,Dear Friend (The Secret Of Time Album Version),camera,secret,0.13333333333333333
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,time,0.2857142857142857
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,album,0.13333333333333333
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,version,0.4
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,dear,0.15384615384615385
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,friend,0.16666666666666666
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,secret,0.46153846153846156
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,time,0.2857142857142857
+Camera Talk,Dear Friend (The Secret Of Time Album Version),talk,secret,0.46153846153846156
+Camera Talk,Just The Way You Are,camera,way,0.14285714285714285
+Camera Talk,Just The Way You Are,camera,n,0.26666666666666666
+Camera Talk,Just The Way You Are,camera,heartbreakers,0.4444444444444444
+Camera Talk,Just The Way You Are,talk,way,0.3333333333333333
+Camera Talk,Just The Way You Are,talk,n,0.2857142857142857
+Camera Talk,Just The Way You Are,talk,heartbreakers,0.15384615384615385
+Camera Talk,Just The Way You Are,camera,way,0.14285714285714285
+Camera Talk,Just The Way You Are,camera,n,0.26666666666666666
+Camera Talk,Just The Way You Are,camera,heartbreakers,0.4444444444444444
+Camera Talk,Just The Way You Are,talk,way,0.3333333333333333
+Camera Talk,Just The Way You Are,talk,n,0.2857142857142857
+Camera Talk,Just The Way You Are,talk,heartbreakers,0.15384615384615385
+Camera Talk,Miss Your Touch (Album Version),camera,album,0.7058823529411765
+Camera Talk,Miss Your Touch (Album Version),camera,version,0.11764705882352941
+Camera Talk,Miss Your Touch (Album Version),camera,touch,0.125
+Camera Talk,Miss Your Touch (Album Version),camera,miss,0.42105263157894735
+Camera Talk,Miss Your Touch (Album Version),camera,cassie,0.38095238095238093
+Camera Talk,Miss Your Touch (Album Version),talk,album,0.13333333333333333
+Camera Talk,Miss Your Touch (Album Version),talk,version,0.4
+Camera Talk,Miss Your Touch (Album Version),talk,touch,0.2857142857142857
+Camera Talk,Miss Your Touch (Album Version),talk,miss,0.14285714285714285
+Camera Talk,Miss Your Touch (Album Version),talk,cassie,0.10526315789473684
+Camera Talk,Miss Your Touch (Album Version),camera,album,0.7058823529411765
+Camera Talk,Miss Your Touch (Album Version),camera,version,0.11764705882352941
+Camera Talk,Miss Your Touch (Album Version),camera,touch,0.125
+Camera Talk,Miss Your Touch (Album Version),camera,miss,0.42105263157894735
+Camera Talk,Miss Your Touch (Album Version),camera,cassie,0.38095238095238093
+Camera Talk,Miss Your Touch (Album Version),talk,album,0.13333333333333333
+Camera Talk,Miss Your Touch (Album Version),talk,version,0.4
+Camera Talk,Miss Your Touch (Album Version),talk,touch,0.2857142857142857
+Camera Talk,Miss Your Touch (Album Version),talk,miss,0.14285714285714285
+Camera Talk,Miss Your Touch (Album Version),talk,cassie,0.10526315789473684
+Camera Talk,Green,camera,green,0.11764705882352941
+Camera Talk,Green,camera,abnormal,0
+Camera Talk,Green,talk,green,0.26666666666666666
+Camera Talk,Green,talk,abnormal,0
+Camera Talk,Green,camera,green,0.11764705882352941
+Camera Talk,Green,camera,abnormal,0
+Camera Talk,Green,talk,green,0.26666666666666666
+Camera Talk,Green,talk,abnormal,0
+Camera Talk,Make Music,camera,make,0.10526315789473684
+Camera Talk,Make Music,camera,music,0.14285714285714285
+Camera Talk,Make Music,camera,waiting,0.125
+Camera Talk,Make Music,camera,room,0.5882352941176471
+Camera Talk,Make Music,talk,make,0.23529411764705882
+Camera Talk,Make Music,talk,music,0.6666666666666666
+Camera Talk,Make Music,talk,waiting,0.2857142857142857
+Camera Talk,Make Music,talk,room,0.13333333333333333
+Camera Talk,Make Music,camera,make,0.10526315789473684
+Camera Talk,Make Music,camera,music,0.14285714285714285
+Camera Talk,Make Music,camera,waiting,0.125
+Camera Talk,Make Music,camera,room,0.5882352941176471
+Camera Talk,Make Music,talk,make,0.23529411764705882
+Camera Talk,Make Music,talk,music,0.6666666666666666
+Camera Talk,Make Music,talk,waiting,0.2857142857142857
+Camera Talk,Make Music,talk,room,0.13333333333333333
+Camera Talk,Stay,camera,stay,0.13333333333333333
+Camera Talk,Stay,camera,essential,0.3076923076923077
+Camera Talk,Stay,camera,eternal,0
+Camera Talk,Stay,talk,stay,0.3076923076923077
+Camera Talk,Stay,talk,essential,0.18181818181818182
+Camera Talk,Stay,talk,eternal,0
+Camera Talk,Stay,camera,stay,0.13333333333333333
+Camera Talk,Stay,camera,essential,0.3076923076923077
+Camera Talk,Stay,camera,eternal,0
+Camera Talk,Stay,talk,stay,0.3076923076923077
+Camera Talk,Stay,talk,essential,0.18181818181818182
+Camera Talk,Stay,talk,eternal,0
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,digital,0
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,girls,0.42105263157894735
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,version,0.11764705882352941
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,alley,0.5263157894736842
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,greenhouse,0.5882352941176471
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,granny,0.38095238095238093
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,doughnut,0.125
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,digital,0
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,girls,0.14285714285714285
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,version,0.4
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,alley,0.11764705882352941
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,greenhouse,0.13333333333333333
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,granny,0.125
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,doughnut,0.2857142857142857
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,digital,0
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,girls,0.42105263157894735
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,version,0.11764705882352941
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,alley,0.5263157894736842
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,greenhouse,0.5882352941176471
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,granny,0.38095238095238093
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),camera,doughnut,0.125
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,digital,0
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,girls,0.14285714285714285
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,version,0.4
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,alley,0.11764705882352941
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,greenhouse,0.13333333333333333
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,granny,0.125
+Camera Talk,Alley Oop (Girls Version) (2007 Digital Remaster),talk,doughnut,0.2857142857142857
+Camera Talk,Cups,camera,cups,0.7058823529411765
+Camera Talk,Cups,camera,chilled,0
+Camera Talk,Cups,camera,house,0.5882352941176471
+Camera Talk,Cups,camera,session,0.11764705882352941
+Camera Talk,Cups,talk,cups,0.13333333333333333
+Camera Talk,Cups,talk,chilled,0
+Camera Talk,Cups,talk,house,0.13333333333333333
+Camera Talk,Cups,talk,session,0.6666666666666666
+Camera Talk,Cups,camera,cups,0.7058823529411765
+Camera Talk,Cups,camera,chilled,0
+Camera Talk,Cups,camera,house,0.5882352941176471
+Camera Talk,Cups,camera,session,0.11764705882352941
+Camera Talk,Cups,talk,cups,0.13333333333333333
+Camera Talk,Cups,talk,chilled,0
+Camera Talk,Cups,talk,house,0.13333333333333333
+Camera Talk,Cups,talk,session,0.6666666666666666
+Camera Talk,Still Take You Home,camera,still,0.5555555555555556
+Camera Talk,Still Take You Home,camera,take,0.10526315789473684
+Camera Talk,Still Take You Home,camera,home,0.3333333333333333
+Camera Talk,Still Take You Home,camera,people,0.15384615384615385
+Camera Talk,Still Take You Home,camera,say,0.11764705882352941
+Camera Talk,Still Take You Home,camera,digital,0
+Camera Talk,Still Take You Home,talk,still,0.125
+Camera Talk,Still Take You Home,talk,take,0.23529411764705882
+Camera Talk,Still Take You Home,talk,home,0.125
+Camera Talk,Still Take You Home,talk,people,0.36363636363636365
+Camera Talk,Still Take You Home,talk,say,0.26666666666666666
+Camera Talk,Still Take You Home,talk,digital,0
+Camera Talk,Still Take You Home,camera,still,0.5555555555555556
+Camera Talk,Still Take You Home,camera,take,0.10526315789473684
+Camera Talk,Still Take You Home,camera,home,0.3333333333333333
+Camera Talk,Still Take You Home,camera,people,0.15384615384615385
+Camera Talk,Still Take You Home,camera,say,0.11764705882352941
+Camera Talk,Still Take You Home,camera,digital,0
+Camera Talk,Still Take You Home,talk,still,0.125
+Camera Talk,Still Take You Home,talk,take,0.23529411764705882
+Camera Talk,Still Take You Home,talk,home,0.125
+Camera Talk,Still Take You Home,talk,people,0.36363636363636365
+Camera Talk,Still Take You Home,talk,say,0.26666666666666666
+Camera Talk,Still Take You Home,talk,digital,0
+Camera Talk,Milkshake,camera,milkshake,0.11764705882352941
+Camera Talk,Milkshake,camera,original,0.625
+Camera Talk,Milkshake,camera,hits,0.1111111111111111
+Camera Talk,Milkshake,camera,soul,0.26666666666666666
+Camera Talk,Milkshake,camera,rap,0.1111111111111111
+Camera Talk,Milkshake,talk,milkshake,0.26666666666666666
+Camera Talk,Milkshake,talk,original,0.14285714285714285
+Camera Talk,Milkshake,talk,hits,0.25
+Camera Talk,Milkshake,talk,soul,0.15384615384615385
+Camera Talk,Milkshake,talk,rap,0.375
+Camera Talk,Milkshake,camera,milkshake,0.11764705882352941
+Camera Talk,Milkshake,camera,original,0.625
+Camera Talk,Milkshake,camera,hits,0.1111111111111111
+Camera Talk,Milkshake,camera,soul,0.26666666666666666
+Camera Talk,Milkshake,camera,rap,0.1111111111111111
+Camera Talk,Milkshake,talk,milkshake,0.26666666666666666
+Camera Talk,Milkshake,talk,original,0.14285714285714285
+Camera Talk,Milkshake,talk,hits,0.25
+Camera Talk,Milkshake,talk,soul,0.15384615384615385
+Camera Talk,Milkshake,talk,rap,0.375
+Camera Talk,The Way She Moves,camera,way,0.14285714285714285
+Camera Talk,The Way She Moves,camera,moves,0.1111111111111111
+Camera Talk,The Way She Moves,camera,perfect,0.11764705882352941
+Camera Talk,The Way She Moves,camera,melody,0.13333333333333333
+Camera Talk,The Way She Moves,talk,way,0.3333333333333333
+Camera Talk,The Way She Moves,talk,moves,0.25
+Camera Talk,The Way She Moves,talk,perfect,0.26666666666666666
+Camera Talk,The Way She Moves,talk,melody,0.6153846153846154
+Camera Talk,The Way She Moves,camera,way,0.14285714285714285
+Camera Talk,The Way She Moves,camera,moves,0.1111111111111111
+Camera Talk,The Way She Moves,camera,perfect,0.11764705882352941
+Camera Talk,The Way She Moves,camera,melody,0.13333333333333333
+Camera Talk,The Way She Moves,talk,way,0.3333333333333333
+Camera Talk,The Way She Moves,talk,moves,0.25
+Camera Talk,The Way She Moves,talk,perfect,0.26666666666666666
+Camera Talk,The Way She Moves,talk,melody,0.6153846153846154
+Belle,Dear Friend (The Secret Of Time Album Version),beautiful,time,0
+Belle,Dear Friend (The Secret Of Time Album Version),beautiful,album,0
+Belle,Dear Friend (The Secret Of Time Album Version),beautiful,version,0
+Belle,Dear Friend (The Secret Of Time Album Version),beautiful,dear,0
+Belle,Dear Friend (The Secret Of Time Album Version),beautiful,friend,0
+Belle,Dear Friend (The Secret Of Time Album Version),beautiful,secret,0
+Belle,Dear Friend (The Secret Of Time Album Version),beautiful,time,0
+Belle,Dear Friend (The Secret Of Time Album Version),beautiful,secret,0
+Belle,Dear Friend (The Secret Of Time Album Version),dreams,time,0.375
+Belle,Dear Friend (The Secret Of Time Album Version),dreams,album,0.11764705882352941
+Belle,Dear Friend (The Secret Of Time Album Version),dreams,version,0.23529411764705882
+Belle,Dear Friend (The Secret Of Time Album Version),dreams,dear,0.13333333333333333
+Belle,Dear Friend (The Secret Of Time Album Version),dreams,friend,0.14285714285714285
+Belle,Dear Friend (The Secret Of Time Album Version),dreams,secret,0.26666666666666666
+Belle,Dear Friend (The Secret Of Time Album Version),dreams,time,0.375
+Belle,Dear Friend (The Secret Of Time Album Version),dreams,secret,0.26666666666666666
+Belle,Just The Way You Are,beautiful,way,0
+Belle,Just The Way You Are,beautiful,n,0
+Belle,Just The Way You Are,beautiful,heartbreakers,0
+Belle,Just The Way You Are,dreams,way,0.2857142857142857
+Belle,Just The Way You Are,dreams,n,0.25
+Belle,Just The Way You Are,dreams,heartbreakers,0.13333333333333333
+Belle,Miss Your Touch (Album Version),beautiful,album,0
+Belle,Miss Your Touch (Album Version),beautiful,version,0
+Belle,Miss Your Touch (Album Version),beautiful,touch,0
+Belle,Miss Your Touch (Album Version),beautiful,miss,0
+Belle,Miss Your Touch (Album Version),beautiful,cassie,0
+Belle,Miss Your Touch (Album Version),dreams,album,0.11764705882352941
+Belle,Miss Your Touch (Album Version),dreams,version,0.23529411764705882
+Belle,Miss Your Touch (Album Version),dreams,touch,0.375
+Belle,Miss Your Touch (Album Version),dreams,miss,0.125
+Belle,Miss Your Touch (Album Version),dreams,cassie,0.09523809523809523
+Belle,Green,beautiful,green,0
+Belle,Green,beautiful,abnormal,0
+Belle,Green,dreams,green,0.23529411764705882
+Belle,Green,dreams,abnormal,0
+Belle,Make Music,beautiful,make,0
+Belle,Make Music,beautiful,music,0
+Belle,Make Music,beautiful,waiting,0
+Belle,Make Music,beautiful,room,0
+Belle,Make Music,dreams,make,0.42105263157894735
+Belle,Make Music,dreams,music,0.2857142857142857
+Belle,Make Music,dreams,waiting,0.375
+Belle,Make Music,dreams,room,0.11764705882352941
+Belle,Stay,beautiful,stay,0
+Belle,Stay,beautiful,essential,0
+Belle,Stay,beautiful,eternal,0
+Belle,Stay,dreams,stay,0.4
+Belle,Stay,dreams,essential,0.15384615384615385
+Belle,Stay,dreams,eternal,0
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),beautiful,digital,0
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),beautiful,girls,0
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),beautiful,version,0
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),beautiful,alley,0
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),beautiful,greenhouse,0
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),beautiful,granny,0
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),beautiful,doughnut,0
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),dreams,digital,0
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),dreams,girls,0.125
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),dreams,version,0.23529411764705882
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),dreams,alley,0.10526315789473684
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),dreams,greenhouse,0.11764705882352941
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),dreams,granny,0.1111111111111111
+Belle,Alley Oop (Girls Version) (2007 Digital Remaster),dreams,doughnut,0.25
+Belle,Cups,beautiful,cups,0
+Belle,Cups,beautiful,chilled,0
+Belle,Cups,beautiful,house,0
+Belle,Cups,beautiful,session,0
+Belle,Cups,dreams,cups,0.11764705882352941
+Belle,Cups,dreams,chilled,0
+Belle,Cups,dreams,house,0.11764705882352941
+Belle,Cups,dreams,session,0.23529411764705882
+Belle,Still Take You Home,beautiful,still,0
+Belle,Still Take You Home,beautiful,take,0
+Belle,Still Take You Home,beautiful,home,0
+Belle,Still Take You Home,beautiful,people,0
+Belle,Still Take You Home,beautiful,say,0
+Belle,Still Take You Home,beautiful,digital,0
+Belle,Still Take You Home,dreams,still,0.1111111111111111
+Belle,Still Take You Home,dreams,take,0.21052631578947367
+Belle,Still Take You Home,dreams,home,0.1111111111111111
+Belle,Still Take You Home,dreams,people,0.3076923076923077
+Belle,Still Take You Home,dreams,say,0.23529411764705882
+Belle,Still Take You Home,dreams,digital,0
+Belle,Milkshake,beautiful,milkshake,0
+Belle,Milkshake,beautiful,original,0
+Belle,Milkshake,beautiful,hits,0
+Belle,Milkshake,beautiful,soul,0
+Belle,Milkshake,beautiful,rap,0
+Belle,Milkshake,dreams,milkshake,0.23529411764705882
+Belle,Milkshake,dreams,original,0.125
+Belle,Milkshake,dreams,hits,0.3333333333333333
+Belle,Milkshake,dreams,soul,0.13333333333333333
+Belle,Milkshake,dreams,rap,0.2222222222222222
+Belle,The Way She Moves,beautiful,way,0
+Belle,The Way She Moves,beautiful,moves,0
+Belle,The Way She Moves,beautiful,perfect,0
+Belle,The Way She Moves,beautiful,melody,0
+Belle,The Way She Moves,dreams,way,0.2857142857142857
+Belle,The Way She Moves,dreams,moves,0.3333333333333333
+Belle,The Way She Moves,dreams,perfect,0.23529411764705882
+Belle,The Way She Moves,dreams,melody,0.26666666666666666
+Auto Rock,Dear Friend (The Secret Of Time Album Version),auto,time,0.1111111111111111
+Auto Rock,Dear Friend (The Secret Of Time Album Version),auto,album,0.631578947368421
+Auto Rock,Dear Friend (The Secret Of Time Album Version),auto,version,0.10526315789473684
+Auto Rock,Dear Friend (The Secret Of Time Album Version),auto,dear,0.4
+Auto Rock,Dear Friend (The Secret Of Time Album Version),auto,friend,0.42105263157894735
+Auto Rock,Dear Friend (The Secret Of Time Album Version),auto,secret,0.11764705882352941
+Auto Rock,Dear Friend (The Secret Of Time Album Version),auto,time,0.1111111111111111
+Auto Rock,Dear Friend (The Secret Of Time Album Version),auto,secret,0.11764705882352941
+Auto Rock,Dear Friend (The Secret Of Time Album Version),rock,time,0.15384615384615385
+Auto Rock,Dear Friend (The Secret Of Time Album Version),rock,album,0.5714285714285714
+Auto Rock,Dear Friend (The Secret Of Time Album Version),rock,version,0.14285714285714285
+Auto Rock,Dear Friend (The Secret Of Time Album Version),rock,dear,0.5333333333333333
+Auto Rock,Dear Friend (The Secret Of Time Album Version),rock,friend,0.5714285714285714
+Auto Rock,Dear Friend (The Secret Of Time Album Version),rock,secret,0.16666666666666666
+Auto Rock,Dear Friend (The Secret Of Time Album Version),rock,time,0.15384615384615385
+Auto Rock,Dear Friend (The Secret Of Time Album Version),rock,secret,0.16666666666666666
+Auto Rock,Dear Friend (The Secret Of Time Album Version),mr,time,0.25
+Auto Rock,Dear Friend (The Secret Of Time Album Version),mr,album,0.11764705882352941
+Auto Rock,Dear Friend (The Secret Of Time Album Version),mr,version,0.23529411764705882
+Auto Rock,Dear Friend (The Secret Of Time Album Version),mr,dear,0.13333333333333333
+Auto Rock,Dear Friend (The Secret Of Time Album Version),mr,friend,0.14285714285714285
+Auto Rock,Dear Friend (The Secret Of Time Album Version),mr,secret,0.26666666666666666
+Auto Rock,Dear Friend (The Secret Of Time Album Version),mr,time,0.25
+Auto Rock,Dear Friend (The Secret Of Time Album Version),mr,secret,0.26666666666666666
+Auto Rock,Dear Friend (The Secret Of Time Album Version),beast,time,0.14285714285714285
+Auto Rock,Dear Friend (The Secret Of Time Album Version),beast,album,0.5333333333333333
+Auto Rock,Dear Friend (The Secret Of Time Album Version),beast,version,0.13333333333333333
+Auto Rock,Dear Friend (The Secret Of Time Album Version),beast,dear,0.75
+Auto Rock,Dear Friend (The Secret Of Time Album Version),beast,friend,0.8
+Auto Rock,Dear Friend (The Secret Of Time Album Version),beast,secret,0.15384615384615385
+Auto Rock,Dear Friend (The Secret Of Time Album Version),beast,time,0.14285714285714285
+Auto Rock,Dear Friend (The Secret Of Time Album Version),beast,secret,0.15384615384615385
+Auto Rock,Just The Way You Are,auto,way,0.125
+Auto Rock,Just The Way You Are,auto,n,0.23529411764705882
+Auto Rock,Just The Way You Are,auto,heartbreakers,0.4
+Auto Rock,Just The Way You Are,rock,way,0.18181818181818182
+Auto Rock,Just The Way You Are,rock,n,0.3333333333333333
+Auto Rock,Just The Way You Are,rock,heartbreakers,0.5333333333333333
+Auto Rock,Just The Way You Are,mr,way,0.2857142857142857
+Auto Rock,Just The Way You Are,mr,n,0.5
+Auto Rock,Just The Way You Are,mr,heartbreakers,0.13333333333333333
+Auto Rock,Just The Way You Are,beast,way,0.16666666666666666
+Auto Rock,Just The Way You Are,beast,n,0.3076923076923077
+Auto Rock,Just The Way You Are,beast,heartbreakers,0.75
+Auto Rock,Miss Your Touch (Album Version),auto,album,0.631578947368421
+Auto Rock,Miss Your Touch (Album Version),auto,version,0.10526315789473684
+Auto Rock,Miss Your Touch (Album Version),auto,touch,0.1111111111111111
+Auto Rock,Miss Your Touch (Album Version),auto,miss,0.38095238095238093
+Auto Rock,Miss Your Touch (Album Version),auto,cassie,0.34782608695652173
+Auto Rock,Miss Your Touch (Album Version),rock,album,0.5714285714285714
+Auto Rock,Miss Your Touch (Album Version),rock,version,0.14285714285714285
+Auto Rock,Miss Your Touch (Album Version),rock,touch,0.15384615384615385
+Auto Rock,Miss Your Touch (Album Version),rock,miss,0.5
+Auto Rock,Miss Your Touch (Album Version),rock,cassie,0.4444444444444444
+Auto Rock,Miss Your Touch (Album Version),mr,album,0.11764705882352941
+Auto Rock,Miss Your Touch (Album Version),mr,version,0.23529411764705882
+Auto Rock,Miss Your Touch (Album Version),mr,touch,0.25
+Auto Rock,Miss Your Touch (Album Version),mr,miss,0.125
+Auto Rock,Miss Your Touch (Album Version),mr,cassie,0.09523809523809523
+Auto Rock,Miss Your Touch (Album Version),beast,album,0.5333333333333333
+Auto Rock,Miss Your Touch (Album Version),beast,version,0.13333333333333333
+Auto Rock,Miss Your Touch (Album Version),beast,touch,0.14285714285714285
+Auto Rock,Miss Your Touch (Album Version),beast,miss,0.7058823529411765
+Auto Rock,Miss Your Touch (Album Version),beast,cassie,0.631578947368421
+Auto Rock,Green,auto,green,0.10526315789473684
+Auto Rock,Green,auto,abnormal,0
+Auto Rock,Green,rock,green,0.14285714285714285
+Auto Rock,Green,rock,abnormal,0
+Auto Rock,Green,mr,green,0.23529411764705882
+Auto Rock,Green,mr,abnormal,0
+Auto Rock,Green,beast,green,0.13333333333333333
+Auto Rock,Green,beast,abnormal,0
+Auto Rock,Make Music,auto,make,0.09523809523809523
+Auto Rock,Make Music,auto,music,0.125
+Auto Rock,Make Music,auto,waiting,0.1111111111111111
+Auto Rock,Make Music,auto,room,0.5263157894736842
+Auto Rock,Make Music,rock,make,0.125
+Auto Rock,Make Music,rock,music,0.18181818181818182
+Auto Rock,Make Music,rock,waiting,0.15384615384615385
+Auto Rock,Make Music,rock,room,0.5714285714285714
+Auto Rock,Make Music,mr,make,0.21052631578947367
+Auto Rock,Make Music,mr,music,0.2857142857142857
+Auto Rock,Make Music,mr,waiting,0.25
+Auto Rock,Make Music,mr,room,0.11764705882352941
+Auto Rock,Make Music,beast,make,0.11764705882352941
+Auto Rock,Make Music,beast,music,0.16666666666666666
+Auto Rock,Make Music,beast,waiting,0.14285714285714285
+Auto Rock,Make Music,beast,room,0.5333333333333333
+Auto Rock,Stay,auto,stay,0.11764705882352941
+Auto Rock,Stay,auto,essential,0.26666666666666666
+Auto Rock,Stay,auto,eternal,0
+Auto Rock,Stay,rock,stay,0.16666666666666666
+Auto Rock,Stay,rock,essential,0.4
+Auto Rock,Stay,rock,eternal,0
+Auto Rock,Stay,mr,stay,0.26666666666666666
+Auto Rock,Stay,mr,essential,0.15384615384615385
+Auto Rock,Stay,mr,eternal,0
+Auto Rock,Stay,beast,stay,0.15384615384615385
+Auto Rock,Stay,beast,essential,0.36363636363636365
+Auto Rock,Stay,beast,eternal,0
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),auto,digital,0
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),auto,girls,0.38095238095238093
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),auto,version,0.10526315789473684
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),auto,alley,0.47619047619047616
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),auto,greenhouse,0.5263157894736842
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),auto,granny,0.34782608695652173
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),auto,doughnut,0.1111111111111111
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),rock,digital,0
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),rock,girls,0.5
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),rock,version,0.14285714285714285
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),rock,alley,0.5
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),rock,greenhouse,0.5714285714285714
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),rock,granny,0.4444444444444444
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),rock,doughnut,0.15384615384615385
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),mr,digital,0
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),mr,girls,0.125
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),mr,version,0.23529411764705882
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),mr,alley,0.10526315789473684
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),mr,greenhouse,0.11764705882352941
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),mr,granny,0.1111111111111111
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),mr,doughnut,0.25
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),beast,digital,0
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),beast,girls,0.7058823529411765
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),beast,version,0.13333333333333333
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),beast,alley,0.47058823529411764
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),beast,greenhouse,0.5333333333333333
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),beast,granny,0.631578947368421
+Auto Rock,Alley Oop (Girls Version) (2007 Digital Remaster),beast,doughnut,0.14285714285714285
+Auto Rock,Cups,auto,cups,0.7368421052631579
+Auto Rock,Cups,auto,chilled,0
+Auto Rock,Cups,auto,house,0.5263157894736842
+Auto Rock,Cups,auto,session,0.10526315789473684
+Auto Rock,Cups,rock,cups,0.5714285714285714
+Auto Rock,Cups,rock,chilled,0
+Auto Rock,Cups,rock,house,0.5714285714285714
+Auto Rock,Cups,rock,session,0.14285714285714285
+Auto Rock,Cups,mr,cups,0.11764705882352941
+Auto Rock,Cups,mr,chilled,0
+Auto Rock,Cups,mr,house,0.11764705882352941
+Auto Rock,Cups,mr,session,0.23529411764705882
+Auto Rock,Cups,beast,cups,0.5333333333333333
+Auto Rock,Cups,beast,chilled,0
+Auto Rock,Cups,beast,house,0.5333333333333333
+Auto Rock,Cups,beast,session,0.13333333333333333
+Auto Rock,Still Take You Home,auto,still,0.5
+Auto Rock,Still Take You Home,auto,take,0.09523809523809523
+Auto Rock,Still Take You Home,auto,home,0.3
+Auto Rock,Still Take You Home,auto,people,0.13333333333333333
+Auto Rock,Still Take You Home,auto,say,0.10526315789473684
+Auto Rock,Still Take You Home,auto,digital,0
+Auto Rock,Still Take You Home,rock,still,0.5333333333333333
+Auto Rock,Still Take You Home,rock,take,0.125
+Auto Rock,Still Take You Home,rock,home,0.4
+Auto Rock,Still Take You Home,rock,people,0.2
+Auto Rock,Still Take You Home,rock,say,0.14285714285714285
+Auto Rock,Still Take You Home,rock,digital,0
+Auto Rock,Still Take You Home,mr,still,0.1111111111111111
+Auto Rock,Still Take You Home,mr,take,0.3157894736842105
+Auto Rock,Still Take You Home,mr,home,0.1111111111111111
+Auto Rock,Still Take You Home,mr,people,0.3076923076923077
+Auto Rock,Still Take You Home,mr,say,0.23529411764705882
+Auto Rock,Still Take You Home,mr,digital,0
+Auto Rock,Still Take You Home,beast,still,0.5
+Auto Rock,Still Take You Home,beast,take,0.11764705882352941
+Auto Rock,Still Take You Home,beast,home,0.375
+Auto Rock,Still Take You Home,beast,people,0.18181818181818182
+Auto Rock,Still Take You Home,beast,say,0.13333333333333333
+Auto Rock,Still Take You Home,beast,digital,0
+Auto Rock,Milkshake,auto,milkshake,0.10526315789473684
+Auto Rock,Milkshake,auto,original,0.5555555555555556
+Auto Rock,Milkshake,auto,hits,0.1
+Auto Rock,Milkshake,auto,soul,0.23529411764705882
+Auto Rock,Milkshake,auto,rap,0.1
+Auto Rock,Milkshake,rock,milkshake,0.14285714285714285
+Auto Rock,Milkshake,rock,original,0.6153846153846154
+Auto Rock,Milkshake,rock,hits,0.13333333333333333
+Auto Rock,Milkshake,rock,soul,0.3333333333333333
+Auto Rock,Milkshake,rock,rap,0.13333333333333333
+Auto Rock,Milkshake,mr,milkshake,0.23529411764705882
+Auto Rock,Milkshake,mr,original,0.125
+Auto Rock,Milkshake,mr,hits,0.2222222222222222
+Auto Rock,Milkshake,mr,soul,0.13333333333333333
+Auto Rock,Milkshake,mr,rap,0.2222222222222222
+Auto Rock,Milkshake,beast,milkshake,0.13333333333333333
+Auto Rock,Milkshake,beast,original,0.5714285714285714
+Auto Rock,Milkshake,beast,hits,0.125
+Auto Rock,Milkshake,beast,soul,0.3076923076923077
+Auto Rock,Milkshake,beast,rap,0.125
+Auto Rock,The Way She Moves,auto,way,0.125
+Auto Rock,The Way She Moves,auto,moves,0.1
+Auto Rock,The Way She Moves,auto,perfect,0.10526315789473684
+Auto Rock,The Way She Moves,auto,melody,0.11764705882352941
+Auto Rock,The Way She Moves,rock,way,0.18181818181818182
+Auto Rock,The Way She Moves,rock,moves,0.13333333333333333
+Auto Rock,The Way She Moves,rock,perfect,0.14285714285714285
+Auto Rock,The Way She Moves,rock,melody,0.16666666666666666
+Auto Rock,The Way She Moves,mr,way,0.2857142857142857
+Auto Rock,The Way She Moves,mr,moves,0.2222222222222222
+Auto Rock,The Way She Moves,mr,perfect,0.23529411764705882
+Auto Rock,The Way She Moves,mr,melody,0.26666666666666666
+Auto Rock,The Way She Moves,beast,way,0.16666666666666666
+Auto Rock,The Way She Moves,beast,moves,0.125
+Auto Rock,The Way She Moves,beast,perfect,0.13333333333333333
+Auto Rock,The Way She Moves,beast,melody,0.15384615384615385
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),knows,time,0.4
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),knows,album,0.125
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),knows,version,0.25
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),knows,dear,0.14285714285714285
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),knows,friend,0.15384615384615385
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),knows,secret,0.2857142857142857
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),knows,time,0.4
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),knows,secret,0.2857142857142857
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),cares,time,0.5333333333333333
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),cares,album,0.125
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),cares,version,0.25
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),cares,dear,0.14285714285714285
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),cares,friend,0.15384615384615385
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),cares,secret,0.2857142857142857
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),cares,time,0.5333333333333333
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),cares,secret,0.2857142857142857
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),gorilla,time,0.08695652173913043
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),gorilla,dear,0.48
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),gorilla,friend,0.5
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),gorilla,secret,0.09090909090909091
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),gorilla,time,0.08695652173913043
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),gorilla,secret,0.09090909090909091
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),manor,time,0.11764705882352941
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),manor,dear,0.42105263157894735
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),manor,friend,0.4444444444444444
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),manor,secret,0.125
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),manor,time,0.11764705882352941
+Who Knows Who Cares,Dear Friend (The Secret Of Time Album Version),manor,secret,0.125
+Who Knows Who Cares,Just The Way You Are,knows,way,0.3076923076923077
+Who Knows Who Cares,Just The Way You Are,knows,n,0.26666666666666666
+Who Knows Who Cares,Just The Way You Are,knows,heartbreakers,0.14285714285714285
+Who Knows Who Cares,Just The Way You Are,cares,way,0.3076923076923077
+Who Knows Who Cares,Just The Way You Are,cares,n,0.26666666666666666
+Who Knows Who Cares,Just The Way You Are,cares,heartbreakers,0.14285714285714285
+Who Knows Who Cares,Just The Way You Are,gorilla,way,0.09523809523809523
+Who Knows Who Cares,Just The Way You Are,gorilla,n,0.18181818181818182
+Who Knows Who Cares,Just The Way You Are,gorilla,heartbreakers,0.48
+Who Knows Who Cares,Just The Way You Are,manor,way,0.13333333333333333
+Who Knows Who Cares,Just The Way You Are,manor,n,0.25
+Who Knows Who Cares,Just The Way You Are,manor,heartbreakers,0.42105263157894735
+Who Knows Who Cares,Miss Your Touch (Album Version),knows,album,0.125
+Who Knows Who Cares,Miss Your Touch (Album Version),knows,version,0.25
+Who Knows Who Cares,Miss Your Touch (Album Version),knows,touch,0.4
+Who Knows Who Cares,Miss Your Touch (Album Version),knows,miss,0.13333333333333333
+Who Knows Who Cares,Miss Your Touch (Album Version),knows,cassie,0.1
+Who Knows Who Cares,Miss Your Touch (Album Version),cares,album,0.125
+Who Knows Who Cares,Miss Your Touch (Album Version),cares,version,0.25
+Who Knows Who Cares,Miss Your Touch (Album Version),cares,touch,0.5333333333333333
+Who Knows Who Cares,Miss Your Touch (Album Version),cares,miss,0.13333333333333333
+Who Knows Who Cares,Miss Your Touch (Album Version),cares,cassie,0.1
+Who Knows Who Cares,Miss Your Touch (Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,Miss Your Touch (Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Miss Your Touch (Album Version),gorilla,touch,0.08695652173913043
+Who Knows Who Cares,Miss Your Touch (Album Version),gorilla,miss,0.46153846153846156
+Who Knows Who Cares,Miss Your Touch (Album Version),gorilla,cassie,0.42857142857142855
+Who Knows Who Cares,Miss Your Touch (Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,Miss Your Touch (Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Miss Your Touch (Album Version),manor,touch,0.11764705882352941
+Who Knows Who Cares,Miss Your Touch (Album Version),manor,miss,0.4
+Who Knows Who Cares,Miss Your Touch (Album Version),manor,cassie,0.36363636363636365
+Who Knows Who Cares,Green,knows,green,0.25
+Who Knows Who Cares,Green,knows,abnormal,0
+Who Knows Who Cares,Green,cares,green,0.25
+Who Knows Who Cares,Green,cares,abnormal,0
+Who Knows Who Cares,Green,gorilla,green,0.08333333333333333
+Who Knows Who Cares,Green,gorilla,abnormal,0
+Who Knows Who Cares,Green,manor,green,0.1111111111111111
+Who Knows Who Cares,Green,manor,abnormal,0
+Who Knows Who Cares,Make Music,knows,make,0.4444444444444444
+Who Knows Who Cares,Make Music,knows,music,0.3076923076923077
+Who Knows Who Cares,Make Music,knows,waiting,0.4
+Who Knows Who Cares,Make Music,knows,room,0.125
+Who Knows Who Cares,Make Music,cares,make,0.3333333333333333
+Who Knows Who Cares,Make Music,cares,music,0.3076923076923077
+Who Knows Who Cares,Make Music,cares,waiting,0.6666666666666666
+Who Knows Who Cares,Make Music,cares,room,0.125
+Who Knows Who Cares,Make Music,gorilla,make,0.07692307692307693
+Who Knows Who Cares,Make Music,gorilla,music,0.09523809523809523
+Who Knows Who Cares,Make Music,gorilla,waiting,0.08695652173913043
+Who Knows Who Cares,Make Music,gorilla,room,0.3333333333333333
+Who Knows Who Cares,Make Music,manor,make,0.1
+Who Knows Who Cares,Make Music,manor,music,0.13333333333333333
+Who Knows Who Cares,Make Music,manor,waiting,0.11764705882352941
+Who Knows Who Cares,Make Music,manor,room,0.6666666666666666
+Who Knows Who Cares,Stay,knows,stay,0.42857142857142855
+Who Knows Who Cares,Stay,knows,essential,0.16666666666666666
+Who Knows Who Cares,Stay,knows,eternal,0
+Who Knows Who Cares,Stay,cares,stay,0.7142857142857143
+Who Knows Who Cares,Stay,cares,essential,0.16666666666666666
+Who Knows Who Cares,Stay,cares,eternal,0
+Who Knows Who Cares,Stay,gorilla,stay,0.09090909090909091
+Who Knows Who Cares,Stay,gorilla,essential,0.2
+Who Knows Who Cares,Stay,gorilla,eternal,0
+Who Knows Who Cares,Stay,manor,stay,0.125
+Who Knows Who Cares,Stay,manor,essential,0.2857142857142857
+Who Knows Who Cares,Stay,manor,eternal,0
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),knows,digital,0
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),knows,girls,0.13333333333333333
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),knows,version,0.25
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),knows,alley,0.1111111111111111
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),knows,greenhouse,0.125
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),knows,granny,0.11764705882352941
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),knows,doughnut,0.26666666666666666
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),cares,digital,0
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),cares,girls,0.13333333333333333
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),cares,version,0.25
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),cares,alley,0.1111111111111111
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),cares,greenhouse,0.125
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),cares,granny,0.11764705882352941
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),cares,doughnut,0.26666666666666666
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,digital,0
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,girls,0.46153846153846156
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,alley,0.3076923076923077
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,greenhouse,0.3333333333333333
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,granny,0.42857142857142855
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),gorilla,doughnut,0.08695652173913043
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),manor,digital,0
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),manor,girls,0.4
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),manor,version,0.1111111111111111
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),manor,alley,0.5
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),manor,greenhouse,0.7777777777777778
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),manor,granny,0.36363636363636365
+Who Knows Who Cares,Alley Oop (Girls Version) (2007 Digital Remaster),manor,doughnut,0.11764705882352941
+Who Knows Who Cares,Cups,knows,cups,0.125
+Who Knows Who Cares,Cups,knows,chilled,0
+Who Knows Who Cares,Cups,knows,house,0.125
+Who Knows Who Cares,Cups,knows,session,0.25
+Who Knows Who Cares,Cups,cares,cups,0.125
+Who Knows Who Cares,Cups,cares,chilled,0
+Who Knows Who Cares,Cups,cares,house,0.125
+Who Knows Who Cares,Cups,cares,session,0.25
+Who Knows Who Cares,Cups,gorilla,cups,0.3333333333333333
+Who Knows Who Cares,Cups,gorilla,chilled,0
+Who Knows Who Cares,Cups,gorilla,house,0.3333333333333333
+Who Knows Who Cares,Cups,gorilla,session,0.08333333333333333
+Who Knows Who Cares,Cups,manor,cups,0.5555555555555556
+Who Knows Who Cares,Cups,manor,chilled,0
+Who Knows Who Cares,Cups,manor,house,0.8
+Who Knows Who Cares,Cups,manor,session,0.1111111111111111
+Who Knows Who Cares,Still Take You Home,knows,still,0.11764705882352941
+Who Knows Who Cares,Still Take You Home,knows,take,0.2222222222222222
+Who Knows Who Cares,Still Take You Home,knows,home,0.11764705882352941
+Who Knows Who Cares,Still Take You Home,knows,people,0.3333333333333333
+Who Knows Who Cares,Still Take You Home,knows,say,0.25
+Who Knows Who Cares,Still Take You Home,knows,digital,0
+Who Knows Who Cares,Still Take You Home,cares,still,0.11764705882352941
+Who Knows Who Cares,Still Take You Home,cares,take,0.2222222222222222
+Who Knows Who Cares,Still Take You Home,cares,home,0.11764705882352941
+Who Knows Who Cares,Still Take You Home,cares,people,0.3333333333333333
+Who Knows Who Cares,Still Take You Home,cares,say,0.25
+Who Knows Who Cares,Still Take You Home,cares,digital,0
+Who Knows Who Cares,Still Take You Home,gorilla,still,0.32
+Who Knows Who Cares,Still Take You Home,gorilla,take,0.07692307692307693
+Who Knows Who Cares,Still Take You Home,gorilla,home,0.24
+Who Knows Who Cares,Still Take You Home,gorilla,people,0.1
+Who Knows Who Cares,Still Take You Home,gorilla,say,0.08333333333333333
+Who Knows Who Cares,Still Take You Home,gorilla,digital,0
+Who Knows Who Cares,Still Take You Home,manor,still,0.5263157894736842
+Who Knows Who Cares,Still Take You Home,manor,take,0.1
+Who Knows Who Cares,Still Take You Home,manor,home,0.3157894736842105
+Who Knows Who Cares,Still Take You Home,manor,people,0.14285714285714285
+Who Knows Who Cares,Still Take You Home,manor,say,0.1111111111111111
+Who Knows Who Cares,Still Take You Home,manor,digital,0
+Who Knows Who Cares,Milkshake,knows,milkshake,0.25
+Who Knows Who Cares,Milkshake,knows,original,0.13333333333333333
+Who Knows Who Cares,Milkshake,knows,hits,0.35294117647058826
+Who Knows Who Cares,Milkshake,knows,soul,0.14285714285714285
+Who Knows Who Cares,Milkshake,knows,rap,0.23529411764705882
+Who Knows Who Cares,Milkshake,cares,milkshake,0.25
+Who Knows Who Cares,Milkshake,cares,original,0.13333333333333333
+Who Knows Who Cares,Milkshake,cares,hits,0.5882352941176471
+Who Knows Who Cares,Milkshake,cares,soul,0.14285714285714285
+Who Knows Who Cares,Milkshake,cares,rap,0.23529411764705882
+Who Knows Who Cares,Milkshake,gorilla,milkshake,0.08333333333333333
+Who Knows Who Cares,Milkshake,gorilla,original,0.34782608695652173
+Who Knows Who Cares,Milkshake,gorilla,hits,0.08
+Who Knows Who Cares,Milkshake,gorilla,soul,0.18181818181818182
+Who Knows Who Cares,Milkshake,gorilla,rap,0.08
+Who Knows Who Cares,Milkshake,manor,milkshake,0.1111111111111111
+Who Knows Who Cares,Milkshake,manor,original,0.5882352941176471
+Who Knows Who Cares,Milkshake,manor,hits,0.10526315789473684
+Who Knows Who Cares,Milkshake,manor,soul,0.25
+Who Knows Who Cares,Milkshake,manor,rap,0.10526315789473684
+Who Knows Who Cares,The Way She Moves,knows,way,0.3076923076923077
+Who Knows Who Cares,The Way She Moves,knows,moves,0.35294117647058826
+Who Knows Who Cares,The Way She Moves,knows,perfect,0.25
+Who Knows Who Cares,The Way She Moves,knows,melody,0.2857142857142857
+Who Knows Who Cares,The Way She Moves,cares,way,0.3076923076923077
+Who Knows Who Cares,The Way She Moves,cares,moves,0.5882352941176471
+Who Knows Who Cares,The Way She Moves,cares,perfect,0.25
+Who Knows Who Cares,The Way She Moves,cares,melody,0.2857142857142857
+Who Knows Who Cares,The Way She Moves,gorilla,way,0.09523809523809523
+Who Knows Who Cares,The Way She Moves,gorilla,moves,0.08
+Who Knows Who Cares,The Way She Moves,gorilla,perfect,0.08333333333333333
+Who Knows Who Cares,The Way She Moves,gorilla,melody,0.09090909090909091
+Who Knows Who Cares,The Way She Moves,manor,way,0.13333333333333333
+Who Knows Who Cares,The Way She Moves,manor,moves,0.10526315789473684
+Who Knows Who Cares,The Way She Moves,manor,perfect,0.1111111111111111
+Who Knows Who Cares,The Way She Moves,manor,melody,0.125
+Quiet,Dear Friend (The Secret Of Time Album Version),quiet,time,0.1111111111111111
+Quiet,Dear Friend (The Secret Of Time Album Version),quiet,album,0.21052631578947367
+Quiet,Dear Friend (The Secret Of Time Album Version),quiet,version,0.10526315789473684
+Quiet,Dear Friend (The Secret Of Time Album Version),quiet,dear,0.23529411764705882
+Quiet,Dear Friend (The Secret Of Time Album Version),quiet,friend,0.25
+Quiet,Dear Friend (The Secret Of Time Album Version),quiet,secret,0.11764705882352941
+Quiet,Dear Friend (The Secret Of Time Album Version),quiet,time,0.1111111111111111
+Quiet,Dear Friend (The Secret Of Time Album Version),quiet,secret,0.11764705882352941
+Quiet,Dear Friend (The Secret Of Time Album Version),young,time,0.13333333333333333
+Quiet,Dear Friend (The Secret Of Time Album Version),young,album,0.5
+Quiet,Dear Friend (The Secret Of Time Album Version),young,version,0.125
+Quiet,Dear Friend (The Secret Of Time Album Version),young,dear,0.7058823529411765
+Quiet,Dear Friend (The Secret Of Time Album Version),young,friend,0.75
+Quiet,Dear Friend (The Secret Of Time Album Version),young,secret,0.14285714285714285
+Quiet,Dear Friend (The Secret Of Time Album Version),young,time,0.13333333333333333
+Quiet,Dear Friend (The Secret Of Time Album Version),young,secret,0.14285714285714285
+Quiet,Dear Friend (The Secret Of Time Album Version),mountain,time,0.15384615384615385
+Quiet,Dear Friend (The Secret Of Time Album Version),mountain,album,0.42857142857142855
+Quiet,Dear Friend (The Secret Of Time Album Version),mountain,version,0.14285714285714285
+Quiet,Dear Friend (The Secret Of Time Album Version),mountain,dear,0.42857142857142855
+Quiet,Dear Friend (The Secret Of Time Album Version),mountain,friend,0.46153846153846156
+Quiet,Dear Friend (The Secret Of Time Album Version),mountain,secret,0.16666666666666666
+Quiet,Dear Friend (The Secret Of Time Album Version),mountain,time,0.15384615384615385
+Quiet,Dear Friend (The Secret Of Time Album Version),mountain,secret,0.16666666666666666
+Quiet,Just The Way You Are,quiet,way,0.125
+Quiet,Just The Way You Are,quiet,n,0.23529411764705882
+Quiet,Just The Way You Are,quiet,heartbreakers,0.23529411764705882
+Quiet,Just The Way You Are,young,way,0.15384615384615385
+Quiet,Just The Way You Are,young,n,0.2857142857142857
+Quiet,Just The Way You Are,young,heartbreakers,0.7058823529411765
+Quiet,Just The Way You Are,mountain,way,0.18181818181818182
+Quiet,Just The Way You Are,mountain,n,0.3333333333333333
+Quiet,Just The Way You Are,mountain,heartbreakers,0.42857142857142855
+Quiet,Miss Your Touch (Album Version),quiet,album,0.21052631578947367
+Quiet,Miss Your Touch (Album Version),quiet,version,0.10526315789473684
+Quiet,Miss Your Touch (Album Version),quiet,touch,0.1111111111111111
+Quiet,Miss Your Touch (Album Version),quiet,miss,0.2222222222222222
+Quiet,Miss Your Touch (Album Version),quiet,cassie,0.17391304347826086
+Quiet,Miss Your Touch (Album Version),young,album,0.5
+Quiet,Miss Your Touch (Album Version),young,version,0.125
+Quiet,Miss Your Touch (Album Version),young,touch,0.13333333333333333
+Quiet,Miss Your Touch (Album Version),young,miss,0.6666666666666666
+Quiet,Miss Your Touch (Album Version),young,cassie,0.6
+Quiet,Miss Your Touch (Album Version),mountain,album,0.42857142857142855
+Quiet,Miss Your Touch (Album Version),mountain,version,0.14285714285714285
+Quiet,Miss Your Touch (Album Version),mountain,touch,0.15384615384615385
+Quiet,Miss Your Touch (Album Version),mountain,miss,0.4
+Quiet,Miss Your Touch (Album Version),mountain,cassie,0.3333333333333333
+Quiet,Green,quiet,green,0.10526315789473684
+Quiet,Green,quiet,abnormal,0
+Quiet,Green,young,green,0.125
+Quiet,Green,young,abnormal,0
+Quiet,Green,mountain,green,0.14285714285714285
+Quiet,Green,mountain,abnormal,0
+Quiet,Make Music,quiet,make,0.09523809523809523
+Quiet,Make Music,quiet,music,0.125
+Quiet,Make Music,quiet,waiting,0.1111111111111111
+Quiet,Make Music,quiet,room,0.21052631578947367
+Quiet,Make Music,young,make,0.1111111111111111
+Quiet,Make Music,young,music,0.15384615384615385
+Quiet,Make Music,young,waiting,0.13333333333333333
+Quiet,Make Music,young,room,0.5
+Quiet,Make Music,mountain,make,0.125
+Quiet,Make Music,mountain,music,0.18181818181818182
+Quiet,Make Music,mountain,waiting,0.15384615384615385
+Quiet,Make Music,mountain,room,0.42857142857142855
+Quiet,Stay,quiet,stay,0.11764705882352941
+Quiet,Stay,quiet,essential,0.26666666666666666
+Quiet,Stay,quiet,eternal,0
+Quiet,Stay,young,stay,0.14285714285714285
+Quiet,Stay,young,essential,0.3333333333333333
+Quiet,Stay,young,eternal,0
+Quiet,Stay,mountain,stay,0.16666666666666666
+Quiet,Stay,mountain,essential,0.4
+Quiet,Stay,mountain,eternal,0
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),quiet,digital,0
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),quiet,girls,0.2222222222222222
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),quiet,version,0.10526315789473684
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),quiet,alley,0.19047619047619047
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),quiet,greenhouse,0.21052631578947367
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),quiet,granny,0.2
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),quiet,doughnut,0.1111111111111111
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),young,digital,0
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),young,girls,0.6666666666666666
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),young,version,0.125
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),young,alley,0.4444444444444444
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),young,greenhouse,0.5
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),young,granny,0.6
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),young,doughnut,0.13333333333333333
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,digital,0
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,girls,0.4
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,version,0.14285714285714285
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,alley,0.375
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,greenhouse,0.42857142857142855
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,granny,0.35294117647058826
+Quiet,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,doughnut,0.15384615384615385
+Quiet,Cups,quiet,cups,0.21052631578947367
+Quiet,Cups,quiet,chilled,0
+Quiet,Cups,quiet,house,0.21052631578947367
+Quiet,Cups,quiet,session,0.10526315789473684
+Quiet,Cups,young,cups,0.5
+Quiet,Cups,young,chilled,0
+Quiet,Cups,young,house,0.5
+Quiet,Cups,young,session,0.125
+Quiet,Cups,mountain,cups,0.42857142857142855
+Quiet,Cups,mountain,chilled,0
+Quiet,Cups,mountain,house,0.42857142857142855
+Quiet,Cups,mountain,session,0.14285714285714285
+Quiet,Still Take You Home,quiet,still,0.2
+Quiet,Still Take You Home,quiet,take,0.09523809523809523
+Quiet,Still Take You Home,quiet,home,0.2
+Quiet,Still Take You Home,quiet,people,0.13333333333333333
+Quiet,Still Take You Home,quiet,say,0.10526315789473684
+Quiet,Still Take You Home,quiet,digital,0
+Quiet,Still Take You Home,young,still,0.47058823529411764
+Quiet,Still Take You Home,young,take,0.1111111111111111
+Quiet,Still Take You Home,young,home,0.35294117647058826
+Quiet,Still Take You Home,young,people,0.16666666666666666
+Quiet,Still Take You Home,young,say,0.125
+Quiet,Still Take You Home,young,digital,0
+Quiet,Still Take You Home,mountain,still,0.4
+Quiet,Still Take You Home,mountain,take,0.125
+Quiet,Still Take You Home,mountain,home,0.4
+Quiet,Still Take You Home,mountain,people,0.2
+Quiet,Still Take You Home,mountain,say,0.14285714285714285
+Quiet,Still Take You Home,mountain,digital,0
+Quiet,Milkshake,quiet,milkshake,0.10526315789473684
+Quiet,Milkshake,quiet,original,0.2222222222222222
+Quiet,Milkshake,quiet,hits,0.1
+Quiet,Milkshake,quiet,soul,0.23529411764705882
+Quiet,Milkshake,quiet,rap,0.1
+Quiet,Milkshake,young,milkshake,0.125
+Quiet,Milkshake,young,original,0.5333333333333333
+Quiet,Milkshake,young,hits,0.11764705882352941
+Quiet,Milkshake,young,soul,0.2857142857142857
+Quiet,Milkshake,young,rap,0.11764705882352941
+Quiet,Milkshake,mountain,milkshake,0.14285714285714285
+Quiet,Milkshake,mountain,original,0.46153846153846156
+Quiet,Milkshake,mountain,hits,0.13333333333333333
+Quiet,Milkshake,mountain,soul,0.3333333333333333
+Quiet,Milkshake,mountain,rap,0.13333333333333333
+Quiet,The Way She Moves,quiet,way,0.125
+Quiet,The Way She Moves,quiet,moves,0.1
+Quiet,The Way She Moves,quiet,perfect,0.10526315789473684
+Quiet,The Way She Moves,quiet,melody,0.11764705882352941
+Quiet,The Way She Moves,young,way,0.15384615384615385
+Quiet,The Way She Moves,young,moves,0.11764705882352941
+Quiet,The Way She Moves,young,perfect,0.125
+Quiet,The Way She Moves,young,melody,0.14285714285714285
+Quiet,The Way She Moves,mountain,way,0.18181818181818182
+Quiet,The Way She Moves,mountain,moves,0.13333333333333333
+Quiet,The Way She Moves,mountain,perfect,0.14285714285714285
+Quiet,The Way She Moves,mountain,melody,0.16666666666666666
+Girlfriend,Dear Friend (The Secret Of Time Album Version),girlfriend,time,0.15384615384615385
+Girlfriend,Dear Friend (The Secret Of Time Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,Dear Friend (The Secret Of Time Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,Dear Friend (The Secret Of Time Album Version),girlfriend,dear,0.6666666666666666
+Girlfriend,Dear Friend (The Secret Of Time Album Version),girlfriend,friend,0.7058823529411765
+Girlfriend,Dear Friend (The Secret Of Time Album Version),girlfriend,secret,0.16666666666666666
+Girlfriend,Dear Friend (The Secret Of Time Album Version),girlfriend,time,0.15384615384615385
+Girlfriend,Dear Friend (The Secret Of Time Album Version),girlfriend,secret,0.16666666666666666
+Girlfriend,Dear Friend (The Secret Of Time Album Version),phoenix,time,0.1111111111111111
+Girlfriend,Dear Friend (The Secret Of Time Album Version),phoenix,album,0.3157894736842105
+Girlfriend,Dear Friend (The Secret Of Time Album Version),phoenix,version,0.10526315789473684
+Girlfriend,Dear Friend (The Secret Of Time Album Version),phoenix,dear,0.3157894736842105
+Girlfriend,Dear Friend (The Secret Of Time Album Version),phoenix,friend,0.3333333333333333
+Girlfriend,Dear Friend (The Secret Of Time Album Version),phoenix,secret,0.11764705882352941
+Girlfriend,Dear Friend (The Secret Of Time Album Version),phoenix,time,0.1111111111111111
+Girlfriend,Dear Friend (The Secret Of Time Album Version),phoenix,secret,0.11764705882352941
+Girlfriend,Just The Way You Are,girlfriend,way,0.18181818181818182
+Girlfriend,Just The Way You Are,girlfriend,n,0.3333333333333333
+Girlfriend,Just The Way You Are,girlfriend,heartbreakers,0.6666666666666666
+Girlfriend,Just The Way You Are,phoenix,way,0.125
+Girlfriend,Just The Way You Are,phoenix,n,0.23529411764705882
+Girlfriend,Just The Way You Are,phoenix,heartbreakers,0.3157894736842105
+Girlfriend,Miss Your Touch (Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,Miss Your Touch (Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,Miss Your Touch (Album Version),girlfriend,touch,0.15384615384615385
+Girlfriend,Miss Your Touch (Album Version),girlfriend,miss,0.631578947368421
+Girlfriend,Miss Your Touch (Album Version),girlfriend,cassie,0.5714285714285714
+Girlfriend,Miss Your Touch (Album Version),phoenix,album,0.3157894736842105
+Girlfriend,Miss Your Touch (Album Version),phoenix,version,0.10526315789473684
+Girlfriend,Miss Your Touch (Album Version),phoenix,touch,0.1111111111111111
+Girlfriend,Miss Your Touch (Album Version),phoenix,miss,0.3
+Girlfriend,Miss Your Touch (Album Version),phoenix,cassie,0.2608695652173913
+Girlfriend,Green,girlfriend,green,0.14285714285714285
+Girlfriend,Green,girlfriend,abnormal,0
+Girlfriend,Green,phoenix,green,0.10526315789473684
+Girlfriend,Green,phoenix,abnormal,0
+Girlfriend,Make Music,girlfriend,make,0.125
+Girlfriend,Make Music,girlfriend,music,0.18181818181818182
+Girlfriend,Make Music,girlfriend,waiting,0.15384615384615385
+Girlfriend,Make Music,girlfriend,room,0.47058823529411764
+Girlfriend,Make Music,phoenix,make,0.09523809523809523
+Girlfriend,Make Music,phoenix,music,0.125
+Girlfriend,Make Music,phoenix,waiting,0.1111111111111111
+Girlfriend,Make Music,phoenix,room,0.3157894736842105
+Girlfriend,Stay,girlfriend,stay,0.16666666666666666
+Girlfriend,Stay,girlfriend,essential,0.4
+Girlfriend,Stay,girlfriend,eternal,0
+Girlfriend,Stay,phoenix,stay,0.11764705882352941
+Girlfriend,Stay,phoenix,essential,0.26666666666666666
+Girlfriend,Stay,phoenix,eternal,0
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),girlfriend,digital,0
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),girlfriend,girls,0.631578947368421
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),girlfriend,version,0.14285714285714285
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),girlfriend,alley,0.42105263157894735
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),girlfriend,greenhouse,0.47058823529411764
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),girlfriend,granny,0.5714285714285714
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),girlfriend,doughnut,0.15384615384615385
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,digital,0
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,girls,0.3
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,version,0.10526315789473684
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,alley,0.2857142857142857
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,greenhouse,0.3157894736842105
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,granny,0.2727272727272727
+Girlfriend,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,doughnut,0.1111111111111111
+Girlfriend,Cups,girlfriend,cups,0.47058823529411764
+Girlfriend,Cups,girlfriend,chilled,0
+Girlfriend,Cups,girlfriend,house,0.47058823529411764
+Girlfriend,Cups,girlfriend,session,0.14285714285714285
+Girlfriend,Cups,phoenix,cups,0.3157894736842105
+Girlfriend,Cups,phoenix,chilled,0
+Girlfriend,Cups,phoenix,house,0.3157894736842105
+Girlfriend,Cups,phoenix,session,0.10526315789473684
+Girlfriend,Still Take You Home,girlfriend,still,0.4444444444444444
+Girlfriend,Still Take You Home,girlfriend,take,0.125
+Girlfriend,Still Take You Home,girlfriend,home,0.35294117647058826
+Girlfriend,Still Take You Home,girlfriend,people,0.2
+Girlfriend,Still Take You Home,girlfriend,say,0.14285714285714285
+Girlfriend,Still Take You Home,girlfriend,digital,0
+Girlfriend,Still Take You Home,phoenix,still,0.3
+Girlfriend,Still Take You Home,phoenix,take,0.09523809523809523
+Girlfriend,Still Take You Home,phoenix,home,0.4
+Girlfriend,Still Take You Home,phoenix,people,0.13333333333333333
+Girlfriend,Still Take You Home,phoenix,say,0.10526315789473684
+Girlfriend,Still Take You Home,phoenix,digital,0
+Girlfriend,Milkshake,girlfriend,milkshake,0.14285714285714285
+Girlfriend,Milkshake,girlfriend,original,0.5
+Girlfriend,Milkshake,girlfriend,hits,0.13333333333333333
+Girlfriend,Milkshake,girlfriend,soul,0.5
+Girlfriend,Milkshake,girlfriend,rap,0.13333333333333333
+Girlfriend,Milkshake,phoenix,milkshake,0.10526315789473684
+Girlfriend,Milkshake,phoenix,original,0.3333333333333333
+Girlfriend,Milkshake,phoenix,hits,0.1
+Girlfriend,Milkshake,phoenix,soul,0.23529411764705882
+Girlfriend,Milkshake,phoenix,rap,0.1
+Girlfriend,The Way She Moves,girlfriend,way,0.18181818181818182
+Girlfriend,The Way She Moves,girlfriend,moves,0.13333333333333333
+Girlfriend,The Way She Moves,girlfriend,perfect,0.14285714285714285
+Girlfriend,The Way She Moves,girlfriend,melody,0.16666666666666666
+Girlfriend,The Way She Moves,phoenix,way,0.125
+Girlfriend,The Way She Moves,phoenix,moves,0.1
+Girlfriend,The Way She Moves,phoenix,perfect,0.10526315789473684
+Girlfriend,The Way She Moves,phoenix,melody,0.11764705882352941
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),together,time,0
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),together,album,0
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),together,version,0
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),together,dear,0
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),together,friend,0
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),together,secret,0
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),together,time,0
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),together,secret,0
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),happiness,time,0.26666666666666666
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),happiness,album,0.125
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),happiness,version,0.25
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),happiness,dear,0.14285714285714285
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),happiness,friend,0.15384615384615385
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),happiness,secret,0.2857142857142857
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),happiness,time,0.26666666666666666
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),happiness,secret,0.2857142857142857
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),young,time,0.13333333333333333
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),young,album,0.5
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),young,version,0.125
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),young,dear,0.7058823529411765
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),young,friend,0.75
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),young,secret,0.14285714285714285
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),young,time,0.13333333333333333
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),young,secret,0.14285714285714285
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),mountain,time,0.15384615384615385
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),mountain,dear,0.42857142857142855
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),mountain,friend,0.46153846153846156
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),mountain,secret,0.16666666666666666
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),mountain,time,0.15384615384615385
+Happiness: We're All In It Together,Dear Friend (The Secret Of Time Album Version),mountain,secret,0.16666666666666666
+Happiness: We're All In It Together,Just The Way You Are,together,way,0
+Happiness: We're All In It Together,Just The Way You Are,together,n,0
+Happiness: We're All In It Together,Just The Way You Are,together,heartbreakers,0
+Happiness: We're All In It Together,Just The Way You Are,happiness,way,0.46153846153846156
+Happiness: We're All In It Together,Just The Way You Are,happiness,n,0.26666666666666666
+Happiness: We're All In It Together,Just The Way You Are,happiness,heartbreakers,0.14285714285714285
+Happiness: We're All In It Together,Just The Way You Are,young,way,0.15384615384615385
+Happiness: We're All In It Together,Just The Way You Are,young,n,0.2857142857142857
+Happiness: We're All In It Together,Just The Way You Are,young,heartbreakers,0.7058823529411765
+Happiness: We're All In It Together,Just The Way You Are,mountain,way,0.18181818181818182
+Happiness: We're All In It Together,Just The Way You Are,mountain,n,0.3333333333333333
+Happiness: We're All In It Together,Just The Way You Are,mountain,heartbreakers,0.42857142857142855
+Happiness: We're All In It Together,Miss Your Touch (Album Version),together,album,0
+Happiness: We're All In It Together,Miss Your Touch (Album Version),together,version,0
+Happiness: We're All In It Together,Miss Your Touch (Album Version),together,touch,0
+Happiness: We're All In It Together,Miss Your Touch (Album Version),together,miss,0
+Happiness: We're All In It Together,Miss Your Touch (Album Version),together,cassie,0
+Happiness: We're All In It Together,Miss Your Touch (Album Version),happiness,album,0.125
+Happiness: We're All In It Together,Miss Your Touch (Album Version),happiness,version,0.25
+Happiness: We're All In It Together,Miss Your Touch (Album Version),happiness,touch,0.26666666666666666
+Happiness: We're All In It Together,Miss Your Touch (Album Version),happiness,miss,0.13333333333333333
+Happiness: We're All In It Together,Miss Your Touch (Album Version),happiness,cassie,0.1
+Happiness: We're All In It Together,Miss Your Touch (Album Version),young,album,0.5
+Happiness: We're All In It Together,Miss Your Touch (Album Version),young,version,0.125
+Happiness: We're All In It Together,Miss Your Touch (Album Version),young,touch,0.13333333333333333
+Happiness: We're All In It Together,Miss Your Touch (Album Version),young,miss,0.6666666666666666
+Happiness: We're All In It Together,Miss Your Touch (Album Version),young,cassie,0.6
+Happiness: We're All In It Together,Miss Your Touch (Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,Miss Your Touch (Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Miss Your Touch (Album Version),mountain,touch,0.15384615384615385
+Happiness: We're All In It Together,Miss Your Touch (Album Version),mountain,miss,0.4
+Happiness: We're All In It Together,Miss Your Touch (Album Version),mountain,cassie,0.3333333333333333
+Happiness: We're All In It Together,Green,together,green,0
+Happiness: We're All In It Together,Green,together,abnormal,0
+Happiness: We're All In It Together,Green,happiness,green,0.375
+Happiness: We're All In It Together,Green,happiness,abnormal,0
+Happiness: We're All In It Together,Green,young,green,0.125
+Happiness: We're All In It Together,Green,young,abnormal,0
+Happiness: We're All In It Together,Green,mountain,green,0.14285714285714285
+Happiness: We're All In It Together,Green,mountain,abnormal,0
+Happiness: We're All In It Together,Make Music,together,make,0
+Happiness: We're All In It Together,Make Music,together,music,0
+Happiness: We're All In It Together,Make Music,together,waiting,0
+Happiness: We're All In It Together,Make Music,together,room,0
+Happiness: We're All In It Together,Make Music,happiness,make,0.2222222222222222
+Happiness: We're All In It Together,Make Music,happiness,music,0.3076923076923077
+Happiness: We're All In It Together,Make Music,happiness,waiting,0.26666666666666666
+Happiness: We're All In It Together,Make Music,happiness,room,0.125
+Happiness: We're All In It Together,Make Music,young,make,0.1111111111111111
+Happiness: We're All In It Together,Make Music,young,music,0.15384615384615385
+Happiness: We're All In It Together,Make Music,young,waiting,0.13333333333333333
+Happiness: We're All In It Together,Make Music,young,room,0.5
+Happiness: We're All In It Together,Make Music,mountain,make,0.125
+Happiness: We're All In It Together,Make Music,mountain,music,0.18181818181818182
+Happiness: We're All In It Together,Make Music,mountain,waiting,0.15384615384615385
+Happiness: We're All In It Together,Make Music,mountain,room,0.42857142857142855
+Happiness: We're All In It Together,Stay,together,stay,0
+Happiness: We're All In It Together,Stay,together,essential,0
+Happiness: We're All In It Together,Stay,together,eternal,0
+Happiness: We're All In It Together,Stay,happiness,stay,0.2857142857142857
+Happiness: We're All In It Together,Stay,happiness,essential,0.16666666666666666
+Happiness: We're All In It Together,Stay,happiness,eternal,0
+Happiness: We're All In It Together,Stay,young,stay,0.14285714285714285
+Happiness: We're All In It Together,Stay,young,essential,0.3333333333333333
+Happiness: We're All In It Together,Stay,young,eternal,0
+Happiness: We're All In It Together,Stay,mountain,stay,0.16666666666666666
+Happiness: We're All In It Together,Stay,mountain,essential,0.4
+Happiness: We're All In It Together,Stay,mountain,eternal,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),together,digital,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),together,girls,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),together,version,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),together,alley,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),together,greenhouse,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),together,granny,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),together,doughnut,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),happiness,digital,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),happiness,girls,0.13333333333333333
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),happiness,version,0.25
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),happiness,alley,0.1111111111111111
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),happiness,greenhouse,0.125
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),happiness,granny,0.11764705882352941
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),happiness,doughnut,0.4
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),young,digital,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),young,girls,0.6666666666666666
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),young,version,0.125
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),young,alley,0.4444444444444444
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),young,greenhouse,0.5
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),young,granny,0.6
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),young,doughnut,0.13333333333333333
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,digital,0
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,girls,0.4
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,alley,0.375
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,greenhouse,0.42857142857142855
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,granny,0.35294117647058826
+Happiness: We're All In It Together,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,doughnut,0.15384615384615385
+Happiness: We're All In It Together,Cups,together,cups,0
+Happiness: We're All In It Together,Cups,together,chilled,0
+Happiness: We're All In It Together,Cups,together,house,0
+Happiness: We're All In It Together,Cups,together,session,0
+Happiness: We're All In It Together,Cups,happiness,cups,0.125
+Happiness: We're All In It Together,Cups,happiness,chilled,0
+Happiness: We're All In It Together,Cups,happiness,house,0.125
+Happiness: We're All In It Together,Cups,happiness,session,0.25
+Happiness: We're All In It Together,Cups,young,cups,0.5
+Happiness: We're All In It Together,Cups,young,chilled,0
+Happiness: We're All In It Together,Cups,young,house,0.5
+Happiness: We're All In It Together,Cups,young,session,0.125
+Happiness: We're All In It Together,Cups,mountain,cups,0.42857142857142855
+Happiness: We're All In It Together,Cups,mountain,chilled,0
+Happiness: We're All In It Together,Cups,mountain,house,0.42857142857142855
+Happiness: We're All In It Together,Cups,mountain,session,0.14285714285714285
+Happiness: We're All In It Together,Still Take You Home,together,still,0
+Happiness: We're All In It Together,Still Take You Home,together,take,0
+Happiness: We're All In It Together,Still Take You Home,together,home,0
+Happiness: We're All In It Together,Still Take You Home,together,people,0
+Happiness: We're All In It Together,Still Take You Home,together,say,0
+Happiness: We're All In It Together,Still Take You Home,together,digital,0
+Happiness: We're All In It Together,Still Take You Home,happiness,still,0.11764705882352941
+Happiness: We're All In It Together,Still Take You Home,happiness,take,0.2222222222222222
+Happiness: We're All In It Together,Still Take You Home,happiness,home,0.11764705882352941
+Happiness: We're All In It Together,Still Take You Home,happiness,people,0.3333333333333333
+Happiness: We're All In It Together,Still Take You Home,happiness,say,0.5
+Happiness: We're All In It Together,Still Take You Home,happiness,digital,0
+Happiness: We're All In It Together,Still Take You Home,young,still,0.47058823529411764
+Happiness: We're All In It Together,Still Take You Home,young,take,0.1111111111111111
+Happiness: We're All In It Together,Still Take You Home,young,home,0.35294117647058826
+Happiness: We're All In It Together,Still Take You Home,young,people,0.16666666666666666
+Happiness: We're All In It Together,Still Take You Home,young,say,0.125
+Happiness: We're All In It Together,Still Take You Home,young,digital,0
+Happiness: We're All In It Together,Still Take You Home,mountain,still,0.4
+Happiness: We're All In It Together,Still Take You Home,mountain,take,0.125
+Happiness: We're All In It Together,Still Take You Home,mountain,home,0.4
+Happiness: We're All In It Together,Still Take You Home,mountain,people,0.2
+Happiness: We're All In It Together,Still Take You Home,mountain,say,0.14285714285714285
+Happiness: We're All In It Together,Still Take You Home,mountain,digital,0
+Happiness: We're All In It Together,Milkshake,together,milkshake,0
+Happiness: We're All In It Together,Milkshake,together,original,0
+Happiness: We're All In It Together,Milkshake,together,hits,0
+Happiness: We're All In It Together,Milkshake,together,soul,0
+Happiness: We're All In It Together,Milkshake,together,rap,0
+Happiness: We're All In It Together,Milkshake,happiness,milkshake,0.25
+Happiness: We're All In It Together,Milkshake,happiness,original,0.13333333333333333
+Happiness: We're All In It Together,Milkshake,happiness,hits,0.23529411764705882
+Happiness: We're All In It Together,Milkshake,happiness,soul,0.14285714285714285
+Happiness: We're All In It Together,Milkshake,happiness,rap,0.23529411764705882
+Happiness: We're All In It Together,Milkshake,young,milkshake,0.125
+Happiness: We're All In It Together,Milkshake,young,original,0.5333333333333333
+Happiness: We're All In It Together,Milkshake,young,hits,0.11764705882352941
+Happiness: We're All In It Together,Milkshake,young,soul,0.2857142857142857
+Happiness: We're All In It Together,Milkshake,young,rap,0.11764705882352941
+Happiness: We're All In It Together,Milkshake,mountain,milkshake,0.14285714285714285
+Happiness: We're All In It Together,Milkshake,mountain,original,0.46153846153846156
+Happiness: We're All In It Together,Milkshake,mountain,hits,0.13333333333333333
+Happiness: We're All In It Together,Milkshake,mountain,soul,0.3333333333333333
+Happiness: We're All In It Together,Milkshake,mountain,rap,0.13333333333333333
+Happiness: We're All In It Together,The Way She Moves,together,way,0
+Happiness: We're All In It Together,The Way She Moves,together,moves,0
+Happiness: We're All In It Together,The Way She Moves,together,perfect,0
+Happiness: We're All In It Together,The Way She Moves,together,melody,0
+Happiness: We're All In It Together,The Way She Moves,happiness,way,0.46153846153846156
+Happiness: We're All In It Together,The Way She Moves,happiness,moves,0.23529411764705882
+Happiness: We're All In It Together,The Way She Moves,happiness,perfect,0.25
+Happiness: We're All In It Together,The Way She Moves,happiness,melody,0.2857142857142857
+Happiness: We're All In It Together,The Way She Moves,young,way,0.15384615384615385
+Happiness: We're All In It Together,The Way She Moves,young,moves,0.11764705882352941
+Happiness: We're All In It Together,The Way She Moves,young,perfect,0.125
+Happiness: We're All In It Together,The Way She Moves,young,melody,0.14285714285714285
+Happiness: We're All In It Together,The Way She Moves,mountain,way,0.18181818181818182
+Happiness: We're All In It Together,The Way She Moves,mountain,moves,0.13333333333333333
+Happiness: We're All In It Together,The Way She Moves,mountain,perfect,0.14285714285714285
+Happiness: We're All In It Together,The Way She Moves,mountain,melody,0.16666666666666666
+Armistice,Dear Friend (The Secret Of Time Album Version),armistice,time,0.2857142857142857
+Armistice,Dear Friend (The Secret Of Time Album Version),armistice,album,0.13333333333333333
+Armistice,Dear Friend (The Secret Of Time Album Version),armistice,version,0.26666666666666666
+Armistice,Dear Friend (The Secret Of Time Album Version),armistice,dear,0.15384615384615385
+Armistice,Dear Friend (The Secret Of Time Album Version),armistice,friend,0.16666666666666666
+Armistice,Dear Friend (The Secret Of Time Album Version),armistice,secret,0.3076923076923077
+Armistice,Dear Friend (The Secret Of Time Album Version),armistice,time,0.2857142857142857
+Armistice,Dear Friend (The Secret Of Time Album Version),armistice,secret,0.3076923076923077
+Armistice,Dear Friend (The Secret Of Time Album Version),phoenix,time,0.1111111111111111
+Armistice,Dear Friend (The Secret Of Time Album Version),phoenix,album,0.3157894736842105
+Armistice,Dear Friend (The Secret Of Time Album Version),phoenix,version,0.10526315789473684
+Armistice,Dear Friend (The Secret Of Time Album Version),phoenix,dear,0.3157894736842105
+Armistice,Dear Friend (The Secret Of Time Album Version),phoenix,friend,0.3333333333333333
+Armistice,Dear Friend (The Secret Of Time Album Version),phoenix,secret,0.11764705882352941
+Armistice,Dear Friend (The Secret Of Time Album Version),phoenix,time,0.1111111111111111
+Armistice,Dear Friend (The Secret Of Time Album Version),phoenix,secret,0.11764705882352941
+Armistice,Just The Way You Are,armistice,way,0.5
+Armistice,Just The Way You Are,armistice,n,0.2857142857142857
+Armistice,Just The Way You Are,armistice,heartbreakers,0.15384615384615385
+Armistice,Just The Way You Are,phoenix,way,0.125
+Armistice,Just The Way You Are,phoenix,n,0.23529411764705882
+Armistice,Just The Way You Are,phoenix,heartbreakers,0.3157894736842105
+Armistice,Miss Your Touch (Album Version),armistice,album,0.13333333333333333
+Armistice,Miss Your Touch (Album Version),armistice,version,0.26666666666666666
+Armistice,Miss Your Touch (Album Version),armistice,touch,0.2857142857142857
+Armistice,Miss Your Touch (Album Version),armistice,miss,0.14285714285714285
+Armistice,Miss Your Touch (Album Version),armistice,cassie,0.10526315789473684
+Armistice,Miss Your Touch (Album Version),phoenix,album,0.3157894736842105
+Armistice,Miss Your Touch (Album Version),phoenix,version,0.10526315789473684
+Armistice,Miss Your Touch (Album Version),phoenix,touch,0.1111111111111111
+Armistice,Miss Your Touch (Album Version),phoenix,miss,0.3
+Armistice,Miss Your Touch (Album Version),phoenix,cassie,0.2608695652173913
+Armistice,Green,armistice,green,0.4
+Armistice,Green,armistice,abnormal,0
+Armistice,Green,phoenix,green,0.10526315789473684
+Armistice,Green,phoenix,abnormal,0
+Armistice,Make Music,armistice,make,0.23529411764705882
+Armistice,Make Music,armistice,music,0.3333333333333333
+Armistice,Make Music,armistice,waiting,0.2857142857142857
+Armistice,Make Music,armistice,room,0.13333333333333333
+Armistice,Make Music,phoenix,make,0.09523809523809523
+Armistice,Make Music,phoenix,music,0.125
+Armistice,Make Music,phoenix,waiting,0.1111111111111111
+Armistice,Make Music,phoenix,room,0.3157894736842105
+Armistice,Stay,armistice,stay,0.3076923076923077
+Armistice,Stay,armistice,essential,0.18181818181818182
+Armistice,Stay,armistice,eternal,0
+Armistice,Stay,phoenix,stay,0.11764705882352941
+Armistice,Stay,phoenix,essential,0.26666666666666666
+Armistice,Stay,phoenix,eternal,0
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),armistice,digital,0
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),armistice,girls,0.14285714285714285
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),armistice,version,0.26666666666666666
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),armistice,alley,0.11764705882352941
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),armistice,greenhouse,0.13333333333333333
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),armistice,granny,0.125
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),armistice,doughnut,0.42857142857142855
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,digital,0
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,girls,0.3
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,version,0.10526315789473684
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,alley,0.2857142857142857
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,greenhouse,0.3157894736842105
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,granny,0.2727272727272727
+Armistice,Alley Oop (Girls Version) (2007 Digital Remaster),phoenix,doughnut,0.1111111111111111
+Armistice,Cups,armistice,cups,0.13333333333333333
+Armistice,Cups,armistice,chilled,0
+Armistice,Cups,armistice,house,0.13333333333333333
+Armistice,Cups,armistice,session,0.26666666666666666
+Armistice,Cups,phoenix,cups,0.3157894736842105
+Armistice,Cups,phoenix,chilled,0
+Armistice,Cups,phoenix,house,0.3157894736842105
+Armistice,Cups,phoenix,session,0.10526315789473684
+Armistice,Still Take You Home,armistice,still,0.125
+Armistice,Still Take You Home,armistice,take,0.23529411764705882
+Armistice,Still Take You Home,armistice,home,0.125
+Armistice,Still Take You Home,armistice,people,0.36363636363636365
+Armistice,Still Take You Home,armistice,say,0.5333333333333333
+Armistice,Still Take You Home,armistice,digital,0
+Armistice,Still Take You Home,phoenix,still,0.3
+Armistice,Still Take You Home,phoenix,take,0.09523809523809523
+Armistice,Still Take You Home,phoenix,home,0.4
+Armistice,Still Take You Home,phoenix,people,0.13333333333333333
+Armistice,Still Take You Home,phoenix,say,0.10526315789473684
+Armistice,Still Take You Home,phoenix,digital,0
+Armistice,Milkshake,armistice,milkshake,0.26666666666666666
+Armistice,Milkshake,armistice,original,0.14285714285714285
+Armistice,Milkshake,armistice,hits,0.25
+Armistice,Milkshake,armistice,soul,0.15384615384615385
+Armistice,Milkshake,armistice,rap,0.25
+Armistice,Milkshake,phoenix,milkshake,0.10526315789473684
+Armistice,Milkshake,phoenix,original,0.3333333333333333
+Armistice,Milkshake,phoenix,hits,0.1
+Armistice,Milkshake,phoenix,soul,0.23529411764705882
+Armistice,Milkshake,phoenix,rap,0.1
+Armistice,The Way She Moves,armistice,way,0.5
+Armistice,The Way She Moves,armistice,moves,0.25
+Armistice,The Way She Moves,armistice,perfect,0.26666666666666666
+Armistice,The Way She Moves,armistice,melody,0.3076923076923077
+Armistice,The Way She Moves,phoenix,way,0.125
+Armistice,The Way She Moves,phoenix,moves,0.1
+Armistice,The Way She Moves,phoenix,perfect,0.10526315789473684
+Armistice,The Way She Moves,phoenix,melody,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),remedies,time,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),remedies,dear,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),remedies,friend,0.125
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),remedies,secret,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),remedies,time,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),remedies,secret,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),worse,time,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),worse,dear,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),worse,friend,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),worse,secret,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),worse,time,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),worse,secret,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),disease,time,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),disease,dear,0.125
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),disease,friend,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),disease,secret,0.25
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),disease,time,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),disease,secret,0.25
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),young,time,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),young,dear,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),young,friend,0.75
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),young,secret,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),young,time,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),young,secret,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),mountain,time,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),mountain,dear,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),mountain,friend,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),mountain,secret,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),mountain,time,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Dear Friend (The Secret Of Time Album Version),mountain,secret,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,remedies,way,0.25
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,remedies,n,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,remedies,heartbreakers,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,worse,way,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,worse,n,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,worse,heartbreakers,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,disease,way,0.4
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,disease,n,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,disease,heartbreakers,0.125
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,young,way,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,young,n,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,young,heartbreakers,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,mountain,way,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,mountain,n,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Just The Way You Are,mountain,heartbreakers,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),remedies,touch,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),remedies,miss,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),remedies,cassie,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),worse,touch,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),worse,miss,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),worse,cassie,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),disease,touch,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),disease,miss,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),disease,cassie,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),young,touch,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),young,miss,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),young,cassie,0.6
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),mountain,touch,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),mountain,miss,0.4
+There Are Some Remedies Worse Than The Disease,Miss Your Touch (Album Version),mountain,cassie,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Green,remedies,green,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Green,remedies,abnormal,0
+There Are Some Remedies Worse Than The Disease,Green,worse,green,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Green,worse,abnormal,0
+There Are Some Remedies Worse Than The Disease,Green,disease,green,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Green,disease,abnormal,0
+There Are Some Remedies Worse Than The Disease,Green,young,green,0.125
+There Are Some Remedies Worse Than The Disease,Green,young,abnormal,0
+There Are Some Remedies Worse Than The Disease,Green,mountain,green,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Green,mountain,abnormal,0
+There Are Some Remedies Worse Than The Disease,Make Music,remedies,make,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Make Music,remedies,music,0.25
+There Are Some Remedies Worse Than The Disease,Make Music,remedies,waiting,0.5555555555555556
+There Are Some Remedies Worse Than The Disease,Make Music,remedies,room,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Make Music,worse,make,0.25
+There Are Some Remedies Worse Than The Disease,Make Music,worse,music,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Make Music,worse,waiting,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Make Music,worse,room,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Make Music,disease,make,0.2
+There Are Some Remedies Worse Than The Disease,Make Music,disease,music,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Make Music,disease,waiting,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Make Music,disease,room,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Make Music,young,make,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Make Music,young,music,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Make Music,young,waiting,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Make Music,young,room,0.5
+There Are Some Remedies Worse Than The Disease,Make Music,mountain,make,0.125
+There Are Some Remedies Worse Than The Disease,Make Music,mountain,music,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Make Music,mountain,waiting,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Make Music,mountain,room,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Stay,remedies,stay,0.5882352941176471
+There Are Some Remedies Worse Than The Disease,Stay,remedies,essential,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Stay,remedies,eternal,0
+There Are Some Remedies Worse Than The Disease,Stay,worse,stay,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Stay,worse,essential,0.2
+There Are Some Remedies Worse Than The Disease,Stay,worse,eternal,0
+There Are Some Remedies Worse Than The Disease,Stay,disease,stay,0.25
+There Are Some Remedies Worse Than The Disease,Stay,disease,essential,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Stay,disease,eternal,0
+There Are Some Remedies Worse Than The Disease,Stay,young,stay,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Stay,young,essential,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Stay,young,eternal,0
+There Are Some Remedies Worse Than The Disease,Stay,mountain,stay,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Stay,mountain,essential,0.4
+There Are Some Remedies Worse Than The Disease,Stay,mountain,eternal,0
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),remedies,digital,0
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),remedies,girls,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),remedies,alley,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),remedies,greenhouse,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),remedies,granny,0.1
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),remedies,doughnut,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),worse,digital,0
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),worse,girls,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),worse,alley,0.125
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),worse,greenhouse,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),worse,granny,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),worse,doughnut,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),disease,digital,0
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),disease,girls,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),disease,alley,0.1
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),disease,greenhouse,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),disease,granny,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),disease,doughnut,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),young,digital,0
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),young,girls,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),young,alley,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),young,greenhouse,0.5
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),young,granny,0.6
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),young,doughnut,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,digital,0
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,girls,0.4
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,alley,0.375
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,greenhouse,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,granny,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Alley Oop (Girls Version) (2007 Digital Remaster),mountain,doughnut,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Cups,remedies,cups,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Cups,remedies,chilled,0
+There Are Some Remedies Worse Than The Disease,Cups,remedies,house,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Cups,remedies,session,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Cups,worse,cups,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Cups,worse,chilled,0
+There Are Some Remedies Worse Than The Disease,Cups,worse,house,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Cups,worse,session,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Cups,disease,cups,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Cups,disease,chilled,0
+There Are Some Remedies Worse Than The Disease,Cups,disease,house,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Cups,disease,session,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Cups,young,cups,0.5
+There Are Some Remedies Worse Than The Disease,Cups,young,chilled,0
+There Are Some Remedies Worse Than The Disease,Cups,young,house,0.5
+There Are Some Remedies Worse Than The Disease,Cups,young,session,0.125
+There Are Some Remedies Worse Than The Disease,Cups,mountain,cups,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Cups,mountain,chilled,0
+There Are Some Remedies Worse Than The Disease,Cups,mountain,house,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Cups,mountain,session,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Still Take You Home,remedies,still,0.1
+There Are Some Remedies Worse Than The Disease,Still Take You Home,remedies,take,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Still Take You Home,remedies,home,0.1
+There Are Some Remedies Worse Than The Disease,Still Take You Home,remedies,people,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Still Take You Home,remedies,say,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Still Take You Home,remedies,digital,0
+There Are Some Remedies Worse Than The Disease,Still Take You Home,worse,still,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Still Take You Home,worse,take,0.25
+There Are Some Remedies Worse Than The Disease,Still Take You Home,worse,home,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Still Take You Home,worse,people,0.4
+There Are Some Remedies Worse Than The Disease,Still Take You Home,worse,say,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Still Take You Home,worse,digital,0
+There Are Some Remedies Worse Than The Disease,Still Take You Home,disease,still,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Still Take You Home,disease,take,0.2
+There Are Some Remedies Worse Than The Disease,Still Take You Home,disease,home,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Still Take You Home,disease,people,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Still Take You Home,disease,say,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Still Take You Home,disease,digital,0
+There Are Some Remedies Worse Than The Disease,Still Take You Home,young,still,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Still Take You Home,young,take,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Still Take You Home,young,home,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Still Take You Home,young,people,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Still Take You Home,young,say,0.125
+There Are Some Remedies Worse Than The Disease,Still Take You Home,young,digital,0
+There Are Some Remedies Worse Than The Disease,Still Take You Home,mountain,still,0.4
+There Are Some Remedies Worse Than The Disease,Still Take You Home,mountain,take,0.125
+There Are Some Remedies Worse Than The Disease,Still Take You Home,mountain,home,0.4
+There Are Some Remedies Worse Than The Disease,Still Take You Home,mountain,people,0.2
+There Are Some Remedies Worse Than The Disease,Still Take You Home,mountain,say,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Still Take You Home,mountain,digital,0
+There Are Some Remedies Worse Than The Disease,Milkshake,remedies,milkshake,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Milkshake,remedies,original,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Milkshake,remedies,hits,0.6
+There Are Some Remedies Worse Than The Disease,Milkshake,remedies,soul,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Milkshake,remedies,rap,0.2
+There Are Some Remedies Worse Than The Disease,Milkshake,worse,milkshake,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Milkshake,worse,original,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Milkshake,worse,hits,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Milkshake,worse,soul,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Milkshake,worse,rap,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Milkshake,disease,milkshake,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Milkshake,disease,original,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Milkshake,disease,hits,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Milkshake,disease,soul,0.125
+There Are Some Remedies Worse Than The Disease,Milkshake,disease,rap,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Milkshake,young,milkshake,0.125
+There Are Some Remedies Worse Than The Disease,Milkshake,young,original,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Milkshake,young,hits,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Milkshake,young,soul,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Milkshake,young,rap,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Milkshake,mountain,milkshake,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Milkshake,mountain,original,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Milkshake,mountain,hits,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Milkshake,mountain,soul,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Milkshake,mountain,rap,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Way She Moves,remedies,way,0.25
+There Are Some Remedies Worse Than The Disease,The Way She Moves,remedies,moves,0.6
+There Are Some Remedies Worse Than The Disease,The Way She Moves,remedies,perfect,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,The Way She Moves,remedies,melody,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,The Way She Moves,worse,way,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,The Way She Moves,worse,moves,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,The Way She Moves,worse,perfect,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,The Way She Moves,worse,melody,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,The Way She Moves,disease,way,0.4
+There Are Some Remedies Worse Than The Disease,The Way She Moves,disease,moves,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,The Way She Moves,disease,perfect,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The Way She Moves,disease,melody,0.25
+There Are Some Remedies Worse Than The Disease,The Way She Moves,young,way,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The Way She Moves,young,moves,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,The Way She Moves,young,perfect,0.125
+There Are Some Remedies Worse Than The Disease,The Way She Moves,young,melody,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The Way She Moves,mountain,way,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,The Way She Moves,mountain,moves,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Way She Moves,mountain,perfect,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The Way She Moves,mountain,melody,0.16666666666666666
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),swimming,time,0.47058823529411764
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),swimming,dear,0.125
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),swimming,friend,0.13333333333333333
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),swimming,secret,0.25
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),swimming,time,0.47058823529411764
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),swimming,secret,0.25
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),flood,time,0.14285714285714285
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),flood,dear,0.3076923076923077
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),flood,friend,0.3333333333333333
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),flood,secret,0.15384615384615385
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),flood,time,0.14285714285714285
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),flood,secret,0.15384615384615385
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),manners,time,0.3076923076923077
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),manners,dear,0.16666666666666666
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),manners,friend,0.18181818181818182
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),manners,secret,0.3333333333333333
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),manners,time,0.3076923076923077
+Swimming In The Flood,Dear Friend (The Secret Of Time Album Version),manners,secret,0.3333333333333333
+Swimming In The Flood,Just The Way You Are,swimming,way,0.26666666666666666
+Swimming In The Flood,Just The Way You Are,swimming,n,0.23529411764705882
+Swimming In The Flood,Just The Way You Are,swimming,heartbreakers,0.125
+Swimming In The Flood,Just The Way You Are,flood,way,0.16666666666666666
+Swimming In The Flood,Just The Way You Are,flood,n,0.3076923076923077
+Swimming In The Flood,Just The Way You Are,flood,heartbreakers,0.3076923076923077
+Swimming In The Flood,Just The Way You Are,manners,way,0.5454545454545454
+Swimming In The Flood,Just The Way You Are,manners,n,0.3076923076923077
+Swimming In The Flood,Just The Way You Are,manners,heartbreakers,0.16666666666666666
+Swimming In The Flood,Miss Your Touch (Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,Miss Your Touch (Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Miss Your Touch (Album Version),swimming,touch,0.47058823529411764
+Swimming In The Flood,Miss Your Touch (Album Version),swimming,miss,0.11764705882352941
+Swimming In The Flood,Miss Your Touch (Album Version),swimming,cassie,0.09090909090909091
+Swimming In The Flood,Miss Your Touch (Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,Miss Your Touch (Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,Miss Your Touch (Album Version),flood,touch,0.14285714285714285
+Swimming In The Flood,Miss Your Touch (Album Version),flood,miss,0.2857142857142857
+Swimming In The Flood,Miss Your Touch (Album Version),flood,cassie,0.21052631578947367
+Swimming In The Flood,Miss Your Touch (Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,Miss Your Touch (Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,Miss Your Touch (Album Version),manners,touch,0.3076923076923077
+Swimming In The Flood,Miss Your Touch (Album Version),manners,miss,0.15384615384615385
+Swimming In The Flood,Miss Your Touch (Album Version),manners,cassie,0.1111111111111111
+Swimming In The Flood,Green,swimming,green,0.2222222222222222
+Swimming In The Flood,Green,swimming,abnormal,0
+Swimming In The Flood,Green,flood,green,0.13333333333333333
+Swimming In The Flood,Green,flood,abnormal,0
+Swimming In The Flood,Green,manners,green,0.42857142857142855
+Swimming In The Flood,Green,manners,abnormal,0
+Swimming In The Flood,Make Music,swimming,make,0.3
+Swimming In The Flood,Make Music,swimming,music,0.26666666666666666
+Swimming In The Flood,Make Music,swimming,waiting,0.5882352941176471
+Swimming In The Flood,Make Music,swimming,room,0.1111111111111111
+Swimming In The Flood,Make Music,flood,make,0.11764705882352941
+Swimming In The Flood,Make Music,flood,music,0.16666666666666666
+Swimming In The Flood,Make Music,flood,waiting,0.14285714285714285
+Swimming In The Flood,Make Music,flood,room,0.26666666666666666
+Swimming In The Flood,Make Music,manners,make,0.25
+Swimming In The Flood,Make Music,manners,music,0.36363636363636365
+Swimming In The Flood,Make Music,manners,waiting,0.3076923076923077
+Swimming In The Flood,Make Music,manners,room,0.14285714285714285
+Swimming In The Flood,Stay,swimming,stay,0.625
+Swimming In The Flood,Stay,swimming,essential,0.14285714285714285
+Swimming In The Flood,Stay,swimming,eternal,0
+Swimming In The Flood,Stay,flood,stay,0.15384615384615385
+Swimming In The Flood,Stay,flood,essential,0.36363636363636365
+Swimming In The Flood,Stay,flood,eternal,0
+Swimming In The Flood,Stay,manners,stay,0.3333333333333333
+Swimming In The Flood,Stay,manners,essential,0.2
+Swimming In The Flood,Stay,manners,eternal,0
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),swimming,digital,0
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),swimming,girls,0.11764705882352941
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),swimming,version,0.2222222222222222
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),swimming,alley,0.1
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),swimming,greenhouse,0.1111111111111111
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),swimming,granny,0.10526315789473684
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),swimming,doughnut,0.23529411764705882
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),flood,digital,0
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),flood,girls,0.2857142857142857
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),flood,version,0.13333333333333333
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),flood,alley,0.23529411764705882
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),flood,greenhouse,0.26666666666666666
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),flood,granny,0.25
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),flood,doughnut,0.14285714285714285
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),manners,digital,0
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),manners,girls,0.15384615384615385
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),manners,version,0.2857142857142857
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),manners,alley,0.125
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),manners,greenhouse,0.14285714285714285
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),manners,granny,0.13333333333333333
+Swimming In The Flood,Alley Oop (Girls Version) (2007 Digital Remaster),manners,doughnut,0.46153846153846156
+Swimming In The Flood,Cups,swimming,cups,0.1111111111111111
+Swimming In The Flood,Cups,swimming,chilled,0
+Swimming In The Flood,Cups,swimming,house,0.1111111111111111
+Swimming In The Flood,Cups,swimming,session,0.2222222222222222
+Swimming In The Flood,Cups,flood,cups,0.26666666666666666
+Swimming In The Flood,Cups,flood,chilled,0
+Swimming In The Flood,Cups,flood,house,0.26666666666666666
+Swimming In The Flood,Cups,flood,session,0.13333333333333333
+Swimming In The Flood,Cups,manners,cups,0.14285714285714285
+Swimming In The Flood,Cups,manners,chilled,0
+Swimming In The Flood,Cups,manners,house,0.14285714285714285
+Swimming In The Flood,Cups,manners,session,0.2857142857142857
+Swimming In The Flood,Still Take You Home,swimming,still,0.10526315789473684
+Swimming In The Flood,Still Take You Home,swimming,take,0.2
+Swimming In The Flood,Still Take You Home,swimming,home,0.10526315789473684
+Swimming In The Flood,Still Take You Home,swimming,people,0.2857142857142857
+Swimming In The Flood,Still Take You Home,swimming,say,0.2222222222222222
+Swimming In The Flood,Still Take You Home,swimming,digital,0
+Swimming In The Flood,Still Take You Home,flood,still,0.25
+Swimming In The Flood,Still Take You Home,flood,take,0.11764705882352941
+Swimming In The Flood,Still Take You Home,flood,home,0.25
+Swimming In The Flood,Still Take You Home,flood,people,0.18181818181818182
+Swimming In The Flood,Still Take You Home,flood,say,0.13333333333333333
+Swimming In The Flood,Still Take You Home,flood,digital,0
+Swimming In The Flood,Still Take You Home,manners,still,0.13333333333333333
+Swimming In The Flood,Still Take You Home,manners,take,0.25
+Swimming In The Flood,Still Take You Home,manners,home,0.13333333333333333
+Swimming In The Flood,Still Take You Home,manners,people,0.4
+Swimming In The Flood,Still Take You Home,manners,say,0.42857142857142855
+Swimming In The Flood,Still Take You Home,manners,digital,0
+Swimming In The Flood,Milkshake,swimming,milkshake,0.2222222222222222
+Swimming In The Flood,Milkshake,swimming,original,0.11764705882352941
+Swimming In The Flood,Milkshake,swimming,hits,0.5263157894736842
+Swimming In The Flood,Milkshake,swimming,soul,0.125
+Swimming In The Flood,Milkshake,swimming,rap,0.21052631578947367
+Swimming In The Flood,Milkshake,flood,milkshake,0.13333333333333333
+Swimming In The Flood,Milkshake,flood,original,0.2857142857142857
+Swimming In The Flood,Milkshake,flood,hits,0.125
+Swimming In The Flood,Milkshake,flood,soul,0.3076923076923077
+Swimming In The Flood,Milkshake,flood,rap,0.125
+Swimming In The Flood,Milkshake,manners,milkshake,0.2857142857142857
+Swimming In The Flood,Milkshake,manners,original,0.15384615384615385
+Swimming In The Flood,Milkshake,manners,hits,0.26666666666666666
+Swimming In The Flood,Milkshake,manners,soul,0.16666666666666666
+Swimming In The Flood,Milkshake,manners,rap,0.26666666666666666
+Swimming In The Flood,The Way She Moves,swimming,way,0.26666666666666666
+Swimming In The Flood,The Way She Moves,swimming,moves,0.5263157894736842
+Swimming In The Flood,The Way She Moves,swimming,perfect,0.2222222222222222
+Swimming In The Flood,The Way She Moves,swimming,melody,0.25
+Swimming In The Flood,The Way She Moves,flood,way,0.16666666666666666
+Swimming In The Flood,The Way She Moves,flood,moves,0.125
+Swimming In The Flood,The Way She Moves,flood,perfect,0.13333333333333333
+Swimming In The Flood,The Way She Moves,flood,melody,0.15384615384615385
+Swimming In The Flood,The Way She Moves,manners,way,0.5454545454545454
+Swimming In The Flood,The Way She Moves,manners,moves,0.26666666666666666
+Swimming In The Flood,The Way She Moves,manners,perfect,0.2857142857142857
+Swimming In The Flood,The Way She Moves,manners,melody,0.3333333333333333

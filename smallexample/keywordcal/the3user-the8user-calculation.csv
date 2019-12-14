@@ -1,0 +1,1629 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Swallowed In The Sea,sun,swallowed,0
+Sun Hands,Swallowed In The Sea,sun,sea,0.3076923076923077
+Sun Hands,Swallowed In The Sea,sun,x,0.125
+Sun Hands,Swallowed In The Sea,hands,swallowed,0
+Sun Hands,Swallowed In The Sea,hands,sea,0.14285714285714285
+Sun Hands,Swallowed In The Sea,hands,x,0.23529411764705882
+Sun Hands,Swallowed In The Sea,gorilla,swallowed,0
+Sun Hands,Swallowed In The Sea,gorilla,sea,0.19047619047619047
+Sun Hands,Swallowed In The Sea,gorilla,x,0.08333333333333333
+Sun Hands,Swallowed In The Sea,manor,swallowed,0
+Sun Hands,Swallowed In The Sea,manor,sea,0.26666666666666666
+Sun Hands,Swallowed In The Sea,manor,x,0.1111111111111111
+Sun Hands,Life In Technicolor,sun,technicolor,0.125
+Sun Hands,Life In Technicolor,sun,life,0.14285714285714285
+Sun Hands,Life In Technicolor,sun,viva,0.125
+Sun Hands,Life In Technicolor,sun,la,0.26666666666666666
+Sun Hands,Life In Technicolor,sun,friends,0.5
+Sun Hands,Life In Technicolor,sun,death,0.13333333333333333
+Sun Hands,Life In Technicolor,hands,technicolor,0.35294117647058826
+Sun Hands,Life In Technicolor,hands,life,0.26666666666666666
+Sun Hands,Life In Technicolor,hands,viva,0.5555555555555556
+Sun Hands,Life In Technicolor,hands,la,0.23529411764705882
+Sun Hands,Life In Technicolor,hands,friends,0.14285714285714285
+Sun Hands,Life In Technicolor,hands,death,0.5
+Sun Hands,Life In Technicolor,gorilla,technicolor,0.08333333333333333
+Sun Hands,Life In Technicolor,gorilla,life,0.09090909090909091
+Sun Hands,Life In Technicolor,gorilla,viva,0.08333333333333333
+Sun Hands,Life In Technicolor,gorilla,la,0.17391304347826086
+Sun Hands,Life In Technicolor,gorilla,friends,0.5
+Sun Hands,Life In Technicolor,gorilla,death,0.08695652173913043
+Sun Hands,Life In Technicolor,manor,technicolor,0.1111111111111111
+Sun Hands,Life In Technicolor,manor,life,0.125
+Sun Hands,Life In Technicolor,manor,viva,0.1111111111111111
+Sun Hands,Life In Technicolor,manor,la,0.23529411764705882
+Sun Hands,Life In Technicolor,manor,friends,0.4444444444444444
+Sun Hands,Life In Technicolor,manor,death,0.11764705882352941
+Sun Hands,Clocks,sun,clocks,0.4
+Sun Hands,Clocks,sun,rush,0.11764705882352941
+Sun Hands,Clocks,sun,head,0.26666666666666666
+Sun Hands,Clocks,sun,blood,0.26666666666666666
+Sun Hands,Clocks,hands,clocks,0.09523809523809523
+Sun Hands,Clocks,hands,rush,0.5263157894736842
+Sun Hands,Clocks,hands,head,0.125
+Sun Hands,Clocks,hands,blood,0.23529411764705882
+Sun Hands,Clocks,gorilla,clocks,0.42857142857142855
+Sun Hands,Clocks,gorilla,rush,0.08
+Sun Hands,Clocks,gorilla,head,0.17391304347826086
+Sun Hands,Clocks,gorilla,blood,0.17391304347826086
+Sun Hands,Clocks,manor,clocks,0.36363636363636365
+Sun Hands,Clocks,manor,rush,0.10526315789473684
+Sun Hands,Clocks,manor,head,0.23529411764705882
+Sun Hands,Clocks,manor,blood,0.23529411764705882
+Sun Hands,Strawberry Swing,sun,strawberry,0.5
+Sun Hands,Strawberry Swing,sun,swing,0.14285714285714285
+Sun Hands,Strawberry Swing,sun,viva,0.125
+Sun Hands,Strawberry Swing,sun,la,0.26666666666666666
+Sun Hands,Strawberry Swing,sun,march,0.125
+Sun Hands,Strawberry Swing,sun,edition,0.42105263157894735
+Sun Hands,Strawberry Swing,hands,strawberry,0.1111111111111111
+Sun Hands,Strawberry Swing,hands,swing,0.26666666666666666
+Sun Hands,Strawberry Swing,hands,viva,0.5555555555555556
+Sun Hands,Strawberry Swing,hands,la,0.23529411764705882
+Sun Hands,Strawberry Swing,hands,march,0.23529411764705882
+Sun Hands,Strawberry Swing,hands,edition,0.1
+Sun Hands,Strawberry Swing,gorilla,strawberry,0.2857142857142857
+Sun Hands,Strawberry Swing,gorilla,swing,0.09090909090909091
+Sun Hands,Strawberry Swing,gorilla,viva,0.08333333333333333
+Sun Hands,Strawberry Swing,gorilla,la,0.17391304347826086
+Sun Hands,Strawberry Swing,gorilla,march,0.08333333333333333
+Sun Hands,Strawberry Swing,gorilla,edition,0.2962962962962963
+Sun Hands,Strawberry Swing,manor,strawberry,0.36363636363636365
+Sun Hands,Strawberry Swing,manor,swing,0.125
+Sun Hands,Strawberry Swing,manor,viva,0.1111111111111111
+Sun Hands,Strawberry Swing,manor,la,0.23529411764705882
+Sun Hands,Strawberry Swing,manor,march,0.1111111111111111
+Sun Hands,Strawberry Swing,manor,edition,0.47619047619047616
+Sun Hands,Life In Technicolor ii,sun,technicolor,0.125
+Sun Hands,Life In Technicolor ii,sun,ii,0.125
+Sun Hands,Life In Technicolor ii,sun,life,0.14285714285714285
+Sun Hands,Life In Technicolor ii,sun,viva,0.125
+Sun Hands,Life In Technicolor ii,sun,la,0.26666666666666666
+Sun Hands,Life In Technicolor ii,sun,march,0.125
+Sun Hands,Life In Technicolor ii,sun,edition,0.42105263157894735
+Sun Hands,Life In Technicolor ii,hands,technicolor,0.35294117647058826
+Sun Hands,Life In Technicolor ii,hands,ii,0.23529411764705882
+Sun Hands,Life In Technicolor ii,hands,life,0.26666666666666666
+Sun Hands,Life In Technicolor ii,hands,viva,0.5555555555555556
+Sun Hands,Life In Technicolor ii,hands,la,0.23529411764705882
+Sun Hands,Life In Technicolor ii,hands,march,0.23529411764705882
+Sun Hands,Life In Technicolor ii,hands,edition,0.1
+Sun Hands,Life In Technicolor ii,gorilla,technicolor,0.08333333333333333
+Sun Hands,Life In Technicolor ii,gorilla,ii,0.08333333333333333
+Sun Hands,Life In Technicolor ii,gorilla,life,0.09090909090909091
+Sun Hands,Life In Technicolor ii,gorilla,viva,0.08333333333333333
+Sun Hands,Life In Technicolor ii,gorilla,la,0.17391304347826086
+Sun Hands,Life In Technicolor ii,gorilla,march,0.08333333333333333
+Sun Hands,Life In Technicolor ii,gorilla,edition,0.2962962962962963
+Sun Hands,Life In Technicolor ii,manor,technicolor,0.1111111111111111
+Sun Hands,Life In Technicolor ii,manor,ii,0.1111111111111111
+Sun Hands,Life In Technicolor ii,manor,life,0.125
+Sun Hands,Life In Technicolor ii,manor,viva,0.1111111111111111
+Sun Hands,Life In Technicolor ii,manor,la,0.23529411764705882
+Sun Hands,Life In Technicolor ii,manor,march,0.1111111111111111
+Sun Hands,Life In Technicolor ii,manor,edition,0.47619047619047616
+Sun Hands,The Scientist,sun,scientist,0.5
+Sun Hands,The Scientist,sun,scientist,0.5
+Sun Hands,The Scientist,hands,scientist,0.14285714285714285
+Sun Hands,The Scientist,hands,scientist,0.14285714285714285
+Sun Hands,The Scientist,gorilla,scientist,0.5
+Sun Hands,The Scientist,gorilla,scientist,0.5
+Sun Hands,The Scientist,manor,scientist,0.4444444444444444
+Sun Hands,The Scientist,manor,scientist,0.4444444444444444
+Sun Hands,In My Place,sun,place,0.42857142857142855
+Sun Hands,In My Place,sun,rush,0.11764705882352941
+Sun Hands,In My Place,sun,head,0.26666666666666666
+Sun Hands,In My Place,sun,blood,0.26666666666666666
+Sun Hands,In My Place,hands,place,0.13333333333333333
+Sun Hands,In My Place,hands,rush,0.5263157894736842
+Sun Hands,In My Place,hands,head,0.125
+Sun Hands,In My Place,hands,blood,0.23529411764705882
+Sun Hands,In My Place,gorilla,place,0.2727272727272727
+Sun Hands,In My Place,gorilla,rush,0.08
+Sun Hands,In My Place,gorilla,head,0.17391304347826086
+Sun Hands,In My Place,gorilla,blood,0.17391304347826086
+Sun Hands,In My Place,manor,place,0.375
+Sun Hands,In My Place,manor,rush,0.10526315789473684
+Sun Hands,In My Place,manor,head,0.23529411764705882
+Sun Hands,In My Place,manor,blood,0.23529411764705882
+Sun Hands,Lost!,sun,lost,0.15384615384615385
+Sun Hands,Lost!,sun,viva,0.125
+Sun Hands,Lost!,sun,la,0.26666666666666666
+Sun Hands,Lost!,sun,friends,0.5
+Sun Hands,Lost!,sun,death,0.13333333333333333
+Sun Hands,Lost!,hands,lost,0.2857142857142857
+Sun Hands,Lost!,hands,viva,0.5555555555555556
+Sun Hands,Lost!,hands,la,0.23529411764705882
+Sun Hands,Lost!,hands,friends,0.14285714285714285
+Sun Hands,Lost!,hands,death,0.5
+Sun Hands,Lost!,gorilla,lost,0.09523809523809523
+Sun Hands,Lost!,gorilla,viva,0.08333333333333333
+Sun Hands,Lost!,gorilla,la,0.17391304347826086
+Sun Hands,Lost!,gorilla,friends,0.5
+Sun Hands,Lost!,gorilla,death,0.08695652173913043
+Sun Hands,Lost!,manor,lost,0.13333333333333333
+Sun Hands,Lost!,manor,viva,0.1111111111111111
+Sun Hands,Lost!,manor,la,0.23529411764705882
+Sun Hands,Lost!,manor,friends,0.4444444444444444
+Sun Hands,Lost!,manor,death,0.11764705882352941
+Sun Hands,Yellow,sun,yellow,0.125
+Sun Hands,Yellow,sun,yellow,0.125
+Sun Hands,Yellow,hands,yellow,0.23529411764705882
+Sun Hands,Yellow,hands,yellow,0.23529411764705882
+Sun Hands,Yellow,gorilla,yellow,0.08333333333333333
+Sun Hands,Yellow,gorilla,yellow,0.08333333333333333
+Sun Hands,Yellow,manor,yellow,0.1111111111111111
+Sun Hands,Yellow,manor,yellow,0.1111111111111111
+Sun Hands,Yellow,sun,yellow,0.125
+Sun Hands,Yellow,hands,yellow,0.23529411764705882
+Sun Hands,Yellow,gorilla,yellow,0.08333333333333333
+Sun Hands,Yellow,manor,yellow,0.1111111111111111
+Sun Hands,Speed Of Sound,sun,speed,0.14285714285714285
+Sun Hands,Speed Of Sound,sun,sound,0.14285714285714285
+Sun Hands,Speed Of Sound,sun,speed,0.14285714285714285
+Sun Hands,Speed Of Sound,sun,sound,0.14285714285714285
+Sun Hands,Speed Of Sound,hands,speed,0.26666666666666666
+Sun Hands,Speed Of Sound,hands,sound,0.26666666666666666
+Sun Hands,Speed Of Sound,hands,speed,0.26666666666666666
+Sun Hands,Speed Of Sound,hands,sound,0.26666666666666666
+Sun Hands,Speed Of Sound,gorilla,speed,0.09090909090909091
+Sun Hands,Speed Of Sound,gorilla,sound,0.09090909090909091
+Sun Hands,Speed Of Sound,gorilla,speed,0.09090909090909091
+Sun Hands,Speed Of Sound,gorilla,sound,0.09090909090909091
+Sun Hands,Speed Of Sound,manor,speed,0.125
+Sun Hands,Speed Of Sound,manor,sound,0.125
+Sun Hands,Speed Of Sound,manor,speed,0.125
+Sun Hands,Speed Of Sound,manor,sound,0.125
+Camera Talk,Swallowed In The Sea,camera,swallowed,0
+Camera Talk,Swallowed In The Sea,camera,sea,0.2857142857142857
+Camera Talk,Swallowed In The Sea,camera,x,0.11764705882352941
+Camera Talk,Swallowed In The Sea,talk,swallowed,0
+Camera Talk,Swallowed In The Sea,talk,sea,0.16666666666666666
+Camera Talk,Swallowed In The Sea,talk,x,0.26666666666666666
+Camera Talk,Swallowed In The Sea,camera,swallowed,0
+Camera Talk,Swallowed In The Sea,camera,sea,0.2857142857142857
+Camera Talk,Swallowed In The Sea,camera,x,0.11764705882352941
+Camera Talk,Swallowed In The Sea,talk,swallowed,0
+Camera Talk,Swallowed In The Sea,talk,sea,0.16666666666666666
+Camera Talk,Swallowed In The Sea,talk,x,0.26666666666666666
+Camera Talk,Life In Technicolor,camera,technicolor,0.11764705882352941
+Camera Talk,Life In Technicolor,camera,life,0.13333333333333333
+Camera Talk,Life In Technicolor,camera,viva,0.11764705882352941
+Camera Talk,Life In Technicolor,camera,la,0.25
+Camera Talk,Life In Technicolor,camera,friends,0.47058823529411764
+Camera Talk,Life In Technicolor,camera,death,0.125
+Camera Talk,Life In Technicolor,talk,technicolor,0.26666666666666666
+Camera Talk,Life In Technicolor,talk,life,0.3076923076923077
+Camera Talk,Life In Technicolor,talk,viva,0.26666666666666666
+Camera Talk,Life In Technicolor,talk,la,0.26666666666666666
+Camera Talk,Life In Technicolor,talk,friends,0.16666666666666666
+Camera Talk,Life In Technicolor,talk,death,0.2857142857142857
+Camera Talk,Life In Technicolor,camera,technicolor,0.11764705882352941
+Camera Talk,Life In Technicolor,camera,life,0.13333333333333333
+Camera Talk,Life In Technicolor,camera,viva,0.11764705882352941
+Camera Talk,Life In Technicolor,camera,la,0.25
+Camera Talk,Life In Technicolor,camera,friends,0.47058823529411764
+Camera Talk,Life In Technicolor,camera,death,0.125
+Camera Talk,Life In Technicolor,talk,technicolor,0.26666666666666666
+Camera Talk,Life In Technicolor,talk,life,0.3076923076923077
+Camera Talk,Life In Technicolor,talk,viva,0.26666666666666666
+Camera Talk,Life In Technicolor,talk,la,0.26666666666666666
+Camera Talk,Life In Technicolor,talk,friends,0.16666666666666666
+Camera Talk,Life In Technicolor,talk,death,0.2857142857142857
+Camera Talk,Clocks,camera,clocks,0.38095238095238093
+Camera Talk,Clocks,camera,rush,0.1111111111111111
+Camera Talk,Clocks,camera,head,0.25
+Camera Talk,Clocks,camera,blood,0.25
+Camera Talk,Clocks,talk,clocks,0.10526315789473684
+Camera Talk,Clocks,talk,rush,0.25
+Camera Talk,Clocks,talk,head,0.14285714285714285
+Camera Talk,Clocks,talk,blood,0.26666666666666666
+Camera Talk,Clocks,camera,clocks,0.38095238095238093
+Camera Talk,Clocks,camera,rush,0.1111111111111111
+Camera Talk,Clocks,camera,head,0.25
+Camera Talk,Clocks,camera,blood,0.25
+Camera Talk,Clocks,talk,clocks,0.10526315789473684
+Camera Talk,Clocks,talk,rush,0.25
+Camera Talk,Clocks,talk,head,0.14285714285714285
+Camera Talk,Clocks,talk,blood,0.26666666666666666
+Camera Talk,Strawberry Swing,camera,strawberry,0.38095238095238093
+Camera Talk,Strawberry Swing,camera,swing,0.13333333333333333
+Camera Talk,Strawberry Swing,camera,viva,0.11764705882352941
+Camera Talk,Strawberry Swing,camera,la,0.25
+Camera Talk,Strawberry Swing,camera,march,0.11764705882352941
+Camera Talk,Strawberry Swing,camera,edition,0.5
+Camera Talk,Strawberry Swing,talk,strawberry,0.125
+Camera Talk,Strawberry Swing,talk,swing,0.3076923076923077
+Camera Talk,Strawberry Swing,talk,viva,0.26666666666666666
+Camera Talk,Strawberry Swing,talk,la,0.26666666666666666
+Camera Talk,Strawberry Swing,talk,march,0.26666666666666666
+Camera Talk,Strawberry Swing,talk,edition,0.1111111111111111
+Camera Talk,Strawberry Swing,camera,strawberry,0.38095238095238093
+Camera Talk,Strawberry Swing,camera,swing,0.13333333333333333
+Camera Talk,Strawberry Swing,camera,viva,0.11764705882352941
+Camera Talk,Strawberry Swing,camera,la,0.25
+Camera Talk,Strawberry Swing,camera,march,0.11764705882352941
+Camera Talk,Strawberry Swing,camera,edition,0.5
+Camera Talk,Strawberry Swing,talk,strawberry,0.125
+Camera Talk,Strawberry Swing,talk,swing,0.3076923076923077
+Camera Talk,Strawberry Swing,talk,viva,0.26666666666666666
+Camera Talk,Strawberry Swing,talk,la,0.26666666666666666
+Camera Talk,Strawberry Swing,talk,march,0.26666666666666666
+Camera Talk,Strawberry Swing,talk,edition,0.1111111111111111
+Camera Talk,Life In Technicolor ii,camera,technicolor,0.11764705882352941
+Camera Talk,Life In Technicolor ii,camera,ii,0.11764705882352941
+Camera Talk,Life In Technicolor ii,camera,life,0.13333333333333333
+Camera Talk,Life In Technicolor ii,camera,viva,0.11764705882352941
+Camera Talk,Life In Technicolor ii,camera,la,0.25
+Camera Talk,Life In Technicolor ii,camera,march,0.11764705882352941
+Camera Talk,Life In Technicolor ii,camera,edition,0.5
+Camera Talk,Life In Technicolor ii,talk,technicolor,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,ii,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,life,0.3076923076923077
+Camera Talk,Life In Technicolor ii,talk,viva,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,la,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,march,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,edition,0.1111111111111111
+Camera Talk,Life In Technicolor ii,camera,technicolor,0.11764705882352941
+Camera Talk,Life In Technicolor ii,camera,ii,0.11764705882352941
+Camera Talk,Life In Technicolor ii,camera,life,0.13333333333333333
+Camera Talk,Life In Technicolor ii,camera,viva,0.11764705882352941
+Camera Talk,Life In Technicolor ii,camera,la,0.25
+Camera Talk,Life In Technicolor ii,camera,march,0.11764705882352941
+Camera Talk,Life In Technicolor ii,camera,edition,0.5
+Camera Talk,Life In Technicolor ii,talk,technicolor,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,ii,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,life,0.3076923076923077
+Camera Talk,Life In Technicolor ii,talk,viva,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,la,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,march,0.26666666666666666
+Camera Talk,Life In Technicolor ii,talk,edition,0.1111111111111111
+Camera Talk,The Scientist,camera,scientist,0.47058823529411764
+Camera Talk,The Scientist,camera,scientist,0.47058823529411764
+Camera Talk,The Scientist,talk,scientist,0.16666666666666666
+Camera Talk,The Scientist,talk,scientist,0.16666666666666666
+Camera Talk,The Scientist,camera,scientist,0.47058823529411764
+Camera Talk,The Scientist,camera,scientist,0.47058823529411764
+Camera Talk,The Scientist,talk,scientist,0.16666666666666666
+Camera Talk,The Scientist,talk,scientist,0.16666666666666666
+Camera Talk,In My Place,camera,place,0.4
+Camera Talk,In My Place,camera,rush,0.1111111111111111
+Camera Talk,In My Place,camera,head,0.25
+Camera Talk,In My Place,camera,blood,0.25
+Camera Talk,In My Place,talk,place,0.15384615384615385
+Camera Talk,In My Place,talk,rush,0.25
+Camera Talk,In My Place,talk,head,0.14285714285714285
+Camera Talk,In My Place,talk,blood,0.26666666666666666
+Camera Talk,In My Place,camera,place,0.4
+Camera Talk,In My Place,camera,rush,0.1111111111111111
+Camera Talk,In My Place,camera,head,0.25
+Camera Talk,In My Place,camera,blood,0.25
+Camera Talk,In My Place,talk,place,0.15384615384615385
+Camera Talk,In My Place,talk,rush,0.25
+Camera Talk,In My Place,talk,head,0.14285714285714285
+Camera Talk,In My Place,talk,blood,0.26666666666666666
+Camera Talk,Lost!,camera,lost,0.14285714285714285
+Camera Talk,Lost!,camera,viva,0.11764705882352941
+Camera Talk,Lost!,camera,la,0.25
+Camera Talk,Lost!,camera,friends,0.47058823529411764
+Camera Talk,Lost!,camera,death,0.125
+Camera Talk,Lost!,talk,lost,0.3333333333333333
+Camera Talk,Lost!,talk,viva,0.26666666666666666
+Camera Talk,Lost!,talk,la,0.26666666666666666
+Camera Talk,Lost!,talk,friends,0.16666666666666666
+Camera Talk,Lost!,talk,death,0.2857142857142857
+Camera Talk,Lost!,camera,lost,0.14285714285714285
+Camera Talk,Lost!,camera,viva,0.11764705882352941
+Camera Talk,Lost!,camera,la,0.25
+Camera Talk,Lost!,camera,friends,0.47058823529411764
+Camera Talk,Lost!,camera,death,0.125
+Camera Talk,Lost!,talk,lost,0.3333333333333333
+Camera Talk,Lost!,talk,viva,0.26666666666666666
+Camera Talk,Lost!,talk,la,0.26666666666666666
+Camera Talk,Lost!,talk,friends,0.16666666666666666
+Camera Talk,Lost!,talk,death,0.2857142857142857
+Camera Talk,Yellow,camera,yellow,0.11764705882352941
+Camera Talk,Yellow,camera,yellow,0.11764705882352941
+Camera Talk,Yellow,talk,yellow,0.26666666666666666
+Camera Talk,Yellow,talk,yellow,0.26666666666666666
+Camera Talk,Yellow,camera,yellow,0.11764705882352941
+Camera Talk,Yellow,camera,yellow,0.11764705882352941
+Camera Talk,Yellow,talk,yellow,0.26666666666666666
+Camera Talk,Yellow,talk,yellow,0.26666666666666666
+Camera Talk,Yellow,camera,yellow,0.11764705882352941
+Camera Talk,Yellow,talk,yellow,0.26666666666666666
+Camera Talk,Yellow,camera,yellow,0.11764705882352941
+Camera Talk,Yellow,talk,yellow,0.26666666666666666
+Camera Talk,Speed Of Sound,camera,speed,0.13333333333333333
+Camera Talk,Speed Of Sound,camera,sound,0.13333333333333333
+Camera Talk,Speed Of Sound,camera,speed,0.13333333333333333
+Camera Talk,Speed Of Sound,camera,sound,0.13333333333333333
+Camera Talk,Speed Of Sound,talk,speed,0.3076923076923077
+Camera Talk,Speed Of Sound,talk,sound,0.3076923076923077
+Camera Talk,Speed Of Sound,talk,speed,0.3076923076923077
+Camera Talk,Speed Of Sound,talk,sound,0.3076923076923077
+Camera Talk,Speed Of Sound,camera,speed,0.13333333333333333
+Camera Talk,Speed Of Sound,camera,sound,0.13333333333333333
+Camera Talk,Speed Of Sound,camera,speed,0.13333333333333333
+Camera Talk,Speed Of Sound,camera,sound,0.13333333333333333
+Camera Talk,Speed Of Sound,talk,speed,0.3076923076923077
+Camera Talk,Speed Of Sound,talk,sound,0.3076923076923077
+Camera Talk,Speed Of Sound,talk,speed,0.3076923076923077
+Camera Talk,Speed Of Sound,talk,sound,0.3076923076923077
+Belle,Swallowed In The Sea,beautiful,swallowed,0
+Belle,Swallowed In The Sea,beautiful,sea,0
+Belle,Swallowed In The Sea,beautiful,x,0
+Belle,Swallowed In The Sea,dreams,swallowed,0
+Belle,Swallowed In The Sea,dreams,sea,0.14285714285714285
+Belle,Swallowed In The Sea,dreams,x,0.23529411764705882
+Belle,Life In Technicolor,beautiful,technicolor,0
+Belle,Life In Technicolor,beautiful,life,0
+Belle,Life In Technicolor,beautiful,viva,0
+Belle,Life In Technicolor,beautiful,la,0
+Belle,Life In Technicolor,beautiful,friends,0
+Belle,Life In Technicolor,beautiful,death,0
+Belle,Life In Technicolor,dreams,technicolor,0.47058823529411764
+Belle,Life In Technicolor,dreams,life,0.26666666666666666
+Belle,Life In Technicolor,dreams,viva,0.35294117647058826
+Belle,Life In Technicolor,dreams,la,0.23529411764705882
+Belle,Life In Technicolor,dreams,friends,0.14285714285714285
+Belle,Life In Technicolor,dreams,death,0.375
+Belle,Clocks,beautiful,clocks,0
+Belle,Clocks,beautiful,rush,0
+Belle,Clocks,beautiful,head,0
+Belle,Clocks,beautiful,blood,0
+Belle,Clocks,dreams,clocks,0.09523809523809523
+Belle,Clocks,dreams,rush,0.3333333333333333
+Belle,Clocks,dreams,head,0.125
+Belle,Clocks,dreams,blood,0.23529411764705882
+Belle,Strawberry Swing,beautiful,strawberry,0
+Belle,Strawberry Swing,beautiful,swing,0
+Belle,Strawberry Swing,beautiful,viva,0
+Belle,Strawberry Swing,beautiful,la,0
+Belle,Strawberry Swing,beautiful,march,0
+Belle,Strawberry Swing,beautiful,edition,0
+Belle,Strawberry Swing,dreams,strawberry,0.1111111111111111
+Belle,Strawberry Swing,dreams,swing,0.26666666666666666
+Belle,Strawberry Swing,dreams,viva,0.35294117647058826
+Belle,Strawberry Swing,dreams,la,0.23529411764705882
+Belle,Strawberry Swing,dreams,march,0.23529411764705882
+Belle,Strawberry Swing,dreams,edition,0.1
+Belle,Life In Technicolor ii,beautiful,technicolor,0
+Belle,Life In Technicolor ii,beautiful,ii,0
+Belle,Life In Technicolor ii,beautiful,life,0
+Belle,Life In Technicolor ii,beautiful,viva,0
+Belle,Life In Technicolor ii,beautiful,la,0
+Belle,Life In Technicolor ii,beautiful,march,0
+Belle,Life In Technicolor ii,beautiful,edition,0
+Belle,Life In Technicolor ii,dreams,technicolor,0.47058823529411764
+Belle,Life In Technicolor ii,dreams,ii,0.23529411764705882
+Belle,Life In Technicolor ii,dreams,life,0.26666666666666666
+Belle,Life In Technicolor ii,dreams,viva,0.35294117647058826
+Belle,Life In Technicolor ii,dreams,la,0.23529411764705882
+Belle,Life In Technicolor ii,dreams,march,0.23529411764705882
+Belle,Life In Technicolor ii,dreams,edition,0.1
+Belle,The Scientist,beautiful,scientist,0
+Belle,The Scientist,beautiful,scientist,0
+Belle,The Scientist,dreams,scientist,0.14285714285714285
+Belle,The Scientist,dreams,scientist,0.14285714285714285
+Belle,In My Place,beautiful,place,0
+Belle,In My Place,beautiful,rush,0
+Belle,In My Place,beautiful,head,0
+Belle,In My Place,beautiful,blood,0
+Belle,In My Place,dreams,place,0.13333333333333333
+Belle,In My Place,dreams,rush,0.3333333333333333
+Belle,In My Place,dreams,head,0.125
+Belle,In My Place,dreams,blood,0.23529411764705882
+Belle,Lost!,beautiful,lost,0
+Belle,Lost!,beautiful,viva,0
+Belle,Lost!,beautiful,la,0
+Belle,Lost!,beautiful,friends,0
+Belle,Lost!,beautiful,death,0
+Belle,Lost!,dreams,lost,0.2857142857142857
+Belle,Lost!,dreams,viva,0.35294117647058826
+Belle,Lost!,dreams,la,0.23529411764705882
+Belle,Lost!,dreams,friends,0.14285714285714285
+Belle,Lost!,dreams,death,0.375
+Belle,Yellow,beautiful,yellow,0
+Belle,Yellow,beautiful,yellow,0
+Belle,Yellow,dreams,yellow,0.23529411764705882
+Belle,Yellow,dreams,yellow,0.23529411764705882
+Belle,Yellow,beautiful,yellow,0
+Belle,Yellow,dreams,yellow,0.23529411764705882
+Belle,Speed Of Sound,beautiful,speed,0
+Belle,Speed Of Sound,beautiful,sound,0
+Belle,Speed Of Sound,beautiful,speed,0
+Belle,Speed Of Sound,beautiful,sound,0
+Belle,Speed Of Sound,dreams,speed,0.26666666666666666
+Belle,Speed Of Sound,dreams,sound,0.26666666666666666
+Belle,Speed Of Sound,dreams,speed,0.26666666666666666
+Belle,Speed Of Sound,dreams,sound,0.26666666666666666
+Auto Rock,Swallowed In The Sea,auto,swallowed,0
+Auto Rock,Swallowed In The Sea,auto,sea,0.25
+Auto Rock,Swallowed In The Sea,auto,x,0.10526315789473684
+Auto Rock,Swallowed In The Sea,rock,swallowed,0
+Auto Rock,Swallowed In The Sea,rock,sea,0.36363636363636365
+Auto Rock,Swallowed In The Sea,rock,x,0.14285714285714285
+Auto Rock,Swallowed In The Sea,mr,swallowed,0
+Auto Rock,Swallowed In The Sea,mr,sea,0.14285714285714285
+Auto Rock,Swallowed In The Sea,mr,x,0.23529411764705882
+Auto Rock,Swallowed In The Sea,beast,swallowed,0
+Auto Rock,Swallowed In The Sea,beast,sea,0.3333333333333333
+Auto Rock,Swallowed In The Sea,beast,x,0.13333333333333333
+Auto Rock,Life In Technicolor,auto,technicolor,0.10526315789473684
+Auto Rock,Life In Technicolor,auto,life,0.11764705882352941
+Auto Rock,Life In Technicolor,auto,viva,0.10526315789473684
+Auto Rock,Life In Technicolor,auto,la,0.2222222222222222
+Auto Rock,Life In Technicolor,auto,friends,0.42105263157894735
+Auto Rock,Life In Technicolor,auto,death,0.1111111111111111
+Auto Rock,Life In Technicolor,rock,technicolor,0.14285714285714285
+Auto Rock,Life In Technicolor,rock,life,0.16666666666666666
+Auto Rock,Life In Technicolor,rock,viva,0.14285714285714285
+Auto Rock,Life In Technicolor,rock,la,0.3076923076923077
+Auto Rock,Life In Technicolor,rock,friends,0.5714285714285714
+Auto Rock,Life In Technicolor,rock,death,0.15384615384615385
+Auto Rock,Life In Technicolor,mr,technicolor,0.23529411764705882
+Auto Rock,Life In Technicolor,mr,life,0.26666666666666666
+Auto Rock,Life In Technicolor,mr,viva,0.23529411764705882
+Auto Rock,Life In Technicolor,mr,la,0.47058823529411764
+Auto Rock,Life In Technicolor,mr,friends,0.14285714285714285
+Auto Rock,Life In Technicolor,mr,death,0.25
+Auto Rock,Life In Technicolor,beast,technicolor,0.13333333333333333
+Auto Rock,Life In Technicolor,beast,life,0.15384615384615385
+Auto Rock,Life In Technicolor,beast,viva,0.13333333333333333
+Auto Rock,Life In Technicolor,beast,la,0.2857142857142857
+Auto Rock,Life In Technicolor,beast,friends,0.8
+Auto Rock,Life In Technicolor,beast,death,0.14285714285714285
+Auto Rock,Clocks,auto,clocks,0.34782608695652173
+Auto Rock,Clocks,auto,rush,0.1
+Auto Rock,Clocks,auto,head,0.2222222222222222
+Auto Rock,Clocks,auto,blood,0.2222222222222222
+Auto Rock,Clocks,rock,clocks,0.4444444444444444
+Auto Rock,Clocks,rock,rush,0.13333333333333333
+Auto Rock,Clocks,rock,head,0.3076923076923077
+Auto Rock,Clocks,rock,blood,0.3076923076923077
+Auto Rock,Clocks,mr,clocks,0.09523809523809523
+Auto Rock,Clocks,mr,rush,0.2222222222222222
+Auto Rock,Clocks,mr,head,0.125
+Auto Rock,Clocks,mr,blood,0.47058823529411764
+Auto Rock,Clocks,beast,clocks,0.631578947368421
+Auto Rock,Clocks,beast,rush,0.125
+Auto Rock,Clocks,beast,head,0.2857142857142857
+Auto Rock,Clocks,beast,blood,0.2857142857142857
+Auto Rock,Strawberry Swing,auto,strawberry,0.34782608695652173
+Auto Rock,Strawberry Swing,auto,swing,0.11764705882352941
+Auto Rock,Strawberry Swing,auto,viva,0.10526315789473684
+Auto Rock,Strawberry Swing,auto,la,0.2222222222222222
+Auto Rock,Strawberry Swing,auto,march,0.10526315789473684
+Auto Rock,Strawberry Swing,auto,edition,0.45454545454545453
+Auto Rock,Strawberry Swing,rock,strawberry,0.5555555555555556
+Auto Rock,Strawberry Swing,rock,swing,0.16666666666666666
+Auto Rock,Strawberry Swing,rock,viva,0.14285714285714285
+Auto Rock,Strawberry Swing,rock,la,0.3076923076923077
+Auto Rock,Strawberry Swing,rock,march,0.14285714285714285
+Auto Rock,Strawberry Swing,rock,edition,0.47058823529411764
+Auto Rock,Strawberry Swing,mr,strawberry,0.1111111111111111
+Auto Rock,Strawberry Swing,mr,swing,0.26666666666666666
+Auto Rock,Strawberry Swing,mr,viva,0.23529411764705882
+Auto Rock,Strawberry Swing,mr,la,0.47058823529411764
+Auto Rock,Strawberry Swing,mr,march,0.23529411764705882
+Auto Rock,Strawberry Swing,mr,edition,0.1
+Auto Rock,Strawberry Swing,beast,strawberry,0.42105263157894735
+Auto Rock,Strawberry Swing,beast,swing,0.15384615384615385
+Auto Rock,Strawberry Swing,beast,viva,0.13333333333333333
+Auto Rock,Strawberry Swing,beast,la,0.2857142857142857
+Auto Rock,Strawberry Swing,beast,march,0.13333333333333333
+Auto Rock,Strawberry Swing,beast,edition,0.4444444444444444
+Auto Rock,Life In Technicolor ii,auto,technicolor,0.10526315789473684
+Auto Rock,Life In Technicolor ii,auto,ii,0.10526315789473684
+Auto Rock,Life In Technicolor ii,auto,life,0.11764705882352941
+Auto Rock,Life In Technicolor ii,auto,viva,0.10526315789473684
+Auto Rock,Life In Technicolor ii,auto,la,0.2222222222222222
+Auto Rock,Life In Technicolor ii,auto,march,0.10526315789473684
+Auto Rock,Life In Technicolor ii,auto,edition,0.45454545454545453
+Auto Rock,Life In Technicolor ii,rock,technicolor,0.14285714285714285
+Auto Rock,Life In Technicolor ii,rock,ii,0.14285714285714285
+Auto Rock,Life In Technicolor ii,rock,life,0.16666666666666666
+Auto Rock,Life In Technicolor ii,rock,viva,0.14285714285714285
+Auto Rock,Life In Technicolor ii,rock,la,0.3076923076923077
+Auto Rock,Life In Technicolor ii,rock,march,0.14285714285714285
+Auto Rock,Life In Technicolor ii,rock,edition,0.47058823529411764
+Auto Rock,Life In Technicolor ii,mr,technicolor,0.23529411764705882
+Auto Rock,Life In Technicolor ii,mr,ii,0.23529411764705882
+Auto Rock,Life In Technicolor ii,mr,life,0.26666666666666666
+Auto Rock,Life In Technicolor ii,mr,viva,0.23529411764705882
+Auto Rock,Life In Technicolor ii,mr,la,0.47058823529411764
+Auto Rock,Life In Technicolor ii,mr,march,0.23529411764705882
+Auto Rock,Life In Technicolor ii,mr,edition,0.1
+Auto Rock,Life In Technicolor ii,beast,technicolor,0.13333333333333333
+Auto Rock,Life In Technicolor ii,beast,ii,0.13333333333333333
+Auto Rock,Life In Technicolor ii,beast,life,0.15384615384615385
+Auto Rock,Life In Technicolor ii,beast,viva,0.13333333333333333
+Auto Rock,Life In Technicolor ii,beast,la,0.2857142857142857
+Auto Rock,Life In Technicolor ii,beast,march,0.13333333333333333
+Auto Rock,Life In Technicolor ii,beast,edition,0.4444444444444444
+Auto Rock,The Scientist,auto,scientist,0.42105263157894735
+Auto Rock,The Scientist,auto,scientist,0.42105263157894735
+Auto Rock,The Scientist,rock,scientist,0.5714285714285714
+Auto Rock,The Scientist,rock,scientist,0.5714285714285714
+Auto Rock,The Scientist,mr,scientist,0.14285714285714285
+Auto Rock,The Scientist,mr,scientist,0.14285714285714285
+Auto Rock,The Scientist,beast,scientist,0.8
+Auto Rock,The Scientist,beast,scientist,0.8
+Auto Rock,In My Place,auto,place,0.35294117647058826
+Auto Rock,In My Place,auto,rush,0.1
+Auto Rock,In My Place,auto,head,0.2222222222222222
+Auto Rock,In My Place,auto,blood,0.2222222222222222
+Auto Rock,In My Place,rock,place,0.5
+Auto Rock,In My Place,rock,rush,0.13333333333333333
+Auto Rock,In My Place,rock,head,0.3076923076923077
+Auto Rock,In My Place,rock,blood,0.3076923076923077
+Auto Rock,In My Place,mr,place,0.13333333333333333
+Auto Rock,In My Place,mr,rush,0.2222222222222222
+Auto Rock,In My Place,mr,head,0.125
+Auto Rock,In My Place,mr,blood,0.47058823529411764
+Auto Rock,In My Place,beast,place,0.46153846153846156
+Auto Rock,In My Place,beast,rush,0.125
+Auto Rock,In My Place,beast,head,0.2857142857142857
+Auto Rock,In My Place,beast,blood,0.2857142857142857
+Auto Rock,Lost!,auto,lost,0.125
+Auto Rock,Lost!,auto,viva,0.10526315789473684
+Auto Rock,Lost!,auto,la,0.2222222222222222
+Auto Rock,Lost!,auto,friends,0.42105263157894735
+Auto Rock,Lost!,auto,death,0.1111111111111111
+Auto Rock,Lost!,rock,lost,0.18181818181818182
+Auto Rock,Lost!,rock,viva,0.14285714285714285
+Auto Rock,Lost!,rock,la,0.3076923076923077
+Auto Rock,Lost!,rock,friends,0.5714285714285714
+Auto Rock,Lost!,rock,death,0.15384615384615385
+Auto Rock,Lost!,mr,lost,0.2857142857142857
+Auto Rock,Lost!,mr,viva,0.23529411764705882
+Auto Rock,Lost!,mr,la,0.47058823529411764
+Auto Rock,Lost!,mr,friends,0.14285714285714285
+Auto Rock,Lost!,mr,death,0.25
+Auto Rock,Lost!,beast,lost,0.16666666666666666
+Auto Rock,Lost!,beast,viva,0.13333333333333333
+Auto Rock,Lost!,beast,la,0.2857142857142857
+Auto Rock,Lost!,beast,friends,0.8
+Auto Rock,Lost!,beast,death,0.14285714285714285
+Auto Rock,Yellow,auto,yellow,0.10526315789473684
+Auto Rock,Yellow,auto,yellow,0.10526315789473684
+Auto Rock,Yellow,rock,yellow,0.14285714285714285
+Auto Rock,Yellow,rock,yellow,0.14285714285714285
+Auto Rock,Yellow,mr,yellow,0.23529411764705882
+Auto Rock,Yellow,mr,yellow,0.23529411764705882
+Auto Rock,Yellow,beast,yellow,0.13333333333333333
+Auto Rock,Yellow,beast,yellow,0.13333333333333333
+Auto Rock,Yellow,auto,yellow,0.10526315789473684
+Auto Rock,Yellow,rock,yellow,0.14285714285714285
+Auto Rock,Yellow,mr,yellow,0.23529411764705882
+Auto Rock,Yellow,beast,yellow,0.13333333333333333
+Auto Rock,Speed Of Sound,auto,speed,0.11764705882352941
+Auto Rock,Speed Of Sound,auto,sound,0.11764705882352941
+Auto Rock,Speed Of Sound,auto,speed,0.11764705882352941
+Auto Rock,Speed Of Sound,auto,sound,0.11764705882352941
+Auto Rock,Speed Of Sound,rock,speed,0.16666666666666666
+Auto Rock,Speed Of Sound,rock,sound,0.16666666666666666
+Auto Rock,Speed Of Sound,rock,speed,0.16666666666666666
+Auto Rock,Speed Of Sound,rock,sound,0.16666666666666666
+Auto Rock,Speed Of Sound,mr,speed,0.4
+Auto Rock,Speed Of Sound,mr,sound,0.26666666666666666
+Auto Rock,Speed Of Sound,mr,speed,0.4
+Auto Rock,Speed Of Sound,mr,sound,0.26666666666666666
+Auto Rock,Speed Of Sound,beast,speed,0.15384615384615385
+Auto Rock,Speed Of Sound,beast,sound,0.15384615384615385
+Auto Rock,Speed Of Sound,beast,speed,0.15384615384615385
+Auto Rock,Speed Of Sound,beast,sound,0.15384615384615385
+Who Knows Who Cares,Swallowed In The Sea,knows,swallowed,0
+Who Knows Who Cares,Swallowed In The Sea,knows,sea,0.15384615384615385
+Who Knows Who Cares,Swallowed In The Sea,knows,x,0.25
+Who Knows Who Cares,Swallowed In The Sea,cares,swallowed,0
+Who Knows Who Cares,Swallowed In The Sea,cares,sea,0.15384615384615385
+Who Knows Who Cares,Swallowed In The Sea,cares,x,0.25
+Who Knows Who Cares,Swallowed In The Sea,gorilla,swallowed,0
+Who Knows Who Cares,Swallowed In The Sea,gorilla,sea,0.19047619047619047
+Who Knows Who Cares,Swallowed In The Sea,gorilla,x,0.08333333333333333
+Who Knows Who Cares,Swallowed In The Sea,manor,swallowed,0
+Who Knows Who Cares,Swallowed In The Sea,manor,sea,0.26666666666666666
+Who Knows Who Cares,Swallowed In The Sea,manor,x,0.1111111111111111
+Who Knows Who Cares,Life In Technicolor,knows,technicolor,0.5
+Who Knows Who Cares,Life In Technicolor,knows,life,0.2857142857142857
+Who Knows Who Cares,Life In Technicolor,knows,viva,0.375
+Who Knows Who Cares,Life In Technicolor,knows,la,0.25
+Who Knows Who Cares,Life In Technicolor,knows,friends,0.15384615384615385
+Who Knows Who Cares,Life In Technicolor,knows,death,0.4
+Who Knows Who Cares,Life In Technicolor,cares,technicolor,0.375
+Who Knows Who Cares,Life In Technicolor,cares,life,0.2857142857142857
+Who Knows Who Cares,Life In Technicolor,cares,viva,0.625
+Who Knows Who Cares,Life In Technicolor,cares,la,0.25
+Who Knows Who Cares,Life In Technicolor,cares,friends,0.15384615384615385
+Who Knows Who Cares,Life In Technicolor,cares,death,0.5333333333333333
+Who Knows Who Cares,Life In Technicolor,gorilla,technicolor,0.08333333333333333
+Who Knows Who Cares,Life In Technicolor,gorilla,life,0.09090909090909091
+Who Knows Who Cares,Life In Technicolor,gorilla,viva,0.08333333333333333
+Who Knows Who Cares,Life In Technicolor,gorilla,la,0.17391304347826086
+Who Knows Who Cares,Life In Technicolor,gorilla,friends,0.5
+Who Knows Who Cares,Life In Technicolor,gorilla,death,0.08695652173913043
+Who Knows Who Cares,Life In Technicolor,manor,technicolor,0.1111111111111111
+Who Knows Who Cares,Life In Technicolor,manor,life,0.125
+Who Knows Who Cares,Life In Technicolor,manor,viva,0.1111111111111111
+Who Knows Who Cares,Life In Technicolor,manor,la,0.23529411764705882
+Who Knows Who Cares,Life In Technicolor,manor,friends,0.4444444444444444
+Who Knows Who Cares,Life In Technicolor,manor,death,0.11764705882352941
+Who Knows Who Cares,Clocks,knows,clocks,0.1
+Who Knows Who Cares,Clocks,knows,rush,0.35294117647058826
+Who Knows Who Cares,Clocks,knows,head,0.13333333333333333
+Who Knows Who Cares,Clocks,knows,blood,0.25
+Who Knows Who Cares,Clocks,cares,clocks,0.1
+Who Knows Who Cares,Clocks,cares,rush,0.5882352941176471
+Who Knows Who Cares,Clocks,cares,head,0.13333333333333333
+Who Knows Who Cares,Clocks,cares,blood,0.25
+Who Knows Who Cares,Clocks,gorilla,clocks,0.42857142857142855
+Who Knows Who Cares,Clocks,gorilla,rush,0.08
+Who Knows Who Cares,Clocks,gorilla,head,0.17391304347826086
+Who Knows Who Cares,Clocks,gorilla,blood,0.17391304347826086
+Who Knows Who Cares,Clocks,manor,clocks,0.36363636363636365
+Who Knows Who Cares,Clocks,manor,rush,0.10526315789473684
+Who Knows Who Cares,Clocks,manor,head,0.23529411764705882
+Who Knows Who Cares,Clocks,manor,blood,0.23529411764705882
+Who Knows Who Cares,Strawberry Swing,knows,strawberry,0.11764705882352941
+Who Knows Who Cares,Strawberry Swing,knows,swing,0.2857142857142857
+Who Knows Who Cares,Strawberry Swing,knows,viva,0.375
+Who Knows Who Cares,Strawberry Swing,knows,la,0.25
+Who Knows Who Cares,Strawberry Swing,knows,march,0.25
+Who Knows Who Cares,Strawberry Swing,knows,edition,0.10526315789473684
+Who Knows Who Cares,Strawberry Swing,cares,strawberry,0.11764705882352941
+Who Knows Who Cares,Strawberry Swing,cares,swing,0.2857142857142857
+Who Knows Who Cares,Strawberry Swing,cares,viva,0.625
+Who Knows Who Cares,Strawberry Swing,cares,la,0.25
+Who Knows Who Cares,Strawberry Swing,cares,march,0.25
+Who Knows Who Cares,Strawberry Swing,cares,edition,0.10526315789473684
+Who Knows Who Cares,Strawberry Swing,gorilla,strawberry,0.2857142857142857
+Who Knows Who Cares,Strawberry Swing,gorilla,swing,0.09090909090909091
+Who Knows Who Cares,Strawberry Swing,gorilla,viva,0.08333333333333333
+Who Knows Who Cares,Strawberry Swing,gorilla,la,0.17391304347826086
+Who Knows Who Cares,Strawberry Swing,gorilla,march,0.08333333333333333
+Who Knows Who Cares,Strawberry Swing,gorilla,edition,0.2962962962962963
+Who Knows Who Cares,Strawberry Swing,manor,strawberry,0.36363636363636365
+Who Knows Who Cares,Strawberry Swing,manor,swing,0.125
+Who Knows Who Cares,Strawberry Swing,manor,viva,0.1111111111111111
+Who Knows Who Cares,Strawberry Swing,manor,la,0.23529411764705882
+Who Knows Who Cares,Strawberry Swing,manor,march,0.1111111111111111
+Who Knows Who Cares,Strawberry Swing,manor,edition,0.47619047619047616
+Who Knows Who Cares,Life In Technicolor ii,knows,technicolor,0.5
+Who Knows Who Cares,Life In Technicolor ii,knows,ii,0.25
+Who Knows Who Cares,Life In Technicolor ii,knows,life,0.2857142857142857
+Who Knows Who Cares,Life In Technicolor ii,knows,viva,0.375
+Who Knows Who Cares,Life In Technicolor ii,knows,la,0.25
+Who Knows Who Cares,Life In Technicolor ii,knows,march,0.25
+Who Knows Who Cares,Life In Technicolor ii,knows,edition,0.10526315789473684
+Who Knows Who Cares,Life In Technicolor ii,cares,technicolor,0.375
+Who Knows Who Cares,Life In Technicolor ii,cares,ii,0.25
+Who Knows Who Cares,Life In Technicolor ii,cares,life,0.2857142857142857
+Who Knows Who Cares,Life In Technicolor ii,cares,viva,0.625
+Who Knows Who Cares,Life In Technicolor ii,cares,la,0.25
+Who Knows Who Cares,Life In Technicolor ii,cares,march,0.25
+Who Knows Who Cares,Life In Technicolor ii,cares,edition,0.10526315789473684
+Who Knows Who Cares,Life In Technicolor ii,gorilla,technicolor,0.08333333333333333
+Who Knows Who Cares,Life In Technicolor ii,gorilla,ii,0.08333333333333333
+Who Knows Who Cares,Life In Technicolor ii,gorilla,life,0.09090909090909091
+Who Knows Who Cares,Life In Technicolor ii,gorilla,viva,0.08333333333333333
+Who Knows Who Cares,Life In Technicolor ii,gorilla,la,0.17391304347826086
+Who Knows Who Cares,Life In Technicolor ii,gorilla,march,0.08333333333333333
+Who Knows Who Cares,Life In Technicolor ii,gorilla,edition,0.2962962962962963
+Who Knows Who Cares,Life In Technicolor ii,manor,technicolor,0.1111111111111111
+Who Knows Who Cares,Life In Technicolor ii,manor,ii,0.1111111111111111
+Who Knows Who Cares,Life In Technicolor ii,manor,life,0.125
+Who Knows Who Cares,Life In Technicolor ii,manor,viva,0.1111111111111111
+Who Knows Who Cares,Life In Technicolor ii,manor,la,0.23529411764705882
+Who Knows Who Cares,Life In Technicolor ii,manor,march,0.1111111111111111
+Who Knows Who Cares,Life In Technicolor ii,manor,edition,0.47619047619047616
+Who Knows Who Cares,The Scientist,knows,scientist,0.15384615384615385
+Who Knows Who Cares,The Scientist,knows,scientist,0.15384615384615385
+Who Knows Who Cares,The Scientist,cares,scientist,0.15384615384615385
+Who Knows Who Cares,The Scientist,cares,scientist,0.15384615384615385
+Who Knows Who Cares,The Scientist,gorilla,scientist,0.5
+Who Knows Who Cares,The Scientist,gorilla,scientist,0.5
+Who Knows Who Cares,The Scientist,manor,scientist,0.4444444444444444
+Who Knows Who Cares,The Scientist,manor,scientist,0.4444444444444444
+Who Knows Who Cares,In My Place,knows,place,0.14285714285714285
+Who Knows Who Cares,In My Place,knows,rush,0.35294117647058826
+Who Knows Who Cares,In My Place,knows,head,0.13333333333333333
+Who Knows Who Cares,In My Place,knows,blood,0.25
+Who Knows Who Cares,In My Place,cares,place,0.14285714285714285
+Who Knows Who Cares,In My Place,cares,rush,0.5882352941176471
+Who Knows Who Cares,In My Place,cares,head,0.13333333333333333
+Who Knows Who Cares,In My Place,cares,blood,0.25
+Who Knows Who Cares,In My Place,gorilla,place,0.2727272727272727
+Who Knows Who Cares,In My Place,gorilla,rush,0.08
+Who Knows Who Cares,In My Place,gorilla,head,0.17391304347826086
+Who Knows Who Cares,In My Place,gorilla,blood,0.17391304347826086
+Who Knows Who Cares,In My Place,manor,place,0.375
+Who Knows Who Cares,In My Place,manor,rush,0.10526315789473684
+Who Knows Who Cares,In My Place,manor,head,0.23529411764705882
+Who Knows Who Cares,In My Place,manor,blood,0.23529411764705882
+Who Knows Who Cares,Lost!,knows,lost,0.3076923076923077
+Who Knows Who Cares,Lost!,knows,viva,0.375
+Who Knows Who Cares,Lost!,knows,la,0.25
+Who Knows Who Cares,Lost!,knows,friends,0.15384615384615385
+Who Knows Who Cares,Lost!,knows,death,0.4
+Who Knows Who Cares,Lost!,cares,lost,0.3076923076923077
+Who Knows Who Cares,Lost!,cares,viva,0.625
+Who Knows Who Cares,Lost!,cares,la,0.25
+Who Knows Who Cares,Lost!,cares,friends,0.15384615384615385
+Who Knows Who Cares,Lost!,cares,death,0.5333333333333333
+Who Knows Who Cares,Lost!,gorilla,lost,0.09523809523809523
+Who Knows Who Cares,Lost!,gorilla,viva,0.08333333333333333
+Who Knows Who Cares,Lost!,gorilla,la,0.17391304347826086
+Who Knows Who Cares,Lost!,gorilla,friends,0.5
+Who Knows Who Cares,Lost!,gorilla,death,0.08695652173913043
+Who Knows Who Cares,Lost!,manor,lost,0.13333333333333333
+Who Knows Who Cares,Lost!,manor,viva,0.1111111111111111
+Who Knows Who Cares,Lost!,manor,la,0.23529411764705882
+Who Knows Who Cares,Lost!,manor,friends,0.4444444444444444
+Who Knows Who Cares,Lost!,manor,death,0.11764705882352941
+Who Knows Who Cares,Yellow,knows,yellow,0.25
+Who Knows Who Cares,Yellow,knows,yellow,0.25
+Who Knows Who Cares,Yellow,cares,yellow,0.25
+Who Knows Who Cares,Yellow,cares,yellow,0.25
+Who Knows Who Cares,Yellow,gorilla,yellow,0.08333333333333333
+Who Knows Who Cares,Yellow,gorilla,yellow,0.08333333333333333
+Who Knows Who Cares,Yellow,manor,yellow,0.1111111111111111
+Who Knows Who Cares,Yellow,manor,yellow,0.1111111111111111
+Who Knows Who Cares,Yellow,knows,yellow,0.25
+Who Knows Who Cares,Yellow,cares,yellow,0.25
+Who Knows Who Cares,Yellow,gorilla,yellow,0.08333333333333333
+Who Knows Who Cares,Yellow,manor,yellow,0.1111111111111111
+Who Knows Who Cares,Speed Of Sound,knows,speed,0.2857142857142857
+Who Knows Who Cares,Speed Of Sound,knows,sound,0.2857142857142857
+Who Knows Who Cares,Speed Of Sound,knows,speed,0.2857142857142857
+Who Knows Who Cares,Speed Of Sound,knows,sound,0.2857142857142857
+Who Knows Who Cares,Speed Of Sound,cares,speed,0.2857142857142857
+Who Knows Who Cares,Speed Of Sound,cares,sound,0.2857142857142857
+Who Knows Who Cares,Speed Of Sound,cares,speed,0.2857142857142857
+Who Knows Who Cares,Speed Of Sound,cares,sound,0.2857142857142857
+Who Knows Who Cares,Speed Of Sound,gorilla,speed,0.09090909090909091
+Who Knows Who Cares,Speed Of Sound,gorilla,sound,0.09090909090909091
+Who Knows Who Cares,Speed Of Sound,gorilla,speed,0.09090909090909091
+Who Knows Who Cares,Speed Of Sound,gorilla,sound,0.09090909090909091
+Who Knows Who Cares,Speed Of Sound,manor,speed,0.125
+Who Knows Who Cares,Speed Of Sound,manor,sound,0.125
+Who Knows Who Cares,Speed Of Sound,manor,speed,0.125
+Who Knows Who Cares,Speed Of Sound,manor,sound,0.125
+Quiet,Swallowed In The Sea,quiet,swallowed,0
+Quiet,Swallowed In The Sea,quiet,sea,0.25
+Quiet,Swallowed In The Sea,quiet,x,0.10526315789473684
+Quiet,Swallowed In The Sea,young,swallowed,0
+Quiet,Swallowed In The Sea,young,sea,0.3076923076923077
+Quiet,Swallowed In The Sea,young,x,0.125
+Quiet,Swallowed In The Sea,mountain,swallowed,0
+Quiet,Swallowed In The Sea,mountain,sea,0.36363636363636365
+Quiet,Swallowed In The Sea,mountain,x,0.14285714285714285
+Quiet,Life In Technicolor,quiet,technicolor,0.10526315789473684
+Quiet,Life In Technicolor,quiet,life,0.11764705882352941
+Quiet,Life In Technicolor,quiet,viva,0.10526315789473684
+Quiet,Life In Technicolor,quiet,la,0.2222222222222222
+Quiet,Life In Technicolor,quiet,friends,0.25
+Quiet,Life In Technicolor,quiet,death,0.1111111111111111
+Quiet,Life In Technicolor,young,technicolor,0.125
+Quiet,Life In Technicolor,young,life,0.14285714285714285
+Quiet,Life In Technicolor,young,viva,0.125
+Quiet,Life In Technicolor,young,la,0.26666666666666666
+Quiet,Life In Technicolor,young,friends,0.75
+Quiet,Life In Technicolor,young,death,0.13333333333333333
+Quiet,Life In Technicolor,mountain,technicolor,0.14285714285714285
+Quiet,Life In Technicolor,mountain,life,0.16666666666666666
+Quiet,Life In Technicolor,mountain,viva,0.14285714285714285
+Quiet,Life In Technicolor,mountain,la,0.3076923076923077
+Quiet,Life In Technicolor,mountain,friends,0.46153846153846156
+Quiet,Life In Technicolor,mountain,death,0.15384615384615385
+Quiet,Clocks,quiet,clocks,0.17391304347826086
+Quiet,Clocks,quiet,rush,0.1
+Quiet,Clocks,quiet,head,0.2222222222222222
+Quiet,Clocks,quiet,blood,0.2222222222222222
+Quiet,Clocks,young,clocks,0.6
+Quiet,Clocks,young,rush,0.11764705882352941
+Quiet,Clocks,young,head,0.26666666666666666
+Quiet,Clocks,young,blood,0.26666666666666666
+Quiet,Clocks,mountain,clocks,0.3333333333333333
+Quiet,Clocks,mountain,rush,0.13333333333333333
+Quiet,Clocks,mountain,head,0.3076923076923077
+Quiet,Clocks,mountain,blood,0.3076923076923077
+Quiet,Strawberry Swing,quiet,strawberry,0.2
+Quiet,Strawberry Swing,quiet,swing,0.11764705882352941
+Quiet,Strawberry Swing,quiet,viva,0.10526315789473684
+Quiet,Strawberry Swing,quiet,la,0.2222222222222222
+Quiet,Strawberry Swing,quiet,march,0.10526315789473684
+Quiet,Strawberry Swing,quiet,edition,0.18181818181818182
+Quiet,Strawberry Swing,young,strawberry,0.4
+Quiet,Strawberry Swing,young,swing,0.14285714285714285
+Quiet,Strawberry Swing,young,viva,0.125
+Quiet,Strawberry Swing,young,la,0.26666666666666666
+Quiet,Strawberry Swing,young,march,0.125
+Quiet,Strawberry Swing,young,edition,0.42105263157894735
+Quiet,Strawberry Swing,mountain,strawberry,0.35294117647058826
+Quiet,Strawberry Swing,mountain,swing,0.16666666666666666
+Quiet,Strawberry Swing,mountain,viva,0.14285714285714285
+Quiet,Strawberry Swing,mountain,la,0.3076923076923077
+Quiet,Strawberry Swing,mountain,march,0.14285714285714285
+Quiet,Strawberry Swing,mountain,edition,0.35294117647058826
+Quiet,Life In Technicolor ii,quiet,technicolor,0.10526315789473684
+Quiet,Life In Technicolor ii,quiet,ii,0.10526315789473684
+Quiet,Life In Technicolor ii,quiet,life,0.11764705882352941
+Quiet,Life In Technicolor ii,quiet,viva,0.10526315789473684
+Quiet,Life In Technicolor ii,quiet,la,0.2222222222222222
+Quiet,Life In Technicolor ii,quiet,march,0.10526315789473684
+Quiet,Life In Technicolor ii,quiet,edition,0.18181818181818182
+Quiet,Life In Technicolor ii,young,technicolor,0.125
+Quiet,Life In Technicolor ii,young,ii,0.125
+Quiet,Life In Technicolor ii,young,life,0.14285714285714285
+Quiet,Life In Technicolor ii,young,viva,0.125
+Quiet,Life In Technicolor ii,young,la,0.26666666666666666
+Quiet,Life In Technicolor ii,young,march,0.125
+Quiet,Life In Technicolor ii,young,edition,0.42105263157894735
+Quiet,Life In Technicolor ii,mountain,technicolor,0.14285714285714285
+Quiet,Life In Technicolor ii,mountain,ii,0.14285714285714285
+Quiet,Life In Technicolor ii,mountain,life,0.16666666666666666
+Quiet,Life In Technicolor ii,mountain,viva,0.14285714285714285
+Quiet,Life In Technicolor ii,mountain,la,0.3076923076923077
+Quiet,Life In Technicolor ii,mountain,march,0.14285714285714285
+Quiet,Life In Technicolor ii,mountain,edition,0.35294117647058826
+Quiet,The Scientist,quiet,scientist,0.25
+Quiet,The Scientist,quiet,scientist,0.25
+Quiet,The Scientist,young,scientist,0.75
+Quiet,The Scientist,young,scientist,0.75
+Quiet,The Scientist,mountain,scientist,0.46153846153846156
+Quiet,The Scientist,mountain,scientist,0.46153846153846156
+Quiet,In My Place,quiet,place,0.23529411764705882
+Quiet,In My Place,quiet,rush,0.1
+Quiet,In My Place,quiet,head,0.2222222222222222
+Quiet,In My Place,quiet,blood,0.2222222222222222
+Quiet,In My Place,young,place,0.42857142857142855
+Quiet,In My Place,young,rush,0.11764705882352941
+Quiet,In My Place,young,head,0.26666666666666666
+Quiet,In My Place,young,blood,0.26666666666666666
+Quiet,In My Place,mountain,place,0.5
+Quiet,In My Place,mountain,rush,0.13333333333333333
+Quiet,In My Place,mountain,head,0.3076923076923077
+Quiet,In My Place,mountain,blood,0.3076923076923077
+Quiet,Lost!,quiet,lost,0.125
+Quiet,Lost!,quiet,viva,0.10526315789473684
+Quiet,Lost!,quiet,la,0.2222222222222222
+Quiet,Lost!,quiet,friends,0.25
+Quiet,Lost!,quiet,death,0.1111111111111111
+Quiet,Lost!,young,lost,0.15384615384615385
+Quiet,Lost!,young,viva,0.125
+Quiet,Lost!,young,la,0.26666666666666666
+Quiet,Lost!,young,friends,0.75
+Quiet,Lost!,young,death,0.13333333333333333
+Quiet,Lost!,mountain,lost,0.18181818181818182
+Quiet,Lost!,mountain,viva,0.14285714285714285
+Quiet,Lost!,mountain,la,0.3076923076923077
+Quiet,Lost!,mountain,friends,0.46153846153846156
+Quiet,Lost!,mountain,death,0.15384615384615385
+Quiet,Yellow,quiet,yellow,0.10526315789473684
+Quiet,Yellow,quiet,yellow,0.10526315789473684
+Quiet,Yellow,young,yellow,0.125
+Quiet,Yellow,young,yellow,0.125
+Quiet,Yellow,mountain,yellow,0.14285714285714285
+Quiet,Yellow,mountain,yellow,0.14285714285714285
+Quiet,Yellow,quiet,yellow,0.10526315789473684
+Quiet,Yellow,young,yellow,0.125
+Quiet,Yellow,mountain,yellow,0.14285714285714285
+Quiet,Speed Of Sound,quiet,speed,0.11764705882352941
+Quiet,Speed Of Sound,quiet,sound,0.11764705882352941
+Quiet,Speed Of Sound,quiet,speed,0.11764705882352941
+Quiet,Speed Of Sound,quiet,sound,0.11764705882352941
+Quiet,Speed Of Sound,young,speed,0.14285714285714285
+Quiet,Speed Of Sound,young,sound,0.14285714285714285
+Quiet,Speed Of Sound,young,speed,0.14285714285714285
+Quiet,Speed Of Sound,young,sound,0.14285714285714285
+Quiet,Speed Of Sound,mountain,speed,0.16666666666666666
+Quiet,Speed Of Sound,mountain,sound,0.16666666666666666
+Quiet,Speed Of Sound,mountain,speed,0.16666666666666666
+Quiet,Speed Of Sound,mountain,sound,0.16666666666666666
+Girlfriend,Swallowed In The Sea,girlfriend,swallowed,0
+Girlfriend,Swallowed In The Sea,girlfriend,sea,0.36363636363636365
+Girlfriend,Swallowed In The Sea,girlfriend,x,0.14285714285714285
+Girlfriend,Swallowed In The Sea,phoenix,swallowed,0
+Girlfriend,Swallowed In The Sea,phoenix,sea,0.25
+Girlfriend,Swallowed In The Sea,phoenix,x,0.10526315789473684
+Girlfriend,Life In Technicolor,girlfriend,technicolor,0.14285714285714285
+Girlfriend,Life In Technicolor,girlfriend,life,0.16666666666666666
+Girlfriend,Life In Technicolor,girlfriend,viva,0.14285714285714285
+Girlfriend,Life In Technicolor,girlfriend,la,0.3076923076923077
+Girlfriend,Life In Technicolor,girlfriend,friends,0.7058823529411765
+Girlfriend,Life In Technicolor,girlfriend,death,0.15384615384615385
+Girlfriend,Life In Technicolor,phoenix,technicolor,0.10526315789473684
+Girlfriend,Life In Technicolor,phoenix,life,0.11764705882352941
+Girlfriend,Life In Technicolor,phoenix,viva,0.10526315789473684
+Girlfriend,Life In Technicolor,phoenix,la,0.2222222222222222
+Girlfriend,Life In Technicolor,phoenix,friends,0.3333333333333333
+Girlfriend,Life In Technicolor,phoenix,death,0.1111111111111111
+Girlfriend,Clocks,girlfriend,clocks,0.5714285714285714
+Girlfriend,Clocks,girlfriend,rush,0.13333333333333333
+Girlfriend,Clocks,girlfriend,head,0.3076923076923077
+Girlfriend,Clocks,girlfriend,blood,0.3076923076923077
+Girlfriend,Clocks,phoenix,clocks,0.2608695652173913
+Girlfriend,Clocks,phoenix,rush,0.1
+Girlfriend,Clocks,phoenix,head,0.2222222222222222
+Girlfriend,Clocks,phoenix,blood,0.2222222222222222
+Girlfriend,Strawberry Swing,girlfriend,strawberry,0.38095238095238093
+Girlfriend,Strawberry Swing,girlfriend,swing,0.16666666666666666
+Girlfriend,Strawberry Swing,girlfriend,viva,0.14285714285714285
+Girlfriend,Strawberry Swing,girlfriend,la,0.3076923076923077
+Girlfriend,Strawberry Swing,girlfriend,march,0.14285714285714285
+Girlfriend,Strawberry Swing,girlfriend,edition,0.4
+Girlfriend,Strawberry Swing,phoenix,strawberry,0.2727272727272727
+Girlfriend,Strawberry Swing,phoenix,swing,0.11764705882352941
+Girlfriend,Strawberry Swing,phoenix,viva,0.10526315789473684
+Girlfriend,Strawberry Swing,phoenix,la,0.2222222222222222
+Girlfriend,Strawberry Swing,phoenix,march,0.10526315789473684
+Girlfriend,Strawberry Swing,phoenix,edition,0.2727272727272727
+Girlfriend,Life In Technicolor ii,girlfriend,technicolor,0.14285714285714285
+Girlfriend,Life In Technicolor ii,girlfriend,ii,0.14285714285714285
+Girlfriend,Life In Technicolor ii,girlfriend,life,0.16666666666666666
+Girlfriend,Life In Technicolor ii,girlfriend,viva,0.14285714285714285
+Girlfriend,Life In Technicolor ii,girlfriend,la,0.3076923076923077
+Girlfriend,Life In Technicolor ii,girlfriend,march,0.14285714285714285
+Girlfriend,Life In Technicolor ii,girlfriend,edition,0.4
+Girlfriend,Life In Technicolor ii,phoenix,technicolor,0.10526315789473684
+Girlfriend,Life In Technicolor ii,phoenix,ii,0.10526315789473684
+Girlfriend,Life In Technicolor ii,phoenix,life,0.11764705882352941
+Girlfriend,Life In Technicolor ii,phoenix,viva,0.10526315789473684
+Girlfriend,Life In Technicolor ii,phoenix,la,0.2222222222222222
+Girlfriend,Life In Technicolor ii,phoenix,march,0.10526315789473684
+Girlfriend,Life In Technicolor ii,phoenix,edition,0.2727272727272727
+Girlfriend,The Scientist,girlfriend,scientist,0.7058823529411765
+Girlfriend,The Scientist,girlfriend,scientist,0.7058823529411765
+Girlfriend,The Scientist,phoenix,scientist,0.3333333333333333
+Girlfriend,The Scientist,phoenix,scientist,0.3333333333333333
+Girlfriend,In My Place,girlfriend,place,0.42857142857142855
+Girlfriend,In My Place,girlfriend,rush,0.13333333333333333
+Girlfriend,In My Place,girlfriend,head,0.3076923076923077
+Girlfriend,In My Place,girlfriend,blood,0.3076923076923077
+Girlfriend,In My Place,phoenix,place,0.47058823529411764
+Girlfriend,In My Place,phoenix,rush,0.1
+Girlfriend,In My Place,phoenix,head,0.2222222222222222
+Girlfriend,In My Place,phoenix,blood,0.2222222222222222
+Girlfriend,Lost!,girlfriend,lost,0.18181818181818182
+Girlfriend,Lost!,girlfriend,viva,0.14285714285714285
+Girlfriend,Lost!,girlfriend,la,0.3076923076923077
+Girlfriend,Lost!,girlfriend,friends,0.7058823529411765
+Girlfriend,Lost!,girlfriend,death,0.15384615384615385
+Girlfriend,Lost!,phoenix,lost,0.125
+Girlfriend,Lost!,phoenix,viva,0.10526315789473684
+Girlfriend,Lost!,phoenix,la,0.2222222222222222
+Girlfriend,Lost!,phoenix,friends,0.3333333333333333
+Girlfriend,Lost!,phoenix,death,0.1111111111111111
+Girlfriend,Yellow,girlfriend,yellow,0.14285714285714285
+Girlfriend,Yellow,girlfriend,yellow,0.14285714285714285
+Girlfriend,Yellow,phoenix,yellow,0.10526315789473684
+Girlfriend,Yellow,phoenix,yellow,0.10526315789473684
+Girlfriend,Yellow,girlfriend,yellow,0.14285714285714285
+Girlfriend,Yellow,phoenix,yellow,0.10526315789473684
+Girlfriend,Speed Of Sound,girlfriend,speed,0.16666666666666666
+Girlfriend,Speed Of Sound,girlfriend,sound,0.16666666666666666
+Girlfriend,Speed Of Sound,girlfriend,speed,0.16666666666666666
+Girlfriend,Speed Of Sound,girlfriend,sound,0.16666666666666666
+Girlfriend,Speed Of Sound,phoenix,speed,0.11764705882352941
+Girlfriend,Speed Of Sound,phoenix,sound,0.11764705882352941
+Girlfriend,Speed Of Sound,phoenix,speed,0.11764705882352941
+Girlfriend,Speed Of Sound,phoenix,sound,0.11764705882352941
+Happiness: We're All In It Together,Swallowed In The Sea,together,swallowed,0
+Happiness: We're All In It Together,Swallowed In The Sea,together,sea,0
+Happiness: We're All In It Together,Swallowed In The Sea,together,x,0
+Happiness: We're All In It Together,Swallowed In The Sea,happiness,swallowed,0
+Happiness: We're All In It Together,Swallowed In The Sea,happiness,sea,0.15384615384615385
+Happiness: We're All In It Together,Swallowed In The Sea,happiness,x,0.25
+Happiness: We're All In It Together,Swallowed In The Sea,young,swallowed,0
+Happiness: We're All In It Together,Swallowed In The Sea,young,sea,0.3076923076923077
+Happiness: We're All In It Together,Swallowed In The Sea,young,x,0.125
+Happiness: We're All In It Together,Swallowed In The Sea,mountain,swallowed,0
+Happiness: We're All In It Together,Swallowed In The Sea,mountain,sea,0.36363636363636365
+Happiness: We're All In It Together,Swallowed In The Sea,mountain,x,0.14285714285714285
+Happiness: We're All In It Together,Life In Technicolor,together,technicolor,0
+Happiness: We're All In It Together,Life In Technicolor,together,life,0
+Happiness: We're All In It Together,Life In Technicolor,together,viva,0
+Happiness: We're All In It Together,Life In Technicolor,together,la,0
+Happiness: We're All In It Together,Life In Technicolor,together,friends,0
+Happiness: We're All In It Together,Life In Technicolor,together,death,0
+Happiness: We're All In It Together,Life In Technicolor,happiness,technicolor,0.25
+Happiness: We're All In It Together,Life In Technicolor,happiness,life,0.5714285714285714
+Happiness: We're All In It Together,Life In Technicolor,happiness,viva,0.25
+Happiness: We're All In It Together,Life In Technicolor,happiness,la,0.25
+Happiness: We're All In It Together,Life In Technicolor,happiness,friends,0.15384615384615385
+Happiness: We're All In It Together,Life In Technicolor,happiness,death,0.26666666666666666
+Happiness: We're All In It Together,Life In Technicolor,young,technicolor,0.125
+Happiness: We're All In It Together,Life In Technicolor,young,life,0.14285714285714285
+Happiness: We're All In It Together,Life In Technicolor,young,viva,0.125
+Happiness: We're All In It Together,Life In Technicolor,young,la,0.26666666666666666
+Happiness: We're All In It Together,Life In Technicolor,young,friends,0.75
+Happiness: We're All In It Together,Life In Technicolor,young,death,0.13333333333333333
+Happiness: We're All In It Together,Life In Technicolor,mountain,technicolor,0.14285714285714285
+Happiness: We're All In It Together,Life In Technicolor,mountain,life,0.16666666666666666
+Happiness: We're All In It Together,Life In Technicolor,mountain,viva,0.14285714285714285
+Happiness: We're All In It Together,Life In Technicolor,mountain,la,0.3076923076923077
+Happiness: We're All In It Together,Life In Technicolor,mountain,friends,0.46153846153846156
+Happiness: We're All In It Together,Life In Technicolor,mountain,death,0.15384615384615385
+Happiness: We're All In It Together,Clocks,together,clocks,0
+Happiness: We're All In It Together,Clocks,together,rush,0
+Happiness: We're All In It Together,Clocks,together,head,0
+Happiness: We're All In It Together,Clocks,together,blood,0
+Happiness: We're All In It Together,Clocks,happiness,clocks,0.1
+Happiness: We're All In It Together,Clocks,happiness,rush,0.23529411764705882
+Happiness: We're All In It Together,Clocks,happiness,head,0.13333333333333333
+Happiness: We're All In It Together,Clocks,happiness,blood,0.25
+Happiness: We're All In It Together,Clocks,young,clocks,0.6
+Happiness: We're All In It Together,Clocks,young,rush,0.11764705882352941
+Happiness: We're All In It Together,Clocks,young,head,0.26666666666666666
+Happiness: We're All In It Together,Clocks,young,blood,0.26666666666666666
+Happiness: We're All In It Together,Clocks,mountain,clocks,0.3333333333333333
+Happiness: We're All In It Together,Clocks,mountain,rush,0.13333333333333333
+Happiness: We're All In It Together,Clocks,mountain,head,0.3076923076923077
+Happiness: We're All In It Together,Clocks,mountain,blood,0.3076923076923077
+Happiness: We're All In It Together,Strawberry Swing,together,strawberry,0
+Happiness: We're All In It Together,Strawberry Swing,together,swing,0
+Happiness: We're All In It Together,Strawberry Swing,together,viva,0
+Happiness: We're All In It Together,Strawberry Swing,together,la,0
+Happiness: We're All In It Together,Strawberry Swing,together,march,0
+Happiness: We're All In It Together,Strawberry Swing,together,edition,0
+Happiness: We're All In It Together,Strawberry Swing,happiness,strawberry,0.11764705882352941
+Happiness: We're All In It Together,Strawberry Swing,happiness,swing,0.5714285714285714
+Happiness: We're All In It Together,Strawberry Swing,happiness,viva,0.25
+Happiness: We're All In It Together,Strawberry Swing,happiness,la,0.25
+Happiness: We're All In It Together,Strawberry Swing,happiness,march,0.25
+Happiness: We're All In It Together,Strawberry Swing,happiness,edition,0.10526315789473684
+Happiness: We're All In It Together,Strawberry Swing,young,strawberry,0.4
+Happiness: We're All In It Together,Strawberry Swing,young,swing,0.14285714285714285
+Happiness: We're All In It Together,Strawberry Swing,young,viva,0.125
+Happiness: We're All In It Together,Strawberry Swing,young,la,0.26666666666666666
+Happiness: We're All In It Together,Strawberry Swing,young,march,0.125
+Happiness: We're All In It Together,Strawberry Swing,young,edition,0.42105263157894735
+Happiness: We're All In It Together,Strawberry Swing,mountain,strawberry,0.35294117647058826
+Happiness: We're All In It Together,Strawberry Swing,mountain,swing,0.16666666666666666
+Happiness: We're All In It Together,Strawberry Swing,mountain,viva,0.14285714285714285
+Happiness: We're All In It Together,Strawberry Swing,mountain,la,0.3076923076923077
+Happiness: We're All In It Together,Strawberry Swing,mountain,march,0.14285714285714285
+Happiness: We're All In It Together,Strawberry Swing,mountain,edition,0.35294117647058826
+Happiness: We're All In It Together,Life In Technicolor ii,together,technicolor,0
+Happiness: We're All In It Together,Life In Technicolor ii,together,ii,0
+Happiness: We're All In It Together,Life In Technicolor ii,together,life,0
+Happiness: We're All In It Together,Life In Technicolor ii,together,viva,0
+Happiness: We're All In It Together,Life In Technicolor ii,together,la,0
+Happiness: We're All In It Together,Life In Technicolor ii,together,march,0
+Happiness: We're All In It Together,Life In Technicolor ii,together,edition,0
+Happiness: We're All In It Together,Life In Technicolor ii,happiness,technicolor,0.25
+Happiness: We're All In It Together,Life In Technicolor ii,happiness,ii,0.25
+Happiness: We're All In It Together,Life In Technicolor ii,happiness,life,0.5714285714285714
+Happiness: We're All In It Together,Life In Technicolor ii,happiness,viva,0.25
+Happiness: We're All In It Together,Life In Technicolor ii,happiness,la,0.25
+Happiness: We're All In It Together,Life In Technicolor ii,happiness,march,0.25
+Happiness: We're All In It Together,Life In Technicolor ii,happiness,edition,0.10526315789473684
+Happiness: We're All In It Together,Life In Technicolor ii,young,technicolor,0.125
+Happiness: We're All In It Together,Life In Technicolor ii,young,ii,0.125
+Happiness: We're All In It Together,Life In Technicolor ii,young,life,0.14285714285714285
+Happiness: We're All In It Together,Life In Technicolor ii,young,viva,0.125
+Happiness: We're All In It Together,Life In Technicolor ii,young,la,0.26666666666666666
+Happiness: We're All In It Together,Life In Technicolor ii,young,march,0.125
+Happiness: We're All In It Together,Life In Technicolor ii,young,edition,0.42105263157894735
+Happiness: We're All In It Together,Life In Technicolor ii,mountain,technicolor,0.14285714285714285
+Happiness: We're All In It Together,Life In Technicolor ii,mountain,ii,0.14285714285714285
+Happiness: We're All In It Together,Life In Technicolor ii,mountain,life,0.16666666666666666
+Happiness: We're All In It Together,Life In Technicolor ii,mountain,viva,0.14285714285714285
+Happiness: We're All In It Together,Life In Technicolor ii,mountain,la,0.3076923076923077
+Happiness: We're All In It Together,Life In Technicolor ii,mountain,march,0.14285714285714285
+Happiness: We're All In It Together,Life In Technicolor ii,mountain,edition,0.35294117647058826
+Happiness: We're All In It Together,The Scientist,together,scientist,0
+Happiness: We're All In It Together,The Scientist,together,scientist,0
+Happiness: We're All In It Together,The Scientist,happiness,scientist,0.15384615384615385
+Happiness: We're All In It Together,The Scientist,happiness,scientist,0.15384615384615385
+Happiness: We're All In It Together,The Scientist,young,scientist,0.75
+Happiness: We're All In It Together,The Scientist,young,scientist,0.75
+Happiness: We're All In It Together,The Scientist,mountain,scientist,0.46153846153846156
+Happiness: We're All In It Together,The Scientist,mountain,scientist,0.46153846153846156
+Happiness: We're All In It Together,In My Place,together,place,0
+Happiness: We're All In It Together,In My Place,together,rush,0
+Happiness: We're All In It Together,In My Place,together,head,0
+Happiness: We're All In It Together,In My Place,together,blood,0
+Happiness: We're All In It Together,In My Place,happiness,place,0.14285714285714285
+Happiness: We're All In It Together,In My Place,happiness,rush,0.23529411764705882
+Happiness: We're All In It Together,In My Place,happiness,head,0.13333333333333333
+Happiness: We're All In It Together,In My Place,happiness,blood,0.25
+Happiness: We're All In It Together,In My Place,young,place,0.42857142857142855
+Happiness: We're All In It Together,In My Place,young,rush,0.11764705882352941
+Happiness: We're All In It Together,In My Place,young,head,0.26666666666666666
+Happiness: We're All In It Together,In My Place,young,blood,0.26666666666666666
+Happiness: We're All In It Together,In My Place,mountain,place,0.5
+Happiness: We're All In It Together,In My Place,mountain,rush,0.13333333333333333
+Happiness: We're All In It Together,In My Place,mountain,head,0.3076923076923077
+Happiness: We're All In It Together,In My Place,mountain,blood,0.3076923076923077
+Happiness: We're All In It Together,Lost!,together,lost,0
+Happiness: We're All In It Together,Lost!,together,viva,0
+Happiness: We're All In It Together,Lost!,together,la,0
+Happiness: We're All In It Together,Lost!,together,friends,0
+Happiness: We're All In It Together,Lost!,together,death,0
+Happiness: We're All In It Together,Lost!,happiness,lost,0.3076923076923077
+Happiness: We're All In It Together,Lost!,happiness,viva,0.25
+Happiness: We're All In It Together,Lost!,happiness,la,0.25
+Happiness: We're All In It Together,Lost!,happiness,friends,0.15384615384615385
+Happiness: We're All In It Together,Lost!,happiness,death,0.26666666666666666
+Happiness: We're All In It Together,Lost!,young,lost,0.15384615384615385
+Happiness: We're All In It Together,Lost!,young,viva,0.125
+Happiness: We're All In It Together,Lost!,young,la,0.26666666666666666
+Happiness: We're All In It Together,Lost!,young,friends,0.75
+Happiness: We're All In It Together,Lost!,young,death,0.13333333333333333
+Happiness: We're All In It Together,Lost!,mountain,lost,0.18181818181818182
+Happiness: We're All In It Together,Lost!,mountain,viva,0.14285714285714285
+Happiness: We're All In It Together,Lost!,mountain,la,0.3076923076923077
+Happiness: We're All In It Together,Lost!,mountain,friends,0.46153846153846156
+Happiness: We're All In It Together,Lost!,mountain,death,0.15384615384615385
+Happiness: We're All In It Together,Yellow,together,yellow,0
+Happiness: We're All In It Together,Yellow,together,yellow,0
+Happiness: We're All In It Together,Yellow,happiness,yellow,0.375
+Happiness: We're All In It Together,Yellow,happiness,yellow,0.375
+Happiness: We're All In It Together,Yellow,young,yellow,0.125
+Happiness: We're All In It Together,Yellow,young,yellow,0.125
+Happiness: We're All In It Together,Yellow,mountain,yellow,0.14285714285714285
+Happiness: We're All In It Together,Yellow,mountain,yellow,0.14285714285714285
+Happiness: We're All In It Together,Yellow,together,yellow,0
+Happiness: We're All In It Together,Yellow,happiness,yellow,0.375
+Happiness: We're All In It Together,Yellow,young,yellow,0.125
+Happiness: We're All In It Together,Yellow,mountain,yellow,0.14285714285714285
+Happiness: We're All In It Together,Speed Of Sound,together,speed,0
+Happiness: We're All In It Together,Speed Of Sound,together,sound,0
+Happiness: We're All In It Together,Speed Of Sound,together,speed,0
+Happiness: We're All In It Together,Speed Of Sound,together,sound,0
+Happiness: We're All In It Together,Speed Of Sound,happiness,speed,0.2857142857142857
+Happiness: We're All In It Together,Speed Of Sound,happiness,sound,0.42857142857142855
+Happiness: We're All In It Together,Speed Of Sound,happiness,speed,0.2857142857142857
+Happiness: We're All In It Together,Speed Of Sound,happiness,sound,0.42857142857142855
+Happiness: We're All In It Together,Speed Of Sound,young,speed,0.14285714285714285
+Happiness: We're All In It Together,Speed Of Sound,young,sound,0.14285714285714285
+Happiness: We're All In It Together,Speed Of Sound,young,speed,0.14285714285714285
+Happiness: We're All In It Together,Speed Of Sound,young,sound,0.14285714285714285
+Happiness: We're All In It Together,Speed Of Sound,mountain,speed,0.16666666666666666
+Happiness: We're All In It Together,Speed Of Sound,mountain,sound,0.16666666666666666
+Happiness: We're All In It Together,Speed Of Sound,mountain,speed,0.16666666666666666
+Happiness: We're All In It Together,Speed Of Sound,mountain,sound,0.16666666666666666
+Armistice,Swallowed In The Sea,armistice,swallowed,0
+Armistice,Swallowed In The Sea,armistice,sea,0.16666666666666666
+Armistice,Swallowed In The Sea,armistice,x,0.26666666666666666
+Armistice,Swallowed In The Sea,phoenix,swallowed,0
+Armistice,Swallowed In The Sea,phoenix,sea,0.25
+Armistice,Swallowed In The Sea,phoenix,x,0.10526315789473684
+Armistice,Life In Technicolor,armistice,technicolor,0.26666666666666666
+Armistice,Life In Technicolor,armistice,life,0.6153846153846154
+Armistice,Life In Technicolor,armistice,viva,0.26666666666666666
+Armistice,Life In Technicolor,armistice,la,0.26666666666666666
+Armistice,Life In Technicolor,armistice,friends,0.16666666666666666
+Armistice,Life In Technicolor,armistice,death,0.2857142857142857
+Armistice,Life In Technicolor,phoenix,technicolor,0.10526315789473684
+Armistice,Life In Technicolor,phoenix,life,0.11764705882352941
+Armistice,Life In Technicolor,phoenix,viva,0.10526315789473684
+Armistice,Life In Technicolor,phoenix,la,0.2222222222222222
+Armistice,Life In Technicolor,phoenix,friends,0.3333333333333333
+Armistice,Life In Technicolor,phoenix,death,0.1111111111111111
+Armistice,Clocks,armistice,clocks,0.10526315789473684
+Armistice,Clocks,armistice,rush,0.25
+Armistice,Clocks,armistice,head,0.14285714285714285
+Armistice,Clocks,armistice,blood,0.26666666666666666
+Armistice,Clocks,phoenix,clocks,0.2608695652173913
+Armistice,Clocks,phoenix,rush,0.1
+Armistice,Clocks,phoenix,head,0.2222222222222222
+Armistice,Clocks,phoenix,blood,0.2222222222222222
+Armistice,Strawberry Swing,armistice,strawberry,0.125
+Armistice,Strawberry Swing,armistice,swing,0.6153846153846154
+Armistice,Strawberry Swing,armistice,viva,0.26666666666666666
+Armistice,Strawberry Swing,armistice,la,0.26666666666666666
+Armistice,Strawberry Swing,armistice,march,0.26666666666666666
+Armistice,Strawberry Swing,armistice,edition,0.1111111111111111
+Armistice,Strawberry Swing,phoenix,strawberry,0.2727272727272727
+Armistice,Strawberry Swing,phoenix,swing,0.11764705882352941
+Armistice,Strawberry Swing,phoenix,viva,0.10526315789473684
+Armistice,Strawberry Swing,phoenix,la,0.2222222222222222
+Armistice,Strawberry Swing,phoenix,march,0.10526315789473684
+Armistice,Strawberry Swing,phoenix,edition,0.2727272727272727
+Armistice,Life In Technicolor ii,armistice,technicolor,0.26666666666666666
+Armistice,Life In Technicolor ii,armistice,ii,0.26666666666666666
+Armistice,Life In Technicolor ii,armistice,life,0.6153846153846154
+Armistice,Life In Technicolor ii,armistice,viva,0.26666666666666666
+Armistice,Life In Technicolor ii,armistice,la,0.26666666666666666
+Armistice,Life In Technicolor ii,armistice,march,0.26666666666666666
+Armistice,Life In Technicolor ii,armistice,edition,0.1111111111111111
+Armistice,Life In Technicolor ii,phoenix,technicolor,0.10526315789473684
+Armistice,Life In Technicolor ii,phoenix,ii,0.10526315789473684
+Armistice,Life In Technicolor ii,phoenix,life,0.11764705882352941
+Armistice,Life In Technicolor ii,phoenix,viva,0.10526315789473684
+Armistice,Life In Technicolor ii,phoenix,la,0.2222222222222222
+Armistice,Life In Technicolor ii,phoenix,march,0.10526315789473684
+Armistice,Life In Technicolor ii,phoenix,edition,0.2727272727272727
+Armistice,The Scientist,armistice,scientist,0.16666666666666666
+Armistice,The Scientist,armistice,scientist,0.16666666666666666
+Armistice,The Scientist,phoenix,scientist,0.3333333333333333
+Armistice,The Scientist,phoenix,scientist,0.3333333333333333
+Armistice,In My Place,armistice,place,0.15384615384615385
+Armistice,In My Place,armistice,rush,0.25
+Armistice,In My Place,armistice,head,0.14285714285714285
+Armistice,In My Place,armistice,blood,0.26666666666666666
+Armistice,In My Place,phoenix,place,0.47058823529411764
+Armistice,In My Place,phoenix,rush,0.1
+Armistice,In My Place,phoenix,head,0.2222222222222222
+Armistice,In My Place,phoenix,blood,0.2222222222222222
+Armistice,Lost!,armistice,lost,0.3333333333333333
+Armistice,Lost!,armistice,viva,0.26666666666666666
+Armistice,Lost!,armistice,la,0.26666666666666666
+Armistice,Lost!,armistice,friends,0.16666666666666666
+Armistice,Lost!,armistice,death,0.2857142857142857
+Armistice,Lost!,phoenix,lost,0.125
+Armistice,Lost!,phoenix,viva,0.10526315789473684
+Armistice,Lost!,phoenix,la,0.2222222222222222
+Armistice,Lost!,phoenix,friends,0.3333333333333333
+Armistice,Lost!,phoenix,death,0.1111111111111111
+Armistice,Yellow,armistice,yellow,0.4
+Armistice,Yellow,armistice,yellow,0.4
+Armistice,Yellow,phoenix,yellow,0.10526315789473684
+Armistice,Yellow,phoenix,yellow,0.10526315789473684
+Armistice,Yellow,armistice,yellow,0.4
+Armistice,Yellow,phoenix,yellow,0.10526315789473684
+Armistice,Speed Of Sound,armistice,speed,0.3076923076923077
+Armistice,Speed Of Sound,armistice,sound,0.46153846153846156
+Armistice,Speed Of Sound,armistice,speed,0.3076923076923077
+Armistice,Speed Of Sound,armistice,sound,0.46153846153846156
+Armistice,Speed Of Sound,phoenix,speed,0.11764705882352941
+Armistice,Speed Of Sound,phoenix,sound,0.11764705882352941
+Armistice,Speed Of Sound,phoenix,speed,0.11764705882352941
+Armistice,Speed Of Sound,phoenix,sound,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,remedies,swallowed,0
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,remedies,sea,0.125
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,remedies,x,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,worse,swallowed,0
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,worse,sea,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,worse,x,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,disease,swallowed,0
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,disease,sea,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,disease,x,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,young,swallowed,0
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,young,sea,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,young,x,0.125
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,mountain,swallowed,0
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,mountain,sea,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Swallowed In The Sea,mountain,x,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,remedies,technicolor,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,remedies,life,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,remedies,viva,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,remedies,la,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,remedies,friends,0.125
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,remedies,death,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,worse,technicolor,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,worse,life,0.5
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,worse,viva,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,worse,la,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,worse,friends,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,worse,death,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,disease,technicolor,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,disease,life,0.5
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,disease,viva,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,disease,la,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,disease,friends,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,disease,death,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,young,technicolor,0.125
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,young,life,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,young,viva,0.125
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,young,la,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,young,friends,0.75
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,young,death,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,mountain,technicolor,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,mountain,life,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,mountain,viva,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,mountain,la,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,mountain,friends,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Life In Technicolor,mountain,death,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Clocks,remedies,clocks,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Clocks,remedies,rush,0.7
+There Are Some Remedies Worse Than The Disease,Clocks,remedies,head,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Clocks,remedies,blood,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Clocks,worse,clocks,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Clocks,worse,rush,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Clocks,worse,head,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Clocks,worse,blood,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Clocks,disease,clocks,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Clocks,disease,rush,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Clocks,disease,head,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Clocks,disease,blood,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Clocks,young,clocks,0.6
+There Are Some Remedies Worse Than The Disease,Clocks,young,rush,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Clocks,young,head,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Clocks,young,blood,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Clocks,mountain,clocks,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Clocks,mountain,rush,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Clocks,mountain,head,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Clocks,mountain,blood,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,remedies,strawberry,0.1
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,remedies,swing,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,remedies,viva,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,remedies,la,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,remedies,march,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,remedies,edition,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,worse,strawberry,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,worse,swing,0.5
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,worse,viva,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,worse,la,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,worse,march,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,worse,edition,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,disease,strawberry,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,disease,swing,0.5
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,disease,viva,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,disease,la,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,disease,march,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,disease,edition,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,young,strawberry,0.4
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,young,swing,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,young,viva,0.125
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,young,la,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,young,march,0.125
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,young,edition,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,mountain,strawberry,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,mountain,swing,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,mountain,viva,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,mountain,la,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,mountain,march,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Strawberry Swing,mountain,edition,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,remedies,technicolor,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,remedies,ii,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,remedies,life,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,remedies,viva,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,remedies,la,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,remedies,march,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,remedies,edition,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,worse,technicolor,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,worse,ii,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,worse,life,0.5
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,worse,viva,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,worse,la,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,worse,march,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,worse,edition,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,disease,technicolor,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,disease,ii,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,disease,life,0.5
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,disease,viva,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,disease,la,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,disease,march,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,disease,edition,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,young,technicolor,0.125
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,young,ii,0.125
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,young,life,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,young,viva,0.125
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,young,la,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,young,march,0.125
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,young,edition,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,mountain,technicolor,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,mountain,ii,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,mountain,life,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,mountain,viva,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,mountain,la,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,mountain,march,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Life In Technicolor ii,mountain,edition,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,The Scientist,remedies,scientist,0.125
+There Are Some Remedies Worse Than The Disease,The Scientist,remedies,scientist,0.125
+There Are Some Remedies Worse Than The Disease,The Scientist,worse,scientist,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,The Scientist,worse,scientist,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,The Scientist,disease,scientist,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Scientist,disease,scientist,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Scientist,young,scientist,0.75
+There Are Some Remedies Worse Than The Disease,The Scientist,young,scientist,0.75
+There Are Some Remedies Worse Than The Disease,The Scientist,mountain,scientist,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,The Scientist,mountain,scientist,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,In My Place,remedies,place,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,In My Place,remedies,rush,0.7
+There Are Some Remedies Worse Than The Disease,In My Place,remedies,head,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,In My Place,remedies,blood,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,In My Place,worse,place,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,In My Place,worse,rush,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,In My Place,worse,head,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,In My Place,worse,blood,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,In My Place,disease,place,0.125
+There Are Some Remedies Worse Than The Disease,In My Place,disease,rush,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,In My Place,disease,head,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,In My Place,disease,blood,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,In My Place,young,place,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,In My Place,young,rush,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,In My Place,young,head,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,In My Place,young,blood,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,In My Place,mountain,place,0.5
+There Are Some Remedies Worse Than The Disease,In My Place,mountain,rush,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,In My Place,mountain,head,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,In My Place,mountain,blood,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Lost!,remedies,lost,0.25
+There Are Some Remedies Worse Than The Disease,Lost!,remedies,viva,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Lost!,remedies,la,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Lost!,remedies,friends,0.125
+There Are Some Remedies Worse Than The Disease,Lost!,remedies,death,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Lost!,worse,lost,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Lost!,worse,viva,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Lost!,worse,la,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Lost!,worse,friends,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Lost!,worse,death,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Lost!,disease,lost,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Lost!,disease,viva,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Lost!,disease,la,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Lost!,disease,friends,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Lost!,disease,death,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Lost!,young,lost,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Lost!,young,viva,0.125
+There Are Some Remedies Worse Than The Disease,Lost!,young,la,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Lost!,young,friends,0.75
+There Are Some Remedies Worse Than The Disease,Lost!,young,death,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Lost!,mountain,lost,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Lost!,mountain,viva,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Lost!,mountain,la,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Lost!,mountain,friends,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Lost!,mountain,death,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Yellow,remedies,yellow,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Yellow,remedies,yellow,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Yellow,worse,yellow,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Yellow,worse,yellow,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Yellow,disease,yellow,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Yellow,disease,yellow,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Yellow,young,yellow,0.125
+There Are Some Remedies Worse Than The Disease,Yellow,young,yellow,0.125
+There Are Some Remedies Worse Than The Disease,Yellow,mountain,yellow,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Yellow,mountain,yellow,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Yellow,remedies,yellow,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Yellow,worse,yellow,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Yellow,disease,yellow,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Yellow,young,yellow,0.125
+There Are Some Remedies Worse Than The Disease,Yellow,mountain,yellow,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,remedies,speed,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,remedies,sound,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,remedies,speed,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,remedies,sound,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,worse,speed,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,worse,sound,0.5
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,worse,speed,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,worse,sound,0.5
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,disease,speed,0.25
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,disease,sound,0.375
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,disease,speed,0.25
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,disease,sound,0.375
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,young,speed,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,young,sound,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,young,speed,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,young,sound,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,mountain,speed,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,mountain,sound,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,mountain,speed,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Speed Of Sound,mountain,sound,0.16666666666666666
+Swimming In The Flood,Swallowed In The Sea,swimming,swallowed,0
+Swimming In The Flood,Swallowed In The Sea,swimming,sea,0.13333333333333333
+Swimming In The Flood,Swallowed In The Sea,swimming,x,0.2222222222222222
+Swimming In The Flood,Swallowed In The Sea,flood,swallowed,0
+Swimming In The Flood,Swallowed In The Sea,flood,sea,0.3333333333333333
+Swimming In The Flood,Swallowed In The Sea,flood,x,0.13333333333333333
+Swimming In The Flood,Swallowed In The Sea,manners,swallowed,0
+Swimming In The Flood,Swallowed In The Sea,manners,sea,0.18181818181818182
+Swimming In The Flood,Swallowed In The Sea,manners,x,0.2857142857142857
+Swimming In The Flood,Life In Technicolor,swimming,technicolor,0.3333333333333333
+Swimming In The Flood,Life In Technicolor,swimming,life,0.25
+Swimming In The Flood,Life In Technicolor,swimming,viva,0.5555555555555556
+Swimming In The Flood,Life In Technicolor,swimming,la,0.2222222222222222
+Swimming In The Flood,Life In Technicolor,swimming,friends,0.13333333333333333
+Swimming In The Flood,Life In Technicolor,swimming,death,0.47058823529411764
+Swimming In The Flood,Life In Technicolor,flood,technicolor,0.13333333333333333
+Swimming In The Flood,Life In Technicolor,flood,life,0.15384615384615385
+Swimming In The Flood,Life In Technicolor,flood,viva,0.13333333333333333
+Swimming In The Flood,Life In Technicolor,flood,la,0.2857142857142857
+Swimming In The Flood,Life In Technicolor,flood,friends,0.3333333333333333
+Swimming In The Flood,Life In Technicolor,flood,death,0.14285714285714285
+Swimming In The Flood,Life In Technicolor,manners,technicolor,0.2857142857142857
+Swimming In The Flood,Life In Technicolor,manners,life,0.5
+Swimming In The Flood,Life In Technicolor,manners,viva,0.2857142857142857
+Swimming In The Flood,Life In Technicolor,manners,la,0.2857142857142857
+Swimming In The Flood,Life In Technicolor,manners,friends,0.18181818181818182
+Swimming In The Flood,Life In Technicolor,manners,death,0.3076923076923077
+Swimming In The Flood,Clocks,swimming,clocks,0.09090909090909091
+Swimming In The Flood,Clocks,swimming,rush,0.5263157894736842
+Swimming In The Flood,Clocks,swimming,head,0.11764705882352941
+Swimming In The Flood,Clocks,swimming,blood,0.2222222222222222
+Swimming In The Flood,Clocks,flood,clocks,0.21052631578947367
+Swimming In The Flood,Clocks,flood,rush,0.125
+Swimming In The Flood,Clocks,flood,head,0.2857142857142857
+Swimming In The Flood,Clocks,flood,blood,0.2857142857142857
+Swimming In The Flood,Clocks,manners,clocks,0.1111111111111111
+Swimming In The Flood,Clocks,manners,rush,0.26666666666666666
+Swimming In The Flood,Clocks,manners,head,0.15384615384615385
+Swimming In The Flood,Clocks,manners,blood,0.2857142857142857
+Swimming In The Flood,Strawberry Swing,swimming,strawberry,0.10526315789473684
+Swimming In The Flood,Strawberry Swing,swimming,swing,0.25
+Swimming In The Flood,Strawberry Swing,swimming,viva,0.5555555555555556
+Swimming In The Flood,Strawberry Swing,swimming,la,0.2222222222222222
+Swimming In The Flood,Strawberry Swing,swimming,march,0.2222222222222222
+Swimming In The Flood,Strawberry Swing,swimming,edition,0.09523809523809523
+Swimming In The Flood,Strawberry Swing,flood,strawberry,0.25
+Swimming In The Flood,Strawberry Swing,flood,swing,0.15384615384615385
+Swimming In The Flood,Strawberry Swing,flood,viva,0.13333333333333333
+Swimming In The Flood,Strawberry Swing,flood,la,0.2857142857142857
+Swimming In The Flood,Strawberry Swing,flood,march,0.13333333333333333
+Swimming In The Flood,Strawberry Swing,flood,edition,0.2222222222222222
+Swimming In The Flood,Strawberry Swing,manners,strawberry,0.13333333333333333
+Swimming In The Flood,Strawberry Swing,manners,swing,0.5
+Swimming In The Flood,Strawberry Swing,manners,viva,0.2857142857142857
+Swimming In The Flood,Strawberry Swing,manners,la,0.2857142857142857
+Swimming In The Flood,Strawberry Swing,manners,march,0.2857142857142857
+Swimming In The Flood,Strawberry Swing,manners,edition,0.11764705882352941
+Swimming In The Flood,Life In Technicolor ii,swimming,technicolor,0.3333333333333333
+Swimming In The Flood,Life In Technicolor ii,swimming,ii,0.2222222222222222
+Swimming In The Flood,Life In Technicolor ii,swimming,life,0.25
+Swimming In The Flood,Life In Technicolor ii,swimming,viva,0.5555555555555556
+Swimming In The Flood,Life In Technicolor ii,swimming,la,0.2222222222222222
+Swimming In The Flood,Life In Technicolor ii,swimming,march,0.2222222222222222
+Swimming In The Flood,Life In Technicolor ii,swimming,edition,0.09523809523809523
+Swimming In The Flood,Life In Technicolor ii,flood,technicolor,0.13333333333333333
+Swimming In The Flood,Life In Technicolor ii,flood,ii,0.13333333333333333
+Swimming In The Flood,Life In Technicolor ii,flood,life,0.15384615384615385
+Swimming In The Flood,Life In Technicolor ii,flood,viva,0.13333333333333333
+Swimming In The Flood,Life In Technicolor ii,flood,la,0.2857142857142857
+Swimming In The Flood,Life In Technicolor ii,flood,march,0.13333333333333333
+Swimming In The Flood,Life In Technicolor ii,flood,edition,0.2222222222222222
+Swimming In The Flood,Life In Technicolor ii,manners,technicolor,0.2857142857142857
+Swimming In The Flood,Life In Technicolor ii,manners,ii,0.2857142857142857
+Swimming In The Flood,Life In Technicolor ii,manners,life,0.5
+Swimming In The Flood,Life In Technicolor ii,manners,viva,0.2857142857142857
+Swimming In The Flood,Life In Technicolor ii,manners,la,0.2857142857142857
+Swimming In The Flood,Life In Technicolor ii,manners,march,0.2857142857142857
+Swimming In The Flood,Life In Technicolor ii,manners,edition,0.11764705882352941
+Swimming In The Flood,The Scientist,swimming,scientist,0.13333333333333333
+Swimming In The Flood,The Scientist,swimming,scientist,0.13333333333333333
+Swimming In The Flood,The Scientist,flood,scientist,0.3333333333333333
+Swimming In The Flood,The Scientist,flood,scientist,0.3333333333333333
+Swimming In The Flood,The Scientist,manners,scientist,0.18181818181818182
+Swimming In The Flood,The Scientist,manners,scientist,0.18181818181818182
+Swimming In The Flood,In My Place,swimming,place,0.125
+Swimming In The Flood,In My Place,swimming,rush,0.5263157894736842
+Swimming In The Flood,In My Place,swimming,head,0.11764705882352941
+Swimming In The Flood,In My Place,swimming,blood,0.2222222222222222
+Swimming In The Flood,In My Place,flood,place,0.3076923076923077
+Swimming In The Flood,In My Place,flood,rush,0.125
+Swimming In The Flood,In My Place,flood,head,0.2857142857142857
+Swimming In The Flood,In My Place,flood,blood,0.2857142857142857
+Swimming In The Flood,In My Place,manners,place,0.16666666666666666
+Swimming In The Flood,In My Place,manners,rush,0.26666666666666666
+Swimming In The Flood,In My Place,manners,head,0.15384615384615385
+Swimming In The Flood,In My Place,manners,blood,0.2857142857142857
+Swimming In The Flood,Lost!,swimming,lost,0.26666666666666666
+Swimming In The Flood,Lost!,swimming,viva,0.5555555555555556
+Swimming In The Flood,Lost!,swimming,la,0.2222222222222222
+Swimming In The Flood,Lost!,swimming,friends,0.13333333333333333
+Swimming In The Flood,Lost!,swimming,death,0.47058823529411764
+Swimming In The Flood,Lost!,flood,lost,0.16666666666666666
+Swimming In The Flood,Lost!,flood,viva,0.13333333333333333
+Swimming In The Flood,Lost!,flood,la,0.2857142857142857
+Swimming In The Flood,Lost!,flood,friends,0.3333333333333333
+Swimming In The Flood,Lost!,flood,death,0.14285714285714285
+Swimming In The Flood,Lost!,manners,lost,0.36363636363636365
+Swimming In The Flood,Lost!,manners,viva,0.2857142857142857
+Swimming In The Flood,Lost!,manners,la,0.2857142857142857
+Swimming In The Flood,Lost!,manners,friends,0.18181818181818182
+Swimming In The Flood,Lost!,manners,death,0.3076923076923077
+Swimming In The Flood,Yellow,swimming,yellow,0.2222222222222222
+Swimming In The Flood,Yellow,swimming,yellow,0.2222222222222222
+Swimming In The Flood,Yellow,flood,yellow,0.13333333333333333
+Swimming In The Flood,Yellow,flood,yellow,0.13333333333333333
+Swimming In The Flood,Yellow,manners,yellow,0.42857142857142855
+Swimming In The Flood,Yellow,manners,yellow,0.42857142857142855
+Swimming In The Flood,Yellow,swimming,yellow,0.2222222222222222
+Swimming In The Flood,Yellow,flood,yellow,0.13333333333333333
+Swimming In The Flood,Yellow,manners,yellow,0.42857142857142855
+Swimming In The Flood,Speed Of Sound,swimming,speed,0.25
+Swimming In The Flood,Speed Of Sound,swimming,sound,0.25
+Swimming In The Flood,Speed Of Sound,swimming,speed,0.25
+Swimming In The Flood,Speed Of Sound,swimming,sound,0.25
+Swimming In The Flood,Speed Of Sound,flood,speed,0.15384615384615385
+Swimming In The Flood,Speed Of Sound,flood,sound,0.15384615384615385
+Swimming In The Flood,Speed Of Sound,flood,speed,0.15384615384615385
+Swimming In The Flood,Speed Of Sound,flood,sound,0.15384615384615385
+Swimming In The Flood,Speed Of Sound,manners,speed,0.3333333333333333
+Swimming In The Flood,Speed Of Sound,manners,sound,0.5
+Swimming In The Flood,Speed Of Sound,manners,speed,0.3333333333333333
+Swimming In The Flood,Speed Of Sound,manners,sound,0.5

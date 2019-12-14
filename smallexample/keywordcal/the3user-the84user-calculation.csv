@@ -1,0 +1,2295 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Boy's No Good,sun,good,0.13333333333333333
+Sun Hands,Boy's No Good,sun,boy,0.47058823529411764
+Sun Hands,Boy's No Good,sun,one,0.125
+Sun Hands,Boy's No Good,sun,audience,0.14285714285714285
+Sun Hands,Boy's No Good,hands,good,0.25
+Sun Hands,Boy's No Good,hands,boy,0.13333333333333333
+Sun Hands,Boy's No Good,hands,one,0.23529411764705882
+Sun Hands,Boy's No Good,hands,audience,0.26666666666666666
+Sun Hands,Boy's No Good,gorilla,good,0.08695652173913043
+Sun Hands,Boy's No Good,gorilla,boy,0.48
+Sun Hands,Boy's No Good,gorilla,one,0.08333333333333333
+Sun Hands,Boy's No Good,gorilla,audience,0.09090909090909091
+Sun Hands,Boy's No Good,manor,good,0.11764705882352941
+Sun Hands,Boy's No Good,manor,boy,0.42105263157894735
+Sun Hands,Boy's No Good,manor,one,0.1111111111111111
+Sun Hands,Boy's No Good,manor,audience,0.125
+Sun Hands,Entertainment,sun,entertainment,0.125
+Sun Hands,Entertainment,sun,reason,0.14285714285714285
+Sun Hands,Entertainment,sun,appeal,0.125
+Sun Hands,Entertainment,hands,entertainment,0.5555555555555556
+Sun Hands,Entertainment,hands,reason,0.4
+Sun Hands,Entertainment,hands,appeal,0.5555555555555556
+Sun Hands,Entertainment,gorilla,entertainment,0.08333333333333333
+Sun Hands,Entertainment,gorilla,reason,0.09090909090909091
+Sun Hands,Entertainment,gorilla,appeal,0.08333333333333333
+Sun Hands,Entertainment,manor,entertainment,0.1111111111111111
+Sun Hands,Entertainment,manor,reason,0.125
+Sun Hands,Entertainment,manor,appeal,0.1111111111111111
+Sun Hands,The Art Of Losing,sun,losing,0
+Sun Hands,The Art Of Losing,sun,art,0.5333333333333333
+Sun Hands,The Art Of Losing,sun,unraveling,0
+Sun Hands,The Art Of Losing,hands,losing,0
+Sun Hands,The Art Of Losing,hands,art,0.125
+Sun Hands,The Art Of Losing,hands,unraveling,0
+Sun Hands,The Art Of Losing,gorilla,losing,0
+Sun Hands,The Art Of Losing,gorilla,art,0.34782608695652173
+Sun Hands,The Art Of Losing,gorilla,unraveling,0
+Sun Hands,The Art Of Losing,manor,losing,0
+Sun Hands,The Art Of Losing,manor,art,0.5882352941176471
+Sun Hands,The Art Of Losing,manor,unraveling,0
+Sun Hands,But Tonight We Dance,sun,tonight,0.14285714285714285
+Sun Hands,But Tonight We Dance,sun,dance,0.5
+Sun Hands,But Tonight We Dance,sun,noise,0.13333333333333333
+Sun Hands,But Tonight We Dance,hands,tonight,0.26666666666666666
+Sun Hands,But Tonight We Dance,hands,dance,0.11764705882352941
+Sun Hands,But Tonight We Dance,hands,noise,0.5
+Sun Hands,But Tonight We Dance,gorilla,tonight,0.09090909090909091
+Sun Hands,But Tonight We Dance,gorilla,dance,0.3333333333333333
+Sun Hands,But Tonight We Dance,gorilla,noise,0.08695652173913043
+Sun Hands,But Tonight We Dance,manor,tonight,0.125
+Sun Hands,But Tonight We Dance,manor,dance,0.5555555555555556
+Sun Hands,But Tonight We Dance,manor,noise,0.11764705882352941
+Sun Hands,Bricks,sun,bricks,0.5333333333333333
+Sun Hands,Bricks,sun,witness,0.47058823529411764
+Sun Hands,Bricks,sun,sufferer,0.47058823529411764
+Sun Hands,Bricks,hands,bricks,0.125
+Sun Hands,Bricks,hands,witness,0.13333333333333333
+Sun Hands,Bricks,hands,sufferer,0.13333333333333333
+Sun Hands,Bricks,gorilla,bricks,0.34782608695652173
+Sun Hands,Bricks,gorilla,witness,0.48
+Sun Hands,Bricks,gorilla,sufferer,0.48
+Sun Hands,Bricks,manor,bricks,0.5882352941176471
+Sun Hands,Bricks,manor,witness,0.42105263157894735
+Sun Hands,Bricks,manor,sufferer,0.42105263157894735
+Sun Hands,Remains Of Summer Memories,sun,summer,0.13333333333333333
+Sun Hands,Remains Of Summer Memories,sun,memories,0.13333333333333333
+Sun Hands,Remains Of Summer Memories,sun,remains,0.5
+Sun Hands,Remains Of Summer Memories,sun,unraveling,0
+Sun Hands,Remains Of Summer Memories,hands,summer,0.25
+Sun Hands,Remains Of Summer Memories,hands,memories,0.375
+Sun Hands,Remains Of Summer Memories,hands,remains,0.15384615384615385
+Sun Hands,Remains Of Summer Memories,hands,unraveling,0
+Sun Hands,Remains Of Summer Memories,gorilla,summer,0.08695652173913043
+Sun Hands,Remains Of Summer Memories,gorilla,memories,0.08695652173913043
+Sun Hands,Remains Of Summer Memories,gorilla,remains,0.3
+Sun Hands,Remains Of Summer Memories,gorilla,unraveling,0
+Sun Hands,Remains Of Summer Memories,manor,summer,0.11764705882352941
+Sun Hands,Remains Of Summer Memories,manor,memories,0.11764705882352941
+Sun Hands,Remains Of Summer Memories,manor,remains,0.42857142857142855
+Sun Hands,Remains Of Summer Memories,manor,unraveling,0
+Sun Hands,Black Masks & Gasoline,sun,black,0.125
+Sun Hands,Black Masks & Gasoline,sun,masks,0.5333333333333333
+Sun Hands,Black Masks & Gasoline,sun,gasoline,0.2857142857142857
+Sun Hands,Black Masks & Gasoline,sun,revolutions,0.13333333333333333
+Sun Hands,Black Masks & Gasoline,sun,minute,0.15384615384615385
+Sun Hands,Black Masks & Gasoline,hands,black,0.23529411764705882
+Sun Hands,Black Masks & Gasoline,hands,masks,0.125
+Sun Hands,Black Masks & Gasoline,hands,gasoline,0.23529411764705882
+Sun Hands,Black Masks & Gasoline,hands,revolutions,0.5
+Sun Hands,Black Masks & Gasoline,hands,minute,0.2857142857142857
+Sun Hands,Black Masks & Gasoline,gorilla,black,0.08333333333333333
+Sun Hands,Black Masks & Gasoline,gorilla,masks,0.34782608695652173
+Sun Hands,Black Masks & Gasoline,gorilla,gasoline,0.18181818181818182
+Sun Hands,Black Masks & Gasoline,gorilla,revolutions,0.08695652173913043
+Sun Hands,Black Masks & Gasoline,gorilla,minute,0.09523809523809523
+Sun Hands,Black Masks & Gasoline,manor,black,0.1111111111111111
+Sun Hands,Black Masks & Gasoline,manor,masks,0.5882352941176471
+Sun Hands,Black Masks & Gasoline,manor,gasoline,0.25
+Sun Hands,Black Masks & Gasoline,manor,revolutions,0.11764705882352941
+Sun Hands,Black Masks & Gasoline,manor,minute,0.13333333333333333
+Sun Hands,Behind Closed Doors,sun,behind,0.2857142857142857
+Sun Hands,Behind Closed Doors,sun,closed,0
+Sun Hands,Behind Closed Doors,sun,doors,0.4444444444444444
+Sun Hands,Behind Closed Doors,sun,witness,0.47058823529411764
+Sun Hands,Behind Closed Doors,sun,sufferer,0.47058823529411764
+Sun Hands,Behind Closed Doors,hands,behind,0.13333333333333333
+Sun Hands,Behind Closed Doors,hands,closed,0
+Sun Hands,Behind Closed Doors,hands,doors,0.10526315789473684
+Sun Hands,Behind Closed Doors,hands,witness,0.13333333333333333
+Sun Hands,Behind Closed Doors,hands,sufferer,0.13333333333333333
+Sun Hands,Behind Closed Doors,gorilla,behind,0.18181818181818182
+Sun Hands,Behind Closed Doors,gorilla,closed,0
+Sun Hands,Behind Closed Doors,gorilla,doors,0.3076923076923077
+Sun Hands,Behind Closed Doors,gorilla,witness,0.48
+Sun Hands,Behind Closed Doors,gorilla,sufferer,0.48
+Sun Hands,Behind Closed Doors,manor,behind,0.25
+Sun Hands,Behind Closed Doors,manor,closed,0
+Sun Hands,Behind Closed Doors,manor,doors,0.6
+Sun Hands,Behind Closed Doors,manor,witness,0.42105263157894735
+Sun Hands,Behind Closed Doors,manor,sufferer,0.42105263157894735
+Sun Hands,Paper Wings,sun,paper,0.2857142857142857
+Sun Hands,Paper Wings,sun,wings,0.125
+Sun Hands,Paper Wings,sun,siren,0.09523809523809523
+Sun Hands,Paper Wings,sun,song,0.13333333333333333
+Sun Hands,Paper Wings,sun,culture,0.14285714285714285
+Sun Hands,Paper Wings,sun,counter,0.4444444444444444
+Sun Hands,Paper Wings,hands,paper,0.25
+Sun Hands,Paper Wings,hands,wings,0.5555555555555556
+Sun Hands,Paper Wings,hands,siren,0.2727272727272727
+Sun Hands,Paper Wings,hands,song,0.25
+Sun Hands,Paper Wings,hands,culture,0.26666666666666666
+Sun Hands,Paper Wings,hands,counter,0.10526315789473684
+Sun Hands,Paper Wings,gorilla,paper,0.18181818181818182
+Sun Hands,Paper Wings,gorilla,wings,0.08333333333333333
+Sun Hands,Paper Wings,gorilla,siren,0.06896551724137931
+Sun Hands,Paper Wings,gorilla,song,0.08695652173913043
+Sun Hands,Paper Wings,gorilla,culture,0.09090909090909091
+Sun Hands,Paper Wings,gorilla,counter,0.3076923076923077
+Sun Hands,Paper Wings,manor,paper,0.25
+Sun Hands,Paper Wings,manor,wings,0.1111111111111111
+Sun Hands,Paper Wings,manor,siren,0.08695652173913043
+Sun Hands,Paper Wings,manor,song,0.11764705882352941
+Sun Hands,Paper Wings,manor,culture,0.125
+Sun Hands,Paper Wings,manor,counter,0.5
+Sun Hands,Broken English,sun,broken,0
+Sun Hands,Broken English,sun,english,0.11764705882352941
+Sun Hands,Broken English,sun,revolutions,0.13333333333333333
+Sun Hands,Broken English,sun,minute,0.15384615384615385
+Sun Hands,Broken English,hands,broken,0
+Sun Hands,Broken English,hands,english,0.2222222222222222
+Sun Hands,Broken English,hands,revolutions,0.5
+Sun Hands,Broken English,hands,minute,0.2857142857142857
+Sun Hands,Broken English,gorilla,broken,0
+Sun Hands,Broken English,gorilla,english,0.08
+Sun Hands,Broken English,gorilla,revolutions,0.08695652173913043
+Sun Hands,Broken English,gorilla,minute,0.09523809523809523
+Sun Hands,Broken English,manor,broken,0
+Sun Hands,Broken English,manor,english,0.10526315789473684
+Sun Hands,Broken English,manor,revolutions,0.11764705882352941
+Sun Hands,Broken English,manor,minute,0.13333333333333333
+Sun Hands,Savior,sun,savior,0.47058823529411764
+Sun Hands,Savior,sun,reason,0.14285714285714285
+Sun Hands,Savior,sun,appeal,0.125
+Sun Hands,Savior,hands,savior,0.3157894736842105
+Sun Hands,Savior,hands,reason,0.4
+Sun Hands,Savior,hands,appeal,0.5555555555555556
+Sun Hands,Savior,gorilla,savior,0.48
+Sun Hands,Savior,gorilla,reason,0.09090909090909091
+Sun Hands,Savior,gorilla,appeal,0.08333333333333333
+Sun Hands,Savior,manor,savior,0.42105263157894735
+Sun Hands,Savior,manor,reason,0.125
+Sun Hands,Savior,manor,appeal,0.1111111111111111
+Sun Hands,Blood To Bleed,sun,blood,0.26666666666666666
+Sun Hands,Blood To Bleed,sun,bleed,0
+Sun Hands,Blood To Bleed,sun,siren,0.09523809523809523
+Sun Hands,Blood To Bleed,sun,song,0.13333333333333333
+Sun Hands,Blood To Bleed,sun,culture,0.14285714285714285
+Sun Hands,Blood To Bleed,sun,counter,0.4444444444444444
+Sun Hands,Blood To Bleed,hands,blood,0.23529411764705882
+Sun Hands,Blood To Bleed,hands,bleed,0
+Sun Hands,Blood To Bleed,hands,siren,0.2727272727272727
+Sun Hands,Blood To Bleed,hands,song,0.25
+Sun Hands,Blood To Bleed,hands,culture,0.26666666666666666
+Sun Hands,Blood To Bleed,hands,counter,0.10526315789473684
+Sun Hands,Blood To Bleed,gorilla,blood,0.17391304347826086
+Sun Hands,Blood To Bleed,gorilla,bleed,0
+Sun Hands,Blood To Bleed,gorilla,siren,0.06896551724137931
+Sun Hands,Blood To Bleed,gorilla,song,0.08695652173913043
+Sun Hands,Blood To Bleed,gorilla,culture,0.09090909090909091
+Sun Hands,Blood To Bleed,gorilla,counter,0.3076923076923077
+Sun Hands,Blood To Bleed,manor,blood,0.23529411764705882
+Sun Hands,Blood To Bleed,manor,bleed,0
+Sun Hands,Blood To Bleed,manor,siren,0.08695652173913043
+Sun Hands,Blood To Bleed,manor,song,0.11764705882352941
+Sun Hands,Blood To Bleed,manor,culture,0.125
+Sun Hands,Blood To Bleed,manor,counter,0.5
+Sun Hands,Survive,sun,survive,0
+Sun Hands,Survive,sun,witness,0.47058823529411764
+Sun Hands,Survive,sun,sufferer,0.47058823529411764
+Sun Hands,Survive,hands,survive,0
+Sun Hands,Survive,hands,witness,0.13333333333333333
+Sun Hands,Survive,hands,sufferer,0.13333333333333333
+Sun Hands,Survive,gorilla,survive,0
+Sun Hands,Survive,gorilla,witness,0.48
+Sun Hands,Survive,gorilla,sufferer,0.48
+Sun Hands,Survive,manor,survive,0
+Sun Hands,Survive,manor,witness,0.42105263157894735
+Sun Hands,Survive,manor,sufferer,0.42105263157894735
+Sun Hands,The First Drop,sun,first,0.13333333333333333
+Sun Hands,The First Drop,sun,drop,0.13333333333333333
+Sun Hands,The First Drop,sun,siren,0.09523809523809523
+Sun Hands,The First Drop,sun,song,0.13333333333333333
+Sun Hands,The First Drop,sun,culture,0.14285714285714285
+Sun Hands,The First Drop,sun,counter,0.4444444444444444
+Sun Hands,The First Drop,hands,first,0.25
+Sun Hands,The First Drop,hands,drop,0.25
+Sun Hands,The First Drop,hands,siren,0.2727272727272727
+Sun Hands,The First Drop,hands,song,0.25
+Sun Hands,The First Drop,hands,culture,0.26666666666666666
+Sun Hands,The First Drop,hands,counter,0.10526315789473684
+Sun Hands,The First Drop,gorilla,first,0.08695652173913043
+Sun Hands,The First Drop,gorilla,drop,0.08695652173913043
+Sun Hands,The First Drop,gorilla,siren,0.06896551724137931
+Sun Hands,The First Drop,gorilla,song,0.08695652173913043
+Sun Hands,The First Drop,gorilla,culture,0.09090909090909091
+Sun Hands,The First Drop,gorilla,counter,0.3076923076923077
+Sun Hands,The First Drop,manor,first,0.11764705882352941
+Sun Hands,The First Drop,manor,drop,0.11764705882352941
+Sun Hands,The First Drop,manor,siren,0.08695652173913043
+Sun Hands,The First Drop,manor,song,0.11764705882352941
+Sun Hands,The First Drop,manor,culture,0.125
+Sun Hands,The First Drop,manor,counter,0.5
+Sun Hands,Voices Off Camera,sun,voices,0.13333333333333333
+Sun Hands,Voices Off Camera,sun,camera,0.47058823529411764
+Sun Hands,Voices Off Camera,sun,revolutions,0.13333333333333333
+Sun Hands,Voices Off Camera,sun,minute,0.15384615384615385
+Sun Hands,Voices Off Camera,hands,voices,0.25
+Sun Hands,Voices Off Camera,hands,camera,0.1111111111111111
+Sun Hands,Voices Off Camera,hands,revolutions,0.5
+Sun Hands,Voices Off Camera,hands,minute,0.2857142857142857
+Sun Hands,Voices Off Camera,gorilla,voices,0.08695652173913043
+Sun Hands,Voices Off Camera,gorilla,camera,0.32
+Sun Hands,Voices Off Camera,gorilla,revolutions,0.08695652173913043
+Sun Hands,Voices Off Camera,gorilla,minute,0.09523809523809523
+Sun Hands,Voices Off Camera,manor,voices,0.11764705882352941
+Sun Hands,Voices Off Camera,manor,camera,0.5263157894736842
+Sun Hands,Voices Off Camera,manor,revolutions,0.11764705882352941
+Sun Hands,Voices Off Camera,manor,minute,0.13333333333333333
+Camera Talk,Boy's No Good,camera,good,0.125
+Camera Talk,Boy's No Good,camera,boy,0.4444444444444444
+Camera Talk,Boy's No Good,camera,one,0.11764705882352941
+Camera Talk,Boy's No Good,camera,audience,0.13333333333333333
+Camera Talk,Boy's No Good,talk,good,0.2857142857142857
+Camera Talk,Boy's No Good,talk,boy,0.15384615384615385
+Camera Talk,Boy's No Good,talk,one,0.26666666666666666
+Camera Talk,Boy's No Good,talk,audience,0.3076923076923077
+Camera Talk,Boy's No Good,camera,good,0.125
+Camera Talk,Boy's No Good,camera,boy,0.4444444444444444
+Camera Talk,Boy's No Good,camera,one,0.11764705882352941
+Camera Talk,Boy's No Good,camera,audience,0.13333333333333333
+Camera Talk,Boy's No Good,talk,good,0.2857142857142857
+Camera Talk,Boy's No Good,talk,boy,0.15384615384615385
+Camera Talk,Boy's No Good,talk,one,0.26666666666666666
+Camera Talk,Boy's No Good,talk,audience,0.3076923076923077
+Camera Talk,Entertainment,camera,entertainment,0.11764705882352941
+Camera Talk,Entertainment,camera,reason,0.13333333333333333
+Camera Talk,Entertainment,camera,appeal,0.11764705882352941
+Camera Talk,Entertainment,talk,entertainment,0.26666666666666666
+Camera Talk,Entertainment,talk,reason,0.3076923076923077
+Camera Talk,Entertainment,talk,appeal,0.26666666666666666
+Camera Talk,Entertainment,camera,entertainment,0.11764705882352941
+Camera Talk,Entertainment,camera,reason,0.13333333333333333
+Camera Talk,Entertainment,camera,appeal,0.11764705882352941
+Camera Talk,Entertainment,talk,entertainment,0.26666666666666666
+Camera Talk,Entertainment,talk,reason,0.3076923076923077
+Camera Talk,Entertainment,talk,appeal,0.26666666666666666
+Camera Talk,The Art Of Losing,camera,losing,0
+Camera Talk,The Art Of Losing,camera,art,0.625
+Camera Talk,The Art Of Losing,camera,unraveling,0
+Camera Talk,The Art Of Losing,talk,losing,0
+Camera Talk,The Art Of Losing,talk,art,0.14285714285714285
+Camera Talk,The Art Of Losing,talk,unraveling,0
+Camera Talk,The Art Of Losing,camera,losing,0
+Camera Talk,The Art Of Losing,camera,art,0.625
+Camera Talk,The Art Of Losing,camera,unraveling,0
+Camera Talk,The Art Of Losing,talk,losing,0
+Camera Talk,The Art Of Losing,talk,art,0.14285714285714285
+Camera Talk,The Art Of Losing,talk,unraveling,0
+Camera Talk,But Tonight We Dance,camera,tonight,0.13333333333333333
+Camera Talk,But Tonight We Dance,camera,dance,0.5882352941176471
+Camera Talk,But Tonight We Dance,camera,noise,0.125
+Camera Talk,But Tonight We Dance,talk,tonight,0.3076923076923077
+Camera Talk,But Tonight We Dance,talk,dance,0.13333333333333333
+Camera Talk,But Tonight We Dance,talk,noise,0.2857142857142857
+Camera Talk,But Tonight We Dance,camera,tonight,0.13333333333333333
+Camera Talk,But Tonight We Dance,camera,dance,0.5882352941176471
+Camera Talk,But Tonight We Dance,camera,noise,0.125
+Camera Talk,But Tonight We Dance,talk,tonight,0.3076923076923077
+Camera Talk,But Tonight We Dance,talk,dance,0.13333333333333333
+Camera Talk,But Tonight We Dance,talk,noise,0.2857142857142857
+Camera Talk,Bricks,camera,bricks,0.7058823529411765
+Camera Talk,Bricks,camera,witness,0.4444444444444444
+Camera Talk,Bricks,camera,sufferer,0.4444444444444444
+Camera Talk,Bricks,talk,bricks,0.14285714285714285
+Camera Talk,Bricks,talk,witness,0.15384615384615385
+Camera Talk,Bricks,talk,sufferer,0.15384615384615385
+Camera Talk,Bricks,camera,bricks,0.7058823529411765
+Camera Talk,Bricks,camera,witness,0.4444444444444444
+Camera Talk,Bricks,camera,sufferer,0.4444444444444444
+Camera Talk,Bricks,talk,bricks,0.14285714285714285
+Camera Talk,Bricks,talk,witness,0.15384615384615385
+Camera Talk,Bricks,talk,sufferer,0.15384615384615385
+Camera Talk,Remains Of Summer Memories,camera,summer,0.125
+Camera Talk,Remains Of Summer Memories,camera,memories,0.125
+Camera Talk,Remains Of Summer Memories,camera,remains,0.46153846153846156
+Camera Talk,Remains Of Summer Memories,camera,unraveling,0
+Camera Talk,Remains Of Summer Memories,talk,summer,0.2857142857142857
+Camera Talk,Remains Of Summer Memories,talk,memories,0.2857142857142857
+Camera Talk,Remains Of Summer Memories,talk,remains,0.18181818181818182
+Camera Talk,Remains Of Summer Memories,talk,unraveling,0
+Camera Talk,Remains Of Summer Memories,camera,summer,0.125
+Camera Talk,Remains Of Summer Memories,camera,memories,0.125
+Camera Talk,Remains Of Summer Memories,camera,remains,0.46153846153846156
+Camera Talk,Remains Of Summer Memories,camera,unraveling,0
+Camera Talk,Remains Of Summer Memories,talk,summer,0.2857142857142857
+Camera Talk,Remains Of Summer Memories,talk,memories,0.2857142857142857
+Camera Talk,Remains Of Summer Memories,talk,remains,0.18181818181818182
+Camera Talk,Remains Of Summer Memories,talk,unraveling,0
+Camera Talk,Black Masks & Gasoline,camera,black,0.11764705882352941
+Camera Talk,Black Masks & Gasoline,camera,masks,0.625
+Camera Talk,Black Masks & Gasoline,camera,gasoline,0.26666666666666666
+Camera Talk,Black Masks & Gasoline,camera,revolutions,0.125
+Camera Talk,Black Masks & Gasoline,camera,minute,0.14285714285714285
+Camera Talk,Black Masks & Gasoline,talk,black,0.26666666666666666
+Camera Talk,Black Masks & Gasoline,talk,masks,0.14285714285714285
+Camera Talk,Black Masks & Gasoline,talk,gasoline,0.26666666666666666
+Camera Talk,Black Masks & Gasoline,talk,revolutions,0.2857142857142857
+Camera Talk,Black Masks & Gasoline,talk,minute,0.3333333333333333
+Camera Talk,Black Masks & Gasoline,camera,black,0.11764705882352941
+Camera Talk,Black Masks & Gasoline,camera,masks,0.625
+Camera Talk,Black Masks & Gasoline,camera,gasoline,0.26666666666666666
+Camera Talk,Black Masks & Gasoline,camera,revolutions,0.125
+Camera Talk,Black Masks & Gasoline,camera,minute,0.14285714285714285
+Camera Talk,Black Masks & Gasoline,talk,black,0.26666666666666666
+Camera Talk,Black Masks & Gasoline,talk,masks,0.14285714285714285
+Camera Talk,Black Masks & Gasoline,talk,gasoline,0.26666666666666666
+Camera Talk,Black Masks & Gasoline,talk,revolutions,0.2857142857142857
+Camera Talk,Black Masks & Gasoline,talk,minute,0.3333333333333333
+Camera Talk,Behind Closed Doors,camera,behind,0.26666666666666666
+Camera Talk,Behind Closed Doors,camera,closed,0
+Camera Talk,Behind Closed Doors,camera,doors,0.5263157894736842
+Camera Talk,Behind Closed Doors,camera,witness,0.4444444444444444
+Camera Talk,Behind Closed Doors,camera,sufferer,0.4444444444444444
+Camera Talk,Behind Closed Doors,talk,behind,0.15384615384615385
+Camera Talk,Behind Closed Doors,talk,closed,0
+Camera Talk,Behind Closed Doors,talk,doors,0.11764705882352941
+Camera Talk,Behind Closed Doors,talk,witness,0.15384615384615385
+Camera Talk,Behind Closed Doors,talk,sufferer,0.15384615384615385
+Camera Talk,Behind Closed Doors,camera,behind,0.26666666666666666
+Camera Talk,Behind Closed Doors,camera,closed,0
+Camera Talk,Behind Closed Doors,camera,doors,0.5263157894736842
+Camera Talk,Behind Closed Doors,camera,witness,0.4444444444444444
+Camera Talk,Behind Closed Doors,camera,sufferer,0.4444444444444444
+Camera Talk,Behind Closed Doors,talk,behind,0.15384615384615385
+Camera Talk,Behind Closed Doors,talk,closed,0
+Camera Talk,Behind Closed Doors,talk,doors,0.11764705882352941
+Camera Talk,Behind Closed Doors,talk,witness,0.15384615384615385
+Camera Talk,Behind Closed Doors,talk,sufferer,0.15384615384615385
+Camera Talk,Paper Wings,camera,paper,0.26666666666666666
+Camera Talk,Paper Wings,camera,wings,0.11764705882352941
+Camera Talk,Paper Wings,camera,siren,0.09090909090909091
+Camera Talk,Paper Wings,camera,song,0.125
+Camera Talk,Paper Wings,camera,culture,0.13333333333333333
+Camera Talk,Paper Wings,camera,counter,0.631578947368421
+Camera Talk,Paper Wings,talk,paper,0.2857142857142857
+Camera Talk,Paper Wings,talk,wings,0.26666666666666666
+Camera Talk,Paper Wings,talk,siren,0.2
+Camera Talk,Paper Wings,talk,song,0.5714285714285714
+Camera Talk,Paper Wings,talk,culture,0.3076923076923077
+Camera Talk,Paper Wings,talk,counter,0.11764705882352941
+Camera Talk,Paper Wings,camera,paper,0.26666666666666666
+Camera Talk,Paper Wings,camera,wings,0.11764705882352941
+Camera Talk,Paper Wings,camera,siren,0.09090909090909091
+Camera Talk,Paper Wings,camera,song,0.125
+Camera Talk,Paper Wings,camera,culture,0.13333333333333333
+Camera Talk,Paper Wings,camera,counter,0.631578947368421
+Camera Talk,Paper Wings,talk,paper,0.2857142857142857
+Camera Talk,Paper Wings,talk,wings,0.26666666666666666
+Camera Talk,Paper Wings,talk,siren,0.2
+Camera Talk,Paper Wings,talk,song,0.5714285714285714
+Camera Talk,Paper Wings,talk,culture,0.3076923076923077
+Camera Talk,Paper Wings,talk,counter,0.11764705882352941
+Camera Talk,Broken English,camera,broken,0
+Camera Talk,Broken English,camera,english,0.1111111111111111
+Camera Talk,Broken English,camera,revolutions,0.125
+Camera Talk,Broken English,camera,minute,0.14285714285714285
+Camera Talk,Broken English,talk,broken,0
+Camera Talk,Broken English,talk,english,0.375
+Camera Talk,Broken English,talk,revolutions,0.2857142857142857
+Camera Talk,Broken English,talk,minute,0.3333333333333333
+Camera Talk,Broken English,camera,broken,0
+Camera Talk,Broken English,camera,english,0.1111111111111111
+Camera Talk,Broken English,camera,revolutions,0.125
+Camera Talk,Broken English,camera,minute,0.14285714285714285
+Camera Talk,Broken English,talk,broken,0
+Camera Talk,Broken English,talk,english,0.375
+Camera Talk,Broken English,talk,revolutions,0.2857142857142857
+Camera Talk,Broken English,talk,minute,0.3333333333333333
+Camera Talk,Savior,camera,savior,0.4444444444444444
+Camera Talk,Savior,camera,reason,0.13333333333333333
+Camera Talk,Savior,camera,appeal,0.11764705882352941
+Camera Talk,Savior,talk,savior,0.26666666666666666
+Camera Talk,Savior,talk,reason,0.3076923076923077
+Camera Talk,Savior,talk,appeal,0.26666666666666666
+Camera Talk,Savior,camera,savior,0.4444444444444444
+Camera Talk,Savior,camera,reason,0.13333333333333333
+Camera Talk,Savior,camera,appeal,0.11764705882352941
+Camera Talk,Savior,talk,savior,0.26666666666666666
+Camera Talk,Savior,talk,reason,0.3076923076923077
+Camera Talk,Savior,talk,appeal,0.26666666666666666
+Camera Talk,Blood To Bleed,camera,blood,0.25
+Camera Talk,Blood To Bleed,camera,bleed,0
+Camera Talk,Blood To Bleed,camera,siren,0.09090909090909091
+Camera Talk,Blood To Bleed,camera,song,0.125
+Camera Talk,Blood To Bleed,camera,culture,0.13333333333333333
+Camera Talk,Blood To Bleed,camera,counter,0.631578947368421
+Camera Talk,Blood To Bleed,talk,blood,0.26666666666666666
+Camera Talk,Blood To Bleed,talk,bleed,0
+Camera Talk,Blood To Bleed,talk,siren,0.2
+Camera Talk,Blood To Bleed,talk,song,0.5714285714285714
+Camera Talk,Blood To Bleed,talk,culture,0.3076923076923077
+Camera Talk,Blood To Bleed,talk,counter,0.11764705882352941
+Camera Talk,Blood To Bleed,camera,blood,0.25
+Camera Talk,Blood To Bleed,camera,bleed,0
+Camera Talk,Blood To Bleed,camera,siren,0.09090909090909091
+Camera Talk,Blood To Bleed,camera,song,0.125
+Camera Talk,Blood To Bleed,camera,culture,0.13333333333333333
+Camera Talk,Blood To Bleed,camera,counter,0.631578947368421
+Camera Talk,Blood To Bleed,talk,blood,0.26666666666666666
+Camera Talk,Blood To Bleed,talk,bleed,0
+Camera Talk,Blood To Bleed,talk,siren,0.2
+Camera Talk,Blood To Bleed,talk,song,0.5714285714285714
+Camera Talk,Blood To Bleed,talk,culture,0.3076923076923077
+Camera Talk,Blood To Bleed,talk,counter,0.11764705882352941
+Camera Talk,Survive,camera,survive,0
+Camera Talk,Survive,camera,witness,0.4444444444444444
+Camera Talk,Survive,camera,sufferer,0.4444444444444444
+Camera Talk,Survive,talk,survive,0
+Camera Talk,Survive,talk,witness,0.15384615384615385
+Camera Talk,Survive,talk,sufferer,0.15384615384615385
+Camera Talk,Survive,camera,survive,0
+Camera Talk,Survive,camera,witness,0.4444444444444444
+Camera Talk,Survive,camera,sufferer,0.4444444444444444
+Camera Talk,Survive,talk,survive,0
+Camera Talk,Survive,talk,witness,0.15384615384615385
+Camera Talk,Survive,talk,sufferer,0.15384615384615385
+Camera Talk,The First Drop,camera,first,0.125
+Camera Talk,The First Drop,camera,drop,0.125
+Camera Talk,The First Drop,camera,siren,0.09090909090909091
+Camera Talk,The First Drop,camera,song,0.125
+Camera Talk,The First Drop,camera,culture,0.13333333333333333
+Camera Talk,The First Drop,camera,counter,0.631578947368421
+Camera Talk,The First Drop,talk,first,0.2857142857142857
+Camera Talk,The First Drop,talk,drop,0.2857142857142857
+Camera Talk,The First Drop,talk,siren,0.2
+Camera Talk,The First Drop,talk,song,0.5714285714285714
+Camera Talk,The First Drop,talk,culture,0.3076923076923077
+Camera Talk,The First Drop,talk,counter,0.11764705882352941
+Camera Talk,The First Drop,camera,first,0.125
+Camera Talk,The First Drop,camera,drop,0.125
+Camera Talk,The First Drop,camera,siren,0.09090909090909091
+Camera Talk,The First Drop,camera,song,0.125
+Camera Talk,The First Drop,camera,culture,0.13333333333333333
+Camera Talk,The First Drop,camera,counter,0.631578947368421
+Camera Talk,The First Drop,talk,first,0.2857142857142857
+Camera Talk,The First Drop,talk,drop,0.2857142857142857
+Camera Talk,The First Drop,talk,siren,0.2
+Camera Talk,The First Drop,talk,song,0.5714285714285714
+Camera Talk,The First Drop,talk,culture,0.3076923076923077
+Camera Talk,The First Drop,talk,counter,0.11764705882352941
+Camera Talk,Voices Off Camera,camera,voices,0.125
+Camera Talk,Voices Off Camera,camera,camera,1.0
+Camera Talk,Voices Off Camera,camera,revolutions,0.125
+Camera Talk,Voices Off Camera,camera,minute,0.14285714285714285
+Camera Talk,Voices Off Camera,talk,voices,0.2857142857142857
+Camera Talk,Voices Off Camera,talk,camera,0.125
+Camera Talk,Voices Off Camera,talk,revolutions,0.2857142857142857
+Camera Talk,Voices Off Camera,talk,minute,0.3333333333333333
+Camera Talk,Voices Off Camera,camera,voices,0.125
+Camera Talk,Voices Off Camera,camera,camera,1.0
+Camera Talk,Voices Off Camera,camera,revolutions,0.125
+Camera Talk,Voices Off Camera,camera,minute,0.14285714285714285
+Camera Talk,Voices Off Camera,talk,voices,0.2857142857142857
+Camera Talk,Voices Off Camera,talk,camera,0.125
+Camera Talk,Voices Off Camera,talk,revolutions,0.2857142857142857
+Camera Talk,Voices Off Camera,talk,minute,0.3333333333333333
+Belle,Boy's No Good,beautiful,good,0
+Belle,Boy's No Good,beautiful,boy,0
+Belle,Boy's No Good,beautiful,one,0
+Belle,Boy's No Good,beautiful,audience,0
+Belle,Boy's No Good,dreams,good,0.25
+Belle,Boy's No Good,dreams,boy,0.13333333333333333
+Belle,Boy's No Good,dreams,one,0.23529411764705882
+Belle,Boy's No Good,dreams,audience,0.26666666666666666
+Belle,Entertainment,beautiful,entertainment,0
+Belle,Entertainment,beautiful,reason,0
+Belle,Entertainment,beautiful,appeal,0
+Belle,Entertainment,dreams,entertainment,0.35294117647058826
+Belle,Entertainment,dreams,reason,0.4
+Belle,Entertainment,dreams,appeal,0.35294117647058826
+Belle,The Art Of Losing,beautiful,losing,0
+Belle,The Art Of Losing,beautiful,art,0
+Belle,The Art Of Losing,beautiful,unraveling,0
+Belle,The Art Of Losing,dreams,losing,0
+Belle,The Art Of Losing,dreams,art,0.125
+Belle,The Art Of Losing,dreams,unraveling,0
+Belle,But Tonight We Dance,beautiful,tonight,0
+Belle,But Tonight We Dance,beautiful,dance,0
+Belle,But Tonight We Dance,beautiful,noise,0
+Belle,But Tonight We Dance,dreams,tonight,0.26666666666666666
+Belle,But Tonight We Dance,dreams,dance,0.11764705882352941
+Belle,But Tonight We Dance,dreams,noise,0.375
+Belle,Bricks,beautiful,bricks,0
+Belle,Bricks,beautiful,witness,0
+Belle,Bricks,beautiful,sufferer,0
+Belle,Bricks,dreams,bricks,0.125
+Belle,Bricks,dreams,witness,0.13333333333333333
+Belle,Bricks,dreams,sufferer,0.13333333333333333
+Belle,Remains Of Summer Memories,beautiful,summer,0
+Belle,Remains Of Summer Memories,beautiful,memories,0
+Belle,Remains Of Summer Memories,beautiful,remains,0
+Belle,Remains Of Summer Memories,beautiful,unraveling,0
+Belle,Remains Of Summer Memories,dreams,summer,0.25
+Belle,Remains Of Summer Memories,dreams,memories,0.5
+Belle,Remains Of Summer Memories,dreams,remains,0.15384615384615385
+Belle,Remains Of Summer Memories,dreams,unraveling,0
+Belle,Black Masks & Gasoline,beautiful,black,0
+Belle,Black Masks & Gasoline,beautiful,masks,0
+Belle,Black Masks & Gasoline,beautiful,gasoline,0
+Belle,Black Masks & Gasoline,beautiful,revolutions,0
+Belle,Black Masks & Gasoline,beautiful,minute,0
+Belle,Black Masks & Gasoline,dreams,black,0.23529411764705882
+Belle,Black Masks & Gasoline,dreams,masks,0.125
+Belle,Black Masks & Gasoline,dreams,gasoline,0.23529411764705882
+Belle,Black Masks & Gasoline,dreams,revolutions,0.375
+Belle,Black Masks & Gasoline,dreams,minute,0.2857142857142857
+Belle,Behind Closed Doors,beautiful,behind,0
+Belle,Behind Closed Doors,beautiful,closed,0
+Belle,Behind Closed Doors,beautiful,doors,0
+Belle,Behind Closed Doors,beautiful,witness,0
+Belle,Behind Closed Doors,beautiful,sufferer,0
+Belle,Behind Closed Doors,dreams,behind,0.13333333333333333
+Belle,Behind Closed Doors,dreams,closed,0
+Belle,Behind Closed Doors,dreams,doors,0.10526315789473684
+Belle,Behind Closed Doors,dreams,witness,0.13333333333333333
+Belle,Behind Closed Doors,dreams,sufferer,0.13333333333333333
+Belle,Paper Wings,beautiful,paper,0
+Belle,Paper Wings,beautiful,wings,0
+Belle,Paper Wings,beautiful,siren,0
+Belle,Paper Wings,beautiful,song,0
+Belle,Paper Wings,beautiful,culture,0
+Belle,Paper Wings,beautiful,counter,0
+Belle,Paper Wings,dreams,paper,0.25
+Belle,Paper Wings,dreams,wings,0.35294117647058826
+Belle,Paper Wings,dreams,siren,0.36363636363636365
+Belle,Paper Wings,dreams,song,0.25
+Belle,Paper Wings,dreams,culture,0.26666666666666666
+Belle,Paper Wings,dreams,counter,0.10526315789473684
+Belle,Broken English,beautiful,broken,0
+Belle,Broken English,beautiful,english,0
+Belle,Broken English,beautiful,revolutions,0
+Belle,Broken English,beautiful,minute,0
+Belle,Broken English,dreams,broken,0
+Belle,Broken English,dreams,english,0.2222222222222222
+Belle,Broken English,dreams,revolutions,0.375
+Belle,Broken English,dreams,minute,0.2857142857142857
+Belle,Savior,beautiful,savior,0
+Belle,Savior,beautiful,reason,0
+Belle,Savior,beautiful,appeal,0
+Belle,Savior,dreams,savior,0.38095238095238093
+Belle,Savior,dreams,reason,0.4
+Belle,Savior,dreams,appeal,0.35294117647058826
+Belle,Blood To Bleed,beautiful,blood,0
+Belle,Blood To Bleed,beautiful,bleed,0
+Belle,Blood To Bleed,beautiful,siren,0
+Belle,Blood To Bleed,beautiful,song,0
+Belle,Blood To Bleed,beautiful,culture,0
+Belle,Blood To Bleed,beautiful,counter,0
+Belle,Blood To Bleed,dreams,blood,0.23529411764705882
+Belle,Blood To Bleed,dreams,bleed,0
+Belle,Blood To Bleed,dreams,siren,0.36363636363636365
+Belle,Blood To Bleed,dreams,song,0.25
+Belle,Blood To Bleed,dreams,culture,0.26666666666666666
+Belle,Blood To Bleed,dreams,counter,0.10526315789473684
+Belle,Survive,beautiful,survive,0
+Belle,Survive,beautiful,witness,0
+Belle,Survive,beautiful,sufferer,0
+Belle,Survive,dreams,survive,0
+Belle,Survive,dreams,witness,0.13333333333333333
+Belle,Survive,dreams,sufferer,0.13333333333333333
+Belle,The First Drop,beautiful,first,0
+Belle,The First Drop,beautiful,drop,0
+Belle,The First Drop,beautiful,siren,0
+Belle,The First Drop,beautiful,song,0
+Belle,The First Drop,beautiful,culture,0
+Belle,The First Drop,beautiful,counter,0
+Belle,The First Drop,dreams,first,0.25
+Belle,The First Drop,dreams,drop,0.25
+Belle,The First Drop,dreams,siren,0.36363636363636365
+Belle,The First Drop,dreams,song,0.25
+Belle,The First Drop,dreams,culture,0.26666666666666666
+Belle,The First Drop,dreams,counter,0.10526315789473684
+Belle,Voices Off Camera,beautiful,voices,0
+Belle,Voices Off Camera,beautiful,camera,0
+Belle,Voices Off Camera,beautiful,revolutions,0
+Belle,Voices Off Camera,beautiful,minute,0
+Belle,Voices Off Camera,dreams,voices,0.25
+Belle,Voices Off Camera,dreams,camera,0.1111111111111111
+Belle,Voices Off Camera,dreams,revolutions,0.375
+Belle,Voices Off Camera,dreams,minute,0.2857142857142857
+Auto Rock,Boy's No Good,auto,good,0.1111111111111111
+Auto Rock,Boy's No Good,auto,boy,0.4
+Auto Rock,Boy's No Good,auto,one,0.10526315789473684
+Auto Rock,Boy's No Good,auto,audience,0.11764705882352941
+Auto Rock,Boy's No Good,rock,good,0.15384615384615385
+Auto Rock,Boy's No Good,rock,boy,0.5333333333333333
+Auto Rock,Boy's No Good,rock,one,0.14285714285714285
+Auto Rock,Boy's No Good,rock,audience,0.16666666666666666
+Auto Rock,Boy's No Good,mr,good,0.25
+Auto Rock,Boy's No Good,mr,boy,0.13333333333333333
+Auto Rock,Boy's No Good,mr,one,0.23529411764705882
+Auto Rock,Boy's No Good,mr,audience,0.26666666666666666
+Auto Rock,Boy's No Good,beast,good,0.14285714285714285
+Auto Rock,Boy's No Good,beast,boy,0.75
+Auto Rock,Boy's No Good,beast,one,0.13333333333333333
+Auto Rock,Boy's No Good,beast,audience,0.15384615384615385
+Auto Rock,Entertainment,auto,entertainment,0.10526315789473684
+Auto Rock,Entertainment,auto,reason,0.11764705882352941
+Auto Rock,Entertainment,auto,appeal,0.10526315789473684
+Auto Rock,Entertainment,rock,entertainment,0.14285714285714285
+Auto Rock,Entertainment,rock,reason,0.16666666666666666
+Auto Rock,Entertainment,rock,appeal,0.14285714285714285
+Auto Rock,Entertainment,mr,entertainment,0.23529411764705882
+Auto Rock,Entertainment,mr,reason,0.26666666666666666
+Auto Rock,Entertainment,mr,appeal,0.23529411764705882
+Auto Rock,Entertainment,beast,entertainment,0.13333333333333333
+Auto Rock,Entertainment,beast,reason,0.15384615384615385
+Auto Rock,Entertainment,beast,appeal,0.13333333333333333
+Auto Rock,The Art Of Losing,auto,losing,0
+Auto Rock,The Art Of Losing,auto,art,0.5555555555555556
+Auto Rock,The Art Of Losing,auto,unraveling,0
+Auto Rock,The Art Of Losing,rock,losing,0
+Auto Rock,The Art Of Losing,rock,art,0.6153846153846154
+Auto Rock,The Art Of Losing,rock,unraveling,0
+Auto Rock,The Art Of Losing,mr,losing,0
+Auto Rock,The Art Of Losing,mr,art,0.125
+Auto Rock,The Art Of Losing,mr,unraveling,0
+Auto Rock,The Art Of Losing,beast,losing,0
+Auto Rock,The Art Of Losing,beast,art,0.5714285714285714
+Auto Rock,The Art Of Losing,beast,unraveling,0
+Auto Rock,But Tonight We Dance,auto,tonight,0.11764705882352941
+Auto Rock,But Tonight We Dance,auto,dance,0.5263157894736842
+Auto Rock,But Tonight We Dance,auto,noise,0.1111111111111111
+Auto Rock,But Tonight We Dance,rock,tonight,0.16666666666666666
+Auto Rock,But Tonight We Dance,rock,dance,0.5714285714285714
+Auto Rock,But Tonight We Dance,rock,noise,0.15384615384615385
+Auto Rock,But Tonight We Dance,mr,tonight,0.26666666666666666
+Auto Rock,But Tonight We Dance,mr,dance,0.11764705882352941
+Auto Rock,But Tonight We Dance,mr,noise,0.25
+Auto Rock,But Tonight We Dance,beast,tonight,0.15384615384615385
+Auto Rock,But Tonight We Dance,beast,dance,0.5333333333333333
+Auto Rock,But Tonight We Dance,beast,noise,0.14285714285714285
+Auto Rock,Bricks,auto,bricks,0.631578947368421
+Auto Rock,Bricks,auto,witness,0.4
+Auto Rock,Bricks,auto,sufferer,0.4
+Auto Rock,Bricks,rock,bricks,0.6153846153846154
+Auto Rock,Bricks,rock,witness,0.5333333333333333
+Auto Rock,Bricks,rock,sufferer,0.5333333333333333
+Auto Rock,Bricks,mr,bricks,0.125
+Auto Rock,Bricks,mr,witness,0.13333333333333333
+Auto Rock,Bricks,mr,sufferer,0.13333333333333333
+Auto Rock,Bricks,beast,bricks,0.5714285714285714
+Auto Rock,Bricks,beast,witness,0.75
+Auto Rock,Bricks,beast,sufferer,0.75
+Auto Rock,Remains Of Summer Memories,auto,summer,0.1111111111111111
+Auto Rock,Remains Of Summer Memories,auto,memories,0.1111111111111111
+Auto Rock,Remains Of Summer Memories,auto,remains,0.4
+Auto Rock,Remains Of Summer Memories,auto,unraveling,0
+Auto Rock,Remains Of Summer Memories,rock,summer,0.15384615384615385
+Auto Rock,Remains Of Summer Memories,rock,memories,0.15384615384615385
+Auto Rock,Remains Of Summer Memories,rock,remains,0.6
+Auto Rock,Remains Of Summer Memories,rock,unraveling,0
+Auto Rock,Remains Of Summer Memories,mr,summer,0.25
+Auto Rock,Remains Of Summer Memories,mr,memories,0.25
+Auto Rock,Remains Of Summer Memories,mr,remains,0.15384615384615385
+Auto Rock,Remains Of Summer Memories,mr,unraveling,0
+Auto Rock,Remains Of Summer Memories,beast,summer,0.14285714285714285
+Auto Rock,Remains Of Summer Memories,beast,memories,0.14285714285714285
+Auto Rock,Remains Of Summer Memories,beast,remains,0.5454545454545454
+Auto Rock,Remains Of Summer Memories,beast,unraveling,0
+Auto Rock,Black Masks & Gasoline,auto,black,0.10526315789473684
+Auto Rock,Black Masks & Gasoline,auto,masks,0.5555555555555556
+Auto Rock,Black Masks & Gasoline,auto,gasoline,0.23529411764705882
+Auto Rock,Black Masks & Gasoline,auto,revolutions,0.1111111111111111
+Auto Rock,Black Masks & Gasoline,auto,minute,0.125
+Auto Rock,Black Masks & Gasoline,rock,black,0.14285714285714285
+Auto Rock,Black Masks & Gasoline,rock,masks,0.6153846153846154
+Auto Rock,Black Masks & Gasoline,rock,gasoline,0.3333333333333333
+Auto Rock,Black Masks & Gasoline,rock,revolutions,0.15384615384615385
+Auto Rock,Black Masks & Gasoline,rock,minute,0.18181818181818182
+Auto Rock,Black Masks & Gasoline,mr,black,0.23529411764705882
+Auto Rock,Black Masks & Gasoline,mr,masks,0.125
+Auto Rock,Black Masks & Gasoline,mr,gasoline,0.4
+Auto Rock,Black Masks & Gasoline,mr,revolutions,0.25
+Auto Rock,Black Masks & Gasoline,mr,minute,0.2857142857142857
+Auto Rock,Black Masks & Gasoline,beast,black,0.13333333333333333
+Auto Rock,Black Masks & Gasoline,beast,masks,0.5714285714285714
+Auto Rock,Black Masks & Gasoline,beast,gasoline,0.3076923076923077
+Auto Rock,Black Masks & Gasoline,beast,revolutions,0.14285714285714285
+Auto Rock,Black Masks & Gasoline,beast,minute,0.16666666666666666
+Auto Rock,Behind Closed Doors,auto,behind,0.23529411764705882
+Auto Rock,Behind Closed Doors,auto,closed,0
+Auto Rock,Behind Closed Doors,auto,doors,0.47619047619047616
+Auto Rock,Behind Closed Doors,auto,witness,0.4
+Auto Rock,Behind Closed Doors,auto,sufferer,0.4
+Auto Rock,Behind Closed Doors,rock,behind,0.3333333333333333
+Auto Rock,Behind Closed Doors,rock,closed,0
+Auto Rock,Behind Closed Doors,rock,doors,0.5
+Auto Rock,Behind Closed Doors,rock,witness,0.5333333333333333
+Auto Rock,Behind Closed Doors,rock,sufferer,0.5333333333333333
+Auto Rock,Behind Closed Doors,mr,behind,0.13333333333333333
+Auto Rock,Behind Closed Doors,mr,closed,0
+Auto Rock,Behind Closed Doors,mr,doors,0.10526315789473684
+Auto Rock,Behind Closed Doors,mr,witness,0.13333333333333333
+Auto Rock,Behind Closed Doors,mr,sufferer,0.13333333333333333
+Auto Rock,Behind Closed Doors,beast,behind,0.3076923076923077
+Auto Rock,Behind Closed Doors,beast,closed,0
+Auto Rock,Behind Closed Doors,beast,doors,0.47058823529411764
+Auto Rock,Behind Closed Doors,beast,witness,0.75
+Auto Rock,Behind Closed Doors,beast,sufferer,0.75
+Auto Rock,Paper Wings,auto,paper,0.23529411764705882
+Auto Rock,Paper Wings,auto,wings,0.10526315789473684
+Auto Rock,Paper Wings,auto,siren,0.08333333333333333
+Auto Rock,Paper Wings,auto,song,0.1111111111111111
+Auto Rock,Paper Wings,auto,culture,0.11764705882352941
+Auto Rock,Paper Wings,auto,counter,0.5714285714285714
+Auto Rock,Paper Wings,rock,paper,0.3333333333333333
+Auto Rock,Paper Wings,rock,wings,0.14285714285714285
+Auto Rock,Paper Wings,rock,siren,0.10526315789473684
+Auto Rock,Paper Wings,rock,song,0.15384615384615385
+Auto Rock,Paper Wings,rock,culture,0.16666666666666666
+Auto Rock,Paper Wings,rock,counter,0.5
+Auto Rock,Paper Wings,mr,paper,0.5
+Auto Rock,Paper Wings,mr,wings,0.23529411764705882
+Auto Rock,Paper Wings,mr,siren,0.18181818181818182
+Auto Rock,Paper Wings,mr,song,0.25
+Auto Rock,Paper Wings,mr,culture,0.26666666666666666
+Auto Rock,Paper Wings,mr,counter,0.10526315789473684
+Auto Rock,Paper Wings,beast,paper,0.3076923076923077
+Auto Rock,Paper Wings,beast,wings,0.13333333333333333
+Auto Rock,Paper Wings,beast,siren,0.1
+Auto Rock,Paper Wings,beast,song,0.14285714285714285
+Auto Rock,Paper Wings,beast,culture,0.15384615384615385
+Auto Rock,Paper Wings,beast,counter,0.47058823529411764
+Auto Rock,Broken English,auto,broken,0
+Auto Rock,Broken English,auto,english,0.1
+Auto Rock,Broken English,auto,revolutions,0.1111111111111111
+Auto Rock,Broken English,auto,minute,0.125
+Auto Rock,Broken English,rock,broken,0
+Auto Rock,Broken English,rock,english,0.13333333333333333
+Auto Rock,Broken English,rock,revolutions,0.15384615384615385
+Auto Rock,Broken English,rock,minute,0.18181818181818182
+Auto Rock,Broken English,mr,broken,0
+Auto Rock,Broken English,mr,english,0.2222222222222222
+Auto Rock,Broken English,mr,revolutions,0.25
+Auto Rock,Broken English,mr,minute,0.2857142857142857
+Auto Rock,Broken English,beast,broken,0
+Auto Rock,Broken English,beast,english,0.125
+Auto Rock,Broken English,beast,revolutions,0.14285714285714285
+Auto Rock,Broken English,beast,minute,0.16666666666666666
+Auto Rock,Savior,auto,savior,0.4
+Auto Rock,Savior,auto,reason,0.11764705882352941
+Auto Rock,Savior,auto,appeal,0.10526315789473684
+Auto Rock,Savior,rock,savior,0.5333333333333333
+Auto Rock,Savior,rock,reason,0.16666666666666666
+Auto Rock,Savior,rock,appeal,0.14285714285714285
+Auto Rock,Savior,mr,savior,0.23529411764705882
+Auto Rock,Savior,mr,reason,0.26666666666666666
+Auto Rock,Savior,mr,appeal,0.23529411764705882
+Auto Rock,Savior,beast,savior,0.75
+Auto Rock,Savior,beast,reason,0.15384615384615385
+Auto Rock,Savior,beast,appeal,0.13333333333333333
+Auto Rock,Blood To Bleed,auto,blood,0.2222222222222222
+Auto Rock,Blood To Bleed,auto,bleed,0
+Auto Rock,Blood To Bleed,auto,siren,0.08333333333333333
+Auto Rock,Blood To Bleed,auto,song,0.1111111111111111
+Auto Rock,Blood To Bleed,auto,culture,0.11764705882352941
+Auto Rock,Blood To Bleed,auto,counter,0.5714285714285714
+Auto Rock,Blood To Bleed,rock,blood,0.3076923076923077
+Auto Rock,Blood To Bleed,rock,bleed,0
+Auto Rock,Blood To Bleed,rock,siren,0.10526315789473684
+Auto Rock,Blood To Bleed,rock,song,0.15384615384615385
+Auto Rock,Blood To Bleed,rock,culture,0.16666666666666666
+Auto Rock,Blood To Bleed,rock,counter,0.5
+Auto Rock,Blood To Bleed,mr,blood,0.47058823529411764
+Auto Rock,Blood To Bleed,mr,bleed,0
+Auto Rock,Blood To Bleed,mr,siren,0.18181818181818182
+Auto Rock,Blood To Bleed,mr,song,0.25
+Auto Rock,Blood To Bleed,mr,culture,0.26666666666666666
+Auto Rock,Blood To Bleed,mr,counter,0.10526315789473684
+Auto Rock,Blood To Bleed,beast,blood,0.2857142857142857
+Auto Rock,Blood To Bleed,beast,bleed,0
+Auto Rock,Blood To Bleed,beast,siren,0.1
+Auto Rock,Blood To Bleed,beast,song,0.14285714285714285
+Auto Rock,Blood To Bleed,beast,culture,0.15384615384615385
+Auto Rock,Blood To Bleed,beast,counter,0.47058823529411764
+Auto Rock,Survive,auto,survive,0
+Auto Rock,Survive,auto,witness,0.4
+Auto Rock,Survive,auto,sufferer,0.4
+Auto Rock,Survive,rock,survive,0
+Auto Rock,Survive,rock,witness,0.5333333333333333
+Auto Rock,Survive,rock,sufferer,0.5333333333333333
+Auto Rock,Survive,mr,survive,0
+Auto Rock,Survive,mr,witness,0.13333333333333333
+Auto Rock,Survive,mr,sufferer,0.13333333333333333
+Auto Rock,Survive,beast,survive,0
+Auto Rock,Survive,beast,witness,0.75
+Auto Rock,Survive,beast,sufferer,0.75
+Auto Rock,The First Drop,auto,first,0.1111111111111111
+Auto Rock,The First Drop,auto,drop,0.1111111111111111
+Auto Rock,The First Drop,auto,siren,0.08333333333333333
+Auto Rock,The First Drop,auto,song,0.1111111111111111
+Auto Rock,The First Drop,auto,culture,0.11764705882352941
+Auto Rock,The First Drop,auto,counter,0.5714285714285714
+Auto Rock,The First Drop,rock,first,0.15384615384615385
+Auto Rock,The First Drop,rock,drop,0.15384615384615385
+Auto Rock,The First Drop,rock,siren,0.10526315789473684
+Auto Rock,The First Drop,rock,song,0.15384615384615385
+Auto Rock,The First Drop,rock,culture,0.16666666666666666
+Auto Rock,The First Drop,rock,counter,0.5
+Auto Rock,The First Drop,mr,first,0.25
+Auto Rock,The First Drop,mr,drop,0.25
+Auto Rock,The First Drop,mr,siren,0.18181818181818182
+Auto Rock,The First Drop,mr,song,0.25
+Auto Rock,The First Drop,mr,culture,0.26666666666666666
+Auto Rock,The First Drop,mr,counter,0.10526315789473684
+Auto Rock,The First Drop,beast,first,0.14285714285714285
+Auto Rock,The First Drop,beast,drop,0.14285714285714285
+Auto Rock,The First Drop,beast,siren,0.1
+Auto Rock,The First Drop,beast,song,0.14285714285714285
+Auto Rock,The First Drop,beast,culture,0.15384615384615385
+Auto Rock,The First Drop,beast,counter,0.47058823529411764
+Auto Rock,Voices Off Camera,auto,voices,0.1111111111111111
+Auto Rock,Voices Off Camera,auto,camera,0.6
+Auto Rock,Voices Off Camera,auto,revolutions,0.1111111111111111
+Auto Rock,Voices Off Camera,auto,minute,0.125
+Auto Rock,Voices Off Camera,rock,voices,0.15384615384615385
+Auto Rock,Voices Off Camera,rock,camera,0.5333333333333333
+Auto Rock,Voices Off Camera,rock,revolutions,0.15384615384615385
+Auto Rock,Voices Off Camera,rock,minute,0.18181818181818182
+Auto Rock,Voices Off Camera,mr,voices,0.25
+Auto Rock,Voices Off Camera,mr,camera,0.1111111111111111
+Auto Rock,Voices Off Camera,mr,revolutions,0.25
+Auto Rock,Voices Off Camera,mr,minute,0.2857142857142857
+Auto Rock,Voices Off Camera,beast,voices,0.14285714285714285
+Auto Rock,Voices Off Camera,beast,camera,0.5
+Auto Rock,Voices Off Camera,beast,revolutions,0.14285714285714285
+Auto Rock,Voices Off Camera,beast,minute,0.16666666666666666
+Who Knows Who Cares,Boy's No Good,knows,good,0.26666666666666666
+Who Knows Who Cares,Boy's No Good,knows,boy,0.14285714285714285
+Who Knows Who Cares,Boy's No Good,knows,one,0.25
+Who Knows Who Cares,Boy's No Good,knows,audience,0.2857142857142857
+Who Knows Who Cares,Boy's No Good,cares,good,0.26666666666666666
+Who Knows Who Cares,Boy's No Good,cares,boy,0.14285714285714285
+Who Knows Who Cares,Boy's No Good,cares,one,0.25
+Who Knows Who Cares,Boy's No Good,cares,audience,0.2857142857142857
+Who Knows Who Cares,Boy's No Good,gorilla,good,0.08695652173913043
+Who Knows Who Cares,Boy's No Good,gorilla,boy,0.48
+Who Knows Who Cares,Boy's No Good,gorilla,one,0.08333333333333333
+Who Knows Who Cares,Boy's No Good,gorilla,audience,0.09090909090909091
+Who Knows Who Cares,Boy's No Good,manor,good,0.11764705882352941
+Who Knows Who Cares,Boy's No Good,manor,boy,0.42105263157894735
+Who Knows Who Cares,Boy's No Good,manor,one,0.1111111111111111
+Who Knows Who Cares,Boy's No Good,manor,audience,0.125
+Who Knows Who Cares,Entertainment,knows,entertainment,0.375
+Who Knows Who Cares,Entertainment,knows,reason,0.42857142857142855
+Who Knows Who Cares,Entertainment,knows,appeal,0.375
+Who Knows Who Cares,Entertainment,cares,entertainment,0.75
+Who Knows Who Cares,Entertainment,cares,reason,0.42857142857142855
+Who Knows Who Cares,Entertainment,cares,appeal,0.625
+Who Knows Who Cares,Entertainment,gorilla,entertainment,0.08333333333333333
+Who Knows Who Cares,Entertainment,gorilla,reason,0.09090909090909091
+Who Knows Who Cares,Entertainment,gorilla,appeal,0.08333333333333333
+Who Knows Who Cares,Entertainment,manor,entertainment,0.1111111111111111
+Who Knows Who Cares,Entertainment,manor,reason,0.125
+Who Knows Who Cares,Entertainment,manor,appeal,0.1111111111111111
+Who Knows Who Cares,The Art Of Losing,knows,losing,0
+Who Knows Who Cares,The Art Of Losing,knows,art,0.13333333333333333
+Who Knows Who Cares,The Art Of Losing,knows,unraveling,0
+Who Knows Who Cares,The Art Of Losing,cares,losing,0
+Who Knows Who Cares,The Art Of Losing,cares,art,0.13333333333333333
+Who Knows Who Cares,The Art Of Losing,cares,unraveling,0
+Who Knows Who Cares,The Art Of Losing,gorilla,losing,0
+Who Knows Who Cares,The Art Of Losing,gorilla,art,0.34782608695652173
+Who Knows Who Cares,The Art Of Losing,gorilla,unraveling,0
+Who Knows Who Cares,The Art Of Losing,manor,losing,0
+Who Knows Who Cares,The Art Of Losing,manor,art,0.5882352941176471
+Who Knows Who Cares,The Art Of Losing,manor,unraveling,0
+Who Knows Who Cares,But Tonight We Dance,knows,tonight,0.2857142857142857
+Who Knows Who Cares,But Tonight We Dance,knows,dance,0.125
+Who Knows Who Cares,But Tonight We Dance,knows,noise,0.4
+Who Knows Who Cares,But Tonight We Dance,cares,tonight,0.2857142857142857
+Who Knows Who Cares,But Tonight We Dance,cares,dance,0.125
+Who Knows Who Cares,But Tonight We Dance,cares,noise,0.5333333333333333
+Who Knows Who Cares,But Tonight We Dance,gorilla,tonight,0.09090909090909091
+Who Knows Who Cares,But Tonight We Dance,gorilla,dance,0.3333333333333333
+Who Knows Who Cares,But Tonight We Dance,gorilla,noise,0.08695652173913043
+Who Knows Who Cares,But Tonight We Dance,manor,tonight,0.125
+Who Knows Who Cares,But Tonight We Dance,manor,dance,0.5555555555555556
+Who Knows Who Cares,But Tonight We Dance,manor,noise,0.11764705882352941
+Who Knows Who Cares,Bricks,knows,bricks,0.13333333333333333
+Who Knows Who Cares,Bricks,knows,witness,0.14285714285714285
+Who Knows Who Cares,Bricks,knows,sufferer,0.14285714285714285
+Who Knows Who Cares,Bricks,cares,bricks,0.13333333333333333
+Who Knows Who Cares,Bricks,cares,witness,0.14285714285714285
+Who Knows Who Cares,Bricks,cares,sufferer,0.14285714285714285
+Who Knows Who Cares,Bricks,gorilla,bricks,0.34782608695652173
+Who Knows Who Cares,Bricks,gorilla,witness,0.48
+Who Knows Who Cares,Bricks,gorilla,sufferer,0.48
+Who Knows Who Cares,Bricks,manor,bricks,0.5882352941176471
+Who Knows Who Cares,Bricks,manor,witness,0.42105263157894735
+Who Knows Who Cares,Bricks,manor,sufferer,0.42105263157894735
+Who Knows Who Cares,Remains Of Summer Memories,knows,summer,0.26666666666666666
+Who Knows Who Cares,Remains Of Summer Memories,knows,memories,0.5333333333333333
+Who Knows Who Cares,Remains Of Summer Memories,knows,remains,0.16666666666666666
+Who Knows Who Cares,Remains Of Summer Memories,knows,unraveling,0
+Who Knows Who Cares,Remains Of Summer Memories,cares,summer,0.26666666666666666
+Who Knows Who Cares,Remains Of Summer Memories,cares,memories,0.4
+Who Knows Who Cares,Remains Of Summer Memories,cares,remains,0.16666666666666666
+Who Knows Who Cares,Remains Of Summer Memories,cares,unraveling,0
+Who Knows Who Cares,Remains Of Summer Memories,gorilla,summer,0.08695652173913043
+Who Knows Who Cares,Remains Of Summer Memories,gorilla,memories,0.08695652173913043
+Who Knows Who Cares,Remains Of Summer Memories,gorilla,remains,0.3
+Who Knows Who Cares,Remains Of Summer Memories,gorilla,unraveling,0
+Who Knows Who Cares,Remains Of Summer Memories,manor,summer,0.11764705882352941
+Who Knows Who Cares,Remains Of Summer Memories,manor,memories,0.11764705882352941
+Who Knows Who Cares,Remains Of Summer Memories,manor,remains,0.42857142857142855
+Who Knows Who Cares,Remains Of Summer Memories,manor,unraveling,0
+Who Knows Who Cares,Black Masks & Gasoline,knows,black,0.25
+Who Knows Who Cares,Black Masks & Gasoline,knows,masks,0.13333333333333333
+Who Knows Who Cares,Black Masks & Gasoline,knows,gasoline,0.25
+Who Knows Who Cares,Black Masks & Gasoline,knows,revolutions,0.4
+Who Knows Who Cares,Black Masks & Gasoline,knows,minute,0.3076923076923077
+Who Knows Who Cares,Black Masks & Gasoline,cares,black,0.25
+Who Knows Who Cares,Black Masks & Gasoline,cares,masks,0.13333333333333333
+Who Knows Who Cares,Black Masks & Gasoline,cares,gasoline,0.25
+Who Knows Who Cares,Black Masks & Gasoline,cares,revolutions,0.5333333333333333
+Who Knows Who Cares,Black Masks & Gasoline,cares,minute,0.3076923076923077
+Who Knows Who Cares,Black Masks & Gasoline,gorilla,black,0.08333333333333333
+Who Knows Who Cares,Black Masks & Gasoline,gorilla,masks,0.34782608695652173
+Who Knows Who Cares,Black Masks & Gasoline,gorilla,gasoline,0.18181818181818182
+Who Knows Who Cares,Black Masks & Gasoline,gorilla,revolutions,0.08695652173913043
+Who Knows Who Cares,Black Masks & Gasoline,gorilla,minute,0.09523809523809523
+Who Knows Who Cares,Black Masks & Gasoline,manor,black,0.1111111111111111
+Who Knows Who Cares,Black Masks & Gasoline,manor,masks,0.5882352941176471
+Who Knows Who Cares,Black Masks & Gasoline,manor,gasoline,0.25
+Who Knows Who Cares,Black Masks & Gasoline,manor,revolutions,0.11764705882352941
+Who Knows Who Cares,Black Masks & Gasoline,manor,minute,0.13333333333333333
+Who Knows Who Cares,Behind Closed Doors,knows,behind,0.14285714285714285
+Who Knows Who Cares,Behind Closed Doors,knows,closed,0
+Who Knows Who Cares,Behind Closed Doors,knows,doors,0.1111111111111111
+Who Knows Who Cares,Behind Closed Doors,knows,witness,0.14285714285714285
+Who Knows Who Cares,Behind Closed Doors,knows,sufferer,0.14285714285714285
+Who Knows Who Cares,Behind Closed Doors,cares,behind,0.14285714285714285
+Who Knows Who Cares,Behind Closed Doors,cares,closed,0
+Who Knows Who Cares,Behind Closed Doors,cares,doors,0.1111111111111111
+Who Knows Who Cares,Behind Closed Doors,cares,witness,0.14285714285714285
+Who Knows Who Cares,Behind Closed Doors,cares,sufferer,0.14285714285714285
+Who Knows Who Cares,Behind Closed Doors,gorilla,behind,0.18181818181818182
+Who Knows Who Cares,Behind Closed Doors,gorilla,closed,0
+Who Knows Who Cares,Behind Closed Doors,gorilla,doors,0.3076923076923077
+Who Knows Who Cares,Behind Closed Doors,gorilla,witness,0.48
+Who Knows Who Cares,Behind Closed Doors,gorilla,sufferer,0.48
+Who Knows Who Cares,Behind Closed Doors,manor,behind,0.25
+Who Knows Who Cares,Behind Closed Doors,manor,closed,0
+Who Knows Who Cares,Behind Closed Doors,manor,doors,0.6
+Who Knows Who Cares,Behind Closed Doors,manor,witness,0.42105263157894735
+Who Knows Who Cares,Behind Closed Doors,manor,sufferer,0.42105263157894735
+Who Knows Who Cares,Paper Wings,knows,paper,0.26666666666666666
+Who Knows Who Cares,Paper Wings,knows,wings,0.375
+Who Knows Who Cares,Paper Wings,knows,siren,0.38095238095238093
+Who Knows Who Cares,Paper Wings,knows,song,0.26666666666666666
+Who Knows Who Cares,Paper Wings,knows,culture,0.2857142857142857
+Who Knows Who Cares,Paper Wings,knows,counter,0.1111111111111111
+Who Knows Who Cares,Paper Wings,cares,paper,0.26666666666666666
+Who Knows Who Cares,Paper Wings,cares,wings,0.625
+Who Knows Who Cares,Paper Wings,cares,siren,0.2857142857142857
+Who Knows Who Cares,Paper Wings,cares,song,0.26666666666666666
+Who Knows Who Cares,Paper Wings,cares,culture,0.2857142857142857
+Who Knows Who Cares,Paper Wings,cares,counter,0.1111111111111111
+Who Knows Who Cares,Paper Wings,gorilla,paper,0.18181818181818182
+Who Knows Who Cares,Paper Wings,gorilla,wings,0.08333333333333333
+Who Knows Who Cares,Paper Wings,gorilla,siren,0.06896551724137931
+Who Knows Who Cares,Paper Wings,gorilla,song,0.08695652173913043
+Who Knows Who Cares,Paper Wings,gorilla,culture,0.09090909090909091
+Who Knows Who Cares,Paper Wings,gorilla,counter,0.3076923076923077
+Who Knows Who Cares,Paper Wings,manor,paper,0.25
+Who Knows Who Cares,Paper Wings,manor,wings,0.1111111111111111
+Who Knows Who Cares,Paper Wings,manor,siren,0.08695652173913043
+Who Knows Who Cares,Paper Wings,manor,song,0.11764705882352941
+Who Knows Who Cares,Paper Wings,manor,culture,0.125
+Who Knows Who Cares,Paper Wings,manor,counter,0.5
+Who Knows Who Cares,Broken English,knows,broken,0
+Who Knows Who Cares,Broken English,knows,english,0.23529411764705882
+Who Knows Who Cares,Broken English,knows,revolutions,0.4
+Who Knows Who Cares,Broken English,knows,minute,0.3076923076923077
+Who Knows Who Cares,Broken English,cares,broken,0
+Who Knows Who Cares,Broken English,cares,english,0.23529411764705882
+Who Knows Who Cares,Broken English,cares,revolutions,0.5333333333333333
+Who Knows Who Cares,Broken English,cares,minute,0.3076923076923077
+Who Knows Who Cares,Broken English,gorilla,broken,0
+Who Knows Who Cares,Broken English,gorilla,english,0.08
+Who Knows Who Cares,Broken English,gorilla,revolutions,0.08695652173913043
+Who Knows Who Cares,Broken English,gorilla,minute,0.09523809523809523
+Who Knows Who Cares,Broken English,manor,broken,0
+Who Knows Who Cares,Broken English,manor,english,0.10526315789473684
+Who Knows Who Cares,Broken English,manor,revolutions,0.11764705882352941
+Who Knows Who Cares,Broken English,manor,minute,0.13333333333333333
+Who Knows Who Cares,Savior,knows,savior,0.4
+Who Knows Who Cares,Savior,knows,reason,0.42857142857142855
+Who Knows Who Cares,Savior,knows,appeal,0.375
+Who Knows Who Cares,Savior,cares,savior,0.3333333333333333
+Who Knows Who Cares,Savior,cares,reason,0.42857142857142855
+Who Knows Who Cares,Savior,cares,appeal,0.625
+Who Knows Who Cares,Savior,gorilla,savior,0.48
+Who Knows Who Cares,Savior,gorilla,reason,0.09090909090909091
+Who Knows Who Cares,Savior,gorilla,appeal,0.08333333333333333
+Who Knows Who Cares,Savior,manor,savior,0.42105263157894735
+Who Knows Who Cares,Savior,manor,reason,0.125
+Who Knows Who Cares,Savior,manor,appeal,0.1111111111111111
+Who Knows Who Cares,Blood To Bleed,knows,blood,0.25
+Who Knows Who Cares,Blood To Bleed,knows,bleed,0
+Who Knows Who Cares,Blood To Bleed,knows,siren,0.38095238095238093
+Who Knows Who Cares,Blood To Bleed,knows,song,0.26666666666666666
+Who Knows Who Cares,Blood To Bleed,knows,culture,0.2857142857142857
+Who Knows Who Cares,Blood To Bleed,knows,counter,0.1111111111111111
+Who Knows Who Cares,Blood To Bleed,cares,blood,0.25
+Who Knows Who Cares,Blood To Bleed,cares,bleed,0
+Who Knows Who Cares,Blood To Bleed,cares,siren,0.2857142857142857
+Who Knows Who Cares,Blood To Bleed,cares,song,0.26666666666666666
+Who Knows Who Cares,Blood To Bleed,cares,culture,0.2857142857142857
+Who Knows Who Cares,Blood To Bleed,cares,counter,0.1111111111111111
+Who Knows Who Cares,Blood To Bleed,gorilla,blood,0.17391304347826086
+Who Knows Who Cares,Blood To Bleed,gorilla,bleed,0
+Who Knows Who Cares,Blood To Bleed,gorilla,siren,0.06896551724137931
+Who Knows Who Cares,Blood To Bleed,gorilla,song,0.08695652173913043
+Who Knows Who Cares,Blood To Bleed,gorilla,culture,0.09090909090909091
+Who Knows Who Cares,Blood To Bleed,gorilla,counter,0.3076923076923077
+Who Knows Who Cares,Blood To Bleed,manor,blood,0.23529411764705882
+Who Knows Who Cares,Blood To Bleed,manor,bleed,0
+Who Knows Who Cares,Blood To Bleed,manor,siren,0.08695652173913043
+Who Knows Who Cares,Blood To Bleed,manor,song,0.11764705882352941
+Who Knows Who Cares,Blood To Bleed,manor,culture,0.125
+Who Knows Who Cares,Blood To Bleed,manor,counter,0.5
+Who Knows Who Cares,Survive,knows,survive,0
+Who Knows Who Cares,Survive,knows,witness,0.14285714285714285
+Who Knows Who Cares,Survive,knows,sufferer,0.14285714285714285
+Who Knows Who Cares,Survive,cares,survive,0
+Who Knows Who Cares,Survive,cares,witness,0.14285714285714285
+Who Knows Who Cares,Survive,cares,sufferer,0.14285714285714285
+Who Knows Who Cares,Survive,gorilla,survive,0
+Who Knows Who Cares,Survive,gorilla,witness,0.48
+Who Knows Who Cares,Survive,gorilla,sufferer,0.48
+Who Knows Who Cares,Survive,manor,survive,0
+Who Knows Who Cares,Survive,manor,witness,0.42105263157894735
+Who Knows Who Cares,Survive,manor,sufferer,0.42105263157894735
+Who Knows Who Cares,The First Drop,knows,first,0.26666666666666666
+Who Knows Who Cares,The First Drop,knows,drop,0.26666666666666666
+Who Knows Who Cares,The First Drop,knows,siren,0.38095238095238093
+Who Knows Who Cares,The First Drop,knows,song,0.26666666666666666
+Who Knows Who Cares,The First Drop,knows,culture,0.2857142857142857
+Who Knows Who Cares,The First Drop,knows,counter,0.1111111111111111
+Who Knows Who Cares,The First Drop,cares,first,0.26666666666666666
+Who Knows Who Cares,The First Drop,cares,drop,0.26666666666666666
+Who Knows Who Cares,The First Drop,cares,siren,0.2857142857142857
+Who Knows Who Cares,The First Drop,cares,song,0.26666666666666666
+Who Knows Who Cares,The First Drop,cares,culture,0.2857142857142857
+Who Knows Who Cares,The First Drop,cares,counter,0.1111111111111111
+Who Knows Who Cares,The First Drop,gorilla,first,0.08695652173913043
+Who Knows Who Cares,The First Drop,gorilla,drop,0.08695652173913043
+Who Knows Who Cares,The First Drop,gorilla,siren,0.06896551724137931
+Who Knows Who Cares,The First Drop,gorilla,song,0.08695652173913043
+Who Knows Who Cares,The First Drop,gorilla,culture,0.09090909090909091
+Who Knows Who Cares,The First Drop,gorilla,counter,0.3076923076923077
+Who Knows Who Cares,The First Drop,manor,first,0.11764705882352941
+Who Knows Who Cares,The First Drop,manor,drop,0.11764705882352941
+Who Knows Who Cares,The First Drop,manor,siren,0.08695652173913043
+Who Knows Who Cares,The First Drop,manor,song,0.11764705882352941
+Who Knows Who Cares,The First Drop,manor,culture,0.125
+Who Knows Who Cares,The First Drop,manor,counter,0.5
+Who Knows Who Cares,Voices Off Camera,knows,voices,0.26666666666666666
+Who Knows Who Cares,Voices Off Camera,knows,camera,0.11764705882352941
+Who Knows Who Cares,Voices Off Camera,knows,revolutions,0.4
+Who Knows Who Cares,Voices Off Camera,knows,minute,0.3076923076923077
+Who Knows Who Cares,Voices Off Camera,cares,voices,0.26666666666666666
+Who Knows Who Cares,Voices Off Camera,cares,camera,0.11764705882352941
+Who Knows Who Cares,Voices Off Camera,cares,revolutions,0.5333333333333333
+Who Knows Who Cares,Voices Off Camera,cares,minute,0.3076923076923077
+Who Knows Who Cares,Voices Off Camera,gorilla,voices,0.08695652173913043
+Who Knows Who Cares,Voices Off Camera,gorilla,camera,0.32
+Who Knows Who Cares,Voices Off Camera,gorilla,revolutions,0.08695652173913043
+Who Knows Who Cares,Voices Off Camera,gorilla,minute,0.09523809523809523
+Who Knows Who Cares,Voices Off Camera,manor,voices,0.11764705882352941
+Who Knows Who Cares,Voices Off Camera,manor,camera,0.5263157894736842
+Who Knows Who Cares,Voices Off Camera,manor,revolutions,0.11764705882352941
+Who Knows Who Cares,Voices Off Camera,manor,minute,0.13333333333333333
+Quiet,Boy's No Good,quiet,good,0.1111111111111111
+Quiet,Boy's No Good,quiet,boy,0.23529411764705882
+Quiet,Boy's No Good,quiet,one,0.10526315789473684
+Quiet,Boy's No Good,quiet,audience,0.11764705882352941
+Quiet,Boy's No Good,young,good,0.13333333333333333
+Quiet,Boy's No Good,young,boy,0.7058823529411765
+Quiet,Boy's No Good,young,one,0.125
+Quiet,Boy's No Good,young,audience,0.14285714285714285
+Quiet,Boy's No Good,mountain,good,0.15384615384615385
+Quiet,Boy's No Good,mountain,boy,0.42857142857142855
+Quiet,Boy's No Good,mountain,one,0.14285714285714285
+Quiet,Boy's No Good,mountain,audience,0.16666666666666666
+Quiet,Entertainment,quiet,entertainment,0.10526315789473684
+Quiet,Entertainment,quiet,reason,0.11764705882352941
+Quiet,Entertainment,quiet,appeal,0.10526315789473684
+Quiet,Entertainment,young,entertainment,0.125
+Quiet,Entertainment,young,reason,0.14285714285714285
+Quiet,Entertainment,young,appeal,0.125
+Quiet,Entertainment,mountain,entertainment,0.14285714285714285
+Quiet,Entertainment,mountain,reason,0.16666666666666666
+Quiet,Entertainment,mountain,appeal,0.14285714285714285
+Quiet,The Art Of Losing,quiet,losing,0
+Quiet,The Art Of Losing,quiet,art,0.2222222222222222
+Quiet,The Art Of Losing,quiet,unraveling,0
+Quiet,The Art Of Losing,young,losing,0
+Quiet,The Art Of Losing,young,art,0.5333333333333333
+Quiet,The Art Of Losing,young,unraveling,0
+Quiet,The Art Of Losing,mountain,losing,0
+Quiet,The Art Of Losing,mountain,art,0.46153846153846156
+Quiet,The Art Of Losing,mountain,unraveling,0
+Quiet,But Tonight We Dance,quiet,tonight,0.11764705882352941
+Quiet,But Tonight We Dance,quiet,dance,0.21052631578947367
+Quiet,But Tonight We Dance,quiet,noise,0.1111111111111111
+Quiet,But Tonight We Dance,young,tonight,0.14285714285714285
+Quiet,But Tonight We Dance,young,dance,0.5
+Quiet,But Tonight We Dance,young,noise,0.13333333333333333
+Quiet,But Tonight We Dance,mountain,tonight,0.16666666666666666
+Quiet,But Tonight We Dance,mountain,dance,0.42857142857142855
+Quiet,But Tonight We Dance,mountain,noise,0.15384615384615385
+Quiet,Bricks,quiet,bricks,0.2222222222222222
+Quiet,Bricks,quiet,witness,0.23529411764705882
+Quiet,Bricks,quiet,sufferer,0.23529411764705882
+Quiet,Bricks,young,bricks,0.5333333333333333
+Quiet,Bricks,young,witness,0.7058823529411765
+Quiet,Bricks,young,sufferer,0.7058823529411765
+Quiet,Bricks,mountain,bricks,0.46153846153846156
+Quiet,Bricks,mountain,witness,0.42857142857142855
+Quiet,Bricks,mountain,sufferer,0.42857142857142855
+Quiet,Remains Of Summer Memories,quiet,summer,0.1111111111111111
+Quiet,Remains Of Summer Memories,quiet,memories,0.1111111111111111
+Quiet,Remains Of Summer Memories,quiet,remains,0.26666666666666666
+Quiet,Remains Of Summer Memories,quiet,unraveling,0
+Quiet,Remains Of Summer Memories,young,summer,0.13333333333333333
+Quiet,Remains Of Summer Memories,young,memories,0.13333333333333333
+Quiet,Remains Of Summer Memories,young,remains,0.5
+Quiet,Remains Of Summer Memories,young,unraveling,0
+Quiet,Remains Of Summer Memories,mountain,summer,0.15384615384615385
+Quiet,Remains Of Summer Memories,mountain,memories,0.15384615384615385
+Quiet,Remains Of Summer Memories,mountain,remains,0.6
+Quiet,Remains Of Summer Memories,mountain,unraveling,0
+Quiet,Black Masks & Gasoline,quiet,black,0.10526315789473684
+Quiet,Black Masks & Gasoline,quiet,masks,0.2222222222222222
+Quiet,Black Masks & Gasoline,quiet,gasoline,0.23529411764705882
+Quiet,Black Masks & Gasoline,quiet,revolutions,0.1111111111111111
+Quiet,Black Masks & Gasoline,quiet,minute,0.125
+Quiet,Black Masks & Gasoline,young,black,0.125
+Quiet,Black Masks & Gasoline,young,masks,0.5333333333333333
+Quiet,Black Masks & Gasoline,young,gasoline,0.2857142857142857
+Quiet,Black Masks & Gasoline,young,revolutions,0.13333333333333333
+Quiet,Black Masks & Gasoline,young,minute,0.15384615384615385
+Quiet,Black Masks & Gasoline,mountain,black,0.14285714285714285
+Quiet,Black Masks & Gasoline,mountain,masks,0.46153846153846156
+Quiet,Black Masks & Gasoline,mountain,gasoline,0.3333333333333333
+Quiet,Black Masks & Gasoline,mountain,revolutions,0.15384615384615385
+Quiet,Black Masks & Gasoline,mountain,minute,0.18181818181818182
+Quiet,Behind Closed Doors,quiet,behind,0.23529411764705882
+Quiet,Behind Closed Doors,quiet,closed,0
+Quiet,Behind Closed Doors,quiet,doors,0.19047619047619047
+Quiet,Behind Closed Doors,quiet,witness,0.23529411764705882
+Quiet,Behind Closed Doors,quiet,sufferer,0.23529411764705882
+Quiet,Behind Closed Doors,young,behind,0.2857142857142857
+Quiet,Behind Closed Doors,young,closed,0
+Quiet,Behind Closed Doors,young,doors,0.4444444444444444
+Quiet,Behind Closed Doors,young,witness,0.7058823529411765
+Quiet,Behind Closed Doors,young,sufferer,0.7058823529411765
+Quiet,Behind Closed Doors,mountain,behind,0.3333333333333333
+Quiet,Behind Closed Doors,mountain,closed,0
+Quiet,Behind Closed Doors,mountain,doors,0.375
+Quiet,Behind Closed Doors,mountain,witness,0.42857142857142855
+Quiet,Behind Closed Doors,mountain,sufferer,0.42857142857142855
+Quiet,Paper Wings,quiet,paper,0.23529411764705882
+Quiet,Paper Wings,quiet,wings,0.10526315789473684
+Quiet,Paper Wings,quiet,siren,0.08333333333333333
+Quiet,Paper Wings,quiet,song,0.1111111111111111
+Quiet,Paper Wings,quiet,culture,0.11764705882352941
+Quiet,Paper Wings,quiet,counter,0.19047619047619047
+Quiet,Paper Wings,young,paper,0.2857142857142857
+Quiet,Paper Wings,young,wings,0.125
+Quiet,Paper Wings,young,siren,0.09523809523809523
+Quiet,Paper Wings,young,song,0.13333333333333333
+Quiet,Paper Wings,young,culture,0.14285714285714285
+Quiet,Paper Wings,young,counter,0.4444444444444444
+Quiet,Paper Wings,mountain,paper,0.3333333333333333
+Quiet,Paper Wings,mountain,wings,0.14285714285714285
+Quiet,Paper Wings,mountain,siren,0.10526315789473684
+Quiet,Paper Wings,mountain,song,0.15384615384615385
+Quiet,Paper Wings,mountain,culture,0.16666666666666666
+Quiet,Paper Wings,mountain,counter,0.375
+Quiet,Broken English,quiet,broken,0
+Quiet,Broken English,quiet,english,0.1
+Quiet,Broken English,quiet,revolutions,0.1111111111111111
+Quiet,Broken English,quiet,minute,0.125
+Quiet,Broken English,young,broken,0
+Quiet,Broken English,young,english,0.11764705882352941
+Quiet,Broken English,young,revolutions,0.13333333333333333
+Quiet,Broken English,young,minute,0.15384615384615385
+Quiet,Broken English,mountain,broken,0
+Quiet,Broken English,mountain,english,0.13333333333333333
+Quiet,Broken English,mountain,revolutions,0.15384615384615385
+Quiet,Broken English,mountain,minute,0.18181818181818182
+Quiet,Savior,quiet,savior,0.23529411764705882
+Quiet,Savior,quiet,reason,0.11764705882352941
+Quiet,Savior,quiet,appeal,0.10526315789473684
+Quiet,Savior,young,savior,0.7058823529411765
+Quiet,Savior,young,reason,0.14285714285714285
+Quiet,Savior,young,appeal,0.125
+Quiet,Savior,mountain,savior,0.42857142857142855
+Quiet,Savior,mountain,reason,0.16666666666666666
+Quiet,Savior,mountain,appeal,0.14285714285714285
+Quiet,Blood To Bleed,quiet,blood,0.2222222222222222
+Quiet,Blood To Bleed,quiet,bleed,0
+Quiet,Blood To Bleed,quiet,siren,0.08333333333333333
+Quiet,Blood To Bleed,quiet,song,0.1111111111111111
+Quiet,Blood To Bleed,quiet,culture,0.11764705882352941
+Quiet,Blood To Bleed,quiet,counter,0.19047619047619047
+Quiet,Blood To Bleed,young,blood,0.26666666666666666
+Quiet,Blood To Bleed,young,bleed,0
+Quiet,Blood To Bleed,young,siren,0.09523809523809523
+Quiet,Blood To Bleed,young,song,0.13333333333333333
+Quiet,Blood To Bleed,young,culture,0.14285714285714285
+Quiet,Blood To Bleed,young,counter,0.4444444444444444
+Quiet,Blood To Bleed,mountain,blood,0.3076923076923077
+Quiet,Blood To Bleed,mountain,bleed,0
+Quiet,Blood To Bleed,mountain,siren,0.10526315789473684
+Quiet,Blood To Bleed,mountain,song,0.15384615384615385
+Quiet,Blood To Bleed,mountain,culture,0.16666666666666666
+Quiet,Blood To Bleed,mountain,counter,0.375
+Quiet,Survive,quiet,survive,0
+Quiet,Survive,quiet,witness,0.23529411764705882
+Quiet,Survive,quiet,sufferer,0.23529411764705882
+Quiet,Survive,young,survive,0
+Quiet,Survive,young,witness,0.7058823529411765
+Quiet,Survive,young,sufferer,0.7058823529411765
+Quiet,Survive,mountain,survive,0
+Quiet,Survive,mountain,witness,0.42857142857142855
+Quiet,Survive,mountain,sufferer,0.42857142857142855
+Quiet,The First Drop,quiet,first,0.1111111111111111
+Quiet,The First Drop,quiet,drop,0.1111111111111111
+Quiet,The First Drop,quiet,siren,0.08333333333333333
+Quiet,The First Drop,quiet,song,0.1111111111111111
+Quiet,The First Drop,quiet,culture,0.11764705882352941
+Quiet,The First Drop,quiet,counter,0.19047619047619047
+Quiet,The First Drop,young,first,0.13333333333333333
+Quiet,The First Drop,young,drop,0.13333333333333333
+Quiet,The First Drop,young,siren,0.09523809523809523
+Quiet,The First Drop,young,song,0.13333333333333333
+Quiet,The First Drop,young,culture,0.14285714285714285
+Quiet,The First Drop,young,counter,0.4444444444444444
+Quiet,The First Drop,mountain,first,0.15384615384615385
+Quiet,The First Drop,mountain,drop,0.15384615384615385
+Quiet,The First Drop,mountain,siren,0.10526315789473684
+Quiet,The First Drop,mountain,song,0.15384615384615385
+Quiet,The First Drop,mountain,culture,0.16666666666666666
+Quiet,The First Drop,mountain,counter,0.375
+Quiet,Voices Off Camera,quiet,voices,0.1111111111111111
+Quiet,Voices Off Camera,quiet,camera,0.2
+Quiet,Voices Off Camera,quiet,revolutions,0.1111111111111111
+Quiet,Voices Off Camera,quiet,minute,0.125
+Quiet,Voices Off Camera,young,voices,0.13333333333333333
+Quiet,Voices Off Camera,young,camera,0.47058823529411764
+Quiet,Voices Off Camera,young,revolutions,0.13333333333333333
+Quiet,Voices Off Camera,young,minute,0.15384615384615385
+Quiet,Voices Off Camera,mountain,voices,0.15384615384615385
+Quiet,Voices Off Camera,mountain,camera,0.4
+Quiet,Voices Off Camera,mountain,revolutions,0.15384615384615385
+Quiet,Voices Off Camera,mountain,minute,0.18181818181818182
+Girlfriend,Boy's No Good,girlfriend,good,0.15384615384615385
+Girlfriend,Boy's No Good,girlfriend,boy,0.6666666666666666
+Girlfriend,Boy's No Good,girlfriend,one,0.14285714285714285
+Girlfriend,Boy's No Good,girlfriend,audience,0.16666666666666666
+Girlfriend,Boy's No Good,phoenix,good,0.1111111111111111
+Girlfriend,Boy's No Good,phoenix,boy,0.3157894736842105
+Girlfriend,Boy's No Good,phoenix,one,0.10526315789473684
+Girlfriend,Boy's No Good,phoenix,audience,0.11764705882352941
+Girlfriend,Entertainment,girlfriend,entertainment,0.14285714285714285
+Girlfriend,Entertainment,girlfriend,reason,0.16666666666666666
+Girlfriend,Entertainment,girlfriend,appeal,0.14285714285714285
+Girlfriend,Entertainment,phoenix,entertainment,0.10526315789473684
+Girlfriend,Entertainment,phoenix,reason,0.11764705882352941
+Girlfriend,Entertainment,phoenix,appeal,0.10526315789473684
+Girlfriend,The Art Of Losing,girlfriend,losing,0
+Girlfriend,The Art Of Losing,girlfriend,art,0.5
+Girlfriend,The Art Of Losing,girlfriend,unraveling,0
+Girlfriend,The Art Of Losing,phoenix,losing,0
+Girlfriend,The Art Of Losing,phoenix,art,0.3333333333333333
+Girlfriend,The Art Of Losing,phoenix,unraveling,0
+Girlfriend,But Tonight We Dance,girlfriend,tonight,0.16666666666666666
+Girlfriend,But Tonight We Dance,girlfriend,dance,0.47058823529411764
+Girlfriend,But Tonight We Dance,girlfriend,noise,0.15384615384615385
+Girlfriend,But Tonight We Dance,phoenix,tonight,0.11764705882352941
+Girlfriend,But Tonight We Dance,phoenix,dance,0.3157894736842105
+Girlfriend,But Tonight We Dance,phoenix,noise,0.1111111111111111
+Girlfriend,Bricks,girlfriend,bricks,0.5
+Girlfriend,Bricks,girlfriend,witness,0.6666666666666666
+Girlfriend,Bricks,girlfriend,sufferer,0.6666666666666666
+Girlfriend,Bricks,phoenix,bricks,0.3333333333333333
+Girlfriend,Bricks,phoenix,witness,0.3157894736842105
+Girlfriend,Bricks,phoenix,sufferer,0.3157894736842105
+Girlfriend,Remains Of Summer Memories,girlfriend,summer,0.15384615384615385
+Girlfriend,Remains Of Summer Memories,girlfriend,memories,0.15384615384615385
+Girlfriend,Remains Of Summer Memories,girlfriend,remains,0.5
+Girlfriend,Remains Of Summer Memories,girlfriend,unraveling,0
+Girlfriend,Remains Of Summer Memories,phoenix,summer,0.1111111111111111
+Girlfriend,Remains Of Summer Memories,phoenix,memories,0.1111111111111111
+Girlfriend,Remains Of Summer Memories,phoenix,remains,0.4
+Girlfriend,Remains Of Summer Memories,phoenix,unraveling,0
+Girlfriend,Black Masks & Gasoline,girlfriend,black,0.14285714285714285
+Girlfriend,Black Masks & Gasoline,girlfriend,masks,0.5
+Girlfriend,Black Masks & Gasoline,girlfriend,gasoline,0.3333333333333333
+Girlfriend,Black Masks & Gasoline,girlfriend,revolutions,0.15384615384615385
+Girlfriend,Black Masks & Gasoline,girlfriend,minute,0.18181818181818182
+Girlfriend,Black Masks & Gasoline,phoenix,black,0.10526315789473684
+Girlfriend,Black Masks & Gasoline,phoenix,masks,0.3333333333333333
+Girlfriend,Black Masks & Gasoline,phoenix,gasoline,0.23529411764705882
+Girlfriend,Black Masks & Gasoline,phoenix,revolutions,0.1111111111111111
+Girlfriend,Black Masks & Gasoline,phoenix,minute,0.125
+Girlfriend,Behind Closed Doors,girlfriend,behind,0.3333333333333333
+Girlfriend,Behind Closed Doors,girlfriend,closed,0
+Girlfriend,Behind Closed Doors,girlfriend,doors,0.42105263157894735
+Girlfriend,Behind Closed Doors,girlfriend,witness,0.6666666666666666
+Girlfriend,Behind Closed Doors,girlfriend,sufferer,0.6666666666666666
+Girlfriend,Behind Closed Doors,phoenix,behind,0.23529411764705882
+Girlfriend,Behind Closed Doors,phoenix,closed,0
+Girlfriend,Behind Closed Doors,phoenix,doors,0.2857142857142857
+Girlfriend,Behind Closed Doors,phoenix,witness,0.3157894736842105
+Girlfriend,Behind Closed Doors,phoenix,sufferer,0.3157894736842105
+Girlfriend,Paper Wings,girlfriend,paper,0.3333333333333333
+Girlfriend,Paper Wings,girlfriend,wings,0.14285714285714285
+Girlfriend,Paper Wings,girlfriend,siren,0.10526315789473684
+Girlfriend,Paper Wings,girlfriend,song,0.15384615384615385
+Girlfriend,Paper Wings,girlfriend,culture,0.16666666666666666
+Girlfriend,Paper Wings,girlfriend,counter,0.42105263157894735
+Girlfriend,Paper Wings,phoenix,paper,0.23529411764705882
+Girlfriend,Paper Wings,phoenix,wings,0.10526315789473684
+Girlfriend,Paper Wings,phoenix,siren,0.08333333333333333
+Girlfriend,Paper Wings,phoenix,song,0.1111111111111111
+Girlfriend,Paper Wings,phoenix,culture,0.11764705882352941
+Girlfriend,Paper Wings,phoenix,counter,0.2857142857142857
+Girlfriend,Broken English,girlfriend,broken,0
+Girlfriend,Broken English,girlfriend,english,0.13333333333333333
+Girlfriend,Broken English,girlfriend,revolutions,0.15384615384615385
+Girlfriend,Broken English,girlfriend,minute,0.18181818181818182
+Girlfriend,Broken English,phoenix,broken,0
+Girlfriend,Broken English,phoenix,english,0.1
+Girlfriend,Broken English,phoenix,revolutions,0.1111111111111111
+Girlfriend,Broken English,phoenix,minute,0.125
+Girlfriend,Savior,girlfriend,savior,0.6666666666666666
+Girlfriend,Savior,girlfriend,reason,0.16666666666666666
+Girlfriend,Savior,girlfriend,appeal,0.14285714285714285
+Girlfriend,Savior,phoenix,savior,0.3157894736842105
+Girlfriend,Savior,phoenix,reason,0.11764705882352941
+Girlfriend,Savior,phoenix,appeal,0.10526315789473684
+Girlfriend,Blood To Bleed,girlfriend,blood,0.3076923076923077
+Girlfriend,Blood To Bleed,girlfriend,bleed,0
+Girlfriend,Blood To Bleed,girlfriend,siren,0.10526315789473684
+Girlfriend,Blood To Bleed,girlfriend,song,0.15384615384615385
+Girlfriend,Blood To Bleed,girlfriend,culture,0.16666666666666666
+Girlfriend,Blood To Bleed,girlfriend,counter,0.42105263157894735
+Girlfriend,Blood To Bleed,phoenix,blood,0.2222222222222222
+Girlfriend,Blood To Bleed,phoenix,bleed,0
+Girlfriend,Blood To Bleed,phoenix,siren,0.08333333333333333
+Girlfriend,Blood To Bleed,phoenix,song,0.1111111111111111
+Girlfriend,Blood To Bleed,phoenix,culture,0.11764705882352941
+Girlfriend,Blood To Bleed,phoenix,counter,0.2857142857142857
+Girlfriend,Survive,girlfriend,survive,0
+Girlfriend,Survive,girlfriend,witness,0.6666666666666666
+Girlfriend,Survive,girlfriend,sufferer,0.6666666666666666
+Girlfriend,Survive,phoenix,survive,0
+Girlfriend,Survive,phoenix,witness,0.3157894736842105
+Girlfriend,Survive,phoenix,sufferer,0.3157894736842105
+Girlfriend,The First Drop,girlfriend,first,0.15384615384615385
+Girlfriend,The First Drop,girlfriend,drop,0.15384615384615385
+Girlfriend,The First Drop,girlfriend,siren,0.10526315789473684
+Girlfriend,The First Drop,girlfriend,song,0.15384615384615385
+Girlfriend,The First Drop,girlfriend,culture,0.16666666666666666
+Girlfriend,The First Drop,girlfriend,counter,0.42105263157894735
+Girlfriend,The First Drop,phoenix,first,0.1111111111111111
+Girlfriend,The First Drop,phoenix,drop,0.1111111111111111
+Girlfriend,The First Drop,phoenix,siren,0.08333333333333333
+Girlfriend,The First Drop,phoenix,song,0.1111111111111111
+Girlfriend,The First Drop,phoenix,culture,0.11764705882352941
+Girlfriend,The First Drop,phoenix,counter,0.2857142857142857
+Girlfriend,Voices Off Camera,girlfriend,voices,0.15384615384615385
+Girlfriend,Voices Off Camera,girlfriend,camera,0.4444444444444444
+Girlfriend,Voices Off Camera,girlfriend,revolutions,0.15384615384615385
+Girlfriend,Voices Off Camera,girlfriend,minute,0.18181818181818182
+Girlfriend,Voices Off Camera,phoenix,voices,0.1111111111111111
+Girlfriend,Voices Off Camera,phoenix,camera,0.3
+Girlfriend,Voices Off Camera,phoenix,revolutions,0.1111111111111111
+Girlfriend,Voices Off Camera,phoenix,minute,0.125
+Happiness: We're All In It Together,Boy's No Good,together,good,0
+Happiness: We're All In It Together,Boy's No Good,together,boy,0
+Happiness: We're All In It Together,Boy's No Good,together,one,0
+Happiness: We're All In It Together,Boy's No Good,together,audience,0
+Happiness: We're All In It Together,Boy's No Good,happiness,good,0.4
+Happiness: We're All In It Together,Boy's No Good,happiness,boy,0.14285714285714285
+Happiness: We're All In It Together,Boy's No Good,happiness,one,0.25
+Happiness: We're All In It Together,Boy's No Good,happiness,audience,0.2857142857142857
+Happiness: We're All In It Together,Boy's No Good,young,good,0.13333333333333333
+Happiness: We're All In It Together,Boy's No Good,young,boy,0.7058823529411765
+Happiness: We're All In It Together,Boy's No Good,young,one,0.125
+Happiness: We're All In It Together,Boy's No Good,young,audience,0.14285714285714285
+Happiness: We're All In It Together,Boy's No Good,mountain,good,0.15384615384615385
+Happiness: We're All In It Together,Boy's No Good,mountain,boy,0.42857142857142855
+Happiness: We're All In It Together,Boy's No Good,mountain,one,0.14285714285714285
+Happiness: We're All In It Together,Boy's No Good,mountain,audience,0.16666666666666666
+Happiness: We're All In It Together,Entertainment,together,entertainment,0
+Happiness: We're All In It Together,Entertainment,together,reason,0
+Happiness: We're All In It Together,Entertainment,together,appeal,0
+Happiness: We're All In It Together,Entertainment,happiness,entertainment,0.25
+Happiness: We're All In It Together,Entertainment,happiness,reason,0.2857142857142857
+Happiness: We're All In It Together,Entertainment,happiness,appeal,0.25
+Happiness: We're All In It Together,Entertainment,young,entertainment,0.125
+Happiness: We're All In It Together,Entertainment,young,reason,0.14285714285714285
+Happiness: We're All In It Together,Entertainment,young,appeal,0.125
+Happiness: We're All In It Together,Entertainment,mountain,entertainment,0.14285714285714285
+Happiness: We're All In It Together,Entertainment,mountain,reason,0.16666666666666666
+Happiness: We're All In It Together,Entertainment,mountain,appeal,0.14285714285714285
+Happiness: We're All In It Together,The Art Of Losing,together,losing,0
+Happiness: We're All In It Together,The Art Of Losing,together,art,0
+Happiness: We're All In It Together,The Art Of Losing,together,unraveling,0
+Happiness: We're All In It Together,The Art Of Losing,happiness,losing,0
+Happiness: We're All In It Together,The Art Of Losing,happiness,art,0.13333333333333333
+Happiness: We're All In It Together,The Art Of Losing,happiness,unraveling,0
+Happiness: We're All In It Together,The Art Of Losing,young,losing,0
+Happiness: We're All In It Together,The Art Of Losing,young,art,0.5333333333333333
+Happiness: We're All In It Together,The Art Of Losing,young,unraveling,0
+Happiness: We're All In It Together,The Art Of Losing,mountain,losing,0
+Happiness: We're All In It Together,The Art Of Losing,mountain,art,0.46153846153846156
+Happiness: We're All In It Together,The Art Of Losing,mountain,unraveling,0
+Happiness: We're All In It Together,But Tonight We Dance,together,tonight,0
+Happiness: We're All In It Together,But Tonight We Dance,together,dance,0
+Happiness: We're All In It Together,But Tonight We Dance,together,noise,0
+Happiness: We're All In It Together,But Tonight We Dance,happiness,tonight,0.42857142857142855
+Happiness: We're All In It Together,But Tonight We Dance,happiness,dance,0.125
+Happiness: We're All In It Together,But Tonight We Dance,happiness,noise,0.26666666666666666
+Happiness: We're All In It Together,But Tonight We Dance,young,tonight,0.14285714285714285
+Happiness: We're All In It Together,But Tonight We Dance,young,dance,0.5
+Happiness: We're All In It Together,But Tonight We Dance,young,noise,0.13333333333333333
+Happiness: We're All In It Together,But Tonight We Dance,mountain,tonight,0.16666666666666666
+Happiness: We're All In It Together,But Tonight We Dance,mountain,dance,0.42857142857142855
+Happiness: We're All In It Together,But Tonight We Dance,mountain,noise,0.15384615384615385
+Happiness: We're All In It Together,Bricks,together,bricks,0
+Happiness: We're All In It Together,Bricks,together,witness,0
+Happiness: We're All In It Together,Bricks,together,sufferer,0
+Happiness: We're All In It Together,Bricks,happiness,bricks,0.13333333333333333
+Happiness: We're All In It Together,Bricks,happiness,witness,0.14285714285714285
+Happiness: We're All In It Together,Bricks,happiness,sufferer,0.14285714285714285
+Happiness: We're All In It Together,Bricks,young,bricks,0.5333333333333333
+Happiness: We're All In It Together,Bricks,young,witness,0.7058823529411765
+Happiness: We're All In It Together,Bricks,young,sufferer,0.7058823529411765
+Happiness: We're All In It Together,Bricks,mountain,bricks,0.46153846153846156
+Happiness: We're All In It Together,Bricks,mountain,witness,0.42857142857142855
+Happiness: We're All In It Together,Bricks,mountain,sufferer,0.42857142857142855
+Happiness: We're All In It Together,Remains Of Summer Memories,together,summer,0
+Happiness: We're All In It Together,Remains Of Summer Memories,together,memories,0
+Happiness: We're All In It Together,Remains Of Summer Memories,together,remains,0
+Happiness: We're All In It Together,Remains Of Summer Memories,together,unraveling,0
+Happiness: We're All In It Together,Remains Of Summer Memories,happiness,summer,0.26666666666666666
+Happiness: We're All In It Together,Remains Of Summer Memories,happiness,memories,0.26666666666666666
+Happiness: We're All In It Together,Remains Of Summer Memories,happiness,remains,0.16666666666666666
+Happiness: We're All In It Together,Remains Of Summer Memories,happiness,unraveling,0
+Happiness: We're All In It Together,Remains Of Summer Memories,young,summer,0.13333333333333333
+Happiness: We're All In It Together,Remains Of Summer Memories,young,memories,0.13333333333333333
+Happiness: We're All In It Together,Remains Of Summer Memories,young,remains,0.5
+Happiness: We're All In It Together,Remains Of Summer Memories,young,unraveling,0
+Happiness: We're All In It Together,Remains Of Summer Memories,mountain,summer,0.15384615384615385
+Happiness: We're All In It Together,Remains Of Summer Memories,mountain,memories,0.15384615384615385
+Happiness: We're All In It Together,Remains Of Summer Memories,mountain,remains,0.6
+Happiness: We're All In It Together,Remains Of Summer Memories,mountain,unraveling,0
+Happiness: We're All In It Together,Black Masks & Gasoline,together,black,0
+Happiness: We're All In It Together,Black Masks & Gasoline,together,masks,0
+Happiness: We're All In It Together,Black Masks & Gasoline,together,gasoline,0
+Happiness: We're All In It Together,Black Masks & Gasoline,together,revolutions,0
+Happiness: We're All In It Together,Black Masks & Gasoline,together,minute,0
+Happiness: We're All In It Together,Black Masks & Gasoline,happiness,black,0.375
+Happiness: We're All In It Together,Black Masks & Gasoline,happiness,masks,0.13333333333333333
+Happiness: We're All In It Together,Black Masks & Gasoline,happiness,gasoline,0.25
+Happiness: We're All In It Together,Black Masks & Gasoline,happiness,revolutions,0.26666666666666666
+Happiness: We're All In It Together,Black Masks & Gasoline,happiness,minute,0.3076923076923077
+Happiness: We're All In It Together,Black Masks & Gasoline,young,black,0.125
+Happiness: We're All In It Together,Black Masks & Gasoline,young,masks,0.5333333333333333
+Happiness: We're All In It Together,Black Masks & Gasoline,young,gasoline,0.2857142857142857
+Happiness: We're All In It Together,Black Masks & Gasoline,young,revolutions,0.13333333333333333
+Happiness: We're All In It Together,Black Masks & Gasoline,young,minute,0.15384615384615385
+Happiness: We're All In It Together,Black Masks & Gasoline,mountain,black,0.14285714285714285
+Happiness: We're All In It Together,Black Masks & Gasoline,mountain,masks,0.46153846153846156
+Happiness: We're All In It Together,Black Masks & Gasoline,mountain,gasoline,0.3333333333333333
+Happiness: We're All In It Together,Black Masks & Gasoline,mountain,revolutions,0.15384615384615385
+Happiness: We're All In It Together,Black Masks & Gasoline,mountain,minute,0.18181818181818182
+Happiness: We're All In It Together,Behind Closed Doors,together,behind,0
+Happiness: We're All In It Together,Behind Closed Doors,together,closed,0
+Happiness: We're All In It Together,Behind Closed Doors,together,doors,0
+Happiness: We're All In It Together,Behind Closed Doors,together,witness,0
+Happiness: We're All In It Together,Behind Closed Doors,together,sufferer,0
+Happiness: We're All In It Together,Behind Closed Doors,happiness,behind,0.14285714285714285
+Happiness: We're All In It Together,Behind Closed Doors,happiness,closed,0
+Happiness: We're All In It Together,Behind Closed Doors,happiness,doors,0.1111111111111111
+Happiness: We're All In It Together,Behind Closed Doors,happiness,witness,0.14285714285714285
+Happiness: We're All In It Together,Behind Closed Doors,happiness,sufferer,0.14285714285714285
+Happiness: We're All In It Together,Behind Closed Doors,young,behind,0.2857142857142857
+Happiness: We're All In It Together,Behind Closed Doors,young,closed,0
+Happiness: We're All In It Together,Behind Closed Doors,young,doors,0.4444444444444444
+Happiness: We're All In It Together,Behind Closed Doors,young,witness,0.7058823529411765
+Happiness: We're All In It Together,Behind Closed Doors,young,sufferer,0.7058823529411765
+Happiness: We're All In It Together,Behind Closed Doors,mountain,behind,0.3333333333333333
+Happiness: We're All In It Together,Behind Closed Doors,mountain,closed,0
+Happiness: We're All In It Together,Behind Closed Doors,mountain,doors,0.375
+Happiness: We're All In It Together,Behind Closed Doors,mountain,witness,0.42857142857142855
+Happiness: We're All In It Together,Behind Closed Doors,mountain,sufferer,0.42857142857142855
+Happiness: We're All In It Together,Paper Wings,together,paper,0
+Happiness: We're All In It Together,Paper Wings,together,wings,0
+Happiness: We're All In It Together,Paper Wings,together,siren,0
+Happiness: We're All In It Together,Paper Wings,together,song,0
+Happiness: We're All In It Together,Paper Wings,together,culture,0
+Happiness: We're All In It Together,Paper Wings,together,counter,0
+Happiness: We're All In It Together,Paper Wings,happiness,paper,0.26666666666666666
+Happiness: We're All In It Together,Paper Wings,happiness,wings,0.25
+Happiness: We're All In It Together,Paper Wings,happiness,siren,0.19047619047619047
+Happiness: We're All In It Together,Paper Wings,happiness,song,0.26666666666666666
+Happiness: We're All In It Together,Paper Wings,happiness,culture,0.2857142857142857
+Happiness: We're All In It Together,Paper Wings,happiness,counter,0.1111111111111111
+Happiness: We're All In It Together,Paper Wings,young,paper,0.2857142857142857
+Happiness: We're All In It Together,Paper Wings,young,wings,0.125
+Happiness: We're All In It Together,Paper Wings,young,siren,0.09523809523809523
+Happiness: We're All In It Together,Paper Wings,young,song,0.13333333333333333
+Happiness: We're All In It Together,Paper Wings,young,culture,0.14285714285714285
+Happiness: We're All In It Together,Paper Wings,young,counter,0.4444444444444444
+Happiness: We're All In It Together,Paper Wings,mountain,paper,0.3333333333333333
+Happiness: We're All In It Together,Paper Wings,mountain,wings,0.14285714285714285
+Happiness: We're All In It Together,Paper Wings,mountain,siren,0.10526315789473684
+Happiness: We're All In It Together,Paper Wings,mountain,song,0.15384615384615385
+Happiness: We're All In It Together,Paper Wings,mountain,culture,0.16666666666666666
+Happiness: We're All In It Together,Paper Wings,mountain,counter,0.375
+Happiness: We're All In It Together,Broken English,together,broken,0
+Happiness: We're All In It Together,Broken English,together,english,0
+Happiness: We're All In It Together,Broken English,together,revolutions,0
+Happiness: We're All In It Together,Broken English,together,minute,0
+Happiness: We're All In It Together,Broken English,happiness,broken,0
+Happiness: We're All In It Together,Broken English,happiness,english,0.23529411764705882
+Happiness: We're All In It Together,Broken English,happiness,revolutions,0.26666666666666666
+Happiness: We're All In It Together,Broken English,happiness,minute,0.3076923076923077
+Happiness: We're All In It Together,Broken English,young,broken,0
+Happiness: We're All In It Together,Broken English,young,english,0.11764705882352941
+Happiness: We're All In It Together,Broken English,young,revolutions,0.13333333333333333
+Happiness: We're All In It Together,Broken English,young,minute,0.15384615384615385
+Happiness: We're All In It Together,Broken English,mountain,broken,0
+Happiness: We're All In It Together,Broken English,mountain,english,0.13333333333333333
+Happiness: We're All In It Together,Broken English,mountain,revolutions,0.15384615384615385
+Happiness: We're All In It Together,Broken English,mountain,minute,0.18181818181818182
+Happiness: We're All In It Together,Savior,together,savior,0
+Happiness: We're All In It Together,Savior,together,reason,0
+Happiness: We're All In It Together,Savior,together,appeal,0
+Happiness: We're All In It Together,Savior,happiness,savior,0.25
+Happiness: We're All In It Together,Savior,happiness,reason,0.2857142857142857
+Happiness: We're All In It Together,Savior,happiness,appeal,0.25
+Happiness: We're All In It Together,Savior,young,savior,0.7058823529411765
+Happiness: We're All In It Together,Savior,young,reason,0.14285714285714285
+Happiness: We're All In It Together,Savior,young,appeal,0.125
+Happiness: We're All In It Together,Savior,mountain,savior,0.42857142857142855
+Happiness: We're All In It Together,Savior,mountain,reason,0.16666666666666666
+Happiness: We're All In It Together,Savior,mountain,appeal,0.14285714285714285
+Happiness: We're All In It Together,Blood To Bleed,together,blood,0
+Happiness: We're All In It Together,Blood To Bleed,together,bleed,0
+Happiness: We're All In It Together,Blood To Bleed,together,siren,0
+Happiness: We're All In It Together,Blood To Bleed,together,song,0
+Happiness: We're All In It Together,Blood To Bleed,together,culture,0
+Happiness: We're All In It Together,Blood To Bleed,together,counter,0
+Happiness: We're All In It Together,Blood To Bleed,happiness,blood,0.25
+Happiness: We're All In It Together,Blood To Bleed,happiness,bleed,0
+Happiness: We're All In It Together,Blood To Bleed,happiness,siren,0.19047619047619047
+Happiness: We're All In It Together,Blood To Bleed,happiness,song,0.26666666666666666
+Happiness: We're All In It Together,Blood To Bleed,happiness,culture,0.2857142857142857
+Happiness: We're All In It Together,Blood To Bleed,happiness,counter,0.1111111111111111
+Happiness: We're All In It Together,Blood To Bleed,young,blood,0.26666666666666666
+Happiness: We're All In It Together,Blood To Bleed,young,bleed,0
+Happiness: We're All In It Together,Blood To Bleed,young,siren,0.09523809523809523
+Happiness: We're All In It Together,Blood To Bleed,young,song,0.13333333333333333
+Happiness: We're All In It Together,Blood To Bleed,young,culture,0.14285714285714285
+Happiness: We're All In It Together,Blood To Bleed,young,counter,0.4444444444444444
+Happiness: We're All In It Together,Blood To Bleed,mountain,blood,0.3076923076923077
+Happiness: We're All In It Together,Blood To Bleed,mountain,bleed,0
+Happiness: We're All In It Together,Blood To Bleed,mountain,siren,0.10526315789473684
+Happiness: We're All In It Together,Blood To Bleed,mountain,song,0.15384615384615385
+Happiness: We're All In It Together,Blood To Bleed,mountain,culture,0.16666666666666666
+Happiness: We're All In It Together,Blood To Bleed,mountain,counter,0.375
+Happiness: We're All In It Together,Survive,together,survive,0
+Happiness: We're All In It Together,Survive,together,witness,0
+Happiness: We're All In It Together,Survive,together,sufferer,0
+Happiness: We're All In It Together,Survive,happiness,survive,0
+Happiness: We're All In It Together,Survive,happiness,witness,0.14285714285714285
+Happiness: We're All In It Together,Survive,happiness,sufferer,0.14285714285714285
+Happiness: We're All In It Together,Survive,young,survive,0
+Happiness: We're All In It Together,Survive,young,witness,0.7058823529411765
+Happiness: We're All In It Together,Survive,young,sufferer,0.7058823529411765
+Happiness: We're All In It Together,Survive,mountain,survive,0
+Happiness: We're All In It Together,Survive,mountain,witness,0.42857142857142855
+Happiness: We're All In It Together,Survive,mountain,sufferer,0.42857142857142855
+Happiness: We're All In It Together,The First Drop,together,first,0
+Happiness: We're All In It Together,The First Drop,together,drop,0
+Happiness: We're All In It Together,The First Drop,together,siren,0
+Happiness: We're All In It Together,The First Drop,together,song,0
+Happiness: We're All In It Together,The First Drop,together,culture,0
+Happiness: We're All In It Together,The First Drop,together,counter,0
+Happiness: We're All In It Together,The First Drop,happiness,first,0.5333333333333333
+Happiness: We're All In It Together,The First Drop,happiness,drop,0.4
+Happiness: We're All In It Together,The First Drop,happiness,siren,0.19047619047619047
+Happiness: We're All In It Together,The First Drop,happiness,song,0.26666666666666666
+Happiness: We're All In It Together,The First Drop,happiness,culture,0.2857142857142857
+Happiness: We're All In It Together,The First Drop,happiness,counter,0.1111111111111111
+Happiness: We're All In It Together,The First Drop,young,first,0.13333333333333333
+Happiness: We're All In It Together,The First Drop,young,drop,0.13333333333333333
+Happiness: We're All In It Together,The First Drop,young,siren,0.09523809523809523
+Happiness: We're All In It Together,The First Drop,young,song,0.13333333333333333
+Happiness: We're All In It Together,The First Drop,young,culture,0.14285714285714285
+Happiness: We're All In It Together,The First Drop,young,counter,0.4444444444444444
+Happiness: We're All In It Together,The First Drop,mountain,first,0.15384615384615385
+Happiness: We're All In It Together,The First Drop,mountain,drop,0.15384615384615385
+Happiness: We're All In It Together,The First Drop,mountain,siren,0.10526315789473684
+Happiness: We're All In It Together,The First Drop,mountain,song,0.15384615384615385
+Happiness: We're All In It Together,The First Drop,mountain,culture,0.16666666666666666
+Happiness: We're All In It Together,The First Drop,mountain,counter,0.375
+Happiness: We're All In It Together,Voices Off Camera,together,voices,0
+Happiness: We're All In It Together,Voices Off Camera,together,camera,0
+Happiness: We're All In It Together,Voices Off Camera,together,revolutions,0
+Happiness: We're All In It Together,Voices Off Camera,together,minute,0
+Happiness: We're All In It Together,Voices Off Camera,happiness,voices,0.4
+Happiness: We're All In It Together,Voices Off Camera,happiness,camera,0.11764705882352941
+Happiness: We're All In It Together,Voices Off Camera,happiness,revolutions,0.26666666666666666
+Happiness: We're All In It Together,Voices Off Camera,happiness,minute,0.3076923076923077
+Happiness: We're All In It Together,Voices Off Camera,young,voices,0.13333333333333333
+Happiness: We're All In It Together,Voices Off Camera,young,camera,0.47058823529411764
+Happiness: We're All In It Together,Voices Off Camera,young,revolutions,0.13333333333333333
+Happiness: We're All In It Together,Voices Off Camera,young,minute,0.15384615384615385
+Happiness: We're All In It Together,Voices Off Camera,mountain,voices,0.15384615384615385
+Happiness: We're All In It Together,Voices Off Camera,mountain,camera,0.4
+Happiness: We're All In It Together,Voices Off Camera,mountain,revolutions,0.15384615384615385
+Happiness: We're All In It Together,Voices Off Camera,mountain,minute,0.18181818181818182
+Armistice,Boy's No Good,armistice,good,0.42857142857142855
+Armistice,Boy's No Good,armistice,boy,0.15384615384615385
+Armistice,Boy's No Good,armistice,one,0.26666666666666666
+Armistice,Boy's No Good,armistice,audience,0.3076923076923077
+Armistice,Boy's No Good,phoenix,good,0.1111111111111111
+Armistice,Boy's No Good,phoenix,boy,0.3157894736842105
+Armistice,Boy's No Good,phoenix,one,0.10526315789473684
+Armistice,Boy's No Good,phoenix,audience,0.11764705882352941
+Armistice,Entertainment,armistice,entertainment,0.26666666666666666
+Armistice,Entertainment,armistice,reason,0.3076923076923077
+Armistice,Entertainment,armistice,appeal,0.26666666666666666
+Armistice,Entertainment,phoenix,entertainment,0.10526315789473684
+Armistice,Entertainment,phoenix,reason,0.11764705882352941
+Armistice,Entertainment,phoenix,appeal,0.10526315789473684
+Armistice,The Art Of Losing,armistice,losing,0
+Armistice,The Art Of Losing,armistice,art,0.14285714285714285
+Armistice,The Art Of Losing,armistice,unraveling,0
+Armistice,The Art Of Losing,phoenix,losing,0
+Armistice,The Art Of Losing,phoenix,art,0.3333333333333333
+Armistice,The Art Of Losing,phoenix,unraveling,0
+Armistice,But Tonight We Dance,armistice,tonight,0.46153846153846156
+Armistice,But Tonight We Dance,armistice,dance,0.13333333333333333
+Armistice,But Tonight We Dance,armistice,noise,0.2857142857142857
+Armistice,But Tonight We Dance,phoenix,tonight,0.11764705882352941
+Armistice,But Tonight We Dance,phoenix,dance,0.3157894736842105
+Armistice,But Tonight We Dance,phoenix,noise,0.1111111111111111
+Armistice,Bricks,armistice,bricks,0.14285714285714285
+Armistice,Bricks,armistice,witness,0.15384615384615385
+Armistice,Bricks,armistice,sufferer,0.15384615384615385
+Armistice,Bricks,phoenix,bricks,0.3333333333333333
+Armistice,Bricks,phoenix,witness,0.3157894736842105
+Armistice,Bricks,phoenix,sufferer,0.3157894736842105
+Armistice,Remains Of Summer Memories,armistice,summer,0.2857142857142857
+Armistice,Remains Of Summer Memories,armistice,memories,0.2857142857142857
+Armistice,Remains Of Summer Memories,armistice,remains,0.18181818181818182
+Armistice,Remains Of Summer Memories,armistice,unraveling,0
+Armistice,Remains Of Summer Memories,phoenix,summer,0.1111111111111111
+Armistice,Remains Of Summer Memories,phoenix,memories,0.1111111111111111
+Armistice,Remains Of Summer Memories,phoenix,remains,0.4
+Armistice,Remains Of Summer Memories,phoenix,unraveling,0
+Armistice,Black Masks & Gasoline,armistice,black,0.4
+Armistice,Black Masks & Gasoline,armistice,masks,0.14285714285714285
+Armistice,Black Masks & Gasoline,armistice,gasoline,0.26666666666666666
+Armistice,Black Masks & Gasoline,armistice,revolutions,0.2857142857142857
+Armistice,Black Masks & Gasoline,armistice,minute,0.3333333333333333
+Armistice,Black Masks & Gasoline,phoenix,black,0.10526315789473684
+Armistice,Black Masks & Gasoline,phoenix,masks,0.3333333333333333
+Armistice,Black Masks & Gasoline,phoenix,gasoline,0.23529411764705882
+Armistice,Black Masks & Gasoline,phoenix,revolutions,0.1111111111111111
+Armistice,Black Masks & Gasoline,phoenix,minute,0.125
+Armistice,Behind Closed Doors,armistice,behind,0.15384615384615385
+Armistice,Behind Closed Doors,armistice,closed,0
+Armistice,Behind Closed Doors,armistice,doors,0.11764705882352941
+Armistice,Behind Closed Doors,armistice,witness,0.15384615384615385
+Armistice,Behind Closed Doors,armistice,sufferer,0.15384615384615385
+Armistice,Behind Closed Doors,phoenix,behind,0.23529411764705882
+Armistice,Behind Closed Doors,phoenix,closed,0
+Armistice,Behind Closed Doors,phoenix,doors,0.2857142857142857
+Armistice,Behind Closed Doors,phoenix,witness,0.3157894736842105
+Armistice,Behind Closed Doors,phoenix,sufferer,0.3157894736842105
+Armistice,Paper Wings,armistice,paper,0.2857142857142857
+Armistice,Paper Wings,armistice,wings,0.26666666666666666
+Armistice,Paper Wings,armistice,siren,0.2
+Armistice,Paper Wings,armistice,song,0.2857142857142857
+Armistice,Paper Wings,armistice,culture,0.3076923076923077
+Armistice,Paper Wings,armistice,counter,0.11764705882352941
+Armistice,Paper Wings,phoenix,paper,0.23529411764705882
+Armistice,Paper Wings,phoenix,wings,0.10526315789473684
+Armistice,Paper Wings,phoenix,siren,0.08333333333333333
+Armistice,Paper Wings,phoenix,song,0.1111111111111111
+Armistice,Paper Wings,phoenix,culture,0.11764705882352941
+Armistice,Paper Wings,phoenix,counter,0.2857142857142857
+Armistice,Broken English,armistice,broken,0
+Armistice,Broken English,armistice,english,0.25
+Armistice,Broken English,armistice,revolutions,0.2857142857142857
+Armistice,Broken English,armistice,minute,0.3333333333333333
+Armistice,Broken English,phoenix,broken,0
+Armistice,Broken English,phoenix,english,0.1
+Armistice,Broken English,phoenix,revolutions,0.1111111111111111
+Armistice,Broken English,phoenix,minute,0.125
+Armistice,Savior,armistice,savior,0.26666666666666666
+Armistice,Savior,armistice,reason,0.3076923076923077
+Armistice,Savior,armistice,appeal,0.26666666666666666
+Armistice,Savior,phoenix,savior,0.3157894736842105
+Armistice,Savior,phoenix,reason,0.11764705882352941
+Armistice,Savior,phoenix,appeal,0.10526315789473684
+Armistice,Blood To Bleed,armistice,blood,0.26666666666666666
+Armistice,Blood To Bleed,armistice,bleed,0
+Armistice,Blood To Bleed,armistice,siren,0.2
+Armistice,Blood To Bleed,armistice,song,0.2857142857142857
+Armistice,Blood To Bleed,armistice,culture,0.3076923076923077
+Armistice,Blood To Bleed,armistice,counter,0.11764705882352941
+Armistice,Blood To Bleed,phoenix,blood,0.2222222222222222
+Armistice,Blood To Bleed,phoenix,bleed,0
+Armistice,Blood To Bleed,phoenix,siren,0.08333333333333333
+Armistice,Blood To Bleed,phoenix,song,0.1111111111111111
+Armistice,Blood To Bleed,phoenix,culture,0.11764705882352941
+Armistice,Blood To Bleed,phoenix,counter,0.2857142857142857
+Armistice,Survive,armistice,survive,0
+Armistice,Survive,armistice,witness,0.15384615384615385
+Armistice,Survive,armistice,sufferer,0.15384615384615385
+Armistice,Survive,phoenix,survive,0
+Armistice,Survive,phoenix,witness,0.3157894736842105
+Armistice,Survive,phoenix,sufferer,0.3157894736842105
+Armistice,The First Drop,armistice,first,0.5714285714285714
+Armistice,The First Drop,armistice,drop,0.42857142857142855
+Armistice,The First Drop,armistice,siren,0.2
+Armistice,The First Drop,armistice,song,0.2857142857142857
+Armistice,The First Drop,armistice,culture,0.3076923076923077
+Armistice,The First Drop,armistice,counter,0.11764705882352941
+Armistice,The First Drop,phoenix,first,0.1111111111111111
+Armistice,The First Drop,phoenix,drop,0.1111111111111111
+Armistice,The First Drop,phoenix,siren,0.08333333333333333
+Armistice,The First Drop,phoenix,song,0.1111111111111111
+Armistice,The First Drop,phoenix,culture,0.11764705882352941
+Armistice,The First Drop,phoenix,counter,0.2857142857142857
+Armistice,Voices Off Camera,armistice,voices,0.42857142857142855
+Armistice,Voices Off Camera,armistice,camera,0.125
+Armistice,Voices Off Camera,armistice,revolutions,0.2857142857142857
+Armistice,Voices Off Camera,armistice,minute,0.3333333333333333
+Armistice,Voices Off Camera,phoenix,voices,0.1111111111111111
+Armistice,Voices Off Camera,phoenix,camera,0.3
+Armistice,Voices Off Camera,phoenix,revolutions,0.1111111111111111
+Armistice,Voices Off Camera,phoenix,minute,0.125
+There Are Some Remedies Worse Than The Disease,Boy's No Good,remedies,good,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Boy's No Good,remedies,boy,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Boy's No Good,remedies,one,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Boy's No Good,remedies,audience,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Boy's No Good,worse,good,0.6153846153846154
+There Are Some Remedies Worse Than The Disease,Boy's No Good,worse,boy,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Boy's No Good,worse,one,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Boy's No Good,worse,audience,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Boy's No Good,disease,good,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Boy's No Good,disease,boy,0.125
+There Are Some Remedies Worse Than The Disease,Boy's No Good,disease,one,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Boy's No Good,disease,audience,0.25
+There Are Some Remedies Worse Than The Disease,Boy's No Good,young,good,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Boy's No Good,young,boy,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Boy's No Good,young,one,0.125
+There Are Some Remedies Worse Than The Disease,Boy's No Good,young,audience,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Boy's No Good,mountain,good,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Boy's No Good,mountain,boy,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Boy's No Good,mountain,one,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Boy's No Good,mountain,audience,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Entertainment,remedies,entertainment,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Entertainment,remedies,reason,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Entertainment,remedies,appeal,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Entertainment,worse,entertainment,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Entertainment,worse,reason,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Entertainment,worse,appeal,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Entertainment,disease,entertainment,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Entertainment,disease,reason,0.25
+There Are Some Remedies Worse Than The Disease,Entertainment,disease,appeal,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Entertainment,young,entertainment,0.125
+There Are Some Remedies Worse Than The Disease,Entertainment,young,reason,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Entertainment,young,appeal,0.125
+There Are Some Remedies Worse Than The Disease,Entertainment,mountain,entertainment,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Entertainment,mountain,reason,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Entertainment,mountain,appeal,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,remedies,losing,0
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,remedies,art,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,remedies,unraveling,0
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,worse,losing,0
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,worse,art,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,worse,unraveling,0
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,disease,losing,0
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,disease,art,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,disease,unraveling,0
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,young,losing,0
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,young,art,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,young,unraveling,0
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,mountain,losing,0
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,mountain,art,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,The Art Of Losing,mountain,unraveling,0
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,remedies,tonight,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,remedies,dance,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,remedies,noise,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,worse,tonight,0.5
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,worse,dance,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,worse,noise,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,disease,tonight,0.375
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,disease,dance,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,disease,noise,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,young,tonight,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,young,dance,0.5
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,young,noise,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,mountain,tonight,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,mountain,dance,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,But Tonight We Dance,mountain,noise,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Bricks,remedies,bricks,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Bricks,remedies,witness,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Bricks,remedies,sufferer,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Bricks,worse,bricks,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Bricks,worse,witness,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Bricks,worse,sufferer,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Bricks,disease,bricks,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Bricks,disease,witness,0.125
+There Are Some Remedies Worse Than The Disease,Bricks,disease,sufferer,0.125
+There Are Some Remedies Worse Than The Disease,Bricks,young,bricks,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Bricks,young,witness,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Bricks,young,sufferer,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Bricks,mountain,bricks,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Bricks,mountain,witness,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Bricks,mountain,sufferer,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,remedies,summer,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,remedies,memories,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,remedies,remains,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,remedies,unraveling,0
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,worse,summer,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,worse,memories,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,worse,remains,0.2
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,worse,unraveling,0
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,disease,summer,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,disease,memories,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,disease,remains,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,disease,unraveling,0
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,young,summer,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,young,memories,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,young,remains,0.5
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,young,unraveling,0
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,mountain,summer,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,mountain,memories,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,mountain,remains,0.6
+There Are Some Remedies Worse Than The Disease,Remains Of Summer Memories,mountain,unraveling,0
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,remedies,black,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,remedies,masks,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,remedies,gasoline,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,remedies,revolutions,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,remedies,minute,0.25
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,worse,black,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,worse,masks,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,worse,gasoline,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,worse,revolutions,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,worse,minute,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,disease,black,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,disease,masks,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,disease,gasoline,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,disease,revolutions,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,disease,minute,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,young,black,0.125
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,young,masks,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,young,gasoline,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,young,revolutions,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,young,minute,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,mountain,black,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,mountain,masks,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,mountain,gasoline,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,mountain,revolutions,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Black Masks & Gasoline,mountain,minute,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,remedies,behind,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,remedies,closed,0
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,remedies,doors,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,remedies,witness,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,remedies,sufferer,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,worse,behind,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,worse,closed,0
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,worse,doors,0.125
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,worse,witness,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,worse,sufferer,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,disease,behind,0.125
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,disease,closed,0
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,disease,doors,0.1
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,disease,witness,0.125
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,disease,sufferer,0.125
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,young,behind,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,young,closed,0
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,young,doors,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,young,witness,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,young,sufferer,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,mountain,behind,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,mountain,closed,0
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,mountain,doors,0.375
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,mountain,witness,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Behind Closed Doors,mountain,sufferer,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Paper Wings,remedies,paper,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Paper Wings,remedies,wings,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Paper Wings,remedies,siren,0.25
+There Are Some Remedies Worse Than The Disease,Paper Wings,remedies,song,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Paper Wings,remedies,culture,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Paper Wings,remedies,counter,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Paper Wings,worse,paper,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Paper Wings,worse,wings,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Paper Wings,worse,siren,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Paper Wings,worse,song,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Paper Wings,worse,culture,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Paper Wings,worse,counter,0.125
+There Are Some Remedies Worse Than The Disease,Paper Wings,disease,paper,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Paper Wings,disease,wings,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Paper Wings,disease,siren,0.17391304347826086
+There Are Some Remedies Worse Than The Disease,Paper Wings,disease,song,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Paper Wings,disease,culture,0.25
+There Are Some Remedies Worse Than The Disease,Paper Wings,disease,counter,0.1
+There Are Some Remedies Worse Than The Disease,Paper Wings,young,paper,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Paper Wings,young,wings,0.125
+There Are Some Remedies Worse Than The Disease,Paper Wings,young,siren,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Paper Wings,young,song,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Paper Wings,young,culture,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Paper Wings,young,counter,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Paper Wings,mountain,paper,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Paper Wings,mountain,wings,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Paper Wings,mountain,siren,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Paper Wings,mountain,song,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Paper Wings,mountain,culture,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Paper Wings,mountain,counter,0.375
+There Are Some Remedies Worse Than The Disease,Broken English,remedies,broken,0
+There Are Some Remedies Worse Than The Disease,Broken English,remedies,english,0.2
+There Are Some Remedies Worse Than The Disease,Broken English,remedies,revolutions,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Broken English,remedies,minute,0.25
+There Are Some Remedies Worse Than The Disease,Broken English,worse,broken,0
+There Are Some Remedies Worse Than The Disease,Broken English,worse,english,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Broken English,worse,revolutions,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Broken English,worse,minute,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Broken English,disease,broken,0
+There Are Some Remedies Worse Than The Disease,Broken English,disease,english,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Broken English,disease,revolutions,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Broken English,disease,minute,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Broken English,young,broken,0
+There Are Some Remedies Worse Than The Disease,Broken English,young,english,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Broken English,young,revolutions,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Broken English,young,minute,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Broken English,mountain,broken,0
+There Are Some Remedies Worse Than The Disease,Broken English,mountain,english,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Broken English,mountain,revolutions,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Broken English,mountain,minute,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Savior,remedies,savior,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Savior,remedies,reason,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Savior,remedies,appeal,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Savior,worse,savior,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Savior,worse,reason,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Savior,worse,appeal,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Savior,disease,savior,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Savior,disease,reason,0.25
+There Are Some Remedies Worse Than The Disease,Savior,disease,appeal,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Savior,young,savior,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Savior,young,reason,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Savior,young,appeal,0.125
+There Are Some Remedies Worse Than The Disease,Savior,mountain,savior,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Savior,mountain,reason,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Savior,mountain,appeal,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,remedies,blood,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,remedies,bleed,0
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,remedies,siren,0.25
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,remedies,song,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,remedies,culture,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,remedies,counter,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,worse,blood,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,worse,bleed,0
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,worse,siren,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,worse,song,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,worse,culture,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,worse,counter,0.125
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,disease,blood,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,disease,bleed,0
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,disease,siren,0.17391304347826086
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,disease,song,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,disease,culture,0.25
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,disease,counter,0.1
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,young,blood,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,young,bleed,0
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,young,siren,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,young,song,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,young,culture,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,young,counter,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,mountain,blood,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,mountain,bleed,0
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,mountain,siren,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,mountain,song,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,mountain,culture,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Blood To Bleed,mountain,counter,0.375
+There Are Some Remedies Worse Than The Disease,Survive,remedies,survive,0
+There Are Some Remedies Worse Than The Disease,Survive,remedies,witness,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Survive,remedies,sufferer,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Survive,worse,survive,0
+There Are Some Remedies Worse Than The Disease,Survive,worse,witness,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Survive,worse,sufferer,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Survive,disease,survive,0
+There Are Some Remedies Worse Than The Disease,Survive,disease,witness,0.125
+There Are Some Remedies Worse Than The Disease,Survive,disease,sufferer,0.125
+There Are Some Remedies Worse Than The Disease,Survive,young,survive,0
+There Are Some Remedies Worse Than The Disease,Survive,young,witness,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Survive,young,sufferer,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Survive,mountain,survive,0
+There Are Some Remedies Worse Than The Disease,Survive,mountain,witness,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Survive,mountain,sufferer,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,The First Drop,remedies,first,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The First Drop,remedies,drop,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The First Drop,remedies,siren,0.25
+There Are Some Remedies Worse Than The Disease,The First Drop,remedies,song,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The First Drop,remedies,culture,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,The First Drop,remedies,counter,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,The First Drop,worse,first,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,The First Drop,worse,drop,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,The First Drop,worse,siren,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,The First Drop,worse,song,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,The First Drop,worse,culture,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,The First Drop,worse,counter,0.125
+There Are Some Remedies Worse Than The Disease,The First Drop,disease,first,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,The First Drop,disease,drop,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,The First Drop,disease,siren,0.17391304347826086
+There Are Some Remedies Worse Than The Disease,The First Drop,disease,song,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,The First Drop,disease,culture,0.25
+There Are Some Remedies Worse Than The Disease,The First Drop,disease,counter,0.1
+There Are Some Remedies Worse Than The Disease,The First Drop,young,first,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The First Drop,young,drop,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The First Drop,young,siren,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,The First Drop,young,song,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The First Drop,young,culture,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The First Drop,young,counter,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,The First Drop,mountain,first,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The First Drop,mountain,drop,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The First Drop,mountain,siren,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,The First Drop,mountain,song,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The First Drop,mountain,culture,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,The First Drop,mountain,counter,0.375
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,remedies,voices,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,remedies,camera,0.1
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,remedies,revolutions,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,remedies,minute,0.25
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,worse,voices,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,worse,camera,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,worse,revolutions,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,worse,minute,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,disease,voices,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,disease,camera,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,disease,revolutions,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,disease,minute,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,young,voices,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,young,camera,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,young,revolutions,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,young,minute,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,mountain,voices,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,mountain,camera,0.4
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,mountain,revolutions,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Voices Off Camera,mountain,minute,0.18181818181818182
+Swimming In The Flood,Boy's No Good,swimming,good,0.23529411764705882
+Swimming In The Flood,Boy's No Good,swimming,boy,0.125
+Swimming In The Flood,Boy's No Good,swimming,one,0.2222222222222222
+Swimming In The Flood,Boy's No Good,swimming,audience,0.25
+Swimming In The Flood,Boy's No Good,flood,good,0.14285714285714285
+Swimming In The Flood,Boy's No Good,flood,boy,0.3076923076923077
+Swimming In The Flood,Boy's No Good,flood,one,0.13333333333333333
+Swimming In The Flood,Boy's No Good,flood,audience,0.15384615384615385
+Swimming In The Flood,Boy's No Good,manners,good,0.46153846153846156
+Swimming In The Flood,Boy's No Good,manners,boy,0.16666666666666666
+Swimming In The Flood,Boy's No Good,manners,one,0.2857142857142857
+Swimming In The Flood,Boy's No Good,manners,audience,0.3333333333333333
+Swimming In The Flood,Entertainment,swimming,entertainment,0.7777777777777778
+Swimming In The Flood,Entertainment,swimming,reason,0.375
+Swimming In The Flood,Entertainment,swimming,appeal,0.5555555555555556
+Swimming In The Flood,Entertainment,flood,entertainment,0.13333333333333333
+Swimming In The Flood,Entertainment,flood,reason,0.15384615384615385
+Swimming In The Flood,Entertainment,flood,appeal,0.13333333333333333
+Swimming In The Flood,Entertainment,manners,entertainment,0.2857142857142857
+Swimming In The Flood,Entertainment,manners,reason,0.3333333333333333
+Swimming In The Flood,Entertainment,manners,appeal,0.2857142857142857
+Swimming In The Flood,The Art Of Losing,swimming,losing,0
+Swimming In The Flood,The Art Of Losing,swimming,art,0.11764705882352941
+Swimming In The Flood,The Art Of Losing,swimming,unraveling,0
+Swimming In The Flood,The Art Of Losing,flood,losing,0
+Swimming In The Flood,The Art Of Losing,flood,art,0.2857142857142857
+Swimming In The Flood,The Art Of Losing,flood,unraveling,0
+Swimming In The Flood,The Art Of Losing,manners,losing,0
+Swimming In The Flood,The Art Of Losing,manners,art,0.15384615384615385
+Swimming In The Flood,The Art Of Losing,manners,unraveling,0
+Swimming In The Flood,But Tonight We Dance,swimming,tonight,0.25
+Swimming In The Flood,But Tonight We Dance,swimming,dance,0.1111111111111111
+Swimming In The Flood,But Tonight We Dance,swimming,noise,0.47058823529411764
+Swimming In The Flood,But Tonight We Dance,flood,tonight,0.15384615384615385
+Swimming In The Flood,But Tonight We Dance,flood,dance,0.26666666666666666
+Swimming In The Flood,But Tonight We Dance,flood,noise,0.14285714285714285
+Swimming In The Flood,But Tonight We Dance,manners,tonight,0.5
+Swimming In The Flood,But Tonight We Dance,manners,dance,0.14285714285714285
+Swimming In The Flood,But Tonight We Dance,manners,noise,0.3076923076923077
+Swimming In The Flood,Bricks,swimming,bricks,0.11764705882352941
+Swimming In The Flood,Bricks,swimming,witness,0.125
+Swimming In The Flood,Bricks,swimming,sufferer,0.125
+Swimming In The Flood,Bricks,flood,bricks,0.2857142857142857
+Swimming In The Flood,Bricks,flood,witness,0.3076923076923077
+Swimming In The Flood,Bricks,flood,sufferer,0.3076923076923077
+Swimming In The Flood,Bricks,manners,bricks,0.15384615384615385
+Swimming In The Flood,Bricks,manners,witness,0.16666666666666666
+Swimming In The Flood,Bricks,manners,sufferer,0.16666666666666666
+Swimming In The Flood,Remains Of Summer Memories,swimming,summer,0.23529411764705882
+Swimming In The Flood,Remains Of Summer Memories,swimming,memories,0.35294117647058826
+Swimming In The Flood,Remains Of Summer Memories,swimming,remains,0.14285714285714285
+Swimming In The Flood,Remains Of Summer Memories,swimming,unraveling,0
+Swimming In The Flood,Remains Of Summer Memories,flood,summer,0.14285714285714285
+Swimming In The Flood,Remains Of Summer Memories,flood,memories,0.14285714285714285
+Swimming In The Flood,Remains Of Summer Memories,flood,remains,0.36363636363636365
+Swimming In The Flood,Remains Of Summer Memories,flood,unraveling,0
+Swimming In The Flood,Remains Of Summer Memories,manners,summer,0.3076923076923077
+Swimming In The Flood,Remains Of Summer Memories,manners,memories,0.3076923076923077
+Swimming In The Flood,Remains Of Summer Memories,manners,remains,0.2
+Swimming In The Flood,Remains Of Summer Memories,manners,unraveling,0
+Swimming In The Flood,Black Masks & Gasoline,swimming,black,0.2222222222222222
+Swimming In The Flood,Black Masks & Gasoline,swimming,masks,0.11764705882352941
+Swimming In The Flood,Black Masks & Gasoline,swimming,gasoline,0.2222222222222222
+Swimming In The Flood,Black Masks & Gasoline,swimming,revolutions,0.47058823529411764
+Swimming In The Flood,Black Masks & Gasoline,swimming,minute,0.26666666666666666
+Swimming In The Flood,Black Masks & Gasoline,flood,black,0.13333333333333333
+Swimming In The Flood,Black Masks & Gasoline,flood,masks,0.2857142857142857
+Swimming In The Flood,Black Masks & Gasoline,flood,gasoline,0.3076923076923077
+Swimming In The Flood,Black Masks & Gasoline,flood,revolutions,0.14285714285714285
+Swimming In The Flood,Black Masks & Gasoline,flood,minute,0.16666666666666666
+Swimming In The Flood,Black Masks & Gasoline,manners,black,0.42857142857142855
+Swimming In The Flood,Black Masks & Gasoline,manners,masks,0.15384615384615385
+Swimming In The Flood,Black Masks & Gasoline,manners,gasoline,0.2857142857142857
+Swimming In The Flood,Black Masks & Gasoline,manners,revolutions,0.3076923076923077
+Swimming In The Flood,Black Masks & Gasoline,manners,minute,0.36363636363636365
+Swimming In The Flood,Behind Closed Doors,swimming,behind,0.125
+Swimming In The Flood,Behind Closed Doors,swimming,closed,0
+Swimming In The Flood,Behind Closed Doors,swimming,doors,0.1
+Swimming In The Flood,Behind Closed Doors,swimming,witness,0.125
+Swimming In The Flood,Behind Closed Doors,swimming,sufferer,0.125
+Swimming In The Flood,Behind Closed Doors,flood,behind,0.3076923076923077
+Swimming In The Flood,Behind Closed Doors,flood,closed,0
+Swimming In The Flood,Behind Closed Doors,flood,doors,0.23529411764705882
+Swimming In The Flood,Behind Closed Doors,flood,witness,0.3076923076923077
+Swimming In The Flood,Behind Closed Doors,flood,sufferer,0.3076923076923077
+Swimming In The Flood,Behind Closed Doors,manners,behind,0.16666666666666666
+Swimming In The Flood,Behind Closed Doors,manners,closed,0
+Swimming In The Flood,Behind Closed Doors,manners,doors,0.125
+Swimming In The Flood,Behind Closed Doors,manners,witness,0.16666666666666666
+Swimming In The Flood,Behind Closed Doors,manners,sufferer,0.16666666666666666
+Swimming In The Flood,Paper Wings,swimming,paper,0.23529411764705882
+Swimming In The Flood,Paper Wings,swimming,wings,0.5555555555555556
+Swimming In The Flood,Paper Wings,swimming,siren,0.2608695652173913
+Swimming In The Flood,Paper Wings,swimming,song,0.23529411764705882
+Swimming In The Flood,Paper Wings,swimming,culture,0.25
+Swimming In The Flood,Paper Wings,swimming,counter,0.1
+Swimming In The Flood,Paper Wings,flood,paper,0.3076923076923077
+Swimming In The Flood,Paper Wings,flood,wings,0.13333333333333333
+Swimming In The Flood,Paper Wings,flood,siren,0.1
+Swimming In The Flood,Paper Wings,flood,song,0.14285714285714285
+Swimming In The Flood,Paper Wings,flood,culture,0.15384615384615385
+Swimming In The Flood,Paper Wings,flood,counter,0.23529411764705882
+Swimming In The Flood,Paper Wings,manners,paper,0.3076923076923077
+Swimming In The Flood,Paper Wings,manners,wings,0.2857142857142857
+Swimming In The Flood,Paper Wings,manners,siren,0.21052631578947367
+Swimming In The Flood,Paper Wings,manners,song,0.3076923076923077
+Swimming In The Flood,Paper Wings,manners,culture,0.3333333333333333
+Swimming In The Flood,Paper Wings,manners,counter,0.125
+Swimming In The Flood,Broken English,swimming,broken,0
+Swimming In The Flood,Broken English,swimming,english,0.21052631578947367
+Swimming In The Flood,Broken English,swimming,revolutions,0.47058823529411764
+Swimming In The Flood,Broken English,swimming,minute,0.26666666666666666
+Swimming In The Flood,Broken English,flood,broken,0
+Swimming In The Flood,Broken English,flood,english,0.125
+Swimming In The Flood,Broken English,flood,revolutions,0.14285714285714285
+Swimming In The Flood,Broken English,flood,minute,0.16666666666666666
+Swimming In The Flood,Broken English,manners,broken,0
+Swimming In The Flood,Broken English,manners,english,0.26666666666666666
+Swimming In The Flood,Broken English,manners,revolutions,0.3076923076923077
+Swimming In The Flood,Broken English,manners,minute,0.36363636363636365
+Swimming In The Flood,Savior,swimming,savior,0.3
+Swimming In The Flood,Savior,swimming,reason,0.375
+Swimming In The Flood,Savior,swimming,appeal,0.5555555555555556
+Swimming In The Flood,Savior,flood,savior,0.3076923076923077
+Swimming In The Flood,Savior,flood,reason,0.15384615384615385
+Swimming In The Flood,Savior,flood,appeal,0.13333333333333333
+Swimming In The Flood,Savior,manners,savior,0.2857142857142857
+Swimming In The Flood,Savior,manners,reason,0.3333333333333333
+Swimming In The Flood,Savior,manners,appeal,0.2857142857142857
+Swimming In The Flood,Blood To Bleed,swimming,blood,0.2222222222222222
+Swimming In The Flood,Blood To Bleed,swimming,bleed,0
+Swimming In The Flood,Blood To Bleed,swimming,siren,0.2608695652173913
+Swimming In The Flood,Blood To Bleed,swimming,song,0.23529411764705882
+Swimming In The Flood,Blood To Bleed,swimming,culture,0.25
+Swimming In The Flood,Blood To Bleed,swimming,counter,0.1
+Swimming In The Flood,Blood To Bleed,flood,blood,0.2857142857142857
+Swimming In The Flood,Blood To Bleed,flood,bleed,0
+Swimming In The Flood,Blood To Bleed,flood,siren,0.1
+Swimming In The Flood,Blood To Bleed,flood,song,0.14285714285714285
+Swimming In The Flood,Blood To Bleed,flood,culture,0.15384615384615385
+Swimming In The Flood,Blood To Bleed,flood,counter,0.23529411764705882
+Swimming In The Flood,Blood To Bleed,manners,blood,0.2857142857142857
+Swimming In The Flood,Blood To Bleed,manners,bleed,0
+Swimming In The Flood,Blood To Bleed,manners,siren,0.21052631578947367
+Swimming In The Flood,Blood To Bleed,manners,song,0.3076923076923077
+Swimming In The Flood,Blood To Bleed,manners,culture,0.3333333333333333
+Swimming In The Flood,Blood To Bleed,manners,counter,0.125
+Swimming In The Flood,Survive,swimming,survive,0
+Swimming In The Flood,Survive,swimming,witness,0.125
+Swimming In The Flood,Survive,swimming,sufferer,0.125
+Swimming In The Flood,Survive,flood,survive,0
+Swimming In The Flood,Survive,flood,witness,0.3076923076923077
+Swimming In The Flood,Survive,flood,sufferer,0.3076923076923077
+Swimming In The Flood,Survive,manners,survive,0
+Swimming In The Flood,Survive,manners,witness,0.16666666666666666
+Swimming In The Flood,Survive,manners,sufferer,0.16666666666666666
+Swimming In The Flood,The First Drop,swimming,first,0.23529411764705882
+Swimming In The Flood,The First Drop,swimming,drop,0.23529411764705882
+Swimming In The Flood,The First Drop,swimming,siren,0.2608695652173913
+Swimming In The Flood,The First Drop,swimming,song,0.23529411764705882
+Swimming In The Flood,The First Drop,swimming,culture,0.25
+Swimming In The Flood,The First Drop,swimming,counter,0.1
+Swimming In The Flood,The First Drop,flood,first,0.14285714285714285
+Swimming In The Flood,The First Drop,flood,drop,0.14285714285714285
+Swimming In The Flood,The First Drop,flood,siren,0.1
+Swimming In The Flood,The First Drop,flood,song,0.14285714285714285
+Swimming In The Flood,The First Drop,flood,culture,0.15384615384615385
+Swimming In The Flood,The First Drop,flood,counter,0.23529411764705882
+Swimming In The Flood,The First Drop,manners,first,0.46153846153846156
+Swimming In The Flood,The First Drop,manners,drop,0.46153846153846156
+Swimming In The Flood,The First Drop,manners,siren,0.21052631578947367
+Swimming In The Flood,The First Drop,manners,song,0.3076923076923077
+Swimming In The Flood,The First Drop,manners,culture,0.3333333333333333
+Swimming In The Flood,The First Drop,manners,counter,0.125
+Swimming In The Flood,Voices Off Camera,swimming,voices,0.23529411764705882
+Swimming In The Flood,Voices Off Camera,swimming,camera,0.10526315789473684
+Swimming In The Flood,Voices Off Camera,swimming,revolutions,0.47058823529411764
+Swimming In The Flood,Voices Off Camera,swimming,minute,0.26666666666666666
+Swimming In The Flood,Voices Off Camera,flood,voices,0.14285714285714285
+Swimming In The Flood,Voices Off Camera,flood,camera,0.25
+Swimming In The Flood,Voices Off Camera,flood,revolutions,0.14285714285714285
+Swimming In The Flood,Voices Off Camera,flood,minute,0.16666666666666666
+Swimming In The Flood,Voices Off Camera,manners,voices,0.46153846153846156
+Swimming In The Flood,Voices Off Camera,manners,camera,0.13333333333333333
+Swimming In The Flood,Voices Off Camera,manners,revolutions,0.3076923076923077
+Swimming In The Flood,Voices Off Camera,manners,minute,0.36363636363636365

@@ -1,0 +1,2323 @@
+the_first_song,the_second_song,word1,word2,result
+Rocket In The Sky ,Help Yourself,sky,help,0.14285714285714285
+Rocket In The Sky ,Help Yourself,sky,frank,0.2857142857142857
+Rocket In The Sky ,Help Yourself,rocket,help,0.125
+Rocket In The Sky ,Help Yourself,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Help Yourself,sky,help,0.14285714285714285
+Rocket In The Sky ,Help Yourself,sky,frank,0.2857142857142857
+Rocket In The Sky ,Help Yourself,single,help,0.5555555555555556
+Rocket In The Sky ,Help Yourself,single,frank,0.1111111111111111
+Rocket In The Sky ,Help Yourself,rocket,help,0.125
+Rocket In The Sky ,Help Yourself,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Some Unholy War,sky,unholy,0
+Rocket In The Sky ,Some Unholy War,sky,war,0.14285714285714285
+Rocket In The Sky ,Some Unholy War,sky,frank,0.2857142857142857
+Rocket In The Sky ,Some Unholy War,sky,black,0.13333333333333333
+Rocket In The Sky ,Some Unholy War,sky,back,0.3076923076923077
+Rocket In The Sky ,Some Unholy War,rocket,unholy,0
+Rocket In The Sky ,Some Unholy War,rocket,war,0.125
+Rocket In The Sky ,Some Unholy War,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Some Unholy War,rocket,black,0.11764705882352941
+Rocket In The Sky ,Some Unholy War,rocket,back,0.26666666666666666
+Rocket In The Sky ,Some Unholy War,sky,unholy,0
+Rocket In The Sky ,Some Unholy War,sky,war,0.14285714285714285
+Rocket In The Sky ,Some Unholy War,sky,frank,0.2857142857142857
+Rocket In The Sky ,Some Unholy War,sky,black,0.13333333333333333
+Rocket In The Sky ,Some Unholy War,sky,back,0.3076923076923077
+Rocket In The Sky ,Some Unholy War,single,unholy,0
+Rocket In The Sky ,Some Unholy War,single,war,0.5263157894736842
+Rocket In The Sky ,Some Unholy War,single,frank,0.1111111111111111
+Rocket In The Sky ,Some Unholy War,single,black,0.21052631578947367
+Rocket In The Sky ,Some Unholy War,single,back,0.11764705882352941
+Rocket In The Sky ,Some Unholy War,rocket,unholy,0
+Rocket In The Sky ,Some Unholy War,rocket,war,0.125
+Rocket In The Sky ,Some Unholy War,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Some Unholy War,rocket,black,0.11764705882352941
+Rocket In The Sky ,Some Unholy War,rocket,back,0.26666666666666666
+Rocket In The Sky ,Stronger Than Me,sky,stronger,0
+Rocket In The Sky ,Stronger Than Me,sky,rarities,0.125
+Rocket In The Sky ,Stronger Than Me,sky,edition,0.2222222222222222
+Rocket In The Sky ,Stronger Than Me,sky,frank,0.2857142857142857
+Rocket In The Sky ,Stronger Than Me,rocket,stronger,0
+Rocket In The Sky ,Stronger Than Me,rocket,rarities,0.1111111111111111
+Rocket In The Sky ,Stronger Than Me,rocket,edition,0.5
+Rocket In The Sky ,Stronger Than Me,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Stronger Than Me,sky,stronger,0
+Rocket In The Sky ,Stronger Than Me,sky,rarities,0.125
+Rocket In The Sky ,Stronger Than Me,sky,edition,0.2222222222222222
+Rocket In The Sky ,Stronger Than Me,sky,frank,0.2857142857142857
+Rocket In The Sky ,Stronger Than Me,single,stronger,0
+Rocket In The Sky ,Stronger Than Me,single,rarities,0.2
+Rocket In The Sky ,Stronger Than Me,single,edition,0.09090909090909091
+Rocket In The Sky ,Stronger Than Me,single,frank,0.1111111111111111
+Rocket In The Sky ,Stronger Than Me,rocket,stronger,0
+Rocket In The Sky ,Stronger Than Me,rocket,rarities,0.1111111111111111
+Rocket In The Sky ,Stronger Than Me,rocket,edition,0.5
+Rocket In The Sky ,Stronger Than Me,rocket,frank,0.42105263157894735
+Rocket In The Sky ,You Know I'm No Good,sky,know,0.13333333333333333
+Rocket In The Sky ,You Know I'm No Good,sky,good,0.14285714285714285
+Rocket In The Sky ,You Know I'm No Good,sky,version,0.13333333333333333
+Rocket In The Sky ,You Know I'm No Good,sky,know,0.13333333333333333
+Rocket In The Sky ,You Know I'm No Good,sky,good,0.14285714285714285
+Rocket In The Sky ,You Know I'm No Good,rocket,know,0.11764705882352941
+Rocket In The Sky ,You Know I'm No Good,rocket,good,0.125
+Rocket In The Sky ,You Know I'm No Good,rocket,version,0.11764705882352941
+Rocket In The Sky ,You Know I'm No Good,rocket,know,0.11764705882352941
+Rocket In The Sky ,You Know I'm No Good,rocket,good,0.125
+Rocket In The Sky ,You Know I'm No Good,sky,know,0.13333333333333333
+Rocket In The Sky ,You Know I'm No Good,sky,good,0.14285714285714285
+Rocket In The Sky ,You Know I'm No Good,sky,version,0.13333333333333333
+Rocket In The Sky ,You Know I'm No Good,sky,know,0.13333333333333333
+Rocket In The Sky ,You Know I'm No Good,sky,good,0.14285714285714285
+Rocket In The Sky ,You Know I'm No Good,single,know,0.3157894736842105
+Rocket In The Sky ,You Know I'm No Good,single,good,0.2222222222222222
+Rocket In The Sky ,You Know I'm No Good,single,version,0.21052631578947367
+Rocket In The Sky ,You Know I'm No Good,single,know,0.3157894736842105
+Rocket In The Sky ,You Know I'm No Good,single,good,0.2222222222222222
+Rocket In The Sky ,You Know I'm No Good,rocket,know,0.11764705882352941
+Rocket In The Sky ,You Know I'm No Good,rocket,good,0.125
+Rocket In The Sky ,You Know I'm No Good,rocket,version,0.11764705882352941
+Rocket In The Sky ,You Know I'm No Good,rocket,know,0.11764705882352941
+Rocket In The Sky ,You Know I'm No Good,rocket,good,0.125
+Rocket In The Sky ,I Heard Love Is Blind,sky,heard,0
+Rocket In The Sky ,I Heard Love Is Blind,sky,love,0.14285714285714285
+Rocket In The Sky ,I Heard Love Is Blind,sky,blind,0.16666666666666666
+Rocket In The Sky ,I Heard Love Is Blind,sky,frank,0.2857142857142857
+Rocket In The Sky ,I Heard Love Is Blind,rocket,heard,0
+Rocket In The Sky ,I Heard Love Is Blind,rocket,love,0.125
+Rocket In The Sky ,I Heard Love Is Blind,rocket,blind,0.14285714285714285
+Rocket In The Sky ,I Heard Love Is Blind,rocket,frank,0.42105263157894735
+Rocket In The Sky ,I Heard Love Is Blind,sky,heard,0
+Rocket In The Sky ,I Heard Love Is Blind,sky,love,0.14285714285714285
+Rocket In The Sky ,I Heard Love Is Blind,sky,blind,0.16666666666666666
+Rocket In The Sky ,I Heard Love Is Blind,sky,frank,0.2857142857142857
+Rocket In The Sky ,I Heard Love Is Blind,single,heard,0
+Rocket In The Sky ,I Heard Love Is Blind,single,love,0.2222222222222222
+Rocket In The Sky ,I Heard Love Is Blind,single,blind,0.25
+Rocket In The Sky ,I Heard Love Is Blind,single,frank,0.1111111111111111
+Rocket In The Sky ,I Heard Love Is Blind,rocket,heard,0
+Rocket In The Sky ,I Heard Love Is Blind,rocket,love,0.125
+Rocket In The Sky ,I Heard Love Is Blind,rocket,blind,0.14285714285714285
+Rocket In The Sky ,I Heard Love Is Blind,rocket,frank,0.42105263157894735
+Rocket In The Sky ,October Song,sky,october,0.13333333333333333
+Rocket In The Sky ,October Song,sky,song,0.14285714285714285
+Rocket In The Sky ,October Song,sky,frank,0.2857142857142857
+Rocket In The Sky ,October Song,sky,black,0.13333333333333333
+Rocket In The Sky ,October Song,sky,back,0.3076923076923077
+Rocket In The Sky ,October Song,rocket,october,0.11764705882352941
+Rocket In The Sky ,October Song,rocket,song,0.125
+Rocket In The Sky ,October Song,rocket,frank,0.42105263157894735
+Rocket In The Sky ,October Song,rocket,black,0.11764705882352941
+Rocket In The Sky ,October Song,rocket,back,0.26666666666666666
+Rocket In The Sky ,October Song,sky,october,0.13333333333333333
+Rocket In The Sky ,October Song,sky,song,0.14285714285714285
+Rocket In The Sky ,October Song,sky,frank,0.2857142857142857
+Rocket In The Sky ,October Song,sky,black,0.13333333333333333
+Rocket In The Sky ,October Song,sky,back,0.3076923076923077
+Rocket In The Sky ,October Song,single,october,0.21052631578947367
+Rocket In The Sky ,October Song,single,song,0.2222222222222222
+Rocket In The Sky ,October Song,single,frank,0.1111111111111111
+Rocket In The Sky ,October Song,single,black,0.21052631578947367
+Rocket In The Sky ,October Song,single,back,0.11764705882352941
+Rocket In The Sky ,October Song,rocket,october,0.11764705882352941
+Rocket In The Sky ,October Song,rocket,song,0.125
+Rocket In The Sky ,October Song,rocket,frank,0.42105263157894735
+Rocket In The Sky ,October Song,rocket,black,0.11764705882352941
+Rocket In The Sky ,October Song,rocket,back,0.26666666666666666
+Rocket In The Sky ,Back To Black,sky,black,0.13333333333333333
+Rocket In The Sky ,Back To Black,sky,back,0.3076923076923077
+Rocket In The Sky ,Back To Black,sky,black,0.13333333333333333
+Rocket In The Sky ,Back To Black,sky,back,0.3076923076923077
+Rocket In The Sky ,Back To Black,rocket,black,0.11764705882352941
+Rocket In The Sky ,Back To Black,rocket,back,0.26666666666666666
+Rocket In The Sky ,Back To Black,rocket,black,0.11764705882352941
+Rocket In The Sky ,Back To Black,rocket,back,0.26666666666666666
+Rocket In The Sky ,Back To Black,sky,black,0.13333333333333333
+Rocket In The Sky ,Back To Black,sky,back,0.3076923076923077
+Rocket In The Sky ,Back To Black,sky,black,0.13333333333333333
+Rocket In The Sky ,Back To Black,sky,back,0.3076923076923077
+Rocket In The Sky ,Back To Black,single,black,0.21052631578947367
+Rocket In The Sky ,Back To Black,single,back,0.11764705882352941
+Rocket In The Sky ,Back To Black,single,black,0.21052631578947367
+Rocket In The Sky ,Back To Black,single,back,0.11764705882352941
+Rocket In The Sky ,Back To Black,rocket,black,0.11764705882352941
+Rocket In The Sky ,Back To Black,rocket,back,0.26666666666666666
+Rocket In The Sky ,Back To Black,rocket,black,0.11764705882352941
+Rocket In The Sky ,Back To Black,rocket,back,0.26666666666666666
+Rocket In The Sky ,Know You Now,sky,know,0.13333333333333333
+Rocket In The Sky ,Know You Now,sky,frank,0.2857142857142857
+Rocket In The Sky ,Know You Now,rocket,know,0.11764705882352941
+Rocket In The Sky ,Know You Now,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Know You Now,sky,know,0.13333333333333333
+Rocket In The Sky ,Know You Now,sky,frank,0.2857142857142857
+Rocket In The Sky ,Know You Now,single,know,0.3157894736842105
+Rocket In The Sky ,Know You Now,single,frank,0.1111111111111111
+Rocket In The Sky ,Know You Now,rocket,know,0.11764705882352941
+Rocket In The Sky ,Know You Now,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Amy Amy Amy / Outro,sky,frank,0.2857142857142857
+Rocket In The Sky ,Amy Amy Amy / Outro,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Amy Amy Amy / Outro,sky,frank,0.2857142857142857
+Rocket In The Sky ,Amy Amy Amy / Outro,single,frank,0.1111111111111111
+Rocket In The Sky ,Amy Amy Amy / Outro,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Wake Up Alone,sky,wake,0.3076923076923077
+Rocket In The Sky ,Wake Up Alone,sky,alone,0
+Rocket In The Sky ,Wake Up Alone,sky,frank,0.2857142857142857
+Rocket In The Sky ,Wake Up Alone,sky,black,0.13333333333333333
+Rocket In The Sky ,Wake Up Alone,sky,back,0.3076923076923077
+Rocket In The Sky ,Wake Up Alone,rocket,wake,0.26666666666666666
+Rocket In The Sky ,Wake Up Alone,rocket,alone,0
+Rocket In The Sky ,Wake Up Alone,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Wake Up Alone,rocket,black,0.11764705882352941
+Rocket In The Sky ,Wake Up Alone,rocket,back,0.26666666666666666
+Rocket In The Sky ,Wake Up Alone,sky,wake,0.3076923076923077
+Rocket In The Sky ,Wake Up Alone,sky,alone,0
+Rocket In The Sky ,Wake Up Alone,sky,frank,0.2857142857142857
+Rocket In The Sky ,Wake Up Alone,sky,black,0.13333333333333333
+Rocket In The Sky ,Wake Up Alone,sky,back,0.3076923076923077
+Rocket In The Sky ,Wake Up Alone,single,wake,0.11764705882352941
+Rocket In The Sky ,Wake Up Alone,single,alone,0
+Rocket In The Sky ,Wake Up Alone,single,frank,0.1111111111111111
+Rocket In The Sky ,Wake Up Alone,single,black,0.21052631578947367
+Rocket In The Sky ,Wake Up Alone,single,back,0.11764705882352941
+Rocket In The Sky ,Wake Up Alone,rocket,wake,0.26666666666666666
+Rocket In The Sky ,Wake Up Alone,rocket,alone,0
+Rocket In The Sky ,Wake Up Alone,rocket,frank,0.42105263157894735
+Rocket In The Sky ,Wake Up Alone,rocket,black,0.11764705882352941
+Rocket In The Sky ,Wake Up Alone,rocket,back,0.26666666666666666
+Rocket In The Sky ,Just Friends,sky,friends,0.3333333333333333
+Rocket In The Sky ,Just Friends,sky,black,0.13333333333333333
+Rocket In The Sky ,Just Friends,sky,back,0.3076923076923077
+Rocket In The Sky ,Just Friends,rocket,friends,0.47058823529411764
+Rocket In The Sky ,Just Friends,rocket,black,0.11764705882352941
+Rocket In The Sky ,Just Friends,rocket,back,0.26666666666666666
+Rocket In The Sky ,Just Friends,sky,friends,0.3333333333333333
+Rocket In The Sky ,Just Friends,sky,black,0.13333333333333333
+Rocket In The Sky ,Just Friends,sky,back,0.3076923076923077
+Rocket In The Sky ,Just Friends,single,friends,0.125
+Rocket In The Sky ,Just Friends,single,black,0.21052631578947367
+Rocket In The Sky ,Just Friends,single,back,0.11764705882352941
+Rocket In The Sky ,Just Friends,rocket,friends,0.47058823529411764
+Rocket In The Sky ,Just Friends,rocket,black,0.11764705882352941
+Rocket In The Sky ,Just Friends,rocket,back,0.26666666666666666
+Rocket In The Sky ,He Can Only Hold Her,sky,hold,0.125
+Rocket In The Sky ,He Can Only Hold Her,sky,black,0.13333333333333333
+Rocket In The Sky ,He Can Only Hold Her,sky,back,0.3076923076923077
+Rocket In The Sky ,He Can Only Hold Her,rocket,hold,0.1111111111111111
+Rocket In The Sky ,He Can Only Hold Her,rocket,black,0.11764705882352941
+Rocket In The Sky ,He Can Only Hold Her,rocket,back,0.26666666666666666
+Rocket In The Sky ,He Can Only Hold Her,sky,hold,0.125
+Rocket In The Sky ,He Can Only Hold Her,sky,black,0.13333333333333333
+Rocket In The Sky ,He Can Only Hold Her,sky,back,0.3076923076923077
+Rocket In The Sky ,He Can Only Hold Her,single,hold,0.5
+Rocket In The Sky ,He Can Only Hold Her,single,black,0.21052631578947367
+Rocket In The Sky ,He Can Only Hold Her,single,back,0.11764705882352941
+Rocket In The Sky ,He Can Only Hold Her,rocket,hold,0.1111111111111111
+Rocket In The Sky ,He Can Only Hold Her,rocket,black,0.11764705882352941
+Rocket In The Sky ,He Can Only Hold Her,rocket,back,0.26666666666666666
+Lola's Theme (Main Mix),Help Yourself,main,help,0.16666666666666666
+Lola's Theme (Main Mix),Help Yourself,main,frank,0.3333333333333333
+Lola's Theme (Main Mix),Help Yourself,mix,help,0.13333333333333333
+Lola's Theme (Main Mix),Help Yourself,mix,frank,0.26666666666666666
+Lola's Theme (Main Mix),Help Yourself,theme,help,0.3333333333333333
+Lola's Theme (Main Mix),Help Yourself,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Help Yourself,theme,help,0.3333333333333333
+Lola's Theme (Main Mix),Help Yourself,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Some Unholy War,main,unholy,0
+Lola's Theme (Main Mix),Some Unholy War,main,war,0.16666666666666666
+Lola's Theme (Main Mix),Some Unholy War,main,frank,0.3333333333333333
+Lola's Theme (Main Mix),Some Unholy War,main,black,0.15384615384615385
+Lola's Theme (Main Mix),Some Unholy War,main,back,0.5454545454545454
+Lola's Theme (Main Mix),Some Unholy War,mix,unholy,0
+Lola's Theme (Main Mix),Some Unholy War,mix,war,0.13333333333333333
+Lola's Theme (Main Mix),Some Unholy War,mix,frank,0.26666666666666666
+Lola's Theme (Main Mix),Some Unholy War,mix,black,0.125
+Lola's Theme (Main Mix),Some Unholy War,mix,back,0.2857142857142857
+Lola's Theme (Main Mix),Some Unholy War,theme,unholy,0
+Lola's Theme (Main Mix),Some Unholy War,theme,war,0.3333333333333333
+Lola's Theme (Main Mix),Some Unholy War,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Some Unholy War,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Some Unholy War,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Some Unholy War,theme,unholy,0
+Lola's Theme (Main Mix),Some Unholy War,theme,war,0.3333333333333333
+Lola's Theme (Main Mix),Some Unholy War,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Some Unholy War,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Some Unholy War,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Stronger Than Me,main,stronger,0
+Lola's Theme (Main Mix),Stronger Than Me,main,rarities,0.14285714285714285
+Lola's Theme (Main Mix),Stronger Than Me,main,edition,0.25
+Lola's Theme (Main Mix),Stronger Than Me,main,frank,0.3333333333333333
+Lola's Theme (Main Mix),Stronger Than Me,mix,stronger,0
+Lola's Theme (Main Mix),Stronger Than Me,mix,rarities,0.11764705882352941
+Lola's Theme (Main Mix),Stronger Than Me,mix,edition,0.21052631578947367
+Lola's Theme (Main Mix),Stronger Than Me,mix,frank,0.26666666666666666
+Lola's Theme (Main Mix),Stronger Than Me,theme,stronger,0
+Lola's Theme (Main Mix),Stronger Than Me,theme,rarities,0.2857142857142857
+Lola's Theme (Main Mix),Stronger Than Me,theme,edition,0.125
+Lola's Theme (Main Mix),Stronger Than Me,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Stronger Than Me,theme,stronger,0
+Lola's Theme (Main Mix),Stronger Than Me,theme,rarities,0.2857142857142857
+Lola's Theme (Main Mix),Stronger Than Me,theme,edition,0.125
+Lola's Theme (Main Mix),Stronger Than Me,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),You Know I'm No Good,main,know,0.15384615384615385
+Lola's Theme (Main Mix),You Know I'm No Good,main,good,0.16666666666666666
+Lola's Theme (Main Mix),You Know I'm No Good,main,version,0.15384615384615385
+Lola's Theme (Main Mix),You Know I'm No Good,main,know,0.15384615384615385
+Lola's Theme (Main Mix),You Know I'm No Good,main,good,0.16666666666666666
+Lola's Theme (Main Mix),You Know I'm No Good,mix,know,0.125
+Lola's Theme (Main Mix),You Know I'm No Good,mix,good,0.13333333333333333
+Lola's Theme (Main Mix),You Know I'm No Good,mix,version,0.125
+Lola's Theme (Main Mix),You Know I'm No Good,mix,know,0.125
+Lola's Theme (Main Mix),You Know I'm No Good,mix,good,0.13333333333333333
+Lola's Theme (Main Mix),You Know I'm No Good,theme,know,0.3076923076923077
+Lola's Theme (Main Mix),You Know I'm No Good,theme,good,0.3333333333333333
+Lola's Theme (Main Mix),You Know I'm No Good,theme,version,0.6153846153846154
+Lola's Theme (Main Mix),You Know I'm No Good,theme,know,0.3076923076923077
+Lola's Theme (Main Mix),You Know I'm No Good,theme,good,0.3333333333333333
+Lola's Theme (Main Mix),You Know I'm No Good,theme,know,0.3076923076923077
+Lola's Theme (Main Mix),You Know I'm No Good,theme,good,0.3333333333333333
+Lola's Theme (Main Mix),You Know I'm No Good,theme,version,0.6153846153846154
+Lola's Theme (Main Mix),You Know I'm No Good,theme,know,0.3076923076923077
+Lola's Theme (Main Mix),You Know I'm No Good,theme,good,0.3333333333333333
+Lola's Theme (Main Mix),I Heard Love Is Blind,main,heard,0
+Lola's Theme (Main Mix),I Heard Love Is Blind,main,love,0.16666666666666666
+Lola's Theme (Main Mix),I Heard Love Is Blind,main,blind,0.2
+Lola's Theme (Main Mix),I Heard Love Is Blind,main,frank,0.3333333333333333
+Lola's Theme (Main Mix),I Heard Love Is Blind,mix,heard,0
+Lola's Theme (Main Mix),I Heard Love Is Blind,mix,love,0.13333333333333333
+Lola's Theme (Main Mix),I Heard Love Is Blind,mix,blind,0.15384615384615385
+Lola's Theme (Main Mix),I Heard Love Is Blind,mix,frank,0.26666666666666666
+Lola's Theme (Main Mix),I Heard Love Is Blind,theme,heard,0
+Lola's Theme (Main Mix),I Heard Love Is Blind,theme,love,0.3333333333333333
+Lola's Theme (Main Mix),I Heard Love Is Blind,theme,blind,0.4
+Lola's Theme (Main Mix),I Heard Love Is Blind,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),I Heard Love Is Blind,theme,heard,0
+Lola's Theme (Main Mix),I Heard Love Is Blind,theme,love,0.3333333333333333
+Lola's Theme (Main Mix),I Heard Love Is Blind,theme,blind,0.4
+Lola's Theme (Main Mix),I Heard Love Is Blind,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),October Song,main,october,0.15384615384615385
+Lola's Theme (Main Mix),October Song,main,song,0.16666666666666666
+Lola's Theme (Main Mix),October Song,main,frank,0.3333333333333333
+Lola's Theme (Main Mix),October Song,main,black,0.15384615384615385
+Lola's Theme (Main Mix),October Song,main,back,0.5454545454545454
+Lola's Theme (Main Mix),October Song,mix,october,0.125
+Lola's Theme (Main Mix),October Song,mix,song,0.13333333333333333
+Lola's Theme (Main Mix),October Song,mix,frank,0.26666666666666666
+Lola's Theme (Main Mix),October Song,mix,black,0.125
+Lola's Theme (Main Mix),October Song,mix,back,0.2857142857142857
+Lola's Theme (Main Mix),October Song,theme,october,0.3076923076923077
+Lola's Theme (Main Mix),October Song,theme,song,0.5
+Lola's Theme (Main Mix),October Song,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),October Song,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),October Song,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),October Song,theme,october,0.3076923076923077
+Lola's Theme (Main Mix),October Song,theme,song,0.5
+Lola's Theme (Main Mix),October Song,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),October Song,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),October Song,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Back To Black,main,black,0.15384615384615385
+Lola's Theme (Main Mix),Back To Black,main,back,0.5454545454545454
+Lola's Theme (Main Mix),Back To Black,main,black,0.15384615384615385
+Lola's Theme (Main Mix),Back To Black,main,back,0.5454545454545454
+Lola's Theme (Main Mix),Back To Black,mix,black,0.125
+Lola's Theme (Main Mix),Back To Black,mix,back,0.2857142857142857
+Lola's Theme (Main Mix),Back To Black,mix,black,0.125
+Lola's Theme (Main Mix),Back To Black,mix,back,0.2857142857142857
+Lola's Theme (Main Mix),Back To Black,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Back To Black,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Back To Black,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Back To Black,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Back To Black,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Back To Black,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Back To Black,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Back To Black,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Know You Now,main,know,0.15384615384615385
+Lola's Theme (Main Mix),Know You Now,main,frank,0.3333333333333333
+Lola's Theme (Main Mix),Know You Now,mix,know,0.125
+Lola's Theme (Main Mix),Know You Now,mix,frank,0.26666666666666666
+Lola's Theme (Main Mix),Know You Now,theme,know,0.3076923076923077
+Lola's Theme (Main Mix),Know You Now,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Know You Now,theme,know,0.3076923076923077
+Lola's Theme (Main Mix),Know You Now,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Amy Amy Amy / Outro,main,frank,0.3333333333333333
+Lola's Theme (Main Mix),Amy Amy Amy / Outro,mix,frank,0.26666666666666666
+Lola's Theme (Main Mix),Amy Amy Amy / Outro,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Amy Amy Amy / Outro,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Wake Up Alone,main,wake,0.36363636363636365
+Lola's Theme (Main Mix),Wake Up Alone,main,alone,0
+Lola's Theme (Main Mix),Wake Up Alone,main,frank,0.3333333333333333
+Lola's Theme (Main Mix),Wake Up Alone,main,black,0.15384615384615385
+Lola's Theme (Main Mix),Wake Up Alone,main,back,0.5454545454545454
+Lola's Theme (Main Mix),Wake Up Alone,mix,wake,0.2857142857142857
+Lola's Theme (Main Mix),Wake Up Alone,mix,alone,0
+Lola's Theme (Main Mix),Wake Up Alone,mix,frank,0.26666666666666666
+Lola's Theme (Main Mix),Wake Up Alone,mix,black,0.125
+Lola's Theme (Main Mix),Wake Up Alone,mix,back,0.2857142857142857
+Lola's Theme (Main Mix),Wake Up Alone,theme,wake,0.18181818181818182
+Lola's Theme (Main Mix),Wake Up Alone,theme,alone,0
+Lola's Theme (Main Mix),Wake Up Alone,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Wake Up Alone,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Wake Up Alone,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Wake Up Alone,theme,wake,0.18181818181818182
+Lola's Theme (Main Mix),Wake Up Alone,theme,alone,0
+Lola's Theme (Main Mix),Wake Up Alone,theme,frank,0.16666666666666666
+Lola's Theme (Main Mix),Wake Up Alone,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Wake Up Alone,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Just Friends,main,friends,0.4
+Lola's Theme (Main Mix),Just Friends,main,black,0.15384615384615385
+Lola's Theme (Main Mix),Just Friends,main,back,0.5454545454545454
+Lola's Theme (Main Mix),Just Friends,mix,friends,0.3076923076923077
+Lola's Theme (Main Mix),Just Friends,mix,black,0.125
+Lola's Theme (Main Mix),Just Friends,mix,back,0.2857142857142857
+Lola's Theme (Main Mix),Just Friends,theme,friends,0.2
+Lola's Theme (Main Mix),Just Friends,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Just Friends,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),Just Friends,theme,friends,0.2
+Lola's Theme (Main Mix),Just Friends,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),Just Friends,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),He Can Only Hold Her,main,hold,0.14285714285714285
+Lola's Theme (Main Mix),He Can Only Hold Her,main,black,0.15384615384615385
+Lola's Theme (Main Mix),He Can Only Hold Her,main,back,0.5454545454545454
+Lola's Theme (Main Mix),He Can Only Hold Her,mix,hold,0.11764705882352941
+Lola's Theme (Main Mix),He Can Only Hold Her,mix,black,0.125
+Lola's Theme (Main Mix),He Can Only Hold Her,mix,back,0.2857142857142857
+Lola's Theme (Main Mix),He Can Only Hold Her,theme,hold,0.2857142857142857
+Lola's Theme (Main Mix),He Can Only Hold Her,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),He Can Only Hold Her,theme,back,0.18181818181818182
+Lola's Theme (Main Mix),He Can Only Hold Her,theme,hold,0.2857142857142857
+Lola's Theme (Main Mix),He Can Only Hold Her,theme,black,0.3076923076923077
+Lola's Theme (Main Mix),He Can Only Hold Her,theme,back,0.18181818181818182
+Loneliness,Help Yourself,loneliness,help,0.2857142857142857
+Loneliness,Help Yourself,loneliness,frank,0.14285714285714285
+Loneliness,Help Yourself,trance,help,0.2857142857142857
+Loneliness,Help Yourself,trance,frank,0.14285714285714285
+Loneliness,Help Yourself,anthems,help,0.26666666666666666
+Loneliness,Help Yourself,anthems,frank,0.13333333333333333
+Loneliness,Help Yourself,euphoria,help,0.25
+Loneliness,Help Yourself,euphoria,frank,0.125
+Loneliness,Help Yourself,decade,help,0.3076923076923077
+Loneliness,Help Yourself,decade,frank,0.15384615384615385
+Loneliness,Some Unholy War,loneliness,unholy,0
+Loneliness,Some Unholy War,loneliness,war,0.2857142857142857
+Loneliness,Some Unholy War,loneliness,frank,0.14285714285714285
+Loneliness,Some Unholy War,loneliness,black,0.4
+Loneliness,Some Unholy War,loneliness,back,0.15384615384615385
+Loneliness,Some Unholy War,trance,unholy,0
+Loneliness,Some Unholy War,trance,war,0.2857142857142857
+Loneliness,Some Unholy War,trance,frank,0.14285714285714285
+Loneliness,Some Unholy War,trance,black,0.4
+Loneliness,Some Unholy War,trance,back,0.15384615384615385
+Loneliness,Some Unholy War,anthems,unholy,0
+Loneliness,Some Unholy War,anthems,war,0.26666666666666666
+Loneliness,Some Unholy War,anthems,frank,0.13333333333333333
+Loneliness,Some Unholy War,anthems,black,0.25
+Loneliness,Some Unholy War,anthems,back,0.14285714285714285
+Loneliness,Some Unholy War,euphoria,unholy,0
+Loneliness,Some Unholy War,euphoria,war,0.25
+Loneliness,Some Unholy War,euphoria,frank,0.125
+Loneliness,Some Unholy War,euphoria,black,0.35294117647058826
+Loneliness,Some Unholy War,euphoria,back,0.13333333333333333
+Loneliness,Some Unholy War,decade,unholy,0
+Loneliness,Some Unholy War,decade,war,0.3076923076923077
+Loneliness,Some Unholy War,decade,frank,0.15384615384615385
+Loneliness,Some Unholy War,decade,black,0.2857142857142857
+Loneliness,Some Unholy War,decade,back,0.16666666666666666
+Loneliness,Stronger Than Me,loneliness,stronger,0
+Loneliness,Stronger Than Me,loneliness,rarities,0.375
+Loneliness,Stronger Than Me,loneliness,edition,0.1111111111111111
+Loneliness,Stronger Than Me,loneliness,frank,0.14285714285714285
+Loneliness,Stronger Than Me,trance,stronger,0
+Loneliness,Stronger Than Me,trance,rarities,0.375
+Loneliness,Stronger Than Me,trance,edition,0.1111111111111111
+Loneliness,Stronger Than Me,trance,frank,0.14285714285714285
+Loneliness,Stronger Than Me,anthems,stronger,0
+Loneliness,Stronger Than Me,anthems,rarities,0.23529411764705882
+Loneliness,Stronger Than Me,anthems,edition,0.10526315789473684
+Loneliness,Stronger Than Me,anthems,frank,0.13333333333333333
+Loneliness,Stronger Than Me,euphoria,stronger,0
+Loneliness,Stronger Than Me,euphoria,rarities,0.3333333333333333
+Loneliness,Stronger Than Me,euphoria,edition,0.1
+Loneliness,Stronger Than Me,euphoria,frank,0.125
+Loneliness,Stronger Than Me,decade,stronger,0
+Loneliness,Stronger Than Me,decade,rarities,0.26666666666666666
+Loneliness,Stronger Than Me,decade,edition,0.11764705882352941
+Loneliness,Stronger Than Me,decade,frank,0.15384615384615385
+Loneliness,You Know I'm No Good,loneliness,know,0.26666666666666666
+Loneliness,You Know I'm No Good,loneliness,good,0.42857142857142855
+Loneliness,You Know I'm No Good,loneliness,version,0.26666666666666666
+Loneliness,You Know I'm No Good,loneliness,know,0.26666666666666666
+Loneliness,You Know I'm No Good,loneliness,good,0.42857142857142855
+Loneliness,You Know I'm No Good,trance,know,0.26666666666666666
+Loneliness,You Know I'm No Good,trance,good,0.42857142857142855
+Loneliness,You Know I'm No Good,trance,version,0.26666666666666666
+Loneliness,You Know I'm No Good,trance,know,0.26666666666666666
+Loneliness,You Know I'm No Good,trance,good,0.42857142857142855
+Loneliness,You Know I'm No Good,anthems,know,0.25
+Loneliness,You Know I'm No Good,anthems,good,0.26666666666666666
+Loneliness,You Know I'm No Good,anthems,version,0.375
+Loneliness,You Know I'm No Good,anthems,know,0.25
+Loneliness,You Know I'm No Good,anthems,good,0.26666666666666666
+Loneliness,You Know I'm No Good,euphoria,know,0.23529411764705882
+Loneliness,You Know I'm No Good,euphoria,good,0.375
+Loneliness,You Know I'm No Good,euphoria,version,0.23529411764705882
+Loneliness,You Know I'm No Good,euphoria,know,0.23529411764705882
+Loneliness,You Know I'm No Good,euphoria,good,0.375
+Loneliness,You Know I'm No Good,decade,know,0.2857142857142857
+Loneliness,You Know I'm No Good,decade,good,0.3076923076923077
+Loneliness,You Know I'm No Good,decade,version,0.2857142857142857
+Loneliness,You Know I'm No Good,decade,know,0.2857142857142857
+Loneliness,You Know I'm No Good,decade,good,0.3076923076923077
+Loneliness,I Heard Love Is Blind,loneliness,heard,0
+Loneliness,I Heard Love Is Blind,loneliness,love,0.5714285714285714
+Loneliness,I Heard Love Is Blind,loneliness,blind,0.3333333333333333
+Loneliness,I Heard Love Is Blind,loneliness,frank,0.14285714285714285
+Loneliness,I Heard Love Is Blind,trance,heard,0
+Loneliness,I Heard Love Is Blind,trance,love,0.5714285714285714
+Loneliness,I Heard Love Is Blind,trance,blind,0.3333333333333333
+Loneliness,I Heard Love Is Blind,trance,frank,0.14285714285714285
+Loneliness,I Heard Love Is Blind,anthems,heard,0
+Loneliness,I Heard Love Is Blind,anthems,love,0.26666666666666666
+Loneliness,I Heard Love Is Blind,anthems,blind,0.3076923076923077
+Loneliness,I Heard Love Is Blind,anthems,frank,0.13333333333333333
+Loneliness,I Heard Love Is Blind,euphoria,heard,0
+Loneliness,I Heard Love Is Blind,euphoria,love,0.75
+Loneliness,I Heard Love Is Blind,euphoria,blind,0.2857142857142857
+Loneliness,I Heard Love Is Blind,euphoria,frank,0.125
+Loneliness,I Heard Love Is Blind,decade,heard,0
+Loneliness,I Heard Love Is Blind,decade,love,0.3076923076923077
+Loneliness,I Heard Love Is Blind,decade,blind,0.36363636363636365
+Loneliness,I Heard Love Is Blind,decade,frank,0.15384615384615385
+Loneliness,October Song,loneliness,october,0.26666666666666666
+Loneliness,October Song,loneliness,song,0.2857142857142857
+Loneliness,October Song,loneliness,frank,0.14285714285714285
+Loneliness,October Song,loneliness,black,0.4
+Loneliness,October Song,loneliness,back,0.15384615384615385
+Loneliness,October Song,trance,october,0.26666666666666666
+Loneliness,October Song,trance,song,0.2857142857142857
+Loneliness,October Song,trance,frank,0.14285714285714285
+Loneliness,October Song,trance,black,0.4
+Loneliness,October Song,trance,back,0.15384615384615385
+Loneliness,October Song,anthems,october,0.25
+Loneliness,October Song,anthems,song,0.9333333333333333
+Loneliness,October Song,anthems,frank,0.13333333333333333
+Loneliness,October Song,anthems,black,0.25
+Loneliness,October Song,anthems,back,0.14285714285714285
+Loneliness,October Song,euphoria,october,0.23529411764705882
+Loneliness,October Song,euphoria,song,0.25
+Loneliness,October Song,euphoria,frank,0.125
+Loneliness,October Song,euphoria,black,0.35294117647058826
+Loneliness,October Song,euphoria,back,0.13333333333333333
+Loneliness,October Song,decade,october,0.7142857142857143
+Loneliness,October Song,decade,song,0.3076923076923077
+Loneliness,October Song,decade,frank,0.15384615384615385
+Loneliness,October Song,decade,black,0.2857142857142857
+Loneliness,October Song,decade,back,0.16666666666666666
+Loneliness,Back To Black,loneliness,black,0.4
+Loneliness,Back To Black,loneliness,back,0.15384615384615385
+Loneliness,Back To Black,loneliness,black,0.4
+Loneliness,Back To Black,loneliness,back,0.15384615384615385
+Loneliness,Back To Black,trance,black,0.4
+Loneliness,Back To Black,trance,back,0.15384615384615385
+Loneliness,Back To Black,trance,black,0.4
+Loneliness,Back To Black,trance,back,0.15384615384615385
+Loneliness,Back To Black,anthems,black,0.25
+Loneliness,Back To Black,anthems,back,0.14285714285714285
+Loneliness,Back To Black,anthems,black,0.25
+Loneliness,Back To Black,anthems,back,0.14285714285714285
+Loneliness,Back To Black,euphoria,black,0.35294117647058826
+Loneliness,Back To Black,euphoria,back,0.13333333333333333
+Loneliness,Back To Black,euphoria,black,0.35294117647058826
+Loneliness,Back To Black,euphoria,back,0.13333333333333333
+Loneliness,Back To Black,decade,black,0.2857142857142857
+Loneliness,Back To Black,decade,back,0.16666666666666666
+Loneliness,Back To Black,decade,black,0.2857142857142857
+Loneliness,Back To Black,decade,back,0.16666666666666666
+Loneliness,Know You Now,loneliness,know,0.26666666666666666
+Loneliness,Know You Now,loneliness,frank,0.14285714285714285
+Loneliness,Know You Now,trance,know,0.26666666666666666
+Loneliness,Know You Now,trance,frank,0.14285714285714285
+Loneliness,Know You Now,anthems,know,0.25
+Loneliness,Know You Now,anthems,frank,0.13333333333333333
+Loneliness,Know You Now,euphoria,know,0.23529411764705882
+Loneliness,Know You Now,euphoria,frank,0.125
+Loneliness,Know You Now,decade,know,0.2857142857142857
+Loneliness,Know You Now,decade,frank,0.15384615384615385
+Loneliness,Amy Amy Amy / Outro,loneliness,frank,0.14285714285714285
+Loneliness,Amy Amy Amy / Outro,trance,frank,0.14285714285714285
+Loneliness,Amy Amy Amy / Outro,anthems,frank,0.13333333333333333
+Loneliness,Amy Amy Amy / Outro,euphoria,frank,0.125
+Loneliness,Amy Amy Amy / Outro,decade,frank,0.15384615384615385
+Loneliness,Wake Up Alone,loneliness,wake,0.15384615384615385
+Loneliness,Wake Up Alone,loneliness,alone,0
+Loneliness,Wake Up Alone,loneliness,frank,0.14285714285714285
+Loneliness,Wake Up Alone,loneliness,black,0.4
+Loneliness,Wake Up Alone,loneliness,back,0.15384615384615385
+Loneliness,Wake Up Alone,trance,wake,0.15384615384615385
+Loneliness,Wake Up Alone,trance,alone,0
+Loneliness,Wake Up Alone,trance,frank,0.14285714285714285
+Loneliness,Wake Up Alone,trance,black,0.4
+Loneliness,Wake Up Alone,trance,back,0.15384615384615385
+Loneliness,Wake Up Alone,anthems,wake,0.14285714285714285
+Loneliness,Wake Up Alone,anthems,alone,0
+Loneliness,Wake Up Alone,anthems,frank,0.13333333333333333
+Loneliness,Wake Up Alone,anthems,black,0.25
+Loneliness,Wake Up Alone,anthems,back,0.14285714285714285
+Loneliness,Wake Up Alone,euphoria,wake,0.13333333333333333
+Loneliness,Wake Up Alone,euphoria,alone,0
+Loneliness,Wake Up Alone,euphoria,frank,0.125
+Loneliness,Wake Up Alone,euphoria,black,0.35294117647058826
+Loneliness,Wake Up Alone,euphoria,back,0.13333333333333333
+Loneliness,Wake Up Alone,decade,wake,0.16666666666666666
+Loneliness,Wake Up Alone,decade,alone,0
+Loneliness,Wake Up Alone,decade,frank,0.15384615384615385
+Loneliness,Wake Up Alone,decade,black,0.2857142857142857
+Loneliness,Wake Up Alone,decade,back,0.16666666666666666
+Loneliness,Just Friends,loneliness,friends,0.16666666666666666
+Loneliness,Just Friends,loneliness,black,0.4
+Loneliness,Just Friends,loneliness,back,0.15384615384615385
+Loneliness,Just Friends,trance,friends,0.16666666666666666
+Loneliness,Just Friends,trance,black,0.4
+Loneliness,Just Friends,trance,back,0.15384615384615385
+Loneliness,Just Friends,anthems,friends,0.15384615384615385
+Loneliness,Just Friends,anthems,black,0.25
+Loneliness,Just Friends,anthems,back,0.14285714285714285
+Loneliness,Just Friends,euphoria,friends,0.14285714285714285
+Loneliness,Just Friends,euphoria,black,0.35294117647058826
+Loneliness,Just Friends,euphoria,back,0.13333333333333333
+Loneliness,Just Friends,decade,friends,0.18181818181818182
+Loneliness,Just Friends,decade,black,0.2857142857142857
+Loneliness,Just Friends,decade,back,0.16666666666666666
+Loneliness,He Can Only Hold Her,loneliness,hold,0.25
+Loneliness,He Can Only Hold Her,loneliness,black,0.4
+Loneliness,He Can Only Hold Her,loneliness,back,0.15384615384615385
+Loneliness,He Can Only Hold Her,trance,hold,0.25
+Loneliness,He Can Only Hold Her,trance,black,0.4
+Loneliness,He Can Only Hold Her,trance,back,0.15384615384615385
+Loneliness,He Can Only Hold Her,anthems,hold,0.23529411764705882
+Loneliness,He Can Only Hold Her,anthems,black,0.25
+Loneliness,He Can Only Hold Her,anthems,back,0.14285714285714285
+Loneliness,He Can Only Hold Her,euphoria,hold,0.2222222222222222
+Loneliness,He Can Only Hold Her,euphoria,black,0.35294117647058826
+Loneliness,He Can Only Hold Her,euphoria,back,0.13333333333333333
+Loneliness,He Can Only Hold Her,decade,hold,0.26666666666666666
+Loneliness,He Can Only Hold Her,decade,black,0.2857142857142857
+Loneliness,He Can Only Hold Her,decade,back,0.16666666666666666
+Need To Feel Loved,Help Yourself,feel,help,0.375
+Need To Feel Loved,Help Yourself,feel,frank,0.125
+Need To Feel Loved,Help Yourself,loved,help,0.2
+Need To Feel Loved,Help Yourself,loved,frank,0.18181818181818182
+Need To Feel Loved,Help Yourself,need,help,0.3076923076923077
+Need To Feel Loved,Help Yourself,need,frank,0.15384615384615385
+Need To Feel Loved,Help Yourself,pure,help,0
+Need To Feel Loved,Help Yourself,pure,frank,0
+Need To Feel Loved,Help Yourself,trance,help,0.2857142857142857
+Need To Feel Loved,Help Yourself,trance,frank,0.14285714285714285
+Need To Feel Loved,Help Yourself,anthems,help,0.26666666666666666
+Need To Feel Loved,Help Yourself,anthems,frank,0.13333333333333333
+Need To Feel Loved,Some Unholy War,feel,unholy,0
+Need To Feel Loved,Some Unholy War,feel,war,0.375
+Need To Feel Loved,Some Unholy War,feel,frank,0.125
+Need To Feel Loved,Some Unholy War,feel,black,0.23529411764705882
+Need To Feel Loved,Some Unholy War,feel,back,0.13333333333333333
+Need To Feel Loved,Some Unholy War,loved,unholy,0.5
+Need To Feel Loved,Some Unholy War,loved,war,0.2
+Need To Feel Loved,Some Unholy War,loved,frank,0.18181818181818182
+Need To Feel Loved,Some Unholy War,loved,black,0.18181818181818182
+Need To Feel Loved,Some Unholy War,loved,back,0.2222222222222222
+Need To Feel Loved,Some Unholy War,need,unholy,0
+Need To Feel Loved,Some Unholy War,need,war,0.3076923076923077
+Need To Feel Loved,Some Unholy War,need,frank,0.15384615384615385
+Need To Feel Loved,Some Unholy War,need,black,0.42857142857142855
+Need To Feel Loved,Some Unholy War,need,back,0.16666666666666666
+Need To Feel Loved,Some Unholy War,pure,unholy,0
+Need To Feel Loved,Some Unholy War,pure,war,0
+Need To Feel Loved,Some Unholy War,pure,frank,0
+Need To Feel Loved,Some Unholy War,pure,black,0
+Need To Feel Loved,Some Unholy War,pure,back,0
+Need To Feel Loved,Some Unholy War,trance,unholy,0
+Need To Feel Loved,Some Unholy War,trance,war,0.2857142857142857
+Need To Feel Loved,Some Unholy War,trance,frank,0.14285714285714285
+Need To Feel Loved,Some Unholy War,trance,black,0.4
+Need To Feel Loved,Some Unholy War,trance,back,0.15384615384615385
+Need To Feel Loved,Some Unholy War,anthems,unholy,0
+Need To Feel Loved,Some Unholy War,anthems,war,0.26666666666666666
+Need To Feel Loved,Some Unholy War,anthems,frank,0.13333333333333333
+Need To Feel Loved,Some Unholy War,anthems,black,0.25
+Need To Feel Loved,Some Unholy War,anthems,back,0.14285714285714285
+Need To Feel Loved,Stronger Than Me,feel,stronger,0
+Need To Feel Loved,Stronger Than Me,feel,rarities,0.2222222222222222
+Need To Feel Loved,Stronger Than Me,feel,edition,0.1
+Need To Feel Loved,Stronger Than Me,feel,frank,0.125
+Need To Feel Loved,Stronger Than Me,loved,stronger,0.5
+Need To Feel Loved,Stronger Than Me,loved,rarities,0.16666666666666666
+Need To Feel Loved,Stronger Than Me,loved,edition,0.14285714285714285
+Need To Feel Loved,Stronger Than Me,loved,frank,0.18181818181818182
+Need To Feel Loved,Stronger Than Me,need,stronger,0
+Need To Feel Loved,Stronger Than Me,need,rarities,0.4
+Need To Feel Loved,Stronger Than Me,need,edition,0.11764705882352941
+Need To Feel Loved,Stronger Than Me,need,frank,0.15384615384615385
+Need To Feel Loved,Stronger Than Me,pure,stronger,0
+Need To Feel Loved,Stronger Than Me,pure,rarities,0
+Need To Feel Loved,Stronger Than Me,pure,edition,0
+Need To Feel Loved,Stronger Than Me,pure,frank,0
+Need To Feel Loved,Stronger Than Me,trance,stronger,0
+Need To Feel Loved,Stronger Than Me,trance,rarities,0.375
+Need To Feel Loved,Stronger Than Me,trance,edition,0.1111111111111111
+Need To Feel Loved,Stronger Than Me,trance,frank,0.14285714285714285
+Need To Feel Loved,Stronger Than Me,anthems,stronger,0
+Need To Feel Loved,Stronger Than Me,anthems,rarities,0.23529411764705882
+Need To Feel Loved,Stronger Than Me,anthems,edition,0.10526315789473684
+Need To Feel Loved,Stronger Than Me,anthems,frank,0.13333333333333333
+Need To Feel Loved,You Know I'm No Good,feel,know,0.8235294117647058
+Need To Feel Loved,You Know I'm No Good,feel,good,0.25
+Need To Feel Loved,You Know I'm No Good,feel,version,0.23529411764705882
+Need To Feel Loved,You Know I'm No Good,feel,know,0.8235294117647058
+Need To Feel Loved,You Know I'm No Good,feel,good,0.25
+Need To Feel Loved,You Know I'm No Good,loved,know,0.18181818181818182
+Need To Feel Loved,You Know I'm No Good,loved,good,0.2
+Need To Feel Loved,You Know I'm No Good,loved,version,0.18181818181818182
+Need To Feel Loved,You Know I'm No Good,loved,know,0.18181818181818182
+Need To Feel Loved,You Know I'm No Good,loved,good,0.2
+Need To Feel Loved,You Know I'm No Good,need,know,0.2857142857142857
+Need To Feel Loved,You Know I'm No Good,need,good,0.46153846153846156
+Need To Feel Loved,You Know I'm No Good,need,version,0.2857142857142857
+Need To Feel Loved,You Know I'm No Good,need,know,0.2857142857142857
+Need To Feel Loved,You Know I'm No Good,need,good,0.46153846153846156
+Need To Feel Loved,You Know I'm No Good,pure,know,0
+Need To Feel Loved,You Know I'm No Good,pure,good,0
+Need To Feel Loved,You Know I'm No Good,pure,version,0
+Need To Feel Loved,You Know I'm No Good,pure,know,0
+Need To Feel Loved,You Know I'm No Good,pure,good,0
+Need To Feel Loved,You Know I'm No Good,trance,know,0.26666666666666666
+Need To Feel Loved,You Know I'm No Good,trance,good,0.42857142857142855
+Need To Feel Loved,You Know I'm No Good,trance,version,0.26666666666666666
+Need To Feel Loved,You Know I'm No Good,trance,know,0.26666666666666666
+Need To Feel Loved,You Know I'm No Good,trance,good,0.42857142857142855
+Need To Feel Loved,You Know I'm No Good,anthems,know,0.25
+Need To Feel Loved,You Know I'm No Good,anthems,good,0.26666666666666666
+Need To Feel Loved,You Know I'm No Good,anthems,version,0.375
+Need To Feel Loved,You Know I'm No Good,anthems,know,0.25
+Need To Feel Loved,You Know I'm No Good,anthems,good,0.26666666666666666
+Need To Feel Loved,I Heard Love Is Blind,feel,heard,0
+Need To Feel Loved,I Heard Love Is Blind,feel,love,0.25
+Need To Feel Loved,I Heard Love Is Blind,feel,blind,0.2857142857142857
+Need To Feel Loved,I Heard Love Is Blind,feel,frank,0.125
+Need To Feel Loved,I Heard Love Is Blind,loved,heard,0.4
+Need To Feel Loved,I Heard Love Is Blind,loved,love,0.2
+Need To Feel Loved,I Heard Love Is Blind,loved,blind,0.25
+Need To Feel Loved,I Heard Love Is Blind,loved,frank,0.18181818181818182
+Need To Feel Loved,I Heard Love Is Blind,need,heard,0
+Need To Feel Loved,I Heard Love Is Blind,need,love,0.6153846153846154
+Need To Feel Loved,I Heard Love Is Blind,need,blind,0.36363636363636365
+Need To Feel Loved,I Heard Love Is Blind,need,frank,0.15384615384615385
+Need To Feel Loved,I Heard Love Is Blind,pure,heard,0
+Need To Feel Loved,I Heard Love Is Blind,pure,love,0
+Need To Feel Loved,I Heard Love Is Blind,pure,blind,0
+Need To Feel Loved,I Heard Love Is Blind,pure,frank,0
+Need To Feel Loved,I Heard Love Is Blind,trance,heard,0
+Need To Feel Loved,I Heard Love Is Blind,trance,love,0.5714285714285714
+Need To Feel Loved,I Heard Love Is Blind,trance,blind,0.3333333333333333
+Need To Feel Loved,I Heard Love Is Blind,trance,frank,0.14285714285714285
+Need To Feel Loved,I Heard Love Is Blind,anthems,heard,0
+Need To Feel Loved,I Heard Love Is Blind,anthems,love,0.26666666666666666
+Need To Feel Loved,I Heard Love Is Blind,anthems,blind,0.3076923076923077
+Need To Feel Loved,I Heard Love Is Blind,anthems,frank,0.13333333333333333
+Need To Feel Loved,October Song,feel,october,0.23529411764705882
+Need To Feel Loved,October Song,feel,song,0.25
+Need To Feel Loved,October Song,feel,frank,0.125
+Need To Feel Loved,October Song,feel,black,0.23529411764705882
+Need To Feel Loved,October Song,feel,back,0.13333333333333333
+Need To Feel Loved,October Song,loved,october,0.18181818181818182
+Need To Feel Loved,October Song,loved,song,0.2
+Need To Feel Loved,October Song,loved,frank,0.18181818181818182
+Need To Feel Loved,October Song,loved,black,0.18181818181818182
+Need To Feel Loved,October Song,loved,back,0.2222222222222222
+Need To Feel Loved,October Song,need,october,0.2857142857142857
+Need To Feel Loved,October Song,need,song,0.3076923076923077
+Need To Feel Loved,October Song,need,frank,0.15384615384615385
+Need To Feel Loved,October Song,need,black,0.42857142857142855
+Need To Feel Loved,October Song,need,back,0.16666666666666666
+Need To Feel Loved,October Song,pure,october,0
+Need To Feel Loved,October Song,pure,song,0
+Need To Feel Loved,October Song,pure,frank,0
+Need To Feel Loved,October Song,pure,black,0
+Need To Feel Loved,October Song,pure,back,0
+Need To Feel Loved,October Song,trance,october,0.26666666666666666
+Need To Feel Loved,October Song,trance,song,0.2857142857142857
+Need To Feel Loved,October Song,trance,frank,0.14285714285714285
+Need To Feel Loved,October Song,trance,black,0.4
+Need To Feel Loved,October Song,trance,back,0.15384615384615385
+Need To Feel Loved,October Song,anthems,october,0.25
+Need To Feel Loved,October Song,anthems,song,0.9333333333333333
+Need To Feel Loved,October Song,anthems,frank,0.13333333333333333
+Need To Feel Loved,October Song,anthems,black,0.25
+Need To Feel Loved,October Song,anthems,back,0.14285714285714285
+Need To Feel Loved,Back To Black,feel,black,0.23529411764705882
+Need To Feel Loved,Back To Black,feel,back,0.13333333333333333
+Need To Feel Loved,Back To Black,feel,black,0.23529411764705882
+Need To Feel Loved,Back To Black,feel,back,0.13333333333333333
+Need To Feel Loved,Back To Black,loved,black,0.18181818181818182
+Need To Feel Loved,Back To Black,loved,back,0.2222222222222222
+Need To Feel Loved,Back To Black,loved,black,0.18181818181818182
+Need To Feel Loved,Back To Black,loved,back,0.2222222222222222
+Need To Feel Loved,Back To Black,need,black,0.42857142857142855
+Need To Feel Loved,Back To Black,need,back,0.16666666666666666
+Need To Feel Loved,Back To Black,need,black,0.42857142857142855
+Need To Feel Loved,Back To Black,need,back,0.16666666666666666
+Need To Feel Loved,Back To Black,pure,black,0
+Need To Feel Loved,Back To Black,pure,back,0
+Need To Feel Loved,Back To Black,pure,black,0
+Need To Feel Loved,Back To Black,pure,back,0
+Need To Feel Loved,Back To Black,trance,black,0.4
+Need To Feel Loved,Back To Black,trance,back,0.15384615384615385
+Need To Feel Loved,Back To Black,trance,black,0.4
+Need To Feel Loved,Back To Black,trance,back,0.15384615384615385
+Need To Feel Loved,Back To Black,anthems,black,0.25
+Need To Feel Loved,Back To Black,anthems,back,0.14285714285714285
+Need To Feel Loved,Back To Black,anthems,black,0.25
+Need To Feel Loved,Back To Black,anthems,back,0.14285714285714285
+Need To Feel Loved,Know You Now,feel,know,0.8235294117647058
+Need To Feel Loved,Know You Now,feel,frank,0.125
+Need To Feel Loved,Know You Now,loved,know,0.18181818181818182
+Need To Feel Loved,Know You Now,loved,frank,0.18181818181818182
+Need To Feel Loved,Know You Now,need,know,0.2857142857142857
+Need To Feel Loved,Know You Now,need,frank,0.15384615384615385
+Need To Feel Loved,Know You Now,pure,know,0
+Need To Feel Loved,Know You Now,pure,frank,0
+Need To Feel Loved,Know You Now,trance,know,0.26666666666666666
+Need To Feel Loved,Know You Now,trance,frank,0.14285714285714285
+Need To Feel Loved,Know You Now,anthems,know,0.25
+Need To Feel Loved,Know You Now,anthems,frank,0.13333333333333333
+Need To Feel Loved,Amy Amy Amy / Outro,feel,frank,0.125
+Need To Feel Loved,Amy Amy Amy / Outro,loved,frank,0.18181818181818182
+Need To Feel Loved,Amy Amy Amy / Outro,need,frank,0.15384615384615385
+Need To Feel Loved,Amy Amy Amy / Outro,pure,frank,0
+Need To Feel Loved,Amy Amy Amy / Outro,trance,frank,0.14285714285714285
+Need To Feel Loved,Amy Amy Amy / Outro,anthems,frank,0.13333333333333333
+Need To Feel Loved,Wake Up Alone,feel,wake,0.13333333333333333
+Need To Feel Loved,Wake Up Alone,feel,alone,0
+Need To Feel Loved,Wake Up Alone,feel,frank,0.125
+Need To Feel Loved,Wake Up Alone,feel,black,0.23529411764705882
+Need To Feel Loved,Wake Up Alone,feel,back,0.13333333333333333
+Need To Feel Loved,Wake Up Alone,loved,wake,0.2222222222222222
+Need To Feel Loved,Wake Up Alone,loved,alone,0.5
+Need To Feel Loved,Wake Up Alone,loved,frank,0.18181818181818182
+Need To Feel Loved,Wake Up Alone,loved,black,0.18181818181818182
+Need To Feel Loved,Wake Up Alone,loved,back,0.2222222222222222
+Need To Feel Loved,Wake Up Alone,need,wake,0.16666666666666666
+Need To Feel Loved,Wake Up Alone,need,alone,0
+Need To Feel Loved,Wake Up Alone,need,frank,0.15384615384615385
+Need To Feel Loved,Wake Up Alone,need,black,0.42857142857142855
+Need To Feel Loved,Wake Up Alone,need,back,0.16666666666666666
+Need To Feel Loved,Wake Up Alone,pure,wake,0
+Need To Feel Loved,Wake Up Alone,pure,alone,0
+Need To Feel Loved,Wake Up Alone,pure,frank,0
+Need To Feel Loved,Wake Up Alone,pure,black,0
+Need To Feel Loved,Wake Up Alone,pure,back,0
+Need To Feel Loved,Wake Up Alone,trance,wake,0.15384615384615385
+Need To Feel Loved,Wake Up Alone,trance,alone,0
+Need To Feel Loved,Wake Up Alone,trance,frank,0.14285714285714285
+Need To Feel Loved,Wake Up Alone,trance,black,0.4
+Need To Feel Loved,Wake Up Alone,trance,back,0.15384615384615385
+Need To Feel Loved,Wake Up Alone,anthems,wake,0.14285714285714285
+Need To Feel Loved,Wake Up Alone,anthems,alone,0
+Need To Feel Loved,Wake Up Alone,anthems,frank,0.13333333333333333
+Need To Feel Loved,Wake Up Alone,anthems,black,0.25
+Need To Feel Loved,Wake Up Alone,anthems,back,0.14285714285714285
+Need To Feel Loved,Just Friends,feel,friends,0.14285714285714285
+Need To Feel Loved,Just Friends,feel,black,0.23529411764705882
+Need To Feel Loved,Just Friends,feel,back,0.13333333333333333
+Need To Feel Loved,Just Friends,loved,friends,0.2222222222222222
+Need To Feel Loved,Just Friends,loved,black,0.18181818181818182
+Need To Feel Loved,Just Friends,loved,back,0.2222222222222222
+Need To Feel Loved,Just Friends,need,friends,0.18181818181818182
+Need To Feel Loved,Just Friends,need,black,0.42857142857142855
+Need To Feel Loved,Just Friends,need,back,0.16666666666666666
+Need To Feel Loved,Just Friends,pure,friends,0
+Need To Feel Loved,Just Friends,pure,black,0
+Need To Feel Loved,Just Friends,pure,back,0
+Need To Feel Loved,Just Friends,trance,friends,0.16666666666666666
+Need To Feel Loved,Just Friends,trance,black,0.4
+Need To Feel Loved,Just Friends,trance,back,0.15384615384615385
+Need To Feel Loved,Just Friends,anthems,friends,0.15384615384615385
+Need To Feel Loved,Just Friends,anthems,black,0.25
+Need To Feel Loved,Just Friends,anthems,back,0.14285714285714285
+Need To Feel Loved,He Can Only Hold Her,feel,hold,0.3333333333333333
+Need To Feel Loved,He Can Only Hold Her,feel,black,0.23529411764705882
+Need To Feel Loved,He Can Only Hold Her,feel,back,0.13333333333333333
+Need To Feel Loved,He Can Only Hold Her,loved,hold,0.16666666666666666
+Need To Feel Loved,He Can Only Hold Her,loved,black,0.18181818181818182
+Need To Feel Loved,He Can Only Hold Her,loved,back,0.2222222222222222
+Need To Feel Loved,He Can Only Hold Her,need,hold,0.26666666666666666
+Need To Feel Loved,He Can Only Hold Her,need,black,0.42857142857142855
+Need To Feel Loved,He Can Only Hold Her,need,back,0.16666666666666666
+Need To Feel Loved,He Can Only Hold Her,pure,hold,0
+Need To Feel Loved,He Can Only Hold Her,pure,black,0
+Need To Feel Loved,He Can Only Hold Her,pure,back,0
+Need To Feel Loved,He Can Only Hold Her,trance,hold,0.25
+Need To Feel Loved,He Can Only Hold Her,trance,black,0.4
+Need To Feel Loved,He Can Only Hold Her,trance,back,0.15384615384615385
+Need To Feel Loved,He Can Only Hold Her,anthems,hold,0.23529411764705882
+Need To Feel Loved,He Can Only Hold Her,anthems,black,0.25
+Need To Feel Loved,He Can Only Hold Her,anthems,back,0.14285714285714285
+Tell Me Why,Help Yourself,tell,help,0.14285714285714285
+Tell Me Why,Help Yourself,tell,frank,0.6
+Tell Me Why,Help Yourself,data,help,0.3333333333333333
+Tell Me Why,Help Yourself,data,frank,0.16666666666666666
+Tell Me Why,Help Yourself,records,help,0.3076923076923077
+Tell Me Why,Help Yourself,records,frank,0.15384615384615385
+Tell Me Why,Help Yourself,best,help,0.8
+Tell Me Why,Help Yourself,best,frank,0.13333333333333333
+Tell Me Why,Some Unholy War,tell,unholy,0
+Tell Me Why,Some Unholy War,tell,war,0.14285714285714285
+Tell Me Why,Some Unholy War,tell,frank,0.6
+Tell Me Why,Some Unholy War,tell,black,0.13333333333333333
+Tell Me Why,Some Unholy War,tell,back,0.3076923076923077
+Tell Me Why,Some Unholy War,data,unholy,0
+Tell Me Why,Some Unholy War,data,war,0.3333333333333333
+Tell Me Why,Some Unholy War,data,frank,0.16666666666666666
+Tell Me Why,Some Unholy War,data,black,0.3076923076923077
+Tell Me Why,Some Unholy War,data,back,0.18181818181818182
+Tell Me Why,Some Unholy War,records,unholy,0
+Tell Me Why,Some Unholy War,records,war,0.3076923076923077
+Tell Me Why,Some Unholy War,records,frank,0.15384615384615385
+Tell Me Why,Some Unholy War,records,black,0.2857142857142857
+Tell Me Why,Some Unholy War,records,back,0.16666666666666666
+Tell Me Why,Some Unholy War,best,unholy,0
+Tell Me Why,Some Unholy War,best,war,0.625
+Tell Me Why,Some Unholy War,best,frank,0.13333333333333333
+Tell Me Why,Some Unholy War,best,black,0.25
+Tell Me Why,Some Unholy War,best,back,0.14285714285714285
+Tell Me Why,Stronger Than Me,tell,stronger,0
+Tell Me Why,Stronger Than Me,tell,rarities,0.125
+Tell Me Why,Stronger Than Me,tell,edition,0.38095238095238093
+Tell Me Why,Stronger Than Me,tell,frank,0.6
+Tell Me Why,Stronger Than Me,data,stronger,0
+Tell Me Why,Stronger Than Me,data,rarities,0.2857142857142857
+Tell Me Why,Stronger Than Me,data,edition,0.125
+Tell Me Why,Stronger Than Me,data,frank,0.16666666666666666
+Tell Me Why,Stronger Than Me,records,stronger,0
+Tell Me Why,Stronger Than Me,records,rarities,0.26666666666666666
+Tell Me Why,Stronger Than Me,records,edition,0.11764705882352941
+Tell Me Why,Stronger Than Me,records,frank,0.15384615384615385
+Tell Me Why,Stronger Than Me,best,stronger,0
+Tell Me Why,Stronger Than Me,best,rarities,0.23529411764705882
+Tell Me Why,Stronger Than Me,best,edition,0.10526315789473684
+Tell Me Why,Stronger Than Me,best,frank,0.13333333333333333
+Tell Me Why,You Know I'm No Good,tell,know,0.13333333333333333
+Tell Me Why,You Know I'm No Good,tell,good,0.14285714285714285
+Tell Me Why,You Know I'm No Good,tell,version,0.13333333333333333
+Tell Me Why,You Know I'm No Good,tell,know,0.13333333333333333
+Tell Me Why,You Know I'm No Good,tell,good,0.14285714285714285
+Tell Me Why,You Know I'm No Good,data,know,0.3076923076923077
+Tell Me Why,You Know I'm No Good,data,good,0.3333333333333333
+Tell Me Why,You Know I'm No Good,data,version,0.3076923076923077
+Tell Me Why,You Know I'm No Good,data,know,0.3076923076923077
+Tell Me Why,You Know I'm No Good,data,good,0.3333333333333333
+Tell Me Why,You Know I'm No Good,records,know,0.2857142857142857
+Tell Me Why,You Know I'm No Good,records,good,0.3076923076923077
+Tell Me Why,You Know I'm No Good,records,version,0.42857142857142855
+Tell Me Why,You Know I'm No Good,records,know,0.2857142857142857
+Tell Me Why,You Know I'm No Good,records,good,0.3076923076923077
+Tell Me Why,You Know I'm No Good,best,know,0.375
+Tell Me Why,You Know I'm No Good,best,good,0.26666666666666666
+Tell Me Why,You Know I'm No Good,best,version,0.25
+Tell Me Why,You Know I'm No Good,best,know,0.375
+Tell Me Why,You Know I'm No Good,best,good,0.26666666666666666
+Tell Me Why,I Heard Love Is Blind,tell,heard,0
+Tell Me Why,I Heard Love Is Blind,tell,love,0.14285714285714285
+Tell Me Why,I Heard Love Is Blind,tell,blind,0.16666666666666666
+Tell Me Why,I Heard Love Is Blind,tell,frank,0.6
+Tell Me Why,I Heard Love Is Blind,data,heard,0
+Tell Me Why,I Heard Love Is Blind,data,love,0.3333333333333333
+Tell Me Why,I Heard Love Is Blind,data,blind,0.6
+Tell Me Why,I Heard Love Is Blind,data,frank,0.16666666666666666
+Tell Me Why,I Heard Love Is Blind,records,heard,0
+Tell Me Why,I Heard Love Is Blind,records,love,0.3076923076923077
+Tell Me Why,I Heard Love Is Blind,records,blind,0.36363636363636365
+Tell Me Why,I Heard Love Is Blind,records,frank,0.15384615384615385
+Tell Me Why,I Heard Love Is Blind,best,heard,0
+Tell Me Why,I Heard Love Is Blind,best,love,0.26666666666666666
+Tell Me Why,I Heard Love Is Blind,best,blind,0.3076923076923077
+Tell Me Why,I Heard Love Is Blind,best,frank,0.13333333333333333
+Tell Me Why,October Song,tell,october,0.13333333333333333
+Tell Me Why,October Song,tell,song,0.14285714285714285
+Tell Me Why,October Song,tell,frank,0.6
+Tell Me Why,October Song,tell,black,0.13333333333333333
+Tell Me Why,October Song,tell,back,0.3076923076923077
+Tell Me Why,October Song,data,october,0.3076923076923077
+Tell Me Why,October Song,data,song,0.3333333333333333
+Tell Me Why,October Song,data,frank,0.16666666666666666
+Tell Me Why,October Song,data,black,0.3076923076923077
+Tell Me Why,October Song,data,back,0.18181818181818182
+Tell Me Why,October Song,records,october,0.2857142857142857
+Tell Me Why,October Song,records,song,0.46153846153846156
+Tell Me Why,October Song,records,frank,0.15384615384615385
+Tell Me Why,October Song,records,black,0.2857142857142857
+Tell Me Why,October Song,records,back,0.16666666666666666
+Tell Me Why,October Song,best,october,0.25
+Tell Me Why,October Song,best,song,0.26666666666666666
+Tell Me Why,October Song,best,frank,0.13333333333333333
+Tell Me Why,October Song,best,black,0.25
+Tell Me Why,October Song,best,back,0.14285714285714285
+Tell Me Why,Back To Black,tell,black,0.13333333333333333
+Tell Me Why,Back To Black,tell,back,0.3076923076923077
+Tell Me Why,Back To Black,tell,black,0.13333333333333333
+Tell Me Why,Back To Black,tell,back,0.3076923076923077
+Tell Me Why,Back To Black,data,black,0.3076923076923077
+Tell Me Why,Back To Black,data,back,0.18181818181818182
+Tell Me Why,Back To Black,data,black,0.3076923076923077
+Tell Me Why,Back To Black,data,back,0.18181818181818182
+Tell Me Why,Back To Black,records,black,0.2857142857142857
+Tell Me Why,Back To Black,records,back,0.16666666666666666
+Tell Me Why,Back To Black,records,black,0.2857142857142857
+Tell Me Why,Back To Black,records,back,0.16666666666666666
+Tell Me Why,Back To Black,best,black,0.25
+Tell Me Why,Back To Black,best,back,0.14285714285714285
+Tell Me Why,Back To Black,best,black,0.25
+Tell Me Why,Back To Black,best,back,0.14285714285714285
+Tell Me Why,Know You Now,tell,know,0.13333333333333333
+Tell Me Why,Know You Now,tell,frank,0.6
+Tell Me Why,Know You Now,data,know,0.3076923076923077
+Tell Me Why,Know You Now,data,frank,0.16666666666666666
+Tell Me Why,Know You Now,records,know,0.2857142857142857
+Tell Me Why,Know You Now,records,frank,0.15384615384615385
+Tell Me Why,Know You Now,best,know,0.375
+Tell Me Why,Know You Now,best,frank,0.13333333333333333
+Tell Me Why,Amy Amy Amy / Outro,tell,frank,0.6
+Tell Me Why,Amy Amy Amy / Outro,data,frank,0.16666666666666666
+Tell Me Why,Amy Amy Amy / Outro,records,frank,0.15384615384615385
+Tell Me Why,Amy Amy Amy / Outro,best,frank,0.13333333333333333
+Tell Me Why,Wake Up Alone,tell,wake,0.3076923076923077
+Tell Me Why,Wake Up Alone,tell,alone,0
+Tell Me Why,Wake Up Alone,tell,frank,0.6
+Tell Me Why,Wake Up Alone,tell,black,0.13333333333333333
+Tell Me Why,Wake Up Alone,tell,back,0.3076923076923077
+Tell Me Why,Wake Up Alone,data,wake,0.18181818181818182
+Tell Me Why,Wake Up Alone,data,alone,0
+Tell Me Why,Wake Up Alone,data,frank,0.16666666666666666
+Tell Me Why,Wake Up Alone,data,black,0.3076923076923077
+Tell Me Why,Wake Up Alone,data,back,0.18181818181818182
+Tell Me Why,Wake Up Alone,records,wake,0.16666666666666666
+Tell Me Why,Wake Up Alone,records,alone,0
+Tell Me Why,Wake Up Alone,records,frank,0.15384615384615385
+Tell Me Why,Wake Up Alone,records,black,0.2857142857142857
+Tell Me Why,Wake Up Alone,records,back,0.16666666666666666
+Tell Me Why,Wake Up Alone,best,wake,0.14285714285714285
+Tell Me Why,Wake Up Alone,best,alone,0
+Tell Me Why,Wake Up Alone,best,frank,0.13333333333333333
+Tell Me Why,Wake Up Alone,best,black,0.25
+Tell Me Why,Wake Up Alone,best,back,0.14285714285714285
+Tell Me Why,Just Friends,tell,friends,0.6666666666666666
+Tell Me Why,Just Friends,tell,black,0.13333333333333333
+Tell Me Why,Just Friends,tell,back,0.3076923076923077
+Tell Me Why,Just Friends,data,friends,0.2
+Tell Me Why,Just Friends,data,black,0.3076923076923077
+Tell Me Why,Just Friends,data,back,0.18181818181818182
+Tell Me Why,Just Friends,records,friends,0.18181818181818182
+Tell Me Why,Just Friends,records,black,0.2857142857142857
+Tell Me Why,Just Friends,records,back,0.16666666666666666
+Tell Me Why,Just Friends,best,friends,0.15384615384615385
+Tell Me Why,Just Friends,best,black,0.25
+Tell Me Why,Just Friends,best,back,0.14285714285714285
+Tell Me Why,He Can Only Hold Her,tell,hold,0.125
+Tell Me Why,He Can Only Hold Her,tell,black,0.13333333333333333
+Tell Me Why,He Can Only Hold Her,tell,back,0.3076923076923077
+Tell Me Why,He Can Only Hold Her,data,hold,0.2857142857142857
+Tell Me Why,He Can Only Hold Her,data,black,0.3076923076923077
+Tell Me Why,He Can Only Hold Her,data,back,0.18181818181818182
+Tell Me Why,He Can Only Hold Her,records,hold,0.26666666666666666
+Tell Me Why,He Can Only Hold Her,records,black,0.2857142857142857
+Tell Me Why,He Can Only Hold Her,records,back,0.16666666666666666
+Tell Me Why,He Can Only Hold Her,best,hold,0.7058823529411765
+Tell Me Why,He Can Only Hold Her,best,black,0.25
+Tell Me Why,He Can Only Hold Her,best,back,0.14285714285714285
+Easy Love,Help Yourself,easy,help,0
+Easy Love,Help Yourself,easy,frank,0
+Easy Love,Help Yourself,love,help,0.2857142857142857
+Easy Love,Help Yourself,love,frank,0.14285714285714285
+Easy Love,Help Yourself,looks,help,0.2857142857142857
+Easy Love,Help Yourself,looks,frank,0.14285714285714285
+Easy Love,Some Unholy War,easy,unholy,0
+Easy Love,Some Unholy War,easy,war,0
+Easy Love,Some Unholy War,easy,frank,0
+Easy Love,Some Unholy War,easy,black,0
+Easy Love,Some Unholy War,easy,back,0
+Easy Love,Some Unholy War,love,unholy,0
+Easy Love,Some Unholy War,love,war,0.2857142857142857
+Easy Love,Some Unholy War,love,frank,0.14285714285714285
+Easy Love,Some Unholy War,love,black,0.4
+Easy Love,Some Unholy War,love,back,0.15384615384615385
+Easy Love,Some Unholy War,looks,unholy,0
+Easy Love,Some Unholy War,looks,war,0.2857142857142857
+Easy Love,Some Unholy War,looks,frank,0.14285714285714285
+Easy Love,Some Unholy War,looks,black,0.4
+Easy Love,Some Unholy War,looks,back,0.15384615384615385
+Easy Love,Stronger Than Me,easy,stronger,0
+Easy Love,Stronger Than Me,easy,rarities,0
+Easy Love,Stronger Than Me,easy,edition,0
+Easy Love,Stronger Than Me,easy,frank,0
+Easy Love,Stronger Than Me,love,stronger,0
+Easy Love,Stronger Than Me,love,rarities,0.375
+Easy Love,Stronger Than Me,love,edition,0.1111111111111111
+Easy Love,Stronger Than Me,love,frank,0.14285714285714285
+Easy Love,Stronger Than Me,looks,stronger,0
+Easy Love,Stronger Than Me,looks,rarities,0.375
+Easy Love,Stronger Than Me,looks,edition,0.1111111111111111
+Easy Love,Stronger Than Me,looks,frank,0.14285714285714285
+Easy Love,You Know I'm No Good,easy,know,0
+Easy Love,You Know I'm No Good,easy,good,0
+Easy Love,You Know I'm No Good,easy,version,0
+Easy Love,You Know I'm No Good,easy,know,0
+Easy Love,You Know I'm No Good,easy,good,0
+Easy Love,You Know I'm No Good,love,know,0.26666666666666666
+Easy Love,You Know I'm No Good,love,good,0.42857142857142855
+Easy Love,You Know I'm No Good,love,version,0.26666666666666666
+Easy Love,You Know I'm No Good,love,know,0.26666666666666666
+Easy Love,You Know I'm No Good,love,good,0.42857142857142855
+Easy Love,You Know I'm No Good,looks,know,0.26666666666666666
+Easy Love,You Know I'm No Good,looks,good,0.5714285714285714
+Easy Love,You Know I'm No Good,looks,version,0.26666666666666666
+Easy Love,You Know I'm No Good,looks,know,0.26666666666666666
+Easy Love,You Know I'm No Good,looks,good,0.5714285714285714
+Easy Love,I Heard Love Is Blind,easy,heard,0
+Easy Love,I Heard Love Is Blind,easy,love,0
+Easy Love,I Heard Love Is Blind,easy,blind,0
+Easy Love,I Heard Love Is Blind,easy,frank,0
+Easy Love,I Heard Love Is Blind,love,heard,0
+Easy Love,I Heard Love Is Blind,love,love,1.0
+Easy Love,I Heard Love Is Blind,love,blind,0.3333333333333333
+Easy Love,I Heard Love Is Blind,love,frank,0.14285714285714285
+Easy Love,I Heard Love Is Blind,looks,heard,0
+Easy Love,I Heard Love Is Blind,looks,love,0.42857142857142855
+Easy Love,I Heard Love Is Blind,looks,blind,0.3333333333333333
+Easy Love,I Heard Love Is Blind,looks,frank,0.14285714285714285
+Easy Love,October Song,easy,october,0
+Easy Love,October Song,easy,song,0
+Easy Love,October Song,easy,frank,0
+Easy Love,October Song,easy,black,0
+Easy Love,October Song,easy,back,0
+Easy Love,October Song,love,october,0.26666666666666666
+Easy Love,October Song,love,song,0.2857142857142857
+Easy Love,October Song,love,frank,0.14285714285714285
+Easy Love,October Song,love,black,0.4
+Easy Love,October Song,love,back,0.15384615384615385
+Easy Love,October Song,looks,october,0.26666666666666666
+Easy Love,October Song,looks,song,0.2857142857142857
+Easy Love,October Song,looks,frank,0.14285714285714285
+Easy Love,October Song,looks,black,0.4
+Easy Love,October Song,looks,back,0.15384615384615385
+Easy Love,Back To Black,easy,black,0
+Easy Love,Back To Black,easy,back,0
+Easy Love,Back To Black,easy,black,0
+Easy Love,Back To Black,easy,back,0
+Easy Love,Back To Black,love,black,0.4
+Easy Love,Back To Black,love,back,0.15384615384615385
+Easy Love,Back To Black,love,black,0.4
+Easy Love,Back To Black,love,back,0.15384615384615385
+Easy Love,Back To Black,looks,black,0.4
+Easy Love,Back To Black,looks,back,0.15384615384615385
+Easy Love,Back To Black,looks,black,0.4
+Easy Love,Back To Black,looks,back,0.15384615384615385
+Easy Love,Know You Now,easy,know,0
+Easy Love,Know You Now,easy,frank,0
+Easy Love,Know You Now,love,know,0.26666666666666666
+Easy Love,Know You Now,love,frank,0.14285714285714285
+Easy Love,Know You Now,looks,know,0.26666666666666666
+Easy Love,Know You Now,looks,frank,0.14285714285714285
+Easy Love,Amy Amy Amy / Outro,easy,frank,0
+Easy Love,Amy Amy Amy / Outro,love,frank,0.14285714285714285
+Easy Love,Amy Amy Amy / Outro,looks,frank,0.14285714285714285
+Easy Love,Wake Up Alone,easy,wake,0
+Easy Love,Wake Up Alone,easy,alone,0
+Easy Love,Wake Up Alone,easy,frank,0
+Easy Love,Wake Up Alone,easy,black,0
+Easy Love,Wake Up Alone,easy,back,0
+Easy Love,Wake Up Alone,love,wake,0.15384615384615385
+Easy Love,Wake Up Alone,love,alone,0
+Easy Love,Wake Up Alone,love,frank,0.14285714285714285
+Easy Love,Wake Up Alone,love,black,0.4
+Easy Love,Wake Up Alone,love,back,0.15384615384615385
+Easy Love,Wake Up Alone,looks,wake,0.15384615384615385
+Easy Love,Wake Up Alone,looks,alone,0
+Easy Love,Wake Up Alone,looks,frank,0.14285714285714285
+Easy Love,Wake Up Alone,looks,black,0.4
+Easy Love,Wake Up Alone,looks,back,0.15384615384615385
+Easy Love,Just Friends,easy,friends,0
+Easy Love,Just Friends,easy,black,0
+Easy Love,Just Friends,easy,back,0
+Easy Love,Just Friends,love,friends,0.16666666666666666
+Easy Love,Just Friends,love,black,0.4
+Easy Love,Just Friends,love,back,0.15384615384615385
+Easy Love,Just Friends,looks,friends,0.16666666666666666
+Easy Love,Just Friends,looks,black,0.4
+Easy Love,Just Friends,looks,back,0.15384615384615385
+Easy Love,He Can Only Hold Her,easy,hold,0
+Easy Love,He Can Only Hold Her,easy,black,0
+Easy Love,He Can Only Hold Her,easy,back,0
+Easy Love,He Can Only Hold Her,love,hold,0.25
+Easy Love,He Can Only Hold Her,love,black,0.4
+Easy Love,He Can Only Hold Her,love,back,0.15384615384615385
+Easy Love,He Can Only Hold Her,looks,hold,0.25
+Easy Love,He Can Only Hold Her,looks,black,0.4
+Easy Love,He Can Only Hold Her,looks,back,0.15384615384615385
+Bulletproof,Help Yourself,bulletproof,help,0.15384615384615385
+Bulletproof,Help Yourself,bulletproof,frank,0.14285714285714285
+Bulletproof,Help Yourself,bulletproof,help,0.15384615384615385
+Bulletproof,Help Yourself,bulletproof,frank,0.14285714285714285
+Bulletproof,Some Unholy War,bulletproof,unholy,0.2857142857142857
+Bulletproof,Some Unholy War,bulletproof,war,0.15384615384615385
+Bulletproof,Some Unholy War,bulletproof,frank,0.14285714285714285
+Bulletproof,Some Unholy War,bulletproof,black,0.14285714285714285
+Bulletproof,Some Unholy War,bulletproof,back,0.16666666666666666
+Bulletproof,Some Unholy War,bulletproof,unholy,0.2857142857142857
+Bulletproof,Some Unholy War,bulletproof,war,0.15384615384615385
+Bulletproof,Some Unholy War,bulletproof,frank,0.14285714285714285
+Bulletproof,Some Unholy War,bulletproof,black,0.14285714285714285
+Bulletproof,Some Unholy War,bulletproof,back,0.16666666666666666
+Bulletproof,Stronger Than Me,bulletproof,stronger,0.2857142857142857
+Bulletproof,Stronger Than Me,bulletproof,rarities,0.13333333333333333
+Bulletproof,Stronger Than Me,bulletproof,edition,0.11764705882352941
+Bulletproof,Stronger Than Me,bulletproof,frank,0.14285714285714285
+Bulletproof,Stronger Than Me,bulletproof,stronger,0.2857142857142857
+Bulletproof,Stronger Than Me,bulletproof,rarities,0.13333333333333333
+Bulletproof,Stronger Than Me,bulletproof,edition,0.11764705882352941
+Bulletproof,Stronger Than Me,bulletproof,frank,0.14285714285714285
+Bulletproof,You Know I'm No Good,bulletproof,know,0.14285714285714285
+Bulletproof,You Know I'm No Good,bulletproof,good,0.15384615384615385
+Bulletproof,You Know I'm No Good,bulletproof,version,0.14285714285714285
+Bulletproof,You Know I'm No Good,bulletproof,know,0.14285714285714285
+Bulletproof,You Know I'm No Good,bulletproof,good,0.15384615384615385
+Bulletproof,You Know I'm No Good,bulletproof,know,0.14285714285714285
+Bulletproof,You Know I'm No Good,bulletproof,good,0.15384615384615385
+Bulletproof,You Know I'm No Good,bulletproof,version,0.14285714285714285
+Bulletproof,You Know I'm No Good,bulletproof,know,0.14285714285714285
+Bulletproof,You Know I'm No Good,bulletproof,good,0.15384615384615385
+Bulletproof,I Heard Love Is Blind,bulletproof,heard,0.25
+Bulletproof,I Heard Love Is Blind,bulletproof,love,0.15384615384615385
+Bulletproof,I Heard Love Is Blind,bulletproof,blind,0.18181818181818182
+Bulletproof,I Heard Love Is Blind,bulletproof,frank,0.14285714285714285
+Bulletproof,I Heard Love Is Blind,bulletproof,heard,0.25
+Bulletproof,I Heard Love Is Blind,bulletproof,love,0.15384615384615385
+Bulletproof,I Heard Love Is Blind,bulletproof,blind,0.18181818181818182
+Bulletproof,I Heard Love Is Blind,bulletproof,frank,0.14285714285714285
+Bulletproof,October Song,bulletproof,october,0.14285714285714285
+Bulletproof,October Song,bulletproof,song,0.15384615384615385
+Bulletproof,October Song,bulletproof,frank,0.14285714285714285
+Bulletproof,October Song,bulletproof,black,0.14285714285714285
+Bulletproof,October Song,bulletproof,back,0.16666666666666666
+Bulletproof,October Song,bulletproof,october,0.14285714285714285
+Bulletproof,October Song,bulletproof,song,0.15384615384615385
+Bulletproof,October Song,bulletproof,frank,0.14285714285714285
+Bulletproof,October Song,bulletproof,black,0.14285714285714285
+Bulletproof,October Song,bulletproof,back,0.16666666666666666
+Bulletproof,Back To Black,bulletproof,black,0.14285714285714285
+Bulletproof,Back To Black,bulletproof,back,0.16666666666666666
+Bulletproof,Back To Black,bulletproof,black,0.14285714285714285
+Bulletproof,Back To Black,bulletproof,back,0.16666666666666666
+Bulletproof,Back To Black,bulletproof,black,0.14285714285714285
+Bulletproof,Back To Black,bulletproof,back,0.16666666666666666
+Bulletproof,Back To Black,bulletproof,black,0.14285714285714285
+Bulletproof,Back To Black,bulletproof,back,0.16666666666666666
+Bulletproof,Know You Now,bulletproof,know,0.14285714285714285
+Bulletproof,Know You Now,bulletproof,frank,0.14285714285714285
+Bulletproof,Know You Now,bulletproof,know,0.14285714285714285
+Bulletproof,Know You Now,bulletproof,frank,0.14285714285714285
+Bulletproof,Amy Amy Amy / Outro,bulletproof,frank,0.14285714285714285
+Bulletproof,Amy Amy Amy / Outro,bulletproof,frank,0.14285714285714285
+Bulletproof,Wake Up Alone,bulletproof,wake,0.16666666666666666
+Bulletproof,Wake Up Alone,bulletproof,alone,0.2857142857142857
+Bulletproof,Wake Up Alone,bulletproof,frank,0.14285714285714285
+Bulletproof,Wake Up Alone,bulletproof,black,0.14285714285714285
+Bulletproof,Wake Up Alone,bulletproof,back,0.16666666666666666
+Bulletproof,Wake Up Alone,bulletproof,wake,0.16666666666666666
+Bulletproof,Wake Up Alone,bulletproof,alone,0.2857142857142857
+Bulletproof,Wake Up Alone,bulletproof,frank,0.14285714285714285
+Bulletproof,Wake Up Alone,bulletproof,black,0.14285714285714285
+Bulletproof,Wake Up Alone,bulletproof,back,0.16666666666666666
+Bulletproof,Just Friends,bulletproof,friends,0.16666666666666666
+Bulletproof,Just Friends,bulletproof,black,0.14285714285714285
+Bulletproof,Just Friends,bulletproof,back,0.16666666666666666
+Bulletproof,Just Friends,bulletproof,friends,0.16666666666666666
+Bulletproof,Just Friends,bulletproof,black,0.14285714285714285
+Bulletproof,Just Friends,bulletproof,back,0.16666666666666666
+Bulletproof,He Can Only Hold Her,bulletproof,hold,0.13333333333333333
+Bulletproof,He Can Only Hold Her,bulletproof,black,0.14285714285714285
+Bulletproof,He Can Only Hold Her,bulletproof,back,0.16666666666666666
+Bulletproof,He Can Only Hold Her,bulletproof,hold,0.13333333333333333
+Bulletproof,He Can Only Hold Her,bulletproof,black,0.14285714285714285
+Bulletproof,He Can Only Hold Her,bulletproof,back,0.16666666666666666
+Better Day,Help Yourself,better,help,0.3076923076923077
+Better Day,Help Yourself,better,frank,0.15384615384615385
+Better Day,Help Yourself,day,help,0.3333333333333333
+Better Day,Help Yourself,day,frank,0.16666666666666666
+Better Day,Help Yourself,gu,help,0.15384615384615385
+Better Day,Help Yourself,gu,frank,0.4
+Better Day,Help Yourself,mixed,help,0.16666666666666666
+Better Day,Help Yourself,mixed,frank,0.15384615384615385
+Better Day,Some Unholy War,better,unholy,0
+Better Day,Some Unholy War,better,war,0.3076923076923077
+Better Day,Some Unholy War,better,frank,0.15384615384615385
+Better Day,Some Unholy War,better,black,0.42857142857142855
+Better Day,Some Unholy War,better,back,0.16666666666666666
+Better Day,Some Unholy War,day,unholy,0
+Better Day,Some Unholy War,day,war,0.3333333333333333
+Better Day,Some Unholy War,day,frank,0.16666666666666666
+Better Day,Some Unholy War,day,black,0.3076923076923077
+Better Day,Some Unholy War,day,back,0.18181818181818182
+Better Day,Some Unholy War,gu,unholy,0
+Better Day,Some Unholy War,gu,war,0.15384615384615385
+Better Day,Some Unholy War,gu,frank,0.4
+Better Day,Some Unholy War,gu,black,0.14285714285714285
+Better Day,Some Unholy War,gu,back,0.3333333333333333
+Better Day,Some Unholy War,mixed,unholy,0.3333333333333333
+Better Day,Some Unholy War,mixed,war,0.16666666666666666
+Better Day,Some Unholy War,mixed,frank,0.15384615384615385
+Better Day,Some Unholy War,mixed,black,0.15384615384615385
+Better Day,Some Unholy War,mixed,back,0.18181818181818182
+Better Day,Stronger Than Me,better,stronger,0
+Better Day,Stronger Than Me,better,rarities,0.4
+Better Day,Stronger Than Me,better,edition,0.11764705882352941
+Better Day,Stronger Than Me,better,frank,0.15384615384615385
+Better Day,Stronger Than Me,day,stronger,0
+Better Day,Stronger Than Me,day,rarities,0.2857142857142857
+Better Day,Stronger Than Me,day,edition,0.125
+Better Day,Stronger Than Me,day,frank,0.16666666666666666
+Better Day,Stronger Than Me,gu,stronger,0
+Better Day,Stronger Than Me,gu,rarities,0.13333333333333333
+Better Day,Stronger Than Me,gu,edition,0.35294117647058826
+Better Day,Stronger Than Me,gu,frank,0.4
+Better Day,Stronger Than Me,mixed,stronger,0.3333333333333333
+Better Day,Stronger Than Me,mixed,rarities,0.14285714285714285
+Better Day,Stronger Than Me,mixed,edition,0.125
+Better Day,Stronger Than Me,mixed,frank,0.15384615384615385
+Better Day,You Know I'm No Good,better,know,0.2857142857142857
+Better Day,You Know I'm No Good,better,good,0.6153846153846154
+Better Day,You Know I'm No Good,better,version,0.2857142857142857
+Better Day,You Know I'm No Good,better,know,0.2857142857142857
+Better Day,You Know I'm No Good,better,good,0.6153846153846154
+Better Day,You Know I'm No Good,day,know,0.3076923076923077
+Better Day,You Know I'm No Good,day,good,0.3333333333333333
+Better Day,You Know I'm No Good,day,version,0.3076923076923077
+Better Day,You Know I'm No Good,day,know,0.3076923076923077
+Better Day,You Know I'm No Good,day,good,0.3333333333333333
+Better Day,You Know I'm No Good,gu,know,0.14285714285714285
+Better Day,You Know I'm No Good,gu,good,0.15384615384615385
+Better Day,You Know I'm No Good,gu,version,0.14285714285714285
+Better Day,You Know I'm No Good,gu,know,0.14285714285714285
+Better Day,You Know I'm No Good,gu,good,0.15384615384615385
+Better Day,You Know I'm No Good,mixed,know,0.15384615384615385
+Better Day,You Know I'm No Good,mixed,good,0.16666666666666666
+Better Day,You Know I'm No Good,mixed,version,0.15384615384615385
+Better Day,You Know I'm No Good,mixed,know,0.15384615384615385
+Better Day,You Know I'm No Good,mixed,good,0.16666666666666666
+Better Day,I Heard Love Is Blind,better,heard,0
+Better Day,I Heard Love Is Blind,better,love,0.46153846153846156
+Better Day,I Heard Love Is Blind,better,blind,0.36363636363636365
+Better Day,I Heard Love Is Blind,better,frank,0.15384615384615385
+Better Day,I Heard Love Is Blind,day,heard,0
+Better Day,I Heard Love Is Blind,day,love,0.3333333333333333
+Better Day,I Heard Love Is Blind,day,blind,0.4
+Better Day,I Heard Love Is Blind,day,frank,0.16666666666666666
+Better Day,I Heard Love Is Blind,gu,heard,0
+Better Day,I Heard Love Is Blind,gu,love,0.15384615384615385
+Better Day,I Heard Love Is Blind,gu,blind,0.18181818181818182
+Better Day,I Heard Love Is Blind,gu,frank,0.4
+Better Day,I Heard Love Is Blind,mixed,heard,0.2857142857142857
+Better Day,I Heard Love Is Blind,mixed,love,0.16666666666666666
+Better Day,I Heard Love Is Blind,mixed,blind,0.2
+Better Day,I Heard Love Is Blind,mixed,frank,0.15384615384615385
+Better Day,October Song,better,october,0.2857142857142857
+Better Day,October Song,better,song,0.3076923076923077
+Better Day,October Song,better,frank,0.15384615384615385
+Better Day,October Song,better,black,0.42857142857142855
+Better Day,October Song,better,back,0.16666666666666666
+Better Day,October Song,day,october,0.46153846153846156
+Better Day,October Song,day,song,0.3333333333333333
+Better Day,October Song,day,frank,0.16666666666666666
+Better Day,October Song,day,black,0.3076923076923077
+Better Day,October Song,day,back,0.18181818181818182
+Better Day,October Song,gu,october,0.14285714285714285
+Better Day,October Song,gu,song,0.15384615384615385
+Better Day,October Song,gu,frank,0.4
+Better Day,October Song,gu,black,0.14285714285714285
+Better Day,October Song,gu,back,0.3333333333333333
+Better Day,October Song,mixed,october,0.15384615384615385
+Better Day,October Song,mixed,song,0.16666666666666666
+Better Day,October Song,mixed,frank,0.15384615384615385
+Better Day,October Song,mixed,black,0.15384615384615385
+Better Day,October Song,mixed,back,0.18181818181818182
+Better Day,Back To Black,better,black,0.42857142857142855
+Better Day,Back To Black,better,back,0.16666666666666666
+Better Day,Back To Black,better,black,0.42857142857142855
+Better Day,Back To Black,better,back,0.16666666666666666
+Better Day,Back To Black,day,black,0.3076923076923077
+Better Day,Back To Black,day,back,0.18181818181818182
+Better Day,Back To Black,day,black,0.3076923076923077
+Better Day,Back To Black,day,back,0.18181818181818182
+Better Day,Back To Black,gu,black,0.14285714285714285
+Better Day,Back To Black,gu,back,0.3333333333333333
+Better Day,Back To Black,gu,black,0.14285714285714285
+Better Day,Back To Black,gu,back,0.3333333333333333
+Better Day,Back To Black,mixed,black,0.15384615384615385
+Better Day,Back To Black,mixed,back,0.18181818181818182
+Better Day,Back To Black,mixed,black,0.15384615384615385
+Better Day,Back To Black,mixed,back,0.18181818181818182
+Better Day,Know You Now,better,know,0.2857142857142857
+Better Day,Know You Now,better,frank,0.15384615384615385
+Better Day,Know You Now,day,know,0.3076923076923077
+Better Day,Know You Now,day,frank,0.16666666666666666
+Better Day,Know You Now,gu,know,0.14285714285714285
+Better Day,Know You Now,gu,frank,0.4
+Better Day,Know You Now,mixed,know,0.15384615384615385
+Better Day,Know You Now,mixed,frank,0.15384615384615385
+Better Day,Amy Amy Amy / Outro,better,frank,0.15384615384615385
+Better Day,Amy Amy Amy / Outro,day,frank,0.16666666666666666
+Better Day,Amy Amy Amy / Outro,gu,frank,0.4
+Better Day,Amy Amy Amy / Outro,mixed,frank,0.15384615384615385
+Better Day,Wake Up Alone,better,wake,0.16666666666666666
+Better Day,Wake Up Alone,better,alone,0
+Better Day,Wake Up Alone,better,frank,0.15384615384615385
+Better Day,Wake Up Alone,better,black,0.42857142857142855
+Better Day,Wake Up Alone,better,back,0.16666666666666666
+Better Day,Wake Up Alone,day,wake,0.18181818181818182
+Better Day,Wake Up Alone,day,alone,0
+Better Day,Wake Up Alone,day,frank,0.16666666666666666
+Better Day,Wake Up Alone,day,black,0.3076923076923077
+Better Day,Wake Up Alone,day,back,0.18181818181818182
+Better Day,Wake Up Alone,gu,wake,0.3333333333333333
+Better Day,Wake Up Alone,gu,alone,0
+Better Day,Wake Up Alone,gu,frank,0.4
+Better Day,Wake Up Alone,gu,black,0.14285714285714285
+Better Day,Wake Up Alone,gu,back,0.3333333333333333
+Better Day,Wake Up Alone,mixed,wake,0.18181818181818182
+Better Day,Wake Up Alone,mixed,alone,0.3333333333333333
+Better Day,Wake Up Alone,mixed,frank,0.15384615384615385
+Better Day,Wake Up Alone,mixed,black,0.15384615384615385
+Better Day,Wake Up Alone,mixed,back,0.18181818181818182
+Better Day,Just Friends,better,friends,0.18181818181818182
+Better Day,Just Friends,better,black,0.42857142857142855
+Better Day,Just Friends,better,back,0.16666666666666666
+Better Day,Just Friends,day,friends,0.2
+Better Day,Just Friends,day,black,0.3076923076923077
+Better Day,Just Friends,day,back,0.18181818181818182
+Better Day,Just Friends,gu,friends,0.46153846153846156
+Better Day,Just Friends,gu,black,0.14285714285714285
+Better Day,Just Friends,gu,back,0.3333333333333333
+Better Day,Just Friends,mixed,friends,0.18181818181818182
+Better Day,Just Friends,mixed,black,0.15384615384615385
+Better Day,Just Friends,mixed,back,0.18181818181818182
+Better Day,He Can Only Hold Her,better,hold,0.26666666666666666
+Better Day,He Can Only Hold Her,better,black,0.42857142857142855
+Better Day,He Can Only Hold Her,better,back,0.16666666666666666
+Better Day,He Can Only Hold Her,day,hold,0.2857142857142857
+Better Day,He Can Only Hold Her,day,black,0.3076923076923077
+Better Day,He Can Only Hold Her,day,back,0.18181818181818182
+Better Day,He Can Only Hold Her,gu,hold,0.13333333333333333
+Better Day,He Can Only Hold Her,gu,black,0.14285714285714285
+Better Day,He Can Only Hold Her,gu,back,0.3333333333333333
+Better Day,He Can Only Hold Her,mixed,hold,0.14285714285714285
+Better Day,He Can Only Hold Her,mixed,black,0.15384615384615385
+Better Day,He Can Only Hold Her,mixed,back,0.18181818181818182
+Brazil,Help Yourself,brazil,help,0.11764705882352941
+Brazil,Help Yourself,brazil,frank,0.3157894736842105
+Brazil,Help Yourself,random,help,0
+Brazil,Help Yourself,random,frank,0
+Brazil,Help Yourself,album,help,0.13333333333333333
+Brazil,Help Yourself,album,frank,0.4444444444444444
+Brazil,Help Yourself,title,help,0.23529411764705882
+Brazil,Help Yourself,title,frank,0.11764705882352941
+Brazil,Some Unholy War,brazil,unholy,0
+Brazil,Some Unholy War,brazil,war,0.11764705882352941
+Brazil,Some Unholy War,brazil,frank,0.3157894736842105
+Brazil,Some Unholy War,brazil,black,0.1111111111111111
+Brazil,Some Unholy War,brazil,back,0.25
+Brazil,Some Unholy War,random,unholy,0
+Brazil,Some Unholy War,random,war,0
+Brazil,Some Unholy War,random,frank,0
+Brazil,Some Unholy War,random,black,0
+Brazil,Some Unholy War,random,back,0
+Brazil,Some Unholy War,album,unholy,0
+Brazil,Some Unholy War,album,war,0.13333333333333333
+Brazil,Some Unholy War,album,frank,0.4444444444444444
+Brazil,Some Unholy War,album,black,0.125
+Brazil,Some Unholy War,album,back,0.2857142857142857
+Brazil,Some Unholy War,title,unholy,0
+Brazil,Some Unholy War,title,war,0.23529411764705882
+Brazil,Some Unholy War,title,frank,0.11764705882352941
+Brazil,Some Unholy War,title,black,0.2222222222222222
+Brazil,Some Unholy War,title,back,0.125
+Brazil,Stronger Than Me,brazil,stronger,0
+Brazil,Stronger Than Me,brazil,rarities,0.10526315789473684
+Brazil,Stronger Than Me,brazil,edition,0.2857142857142857
+Brazil,Stronger Than Me,brazil,frank,0.3157894736842105
+Brazil,Stronger Than Me,random,stronger,0
+Brazil,Stronger Than Me,random,rarities,0
+Brazil,Stronger Than Me,random,edition,0
+Brazil,Stronger Than Me,random,frank,0
+Brazil,Stronger Than Me,album,stronger,0
+Brazil,Stronger Than Me,album,rarities,0.11764705882352941
+Brazil,Stronger Than Me,album,edition,0.5263157894736842
+Brazil,Stronger Than Me,album,frank,0.4444444444444444
+Brazil,Stronger Than Me,title,stronger,0
+Brazil,Stronger Than Me,title,rarities,0.21052631578947367
+Brazil,Stronger Than Me,title,edition,0.09523809523809523
+Brazil,Stronger Than Me,title,frank,0.11764705882352941
+Brazil,You Know I'm No Good,brazil,know,0.1111111111111111
+Brazil,You Know I'm No Good,brazil,good,0.11764705882352941
+Brazil,You Know I'm No Good,brazil,version,0.1111111111111111
+Brazil,You Know I'm No Good,brazil,know,0.1111111111111111
+Brazil,You Know I'm No Good,brazil,good,0.11764705882352941
+Brazil,You Know I'm No Good,random,know,0
+Brazil,You Know I'm No Good,random,good,0
+Brazil,You Know I'm No Good,random,version,0
+Brazil,You Know I'm No Good,random,know,0
+Brazil,You Know I'm No Good,random,good,0
+Brazil,You Know I'm No Good,album,know,0.125
+Brazil,You Know I'm No Good,album,good,0.13333333333333333
+Brazil,You Know I'm No Good,album,version,0.125
+Brazil,You Know I'm No Good,album,know,0.125
+Brazil,You Know I'm No Good,album,good,0.13333333333333333
+Brazil,You Know I'm No Good,title,know,0.2222222222222222
+Brazil,You Know I'm No Good,title,good,0.23529411764705882
+Brazil,You Know I'm No Good,title,version,0.3333333333333333
+Brazil,You Know I'm No Good,title,know,0.2222222222222222
+Brazil,You Know I'm No Good,title,good,0.23529411764705882
+Brazil,I Heard Love Is Blind,brazil,heard,0
+Brazil,I Heard Love Is Blind,brazil,love,0.11764705882352941
+Brazil,I Heard Love Is Blind,brazil,blind,0.13333333333333333
+Brazil,I Heard Love Is Blind,brazil,frank,0.3157894736842105
+Brazil,I Heard Love Is Blind,random,heard,0
+Brazil,I Heard Love Is Blind,random,love,0
+Brazil,I Heard Love Is Blind,random,blind,0
+Brazil,I Heard Love Is Blind,random,frank,0
+Brazil,I Heard Love Is Blind,album,heard,0
+Brazil,I Heard Love Is Blind,album,love,0.13333333333333333
+Brazil,I Heard Love Is Blind,album,blind,0.15384615384615385
+Brazil,I Heard Love Is Blind,album,frank,0.4444444444444444
+Brazil,I Heard Love Is Blind,title,heard,0
+Brazil,I Heard Love Is Blind,title,love,0.23529411764705882
+Brazil,I Heard Love Is Blind,title,blind,0.26666666666666666
+Brazil,I Heard Love Is Blind,title,frank,0.11764705882352941
+Brazil,October Song,brazil,october,0.1111111111111111
+Brazil,October Song,brazil,song,0.11764705882352941
+Brazil,October Song,brazil,frank,0.3157894736842105
+Brazil,October Song,brazil,black,0.1111111111111111
+Brazil,October Song,brazil,back,0.25
+Brazil,October Song,random,october,0
+Brazil,October Song,random,song,0
+Brazil,October Song,random,frank,0
+Brazil,October Song,random,black,0
+Brazil,October Song,random,back,0
+Brazil,October Song,album,october,0.125
+Brazil,October Song,album,song,0.13333333333333333
+Brazil,October Song,album,frank,0.4444444444444444
+Brazil,October Song,album,black,0.125
+Brazil,October Song,album,back,0.2857142857142857
+Brazil,October Song,title,october,0.2222222222222222
+Brazil,October Song,title,song,0.35294117647058826
+Brazil,October Song,title,frank,0.11764705882352941
+Brazil,October Song,title,black,0.2222222222222222
+Brazil,October Song,title,back,0.125
+Brazil,Back To Black,brazil,black,0.1111111111111111
+Brazil,Back To Black,brazil,back,0.25
+Brazil,Back To Black,brazil,black,0.1111111111111111
+Brazil,Back To Black,brazil,back,0.25
+Brazil,Back To Black,random,black,0
+Brazil,Back To Black,random,back,0
+Brazil,Back To Black,random,black,0
+Brazil,Back To Black,random,back,0
+Brazil,Back To Black,album,black,0.125
+Brazil,Back To Black,album,back,0.2857142857142857
+Brazil,Back To Black,album,black,0.125
+Brazil,Back To Black,album,back,0.2857142857142857
+Brazil,Back To Black,title,black,0.2222222222222222
+Brazil,Back To Black,title,back,0.125
+Brazil,Back To Black,title,black,0.2222222222222222
+Brazil,Back To Black,title,back,0.125
+Brazil,Know You Now,brazil,know,0.1111111111111111
+Brazil,Know You Now,brazil,frank,0.3157894736842105
+Brazil,Know You Now,random,know,0
+Brazil,Know You Now,random,frank,0
+Brazil,Know You Now,album,know,0.125
+Brazil,Know You Now,album,frank,0.4444444444444444
+Brazil,Know You Now,title,know,0.2222222222222222
+Brazil,Know You Now,title,frank,0.11764705882352941
+Brazil,Amy Amy Amy / Outro,brazil,frank,0.3157894736842105
+Brazil,Amy Amy Amy / Outro,random,frank,0
+Brazil,Amy Amy Amy / Outro,album,frank,0.4444444444444444
+Brazil,Amy Amy Amy / Outro,title,frank,0.11764705882352941
+Brazil,Wake Up Alone,brazil,wake,0.25
+Brazil,Wake Up Alone,brazil,alone,0
+Brazil,Wake Up Alone,brazil,frank,0.3157894736842105
+Brazil,Wake Up Alone,brazil,black,0.1111111111111111
+Brazil,Wake Up Alone,brazil,back,0.25
+Brazil,Wake Up Alone,random,wake,0
+Brazil,Wake Up Alone,random,alone,0
+Brazil,Wake Up Alone,random,frank,0
+Brazil,Wake Up Alone,random,black,0
+Brazil,Wake Up Alone,random,back,0
+Brazil,Wake Up Alone,album,wake,0.2857142857142857
+Brazil,Wake Up Alone,album,alone,0
+Brazil,Wake Up Alone,album,frank,0.4444444444444444
+Brazil,Wake Up Alone,album,black,0.125
+Brazil,Wake Up Alone,album,back,0.2857142857142857
+Brazil,Wake Up Alone,title,wake,0.125
+Brazil,Wake Up Alone,title,alone,0
+Brazil,Wake Up Alone,title,frank,0.11764705882352941
+Brazil,Wake Up Alone,title,black,0.2222222222222222
+Brazil,Wake Up Alone,title,back,0.125
+Brazil,Just Friends,brazil,friends,0.35294117647058826
+Brazil,Just Friends,brazil,black,0.1111111111111111
+Brazil,Just Friends,brazil,back,0.25
+Brazil,Just Friends,random,friends,0
+Brazil,Just Friends,random,black,0
+Brazil,Just Friends,random,back,0
+Brazil,Just Friends,album,friends,0.5
+Brazil,Just Friends,album,black,0.125
+Brazil,Just Friends,album,back,0.2857142857142857
+Brazil,Just Friends,title,friends,0.13333333333333333
+Brazil,Just Friends,title,black,0.2222222222222222
+Brazil,Just Friends,title,back,0.125
+Brazil,He Can Only Hold Her,brazil,hold,0.10526315789473684
+Brazil,He Can Only Hold Her,brazil,black,0.1111111111111111
+Brazil,He Can Only Hold Her,brazil,back,0.25
+Brazil,He Can Only Hold Her,random,hold,0
+Brazil,He Can Only Hold Her,random,black,0
+Brazil,He Can Only Hold Her,random,back,0
+Brazil,He Can Only Hold Her,album,hold,0.11764705882352941
+Brazil,He Can Only Hold Her,album,black,0.125
+Brazil,He Can Only Hold Her,album,back,0.2857142857142857
+Brazil,He Can Only Hold Her,title,hold,0.21052631578947367
+Brazil,He Can Only Hold Her,title,black,0.2222222222222222
+Brazil,He Can Only Hold Her,title,back,0.125
+That's My Name (Album Version),Help Yourself,album,help,0.13333333333333333
+That's My Name (Album Version),Help Yourself,album,frank,0.4444444444444444
+That's My Name (Album Version),Help Yourself,version,help,0.26666666666666666
+That's My Name (Album Version),Help Yourself,version,frank,0.13333333333333333
+That's My Name (Album Version),Help Yourself,name,help,0.3076923076923077
+That's My Name (Album Version),Help Yourself,name,frank,0.15384615384615385
+That's My Name (Album Version),Help Yourself,name,help,0.3076923076923077
+That's My Name (Album Version),Help Yourself,name,frank,0.15384615384615385
+That's My Name (Album Version),Some Unholy War,album,unholy,0
+That's My Name (Album Version),Some Unholy War,album,war,0.13333333333333333
+That's My Name (Album Version),Some Unholy War,album,frank,0.4444444444444444
+That's My Name (Album Version),Some Unholy War,album,black,0.125
+That's My Name (Album Version),Some Unholy War,album,back,0.2857142857142857
+That's My Name (Album Version),Some Unholy War,version,unholy,0
+That's My Name (Album Version),Some Unholy War,version,war,0.26666666666666666
+That's My Name (Album Version),Some Unholy War,version,frank,0.13333333333333333
+That's My Name (Album Version),Some Unholy War,version,black,0.25
+That's My Name (Album Version),Some Unholy War,version,back,0.14285714285714285
+That's My Name (Album Version),Some Unholy War,name,unholy,0
+That's My Name (Album Version),Some Unholy War,name,war,0.3076923076923077
+That's My Name (Album Version),Some Unholy War,name,frank,0.15384615384615385
+That's My Name (Album Version),Some Unholy War,name,black,0.2857142857142857
+That's My Name (Album Version),Some Unholy War,name,back,0.16666666666666666
+That's My Name (Album Version),Some Unholy War,name,unholy,0
+That's My Name (Album Version),Some Unholy War,name,war,0.3076923076923077
+That's My Name (Album Version),Some Unholy War,name,frank,0.15384615384615385
+That's My Name (Album Version),Some Unholy War,name,black,0.2857142857142857
+That's My Name (Album Version),Some Unholy War,name,back,0.16666666666666666
+That's My Name (Album Version),Stronger Than Me,album,stronger,0
+That's My Name (Album Version),Stronger Than Me,album,rarities,0.11764705882352941
+That's My Name (Album Version),Stronger Than Me,album,edition,0.5263157894736842
+That's My Name (Album Version),Stronger Than Me,album,frank,0.4444444444444444
+That's My Name (Album Version),Stronger Than Me,version,stronger,0
+That's My Name (Album Version),Stronger Than Me,version,rarities,0.23529411764705882
+That's My Name (Album Version),Stronger Than Me,version,edition,0.10526315789473684
+That's My Name (Album Version),Stronger Than Me,version,frank,0.13333333333333333
+That's My Name (Album Version),Stronger Than Me,name,stronger,0
+That's My Name (Album Version),Stronger Than Me,name,rarities,0.26666666666666666
+That's My Name (Album Version),Stronger Than Me,name,edition,0.11764705882352941
+That's My Name (Album Version),Stronger Than Me,name,frank,0.15384615384615385
+That's My Name (Album Version),Stronger Than Me,name,stronger,0
+That's My Name (Album Version),Stronger Than Me,name,rarities,0.26666666666666666
+That's My Name (Album Version),Stronger Than Me,name,edition,0.11764705882352941
+That's My Name (Album Version),Stronger Than Me,name,frank,0.15384615384615385
+That's My Name (Album Version),You Know I'm No Good,album,know,0.125
+That's My Name (Album Version),You Know I'm No Good,album,good,0.13333333333333333
+That's My Name (Album Version),You Know I'm No Good,album,version,0.125
+That's My Name (Album Version),You Know I'm No Good,album,know,0.125
+That's My Name (Album Version),You Know I'm No Good,album,good,0.13333333333333333
+That's My Name (Album Version),You Know I'm No Good,version,know,0.25
+That's My Name (Album Version),You Know I'm No Good,version,good,0.26666666666666666
+That's My Name (Album Version),You Know I'm No Good,version,version,1.0
+That's My Name (Album Version),You Know I'm No Good,version,know,0.25
+That's My Name (Album Version),You Know I'm No Good,version,good,0.26666666666666666
+That's My Name (Album Version),You Know I'm No Good,name,know,0.2857142857142857
+That's My Name (Album Version),You Know I'm No Good,name,good,0.3076923076923077
+That's My Name (Album Version),You Know I'm No Good,name,version,0.2857142857142857
+That's My Name (Album Version),You Know I'm No Good,name,know,0.2857142857142857
+That's My Name (Album Version),You Know I'm No Good,name,good,0.3076923076923077
+That's My Name (Album Version),You Know I'm No Good,name,know,0.2857142857142857
+That's My Name (Album Version),You Know I'm No Good,name,good,0.3076923076923077
+That's My Name (Album Version),You Know I'm No Good,name,version,0.2857142857142857
+That's My Name (Album Version),You Know I'm No Good,name,know,0.2857142857142857
+That's My Name (Album Version),You Know I'm No Good,name,good,0.3076923076923077
+That's My Name (Album Version),I Heard Love Is Blind,album,heard,0
+That's My Name (Album Version),I Heard Love Is Blind,album,love,0.13333333333333333
+That's My Name (Album Version),I Heard Love Is Blind,album,blind,0.15384615384615385
+That's My Name (Album Version),I Heard Love Is Blind,album,frank,0.4444444444444444
+That's My Name (Album Version),I Heard Love Is Blind,version,heard,0
+That's My Name (Album Version),I Heard Love Is Blind,version,love,0.26666666666666666
+That's My Name (Album Version),I Heard Love Is Blind,version,blind,0.3076923076923077
+That's My Name (Album Version),I Heard Love Is Blind,version,frank,0.13333333333333333
+That's My Name (Album Version),I Heard Love Is Blind,name,heard,0
+That's My Name (Album Version),I Heard Love Is Blind,name,love,0.3076923076923077
+That's My Name (Album Version),I Heard Love Is Blind,name,blind,0.36363636363636365
+That's My Name (Album Version),I Heard Love Is Blind,name,frank,0.15384615384615385
+That's My Name (Album Version),I Heard Love Is Blind,name,heard,0
+That's My Name (Album Version),I Heard Love Is Blind,name,love,0.3076923076923077
+That's My Name (Album Version),I Heard Love Is Blind,name,blind,0.36363636363636365
+That's My Name (Album Version),I Heard Love Is Blind,name,frank,0.15384615384615385
+That's My Name (Album Version),October Song,album,october,0.125
+That's My Name (Album Version),October Song,album,song,0.13333333333333333
+That's My Name (Album Version),October Song,album,frank,0.4444444444444444
+That's My Name (Album Version),October Song,album,black,0.125
+That's My Name (Album Version),October Song,album,back,0.2857142857142857
+That's My Name (Album Version),October Song,version,october,0.25
+That's My Name (Album Version),October Song,version,song,0.4
+That's My Name (Album Version),October Song,version,frank,0.13333333333333333
+That's My Name (Album Version),October Song,version,black,0.25
+That's My Name (Album Version),October Song,version,back,0.14285714285714285
+That's My Name (Album Version),October Song,name,october,0.2857142857142857
+That's My Name (Album Version),October Song,name,song,0.3076923076923077
+That's My Name (Album Version),October Song,name,frank,0.15384615384615385
+That's My Name (Album Version),October Song,name,black,0.2857142857142857
+That's My Name (Album Version),October Song,name,back,0.16666666666666666
+That's My Name (Album Version),October Song,name,october,0.2857142857142857
+That's My Name (Album Version),October Song,name,song,0.3076923076923077
+That's My Name (Album Version),October Song,name,frank,0.15384615384615385
+That's My Name (Album Version),October Song,name,black,0.2857142857142857
+That's My Name (Album Version),October Song,name,back,0.16666666666666666
+That's My Name (Album Version),Back To Black,album,black,0.125
+That's My Name (Album Version),Back To Black,album,back,0.2857142857142857
+That's My Name (Album Version),Back To Black,album,black,0.125
+That's My Name (Album Version),Back To Black,album,back,0.2857142857142857
+That's My Name (Album Version),Back To Black,version,black,0.25
+That's My Name (Album Version),Back To Black,version,back,0.14285714285714285
+That's My Name (Album Version),Back To Black,version,black,0.25
+That's My Name (Album Version),Back To Black,version,back,0.14285714285714285
+That's My Name (Album Version),Back To Black,name,black,0.2857142857142857
+That's My Name (Album Version),Back To Black,name,back,0.16666666666666666
+That's My Name (Album Version),Back To Black,name,black,0.2857142857142857
+That's My Name (Album Version),Back To Black,name,back,0.16666666666666666
+That's My Name (Album Version),Back To Black,name,black,0.2857142857142857
+That's My Name (Album Version),Back To Black,name,back,0.16666666666666666
+That's My Name (Album Version),Back To Black,name,black,0.2857142857142857
+That's My Name (Album Version),Back To Black,name,back,0.16666666666666666
+That's My Name (Album Version),Know You Now,album,know,0.125
+That's My Name (Album Version),Know You Now,album,frank,0.4444444444444444
+That's My Name (Album Version),Know You Now,version,know,0.25
+That's My Name (Album Version),Know You Now,version,frank,0.13333333333333333
+That's My Name (Album Version),Know You Now,name,know,0.2857142857142857
+That's My Name (Album Version),Know You Now,name,frank,0.15384615384615385
+That's My Name (Album Version),Know You Now,name,know,0.2857142857142857
+That's My Name (Album Version),Know You Now,name,frank,0.15384615384615385
+That's My Name (Album Version),Amy Amy Amy / Outro,album,frank,0.4444444444444444
+That's My Name (Album Version),Amy Amy Amy / Outro,version,frank,0.13333333333333333
+That's My Name (Album Version),Amy Amy Amy / Outro,name,frank,0.15384615384615385
+That's My Name (Album Version),Amy Amy Amy / Outro,name,frank,0.15384615384615385
+That's My Name (Album Version),Wake Up Alone,album,wake,0.2857142857142857
+That's My Name (Album Version),Wake Up Alone,album,alone,0
+That's My Name (Album Version),Wake Up Alone,album,frank,0.4444444444444444
+That's My Name (Album Version),Wake Up Alone,album,black,0.125
+That's My Name (Album Version),Wake Up Alone,album,back,0.2857142857142857
+That's My Name (Album Version),Wake Up Alone,version,wake,0.14285714285714285
+That's My Name (Album Version),Wake Up Alone,version,alone,0
+That's My Name (Album Version),Wake Up Alone,version,frank,0.13333333333333333
+That's My Name (Album Version),Wake Up Alone,version,black,0.25
+That's My Name (Album Version),Wake Up Alone,version,back,0.14285714285714285
+That's My Name (Album Version),Wake Up Alone,name,wake,0.16666666666666666
+That's My Name (Album Version),Wake Up Alone,name,alone,0
+That's My Name (Album Version),Wake Up Alone,name,frank,0.15384615384615385
+That's My Name (Album Version),Wake Up Alone,name,black,0.2857142857142857
+That's My Name (Album Version),Wake Up Alone,name,back,0.16666666666666666
+That's My Name (Album Version),Wake Up Alone,name,wake,0.16666666666666666
+That's My Name (Album Version),Wake Up Alone,name,alone,0
+That's My Name (Album Version),Wake Up Alone,name,frank,0.15384615384615385
+That's My Name (Album Version),Wake Up Alone,name,black,0.2857142857142857
+That's My Name (Album Version),Wake Up Alone,name,back,0.16666666666666666
+That's My Name (Album Version),Just Friends,album,friends,0.5
+That's My Name (Album Version),Just Friends,album,black,0.125
+That's My Name (Album Version),Just Friends,album,back,0.2857142857142857
+That's My Name (Album Version),Just Friends,version,friends,0.15384615384615385
+That's My Name (Album Version),Just Friends,version,black,0.25
+That's My Name (Album Version),Just Friends,version,back,0.14285714285714285
+That's My Name (Album Version),Just Friends,name,friends,0.18181818181818182
+That's My Name (Album Version),Just Friends,name,black,0.2857142857142857
+That's My Name (Album Version),Just Friends,name,back,0.16666666666666666
+That's My Name (Album Version),Just Friends,name,friends,0.18181818181818182
+That's My Name (Album Version),Just Friends,name,black,0.2857142857142857
+That's My Name (Album Version),Just Friends,name,back,0.16666666666666666
+That's My Name (Album Version),He Can Only Hold Her,album,hold,0.11764705882352941
+That's My Name (Album Version),He Can Only Hold Her,album,black,0.125
+That's My Name (Album Version),He Can Only Hold Her,album,back,0.2857142857142857
+That's My Name (Album Version),He Can Only Hold Her,version,hold,0.23529411764705882
+That's My Name (Album Version),He Can Only Hold Her,version,black,0.25
+That's My Name (Album Version),He Can Only Hold Her,version,back,0.14285714285714285
+That's My Name (Album Version),He Can Only Hold Her,name,hold,0.26666666666666666
+That's My Name (Album Version),He Can Only Hold Her,name,black,0.2857142857142857
+That's My Name (Album Version),He Can Only Hold Her,name,back,0.16666666666666666
+That's My Name (Album Version),He Can Only Hold Her,name,hold,0.26666666666666666
+That's My Name (Album Version),He Can Only Hold Her,name,black,0.2857142857142857
+That's My Name (Album Version),He Can Only Hold Her,name,back,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Help Yourself,vocal,help,0.3076923076923077
+Raining Again (Steve Angello's Vocal Mix),Help Yourself,vocal,frank,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),Help Yourself,mix,help,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),Help Yourself,mix,frank,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),Help Yourself,raining,help,0.18181818181818182
+Raining Again (Steve Angello's Vocal Mix),Help Yourself,raining,frank,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Help Yourself,hotel,help,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),Help Yourself,hotel,frank,0.4444444444444444
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,vocal,unholy,0
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,vocal,war,0.3076923076923077
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,vocal,frank,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,vocal,black,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,vocal,back,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,mix,unholy,0
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,mix,war,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,mix,frank,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,mix,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,mix,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,raining,unholy,0.4
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,raining,war,0.18181818181818182
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,raining,frank,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,raining,black,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,raining,back,0.2
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,hotel,unholy,0
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,hotel,war,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,hotel,frank,0.4444444444444444
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,hotel,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Some Unholy War,hotel,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,vocal,stronger,0
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,vocal,rarities,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,vocal,edition,0.11764705882352941
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,vocal,frank,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,mix,stronger,0
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,mix,rarities,0.11764705882352941
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,mix,edition,0.21052631578947367
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,mix,frank,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,raining,stronger,0.4
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,raining,rarities,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,raining,edition,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,raining,frank,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,hotel,stronger,0
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,hotel,rarities,0.11764705882352941
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,hotel,edition,0.5263157894736842
+Raining Again (Steve Angello's Vocal Mix),Stronger Than Me,hotel,frank,0.4444444444444444
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,vocal,know,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,vocal,good,0.3076923076923077
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,vocal,version,0.42857142857142855
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,vocal,know,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,vocal,good,0.3076923076923077
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,mix,know,0.125
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,mix,good,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,mix,version,0.125
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,mix,know,0.125
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,mix,good,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,raining,know,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,raining,good,0.18181818181818182
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,raining,version,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,raining,know,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,raining,good,0.18181818181818182
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,hotel,know,0.125
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,hotel,good,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,hotel,version,0.125
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,hotel,know,0.125
+Raining Again (Steve Angello's Vocal Mix),You Know I'm No Good,hotel,good,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,vocal,heard,0
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,vocal,love,0.3076923076923077
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,vocal,blind,0.36363636363636365
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,vocal,frank,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,mix,heard,0
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,mix,love,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,mix,blind,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,mix,frank,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,raining,heard,0.3333333333333333
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,raining,love,0.18181818181818182
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,raining,blind,0.2222222222222222
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,raining,frank,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,hotel,heard,0
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,hotel,love,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,hotel,blind,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),I Heard Love Is Blind,hotel,frank,0.4444444444444444
+Raining Again (Steve Angello's Vocal Mix),October Song,vocal,october,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),October Song,vocal,song,0.7692307692307693
+Raining Again (Steve Angello's Vocal Mix),October Song,vocal,frank,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),October Song,vocal,black,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),October Song,vocal,back,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),October Song,mix,october,0.125
+Raining Again (Steve Angello's Vocal Mix),October Song,mix,song,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),October Song,mix,frank,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),October Song,mix,black,0.125
+Raining Again (Steve Angello's Vocal Mix),October Song,mix,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),October Song,raining,october,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),October Song,raining,song,0.18181818181818182
+Raining Again (Steve Angello's Vocal Mix),October Song,raining,frank,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),October Song,raining,black,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),October Song,raining,back,0.2
+Raining Again (Steve Angello's Vocal Mix),October Song,hotel,october,0.125
+Raining Again (Steve Angello's Vocal Mix),October Song,hotel,song,0.13333333333333333
+Raining Again (Steve Angello's Vocal Mix),October Song,hotel,frank,0.4444444444444444
+Raining Again (Steve Angello's Vocal Mix),October Song,hotel,black,0.125
+Raining Again (Steve Angello's Vocal Mix),October Song,hotel,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Back To Black,vocal,black,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Back To Black,vocal,back,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Back To Black,vocal,black,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Back To Black,vocal,back,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Back To Black,mix,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Back To Black,mix,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Back To Black,mix,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Back To Black,mix,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Back To Black,raining,black,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Back To Black,raining,back,0.2
+Raining Again (Steve Angello's Vocal Mix),Back To Black,raining,black,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Back To Black,raining,back,0.2
+Raining Again (Steve Angello's Vocal Mix),Back To Black,hotel,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Back To Black,hotel,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Back To Black,hotel,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Back To Black,hotel,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Know You Now,vocal,know,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Know You Now,vocal,frank,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),Know You Now,mix,know,0.125
+Raining Again (Steve Angello's Vocal Mix),Know You Now,mix,frank,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),Know You Now,raining,know,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Know You Now,raining,frank,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Know You Now,hotel,know,0.125
+Raining Again (Steve Angello's Vocal Mix),Know You Now,hotel,frank,0.4444444444444444
+Raining Again (Steve Angello's Vocal Mix),Amy Amy Amy / Outro,vocal,frank,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),Amy Amy Amy / Outro,mix,frank,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),Amy Amy Amy / Outro,raining,frank,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Amy Amy Amy / Outro,hotel,frank,0.4444444444444444
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,vocal,wake,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,vocal,alone,0
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,vocal,frank,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,vocal,black,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,vocal,back,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,mix,wake,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,mix,alone,0
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,mix,frank,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,mix,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,mix,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,raining,wake,0.2
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,raining,alone,0.4
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,raining,frank,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,raining,black,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,raining,back,0.2
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,hotel,wake,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,hotel,alone,0
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,hotel,frank,0.4444444444444444
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,hotel,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Wake Up Alone,hotel,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Just Friends,vocal,friends,0.18181818181818182
+Raining Again (Steve Angello's Vocal Mix),Just Friends,vocal,black,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Just Friends,vocal,back,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Just Friends,mix,friends,0.3076923076923077
+Raining Again (Steve Angello's Vocal Mix),Just Friends,mix,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Just Friends,mix,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),Just Friends,raining,friends,0.2
+Raining Again (Steve Angello's Vocal Mix),Just Friends,raining,black,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),Just Friends,raining,back,0.2
+Raining Again (Steve Angello's Vocal Mix),Just Friends,hotel,friends,0.5
+Raining Again (Steve Angello's Vocal Mix),Just Friends,hotel,black,0.125
+Raining Again (Steve Angello's Vocal Mix),Just Friends,hotel,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,vocal,hold,0.26666666666666666
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,vocal,black,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,vocal,back,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,mix,hold,0.11764705882352941
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,mix,black,0.125
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,mix,back,0.2857142857142857
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,raining,hold,0.15384615384615385
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,raining,black,0.16666666666666666
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,raining,back,0.2
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,hotel,hold,0.11764705882352941
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,hotel,black,0.125
+Raining Again (Steve Angello's Vocal Mix),He Can Only Hold Her,hotel,back,0.2857142857142857
+Surround,Help Yourself,surround,help,0.14285714285714285
+Surround,Help Yourself,surround,frank,0.375
+Surround,Help Yourself,american,help,0.15384615384615385
+Surround,Help Yourself,american,frank,0.631578947368421
+Surround,Help Yourself,hi,help,0.2857142857142857
+Surround,Help Yourself,hi,frank,0.14285714285714285
+Surround,Some Unholy War,surround,unholy,0
+Surround,Some Unholy War,surround,war,0.14285714285714285
+Surround,Some Unholy War,surround,frank,0.375
+Surround,Some Unholy War,surround,black,0.13333333333333333
+Surround,Some Unholy War,surround,back,0.3076923076923077
+Surround,Some Unholy War,american,unholy,0
+Surround,Some Unholy War,american,war,0.15384615384615385
+Surround,Some Unholy War,american,frank,0.631578947368421
+Surround,Some Unholy War,american,black,0.14285714285714285
+Surround,Some Unholy War,american,back,0.3333333333333333
+Surround,Some Unholy War,hi,unholy,0
+Surround,Some Unholy War,hi,war,0.2857142857142857
+Surround,Some Unholy War,hi,frank,0.14285714285714285
+Surround,Some Unholy War,hi,black,0.26666666666666666
+Surround,Some Unholy War,hi,back,0.15384615384615385
+Surround,Stronger Than Me,surround,stronger,0
+Surround,Stronger Than Me,surround,rarities,0.125
+Surround,Stronger Than Me,surround,edition,0.3333333333333333
+Surround,Stronger Than Me,surround,frank,0.375
+Surround,Stronger Than Me,american,stronger,0
+Surround,Stronger Than Me,american,rarities,0.13333333333333333
+Surround,Stronger Than Me,american,edition,0.4
+Surround,Stronger Than Me,american,frank,0.631578947368421
+Surround,Stronger Than Me,hi,stronger,0
+Surround,Stronger Than Me,hi,rarities,0.25
+Surround,Stronger Than Me,hi,edition,0.1111111111111111
+Surround,Stronger Than Me,hi,frank,0.14285714285714285
+Surround,You Know I'm No Good,surround,know,0.13333333333333333
+Surround,You Know I'm No Good,surround,good,0.14285714285714285
+Surround,You Know I'm No Good,surround,version,0.13333333333333333
+Surround,You Know I'm No Good,surround,know,0.13333333333333333
+Surround,You Know I'm No Good,surround,good,0.14285714285714285
+Surround,You Know I'm No Good,american,know,0.14285714285714285
+Surround,You Know I'm No Good,american,good,0.15384615384615385
+Surround,You Know I'm No Good,american,version,0.14285714285714285
+Surround,You Know I'm No Good,american,know,0.14285714285714285
+Surround,You Know I'm No Good,american,good,0.15384615384615385
+Surround,You Know I'm No Good,hi,know,0.26666666666666666
+Surround,You Know I'm No Good,hi,good,0.2857142857142857
+Surround,You Know I'm No Good,hi,version,0.5333333333333333
+Surround,You Know I'm No Good,hi,know,0.26666666666666666
+Surround,You Know I'm No Good,hi,good,0.2857142857142857
+Surround,I Heard Love Is Blind,surround,heard,0
+Surround,I Heard Love Is Blind,surround,love,0.14285714285714285
+Surround,I Heard Love Is Blind,surround,blind,0.16666666666666666
+Surround,I Heard Love Is Blind,surround,frank,0.375
+Surround,I Heard Love Is Blind,american,heard,0
+Surround,I Heard Love Is Blind,american,love,0.15384615384615385
+Surround,I Heard Love Is Blind,american,blind,0.18181818181818182
+Surround,I Heard Love Is Blind,american,frank,0.631578947368421
+Surround,I Heard Love Is Blind,hi,heard,0
+Surround,I Heard Love Is Blind,hi,love,0.2857142857142857
+Surround,I Heard Love Is Blind,hi,blind,0.3333333333333333
+Surround,I Heard Love Is Blind,hi,frank,0.14285714285714285
+Surround,October Song,surround,october,0.13333333333333333
+Surround,October Song,surround,song,0.14285714285714285
+Surround,October Song,surround,frank,0.375
+Surround,October Song,surround,black,0.13333333333333333
+Surround,October Song,surround,back,0.3076923076923077
+Surround,October Song,american,october,0.14285714285714285
+Surround,October Song,american,song,0.15384615384615385
+Surround,October Song,american,frank,0.631578947368421
+Surround,October Song,american,black,0.14285714285714285
+Surround,October Song,american,back,0.3333333333333333
+Surround,October Song,hi,october,0.26666666666666666
+Surround,October Song,hi,song,0.42857142857142855
+Surround,October Song,hi,frank,0.14285714285714285
+Surround,October Song,hi,black,0.26666666666666666
+Surround,October Song,hi,back,0.15384615384615385
+Surround,Back To Black,surround,black,0.13333333333333333
+Surround,Back To Black,surround,back,0.3076923076923077
+Surround,Back To Black,surround,black,0.13333333333333333
+Surround,Back To Black,surround,back,0.3076923076923077
+Surround,Back To Black,american,black,0.14285714285714285
+Surround,Back To Black,american,back,0.3333333333333333
+Surround,Back To Black,american,black,0.14285714285714285
+Surround,Back To Black,american,back,0.3333333333333333
+Surround,Back To Black,hi,black,0.26666666666666666
+Surround,Back To Black,hi,back,0.15384615384615385
+Surround,Back To Black,hi,black,0.26666666666666666
+Surround,Back To Black,hi,back,0.15384615384615385
+Surround,Know You Now,surround,know,0.13333333333333333
+Surround,Know You Now,surround,frank,0.375
+Surround,Know You Now,american,know,0.14285714285714285
+Surround,Know You Now,american,frank,0.631578947368421
+Surround,Know You Now,hi,know,0.26666666666666666
+Surround,Know You Now,hi,frank,0.14285714285714285
+Surround,Amy Amy Amy / Outro,surround,frank,0.375
+Surround,Amy Amy Amy / Outro,american,frank,0.631578947368421
+Surround,Amy Amy Amy / Outro,hi,frank,0.14285714285714285
+Surround,Wake Up Alone,surround,wake,0.3076923076923077
+Surround,Wake Up Alone,surround,alone,0
+Surround,Wake Up Alone,surround,frank,0.375
+Surround,Wake Up Alone,surround,black,0.13333333333333333
+Surround,Wake Up Alone,surround,back,0.3076923076923077
+Surround,Wake Up Alone,american,wake,0.3333333333333333
+Surround,Wake Up Alone,american,alone,0
+Surround,Wake Up Alone,american,frank,0.631578947368421
+Surround,Wake Up Alone,american,black,0.14285714285714285
+Surround,Wake Up Alone,american,back,0.3333333333333333
+Surround,Wake Up Alone,hi,wake,0.15384615384615385
+Surround,Wake Up Alone,hi,alone,0
+Surround,Wake Up Alone,hi,frank,0.14285714285714285
+Surround,Wake Up Alone,hi,black,0.26666666666666666
+Surround,Wake Up Alone,hi,back,0.15384615384615385
+Surround,Just Friends,surround,friends,0.42857142857142855
+Surround,Just Friends,surround,black,0.13333333333333333
+Surround,Just Friends,surround,back,0.3076923076923077
+Surround,Just Friends,american,friends,0.7058823529411765
+Surround,Just Friends,american,black,0.14285714285714285
+Surround,Just Friends,american,back,0.3333333333333333
+Surround,Just Friends,hi,friends,0.16666666666666666
+Surround,Just Friends,hi,black,0.26666666666666666
+Surround,Just Friends,hi,back,0.15384615384615385
+Surround,He Can Only Hold Her,surround,hold,0.125
+Surround,He Can Only Hold Her,surround,black,0.13333333333333333
+Surround,He Can Only Hold Her,surround,back,0.3076923076923077
+Surround,He Can Only Hold Her,american,hold,0.13333333333333333
+Surround,He Can Only Hold Her,american,black,0.14285714285714285
+Surround,He Can Only Hold Her,american,back,0.3333333333333333
+Surround,He Can Only Hold Her,hi,hold,0.25
+Surround,He Can Only Hold Her,hi,black,0.26666666666666666
+Surround,He Can Only Hold Her,hi,back,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,radio,help,0.11764705882352941
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,radio,frank,0.4
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,edit,help,0.18181818181818182
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,edit,frank,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,shoulder,help,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,angel,help,0.4
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,shoulder,help,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,angel,help,0.4
+Angel On My Shoulder (EDX Radio Edit),Help Yourself,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,radio,unholy,0
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,radio,war,0.11764705882352941
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,radio,frank,0.4
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,radio,black,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,radio,back,0.25
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,edit,unholy,0.4
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,edit,war,0.18181818181818182
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,edit,frank,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,edit,black,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,edit,back,0.2
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,unholy,0
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,war,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,unholy,0
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,war,0.4
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,unholy,0
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,war,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,unholy,0
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,war,0.4
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Some Unholy War,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,radio,stronger,0
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,radio,rarities,0.10526315789473684
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,radio,edition,0.47619047619047616
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,radio,frank,0.4
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,edit,stronger,0.4
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,edit,rarities,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,edit,edition,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,edit,frank,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,shoulder,stronger,0
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,shoulder,rarities,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,shoulder,edition,0.23529411764705882
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,angel,stronger,0
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,angel,rarities,0.23529411764705882
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,angel,edition,0.10526315789473684
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,shoulder,stronger,0
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,shoulder,rarities,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,shoulder,edition,0.23529411764705882
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,angel,stronger,0
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,angel,rarities,0.23529411764705882
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,angel,edition,0.10526315789473684
+Angel On My Shoulder (EDX Radio Edit),Stronger Than Me,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,radio,know,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,radio,good,0.11764705882352941
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,radio,version,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,radio,know,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,radio,good,0.11764705882352941
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,edit,know,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,edit,good,0.18181818181818182
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,edit,version,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,edit,know,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,edit,good,0.18181818181818182
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,know,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,good,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,version,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,know,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,good,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,know,0.5
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,good,0.26666666666666666
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,version,0.25
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,know,0.5
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,good,0.26666666666666666
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,know,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,good,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,version,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,know,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,shoulder,good,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,know,0.5
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,good,0.26666666666666666
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,version,0.25
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,know,0.5
+Angel On My Shoulder (EDX Radio Edit),You Know I'm No Good,angel,good,0.26666666666666666
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,radio,heard,0
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,radio,love,0.11764705882352941
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,radio,blind,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,radio,frank,0.4
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,edit,heard,0.3333333333333333
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,edit,love,0.18181818181818182
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,edit,blind,0.2222222222222222
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,edit,frank,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,shoulder,heard,0
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,shoulder,love,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,shoulder,blind,0.18181818181818182
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,angel,heard,0
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,angel,love,0.26666666666666666
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,angel,blind,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,shoulder,heard,0
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,shoulder,love,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,shoulder,blind,0.18181818181818182
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,angel,heard,0
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,angel,love,0.26666666666666666
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,angel,blind,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),I Heard Love Is Blind,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),October Song,radio,october,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),October Song,radio,song,0.11764705882352941
+Angel On My Shoulder (EDX Radio Edit),October Song,radio,frank,0.4
+Angel On My Shoulder (EDX Radio Edit),October Song,radio,black,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),October Song,radio,back,0.25
+Angel On My Shoulder (EDX Radio Edit),October Song,edit,october,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),October Song,edit,song,0.18181818181818182
+Angel On My Shoulder (EDX Radio Edit),October Song,edit,frank,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),October Song,edit,black,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),October Song,edit,back,0.2
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,october,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,song,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,october,0.25
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,song,0.26666666666666666
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,october,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,song,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),October Song,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,october,0.25
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,song,0.26666666666666666
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),October Song,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Back To Black,radio,black,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),Back To Black,radio,back,0.25
+Angel On My Shoulder (EDX Radio Edit),Back To Black,radio,black,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),Back To Black,radio,back,0.25
+Angel On My Shoulder (EDX Radio Edit),Back To Black,edit,black,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Back To Black,edit,back,0.2
+Angel On My Shoulder (EDX Radio Edit),Back To Black,edit,black,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Back To Black,edit,back,0.2
+Angel On My Shoulder (EDX Radio Edit),Back To Black,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Back To Black,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Back To Black,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Back To Black,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Back To Black,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Back To Black,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Back To Black,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Back To Black,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Back To Black,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Back To Black,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Back To Black,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Back To Black,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Back To Black,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Back To Black,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Back To Black,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Back To Black,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Know You Now,radio,know,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),Know You Now,radio,frank,0.4
+Angel On My Shoulder (EDX Radio Edit),Know You Now,edit,know,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Know You Now,edit,frank,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Know You Now,shoulder,know,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Know You Now,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Know You Now,angel,know,0.5
+Angel On My Shoulder (EDX Radio Edit),Know You Now,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Know You Now,shoulder,know,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Know You Now,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Know You Now,angel,know,0.5
+Angel On My Shoulder (EDX Radio Edit),Know You Now,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Amy Amy Amy / Outro,radio,frank,0.4
+Angel On My Shoulder (EDX Radio Edit),Amy Amy Amy / Outro,edit,frank,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Amy Amy Amy / Outro,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Amy Amy Amy / Outro,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Amy Amy Amy / Outro,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Amy Amy Amy / Outro,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,radio,wake,0.25
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,radio,alone,0
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,radio,frank,0.4
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,radio,black,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,radio,back,0.25
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,edit,wake,0.2
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,edit,alone,0.4
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,edit,frank,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,edit,black,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,edit,back,0.2
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,wake,0.3333333333333333
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,alone,0
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,wake,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,alone,0
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,wake,0.3333333333333333
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,alone,0
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,frank,0.3076923076923077
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,wake,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,alone,0
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,frank,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Wake Up Alone,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Just Friends,radio,friends,0.4444444444444444
+Angel On My Shoulder (EDX Radio Edit),Just Friends,radio,black,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),Just Friends,radio,back,0.25
+Angel On My Shoulder (EDX Radio Edit),Just Friends,edit,friends,0.2
+Angel On My Shoulder (EDX Radio Edit),Just Friends,edit,black,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),Just Friends,edit,back,0.2
+Angel On My Shoulder (EDX Radio Edit),Just Friends,shoulder,friends,0.36363636363636365
+Angel On My Shoulder (EDX Radio Edit),Just Friends,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Just Friends,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Just Friends,angel,friends,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),Just Friends,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Just Friends,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Just Friends,shoulder,friends,0.36363636363636365
+Angel On My Shoulder (EDX Radio Edit),Just Friends,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),Just Friends,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),Just Friends,angel,friends,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),Just Friends,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),Just Friends,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,radio,hold,0.10526315789473684
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,radio,black,0.1111111111111111
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,radio,back,0.25
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,edit,hold,0.15384615384615385
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,edit,black,0.16666666666666666
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,edit,back,0.2
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,shoulder,hold,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,angel,hold,0.35294117647058826
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,angel,back,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,shoulder,hold,0.13333333333333333
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,shoulder,black,0.14285714285714285
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,shoulder,back,0.8333333333333334
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,angel,hold,0.35294117647058826
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,angel,black,0.25
+Angel On My Shoulder (EDX Radio Edit),He Can Only Hold Her,angel,back,0.14285714285714285

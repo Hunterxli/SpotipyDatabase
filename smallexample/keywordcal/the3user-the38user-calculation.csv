@@ -1,0 +1,2813 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Where Would I Be?,sun,prolonging,0
+Sun Hands,Where Would I Be?,sun,magic,0.125
+Sun Hands,Where Would I Be?,hands,prolonging,0
+Sun Hands,Where Would I Be?,hands,magic,0.35294117647058826
+Sun Hands,Where Would I Be?,gorilla,prolonging,0
+Sun Hands,Where Would I Be?,gorilla,magic,0.08333333333333333
+Sun Hands,Where Would I Be?,manor,prolonging,0
+Sun Hands,Where Would I Be?,manor,magic,0.1111111111111111
+Sun Hands,Comfort Eagle,sun,comfort,0.14285714285714285
+Sun Hands,Comfort Eagle,sun,eagle,0.4
+Sun Hands,Comfort Eagle,sun,comfort,0.14285714285714285
+Sun Hands,Comfort Eagle,sun,eagle,0.4
+Sun Hands,Comfort Eagle,hands,comfort,0.26666666666666666
+Sun Hands,Comfort Eagle,hands,eagle,0.09523809523809523
+Sun Hands,Comfort Eagle,hands,comfort,0.26666666666666666
+Sun Hands,Comfort Eagle,hands,eagle,0.09523809523809523
+Sun Hands,Comfort Eagle,gorilla,comfort,0.09090909090909091
+Sun Hands,Comfort Eagle,gorilla,eagle,0.6428571428571429
+Sun Hands,Comfort Eagle,gorilla,comfort,0.09090909090909091
+Sun Hands,Comfort Eagle,gorilla,eagle,0.6428571428571429
+Sun Hands,Comfort Eagle,manor,comfort,0.125
+Sun Hands,Comfort Eagle,manor,eagle,0.36363636363636365
+Sun Hands,Comfort Eagle,manor,comfort,0.125
+Sun Hands,Comfort Eagle,manor,eagle,0.36363636363636365
+Sun Hands,Never There,sun,never,0
+Sun Hands,Never There,sun,prolonging,0
+Sun Hands,Never There,sun,magic,0.125
+Sun Hands,Never There,hands,never,0
+Sun Hands,Never There,hands,prolonging,0
+Sun Hands,Never There,hands,magic,0.35294117647058826
+Sun Hands,Never There,gorilla,never,0
+Sun Hands,Never There,gorilla,prolonging,0
+Sun Hands,Never There,gorilla,magic,0.08333333333333333
+Sun Hands,Never There,manor,never,0
+Sun Hands,Never There,manor,prolonging,0
+Sun Hands,Never There,manor,magic,0.1111111111111111
+Sun Hands,Beautiful,sun,beautiful,0
+Sun Hands,Beautiful,sun,hotel,0.5
+Sun Hands,Beautiful,hands,beautiful,0
+Sun Hands,Beautiful,hands,hotel,0.11764705882352941
+Sun Hands,Beautiful,gorilla,beautiful,0
+Sun Hands,Beautiful,gorilla,hotel,0.3333333333333333
+Sun Hands,Beautiful,manor,beautiful,0
+Sun Hands,Beautiful,manor,hotel,0.7777777777777778
+Sun Hands,Carbon Monoxide,sun,carbon,0.2857142857142857
+Sun Hands,Carbon Monoxide,sun,monoxide,0.23529411764705882
+Sun Hands,Carbon Monoxide,sun,pressure,0.26666666666666666
+Sun Hands,Carbon Monoxide,sun,chief,0.47058823529411764
+Sun Hands,Carbon Monoxide,hands,carbon,0.25
+Sun Hands,Carbon Monoxide,hands,monoxide,0.21052631578947367
+Sun Hands,Carbon Monoxide,hands,pressure,0.125
+Sun Hands,Carbon Monoxide,hands,chief,0.13333333333333333
+Sun Hands,Carbon Monoxide,gorilla,carbon,0.18181818181818182
+Sun Hands,Carbon Monoxide,gorilla,monoxide,0.16
+Sun Hands,Carbon Monoxide,gorilla,pressure,0.17391304347826086
+Sun Hands,Carbon Monoxide,gorilla,chief,0.48
+Sun Hands,Carbon Monoxide,manor,carbon,0.25
+Sun Hands,Carbon Monoxide,manor,monoxide,0.21052631578947367
+Sun Hands,Carbon Monoxide,manor,pressure,0.23529411764705882
+Sun Hands,Carbon Monoxide,manor,chief,0.42105263157894735
+Sun Hands,Guitar,sun,guitar,0.4444444444444444
+Sun Hands,Guitar,sun,prolonging,0
+Sun Hands,Guitar,sun,magic,0.125
+Sun Hands,Guitar,hands,guitar,0.10526315789473684
+Sun Hands,Guitar,hands,prolonging,0
+Sun Hands,Guitar,hands,magic,0.35294117647058826
+Sun Hands,Guitar,gorilla,guitar,0.3076923076923077
+Sun Hands,Guitar,gorilla,prolonging,0
+Sun Hands,Guitar,gorilla,magic,0.08333333333333333
+Sun Hands,Guitar,manor,guitar,0.5
+Sun Hands,Guitar,manor,prolonging,0
+Sun Hands,Guitar,manor,magic,0.1111111111111111
+Sun Hands,Opera Singer,sun,opera,0.13333333333333333
+Sun Hands,Opera Singer,sun,singer,0.42105263157894735
+Sun Hands,Opera Singer,sun,comfort,0.14285714285714285
+Sun Hands,Opera Singer,sun,eagle,0.4
+Sun Hands,Opera Singer,hands,opera,0.25
+Sun Hands,Opera Singer,hands,singer,0.11764705882352941
+Sun Hands,Opera Singer,hands,comfort,0.26666666666666666
+Sun Hands,Opera Singer,hands,eagle,0.09523809523809523
+Sun Hands,Opera Singer,gorilla,opera,0.08695652173913043
+Sun Hands,Opera Singer,gorilla,singer,0.4444444444444444
+Sun Hands,Opera Singer,gorilla,comfort,0.09090909090909091
+Sun Hands,Opera Singer,gorilla,eagle,0.6428571428571429
+Sun Hands,Opera Singer,manor,opera,0.11764705882352941
+Sun Hands,Opera Singer,manor,singer,0.38095238095238093
+Sun Hands,Opera Singer,manor,comfort,0.125
+Sun Hands,Opera Singer,manor,eagle,0.36363636363636365
+Sun Hands,Waiting,sun,waiting,0.13333333333333333
+Sun Hands,Waiting,sun,pressure,0.26666666666666666
+Sun Hands,Waiting,sun,chief,0.47058823529411764
+Sun Hands,Waiting,hands,waiting,0.5882352941176471
+Sun Hands,Waiting,hands,pressure,0.125
+Sun Hands,Waiting,hands,chief,0.13333333333333333
+Sun Hands,Waiting,gorilla,waiting,0.08695652173913043
+Sun Hands,Waiting,gorilla,pressure,0.17391304347826086
+Sun Hands,Waiting,gorilla,chief,0.48
+Sun Hands,Waiting,manor,waiting,0.11764705882352941
+Sun Hands,Waiting,manor,pressure,0.23529411764705882
+Sun Hands,Waiting,manor,chief,0.42105263157894735
+Sun Hands,Alpha Beta Parking Lot,sun,alpha,0.11764705882352941
+Sun Hands,Alpha Beta Parking Lot,sun,beta,0.11764705882352941
+Sun Hands,Alpha Beta Parking Lot,sun,parking,0.14285714285714285
+Sun Hands,Alpha Beta Parking Lot,sun,lot,0.14285714285714285
+Sun Hands,Alpha Beta Parking Lot,sun,prolonging,0
+Sun Hands,Alpha Beta Parking Lot,sun,magic,0.125
+Sun Hands,Alpha Beta Parking Lot,hands,alpha,0.2222222222222222
+Sun Hands,Alpha Beta Parking Lot,hands,beta,0.2222222222222222
+Sun Hands,Alpha Beta Parking Lot,hands,parking,0.26666666666666666
+Sun Hands,Alpha Beta Parking Lot,hands,lot,0.26666666666666666
+Sun Hands,Alpha Beta Parking Lot,hands,prolonging,0
+Sun Hands,Alpha Beta Parking Lot,hands,magic,0.35294117647058826
+Sun Hands,Alpha Beta Parking Lot,gorilla,alpha,0.08
+Sun Hands,Alpha Beta Parking Lot,gorilla,beta,0.08
+Sun Hands,Alpha Beta Parking Lot,gorilla,parking,0.09090909090909091
+Sun Hands,Alpha Beta Parking Lot,gorilla,lot,0.09090909090909091
+Sun Hands,Alpha Beta Parking Lot,gorilla,prolonging,0
+Sun Hands,Alpha Beta Parking Lot,gorilla,magic,0.08333333333333333
+Sun Hands,Alpha Beta Parking Lot,manor,alpha,0.10526315789473684
+Sun Hands,Alpha Beta Parking Lot,manor,beta,0.10526315789473684
+Sun Hands,Alpha Beta Parking Lot,manor,parking,0.125
+Sun Hands,Alpha Beta Parking Lot,manor,lot,0.125
+Sun Hands,Alpha Beta Parking Lot,manor,prolonging,0
+Sun Hands,Alpha Beta Parking Lot,manor,magic,0.1111111111111111
+Sun Hands,No Phone,sun,phone,0.47058823529411764
+Sun Hands,No Phone,sun,pressure,0.26666666666666666
+Sun Hands,No Phone,sun,chief,0.47058823529411764
+Sun Hands,No Phone,hands,phone,0.1111111111111111
+Sun Hands,No Phone,hands,pressure,0.125
+Sun Hands,No Phone,hands,chief,0.13333333333333333
+Sun Hands,No Phone,gorilla,phone,0.32
+Sun Hands,No Phone,gorilla,pressure,0.17391304347826086
+Sun Hands,No Phone,gorilla,chief,0.48
+Sun Hands,No Phone,manor,phone,0.5263157894736842
+Sun Hands,No Phone,manor,pressure,0.23529411764705882
+Sun Hands,No Phone,manor,chief,0.42105263157894735
+Sun Hands,Commissioning A Symphony In C,sun,symphony,0.125
+Sun Hands,Commissioning A Symphony In C,sun,commissioning,0.11764705882352941
+Sun Hands,Commissioning A Symphony In C,sun,c,0.125
+Sun Hands,Commissioning A Symphony In C,sun,comfort,0.14285714285714285
+Sun Hands,Commissioning A Symphony In C,sun,eagle,0.4
+Sun Hands,Commissioning A Symphony In C,hands,symphony,0.23529411764705882
+Sun Hands,Commissioning A Symphony In C,hands,commissioning,0.7
+Sun Hands,Commissioning A Symphony In C,hands,c,0.23529411764705882
+Sun Hands,Commissioning A Symphony In C,hands,comfort,0.26666666666666666
+Sun Hands,Commissioning A Symphony In C,hands,eagle,0.09523809523809523
+Sun Hands,Commissioning A Symphony In C,gorilla,symphony,0.08333333333333333
+Sun Hands,Commissioning A Symphony In C,gorilla,commissioning,0.08
+Sun Hands,Commissioning A Symphony In C,gorilla,c,0.08333333333333333
+Sun Hands,Commissioning A Symphony In C,gorilla,comfort,0.09090909090909091
+Sun Hands,Commissioning A Symphony In C,gorilla,eagle,0.6428571428571429
+Sun Hands,Commissioning A Symphony In C,manor,symphony,0.1111111111111111
+Sun Hands,Commissioning A Symphony In C,manor,commissioning,0.10526315789473684
+Sun Hands,Commissioning A Symphony In C,manor,c,0.1111111111111111
+Sun Hands,Commissioning A Symphony In C,manor,comfort,0.125
+Sun Hands,Commissioning A Symphony In C,manor,eagle,0.36363636363636365
+Sun Hands,Mexico,sun,mexico,0.3333333333333333
+Sun Hands,Mexico,sun,prolonging,0
+Sun Hands,Mexico,sun,magic,0.125
+Sun Hands,Mexico,hands,mexico,0.10526315789473684
+Sun Hands,Mexico,hands,prolonging,0
+Sun Hands,Mexico,hands,magic,0.35294117647058826
+Sun Hands,Mexico,gorilla,mexico,0.23076923076923078
+Sun Hands,Mexico,gorilla,prolonging,0
+Sun Hands,Mexico,gorilla,magic,0.08333333333333333
+Sun Hands,Mexico,manor,mexico,0.3
+Sun Hands,Mexico,manor,prolonging,0
+Sun Hands,Mexico,manor,magic,0.1111111111111111
+Sun Hands,Mahna_ Mahna,sun,sides,0.42857142857142855
+Sun Hands,Mahna_ Mahna,sun,rarities,0.11764705882352941
+Sun Hands,Mahna_ Mahna,sun,b,0.4444444444444444
+Sun Hands,Mahna_ Mahna,hands,sides,0.13333333333333333
+Sun Hands,Mahna_ Mahna,hands,rarities,0.2222222222222222
+Sun Hands,Mahna_ Mahna,hands,b,0.10526315789473684
+Sun Hands,Mahna_ Mahna,gorilla,sides,0.2727272727272727
+Sun Hands,Mahna_ Mahna,gorilla,rarities,0.08
+Sun Hands,Mahna_ Mahna,gorilla,b,0.46153846153846156
+Sun Hands,Mahna_ Mahna,manor,sides,0.375
+Sun Hands,Mahna_ Mahna,manor,rarities,0.10526315789473684
+Sun Hands,Mahna_ Mahna,manor,b,0.4
+Sun Hands,Hey Mama,sun,mama,0.36363636363636365
+Sun Hands,Hey Mama,hands,mama,0.1
+Sun Hands,Hey Mama,gorilla,mama,0.4
+Sun Hands,Hey Mama,manor,mama,0.3333333333333333
+Sun Hands,Pretty Pink Ribbon,sun,pretty,0
+Sun Hands,Pretty Pink Ribbon,sun,pink,0.125
+Sun Hands,Pretty Pink Ribbon,sun,ribbon,0.5
+Sun Hands,Pretty Pink Ribbon,sun,comfort,0.14285714285714285
+Sun Hands,Pretty Pink Ribbon,sun,eagle,0.4
+Sun Hands,Pretty Pink Ribbon,hands,pretty,0
+Sun Hands,Pretty Pink Ribbon,hands,pink,0.23529411764705882
+Sun Hands,Pretty Pink Ribbon,hands,ribbon,0.15384615384615385
+Sun Hands,Pretty Pink Ribbon,hands,comfort,0.26666666666666666
+Sun Hands,Pretty Pink Ribbon,hands,eagle,0.09523809523809523
+Sun Hands,Pretty Pink Ribbon,gorilla,pretty,0
+Sun Hands,Pretty Pink Ribbon,gorilla,pink,0.08333333333333333
+Sun Hands,Pretty Pink Ribbon,gorilla,ribbon,0.3
+Sun Hands,Pretty Pink Ribbon,gorilla,comfort,0.09090909090909091
+Sun Hands,Pretty Pink Ribbon,gorilla,eagle,0.6428571428571429
+Sun Hands,Pretty Pink Ribbon,manor,pretty,0
+Sun Hands,Pretty Pink Ribbon,manor,pink,0.1111111111111111
+Sun Hands,Pretty Pink Ribbon,manor,ribbon,0.42857142857142855
+Sun Hands,Pretty Pink Ribbon,manor,comfort,0.125
+Sun Hands,Pretty Pink Ribbon,manor,eagle,0.36363636363636365
+Sun Hands,Pop Champagne,sun,pop,0.36363636363636365
+Sun Hands,Pop Champagne,sun,champagne,0.2222222222222222
+Sun Hands,Pop Champagne,sun,pray,0
+Sun Hands,Pop Champagne,sun,iv,0.125
+Sun Hands,Pop Champagne,sun,reign,0.14285714285714285
+Sun Hands,Pop Champagne,hands,pop,0.1
+Sun Hands,Pop Champagne,hands,champagne,0.19047619047619047
+Sun Hands,Pop Champagne,hands,pray,0
+Sun Hands,Pop Champagne,hands,iv,0.23529411764705882
+Sun Hands,Pop Champagne,hands,reign,0.26666666666666666
+Sun Hands,Pop Champagne,gorilla,pop,0.4
+Sun Hands,Pop Champagne,gorilla,champagne,0.15384615384615385
+Sun Hands,Pop Champagne,gorilla,pray,0
+Sun Hands,Pop Champagne,gorilla,iv,0.08333333333333333
+Sun Hands,Pop Champagne,gorilla,reign,0.09090909090909091
+Sun Hands,Pop Champagne,manor,pop,0.3333333333333333
+Sun Hands,Pop Champagne,manor,champagne,0.2
+Sun Hands,Pop Champagne,manor,pray,0
+Sun Hands,Pop Champagne,manor,iv,0.1111111111111111
+Sun Hands,Pop Champagne,manor,reign,0.125
+Sun Hands,Frank Sinatra,sun,frank,0.4444444444444444
+Sun Hands,Frank Sinatra,sun,sinatra,0.42105263157894735
+Sun Hands,Frank Sinatra,sun,fashion,0.15384615384615385
+Sun Hands,Frank Sinatra,sun,nugget,0.2857142857142857
+Sun Hands,Frank Sinatra,hands,frank,0.125
+Sun Hands,Frank Sinatra,hands,sinatra,0.11764705882352941
+Sun Hands,Frank Sinatra,hands,fashion,0.2857142857142857
+Sun Hands,Frank Sinatra,hands,nugget,0.13333333333333333
+Sun Hands,Frank Sinatra,gorilla,frank,0.46153846153846156
+Sun Hands,Frank Sinatra,gorilla,sinatra,0.4444444444444444
+Sun Hands,Frank Sinatra,gorilla,fashion,0.09523809523809523
+Sun Hands,Frank Sinatra,gorilla,nugget,0.18181818181818182
+Sun Hands,Frank Sinatra,manor,frank,0.4
+Sun Hands,Frank Sinatra,manor,sinatra,0.38095238095238093
+Sun Hands,Frank Sinatra,manor,fashion,0.13333333333333333
+Sun Hands,Frank Sinatra,manor,nugget,0.25
+Sun Hands,Long Line Of Cars,sun,long,0
+Sun Hands,Long Line Of Cars,sun,line,0.14285714285714285
+Sun Hands,Long Line Of Cars,sun,cars,0.42105263157894735
+Sun Hands,Long Line Of Cars,sun,comfort,0.14285714285714285
+Sun Hands,Long Line Of Cars,sun,eagle,0.4
+Sun Hands,Long Line Of Cars,hands,long,0
+Sun Hands,Long Line Of Cars,hands,line,0.26666666666666666
+Sun Hands,Long Line Of Cars,hands,cars,0.1
+Sun Hands,Long Line Of Cars,hands,comfort,0.26666666666666666
+Sun Hands,Long Line Of Cars,hands,eagle,0.09523809523809523
+Sun Hands,Long Line Of Cars,gorilla,long,0
+Sun Hands,Long Line Of Cars,gorilla,line,0.09090909090909091
+Sun Hands,Long Line Of Cars,gorilla,cars,0.2962962962962963
+Sun Hands,Long Line Of Cars,gorilla,comfort,0.09090909090909091
+Sun Hands,Long Line Of Cars,gorilla,eagle,0.6428571428571429
+Sun Hands,Long Line Of Cars,manor,long,0
+Sun Hands,Long Line Of Cars,manor,line,0.125
+Sun Hands,Long Line Of Cars,manor,cars,0.47619047619047616
+Sun Hands,Long Line Of Cars,manor,comfort,0.125
+Sun Hands,Long Line Of Cars,manor,eagle,0.36363636363636365
+Sun Hands,W,sun,free,0.15384615384615385
+Sun Hands,W,sun,cloud,0.26666666666666666
+Sun Hands,W,hands,free,0.2857142857142857
+Sun Hands,W,hands,cloud,0.125
+Sun Hands,W,gorilla,free,0.09523809523809523
+Sun Hands,W,gorilla,cloud,0.17391304347826086
+Sun Hands,W,manor,free,0.13333333333333333
+Sun Hands,W,manor,cloud,0.23529411764705882
+Sun Hands,Let Me Go,sun,let,0.125
+Sun Hands,Let Me Go,sun,go,0.11764705882352941
+Sun Hands,Let Me Go,sun,prolonging,0
+Sun Hands,Let Me Go,sun,magic,0.125
+Sun Hands,Let Me Go,hands,let,0.23529411764705882
+Sun Hands,Let Me Go,hands,go,0.2222222222222222
+Sun Hands,Let Me Go,hands,prolonging,0
+Sun Hands,Let Me Go,hands,magic,0.35294117647058826
+Sun Hands,Let Me Go,gorilla,let,0.08333333333333333
+Sun Hands,Let Me Go,gorilla,go,0.08
+Sun Hands,Let Me Go,gorilla,prolonging,0
+Sun Hands,Let Me Go,gorilla,magic,0.08333333333333333
+Sun Hands,Let Me Go,manor,let,0.1111111111111111
+Sun Hands,Let Me Go,manor,go,0.10526315789473684
+Sun Hands,Let Me Go,manor,prolonging,0
+Sun Hands,Let Me Go,manor,magic,0.1111111111111111
+Sun Hands,Cool Blue Reason,sun,cool,0.26666666666666666
+Sun Hands,Cool Blue Reason,sun,blue,0.125
+Sun Hands,Cool Blue Reason,sun,reason,0.14285714285714285
+Sun Hands,Cool Blue Reason,sun,prolonging,0
+Sun Hands,Cool Blue Reason,sun,magic,0.125
+Sun Hands,Cool Blue Reason,hands,cool,0.25
+Sun Hands,Cool Blue Reason,hands,blue,0.23529411764705882
+Sun Hands,Cool Blue Reason,hands,reason,0.4
+Sun Hands,Cool Blue Reason,hands,prolonging,0
+Sun Hands,Cool Blue Reason,hands,magic,0.35294117647058826
+Sun Hands,Cool Blue Reason,gorilla,cool,0.17391304347826086
+Sun Hands,Cool Blue Reason,gorilla,blue,0.08333333333333333
+Sun Hands,Cool Blue Reason,gorilla,reason,0.09090909090909091
+Sun Hands,Cool Blue Reason,gorilla,prolonging,0
+Sun Hands,Cool Blue Reason,gorilla,magic,0.08333333333333333
+Sun Hands,Cool Blue Reason,manor,cool,0.23529411764705882
+Sun Hands,Cool Blue Reason,manor,blue,0.1111111111111111
+Sun Hands,Cool Blue Reason,manor,reason,0.125
+Sun Hands,Cool Blue Reason,manor,prolonging,0
+Sun Hands,Cool Blue Reason,manor,magic,0.1111111111111111
+Camera Talk,Where Would I Be?,camera,prolonging,0
+Camera Talk,Where Would I Be?,camera,magic,0.11764705882352941
+Camera Talk,Where Would I Be?,talk,prolonging,0
+Camera Talk,Where Would I Be?,talk,magic,0.26666666666666666
+Camera Talk,Where Would I Be?,camera,prolonging,0
+Camera Talk,Where Would I Be?,camera,magic,0.11764705882352941
+Camera Talk,Where Would I Be?,talk,prolonging,0
+Camera Talk,Where Would I Be?,talk,magic,0.26666666666666666
+Camera Talk,Comfort Eagle,camera,comfort,0.13333333333333333
+Camera Talk,Comfort Eagle,camera,eagle,0.38095238095238093
+Camera Talk,Comfort Eagle,camera,comfort,0.13333333333333333
+Camera Talk,Comfort Eagle,camera,eagle,0.38095238095238093
+Camera Talk,Comfort Eagle,talk,comfort,0.3076923076923077
+Camera Talk,Comfort Eagle,talk,eagle,0.10526315789473684
+Camera Talk,Comfort Eagle,talk,comfort,0.3076923076923077
+Camera Talk,Comfort Eagle,talk,eagle,0.10526315789473684
+Camera Talk,Comfort Eagle,camera,comfort,0.13333333333333333
+Camera Talk,Comfort Eagle,camera,eagle,0.38095238095238093
+Camera Talk,Comfort Eagle,camera,comfort,0.13333333333333333
+Camera Talk,Comfort Eagle,camera,eagle,0.38095238095238093
+Camera Talk,Comfort Eagle,talk,comfort,0.3076923076923077
+Camera Talk,Comfort Eagle,talk,eagle,0.10526315789473684
+Camera Talk,Comfort Eagle,talk,comfort,0.3076923076923077
+Camera Talk,Comfort Eagle,talk,eagle,0.10526315789473684
+Camera Talk,Never There,camera,never,0
+Camera Talk,Never There,camera,prolonging,0
+Camera Talk,Never There,camera,magic,0.11764705882352941
+Camera Talk,Never There,talk,never,0
+Camera Talk,Never There,talk,prolonging,0
+Camera Talk,Never There,talk,magic,0.26666666666666666
+Camera Talk,Never There,camera,never,0
+Camera Talk,Never There,camera,prolonging,0
+Camera Talk,Never There,camera,magic,0.11764705882352941
+Camera Talk,Never There,talk,never,0
+Camera Talk,Never There,talk,prolonging,0
+Camera Talk,Never There,talk,magic,0.26666666666666666
+Camera Talk,Beautiful,camera,beautiful,0
+Camera Talk,Beautiful,camera,hotel,0.5882352941176471
+Camera Talk,Beautiful,talk,beautiful,0
+Camera Talk,Beautiful,talk,hotel,0.13333333333333333
+Camera Talk,Beautiful,camera,beautiful,0
+Camera Talk,Beautiful,camera,hotel,0.5882352941176471
+Camera Talk,Beautiful,talk,beautiful,0
+Camera Talk,Beautiful,talk,hotel,0.13333333333333333
+Camera Talk,Carbon Monoxide,camera,carbon,0.26666666666666666
+Camera Talk,Carbon Monoxide,camera,monoxide,0.2222222222222222
+Camera Talk,Carbon Monoxide,camera,pressure,0.25
+Camera Talk,Carbon Monoxide,camera,chief,0.4444444444444444
+Camera Talk,Carbon Monoxide,talk,carbon,0.2857142857142857
+Camera Talk,Carbon Monoxide,talk,monoxide,0.23529411764705882
+Camera Talk,Carbon Monoxide,talk,pressure,0.14285714285714285
+Camera Talk,Carbon Monoxide,talk,chief,0.15384615384615385
+Camera Talk,Carbon Monoxide,camera,carbon,0.26666666666666666
+Camera Talk,Carbon Monoxide,camera,monoxide,0.2222222222222222
+Camera Talk,Carbon Monoxide,camera,pressure,0.25
+Camera Talk,Carbon Monoxide,camera,chief,0.4444444444444444
+Camera Talk,Carbon Monoxide,talk,carbon,0.2857142857142857
+Camera Talk,Carbon Monoxide,talk,monoxide,0.23529411764705882
+Camera Talk,Carbon Monoxide,talk,pressure,0.14285714285714285
+Camera Talk,Carbon Monoxide,talk,chief,0.15384615384615385
+Camera Talk,Guitar,camera,guitar,0.631578947368421
+Camera Talk,Guitar,camera,prolonging,0
+Camera Talk,Guitar,camera,magic,0.11764705882352941
+Camera Talk,Guitar,talk,guitar,0.11764705882352941
+Camera Talk,Guitar,talk,prolonging,0
+Camera Talk,Guitar,talk,magic,0.26666666666666666
+Camera Talk,Guitar,camera,guitar,0.631578947368421
+Camera Talk,Guitar,camera,prolonging,0
+Camera Talk,Guitar,camera,magic,0.11764705882352941
+Camera Talk,Guitar,talk,guitar,0.11764705882352941
+Camera Talk,Guitar,talk,prolonging,0
+Camera Talk,Guitar,talk,magic,0.26666666666666666
+Camera Talk,Opera Singer,camera,opera,0.125
+Camera Talk,Opera Singer,camera,singer,0.4
+Camera Talk,Opera Singer,camera,comfort,0.13333333333333333
+Camera Talk,Opera Singer,camera,eagle,0.38095238095238093
+Camera Talk,Opera Singer,talk,opera,0.5333333333333333
+Camera Talk,Opera Singer,talk,singer,0.13333333333333333
+Camera Talk,Opera Singer,talk,comfort,0.3076923076923077
+Camera Talk,Opera Singer,talk,eagle,0.10526315789473684
+Camera Talk,Opera Singer,camera,opera,0.125
+Camera Talk,Opera Singer,camera,singer,0.4
+Camera Talk,Opera Singer,camera,comfort,0.13333333333333333
+Camera Talk,Opera Singer,camera,eagle,0.38095238095238093
+Camera Talk,Opera Singer,talk,opera,0.5333333333333333
+Camera Talk,Opera Singer,talk,singer,0.13333333333333333
+Camera Talk,Opera Singer,talk,comfort,0.3076923076923077
+Camera Talk,Opera Singer,talk,eagle,0.10526315789473684
+Camera Talk,Waiting,camera,waiting,0.125
+Camera Talk,Waiting,camera,pressure,0.25
+Camera Talk,Waiting,camera,chief,0.4444444444444444
+Camera Talk,Waiting,talk,waiting,0.2857142857142857
+Camera Talk,Waiting,talk,pressure,0.14285714285714285
+Camera Talk,Waiting,talk,chief,0.15384615384615385
+Camera Talk,Waiting,camera,waiting,0.125
+Camera Talk,Waiting,camera,pressure,0.25
+Camera Talk,Waiting,camera,chief,0.4444444444444444
+Camera Talk,Waiting,talk,waiting,0.2857142857142857
+Camera Talk,Waiting,talk,pressure,0.14285714285714285
+Camera Talk,Waiting,talk,chief,0.15384615384615385
+Camera Talk,Alpha Beta Parking Lot,camera,alpha,0.1111111111111111
+Camera Talk,Alpha Beta Parking Lot,camera,beta,0.1111111111111111
+Camera Talk,Alpha Beta Parking Lot,camera,parking,0.13333333333333333
+Camera Talk,Alpha Beta Parking Lot,camera,lot,0.13333333333333333
+Camera Talk,Alpha Beta Parking Lot,camera,prolonging,0
+Camera Talk,Alpha Beta Parking Lot,camera,magic,0.11764705882352941
+Camera Talk,Alpha Beta Parking Lot,talk,alpha,0.375
+Camera Talk,Alpha Beta Parking Lot,talk,beta,0.375
+Camera Talk,Alpha Beta Parking Lot,talk,parking,0.3076923076923077
+Camera Talk,Alpha Beta Parking Lot,talk,lot,0.3076923076923077
+Camera Talk,Alpha Beta Parking Lot,talk,prolonging,0
+Camera Talk,Alpha Beta Parking Lot,talk,magic,0.26666666666666666
+Camera Talk,Alpha Beta Parking Lot,camera,alpha,0.1111111111111111
+Camera Talk,Alpha Beta Parking Lot,camera,beta,0.1111111111111111
+Camera Talk,Alpha Beta Parking Lot,camera,parking,0.13333333333333333
+Camera Talk,Alpha Beta Parking Lot,camera,lot,0.13333333333333333
+Camera Talk,Alpha Beta Parking Lot,camera,prolonging,0
+Camera Talk,Alpha Beta Parking Lot,camera,magic,0.11764705882352941
+Camera Talk,Alpha Beta Parking Lot,talk,alpha,0.375
+Camera Talk,Alpha Beta Parking Lot,talk,beta,0.375
+Camera Talk,Alpha Beta Parking Lot,talk,parking,0.3076923076923077
+Camera Talk,Alpha Beta Parking Lot,talk,lot,0.3076923076923077
+Camera Talk,Alpha Beta Parking Lot,talk,prolonging,0
+Camera Talk,Alpha Beta Parking Lot,talk,magic,0.26666666666666666
+Camera Talk,No Phone,camera,phone,0.7777777777777778
+Camera Talk,No Phone,camera,pressure,0.25
+Camera Talk,No Phone,camera,chief,0.4444444444444444
+Camera Talk,No Phone,talk,phone,0.125
+Camera Talk,No Phone,talk,pressure,0.14285714285714285
+Camera Talk,No Phone,talk,chief,0.15384615384615385
+Camera Talk,No Phone,camera,phone,0.7777777777777778
+Camera Talk,No Phone,camera,pressure,0.25
+Camera Talk,No Phone,camera,chief,0.4444444444444444
+Camera Talk,No Phone,talk,phone,0.125
+Camera Talk,No Phone,talk,pressure,0.14285714285714285
+Camera Talk,No Phone,talk,chief,0.15384615384615385
+Camera Talk,Commissioning A Symphony In C,camera,symphony,0.11764705882352941
+Camera Talk,Commissioning A Symphony In C,camera,commissioning,0.1111111111111111
+Camera Talk,Commissioning A Symphony In C,camera,c,0.11764705882352941
+Camera Talk,Commissioning A Symphony In C,camera,comfort,0.13333333333333333
+Camera Talk,Commissioning A Symphony In C,camera,eagle,0.38095238095238093
+Camera Talk,Commissioning A Symphony In C,talk,symphony,0.5
+Camera Talk,Commissioning A Symphony In C,talk,commissioning,0.25
+Camera Talk,Commissioning A Symphony In C,talk,c,0.26666666666666666
+Camera Talk,Commissioning A Symphony In C,talk,comfort,0.3076923076923077
+Camera Talk,Commissioning A Symphony In C,talk,eagle,0.10526315789473684
+Camera Talk,Commissioning A Symphony In C,camera,symphony,0.11764705882352941
+Camera Talk,Commissioning A Symphony In C,camera,commissioning,0.1111111111111111
+Camera Talk,Commissioning A Symphony In C,camera,c,0.11764705882352941
+Camera Talk,Commissioning A Symphony In C,camera,comfort,0.13333333333333333
+Camera Talk,Commissioning A Symphony In C,camera,eagle,0.38095238095238093
+Camera Talk,Commissioning A Symphony In C,talk,symphony,0.5
+Camera Talk,Commissioning A Symphony In C,talk,commissioning,0.25
+Camera Talk,Commissioning A Symphony In C,talk,c,0.26666666666666666
+Camera Talk,Commissioning A Symphony In C,talk,comfort,0.3076923076923077
+Camera Talk,Commissioning A Symphony In C,talk,eagle,0.10526315789473684
+Camera Talk,Mexico,camera,mexico,0.3157894736842105
+Camera Talk,Mexico,camera,prolonging,0
+Camera Talk,Mexico,camera,magic,0.11764705882352941
+Camera Talk,Mexico,talk,mexico,0.11764705882352941
+Camera Talk,Mexico,talk,prolonging,0
+Camera Talk,Mexico,talk,magic,0.26666666666666666
+Camera Talk,Mexico,camera,mexico,0.3157894736842105
+Camera Talk,Mexico,camera,prolonging,0
+Camera Talk,Mexico,camera,magic,0.11764705882352941
+Camera Talk,Mexico,talk,mexico,0.11764705882352941
+Camera Talk,Mexico,talk,prolonging,0
+Camera Talk,Mexico,talk,magic,0.26666666666666666
+Camera Talk,Mahna_ Mahna,camera,sides,0.4
+Camera Talk,Mahna_ Mahna,camera,rarities,0.1111111111111111
+Camera Talk,Mahna_ Mahna,camera,b,0.42105263157894735
+Camera Talk,Mahna_ Mahna,talk,sides,0.15384615384615385
+Camera Talk,Mahna_ Mahna,talk,rarities,0.25
+Camera Talk,Mahna_ Mahna,talk,b,0.11764705882352941
+Camera Talk,Mahna_ Mahna,camera,sides,0.4
+Camera Talk,Mahna_ Mahna,camera,rarities,0.1111111111111111
+Camera Talk,Mahna_ Mahna,camera,b,0.42105263157894735
+Camera Talk,Mahna_ Mahna,talk,sides,0.15384615384615385
+Camera Talk,Mahna_ Mahna,talk,rarities,0.25
+Camera Talk,Mahna_ Mahna,talk,b,0.11764705882352941
+Camera Talk,Hey Mama,camera,mama,0.34782608695652173
+Camera Talk,Hey Mama,talk,mama,0.1111111111111111
+Camera Talk,Hey Mama,camera,mama,0.34782608695652173
+Camera Talk,Hey Mama,talk,mama,0.1111111111111111
+Camera Talk,Pretty Pink Ribbon,camera,pretty,0
+Camera Talk,Pretty Pink Ribbon,camera,pink,0.11764705882352941
+Camera Talk,Pretty Pink Ribbon,camera,ribbon,0.46153846153846156
+Camera Talk,Pretty Pink Ribbon,camera,comfort,0.13333333333333333
+Camera Talk,Pretty Pink Ribbon,camera,eagle,0.38095238095238093
+Camera Talk,Pretty Pink Ribbon,talk,pretty,0
+Camera Talk,Pretty Pink Ribbon,talk,pink,0.26666666666666666
+Camera Talk,Pretty Pink Ribbon,talk,ribbon,0.18181818181818182
+Camera Talk,Pretty Pink Ribbon,talk,comfort,0.3076923076923077
+Camera Talk,Pretty Pink Ribbon,talk,eagle,0.10526315789473684
+Camera Talk,Pretty Pink Ribbon,camera,pretty,0
+Camera Talk,Pretty Pink Ribbon,camera,pink,0.11764705882352941
+Camera Talk,Pretty Pink Ribbon,camera,ribbon,0.46153846153846156
+Camera Talk,Pretty Pink Ribbon,camera,comfort,0.13333333333333333
+Camera Talk,Pretty Pink Ribbon,camera,eagle,0.38095238095238093
+Camera Talk,Pretty Pink Ribbon,talk,pretty,0
+Camera Talk,Pretty Pink Ribbon,talk,pink,0.26666666666666666
+Camera Talk,Pretty Pink Ribbon,talk,ribbon,0.18181818181818182
+Camera Talk,Pretty Pink Ribbon,talk,comfort,0.3076923076923077
+Camera Talk,Pretty Pink Ribbon,talk,eagle,0.10526315789473684
+Camera Talk,Pop Champagne,camera,pop,0.34782608695652173
+Camera Talk,Pop Champagne,camera,champagne,0.21052631578947367
+Camera Talk,Pop Champagne,camera,pray,0
+Camera Talk,Pop Champagne,camera,iv,0.11764705882352941
+Camera Talk,Pop Champagne,camera,reign,0.13333333333333333
+Camera Talk,Pop Champagne,talk,pop,0.1111111111111111
+Camera Talk,Pop Champagne,talk,champagne,0.21052631578947367
+Camera Talk,Pop Champagne,talk,pray,0
+Camera Talk,Pop Champagne,talk,iv,0.26666666666666666
+Camera Talk,Pop Champagne,talk,reign,0.3076923076923077
+Camera Talk,Pop Champagne,camera,pop,0.34782608695652173
+Camera Talk,Pop Champagne,camera,champagne,0.21052631578947367
+Camera Talk,Pop Champagne,camera,pray,0
+Camera Talk,Pop Champagne,camera,iv,0.11764705882352941
+Camera Talk,Pop Champagne,camera,reign,0.13333333333333333
+Camera Talk,Pop Champagne,talk,pop,0.1111111111111111
+Camera Talk,Pop Champagne,talk,champagne,0.21052631578947367
+Camera Talk,Pop Champagne,talk,pray,0
+Camera Talk,Pop Champagne,talk,iv,0.26666666666666666
+Camera Talk,Pop Champagne,talk,reign,0.3076923076923077
+Camera Talk,Frank Sinatra,camera,frank,0.42105263157894735
+Camera Talk,Frank Sinatra,camera,sinatra,0.4
+Camera Talk,Frank Sinatra,camera,fashion,0.14285714285714285
+Camera Talk,Frank Sinatra,camera,nugget,0.26666666666666666
+Camera Talk,Frank Sinatra,talk,frank,0.14285714285714285
+Camera Talk,Frank Sinatra,talk,sinatra,0.13333333333333333
+Camera Talk,Frank Sinatra,talk,fashion,0.3333333333333333
+Camera Talk,Frank Sinatra,talk,nugget,0.15384615384615385
+Camera Talk,Frank Sinatra,camera,frank,0.42105263157894735
+Camera Talk,Frank Sinatra,camera,sinatra,0.4
+Camera Talk,Frank Sinatra,camera,fashion,0.14285714285714285
+Camera Talk,Frank Sinatra,camera,nugget,0.26666666666666666
+Camera Talk,Frank Sinatra,talk,frank,0.14285714285714285
+Camera Talk,Frank Sinatra,talk,sinatra,0.13333333333333333
+Camera Talk,Frank Sinatra,talk,fashion,0.3333333333333333
+Camera Talk,Frank Sinatra,talk,nugget,0.15384615384615385
+Camera Talk,Long Line Of Cars,camera,long,0
+Camera Talk,Long Line Of Cars,camera,line,0.13333333333333333
+Camera Talk,Long Line Of Cars,camera,cars,0.6
+Camera Talk,Long Line Of Cars,camera,comfort,0.13333333333333333
+Camera Talk,Long Line Of Cars,camera,eagle,0.38095238095238093
+Camera Talk,Long Line Of Cars,talk,long,0
+Camera Talk,Long Line Of Cars,talk,line,0.3076923076923077
+Camera Talk,Long Line Of Cars,talk,cars,0.1111111111111111
+Camera Talk,Long Line Of Cars,talk,comfort,0.3076923076923077
+Camera Talk,Long Line Of Cars,talk,eagle,0.10526315789473684
+Camera Talk,Long Line Of Cars,camera,long,0
+Camera Talk,Long Line Of Cars,camera,line,0.13333333333333333
+Camera Talk,Long Line Of Cars,camera,cars,0.6
+Camera Talk,Long Line Of Cars,camera,comfort,0.13333333333333333
+Camera Talk,Long Line Of Cars,camera,eagle,0.38095238095238093
+Camera Talk,Long Line Of Cars,talk,long,0
+Camera Talk,Long Line Of Cars,talk,line,0.3076923076923077
+Camera Talk,Long Line Of Cars,talk,cars,0.1111111111111111
+Camera Talk,Long Line Of Cars,talk,comfort,0.3076923076923077
+Camera Talk,Long Line Of Cars,talk,eagle,0.10526315789473684
+Camera Talk,W,camera,free,0.14285714285714285
+Camera Talk,W,camera,cloud,0.25
+Camera Talk,W,talk,free,0.3333333333333333
+Camera Talk,W,talk,cloud,0.14285714285714285
+Camera Talk,W,camera,free,0.14285714285714285
+Camera Talk,W,camera,cloud,0.25
+Camera Talk,W,talk,free,0.3333333333333333
+Camera Talk,W,talk,cloud,0.14285714285714285
+Camera Talk,Let Me Go,camera,let,0.11764705882352941
+Camera Talk,Let Me Go,camera,go,0.1111111111111111
+Camera Talk,Let Me Go,camera,prolonging,0
+Camera Talk,Let Me Go,camera,magic,0.11764705882352941
+Camera Talk,Let Me Go,talk,let,0.26666666666666666
+Camera Talk,Let Me Go,talk,go,0.25
+Camera Talk,Let Me Go,talk,prolonging,0
+Camera Talk,Let Me Go,talk,magic,0.26666666666666666
+Camera Talk,Let Me Go,camera,let,0.11764705882352941
+Camera Talk,Let Me Go,camera,go,0.1111111111111111
+Camera Talk,Let Me Go,camera,prolonging,0
+Camera Talk,Let Me Go,camera,magic,0.11764705882352941
+Camera Talk,Let Me Go,talk,let,0.26666666666666666
+Camera Talk,Let Me Go,talk,go,0.25
+Camera Talk,Let Me Go,talk,prolonging,0
+Camera Talk,Let Me Go,talk,magic,0.26666666666666666
+Camera Talk,Cool Blue Reason,camera,cool,0.25
+Camera Talk,Cool Blue Reason,camera,blue,0.11764705882352941
+Camera Talk,Cool Blue Reason,camera,reason,0.13333333333333333
+Camera Talk,Cool Blue Reason,camera,prolonging,0
+Camera Talk,Cool Blue Reason,camera,magic,0.11764705882352941
+Camera Talk,Cool Blue Reason,talk,cool,0.2857142857142857
+Camera Talk,Cool Blue Reason,talk,blue,0.26666666666666666
+Camera Talk,Cool Blue Reason,talk,reason,0.3076923076923077
+Camera Talk,Cool Blue Reason,talk,prolonging,0
+Camera Talk,Cool Blue Reason,talk,magic,0.26666666666666666
+Camera Talk,Cool Blue Reason,camera,cool,0.25
+Camera Talk,Cool Blue Reason,camera,blue,0.11764705882352941
+Camera Talk,Cool Blue Reason,camera,reason,0.13333333333333333
+Camera Talk,Cool Blue Reason,camera,prolonging,0
+Camera Talk,Cool Blue Reason,camera,magic,0.11764705882352941
+Camera Talk,Cool Blue Reason,talk,cool,0.2857142857142857
+Camera Talk,Cool Blue Reason,talk,blue,0.26666666666666666
+Camera Talk,Cool Blue Reason,talk,reason,0.3076923076923077
+Camera Talk,Cool Blue Reason,talk,prolonging,0
+Camera Talk,Cool Blue Reason,talk,magic,0.26666666666666666
+Belle,Where Would I Be?,beautiful,prolonging,0
+Belle,Where Would I Be?,beautiful,magic,0
+Belle,Where Would I Be?,dreams,prolonging,0
+Belle,Where Would I Be?,dreams,magic,0.47058823529411764
+Belle,Comfort Eagle,beautiful,comfort,0
+Belle,Comfort Eagle,beautiful,eagle,0
+Belle,Comfort Eagle,beautiful,comfort,0
+Belle,Comfort Eagle,beautiful,eagle,0
+Belle,Comfort Eagle,dreams,comfort,0.26666666666666666
+Belle,Comfort Eagle,dreams,eagle,0.09523809523809523
+Belle,Comfort Eagle,dreams,comfort,0.26666666666666666
+Belle,Comfort Eagle,dreams,eagle,0.09523809523809523
+Belle,Never There,beautiful,never,0
+Belle,Never There,beautiful,prolonging,0
+Belle,Never There,beautiful,magic,0
+Belle,Never There,dreams,never,0
+Belle,Never There,dreams,prolonging,0
+Belle,Never There,dreams,magic,0.47058823529411764
+Belle,Beautiful,beautiful,beautiful,1.0
+Belle,Beautiful,beautiful,hotel,0
+Belle,Beautiful,dreams,beautiful,0
+Belle,Beautiful,dreams,hotel,0.11764705882352941
+Belle,Carbon Monoxide,beautiful,carbon,0
+Belle,Carbon Monoxide,beautiful,monoxide,0
+Belle,Carbon Monoxide,beautiful,pressure,0
+Belle,Carbon Monoxide,beautiful,chief,0
+Belle,Carbon Monoxide,dreams,carbon,0.25
+Belle,Carbon Monoxide,dreams,monoxide,0.21052631578947367
+Belle,Carbon Monoxide,dreams,pressure,0.125
+Belle,Carbon Monoxide,dreams,chief,0.13333333333333333
+Belle,Guitar,beautiful,guitar,0
+Belle,Guitar,beautiful,prolonging,0
+Belle,Guitar,beautiful,magic,0
+Belle,Guitar,dreams,guitar,0.10526315789473684
+Belle,Guitar,dreams,prolonging,0
+Belle,Guitar,dreams,magic,0.47058823529411764
+Belle,Opera Singer,beautiful,opera,0
+Belle,Opera Singer,beautiful,singer,0
+Belle,Opera Singer,beautiful,comfort,0
+Belle,Opera Singer,beautiful,eagle,0
+Belle,Opera Singer,dreams,opera,0.25
+Belle,Opera Singer,dreams,singer,0.11764705882352941
+Belle,Opera Singer,dreams,comfort,0.26666666666666666
+Belle,Opera Singer,dreams,eagle,0.09523809523809523
+Belle,Waiting,beautiful,waiting,0
+Belle,Waiting,beautiful,pressure,0
+Belle,Waiting,beautiful,chief,0
+Belle,Waiting,dreams,waiting,0.375
+Belle,Waiting,dreams,pressure,0.125
+Belle,Waiting,dreams,chief,0.13333333333333333
+Belle,Alpha Beta Parking Lot,beautiful,alpha,0
+Belle,Alpha Beta Parking Lot,beautiful,beta,0
+Belle,Alpha Beta Parking Lot,beautiful,parking,0
+Belle,Alpha Beta Parking Lot,beautiful,lot,0
+Belle,Alpha Beta Parking Lot,beautiful,prolonging,0
+Belle,Alpha Beta Parking Lot,beautiful,magic,0
+Belle,Alpha Beta Parking Lot,dreams,alpha,0.2222222222222222
+Belle,Alpha Beta Parking Lot,dreams,beta,0.2222222222222222
+Belle,Alpha Beta Parking Lot,dreams,parking,0.26666666666666666
+Belle,Alpha Beta Parking Lot,dreams,lot,0.26666666666666666
+Belle,Alpha Beta Parking Lot,dreams,prolonging,0
+Belle,Alpha Beta Parking Lot,dreams,magic,0.47058823529411764
+Belle,No Phone,beautiful,phone,0
+Belle,No Phone,beautiful,pressure,0
+Belle,No Phone,beautiful,chief,0
+Belle,No Phone,dreams,phone,0.1111111111111111
+Belle,No Phone,dreams,pressure,0.125
+Belle,No Phone,dreams,chief,0.13333333333333333
+Belle,Commissioning A Symphony In C,beautiful,symphony,0
+Belle,Commissioning A Symphony In C,beautiful,commissioning,0
+Belle,Commissioning A Symphony In C,beautiful,c,0
+Belle,Commissioning A Symphony In C,beautiful,comfort,0
+Belle,Commissioning A Symphony In C,beautiful,eagle,0
+Belle,Commissioning A Symphony In C,dreams,symphony,0.23529411764705882
+Belle,Commissioning A Symphony In C,dreams,commissioning,0.3333333333333333
+Belle,Commissioning A Symphony In C,dreams,c,0.23529411764705882
+Belle,Commissioning A Symphony In C,dreams,comfort,0.26666666666666666
+Belle,Commissioning A Symphony In C,dreams,eagle,0.09523809523809523
+Belle,Mexico,beautiful,mexico,0
+Belle,Mexico,beautiful,prolonging,0
+Belle,Mexico,beautiful,magic,0
+Belle,Mexico,dreams,mexico,0.10526315789473684
+Belle,Mexico,dreams,prolonging,0
+Belle,Mexico,dreams,magic,0.47058823529411764
+Belle,Mahna_ Mahna,beautiful,sides,0
+Belle,Mahna_ Mahna,beautiful,rarities,0
+Belle,Mahna_ Mahna,beautiful,b,0
+Belle,Mahna_ Mahna,dreams,sides,0.13333333333333333
+Belle,Mahna_ Mahna,dreams,rarities,0.2222222222222222
+Belle,Mahna_ Mahna,dreams,b,0.10526315789473684
+Belle,Hey Mama,beautiful,mama,0
+Belle,Hey Mama,dreams,mama,0.1
+Belle,Pretty Pink Ribbon,beautiful,pretty,0
+Belle,Pretty Pink Ribbon,beautiful,pink,0
+Belle,Pretty Pink Ribbon,beautiful,ribbon,0
+Belle,Pretty Pink Ribbon,beautiful,comfort,0
+Belle,Pretty Pink Ribbon,beautiful,eagle,0
+Belle,Pretty Pink Ribbon,dreams,pretty,0
+Belle,Pretty Pink Ribbon,dreams,pink,0.23529411764705882
+Belle,Pretty Pink Ribbon,dreams,ribbon,0.15384615384615385
+Belle,Pretty Pink Ribbon,dreams,comfort,0.26666666666666666
+Belle,Pretty Pink Ribbon,dreams,eagle,0.09523809523809523
+Belle,Pop Champagne,beautiful,pop,0
+Belle,Pop Champagne,beautiful,champagne,0
+Belle,Pop Champagne,beautiful,pray,0
+Belle,Pop Champagne,beautiful,iv,0
+Belle,Pop Champagne,beautiful,reign,0
+Belle,Pop Champagne,dreams,pop,0.1
+Belle,Pop Champagne,dreams,champagne,0.19047619047619047
+Belle,Pop Champagne,dreams,pray,0
+Belle,Pop Champagne,dreams,iv,0.23529411764705882
+Belle,Pop Champagne,dreams,reign,0.26666666666666666
+Belle,Frank Sinatra,beautiful,frank,0
+Belle,Frank Sinatra,beautiful,sinatra,0
+Belle,Frank Sinatra,beautiful,fashion,0
+Belle,Frank Sinatra,beautiful,nugget,0
+Belle,Frank Sinatra,dreams,frank,0.125
+Belle,Frank Sinatra,dreams,sinatra,0.11764705882352941
+Belle,Frank Sinatra,dreams,fashion,0.2857142857142857
+Belle,Frank Sinatra,dreams,nugget,0.13333333333333333
+Belle,Long Line Of Cars,beautiful,long,0
+Belle,Long Line Of Cars,beautiful,line,0
+Belle,Long Line Of Cars,beautiful,cars,0
+Belle,Long Line Of Cars,beautiful,comfort,0
+Belle,Long Line Of Cars,beautiful,eagle,0
+Belle,Long Line Of Cars,dreams,long,0
+Belle,Long Line Of Cars,dreams,line,0.26666666666666666
+Belle,Long Line Of Cars,dreams,cars,0.1
+Belle,Long Line Of Cars,dreams,comfort,0.26666666666666666
+Belle,Long Line Of Cars,dreams,eagle,0.09523809523809523
+Belle,W,beautiful,free,0
+Belle,W,beautiful,cloud,0
+Belle,W,dreams,free,0.2857142857142857
+Belle,W,dreams,cloud,0.125
+Belle,Let Me Go,beautiful,let,0
+Belle,Let Me Go,beautiful,go,0
+Belle,Let Me Go,beautiful,prolonging,0
+Belle,Let Me Go,beautiful,magic,0
+Belle,Let Me Go,dreams,let,0.23529411764705882
+Belle,Let Me Go,dreams,go,0.2222222222222222
+Belle,Let Me Go,dreams,prolonging,0
+Belle,Let Me Go,dreams,magic,0.47058823529411764
+Belle,Cool Blue Reason,beautiful,cool,0
+Belle,Cool Blue Reason,beautiful,blue,0
+Belle,Cool Blue Reason,beautiful,reason,0
+Belle,Cool Blue Reason,beautiful,prolonging,0
+Belle,Cool Blue Reason,beautiful,magic,0
+Belle,Cool Blue Reason,dreams,cool,0.25
+Belle,Cool Blue Reason,dreams,blue,0.23529411764705882
+Belle,Cool Blue Reason,dreams,reason,0.4
+Belle,Cool Blue Reason,dreams,prolonging,0
+Belle,Cool Blue Reason,dreams,magic,0.47058823529411764
+Auto Rock,Where Would I Be?,auto,prolonging,0
+Auto Rock,Where Would I Be?,auto,magic,0.10526315789473684
+Auto Rock,Where Would I Be?,rock,prolonging,0
+Auto Rock,Where Would I Be?,rock,magic,0.14285714285714285
+Auto Rock,Where Would I Be?,mr,prolonging,0
+Auto Rock,Where Would I Be?,mr,magic,0.23529411764705882
+Auto Rock,Where Would I Be?,beast,prolonging,0
+Auto Rock,Where Would I Be?,beast,magic,0.13333333333333333
+Auto Rock,Comfort Eagle,auto,comfort,0.11764705882352941
+Auto Rock,Comfort Eagle,auto,eagle,0.34782608695652173
+Auto Rock,Comfort Eagle,auto,comfort,0.11764705882352941
+Auto Rock,Comfort Eagle,auto,eagle,0.34782608695652173
+Auto Rock,Comfort Eagle,rock,comfort,0.16666666666666666
+Auto Rock,Comfort Eagle,rock,eagle,0.4444444444444444
+Auto Rock,Comfort Eagle,rock,comfort,0.16666666666666666
+Auto Rock,Comfort Eagle,rock,eagle,0.4444444444444444
+Auto Rock,Comfort Eagle,mr,comfort,0.26666666666666666
+Auto Rock,Comfort Eagle,mr,eagle,0.09523809523809523
+Auto Rock,Comfort Eagle,mr,comfort,0.26666666666666666
+Auto Rock,Comfort Eagle,mr,eagle,0.09523809523809523
+Auto Rock,Comfort Eagle,beast,comfort,0.15384615384615385
+Auto Rock,Comfort Eagle,beast,eagle,0.7368421052631579
+Auto Rock,Comfort Eagle,beast,comfort,0.15384615384615385
+Auto Rock,Comfort Eagle,beast,eagle,0.7368421052631579
+Auto Rock,Never There,auto,never,0
+Auto Rock,Never There,auto,prolonging,0
+Auto Rock,Never There,auto,magic,0.10526315789473684
+Auto Rock,Never There,rock,never,0
+Auto Rock,Never There,rock,prolonging,0
+Auto Rock,Never There,rock,magic,0.14285714285714285
+Auto Rock,Never There,mr,never,0
+Auto Rock,Never There,mr,prolonging,0
+Auto Rock,Never There,mr,magic,0.23529411764705882
+Auto Rock,Never There,beast,never,0
+Auto Rock,Never There,beast,prolonging,0
+Auto Rock,Never There,beast,magic,0.13333333333333333
+Auto Rock,Beautiful,auto,beautiful,0
+Auto Rock,Beautiful,auto,hotel,0.5263157894736842
+Auto Rock,Beautiful,rock,beautiful,0
+Auto Rock,Beautiful,rock,hotel,0.5714285714285714
+Auto Rock,Beautiful,mr,beautiful,0
+Auto Rock,Beautiful,mr,hotel,0.11764705882352941
+Auto Rock,Beautiful,beast,beautiful,0
+Auto Rock,Beautiful,beast,hotel,0.5333333333333333
+Auto Rock,Carbon Monoxide,auto,carbon,0.23529411764705882
+Auto Rock,Carbon Monoxide,auto,monoxide,0.2
+Auto Rock,Carbon Monoxide,auto,pressure,0.2222222222222222
+Auto Rock,Carbon Monoxide,auto,chief,0.4
+Auto Rock,Carbon Monoxide,rock,carbon,0.3333333333333333
+Auto Rock,Carbon Monoxide,rock,monoxide,0.26666666666666666
+Auto Rock,Carbon Monoxide,rock,pressure,0.3076923076923077
+Auto Rock,Carbon Monoxide,rock,chief,0.5333333333333333
+Auto Rock,Carbon Monoxide,mr,carbon,0.5
+Auto Rock,Carbon Monoxide,mr,monoxide,0.42105263157894735
+Auto Rock,Carbon Monoxide,mr,pressure,0.125
+Auto Rock,Carbon Monoxide,mr,chief,0.13333333333333333
+Auto Rock,Carbon Monoxide,beast,carbon,0.3076923076923077
+Auto Rock,Carbon Monoxide,beast,monoxide,0.25
+Auto Rock,Carbon Monoxide,beast,pressure,0.2857142857142857
+Auto Rock,Carbon Monoxide,beast,chief,0.75
+Auto Rock,Guitar,auto,guitar,0.5714285714285714
+Auto Rock,Guitar,auto,prolonging,0
+Auto Rock,Guitar,auto,magic,0.10526315789473684
+Auto Rock,Guitar,rock,guitar,0.5
+Auto Rock,Guitar,rock,prolonging,0
+Auto Rock,Guitar,rock,magic,0.14285714285714285
+Auto Rock,Guitar,mr,guitar,0.10526315789473684
+Auto Rock,Guitar,mr,prolonging,0
+Auto Rock,Guitar,mr,magic,0.23529411764705882
+Auto Rock,Guitar,beast,guitar,0.47058823529411764
+Auto Rock,Guitar,beast,prolonging,0
+Auto Rock,Guitar,beast,magic,0.13333333333333333
+Auto Rock,Opera Singer,auto,opera,0.1111111111111111
+Auto Rock,Opera Singer,auto,singer,0.36363636363636365
+Auto Rock,Opera Singer,auto,comfort,0.11764705882352941
+Auto Rock,Opera Singer,auto,eagle,0.34782608695652173
+Auto Rock,Opera Singer,rock,opera,0.15384615384615385
+Auto Rock,Opera Singer,rock,singer,0.47058823529411764
+Auto Rock,Opera Singer,rock,comfort,0.16666666666666666
+Auto Rock,Opera Singer,rock,eagle,0.4444444444444444
+Auto Rock,Opera Singer,mr,opera,0.25
+Auto Rock,Opera Singer,mr,singer,0.11764705882352941
+Auto Rock,Opera Singer,mr,comfort,0.26666666666666666
+Auto Rock,Opera Singer,mr,eagle,0.09523809523809523
+Auto Rock,Opera Singer,beast,opera,0.14285714285714285
+Auto Rock,Opera Singer,beast,singer,0.6666666666666666
+Auto Rock,Opera Singer,beast,comfort,0.15384615384615385
+Auto Rock,Opera Singer,beast,eagle,0.7368421052631579
+Auto Rock,Waiting,auto,waiting,0.1111111111111111
+Auto Rock,Waiting,auto,pressure,0.2222222222222222
+Auto Rock,Waiting,auto,chief,0.4
+Auto Rock,Waiting,rock,waiting,0.15384615384615385
+Auto Rock,Waiting,rock,pressure,0.3076923076923077
+Auto Rock,Waiting,rock,chief,0.5333333333333333
+Auto Rock,Waiting,mr,waiting,0.25
+Auto Rock,Waiting,mr,pressure,0.125
+Auto Rock,Waiting,mr,chief,0.13333333333333333
+Auto Rock,Waiting,beast,waiting,0.14285714285714285
+Auto Rock,Waiting,beast,pressure,0.2857142857142857
+Auto Rock,Waiting,beast,chief,0.75
+Auto Rock,Alpha Beta Parking Lot,auto,alpha,0.1
+Auto Rock,Alpha Beta Parking Lot,auto,beta,0.1
+Auto Rock,Alpha Beta Parking Lot,auto,parking,0.11764705882352941
+Auto Rock,Alpha Beta Parking Lot,auto,lot,0.11764705882352941
+Auto Rock,Alpha Beta Parking Lot,auto,prolonging,0
+Auto Rock,Alpha Beta Parking Lot,auto,magic,0.10526315789473684
+Auto Rock,Alpha Beta Parking Lot,rock,alpha,0.13333333333333333
+Auto Rock,Alpha Beta Parking Lot,rock,beta,0.13333333333333333
+Auto Rock,Alpha Beta Parking Lot,rock,parking,0.16666666666666666
+Auto Rock,Alpha Beta Parking Lot,rock,lot,0.16666666666666666
+Auto Rock,Alpha Beta Parking Lot,rock,prolonging,0
+Auto Rock,Alpha Beta Parking Lot,rock,magic,0.14285714285714285
+Auto Rock,Alpha Beta Parking Lot,mr,alpha,0.2222222222222222
+Auto Rock,Alpha Beta Parking Lot,mr,beta,0.2222222222222222
+Auto Rock,Alpha Beta Parking Lot,mr,parking,0.4
+Auto Rock,Alpha Beta Parking Lot,mr,lot,0.26666666666666666
+Auto Rock,Alpha Beta Parking Lot,mr,prolonging,0
+Auto Rock,Alpha Beta Parking Lot,mr,magic,0.23529411764705882
+Auto Rock,Alpha Beta Parking Lot,beast,alpha,0.125
+Auto Rock,Alpha Beta Parking Lot,beast,beta,0.125
+Auto Rock,Alpha Beta Parking Lot,beast,parking,0.15384615384615385
+Auto Rock,Alpha Beta Parking Lot,beast,lot,0.15384615384615385
+Auto Rock,Alpha Beta Parking Lot,beast,prolonging,0
+Auto Rock,Alpha Beta Parking Lot,beast,magic,0.13333333333333333
+Auto Rock,No Phone,auto,phone,0.6
+Auto Rock,No Phone,auto,pressure,0.2222222222222222
+Auto Rock,No Phone,auto,chief,0.4
+Auto Rock,No Phone,rock,phone,0.5333333333333333
+Auto Rock,No Phone,rock,pressure,0.3076923076923077
+Auto Rock,No Phone,rock,chief,0.5333333333333333
+Auto Rock,No Phone,mr,phone,0.1111111111111111
+Auto Rock,No Phone,mr,pressure,0.125
+Auto Rock,No Phone,mr,chief,0.13333333333333333
+Auto Rock,No Phone,beast,phone,0.5
+Auto Rock,No Phone,beast,pressure,0.2857142857142857
+Auto Rock,No Phone,beast,chief,0.75
+Auto Rock,Commissioning A Symphony In C,auto,symphony,0.10526315789473684
+Auto Rock,Commissioning A Symphony In C,auto,commissioning,0.1
+Auto Rock,Commissioning A Symphony In C,auto,c,0.10526315789473684
+Auto Rock,Commissioning A Symphony In C,auto,comfort,0.11764705882352941
+Auto Rock,Commissioning A Symphony In C,auto,eagle,0.34782608695652173
+Auto Rock,Commissioning A Symphony In C,rock,symphony,0.14285714285714285
+Auto Rock,Commissioning A Symphony In C,rock,commissioning,0.13333333333333333
+Auto Rock,Commissioning A Symphony In C,rock,c,0.14285714285714285
+Auto Rock,Commissioning A Symphony In C,rock,comfort,0.16666666666666666
+Auto Rock,Commissioning A Symphony In C,rock,eagle,0.4444444444444444
+Auto Rock,Commissioning A Symphony In C,mr,symphony,0.23529411764705882
+Auto Rock,Commissioning A Symphony In C,mr,commissioning,0.2222222222222222
+Auto Rock,Commissioning A Symphony In C,mr,c,0.23529411764705882
+Auto Rock,Commissioning A Symphony In C,mr,comfort,0.26666666666666666
+Auto Rock,Commissioning A Symphony In C,mr,eagle,0.09523809523809523
+Auto Rock,Commissioning A Symphony In C,beast,symphony,0.13333333333333333
+Auto Rock,Commissioning A Symphony In C,beast,commissioning,0.125
+Auto Rock,Commissioning A Symphony In C,beast,c,0.13333333333333333
+Auto Rock,Commissioning A Symphony In C,beast,comfort,0.15384615384615385
+Auto Rock,Commissioning A Symphony In C,beast,eagle,0.7368421052631579
+Auto Rock,Mexico,auto,mexico,0.2857142857142857
+Auto Rock,Mexico,auto,prolonging,0
+Auto Rock,Mexico,auto,magic,0.10526315789473684
+Auto Rock,Mexico,rock,mexico,0.375
+Auto Rock,Mexico,rock,prolonging,0
+Auto Rock,Mexico,rock,magic,0.14285714285714285
+Auto Rock,Mexico,mr,mexico,0.10526315789473684
+Auto Rock,Mexico,mr,prolonging,0
+Auto Rock,Mexico,mr,magic,0.23529411764705882
+Auto Rock,Mexico,beast,mexico,0.35294117647058826
+Auto Rock,Mexico,beast,prolonging,0
+Auto Rock,Mexico,beast,magic,0.13333333333333333
+Auto Rock,Mahna_ Mahna,auto,sides,0.35294117647058826
+Auto Rock,Mahna_ Mahna,auto,rarities,0.1
+Auto Rock,Mahna_ Mahna,auto,b,0.38095238095238093
+Auto Rock,Mahna_ Mahna,rock,sides,0.5
+Auto Rock,Mahna_ Mahna,rock,rarities,0.13333333333333333
+Auto Rock,Mahna_ Mahna,rock,b,0.5
+Auto Rock,Mahna_ Mahna,mr,sides,0.13333333333333333
+Auto Rock,Mahna_ Mahna,mr,rarities,0.2222222222222222
+Auto Rock,Mahna_ Mahna,mr,b,0.10526315789473684
+Auto Rock,Mahna_ Mahna,beast,sides,0.46153846153846156
+Auto Rock,Mahna_ Mahna,beast,rarities,0.125
+Auto Rock,Mahna_ Mahna,beast,b,0.7058823529411765
+Auto Rock,Hey Mama,auto,mama,0.32
+Auto Rock,Hey Mama,rock,mama,0.4
+Auto Rock,Hey Mama,mr,mama,0.1
+Auto Rock,Hey Mama,beast,mama,0.5714285714285714
+Auto Rock,Pretty Pink Ribbon,auto,pretty,0
+Auto Rock,Pretty Pink Ribbon,auto,pink,0.10526315789473684
+Auto Rock,Pretty Pink Ribbon,auto,ribbon,0.4
+Auto Rock,Pretty Pink Ribbon,auto,comfort,0.11764705882352941
+Auto Rock,Pretty Pink Ribbon,auto,eagle,0.34782608695652173
+Auto Rock,Pretty Pink Ribbon,rock,pretty,0
+Auto Rock,Pretty Pink Ribbon,rock,pink,0.14285714285714285
+Auto Rock,Pretty Pink Ribbon,rock,ribbon,0.6
+Auto Rock,Pretty Pink Ribbon,rock,comfort,0.16666666666666666
+Auto Rock,Pretty Pink Ribbon,rock,eagle,0.4444444444444444
+Auto Rock,Pretty Pink Ribbon,mr,pretty,0
+Auto Rock,Pretty Pink Ribbon,mr,pink,0.23529411764705882
+Auto Rock,Pretty Pink Ribbon,mr,ribbon,0.15384615384615385
+Auto Rock,Pretty Pink Ribbon,mr,comfort,0.26666666666666666
+Auto Rock,Pretty Pink Ribbon,mr,eagle,0.09523809523809523
+Auto Rock,Pretty Pink Ribbon,beast,pretty,0
+Auto Rock,Pretty Pink Ribbon,beast,pink,0.13333333333333333
+Auto Rock,Pretty Pink Ribbon,beast,ribbon,0.5454545454545454
+Auto Rock,Pretty Pink Ribbon,beast,comfort,0.15384615384615385
+Auto Rock,Pretty Pink Ribbon,beast,eagle,0.7368421052631579
+Auto Rock,Pop Champagne,auto,pop,0.32
+Auto Rock,Pop Champagne,auto,champagne,0.19047619047619047
+Auto Rock,Pop Champagne,auto,pray,0
+Auto Rock,Pop Champagne,auto,iv,0.10526315789473684
+Auto Rock,Pop Champagne,auto,reign,0.11764705882352941
+Auto Rock,Pop Champagne,rock,pop,0.4
+Auto Rock,Pop Champagne,rock,champagne,0.25
+Auto Rock,Pop Champagne,rock,pray,0
+Auto Rock,Pop Champagne,rock,iv,0.14285714285714285
+Auto Rock,Pop Champagne,rock,reign,0.16666666666666666
+Auto Rock,Pop Champagne,mr,pop,0.1
+Auto Rock,Pop Champagne,mr,champagne,0.38095238095238093
+Auto Rock,Pop Champagne,mr,pray,0
+Auto Rock,Pop Champagne,mr,iv,0.23529411764705882
+Auto Rock,Pop Champagne,mr,reign,0.26666666666666666
+Auto Rock,Pop Champagne,beast,pop,0.5714285714285714
+Auto Rock,Pop Champagne,beast,champagne,0.23529411764705882
+Auto Rock,Pop Champagne,beast,pray,0
+Auto Rock,Pop Champagne,beast,iv,0.13333333333333333
+Auto Rock,Pop Champagne,beast,reign,0.15384615384615385
+Auto Rock,Frank Sinatra,auto,frank,0.38095238095238093
+Auto Rock,Frank Sinatra,auto,sinatra,0.36363636363636365
+Auto Rock,Frank Sinatra,auto,fashion,0.125
+Auto Rock,Frank Sinatra,auto,nugget,0.23529411764705882
+Auto Rock,Frank Sinatra,rock,frank,0.5
+Auto Rock,Frank Sinatra,rock,sinatra,0.47058823529411764
+Auto Rock,Frank Sinatra,rock,fashion,0.18181818181818182
+Auto Rock,Frank Sinatra,rock,nugget,0.3333333333333333
+Auto Rock,Frank Sinatra,mr,frank,0.125
+Auto Rock,Frank Sinatra,mr,sinatra,0.11764705882352941
+Auto Rock,Frank Sinatra,mr,fashion,0.2857142857142857
+Auto Rock,Frank Sinatra,mr,nugget,0.13333333333333333
+Auto Rock,Frank Sinatra,beast,frank,0.7058823529411765
+Auto Rock,Frank Sinatra,beast,sinatra,0.6666666666666666
+Auto Rock,Frank Sinatra,beast,fashion,0.16666666666666666
+Auto Rock,Frank Sinatra,beast,nugget,0.3076923076923077
+Auto Rock,Long Line Of Cars,auto,long,0
+Auto Rock,Long Line Of Cars,auto,line,0.11764705882352941
+Auto Rock,Long Line Of Cars,auto,cars,1.0
+Auto Rock,Long Line Of Cars,auto,comfort,0.11764705882352941
+Auto Rock,Long Line Of Cars,auto,eagle,0.34782608695652173
+Auto Rock,Long Line Of Cars,rock,long,0
+Auto Rock,Long Line Of Cars,rock,line,0.16666666666666666
+Auto Rock,Long Line Of Cars,rock,cars,0.47058823529411764
+Auto Rock,Long Line Of Cars,rock,comfort,0.16666666666666666
+Auto Rock,Long Line Of Cars,rock,eagle,0.4444444444444444
+Auto Rock,Long Line Of Cars,mr,long,0
+Auto Rock,Long Line Of Cars,mr,line,0.26666666666666666
+Auto Rock,Long Line Of Cars,mr,cars,0.1
+Auto Rock,Long Line Of Cars,mr,comfort,0.26666666666666666
+Auto Rock,Long Line Of Cars,mr,eagle,0.09523809523809523
+Auto Rock,Long Line Of Cars,beast,long,0
+Auto Rock,Long Line Of Cars,beast,line,0.15384615384615385
+Auto Rock,Long Line Of Cars,beast,cars,0.4444444444444444
+Auto Rock,Long Line Of Cars,beast,comfort,0.15384615384615385
+Auto Rock,Long Line Of Cars,beast,eagle,0.7368421052631579
+Auto Rock,W,auto,free,0.125
+Auto Rock,W,auto,cloud,0.2222222222222222
+Auto Rock,W,rock,free,0.18181818181818182
+Auto Rock,W,rock,cloud,0.3076923076923077
+Auto Rock,W,mr,free,0.2857142857142857
+Auto Rock,W,mr,cloud,0.125
+Auto Rock,W,beast,free,0.16666666666666666
+Auto Rock,W,beast,cloud,0.2857142857142857
+Auto Rock,Let Me Go,auto,let,0.10526315789473684
+Auto Rock,Let Me Go,auto,go,0.1
+Auto Rock,Let Me Go,auto,prolonging,0
+Auto Rock,Let Me Go,auto,magic,0.10526315789473684
+Auto Rock,Let Me Go,rock,let,0.14285714285714285
+Auto Rock,Let Me Go,rock,go,0.13333333333333333
+Auto Rock,Let Me Go,rock,prolonging,0
+Auto Rock,Let Me Go,rock,magic,0.14285714285714285
+Auto Rock,Let Me Go,mr,let,0.23529411764705882
+Auto Rock,Let Me Go,mr,go,0.2222222222222222
+Auto Rock,Let Me Go,mr,prolonging,0
+Auto Rock,Let Me Go,mr,magic,0.23529411764705882
+Auto Rock,Let Me Go,beast,let,0.13333333333333333
+Auto Rock,Let Me Go,beast,go,0.125
+Auto Rock,Let Me Go,beast,prolonging,0
+Auto Rock,Let Me Go,beast,magic,0.13333333333333333
+Auto Rock,Cool Blue Reason,auto,cool,0.2222222222222222
+Auto Rock,Cool Blue Reason,auto,blue,0.10526315789473684
+Auto Rock,Cool Blue Reason,auto,reason,0.11764705882352941
+Auto Rock,Cool Blue Reason,auto,prolonging,0
+Auto Rock,Cool Blue Reason,auto,magic,0.10526315789473684
+Auto Rock,Cool Blue Reason,rock,cool,0.3076923076923077
+Auto Rock,Cool Blue Reason,rock,blue,0.14285714285714285
+Auto Rock,Cool Blue Reason,rock,reason,0.16666666666666666
+Auto Rock,Cool Blue Reason,rock,prolonging,0
+Auto Rock,Cool Blue Reason,rock,magic,0.14285714285714285
+Auto Rock,Cool Blue Reason,mr,cool,0.25
+Auto Rock,Cool Blue Reason,mr,blue,0.23529411764705882
+Auto Rock,Cool Blue Reason,mr,reason,0.26666666666666666
+Auto Rock,Cool Blue Reason,mr,prolonging,0
+Auto Rock,Cool Blue Reason,mr,magic,0.23529411764705882
+Auto Rock,Cool Blue Reason,beast,cool,0.2857142857142857
+Auto Rock,Cool Blue Reason,beast,blue,0.13333333333333333
+Auto Rock,Cool Blue Reason,beast,reason,0.15384615384615385
+Auto Rock,Cool Blue Reason,beast,prolonging,0
+Auto Rock,Cool Blue Reason,beast,magic,0.13333333333333333
+Who Knows Who Cares,Where Would I Be?,knows,prolonging,0
+Who Knows Who Cares,Where Would I Be?,knows,magic,0.5
+Who Knows Who Cares,Where Would I Be?,cares,prolonging,0
+Who Knows Who Cares,Where Would I Be?,cares,magic,0.375
+Who Knows Who Cares,Where Would I Be?,gorilla,prolonging,0
+Who Knows Who Cares,Where Would I Be?,gorilla,magic,0.08333333333333333
+Who Knows Who Cares,Where Would I Be?,manor,prolonging,0
+Who Knows Who Cares,Where Would I Be?,manor,magic,0.1111111111111111
+Who Knows Who Cares,Comfort Eagle,knows,comfort,0.2857142857142857
+Who Knows Who Cares,Comfort Eagle,knows,eagle,0.1
+Who Knows Who Cares,Comfort Eagle,knows,comfort,0.2857142857142857
+Who Knows Who Cares,Comfort Eagle,knows,eagle,0.1
+Who Knows Who Cares,Comfort Eagle,cares,comfort,0.2857142857142857
+Who Knows Who Cares,Comfort Eagle,cares,eagle,0.1
+Who Knows Who Cares,Comfort Eagle,cares,comfort,0.2857142857142857
+Who Knows Who Cares,Comfort Eagle,cares,eagle,0.1
+Who Knows Who Cares,Comfort Eagle,gorilla,comfort,0.09090909090909091
+Who Knows Who Cares,Comfort Eagle,gorilla,eagle,0.6428571428571429
+Who Knows Who Cares,Comfort Eagle,gorilla,comfort,0.09090909090909091
+Who Knows Who Cares,Comfort Eagle,gorilla,eagle,0.6428571428571429
+Who Knows Who Cares,Comfort Eagle,manor,comfort,0.125
+Who Knows Who Cares,Comfort Eagle,manor,eagle,0.36363636363636365
+Who Knows Who Cares,Comfort Eagle,manor,comfort,0.125
+Who Knows Who Cares,Comfort Eagle,manor,eagle,0.36363636363636365
+Who Knows Who Cares,Never There,knows,never,0
+Who Knows Who Cares,Never There,knows,prolonging,0
+Who Knows Who Cares,Never There,knows,magic,0.5
+Who Knows Who Cares,Never There,cares,never,0
+Who Knows Who Cares,Never There,cares,prolonging,0
+Who Knows Who Cares,Never There,cares,magic,0.375
+Who Knows Who Cares,Never There,gorilla,never,0
+Who Knows Who Cares,Never There,gorilla,prolonging,0
+Who Knows Who Cares,Never There,gorilla,magic,0.08333333333333333
+Who Knows Who Cares,Never There,manor,never,0
+Who Knows Who Cares,Never There,manor,prolonging,0
+Who Knows Who Cares,Never There,manor,magic,0.1111111111111111
+Who Knows Who Cares,Beautiful,knows,beautiful,0
+Who Knows Who Cares,Beautiful,knows,hotel,0.125
+Who Knows Who Cares,Beautiful,cares,beautiful,0
+Who Knows Who Cares,Beautiful,cares,hotel,0.125
+Who Knows Who Cares,Beautiful,gorilla,beautiful,0
+Who Knows Who Cares,Beautiful,gorilla,hotel,0.3333333333333333
+Who Knows Who Cares,Beautiful,manor,beautiful,0
+Who Knows Who Cares,Beautiful,manor,hotel,0.7777777777777778
+Who Knows Who Cares,Carbon Monoxide,knows,carbon,0.26666666666666666
+Who Knows Who Cares,Carbon Monoxide,knows,monoxide,0.2222222222222222
+Who Knows Who Cares,Carbon Monoxide,knows,pressure,0.13333333333333333
+Who Knows Who Cares,Carbon Monoxide,knows,chief,0.14285714285714285
+Who Knows Who Cares,Carbon Monoxide,cares,carbon,0.26666666666666666
+Who Knows Who Cares,Carbon Monoxide,cares,monoxide,0.2222222222222222
+Who Knows Who Cares,Carbon Monoxide,cares,pressure,0.13333333333333333
+Who Knows Who Cares,Carbon Monoxide,cares,chief,0.14285714285714285
+Who Knows Who Cares,Carbon Monoxide,gorilla,carbon,0.18181818181818182
+Who Knows Who Cares,Carbon Monoxide,gorilla,monoxide,0.16
+Who Knows Who Cares,Carbon Monoxide,gorilla,pressure,0.17391304347826086
+Who Knows Who Cares,Carbon Monoxide,gorilla,chief,0.48
+Who Knows Who Cares,Carbon Monoxide,manor,carbon,0.25
+Who Knows Who Cares,Carbon Monoxide,manor,monoxide,0.21052631578947367
+Who Knows Who Cares,Carbon Monoxide,manor,pressure,0.23529411764705882
+Who Knows Who Cares,Carbon Monoxide,manor,chief,0.42105263157894735
+Who Knows Who Cares,Guitar,knows,guitar,0.1111111111111111
+Who Knows Who Cares,Guitar,knows,prolonging,0
+Who Knows Who Cares,Guitar,knows,magic,0.5
+Who Knows Who Cares,Guitar,cares,guitar,0.1111111111111111
+Who Knows Who Cares,Guitar,cares,prolonging,0
+Who Knows Who Cares,Guitar,cares,magic,0.375
+Who Knows Who Cares,Guitar,gorilla,guitar,0.3076923076923077
+Who Knows Who Cares,Guitar,gorilla,prolonging,0
+Who Knows Who Cares,Guitar,gorilla,magic,0.08333333333333333
+Who Knows Who Cares,Guitar,manor,guitar,0.5
+Who Knows Who Cares,Guitar,manor,prolonging,0
+Who Knows Who Cares,Guitar,manor,magic,0.1111111111111111
+Who Knows Who Cares,Opera Singer,knows,opera,0.26666666666666666
+Who Knows Who Cares,Opera Singer,knows,singer,0.125
+Who Knows Who Cares,Opera Singer,knows,comfort,0.2857142857142857
+Who Knows Who Cares,Opera Singer,knows,eagle,0.1
+Who Knows Who Cares,Opera Singer,cares,opera,0.26666666666666666
+Who Knows Who Cares,Opera Singer,cares,singer,0.125
+Who Knows Who Cares,Opera Singer,cares,comfort,0.2857142857142857
+Who Knows Who Cares,Opera Singer,cares,eagle,0.1
+Who Knows Who Cares,Opera Singer,gorilla,opera,0.08695652173913043
+Who Knows Who Cares,Opera Singer,gorilla,singer,0.4444444444444444
+Who Knows Who Cares,Opera Singer,gorilla,comfort,0.09090909090909091
+Who Knows Who Cares,Opera Singer,gorilla,eagle,0.6428571428571429
+Who Knows Who Cares,Opera Singer,manor,opera,0.11764705882352941
+Who Knows Who Cares,Opera Singer,manor,singer,0.38095238095238093
+Who Knows Who Cares,Opera Singer,manor,comfort,0.125
+Who Knows Who Cares,Opera Singer,manor,eagle,0.36363636363636365
+Who Knows Who Cares,Waiting,knows,waiting,0.4
+Who Knows Who Cares,Waiting,knows,pressure,0.13333333333333333
+Who Knows Who Cares,Waiting,knows,chief,0.14285714285714285
+Who Knows Who Cares,Waiting,cares,waiting,0.6666666666666666
+Who Knows Who Cares,Waiting,cares,pressure,0.13333333333333333
+Who Knows Who Cares,Waiting,cares,chief,0.14285714285714285
+Who Knows Who Cares,Waiting,gorilla,waiting,0.08695652173913043
+Who Knows Who Cares,Waiting,gorilla,pressure,0.17391304347826086
+Who Knows Who Cares,Waiting,gorilla,chief,0.48
+Who Knows Who Cares,Waiting,manor,waiting,0.11764705882352941
+Who Knows Who Cares,Waiting,manor,pressure,0.23529411764705882
+Who Knows Who Cares,Waiting,manor,chief,0.42105263157894735
+Who Knows Who Cares,Alpha Beta Parking Lot,knows,alpha,0.23529411764705882
+Who Knows Who Cares,Alpha Beta Parking Lot,knows,beta,0.23529411764705882
+Who Knows Who Cares,Alpha Beta Parking Lot,knows,parking,0.2857142857142857
+Who Knows Who Cares,Alpha Beta Parking Lot,knows,lot,0.2857142857142857
+Who Knows Who Cares,Alpha Beta Parking Lot,knows,prolonging,0
+Who Knows Who Cares,Alpha Beta Parking Lot,knows,magic,0.5
+Who Knows Who Cares,Alpha Beta Parking Lot,cares,alpha,0.23529411764705882
+Who Knows Who Cares,Alpha Beta Parking Lot,cares,beta,0.23529411764705882
+Who Knows Who Cares,Alpha Beta Parking Lot,cares,parking,0.2857142857142857
+Who Knows Who Cares,Alpha Beta Parking Lot,cares,lot,0.2857142857142857
+Who Knows Who Cares,Alpha Beta Parking Lot,cares,prolonging,0
+Who Knows Who Cares,Alpha Beta Parking Lot,cares,magic,0.375
+Who Knows Who Cares,Alpha Beta Parking Lot,gorilla,alpha,0.08
+Who Knows Who Cares,Alpha Beta Parking Lot,gorilla,beta,0.08
+Who Knows Who Cares,Alpha Beta Parking Lot,gorilla,parking,0.09090909090909091
+Who Knows Who Cares,Alpha Beta Parking Lot,gorilla,lot,0.09090909090909091
+Who Knows Who Cares,Alpha Beta Parking Lot,gorilla,prolonging,0
+Who Knows Who Cares,Alpha Beta Parking Lot,gorilla,magic,0.08333333333333333
+Who Knows Who Cares,Alpha Beta Parking Lot,manor,alpha,0.10526315789473684
+Who Knows Who Cares,Alpha Beta Parking Lot,manor,beta,0.10526315789473684
+Who Knows Who Cares,Alpha Beta Parking Lot,manor,parking,0.125
+Who Knows Who Cares,Alpha Beta Parking Lot,manor,lot,0.125
+Who Knows Who Cares,Alpha Beta Parking Lot,manor,prolonging,0
+Who Knows Who Cares,Alpha Beta Parking Lot,manor,magic,0.1111111111111111
+Who Knows Who Cares,No Phone,knows,phone,0.11764705882352941
+Who Knows Who Cares,No Phone,knows,pressure,0.13333333333333333
+Who Knows Who Cares,No Phone,knows,chief,0.14285714285714285
+Who Knows Who Cares,No Phone,cares,phone,0.11764705882352941
+Who Knows Who Cares,No Phone,cares,pressure,0.13333333333333333
+Who Knows Who Cares,No Phone,cares,chief,0.14285714285714285
+Who Knows Who Cares,No Phone,gorilla,phone,0.32
+Who Knows Who Cares,No Phone,gorilla,pressure,0.17391304347826086
+Who Knows Who Cares,No Phone,gorilla,chief,0.48
+Who Knows Who Cares,No Phone,manor,phone,0.5263157894736842
+Who Knows Who Cares,No Phone,manor,pressure,0.23529411764705882
+Who Knows Who Cares,No Phone,manor,chief,0.42105263157894735
+Who Knows Who Cares,Commissioning A Symphony In C,knows,symphony,0.25
+Who Knows Who Cares,Commissioning A Symphony In C,knows,commissioning,0.35294117647058826
+Who Knows Who Cares,Commissioning A Symphony In C,knows,c,0.25
+Who Knows Who Cares,Commissioning A Symphony In C,knows,comfort,0.2857142857142857
+Who Knows Who Cares,Commissioning A Symphony In C,knows,eagle,0.1
+Who Knows Who Cares,Commissioning A Symphony In C,cares,symphony,0.25
+Who Knows Who Cares,Commissioning A Symphony In C,cares,commissioning,0.5555555555555556
+Who Knows Who Cares,Commissioning A Symphony In C,cares,c,0.25
+Who Knows Who Cares,Commissioning A Symphony In C,cares,comfort,0.2857142857142857
+Who Knows Who Cares,Commissioning A Symphony In C,cares,eagle,0.1
+Who Knows Who Cares,Commissioning A Symphony In C,gorilla,symphony,0.08333333333333333
+Who Knows Who Cares,Commissioning A Symphony In C,gorilla,commissioning,0.08
+Who Knows Who Cares,Commissioning A Symphony In C,gorilla,c,0.08333333333333333
+Who Knows Who Cares,Commissioning A Symphony In C,gorilla,comfort,0.09090909090909091
+Who Knows Who Cares,Commissioning A Symphony In C,gorilla,eagle,0.6428571428571429
+Who Knows Who Cares,Commissioning A Symphony In C,manor,symphony,0.1111111111111111
+Who Knows Who Cares,Commissioning A Symphony In C,manor,commissioning,0.10526315789473684
+Who Knows Who Cares,Commissioning A Symphony In C,manor,c,0.1111111111111111
+Who Knows Who Cares,Commissioning A Symphony In C,manor,comfort,0.125
+Who Knows Who Cares,Commissioning A Symphony In C,manor,eagle,0.36363636363636365
+Who Knows Who Cares,Mexico,knows,mexico,0.1111111111111111
+Who Knows Who Cares,Mexico,knows,prolonging,0
+Who Knows Who Cares,Mexico,knows,magic,0.5
+Who Knows Who Cares,Mexico,cares,mexico,0.1111111111111111
+Who Knows Who Cares,Mexico,cares,prolonging,0
+Who Knows Who Cares,Mexico,cares,magic,0.375
+Who Knows Who Cares,Mexico,gorilla,mexico,0.23076923076923078
+Who Knows Who Cares,Mexico,gorilla,prolonging,0
+Who Knows Who Cares,Mexico,gorilla,magic,0.08333333333333333
+Who Knows Who Cares,Mexico,manor,mexico,0.3
+Who Knows Who Cares,Mexico,manor,prolonging,0
+Who Knows Who Cares,Mexico,manor,magic,0.1111111111111111
+Who Knows Who Cares,Mahna_ Mahna,knows,sides,0.14285714285714285
+Who Knows Who Cares,Mahna_ Mahna,knows,rarities,0.23529411764705882
+Who Knows Who Cares,Mahna_ Mahna,knows,b,0.1111111111111111
+Who Knows Who Cares,Mahna_ Mahna,cares,sides,0.14285714285714285
+Who Knows Who Cares,Mahna_ Mahna,cares,rarities,0.23529411764705882
+Who Knows Who Cares,Mahna_ Mahna,cares,b,0.1111111111111111
+Who Knows Who Cares,Mahna_ Mahna,gorilla,sides,0.2727272727272727
+Who Knows Who Cares,Mahna_ Mahna,gorilla,rarities,0.08
+Who Knows Who Cares,Mahna_ Mahna,gorilla,b,0.46153846153846156
+Who Knows Who Cares,Mahna_ Mahna,manor,sides,0.375
+Who Knows Who Cares,Mahna_ Mahna,manor,rarities,0.10526315789473684
+Who Knows Who Cares,Mahna_ Mahna,manor,b,0.4
+Who Knows Who Cares,Hey Mama,knows,mama,0.10526315789473684
+Who Knows Who Cares,Hey Mama,cares,mama,0.10526315789473684
+Who Knows Who Cares,Hey Mama,gorilla,mama,0.4
+Who Knows Who Cares,Hey Mama,manor,mama,0.3333333333333333
+Who Knows Who Cares,Pretty Pink Ribbon,knows,pretty,0
+Who Knows Who Cares,Pretty Pink Ribbon,knows,pink,0.25
+Who Knows Who Cares,Pretty Pink Ribbon,knows,ribbon,0.16666666666666666
+Who Knows Who Cares,Pretty Pink Ribbon,knows,comfort,0.2857142857142857
+Who Knows Who Cares,Pretty Pink Ribbon,knows,eagle,0.1
+Who Knows Who Cares,Pretty Pink Ribbon,cares,pretty,0
+Who Knows Who Cares,Pretty Pink Ribbon,cares,pink,0.25
+Who Knows Who Cares,Pretty Pink Ribbon,cares,ribbon,0.16666666666666666
+Who Knows Who Cares,Pretty Pink Ribbon,cares,comfort,0.2857142857142857
+Who Knows Who Cares,Pretty Pink Ribbon,cares,eagle,0.1
+Who Knows Who Cares,Pretty Pink Ribbon,gorilla,pretty,0
+Who Knows Who Cares,Pretty Pink Ribbon,gorilla,pink,0.08333333333333333
+Who Knows Who Cares,Pretty Pink Ribbon,gorilla,ribbon,0.3
+Who Knows Who Cares,Pretty Pink Ribbon,gorilla,comfort,0.09090909090909091
+Who Knows Who Cares,Pretty Pink Ribbon,gorilla,eagle,0.6428571428571429
+Who Knows Who Cares,Pretty Pink Ribbon,manor,pretty,0
+Who Knows Who Cares,Pretty Pink Ribbon,manor,pink,0.1111111111111111
+Who Knows Who Cares,Pretty Pink Ribbon,manor,ribbon,0.42857142857142855
+Who Knows Who Cares,Pretty Pink Ribbon,manor,comfort,0.125
+Who Knows Who Cares,Pretty Pink Ribbon,manor,eagle,0.36363636363636365
+Who Knows Who Cares,Pop Champagne,knows,pop,0.10526315789473684
+Who Knows Who Cares,Pop Champagne,knows,champagne,0.2
+Who Knows Who Cares,Pop Champagne,knows,pray,0
+Who Knows Who Cares,Pop Champagne,knows,iv,0.25
+Who Knows Who Cares,Pop Champagne,knows,reign,0.2857142857142857
+Who Knows Who Cares,Pop Champagne,cares,pop,0.10526315789473684
+Who Knows Who Cares,Pop Champagne,cares,champagne,0.2
+Who Knows Who Cares,Pop Champagne,cares,pray,0
+Who Knows Who Cares,Pop Champagne,cares,iv,0.25
+Who Knows Who Cares,Pop Champagne,cares,reign,0.2857142857142857
+Who Knows Who Cares,Pop Champagne,gorilla,pop,0.4
+Who Knows Who Cares,Pop Champagne,gorilla,champagne,0.15384615384615385
+Who Knows Who Cares,Pop Champagne,gorilla,pray,0
+Who Knows Who Cares,Pop Champagne,gorilla,iv,0.08333333333333333
+Who Knows Who Cares,Pop Champagne,gorilla,reign,0.09090909090909091
+Who Knows Who Cares,Pop Champagne,manor,pop,0.3333333333333333
+Who Knows Who Cares,Pop Champagne,manor,champagne,0.2
+Who Knows Who Cares,Pop Champagne,manor,pray,0
+Who Knows Who Cares,Pop Champagne,manor,iv,0.1111111111111111
+Who Knows Who Cares,Pop Champagne,manor,reign,0.125
+Who Knows Who Cares,Frank Sinatra,knows,frank,0.13333333333333333
+Who Knows Who Cares,Frank Sinatra,knows,sinatra,0.125
+Who Knows Who Cares,Frank Sinatra,knows,fashion,0.3076923076923077
+Who Knows Who Cares,Frank Sinatra,knows,nugget,0.14285714285714285
+Who Knows Who Cares,Frank Sinatra,cares,frank,0.13333333333333333
+Who Knows Who Cares,Frank Sinatra,cares,sinatra,0.125
+Who Knows Who Cares,Frank Sinatra,cares,fashion,0.3076923076923077
+Who Knows Who Cares,Frank Sinatra,cares,nugget,0.14285714285714285
+Who Knows Who Cares,Frank Sinatra,gorilla,frank,0.46153846153846156
+Who Knows Who Cares,Frank Sinatra,gorilla,sinatra,0.4444444444444444
+Who Knows Who Cares,Frank Sinatra,gorilla,fashion,0.09523809523809523
+Who Knows Who Cares,Frank Sinatra,gorilla,nugget,0.18181818181818182
+Who Knows Who Cares,Frank Sinatra,manor,frank,0.4
+Who Knows Who Cares,Frank Sinatra,manor,sinatra,0.38095238095238093
+Who Knows Who Cares,Frank Sinatra,manor,fashion,0.13333333333333333
+Who Knows Who Cares,Frank Sinatra,manor,nugget,0.25
+Who Knows Who Cares,Long Line Of Cars,knows,long,0
+Who Knows Who Cares,Long Line Of Cars,knows,line,0.2857142857142857
+Who Knows Who Cares,Long Line Of Cars,knows,cars,0.10526315789473684
+Who Knows Who Cares,Long Line Of Cars,knows,comfort,0.2857142857142857
+Who Knows Who Cares,Long Line Of Cars,knows,eagle,0.1
+Who Knows Who Cares,Long Line Of Cars,cares,long,0
+Who Knows Who Cares,Long Line Of Cars,cares,line,0.2857142857142857
+Who Knows Who Cares,Long Line Of Cars,cares,cars,0.10526315789473684
+Who Knows Who Cares,Long Line Of Cars,cares,comfort,0.2857142857142857
+Who Knows Who Cares,Long Line Of Cars,cares,eagle,0.1
+Who Knows Who Cares,Long Line Of Cars,gorilla,long,0
+Who Knows Who Cares,Long Line Of Cars,gorilla,line,0.09090909090909091
+Who Knows Who Cares,Long Line Of Cars,gorilla,cars,0.2962962962962963
+Who Knows Who Cares,Long Line Of Cars,gorilla,comfort,0.09090909090909091
+Who Knows Who Cares,Long Line Of Cars,gorilla,eagle,0.6428571428571429
+Who Knows Who Cares,Long Line Of Cars,manor,long,0
+Who Knows Who Cares,Long Line Of Cars,manor,line,0.125
+Who Knows Who Cares,Long Line Of Cars,manor,cars,0.47619047619047616
+Who Knows Who Cares,Long Line Of Cars,manor,comfort,0.125
+Who Knows Who Cares,Long Line Of Cars,manor,eagle,0.36363636363636365
+Who Knows Who Cares,W,knows,free,0.3076923076923077
+Who Knows Who Cares,W,knows,cloud,0.13333333333333333
+Who Knows Who Cares,W,cares,free,0.3076923076923077
+Who Knows Who Cares,W,cares,cloud,0.13333333333333333
+Who Knows Who Cares,W,gorilla,free,0.09523809523809523
+Who Knows Who Cares,W,gorilla,cloud,0.17391304347826086
+Who Knows Who Cares,W,manor,free,0.13333333333333333
+Who Knows Who Cares,W,manor,cloud,0.23529411764705882
+Who Knows Who Cares,Let Me Go,knows,let,0.25
+Who Knows Who Cares,Let Me Go,knows,go,0.23529411764705882
+Who Knows Who Cares,Let Me Go,knows,prolonging,0
+Who Knows Who Cares,Let Me Go,knows,magic,0.5
+Who Knows Who Cares,Let Me Go,cares,let,0.25
+Who Knows Who Cares,Let Me Go,cares,go,0.23529411764705882
+Who Knows Who Cares,Let Me Go,cares,prolonging,0
+Who Knows Who Cares,Let Me Go,cares,magic,0.375
+Who Knows Who Cares,Let Me Go,gorilla,let,0.08333333333333333
+Who Knows Who Cares,Let Me Go,gorilla,go,0.08
+Who Knows Who Cares,Let Me Go,gorilla,prolonging,0
+Who Knows Who Cares,Let Me Go,gorilla,magic,0.08333333333333333
+Who Knows Who Cares,Let Me Go,manor,let,0.1111111111111111
+Who Knows Who Cares,Let Me Go,manor,go,0.10526315789473684
+Who Knows Who Cares,Let Me Go,manor,prolonging,0
+Who Knows Who Cares,Let Me Go,manor,magic,0.1111111111111111
+Who Knows Who Cares,Cool Blue Reason,knows,cool,0.26666666666666666
+Who Knows Who Cares,Cool Blue Reason,knows,blue,0.25
+Who Knows Who Cares,Cool Blue Reason,knows,reason,0.42857142857142855
+Who Knows Who Cares,Cool Blue Reason,knows,prolonging,0
+Who Knows Who Cares,Cool Blue Reason,knows,magic,0.5
+Who Knows Who Cares,Cool Blue Reason,cares,cool,0.26666666666666666
+Who Knows Who Cares,Cool Blue Reason,cares,blue,0.25
+Who Knows Who Cares,Cool Blue Reason,cares,reason,0.42857142857142855
+Who Knows Who Cares,Cool Blue Reason,cares,prolonging,0
+Who Knows Who Cares,Cool Blue Reason,cares,magic,0.375
+Who Knows Who Cares,Cool Blue Reason,gorilla,cool,0.17391304347826086
+Who Knows Who Cares,Cool Blue Reason,gorilla,blue,0.08333333333333333
+Who Knows Who Cares,Cool Blue Reason,gorilla,reason,0.09090909090909091
+Who Knows Who Cares,Cool Blue Reason,gorilla,prolonging,0
+Who Knows Who Cares,Cool Blue Reason,gorilla,magic,0.08333333333333333
+Who Knows Who Cares,Cool Blue Reason,manor,cool,0.23529411764705882
+Who Knows Who Cares,Cool Blue Reason,manor,blue,0.1111111111111111
+Who Knows Who Cares,Cool Blue Reason,manor,reason,0.125
+Who Knows Who Cares,Cool Blue Reason,manor,prolonging,0
+Who Knows Who Cares,Cool Blue Reason,manor,magic,0.1111111111111111
+Quiet,Where Would I Be?,quiet,prolonging,0
+Quiet,Where Would I Be?,quiet,magic,0.10526315789473684
+Quiet,Where Would I Be?,young,prolonging,0
+Quiet,Where Would I Be?,young,magic,0.125
+Quiet,Where Would I Be?,mountain,prolonging,0
+Quiet,Where Would I Be?,mountain,magic,0.14285714285714285
+Quiet,Comfort Eagle,quiet,comfort,0.11764705882352941
+Quiet,Comfort Eagle,quiet,eagle,0.17391304347826086
+Quiet,Comfort Eagle,quiet,comfort,0.11764705882352941
+Quiet,Comfort Eagle,quiet,eagle,0.17391304347826086
+Quiet,Comfort Eagle,young,comfort,0.14285714285714285
+Quiet,Comfort Eagle,young,eagle,0.7
+Quiet,Comfort Eagle,young,comfort,0.14285714285714285
+Quiet,Comfort Eagle,young,eagle,0.7
+Quiet,Comfort Eagle,mountain,comfort,0.16666666666666666
+Quiet,Comfort Eagle,mountain,eagle,0.3333333333333333
+Quiet,Comfort Eagle,mountain,comfort,0.16666666666666666
+Quiet,Comfort Eagle,mountain,eagle,0.3333333333333333
+Quiet,Never There,quiet,never,0
+Quiet,Never There,quiet,prolonging,0
+Quiet,Never There,quiet,magic,0.10526315789473684
+Quiet,Never There,young,never,0
+Quiet,Never There,young,prolonging,0
+Quiet,Never There,young,magic,0.125
+Quiet,Never There,mountain,never,0
+Quiet,Never There,mountain,prolonging,0
+Quiet,Never There,mountain,magic,0.14285714285714285
+Quiet,Beautiful,quiet,beautiful,0
+Quiet,Beautiful,quiet,hotel,0.21052631578947367
+Quiet,Beautiful,young,beautiful,0
+Quiet,Beautiful,young,hotel,0.5
+Quiet,Beautiful,mountain,beautiful,0
+Quiet,Beautiful,mountain,hotel,0.42857142857142855
+Quiet,Carbon Monoxide,quiet,carbon,0.23529411764705882
+Quiet,Carbon Monoxide,quiet,monoxide,0.2
+Quiet,Carbon Monoxide,quiet,pressure,0.6666666666666666
+Quiet,Carbon Monoxide,quiet,chief,0.23529411764705882
+Quiet,Carbon Monoxide,young,carbon,0.2857142857142857
+Quiet,Carbon Monoxide,young,monoxide,0.23529411764705882
+Quiet,Carbon Monoxide,young,pressure,0.26666666666666666
+Quiet,Carbon Monoxide,young,chief,0.7058823529411765
+Quiet,Carbon Monoxide,mountain,carbon,0.3333333333333333
+Quiet,Carbon Monoxide,mountain,monoxide,0.26666666666666666
+Quiet,Carbon Monoxide,mountain,pressure,0.3076923076923077
+Quiet,Carbon Monoxide,mountain,chief,0.42857142857142855
+Quiet,Guitar,quiet,guitar,0.19047619047619047
+Quiet,Guitar,quiet,prolonging,0
+Quiet,Guitar,quiet,magic,0.10526315789473684
+Quiet,Guitar,young,guitar,0.4444444444444444
+Quiet,Guitar,young,prolonging,0
+Quiet,Guitar,young,magic,0.125
+Quiet,Guitar,mountain,guitar,0.375
+Quiet,Guitar,mountain,prolonging,0
+Quiet,Guitar,mountain,magic,0.14285714285714285
+Quiet,Opera Singer,quiet,opera,0.1111111111111111
+Quiet,Opera Singer,quiet,singer,0.21052631578947367
+Quiet,Opera Singer,quiet,comfort,0.11764705882352941
+Quiet,Opera Singer,quiet,eagle,0.17391304347826086
+Quiet,Opera Singer,young,opera,0.13333333333333333
+Quiet,Opera Singer,young,singer,0.631578947368421
+Quiet,Opera Singer,young,comfort,0.14285714285714285
+Quiet,Opera Singer,young,eagle,0.7
+Quiet,Opera Singer,mountain,opera,0.15384615384615385
+Quiet,Opera Singer,mountain,singer,0.375
+Quiet,Opera Singer,mountain,comfort,0.16666666666666666
+Quiet,Opera Singer,mountain,eagle,0.3333333333333333
+Quiet,Waiting,quiet,waiting,0.1111111111111111
+Quiet,Waiting,quiet,pressure,0.6666666666666666
+Quiet,Waiting,quiet,chief,0.23529411764705882
+Quiet,Waiting,young,waiting,0.13333333333333333
+Quiet,Waiting,young,pressure,0.26666666666666666
+Quiet,Waiting,young,chief,0.7058823529411765
+Quiet,Waiting,mountain,waiting,0.15384615384615385
+Quiet,Waiting,mountain,pressure,0.3076923076923077
+Quiet,Waiting,mountain,chief,0.42857142857142855
+Quiet,Alpha Beta Parking Lot,quiet,alpha,0.1
+Quiet,Alpha Beta Parking Lot,quiet,beta,0.1
+Quiet,Alpha Beta Parking Lot,quiet,parking,0.11764705882352941
+Quiet,Alpha Beta Parking Lot,quiet,lot,0.11764705882352941
+Quiet,Alpha Beta Parking Lot,quiet,prolonging,0
+Quiet,Alpha Beta Parking Lot,quiet,magic,0.10526315789473684
+Quiet,Alpha Beta Parking Lot,young,alpha,0.11764705882352941
+Quiet,Alpha Beta Parking Lot,young,beta,0.11764705882352941
+Quiet,Alpha Beta Parking Lot,young,parking,0.14285714285714285
+Quiet,Alpha Beta Parking Lot,young,lot,0.14285714285714285
+Quiet,Alpha Beta Parking Lot,young,prolonging,0
+Quiet,Alpha Beta Parking Lot,young,magic,0.125
+Quiet,Alpha Beta Parking Lot,mountain,alpha,0.13333333333333333
+Quiet,Alpha Beta Parking Lot,mountain,beta,0.13333333333333333
+Quiet,Alpha Beta Parking Lot,mountain,parking,0.16666666666666666
+Quiet,Alpha Beta Parking Lot,mountain,lot,0.16666666666666666
+Quiet,Alpha Beta Parking Lot,mountain,prolonging,0
+Quiet,Alpha Beta Parking Lot,mountain,magic,0.14285714285714285
+Quiet,No Phone,quiet,phone,0.2
+Quiet,No Phone,quiet,pressure,0.6666666666666666
+Quiet,No Phone,quiet,chief,0.23529411764705882
+Quiet,No Phone,young,phone,0.47058823529411764
+Quiet,No Phone,young,pressure,0.26666666666666666
+Quiet,No Phone,young,chief,0.7058823529411765
+Quiet,No Phone,mountain,phone,0.4
+Quiet,No Phone,mountain,pressure,0.3076923076923077
+Quiet,No Phone,mountain,chief,0.42857142857142855
+Quiet,Commissioning A Symphony In C,quiet,symphony,0.10526315789473684
+Quiet,Commissioning A Symphony In C,quiet,commissioning,0.1
+Quiet,Commissioning A Symphony In C,quiet,c,0.10526315789473684
+Quiet,Commissioning A Symphony In C,quiet,comfort,0.11764705882352941
+Quiet,Commissioning A Symphony In C,quiet,eagle,0.17391304347826086
+Quiet,Commissioning A Symphony In C,young,symphony,0.125
+Quiet,Commissioning A Symphony In C,young,commissioning,0.11764705882352941
+Quiet,Commissioning A Symphony In C,young,c,0.125
+Quiet,Commissioning A Symphony In C,young,comfort,0.14285714285714285
+Quiet,Commissioning A Symphony In C,young,eagle,0.7
+Quiet,Commissioning A Symphony In C,mountain,symphony,0.14285714285714285
+Quiet,Commissioning A Symphony In C,mountain,commissioning,0.13333333333333333
+Quiet,Commissioning A Symphony In C,mountain,c,0.14285714285714285
+Quiet,Commissioning A Symphony In C,mountain,comfort,0.16666666666666666
+Quiet,Commissioning A Symphony In C,mountain,eagle,0.3333333333333333
+Quiet,Mexico,quiet,mexico,0.19047619047619047
+Quiet,Mexico,quiet,prolonging,0
+Quiet,Mexico,quiet,magic,0.10526315789473684
+Quiet,Mexico,young,mexico,0.3333333333333333
+Quiet,Mexico,young,prolonging,0
+Quiet,Mexico,young,magic,0.125
+Quiet,Mexico,mountain,mexico,0.375
+Quiet,Mexico,mountain,prolonging,0
+Quiet,Mexico,mountain,magic,0.14285714285714285
+Quiet,Mahna_ Mahna,quiet,sides,0.23529411764705882
+Quiet,Mahna_ Mahna,quiet,rarities,0.1
+Quiet,Mahna_ Mahna,quiet,b,0.19047619047619047
+Quiet,Mahna_ Mahna,young,sides,0.42857142857142855
+Quiet,Mahna_ Mahna,young,rarities,0.11764705882352941
+Quiet,Mahna_ Mahna,young,b,0.6666666666666666
+Quiet,Mahna_ Mahna,mountain,sides,0.5
+Quiet,Mahna_ Mahna,mountain,rarities,0.13333333333333333
+Quiet,Mahna_ Mahna,mountain,b,0.375
+Quiet,Hey Mama,quiet,mama,0.18181818181818182
+Quiet,Hey Mama,young,mama,0.5454545454545454
+Quiet,Hey Mama,mountain,mama,0.3157894736842105
+Quiet,Pretty Pink Ribbon,quiet,pretty,0
+Quiet,Pretty Pink Ribbon,quiet,pink,0.10526315789473684
+Quiet,Pretty Pink Ribbon,quiet,ribbon,0.26666666666666666
+Quiet,Pretty Pink Ribbon,quiet,comfort,0.11764705882352941
+Quiet,Pretty Pink Ribbon,quiet,eagle,0.17391304347826086
+Quiet,Pretty Pink Ribbon,young,pretty,0
+Quiet,Pretty Pink Ribbon,young,pink,0.125
+Quiet,Pretty Pink Ribbon,young,ribbon,0.5
+Quiet,Pretty Pink Ribbon,young,comfort,0.14285714285714285
+Quiet,Pretty Pink Ribbon,young,eagle,0.7
+Quiet,Pretty Pink Ribbon,mountain,pretty,0
+Quiet,Pretty Pink Ribbon,mountain,pink,0.14285714285714285
+Quiet,Pretty Pink Ribbon,mountain,ribbon,0.6
+Quiet,Pretty Pink Ribbon,mountain,comfort,0.16666666666666666
+Quiet,Pretty Pink Ribbon,mountain,eagle,0.3333333333333333
+Quiet,Pop Champagne,quiet,pop,0.18181818181818182
+Quiet,Pop Champagne,quiet,champagne,0.19047619047619047
+Quiet,Pop Champagne,quiet,pray,0
+Quiet,Pop Champagne,quiet,iv,0.10526315789473684
+Quiet,Pop Champagne,quiet,reign,0.11764705882352941
+Quiet,Pop Champagne,young,pop,0.5454545454545454
+Quiet,Pop Champagne,young,champagne,0.2222222222222222
+Quiet,Pop Champagne,young,pray,0
+Quiet,Pop Champagne,young,iv,0.125
+Quiet,Pop Champagne,young,reign,0.14285714285714285
+Quiet,Pop Champagne,mountain,pop,0.3157894736842105
+Quiet,Pop Champagne,mountain,champagne,0.25
+Quiet,Pop Champagne,mountain,pray,0
+Quiet,Pop Champagne,mountain,iv,0.14285714285714285
+Quiet,Pop Champagne,mountain,reign,0.16666666666666666
+Quiet,Frank Sinatra,quiet,frank,0.2222222222222222
+Quiet,Frank Sinatra,quiet,sinatra,0.21052631578947367
+Quiet,Frank Sinatra,quiet,fashion,0.125
+Quiet,Frank Sinatra,quiet,nugget,0.23529411764705882
+Quiet,Frank Sinatra,young,frank,0.6666666666666666
+Quiet,Frank Sinatra,young,sinatra,0.631578947368421
+Quiet,Frank Sinatra,young,fashion,0.15384615384615385
+Quiet,Frank Sinatra,young,nugget,0.2857142857142857
+Quiet,Frank Sinatra,mountain,frank,0.4
+Quiet,Frank Sinatra,mountain,sinatra,0.375
+Quiet,Frank Sinatra,mountain,fashion,0.18181818181818182
+Quiet,Frank Sinatra,mountain,nugget,0.3333333333333333
+Quiet,Long Line Of Cars,quiet,long,0
+Quiet,Long Line Of Cars,quiet,line,0.11764705882352941
+Quiet,Long Line Of Cars,quiet,cars,0.18181818181818182
+Quiet,Long Line Of Cars,quiet,comfort,0.11764705882352941
+Quiet,Long Line Of Cars,quiet,eagle,0.17391304347826086
+Quiet,Long Line Of Cars,young,long,0
+Quiet,Long Line Of Cars,young,line,0.14285714285714285
+Quiet,Long Line Of Cars,young,cars,0.42105263157894735
+Quiet,Long Line Of Cars,young,comfort,0.14285714285714285
+Quiet,Long Line Of Cars,young,eagle,0.7
+Quiet,Long Line Of Cars,mountain,long,0
+Quiet,Long Line Of Cars,mountain,line,0.16666666666666666
+Quiet,Long Line Of Cars,mountain,cars,0.35294117647058826
+Quiet,Long Line Of Cars,mountain,comfort,0.16666666666666666
+Quiet,Long Line Of Cars,mountain,eagle,0.3333333333333333
+Quiet,W,quiet,free,0.125
+Quiet,W,quiet,cloud,0.6666666666666666
+Quiet,W,young,free,0.15384615384615385
+Quiet,W,young,cloud,0.26666666666666666
+Quiet,W,mountain,free,0.18181818181818182
+Quiet,W,mountain,cloud,0.3076923076923077
+Quiet,Let Me Go,quiet,let,0.10526315789473684
+Quiet,Let Me Go,quiet,go,0.1
+Quiet,Let Me Go,quiet,prolonging,0
+Quiet,Let Me Go,quiet,magic,0.10526315789473684
+Quiet,Let Me Go,young,let,0.125
+Quiet,Let Me Go,young,go,0.11764705882352941
+Quiet,Let Me Go,young,prolonging,0
+Quiet,Let Me Go,young,magic,0.125
+Quiet,Let Me Go,mountain,let,0.14285714285714285
+Quiet,Let Me Go,mountain,go,0.13333333333333333
+Quiet,Let Me Go,mountain,prolonging,0
+Quiet,Let Me Go,mountain,magic,0.14285714285714285
+Quiet,Cool Blue Reason,quiet,cool,0.2222222222222222
+Quiet,Cool Blue Reason,quiet,blue,0.10526315789473684
+Quiet,Cool Blue Reason,quiet,reason,0.11764705882352941
+Quiet,Cool Blue Reason,quiet,prolonging,0
+Quiet,Cool Blue Reason,quiet,magic,0.10526315789473684
+Quiet,Cool Blue Reason,young,cool,0.26666666666666666
+Quiet,Cool Blue Reason,young,blue,0.125
+Quiet,Cool Blue Reason,young,reason,0.14285714285714285
+Quiet,Cool Blue Reason,young,prolonging,0
+Quiet,Cool Blue Reason,young,magic,0.125
+Quiet,Cool Blue Reason,mountain,cool,0.3076923076923077
+Quiet,Cool Blue Reason,mountain,blue,0.14285714285714285
+Quiet,Cool Blue Reason,mountain,reason,0.16666666666666666
+Quiet,Cool Blue Reason,mountain,prolonging,0
+Quiet,Cool Blue Reason,mountain,magic,0.14285714285714285
+Girlfriend,Where Would I Be?,girlfriend,prolonging,0
+Girlfriend,Where Would I Be?,girlfriend,magic,0.14285714285714285
+Girlfriend,Where Would I Be?,phoenix,prolonging,0
+Girlfriend,Where Would I Be?,phoenix,magic,0.10526315789473684
+Girlfriend,Comfort Eagle,girlfriend,comfort,0.16666666666666666
+Girlfriend,Comfort Eagle,girlfriend,eagle,0.5714285714285714
+Girlfriend,Comfort Eagle,girlfriend,comfort,0.16666666666666666
+Girlfriend,Comfort Eagle,girlfriend,eagle,0.5714285714285714
+Girlfriend,Comfort Eagle,phoenix,comfort,0.11764705882352941
+Girlfriend,Comfort Eagle,phoenix,eagle,0.2608695652173913
+Girlfriend,Comfort Eagle,phoenix,comfort,0.11764705882352941
+Girlfriend,Comfort Eagle,phoenix,eagle,0.2608695652173913
+Girlfriend,Never There,girlfriend,never,0
+Girlfriend,Never There,girlfriend,prolonging,0
+Girlfriend,Never There,girlfriend,magic,0.14285714285714285
+Girlfriend,Never There,phoenix,never,0
+Girlfriend,Never There,phoenix,prolonging,0
+Girlfriend,Never There,phoenix,magic,0.10526315789473684
+Girlfriend,Beautiful,girlfriend,beautiful,0
+Girlfriend,Beautiful,girlfriend,hotel,0.47058823529411764
+Girlfriend,Beautiful,phoenix,beautiful,0
+Girlfriend,Beautiful,phoenix,hotel,0.3157894736842105
+Girlfriend,Carbon Monoxide,girlfriend,carbon,0.3333333333333333
+Girlfriend,Carbon Monoxide,girlfriend,monoxide,0.26666666666666666
+Girlfriend,Carbon Monoxide,girlfriend,pressure,0.3076923076923077
+Girlfriend,Carbon Monoxide,girlfriend,chief,0.6666666666666666
+Girlfriend,Carbon Monoxide,phoenix,carbon,0.23529411764705882
+Girlfriend,Carbon Monoxide,phoenix,monoxide,0.2
+Girlfriend,Carbon Monoxide,phoenix,pressure,0.2222222222222222
+Girlfriend,Carbon Monoxide,phoenix,chief,0.3157894736842105
+Girlfriend,Guitar,girlfriend,guitar,0.42105263157894735
+Girlfriend,Guitar,girlfriend,prolonging,0
+Girlfriend,Guitar,girlfriend,magic,0.14285714285714285
+Girlfriend,Guitar,phoenix,guitar,0.2857142857142857
+Girlfriend,Guitar,phoenix,prolonging,0
+Girlfriend,Guitar,phoenix,magic,0.10526315789473684
+Girlfriend,Opera Singer,girlfriend,opera,0.15384615384615385
+Girlfriend,Opera Singer,girlfriend,singer,0.6
+Girlfriend,Opera Singer,girlfriend,comfort,0.16666666666666666
+Girlfriend,Opera Singer,girlfriend,eagle,0.5714285714285714
+Girlfriend,Opera Singer,phoenix,opera,0.1111111111111111
+Girlfriend,Opera Singer,phoenix,singer,0.2857142857142857
+Girlfriend,Opera Singer,phoenix,comfort,0.11764705882352941
+Girlfriend,Opera Singer,phoenix,eagle,0.2608695652173913
+Girlfriend,Waiting,girlfriend,waiting,0.15384615384615385
+Girlfriend,Waiting,girlfriend,pressure,0.3076923076923077
+Girlfriend,Waiting,girlfriend,chief,0.6666666666666666
+Girlfriend,Waiting,phoenix,waiting,0.1111111111111111
+Girlfriend,Waiting,phoenix,pressure,0.2222222222222222
+Girlfriend,Waiting,phoenix,chief,0.3157894736842105
+Girlfriend,Alpha Beta Parking Lot,girlfriend,alpha,0.13333333333333333
+Girlfriend,Alpha Beta Parking Lot,girlfriend,beta,0.13333333333333333
+Girlfriend,Alpha Beta Parking Lot,girlfriend,parking,0.16666666666666666
+Girlfriend,Alpha Beta Parking Lot,girlfriend,lot,0.16666666666666666
+Girlfriend,Alpha Beta Parking Lot,girlfriend,prolonging,0
+Girlfriend,Alpha Beta Parking Lot,girlfriend,magic,0.14285714285714285
+Girlfriend,Alpha Beta Parking Lot,phoenix,alpha,0.1
+Girlfriend,Alpha Beta Parking Lot,phoenix,beta,0.1
+Girlfriend,Alpha Beta Parking Lot,phoenix,parking,0.11764705882352941
+Girlfriend,Alpha Beta Parking Lot,phoenix,lot,0.11764705882352941
+Girlfriend,Alpha Beta Parking Lot,phoenix,prolonging,0
+Girlfriend,Alpha Beta Parking Lot,phoenix,magic,0.10526315789473684
+Girlfriend,No Phone,girlfriend,phone,0.4444444444444444
+Girlfriend,No Phone,girlfriend,pressure,0.3076923076923077
+Girlfriend,No Phone,girlfriend,chief,0.6666666666666666
+Girlfriend,No Phone,phoenix,phone,0.3
+Girlfriend,No Phone,phoenix,pressure,0.2222222222222222
+Girlfriend,No Phone,phoenix,chief,0.3157894736842105
+Girlfriend,Commissioning A Symphony In C,girlfriend,symphony,0.14285714285714285
+Girlfriend,Commissioning A Symphony In C,girlfriend,commissioning,0.13333333333333333
+Girlfriend,Commissioning A Symphony In C,girlfriend,c,0.14285714285714285
+Girlfriend,Commissioning A Symphony In C,girlfriend,comfort,0.16666666666666666
+Girlfriend,Commissioning A Symphony In C,girlfriend,eagle,0.5714285714285714
+Girlfriend,Commissioning A Symphony In C,phoenix,symphony,0.10526315789473684
+Girlfriend,Commissioning A Symphony In C,phoenix,commissioning,0.1
+Girlfriend,Commissioning A Symphony In C,phoenix,c,0.10526315789473684
+Girlfriend,Commissioning A Symphony In C,phoenix,comfort,0.11764705882352941
+Girlfriend,Commissioning A Symphony In C,phoenix,eagle,0.2608695652173913
+Girlfriend,Mexico,girlfriend,mexico,0.3333333333333333
+Girlfriend,Mexico,girlfriend,prolonging,0
+Girlfriend,Mexico,girlfriend,magic,0.14285714285714285
+Girlfriend,Mexico,phoenix,mexico,0.6666666666666666
+Girlfriend,Mexico,phoenix,prolonging,0
+Girlfriend,Mexico,phoenix,magic,0.10526315789473684
+Girlfriend,Mahna_ Mahna,girlfriend,sides,0.42857142857142855
+Girlfriend,Mahna_ Mahna,girlfriend,rarities,0.13333333333333333
+Girlfriend,Mahna_ Mahna,girlfriend,b,0.631578947368421
+Girlfriend,Mahna_ Mahna,phoenix,sides,0.47058823529411764
+Girlfriend,Mahna_ Mahna,phoenix,rarities,0.1
+Girlfriend,Mahna_ Mahna,phoenix,b,0.2857142857142857
+Girlfriend,Hey Mama,girlfriend,mama,0.5217391304347826
+Girlfriend,Hey Mama,phoenix,mama,0.25
+Girlfriend,Pretty Pink Ribbon,girlfriend,pretty,0
+Girlfriend,Pretty Pink Ribbon,girlfriend,pink,0.14285714285714285
+Girlfriend,Pretty Pink Ribbon,girlfriend,ribbon,0.5
+Girlfriend,Pretty Pink Ribbon,girlfriend,comfort,0.16666666666666666
+Girlfriend,Pretty Pink Ribbon,girlfriend,eagle,0.5714285714285714
+Girlfriend,Pretty Pink Ribbon,phoenix,pretty,0
+Girlfriend,Pretty Pink Ribbon,phoenix,pink,0.10526315789473684
+Girlfriend,Pretty Pink Ribbon,phoenix,ribbon,0.4
+Girlfriend,Pretty Pink Ribbon,phoenix,comfort,0.11764705882352941
+Girlfriend,Pretty Pink Ribbon,phoenix,eagle,0.2608695652173913
+Girlfriend,Pop Champagne,girlfriend,pop,0.5217391304347826
+Girlfriend,Pop Champagne,girlfriend,champagne,0.375
+Girlfriend,Pop Champagne,girlfriend,pray,0
+Girlfriend,Pop Champagne,girlfriend,iv,0.14285714285714285
+Girlfriend,Pop Champagne,girlfriend,reign,0.16666666666666666
+Girlfriend,Pop Champagne,phoenix,pop,0.25
+Girlfriend,Pop Champagne,phoenix,champagne,0.19047619047619047
+Girlfriend,Pop Champagne,phoenix,pray,0
+Girlfriend,Pop Champagne,phoenix,iv,0.10526315789473684
+Girlfriend,Pop Champagne,phoenix,reign,0.11764705882352941
+Girlfriend,Frank Sinatra,girlfriend,frank,0.631578947368421
+Girlfriend,Frank Sinatra,girlfriend,sinatra,0.6
+Girlfriend,Frank Sinatra,girlfriend,fashion,0.18181818181818182
+Girlfriend,Frank Sinatra,girlfriend,nugget,0.3333333333333333
+Girlfriend,Frank Sinatra,phoenix,frank,0.3
+Girlfriend,Frank Sinatra,phoenix,sinatra,0.2857142857142857
+Girlfriend,Frank Sinatra,phoenix,fashion,0.125
+Girlfriend,Frank Sinatra,phoenix,nugget,0.23529411764705882
+Girlfriend,Long Line Of Cars,girlfriend,long,0
+Girlfriend,Long Line Of Cars,girlfriend,line,0.16666666666666666
+Girlfriend,Long Line Of Cars,girlfriend,cars,0.4
+Girlfriend,Long Line Of Cars,girlfriend,comfort,0.16666666666666666
+Girlfriend,Long Line Of Cars,girlfriend,eagle,0.5714285714285714
+Girlfriend,Long Line Of Cars,phoenix,long,0
+Girlfriend,Long Line Of Cars,phoenix,line,0.11764705882352941
+Girlfriend,Long Line Of Cars,phoenix,cars,0.2727272727272727
+Girlfriend,Long Line Of Cars,phoenix,comfort,0.11764705882352941
+Girlfriend,Long Line Of Cars,phoenix,eagle,0.2608695652173913
+Girlfriend,W,girlfriend,free,0.18181818181818182
+Girlfriend,W,girlfriend,cloud,0.3076923076923077
+Girlfriend,W,phoenix,free,0.125
+Girlfriend,W,phoenix,cloud,0.2222222222222222
+Girlfriend,Let Me Go,girlfriend,let,0.14285714285714285
+Girlfriend,Let Me Go,girlfriend,go,0.13333333333333333
+Girlfriend,Let Me Go,girlfriend,prolonging,0
+Girlfriend,Let Me Go,girlfriend,magic,0.14285714285714285
+Girlfriend,Let Me Go,phoenix,let,0.10526315789473684
+Girlfriend,Let Me Go,phoenix,go,0.1
+Girlfriend,Let Me Go,phoenix,prolonging,0
+Girlfriend,Let Me Go,phoenix,magic,0.10526315789473684
+Girlfriend,Cool Blue Reason,girlfriend,cool,0.46153846153846156
+Girlfriend,Cool Blue Reason,girlfriend,blue,0.14285714285714285
+Girlfriend,Cool Blue Reason,girlfriend,reason,0.16666666666666666
+Girlfriend,Cool Blue Reason,girlfriend,prolonging,0
+Girlfriend,Cool Blue Reason,girlfriend,magic,0.14285714285714285
+Girlfriend,Cool Blue Reason,phoenix,cool,0.2222222222222222
+Girlfriend,Cool Blue Reason,phoenix,blue,0.10526315789473684
+Girlfriend,Cool Blue Reason,phoenix,reason,0.11764705882352941
+Girlfriend,Cool Blue Reason,phoenix,prolonging,0
+Girlfriend,Cool Blue Reason,phoenix,magic,0.10526315789473684
+Happiness: We're All In It Together,Where Would I Be?,together,prolonging,0
+Happiness: We're All In It Together,Where Would I Be?,together,magic,0
+Happiness: We're All In It Together,Where Would I Be?,happiness,prolonging,0
+Happiness: We're All In It Together,Where Would I Be?,happiness,magic,0.25
+Happiness: We're All In It Together,Where Would I Be?,young,prolonging,0
+Happiness: We're All In It Together,Where Would I Be?,young,magic,0.125
+Happiness: We're All In It Together,Where Would I Be?,mountain,prolonging,0
+Happiness: We're All In It Together,Where Would I Be?,mountain,magic,0.14285714285714285
+Happiness: We're All In It Together,Comfort Eagle,together,comfort,0
+Happiness: We're All In It Together,Comfort Eagle,together,eagle,0
+Happiness: We're All In It Together,Comfort Eagle,together,comfort,0
+Happiness: We're All In It Together,Comfort Eagle,together,eagle,0
+Happiness: We're All In It Together,Comfort Eagle,happiness,comfort,0.5714285714285714
+Happiness: We're All In It Together,Comfort Eagle,happiness,eagle,0.1
+Happiness: We're All In It Together,Comfort Eagle,happiness,comfort,0.5714285714285714
+Happiness: We're All In It Together,Comfort Eagle,happiness,eagle,0.1
+Happiness: We're All In It Together,Comfort Eagle,young,comfort,0.14285714285714285
+Happiness: We're All In It Together,Comfort Eagle,young,eagle,0.7
+Happiness: We're All In It Together,Comfort Eagle,young,comfort,0.14285714285714285
+Happiness: We're All In It Together,Comfort Eagle,young,eagle,0.7
+Happiness: We're All In It Together,Comfort Eagle,mountain,comfort,0.16666666666666666
+Happiness: We're All In It Together,Comfort Eagle,mountain,eagle,0.3333333333333333
+Happiness: We're All In It Together,Comfort Eagle,mountain,comfort,0.16666666666666666
+Happiness: We're All In It Together,Comfort Eagle,mountain,eagle,0.3333333333333333
+Happiness: We're All In It Together,Never There,together,never,0
+Happiness: We're All In It Together,Never There,together,prolonging,0
+Happiness: We're All In It Together,Never There,together,magic,0
+Happiness: We're All In It Together,Never There,happiness,never,0
+Happiness: We're All In It Together,Never There,happiness,prolonging,0
+Happiness: We're All In It Together,Never There,happiness,magic,0.25
+Happiness: We're All In It Together,Never There,young,never,0
+Happiness: We're All In It Together,Never There,young,prolonging,0
+Happiness: We're All In It Together,Never There,young,magic,0.125
+Happiness: We're All In It Together,Never There,mountain,never,0
+Happiness: We're All In It Together,Never There,mountain,prolonging,0
+Happiness: We're All In It Together,Never There,mountain,magic,0.14285714285714285
+Happiness: We're All In It Together,Beautiful,together,beautiful,0
+Happiness: We're All In It Together,Beautiful,together,hotel,0
+Happiness: We're All In It Together,Beautiful,happiness,beautiful,0
+Happiness: We're All In It Together,Beautiful,happiness,hotel,0.125
+Happiness: We're All In It Together,Beautiful,young,beautiful,0
+Happiness: We're All In It Together,Beautiful,young,hotel,0.5
+Happiness: We're All In It Together,Beautiful,mountain,beautiful,0
+Happiness: We're All In It Together,Beautiful,mountain,hotel,0.42857142857142855
+Happiness: We're All In It Together,Carbon Monoxide,together,carbon,0
+Happiness: We're All In It Together,Carbon Monoxide,together,monoxide,0
+Happiness: We're All In It Together,Carbon Monoxide,together,pressure,0
+Happiness: We're All In It Together,Carbon Monoxide,together,chief,0
+Happiness: We're All In It Together,Carbon Monoxide,happiness,carbon,0.26666666666666666
+Happiness: We're All In It Together,Carbon Monoxide,happiness,monoxide,0.2222222222222222
+Happiness: We're All In It Together,Carbon Monoxide,happiness,pressure,0.13333333333333333
+Happiness: We're All In It Together,Carbon Monoxide,happiness,chief,0.14285714285714285
+Happiness: We're All In It Together,Carbon Monoxide,young,carbon,0.2857142857142857
+Happiness: We're All In It Together,Carbon Monoxide,young,monoxide,0.23529411764705882
+Happiness: We're All In It Together,Carbon Monoxide,young,pressure,0.26666666666666666
+Happiness: We're All In It Together,Carbon Monoxide,young,chief,0.7058823529411765
+Happiness: We're All In It Together,Carbon Monoxide,mountain,carbon,0.3333333333333333
+Happiness: We're All In It Together,Carbon Monoxide,mountain,monoxide,0.26666666666666666
+Happiness: We're All In It Together,Carbon Monoxide,mountain,pressure,0.3076923076923077
+Happiness: We're All In It Together,Carbon Monoxide,mountain,chief,0.42857142857142855
+Happiness: We're All In It Together,Guitar,together,guitar,0
+Happiness: We're All In It Together,Guitar,together,prolonging,0
+Happiness: We're All In It Together,Guitar,together,magic,0
+Happiness: We're All In It Together,Guitar,happiness,guitar,0.1111111111111111
+Happiness: We're All In It Together,Guitar,happiness,prolonging,0
+Happiness: We're All In It Together,Guitar,happiness,magic,0.25
+Happiness: We're All In It Together,Guitar,young,guitar,0.4444444444444444
+Happiness: We're All In It Together,Guitar,young,prolonging,0
+Happiness: We're All In It Together,Guitar,young,magic,0.125
+Happiness: We're All In It Together,Guitar,mountain,guitar,0.375
+Happiness: We're All In It Together,Guitar,mountain,prolonging,0
+Happiness: We're All In It Together,Guitar,mountain,magic,0.14285714285714285
+Happiness: We're All In It Together,Opera Singer,together,opera,0
+Happiness: We're All In It Together,Opera Singer,together,singer,0
+Happiness: We're All In It Together,Opera Singer,together,comfort,0
+Happiness: We're All In It Together,Opera Singer,together,eagle,0
+Happiness: We're All In It Together,Opera Singer,happiness,opera,0.26666666666666666
+Happiness: We're All In It Together,Opera Singer,happiness,singer,0.125
+Happiness: We're All In It Together,Opera Singer,happiness,comfort,0.5714285714285714
+Happiness: We're All In It Together,Opera Singer,happiness,eagle,0.1
+Happiness: We're All In It Together,Opera Singer,young,opera,0.13333333333333333
+Happiness: We're All In It Together,Opera Singer,young,singer,0.631578947368421
+Happiness: We're All In It Together,Opera Singer,young,comfort,0.14285714285714285
+Happiness: We're All In It Together,Opera Singer,young,eagle,0.7
+Happiness: We're All In It Together,Opera Singer,mountain,opera,0.15384615384615385
+Happiness: We're All In It Together,Opera Singer,mountain,singer,0.375
+Happiness: We're All In It Together,Opera Singer,mountain,comfort,0.16666666666666666
+Happiness: We're All In It Together,Opera Singer,mountain,eagle,0.3333333333333333
+Happiness: We're All In It Together,Waiting,together,waiting,0
+Happiness: We're All In It Together,Waiting,together,pressure,0
+Happiness: We're All In It Together,Waiting,together,chief,0
+Happiness: We're All In It Together,Waiting,happiness,waiting,0.26666666666666666
+Happiness: We're All In It Together,Waiting,happiness,pressure,0.13333333333333333
+Happiness: We're All In It Together,Waiting,happiness,chief,0.14285714285714285
+Happiness: We're All In It Together,Waiting,young,waiting,0.13333333333333333
+Happiness: We're All In It Together,Waiting,young,pressure,0.26666666666666666
+Happiness: We're All In It Together,Waiting,young,chief,0.7058823529411765
+Happiness: We're All In It Together,Waiting,mountain,waiting,0.15384615384615385
+Happiness: We're All In It Together,Waiting,mountain,pressure,0.3076923076923077
+Happiness: We're All In It Together,Waiting,mountain,chief,0.42857142857142855
+Happiness: We're All In It Together,Alpha Beta Parking Lot,together,alpha,0
+Happiness: We're All In It Together,Alpha Beta Parking Lot,together,beta,0
+Happiness: We're All In It Together,Alpha Beta Parking Lot,together,parking,0
+Happiness: We're All In It Together,Alpha Beta Parking Lot,together,lot,0
+Happiness: We're All In It Together,Alpha Beta Parking Lot,together,prolonging,0
+Happiness: We're All In It Together,Alpha Beta Parking Lot,together,magic,0
+Happiness: We're All In It Together,Alpha Beta Parking Lot,happiness,alpha,0.23529411764705882
+Happiness: We're All In It Together,Alpha Beta Parking Lot,happiness,beta,0.23529411764705882
+Happiness: We're All In It Together,Alpha Beta Parking Lot,happiness,parking,0.2857142857142857
+Happiness: We're All In It Together,Alpha Beta Parking Lot,happiness,lot,0.2857142857142857
+Happiness: We're All In It Together,Alpha Beta Parking Lot,happiness,prolonging,0
+Happiness: We're All In It Together,Alpha Beta Parking Lot,happiness,magic,0.25
+Happiness: We're All In It Together,Alpha Beta Parking Lot,young,alpha,0.11764705882352941
+Happiness: We're All In It Together,Alpha Beta Parking Lot,young,beta,0.11764705882352941
+Happiness: We're All In It Together,Alpha Beta Parking Lot,young,parking,0.14285714285714285
+Happiness: We're All In It Together,Alpha Beta Parking Lot,young,lot,0.14285714285714285
+Happiness: We're All In It Together,Alpha Beta Parking Lot,young,prolonging,0
+Happiness: We're All In It Together,Alpha Beta Parking Lot,young,magic,0.125
+Happiness: We're All In It Together,Alpha Beta Parking Lot,mountain,alpha,0.13333333333333333
+Happiness: We're All In It Together,Alpha Beta Parking Lot,mountain,beta,0.13333333333333333
+Happiness: We're All In It Together,Alpha Beta Parking Lot,mountain,parking,0.16666666666666666
+Happiness: We're All In It Together,Alpha Beta Parking Lot,mountain,lot,0.16666666666666666
+Happiness: We're All In It Together,Alpha Beta Parking Lot,mountain,prolonging,0
+Happiness: We're All In It Together,Alpha Beta Parking Lot,mountain,magic,0.14285714285714285
+Happiness: We're All In It Together,No Phone,together,phone,0
+Happiness: We're All In It Together,No Phone,together,pressure,0
+Happiness: We're All In It Together,No Phone,together,chief,0
+Happiness: We're All In It Together,No Phone,happiness,phone,0.11764705882352941
+Happiness: We're All In It Together,No Phone,happiness,pressure,0.13333333333333333
+Happiness: We're All In It Together,No Phone,happiness,chief,0.14285714285714285
+Happiness: We're All In It Together,No Phone,young,phone,0.47058823529411764
+Happiness: We're All In It Together,No Phone,young,pressure,0.26666666666666666
+Happiness: We're All In It Together,No Phone,young,chief,0.7058823529411765
+Happiness: We're All In It Together,No Phone,mountain,phone,0.4
+Happiness: We're All In It Together,No Phone,mountain,pressure,0.3076923076923077
+Happiness: We're All In It Together,No Phone,mountain,chief,0.42857142857142855
+Happiness: We're All In It Together,Commissioning A Symphony In C,together,symphony,0
+Happiness: We're All In It Together,Commissioning A Symphony In C,together,commissioning,0
+Happiness: We're All In It Together,Commissioning A Symphony In C,together,c,0
+Happiness: We're All In It Together,Commissioning A Symphony In C,together,comfort,0
+Happiness: We're All In It Together,Commissioning A Symphony In C,together,eagle,0
+Happiness: We're All In It Together,Commissioning A Symphony In C,happiness,symphony,0.25
+Happiness: We're All In It Together,Commissioning A Symphony In C,happiness,commissioning,0.23529411764705882
+Happiness: We're All In It Together,Commissioning A Symphony In C,happiness,c,0.25
+Happiness: We're All In It Together,Commissioning A Symphony In C,happiness,comfort,0.5714285714285714
+Happiness: We're All In It Together,Commissioning A Symphony In C,happiness,eagle,0.1
+Happiness: We're All In It Together,Commissioning A Symphony In C,young,symphony,0.125
+Happiness: We're All In It Together,Commissioning A Symphony In C,young,commissioning,0.11764705882352941
+Happiness: We're All In It Together,Commissioning A Symphony In C,young,c,0.125
+Happiness: We're All In It Together,Commissioning A Symphony In C,young,comfort,0.14285714285714285
+Happiness: We're All In It Together,Commissioning A Symphony In C,young,eagle,0.7
+Happiness: We're All In It Together,Commissioning A Symphony In C,mountain,symphony,0.14285714285714285
+Happiness: We're All In It Together,Commissioning A Symphony In C,mountain,commissioning,0.13333333333333333
+Happiness: We're All In It Together,Commissioning A Symphony In C,mountain,c,0.14285714285714285
+Happiness: We're All In It Together,Commissioning A Symphony In C,mountain,comfort,0.16666666666666666
+Happiness: We're All In It Together,Commissioning A Symphony In C,mountain,eagle,0.3333333333333333
+Happiness: We're All In It Together,Mexico,together,mexico,0
+Happiness: We're All In It Together,Mexico,together,prolonging,0
+Happiness: We're All In It Together,Mexico,together,magic,0
+Happiness: We're All In It Together,Mexico,happiness,mexico,0.1111111111111111
+Happiness: We're All In It Together,Mexico,happiness,prolonging,0
+Happiness: We're All In It Together,Mexico,happiness,magic,0.25
+Happiness: We're All In It Together,Mexico,young,mexico,0.3333333333333333
+Happiness: We're All In It Together,Mexico,young,prolonging,0
+Happiness: We're All In It Together,Mexico,young,magic,0.125
+Happiness: We're All In It Together,Mexico,mountain,mexico,0.375
+Happiness: We're All In It Together,Mexico,mountain,prolonging,0
+Happiness: We're All In It Together,Mexico,mountain,magic,0.14285714285714285
+Happiness: We're All In It Together,Mahna_ Mahna,together,sides,0
+Happiness: We're All In It Together,Mahna_ Mahna,together,rarities,0
+Happiness: We're All In It Together,Mahna_ Mahna,together,b,0
+Happiness: We're All In It Together,Mahna_ Mahna,happiness,sides,0.14285714285714285
+Happiness: We're All In It Together,Mahna_ Mahna,happiness,rarities,0.35294117647058826
+Happiness: We're All In It Together,Mahna_ Mahna,happiness,b,0.1111111111111111
+Happiness: We're All In It Together,Mahna_ Mahna,young,sides,0.42857142857142855
+Happiness: We're All In It Together,Mahna_ Mahna,young,rarities,0.11764705882352941
+Happiness: We're All In It Together,Mahna_ Mahna,young,b,0.6666666666666666
+Happiness: We're All In It Together,Mahna_ Mahna,mountain,sides,0.5
+Happiness: We're All In It Together,Mahna_ Mahna,mountain,rarities,0.13333333333333333
+Happiness: We're All In It Together,Mahna_ Mahna,mountain,b,0.375
+Happiness: We're All In It Together,Hey Mama,together,mama,0
+Happiness: We're All In It Together,Hey Mama,happiness,mama,0.10526315789473684
+Happiness: We're All In It Together,Hey Mama,young,mama,0.5454545454545454
+Happiness: We're All In It Together,Hey Mama,mountain,mama,0.3157894736842105
+Happiness: We're All In It Together,Pretty Pink Ribbon,together,pretty,0
+Happiness: We're All In It Together,Pretty Pink Ribbon,together,pink,0
+Happiness: We're All In It Together,Pretty Pink Ribbon,together,ribbon,0
+Happiness: We're All In It Together,Pretty Pink Ribbon,together,comfort,0
+Happiness: We're All In It Together,Pretty Pink Ribbon,together,eagle,0
+Happiness: We're All In It Together,Pretty Pink Ribbon,happiness,pretty,0
+Happiness: We're All In It Together,Pretty Pink Ribbon,happiness,pink,0.375
+Happiness: We're All In It Together,Pretty Pink Ribbon,happiness,ribbon,0.16666666666666666
+Happiness: We're All In It Together,Pretty Pink Ribbon,happiness,comfort,0.5714285714285714
+Happiness: We're All In It Together,Pretty Pink Ribbon,happiness,eagle,0.1
+Happiness: We're All In It Together,Pretty Pink Ribbon,young,pretty,0
+Happiness: We're All In It Together,Pretty Pink Ribbon,young,pink,0.125
+Happiness: We're All In It Together,Pretty Pink Ribbon,young,ribbon,0.5
+Happiness: We're All In It Together,Pretty Pink Ribbon,young,comfort,0.14285714285714285
+Happiness: We're All In It Together,Pretty Pink Ribbon,young,eagle,0.7
+Happiness: We're All In It Together,Pretty Pink Ribbon,mountain,pretty,0
+Happiness: We're All In It Together,Pretty Pink Ribbon,mountain,pink,0.14285714285714285
+Happiness: We're All In It Together,Pretty Pink Ribbon,mountain,ribbon,0.6
+Happiness: We're All In It Together,Pretty Pink Ribbon,mountain,comfort,0.16666666666666666
+Happiness: We're All In It Together,Pretty Pink Ribbon,mountain,eagle,0.3333333333333333
+Happiness: We're All In It Together,Pop Champagne,together,pop,0
+Happiness: We're All In It Together,Pop Champagne,together,champagne,0
+Happiness: We're All In It Together,Pop Champagne,together,pray,0
+Happiness: We're All In It Together,Pop Champagne,together,iv,0
+Happiness: We're All In It Together,Pop Champagne,together,reign,0
+Happiness: We're All In It Together,Pop Champagne,happiness,pop,0.10526315789473684
+Happiness: We're All In It Together,Pop Champagne,happiness,champagne,0.2
+Happiness: We're All In It Together,Pop Champagne,happiness,pray,0
+Happiness: We're All In It Together,Pop Champagne,happiness,iv,0.25
+Happiness: We're All In It Together,Pop Champagne,happiness,reign,0.2857142857142857
+Happiness: We're All In It Together,Pop Champagne,young,pop,0.5454545454545454
+Happiness: We're All In It Together,Pop Champagne,young,champagne,0.2222222222222222
+Happiness: We're All In It Together,Pop Champagne,young,pray,0
+Happiness: We're All In It Together,Pop Champagne,young,iv,0.125
+Happiness: We're All In It Together,Pop Champagne,young,reign,0.14285714285714285
+Happiness: We're All In It Together,Pop Champagne,mountain,pop,0.3157894736842105
+Happiness: We're All In It Together,Pop Champagne,mountain,champagne,0.25
+Happiness: We're All In It Together,Pop Champagne,mountain,pray,0
+Happiness: We're All In It Together,Pop Champagne,mountain,iv,0.14285714285714285
+Happiness: We're All In It Together,Pop Champagne,mountain,reign,0.16666666666666666
+Happiness: We're All In It Together,Frank Sinatra,together,frank,0
+Happiness: We're All In It Together,Frank Sinatra,together,sinatra,0
+Happiness: We're All In It Together,Frank Sinatra,together,fashion,0
+Happiness: We're All In It Together,Frank Sinatra,together,nugget,0
+Happiness: We're All In It Together,Frank Sinatra,happiness,frank,0.13333333333333333
+Happiness: We're All In It Together,Frank Sinatra,happiness,sinatra,0.125
+Happiness: We're All In It Together,Frank Sinatra,happiness,fashion,0.46153846153846156
+Happiness: We're All In It Together,Frank Sinatra,happiness,nugget,0.14285714285714285
+Happiness: We're All In It Together,Frank Sinatra,young,frank,0.6666666666666666
+Happiness: We're All In It Together,Frank Sinatra,young,sinatra,0.631578947368421
+Happiness: We're All In It Together,Frank Sinatra,young,fashion,0.15384615384615385
+Happiness: We're All In It Together,Frank Sinatra,young,nugget,0.2857142857142857
+Happiness: We're All In It Together,Frank Sinatra,mountain,frank,0.4
+Happiness: We're All In It Together,Frank Sinatra,mountain,sinatra,0.375
+Happiness: We're All In It Together,Frank Sinatra,mountain,fashion,0.18181818181818182
+Happiness: We're All In It Together,Frank Sinatra,mountain,nugget,0.3333333333333333
+Happiness: We're All In It Together,Long Line Of Cars,together,long,0
+Happiness: We're All In It Together,Long Line Of Cars,together,line,0
+Happiness: We're All In It Together,Long Line Of Cars,together,cars,0
+Happiness: We're All In It Together,Long Line Of Cars,together,comfort,0
+Happiness: We're All In It Together,Long Line Of Cars,together,eagle,0
+Happiness: We're All In It Together,Long Line Of Cars,happiness,long,0
+Happiness: We're All In It Together,Long Line Of Cars,happiness,line,0.2857142857142857
+Happiness: We're All In It Together,Long Line Of Cars,happiness,cars,0.10526315789473684
+Happiness: We're All In It Together,Long Line Of Cars,happiness,comfort,0.5714285714285714
+Happiness: We're All In It Together,Long Line Of Cars,happiness,eagle,0.1
+Happiness: We're All In It Together,Long Line Of Cars,young,long,0
+Happiness: We're All In It Together,Long Line Of Cars,young,line,0.14285714285714285
+Happiness: We're All In It Together,Long Line Of Cars,young,cars,0.42105263157894735
+Happiness: We're All In It Together,Long Line Of Cars,young,comfort,0.14285714285714285
+Happiness: We're All In It Together,Long Line Of Cars,young,eagle,0.7
+Happiness: We're All In It Together,Long Line Of Cars,mountain,long,0
+Happiness: We're All In It Together,Long Line Of Cars,mountain,line,0.16666666666666666
+Happiness: We're All In It Together,Long Line Of Cars,mountain,cars,0.35294117647058826
+Happiness: We're All In It Together,Long Line Of Cars,mountain,comfort,0.16666666666666666
+Happiness: We're All In It Together,Long Line Of Cars,mountain,eagle,0.3333333333333333
+Happiness: We're All In It Together,W,together,free,0
+Happiness: We're All In It Together,W,together,cloud,0
+Happiness: We're All In It Together,W,happiness,free,0.3076923076923077
+Happiness: We're All In It Together,W,happiness,cloud,0.13333333333333333
+Happiness: We're All In It Together,W,young,free,0.15384615384615385
+Happiness: We're All In It Together,W,young,cloud,0.26666666666666666
+Happiness: We're All In It Together,W,mountain,free,0.18181818181818182
+Happiness: We're All In It Together,W,mountain,cloud,0.3076923076923077
+Happiness: We're All In It Together,Let Me Go,together,let,0
+Happiness: We're All In It Together,Let Me Go,together,go,0
+Happiness: We're All In It Together,Let Me Go,together,prolonging,0
+Happiness: We're All In It Together,Let Me Go,together,magic,0
+Happiness: We're All In It Together,Let Me Go,happiness,let,0.25
+Happiness: We're All In It Together,Let Me Go,happiness,go,0.23529411764705882
+Happiness: We're All In It Together,Let Me Go,happiness,prolonging,0
+Happiness: We're All In It Together,Let Me Go,happiness,magic,0.25
+Happiness: We're All In It Together,Let Me Go,young,let,0.125
+Happiness: We're All In It Together,Let Me Go,young,go,0.11764705882352941
+Happiness: We're All In It Together,Let Me Go,young,prolonging,0
+Happiness: We're All In It Together,Let Me Go,young,magic,0.125
+Happiness: We're All In It Together,Let Me Go,mountain,let,0.14285714285714285
+Happiness: We're All In It Together,Let Me Go,mountain,go,0.13333333333333333
+Happiness: We're All In It Together,Let Me Go,mountain,prolonging,0
+Happiness: We're All In It Together,Let Me Go,mountain,magic,0.14285714285714285
+Happiness: We're All In It Together,Cool Blue Reason,together,cool,0
+Happiness: We're All In It Together,Cool Blue Reason,together,blue,0
+Happiness: We're All In It Together,Cool Blue Reason,together,reason,0
+Happiness: We're All In It Together,Cool Blue Reason,together,prolonging,0
+Happiness: We're All In It Together,Cool Blue Reason,together,magic,0
+Happiness: We're All In It Together,Cool Blue Reason,happiness,cool,0.375
+Happiness: We're All In It Together,Cool Blue Reason,happiness,blue,0.375
+Happiness: We're All In It Together,Cool Blue Reason,happiness,reason,0.2857142857142857
+Happiness: We're All In It Together,Cool Blue Reason,happiness,prolonging,0
+Happiness: We're All In It Together,Cool Blue Reason,happiness,magic,0.25
+Happiness: We're All In It Together,Cool Blue Reason,young,cool,0.26666666666666666
+Happiness: We're All In It Together,Cool Blue Reason,young,blue,0.125
+Happiness: We're All In It Together,Cool Blue Reason,young,reason,0.14285714285714285
+Happiness: We're All In It Together,Cool Blue Reason,young,prolonging,0
+Happiness: We're All In It Together,Cool Blue Reason,young,magic,0.125
+Happiness: We're All In It Together,Cool Blue Reason,mountain,cool,0.3076923076923077
+Happiness: We're All In It Together,Cool Blue Reason,mountain,blue,0.14285714285714285
+Happiness: We're All In It Together,Cool Blue Reason,mountain,reason,0.16666666666666666
+Happiness: We're All In It Together,Cool Blue Reason,mountain,prolonging,0
+Happiness: We're All In It Together,Cool Blue Reason,mountain,magic,0.14285714285714285
+Armistice,Where Would I Be?,armistice,prolonging,0
+Armistice,Where Would I Be?,armistice,magic,0.26666666666666666
+Armistice,Where Would I Be?,phoenix,prolonging,0
+Armistice,Where Would I Be?,phoenix,magic,0.10526315789473684
+Armistice,Comfort Eagle,armistice,comfort,0.6153846153846154
+Armistice,Comfort Eagle,armistice,eagle,0.10526315789473684
+Armistice,Comfort Eagle,armistice,comfort,0.6153846153846154
+Armistice,Comfort Eagle,armistice,eagle,0.10526315789473684
+Armistice,Comfort Eagle,phoenix,comfort,0.11764705882352941
+Armistice,Comfort Eagle,phoenix,eagle,0.2608695652173913
+Armistice,Comfort Eagle,phoenix,comfort,0.11764705882352941
+Armistice,Comfort Eagle,phoenix,eagle,0.2608695652173913
+Armistice,Never There,armistice,never,0
+Armistice,Never There,armistice,prolonging,0
+Armistice,Never There,armistice,magic,0.26666666666666666
+Armistice,Never There,phoenix,never,0
+Armistice,Never There,phoenix,prolonging,0
+Armistice,Never There,phoenix,magic,0.10526315789473684
+Armistice,Beautiful,armistice,beautiful,0
+Armistice,Beautiful,armistice,hotel,0.13333333333333333
+Armistice,Beautiful,phoenix,beautiful,0
+Armistice,Beautiful,phoenix,hotel,0.3157894736842105
+Armistice,Carbon Monoxide,armistice,carbon,0.2857142857142857
+Armistice,Carbon Monoxide,armistice,monoxide,0.23529411764705882
+Armistice,Carbon Monoxide,armistice,pressure,0.14285714285714285
+Armistice,Carbon Monoxide,armistice,chief,0.15384615384615385
+Armistice,Carbon Monoxide,phoenix,carbon,0.23529411764705882
+Armistice,Carbon Monoxide,phoenix,monoxide,0.2
+Armistice,Carbon Monoxide,phoenix,pressure,0.2222222222222222
+Armistice,Carbon Monoxide,phoenix,chief,0.3157894736842105
+Armistice,Guitar,armistice,guitar,0.11764705882352941
+Armistice,Guitar,armistice,prolonging,0
+Armistice,Guitar,armistice,magic,0.26666666666666666
+Armistice,Guitar,phoenix,guitar,0.2857142857142857
+Armistice,Guitar,phoenix,prolonging,0
+Armistice,Guitar,phoenix,magic,0.10526315789473684
+Armistice,Opera Singer,armistice,opera,0.2857142857142857
+Armistice,Opera Singer,armistice,singer,0.13333333333333333
+Armistice,Opera Singer,armistice,comfort,0.6153846153846154
+Armistice,Opera Singer,armistice,eagle,0.10526315789473684
+Armistice,Opera Singer,phoenix,opera,0.1111111111111111
+Armistice,Opera Singer,phoenix,singer,0.2857142857142857
+Armistice,Opera Singer,phoenix,comfort,0.11764705882352941
+Armistice,Opera Singer,phoenix,eagle,0.2608695652173913
+Armistice,Waiting,armistice,waiting,0.2857142857142857
+Armistice,Waiting,armistice,pressure,0.14285714285714285
+Armistice,Waiting,armistice,chief,0.15384615384615385
+Armistice,Waiting,phoenix,waiting,0.1111111111111111
+Armistice,Waiting,phoenix,pressure,0.2222222222222222
+Armistice,Waiting,phoenix,chief,0.3157894736842105
+Armistice,Alpha Beta Parking Lot,armistice,alpha,0.25
+Armistice,Alpha Beta Parking Lot,armistice,beta,0.25
+Armistice,Alpha Beta Parking Lot,armistice,parking,0.3076923076923077
+Armistice,Alpha Beta Parking Lot,armistice,lot,0.3076923076923077
+Armistice,Alpha Beta Parking Lot,armistice,prolonging,0
+Armistice,Alpha Beta Parking Lot,armistice,magic,0.26666666666666666
+Armistice,Alpha Beta Parking Lot,phoenix,alpha,0.1
+Armistice,Alpha Beta Parking Lot,phoenix,beta,0.1
+Armistice,Alpha Beta Parking Lot,phoenix,parking,0.11764705882352941
+Armistice,Alpha Beta Parking Lot,phoenix,lot,0.11764705882352941
+Armistice,Alpha Beta Parking Lot,phoenix,prolonging,0
+Armistice,Alpha Beta Parking Lot,phoenix,magic,0.10526315789473684
+Armistice,No Phone,armistice,phone,0.125
+Armistice,No Phone,armistice,pressure,0.14285714285714285
+Armistice,No Phone,armistice,chief,0.15384615384615385
+Armistice,No Phone,phoenix,phone,0.3
+Armistice,No Phone,phoenix,pressure,0.2222222222222222
+Armistice,No Phone,phoenix,chief,0.3157894736842105
+Armistice,Commissioning A Symphony In C,armistice,symphony,0.26666666666666666
+Armistice,Commissioning A Symphony In C,armistice,commissioning,0.25
+Armistice,Commissioning A Symphony In C,armistice,c,0.26666666666666666
+Armistice,Commissioning A Symphony In C,armistice,comfort,0.6153846153846154
+Armistice,Commissioning A Symphony In C,armistice,eagle,0.10526315789473684
+Armistice,Commissioning A Symphony In C,phoenix,symphony,0.10526315789473684
+Armistice,Commissioning A Symphony In C,phoenix,commissioning,0.1
+Armistice,Commissioning A Symphony In C,phoenix,c,0.10526315789473684
+Armistice,Commissioning A Symphony In C,phoenix,comfort,0.11764705882352941
+Armistice,Commissioning A Symphony In C,phoenix,eagle,0.2608695652173913
+Armistice,Mexico,armistice,mexico,0.11764705882352941
+Armistice,Mexico,armistice,prolonging,0
+Armistice,Mexico,armistice,magic,0.26666666666666666
+Armistice,Mexico,phoenix,mexico,0.6666666666666666
+Armistice,Mexico,phoenix,prolonging,0
+Armistice,Mexico,phoenix,magic,0.10526315789473684
+Armistice,Mahna_ Mahna,armistice,sides,0.15384615384615385
+Armistice,Mahna_ Mahna,armistice,rarities,0.375
+Armistice,Mahna_ Mahna,armistice,b,0.11764705882352941
+Armistice,Mahna_ Mahna,phoenix,sides,0.47058823529411764
+Armistice,Mahna_ Mahna,phoenix,rarities,0.1
+Armistice,Mahna_ Mahna,phoenix,b,0.2857142857142857
+Armistice,Hey Mama,armistice,mama,0.1111111111111111
+Armistice,Hey Mama,phoenix,mama,0.25
+Armistice,Pretty Pink Ribbon,armistice,pretty,0
+Armistice,Pretty Pink Ribbon,armistice,pink,0.4
+Armistice,Pretty Pink Ribbon,armistice,ribbon,0.18181818181818182
+Armistice,Pretty Pink Ribbon,armistice,comfort,0.6153846153846154
+Armistice,Pretty Pink Ribbon,armistice,eagle,0.10526315789473684
+Armistice,Pretty Pink Ribbon,phoenix,pretty,0
+Armistice,Pretty Pink Ribbon,phoenix,pink,0.10526315789473684
+Armistice,Pretty Pink Ribbon,phoenix,ribbon,0.4
+Armistice,Pretty Pink Ribbon,phoenix,comfort,0.11764705882352941
+Armistice,Pretty Pink Ribbon,phoenix,eagle,0.2608695652173913
+Armistice,Pop Champagne,armistice,pop,0.1111111111111111
+Armistice,Pop Champagne,armistice,champagne,0.21052631578947367
+Armistice,Pop Champagne,armistice,pray,0
+Armistice,Pop Champagne,armistice,iv,0.26666666666666666
+Armistice,Pop Champagne,armistice,reign,0.3076923076923077
+Armistice,Pop Champagne,phoenix,pop,0.25
+Armistice,Pop Champagne,phoenix,champagne,0.19047619047619047
+Armistice,Pop Champagne,phoenix,pray,0
+Armistice,Pop Champagne,phoenix,iv,0.10526315789473684
+Armistice,Pop Champagne,phoenix,reign,0.11764705882352941
+Armistice,Frank Sinatra,armistice,frank,0.14285714285714285
+Armistice,Frank Sinatra,armistice,sinatra,0.13333333333333333
+Armistice,Frank Sinatra,armistice,fashion,0.5
+Armistice,Frank Sinatra,armistice,nugget,0.15384615384615385
+Armistice,Frank Sinatra,phoenix,frank,0.3
+Armistice,Frank Sinatra,phoenix,sinatra,0.2857142857142857
+Armistice,Frank Sinatra,phoenix,fashion,0.125
+Armistice,Frank Sinatra,phoenix,nugget,0.23529411764705882
+Armistice,Long Line Of Cars,armistice,long,0
+Armistice,Long Line Of Cars,armistice,line,0.3076923076923077
+Armistice,Long Line Of Cars,armistice,cars,0.1111111111111111
+Armistice,Long Line Of Cars,armistice,comfort,0.6153846153846154
+Armistice,Long Line Of Cars,armistice,eagle,0.10526315789473684
+Armistice,Long Line Of Cars,phoenix,long,0
+Armistice,Long Line Of Cars,phoenix,line,0.11764705882352941
+Armistice,Long Line Of Cars,phoenix,cars,0.2727272727272727
+Armistice,Long Line Of Cars,phoenix,comfort,0.11764705882352941
+Armistice,Long Line Of Cars,phoenix,eagle,0.2608695652173913
+Armistice,W,armistice,free,0.3333333333333333
+Armistice,W,armistice,cloud,0.14285714285714285
+Armistice,W,phoenix,free,0.125
+Armistice,W,phoenix,cloud,0.2222222222222222
+Armistice,Let Me Go,armistice,let,0.26666666666666666
+Armistice,Let Me Go,armistice,go,0.25
+Armistice,Let Me Go,armistice,prolonging,0
+Armistice,Let Me Go,armistice,magic,0.26666666666666666
+Armistice,Let Me Go,phoenix,let,0.10526315789473684
+Armistice,Let Me Go,phoenix,go,0.1
+Armistice,Let Me Go,phoenix,prolonging,0
+Armistice,Let Me Go,phoenix,magic,0.10526315789473684
+Armistice,Cool Blue Reason,armistice,cool,0.4
+Armistice,Cool Blue Reason,armistice,blue,0.4
+Armistice,Cool Blue Reason,armistice,reason,0.3076923076923077
+Armistice,Cool Blue Reason,armistice,prolonging,0
+Armistice,Cool Blue Reason,armistice,magic,0.26666666666666666
+Armistice,Cool Blue Reason,phoenix,cool,0.2222222222222222
+Armistice,Cool Blue Reason,phoenix,blue,0.10526315789473684
+Armistice,Cool Blue Reason,phoenix,reason,0.11764705882352941
+Armistice,Cool Blue Reason,phoenix,prolonging,0
+Armistice,Cool Blue Reason,phoenix,magic,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,remedies,prolonging,0
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,remedies,magic,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,worse,prolonging,0
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,worse,magic,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,disease,prolonging,0
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,disease,magic,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,young,prolonging,0
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,young,magic,0.125
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,mountain,prolonging,0
+There Are Some Remedies Worse Than The Disease,Where Would I Be?,mountain,magic,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,remedies,comfort,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,remedies,eagle,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,remedies,comfort,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,remedies,eagle,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,worse,comfort,0.5
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,worse,eagle,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,worse,comfort,0.5
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,worse,eagle,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,disease,comfort,0.625
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,disease,eagle,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,disease,comfort,0.625
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,disease,eagle,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,young,comfort,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,young,eagle,0.7
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,young,comfort,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,young,eagle,0.7
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,mountain,comfort,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,mountain,eagle,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,mountain,comfort,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Comfort Eagle,mountain,eagle,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Never There,remedies,never,0
+There Are Some Remedies Worse Than The Disease,Never There,remedies,prolonging,0
+There Are Some Remedies Worse Than The Disease,Never There,remedies,magic,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Never There,worse,never,0
+There Are Some Remedies Worse Than The Disease,Never There,worse,prolonging,0
+There Are Some Remedies Worse Than The Disease,Never There,worse,magic,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Never There,disease,never,0
+There Are Some Remedies Worse Than The Disease,Never There,disease,prolonging,0
+There Are Some Remedies Worse Than The Disease,Never There,disease,magic,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Never There,young,never,0
+There Are Some Remedies Worse Than The Disease,Never There,young,prolonging,0
+There Are Some Remedies Worse Than The Disease,Never There,young,magic,0.125
+There Are Some Remedies Worse Than The Disease,Never There,mountain,never,0
+There Are Some Remedies Worse Than The Disease,Never There,mountain,prolonging,0
+There Are Some Remedies Worse Than The Disease,Never There,mountain,magic,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Beautiful,remedies,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,remedies,hotel,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Beautiful,worse,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,worse,hotel,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Beautiful,disease,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,disease,hotel,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Beautiful,young,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,young,hotel,0.5
+There Are Some Remedies Worse Than The Disease,Beautiful,mountain,beautiful,0
+There Are Some Remedies Worse Than The Disease,Beautiful,mountain,hotel,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,remedies,carbon,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,remedies,monoxide,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,remedies,pressure,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,remedies,chief,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,worse,carbon,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,worse,monoxide,0.25
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,worse,pressure,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,worse,chief,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,disease,carbon,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,disease,monoxide,0.2
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,disease,pressure,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,disease,chief,0.125
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,young,carbon,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,young,monoxide,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,young,pressure,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,young,chief,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,mountain,carbon,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,mountain,monoxide,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,mountain,pressure,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Carbon Monoxide,mountain,chief,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Guitar,remedies,guitar,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Guitar,remedies,prolonging,0
+There Are Some Remedies Worse Than The Disease,Guitar,remedies,magic,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Guitar,worse,guitar,0.125
+There Are Some Remedies Worse Than The Disease,Guitar,worse,prolonging,0
+There Are Some Remedies Worse Than The Disease,Guitar,worse,magic,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Guitar,disease,guitar,0.1
+There Are Some Remedies Worse Than The Disease,Guitar,disease,prolonging,0
+There Are Some Remedies Worse Than The Disease,Guitar,disease,magic,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Guitar,young,guitar,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Guitar,young,prolonging,0
+There Are Some Remedies Worse Than The Disease,Guitar,young,magic,0.125
+There Are Some Remedies Worse Than The Disease,Guitar,mountain,guitar,0.375
+There Are Some Remedies Worse Than The Disease,Guitar,mountain,prolonging,0
+There Are Some Remedies Worse Than The Disease,Guitar,mountain,magic,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Opera Singer,remedies,opera,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Opera Singer,remedies,singer,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Opera Singer,remedies,comfort,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Opera Singer,remedies,eagle,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Opera Singer,worse,opera,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Opera Singer,worse,singer,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Opera Singer,worse,comfort,0.5
+There Are Some Remedies Worse Than The Disease,Opera Singer,worse,eagle,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Opera Singer,disease,opera,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Opera Singer,disease,singer,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Opera Singer,disease,comfort,0.625
+There Are Some Remedies Worse Than The Disease,Opera Singer,disease,eagle,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Opera Singer,young,opera,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Opera Singer,young,singer,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Opera Singer,young,comfort,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Opera Singer,young,eagle,0.7
+There Are Some Remedies Worse Than The Disease,Opera Singer,mountain,opera,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Opera Singer,mountain,singer,0.375
+There Are Some Remedies Worse Than The Disease,Opera Singer,mountain,comfort,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Opera Singer,mountain,eagle,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Waiting,remedies,waiting,0.5555555555555556
+There Are Some Remedies Worse Than The Disease,Waiting,remedies,pressure,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Waiting,remedies,chief,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Waiting,worse,waiting,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Waiting,worse,pressure,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Waiting,worse,chief,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Waiting,disease,waiting,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Waiting,disease,pressure,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Waiting,disease,chief,0.125
+There Are Some Remedies Worse Than The Disease,Waiting,young,waiting,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Waiting,young,pressure,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Waiting,young,chief,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Waiting,mountain,waiting,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Waiting,mountain,pressure,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Waiting,mountain,chief,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,remedies,alpha,0.2
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,remedies,beta,0.2
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,remedies,parking,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,remedies,lot,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,remedies,prolonging,0
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,remedies,magic,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,worse,alpha,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,worse,beta,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,worse,parking,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,worse,lot,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,worse,prolonging,0
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,worse,magic,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,disease,alpha,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,disease,beta,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,disease,parking,0.25
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,disease,lot,0.25
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,disease,prolonging,0
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,disease,magic,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,young,alpha,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,young,beta,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,young,parking,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,young,lot,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,young,prolonging,0
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,young,magic,0.125
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,mountain,alpha,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,mountain,beta,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,mountain,parking,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,mountain,lot,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,mountain,prolonging,0
+There Are Some Remedies Worse Than The Disease,Alpha Beta Parking Lot,mountain,magic,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,No Phone,remedies,phone,0.1
+There Are Some Remedies Worse Than The Disease,No Phone,remedies,pressure,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,No Phone,remedies,chief,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,No Phone,worse,phone,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,No Phone,worse,pressure,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,No Phone,worse,chief,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,No Phone,disease,phone,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,No Phone,disease,pressure,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,No Phone,disease,chief,0.125
+There Are Some Remedies Worse Than The Disease,No Phone,young,phone,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,No Phone,young,pressure,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,No Phone,young,chief,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,No Phone,mountain,phone,0.4
+There Are Some Remedies Worse Than The Disease,No Phone,mountain,pressure,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,No Phone,mountain,chief,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,remedies,symphony,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,remedies,commissioning,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,remedies,c,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,remedies,comfort,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,remedies,eagle,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,worse,symphony,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,worse,commissioning,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,worse,c,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,worse,comfort,0.5
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,worse,eagle,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,disease,symphony,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,disease,commissioning,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,disease,c,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,disease,comfort,0.625
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,disease,eagle,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,young,symphony,0.125
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,young,commissioning,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,young,c,0.125
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,young,comfort,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,young,eagle,0.7
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,mountain,symphony,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,mountain,commissioning,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,mountain,c,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,mountain,comfort,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Commissioning A Symphony In C,mountain,eagle,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Mexico,remedies,mexico,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Mexico,remedies,prolonging,0
+There Are Some Remedies Worse Than The Disease,Mexico,remedies,magic,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Mexico,worse,mexico,0.125
+There Are Some Remedies Worse Than The Disease,Mexico,worse,prolonging,0
+There Are Some Remedies Worse Than The Disease,Mexico,worse,magic,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Mexico,disease,mexico,0.1
+There Are Some Remedies Worse Than The Disease,Mexico,disease,prolonging,0
+There Are Some Remedies Worse Than The Disease,Mexico,disease,magic,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Mexico,young,mexico,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Mexico,young,prolonging,0
+There Are Some Remedies Worse Than The Disease,Mexico,young,magic,0.125
+There Are Some Remedies Worse Than The Disease,Mexico,mountain,mexico,0.375
+There Are Some Remedies Worse Than The Disease,Mexico,mountain,prolonging,0
+There Are Some Remedies Worse Than The Disease,Mexico,mountain,magic,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,remedies,sides,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,remedies,rarities,0.2
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,remedies,b,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,worse,sides,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,worse,rarities,0.4
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,worse,b,0.125
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,disease,sides,0.125
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,disease,rarities,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,disease,b,0.1
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,young,sides,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,young,rarities,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,young,b,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,mountain,sides,0.5
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,mountain,rarities,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Mahna_ Mahna,mountain,b,0.375
+There Are Some Remedies Worse Than The Disease,Hey Mama,remedies,mama,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Hey Mama,worse,mama,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hey Mama,disease,mama,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Hey Mama,young,mama,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Hey Mama,mountain,mama,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,remedies,pretty,0
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,remedies,pink,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,remedies,ribbon,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,remedies,comfort,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,remedies,eagle,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,worse,pretty,0
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,worse,pink,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,worse,ribbon,0.2
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,worse,comfort,0.5
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,worse,eagle,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,disease,pretty,0
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,disease,pink,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,disease,ribbon,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,disease,comfort,0.625
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,disease,eagle,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,young,pretty,0
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,young,pink,0.125
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,young,ribbon,0.5
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,young,comfort,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,young,eagle,0.7
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,mountain,pretty,0
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,mountain,pink,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,mountain,ribbon,0.6
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,mountain,comfort,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Pretty Pink Ribbon,mountain,eagle,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Pop Champagne,remedies,pop,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Pop Champagne,remedies,champagne,0.17391304347826086
+There Are Some Remedies Worse Than The Disease,Pop Champagne,remedies,pray,0
+There Are Some Remedies Worse Than The Disease,Pop Champagne,remedies,iv,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Pop Champagne,remedies,reign,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Pop Champagne,worse,pop,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Pop Champagne,worse,champagne,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Pop Champagne,worse,pray,0
+There Are Some Remedies Worse Than The Disease,Pop Champagne,worse,iv,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Pop Champagne,worse,reign,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Pop Champagne,disease,pop,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Pop Champagne,disease,champagne,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Pop Champagne,disease,pray,0
+There Are Some Remedies Worse Than The Disease,Pop Champagne,disease,iv,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Pop Champagne,disease,reign,0.25
+There Are Some Remedies Worse Than The Disease,Pop Champagne,young,pop,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Pop Champagne,young,champagne,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Pop Champagne,young,pray,0
+There Are Some Remedies Worse Than The Disease,Pop Champagne,young,iv,0.125
+There Are Some Remedies Worse Than The Disease,Pop Champagne,young,reign,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Pop Champagne,mountain,pop,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Pop Champagne,mountain,champagne,0.25
+There Are Some Remedies Worse Than The Disease,Pop Champagne,mountain,pray,0
+There Are Some Remedies Worse Than The Disease,Pop Champagne,mountain,iv,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Pop Champagne,mountain,reign,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,remedies,frank,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,remedies,sinatra,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,remedies,fashion,0.25
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,remedies,nugget,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,worse,frank,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,worse,sinatra,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,worse,fashion,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,worse,nugget,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,disease,frank,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,disease,sinatra,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,disease,fashion,0.4
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,disease,nugget,0.125
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,young,frank,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,young,sinatra,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,young,fashion,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,young,nugget,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,mountain,frank,0.4
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,mountain,sinatra,0.375
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,mountain,fashion,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Frank Sinatra,mountain,nugget,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,remedies,long,0
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,remedies,line,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,remedies,cars,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,remedies,comfort,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,remedies,eagle,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,worse,long,0
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,worse,line,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,worse,cars,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,worse,comfort,0.5
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,worse,eagle,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,disease,long,0
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,disease,line,0.25
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,disease,cars,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,disease,comfort,0.625
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,disease,eagle,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,young,long,0
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,young,line,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,young,cars,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,young,comfort,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,young,eagle,0.7
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,mountain,long,0
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,mountain,line,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,mountain,cars,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,mountain,comfort,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Long Line Of Cars,mountain,eagle,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,W,remedies,free,0.25
+There Are Some Remedies Worse Than The Disease,W,remedies,cloud,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,W,worse,free,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,W,worse,cloud,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,W,disease,free,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,W,disease,cloud,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,W,young,free,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,W,young,cloud,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,W,mountain,free,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,W,mountain,cloud,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Let Me Go,remedies,let,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Let Me Go,remedies,go,0.2
+There Are Some Remedies Worse Than The Disease,Let Me Go,remedies,prolonging,0
+There Are Some Remedies Worse Than The Disease,Let Me Go,remedies,magic,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Let Me Go,worse,let,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Let Me Go,worse,go,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Let Me Go,worse,prolonging,0
+There Are Some Remedies Worse Than The Disease,Let Me Go,worse,magic,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Let Me Go,disease,let,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Let Me Go,disease,go,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Let Me Go,disease,prolonging,0
+There Are Some Remedies Worse Than The Disease,Let Me Go,disease,magic,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Let Me Go,young,let,0.125
+There Are Some Remedies Worse Than The Disease,Let Me Go,young,go,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Let Me Go,young,prolonging,0
+There Are Some Remedies Worse Than The Disease,Let Me Go,young,magic,0.125
+There Are Some Remedies Worse Than The Disease,Let Me Go,mountain,let,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Let Me Go,mountain,go,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Let Me Go,mountain,prolonging,0
+There Are Some Remedies Worse Than The Disease,Let Me Go,mountain,magic,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,remedies,cool,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,remedies,blue,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,remedies,reason,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,remedies,prolonging,0
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,remedies,magic,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,worse,cool,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,worse,blue,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,worse,reason,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,worse,prolonging,0
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,worse,magic,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,disease,cool,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,disease,blue,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,disease,reason,0.25
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,disease,prolonging,0
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,disease,magic,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,young,cool,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,young,blue,0.125
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,young,reason,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,young,prolonging,0
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,young,magic,0.125
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,mountain,cool,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,mountain,blue,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,mountain,reason,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,mountain,prolonging,0
+There Are Some Remedies Worse Than The Disease,Cool Blue Reason,mountain,magic,0.14285714285714285
+Swimming In The Flood,Where Would I Be?,swimming,prolonging,0
+Swimming In The Flood,Where Would I Be?,swimming,magic,0.3333333333333333
+Swimming In The Flood,Where Would I Be?,flood,prolonging,0
+Swimming In The Flood,Where Would I Be?,flood,magic,0.13333333333333333
+Swimming In The Flood,Where Would I Be?,manners,prolonging,0
+Swimming In The Flood,Where Would I Be?,manners,magic,0.2857142857142857
+Swimming In The Flood,Comfort Eagle,swimming,comfort,0.25
+Swimming In The Flood,Comfort Eagle,swimming,eagle,0.09090909090909091
+Swimming In The Flood,Comfort Eagle,swimming,comfort,0.25
+Swimming In The Flood,Comfort Eagle,swimming,eagle,0.09090909090909091
+Swimming In The Flood,Comfort Eagle,flood,comfort,0.15384615384615385
+Swimming In The Flood,Comfort Eagle,flood,eagle,0.21052631578947367
+Swimming In The Flood,Comfort Eagle,flood,comfort,0.15384615384615385
+Swimming In The Flood,Comfort Eagle,flood,eagle,0.21052631578947367
+Swimming In The Flood,Comfort Eagle,manners,comfort,0.5
+Swimming In The Flood,Comfort Eagle,manners,eagle,0.1111111111111111
+Swimming In The Flood,Comfort Eagle,manners,comfort,0.5
+Swimming In The Flood,Comfort Eagle,manners,eagle,0.1111111111111111
+Swimming In The Flood,Never There,swimming,never,0
+Swimming In The Flood,Never There,swimming,prolonging,0
+Swimming In The Flood,Never There,swimming,magic,0.3333333333333333
+Swimming In The Flood,Never There,flood,never,0
+Swimming In The Flood,Never There,flood,prolonging,0
+Swimming In The Flood,Never There,flood,magic,0.13333333333333333
+Swimming In The Flood,Never There,manners,never,0
+Swimming In The Flood,Never There,manners,prolonging,0
+Swimming In The Flood,Never There,manners,magic,0.2857142857142857
+Swimming In The Flood,Beautiful,swimming,beautiful,0
+Swimming In The Flood,Beautiful,swimming,hotel,0.1111111111111111
+Swimming In The Flood,Beautiful,flood,beautiful,0
+Swimming In The Flood,Beautiful,flood,hotel,0.26666666666666666
+Swimming In The Flood,Beautiful,manners,beautiful,0
+Swimming In The Flood,Beautiful,manners,hotel,0.14285714285714285
+Swimming In The Flood,Carbon Monoxide,swimming,carbon,0.23529411764705882
+Swimming In The Flood,Carbon Monoxide,swimming,monoxide,0.2
+Swimming In The Flood,Carbon Monoxide,swimming,pressure,0.11764705882352941
+Swimming In The Flood,Carbon Monoxide,swimming,chief,0.125
+Swimming In The Flood,Carbon Monoxide,flood,carbon,0.3076923076923077
+Swimming In The Flood,Carbon Monoxide,flood,monoxide,0.25
+Swimming In The Flood,Carbon Monoxide,flood,pressure,0.7142857142857143
+Swimming In The Flood,Carbon Monoxide,flood,chief,0.3076923076923077
+Swimming In The Flood,Carbon Monoxide,manners,carbon,0.3076923076923077
+Swimming In The Flood,Carbon Monoxide,manners,monoxide,0.25
+Swimming In The Flood,Carbon Monoxide,manners,pressure,0.15384615384615385
+Swimming In The Flood,Carbon Monoxide,manners,chief,0.16666666666666666
+Swimming In The Flood,Guitar,swimming,guitar,0.1
+Swimming In The Flood,Guitar,swimming,prolonging,0
+Swimming In The Flood,Guitar,swimming,magic,0.3333333333333333
+Swimming In The Flood,Guitar,flood,guitar,0.23529411764705882
+Swimming In The Flood,Guitar,flood,prolonging,0
+Swimming In The Flood,Guitar,flood,magic,0.13333333333333333
+Swimming In The Flood,Guitar,manners,guitar,0.125
+Swimming In The Flood,Guitar,manners,prolonging,0
+Swimming In The Flood,Guitar,manners,magic,0.2857142857142857
+Swimming In The Flood,Opera Singer,swimming,opera,0.23529411764705882
+Swimming In The Flood,Opera Singer,swimming,singer,0.1111111111111111
+Swimming In The Flood,Opera Singer,swimming,comfort,0.25
+Swimming In The Flood,Opera Singer,swimming,eagle,0.09090909090909091
+Swimming In The Flood,Opera Singer,flood,opera,0.14285714285714285
+Swimming In The Flood,Opera Singer,flood,singer,0.26666666666666666
+Swimming In The Flood,Opera Singer,flood,comfort,0.15384615384615385
+Swimming In The Flood,Opera Singer,flood,eagle,0.21052631578947367
+Swimming In The Flood,Opera Singer,manners,opera,0.3076923076923077
+Swimming In The Flood,Opera Singer,manners,singer,0.14285714285714285
+Swimming In The Flood,Opera Singer,manners,comfort,0.5
+Swimming In The Flood,Opera Singer,manners,eagle,0.1111111111111111
+Swimming In The Flood,Waiting,swimming,waiting,0.5882352941176471
+Swimming In The Flood,Waiting,swimming,pressure,0.11764705882352941
+Swimming In The Flood,Waiting,swimming,chief,0.125
+Swimming In The Flood,Waiting,flood,waiting,0.14285714285714285
+Swimming In The Flood,Waiting,flood,pressure,0.7142857142857143
+Swimming In The Flood,Waiting,flood,chief,0.3076923076923077
+Swimming In The Flood,Waiting,manners,waiting,0.3076923076923077
+Swimming In The Flood,Waiting,manners,pressure,0.15384615384615385
+Swimming In The Flood,Waiting,manners,chief,0.16666666666666666
+Swimming In The Flood,Alpha Beta Parking Lot,swimming,alpha,0.21052631578947367
+Swimming In The Flood,Alpha Beta Parking Lot,swimming,beta,0.21052631578947367
+Swimming In The Flood,Alpha Beta Parking Lot,swimming,parking,0.25
+Swimming In The Flood,Alpha Beta Parking Lot,swimming,lot,0.25
+Swimming In The Flood,Alpha Beta Parking Lot,swimming,prolonging,0
+Swimming In The Flood,Alpha Beta Parking Lot,swimming,magic,0.3333333333333333
+Swimming In The Flood,Alpha Beta Parking Lot,flood,alpha,0.125
+Swimming In The Flood,Alpha Beta Parking Lot,flood,beta,0.125
+Swimming In The Flood,Alpha Beta Parking Lot,flood,parking,0.15384615384615385
+Swimming In The Flood,Alpha Beta Parking Lot,flood,lot,0.15384615384615385
+Swimming In The Flood,Alpha Beta Parking Lot,flood,prolonging,0
+Swimming In The Flood,Alpha Beta Parking Lot,flood,magic,0.13333333333333333
+Swimming In The Flood,Alpha Beta Parking Lot,manners,alpha,0.26666666666666666
+Swimming In The Flood,Alpha Beta Parking Lot,manners,beta,0.26666666666666666
+Swimming In The Flood,Alpha Beta Parking Lot,manners,parking,0.3333333333333333
+Swimming In The Flood,Alpha Beta Parking Lot,manners,lot,0.3333333333333333
+Swimming In The Flood,Alpha Beta Parking Lot,manners,prolonging,0
+Swimming In The Flood,Alpha Beta Parking Lot,manners,magic,0.2857142857142857
+Swimming In The Flood,No Phone,swimming,phone,0.10526315789473684
+Swimming In The Flood,No Phone,swimming,pressure,0.11764705882352941
+Swimming In The Flood,No Phone,swimming,chief,0.125
+Swimming In The Flood,No Phone,flood,phone,0.25
+Swimming In The Flood,No Phone,flood,pressure,0.7142857142857143
+Swimming In The Flood,No Phone,flood,chief,0.3076923076923077
+Swimming In The Flood,No Phone,manners,phone,0.13333333333333333
+Swimming In The Flood,No Phone,manners,pressure,0.15384615384615385
+Swimming In The Flood,No Phone,manners,chief,0.16666666666666666
+Swimming In The Flood,Commissioning A Symphony In C,swimming,symphony,0.2222222222222222
+Swimming In The Flood,Commissioning A Symphony In C,swimming,commissioning,0.5
+Swimming In The Flood,Commissioning A Symphony In C,swimming,c,0.2222222222222222
+Swimming In The Flood,Commissioning A Symphony In C,swimming,comfort,0.25
+Swimming In The Flood,Commissioning A Symphony In C,swimming,eagle,0.09090909090909091
+Swimming In The Flood,Commissioning A Symphony In C,flood,symphony,0.13333333333333333
+Swimming In The Flood,Commissioning A Symphony In C,flood,commissioning,0.125
+Swimming In The Flood,Commissioning A Symphony In C,flood,c,0.13333333333333333
+Swimming In The Flood,Commissioning A Symphony In C,flood,comfort,0.15384615384615385
+Swimming In The Flood,Commissioning A Symphony In C,flood,eagle,0.21052631578947367
+Swimming In The Flood,Commissioning A Symphony In C,manners,symphony,0.2857142857142857
+Swimming In The Flood,Commissioning A Symphony In C,manners,commissioning,0.26666666666666666
+Swimming In The Flood,Commissioning A Symphony In C,manners,c,0.2857142857142857
+Swimming In The Flood,Commissioning A Symphony In C,manners,comfort,0.5
+Swimming In The Flood,Commissioning A Symphony In C,manners,eagle,0.1111111111111111
+Swimming In The Flood,Mexico,swimming,mexico,0.1
+Swimming In The Flood,Mexico,swimming,prolonging,0
+Swimming In The Flood,Mexico,swimming,magic,0.3333333333333333
+Swimming In The Flood,Mexico,flood,mexico,0.23529411764705882
+Swimming In The Flood,Mexico,flood,prolonging,0
+Swimming In The Flood,Mexico,flood,magic,0.13333333333333333
+Swimming In The Flood,Mexico,manners,mexico,0.125
+Swimming In The Flood,Mexico,manners,prolonging,0
+Swimming In The Flood,Mexico,manners,magic,0.2857142857142857
+Swimming In The Flood,Mahna_ Mahna,swimming,sides,0.125
+Swimming In The Flood,Mahna_ Mahna,swimming,rarities,0.21052631578947367
+Swimming In The Flood,Mahna_ Mahna,swimming,b,0.1
+Swimming In The Flood,Mahna_ Mahna,flood,sides,0.3076923076923077
+Swimming In The Flood,Mahna_ Mahna,flood,rarities,0.125
+Swimming In The Flood,Mahna_ Mahna,flood,b,0.23529411764705882
+Swimming In The Flood,Mahna_ Mahna,manners,sides,0.16666666666666666
+Swimming In The Flood,Mahna_ Mahna,manners,rarities,0.4
+Swimming In The Flood,Mahna_ Mahna,manners,b,0.125
+Swimming In The Flood,Hey Mama,swimming,mama,0.09523809523809523
+Swimming In The Flood,Hey Mama,flood,mama,0.2222222222222222
+Swimming In The Flood,Hey Mama,manners,mama,0.11764705882352941
+Swimming In The Flood,Pretty Pink Ribbon,swimming,pretty,0
+Swimming In The Flood,Pretty Pink Ribbon,swimming,pink,0.2222222222222222
+Swimming In The Flood,Pretty Pink Ribbon,swimming,ribbon,0.14285714285714285
+Swimming In The Flood,Pretty Pink Ribbon,swimming,comfort,0.25
+Swimming In The Flood,Pretty Pink Ribbon,swimming,eagle,0.09090909090909091
+Swimming In The Flood,Pretty Pink Ribbon,flood,pretty,0
+Swimming In The Flood,Pretty Pink Ribbon,flood,pink,0.13333333333333333
+Swimming In The Flood,Pretty Pink Ribbon,flood,ribbon,0.36363636363636365
+Swimming In The Flood,Pretty Pink Ribbon,flood,comfort,0.15384615384615385
+Swimming In The Flood,Pretty Pink Ribbon,flood,eagle,0.21052631578947367
+Swimming In The Flood,Pretty Pink Ribbon,manners,pretty,0
+Swimming In The Flood,Pretty Pink Ribbon,manners,pink,0.42857142857142855
+Swimming In The Flood,Pretty Pink Ribbon,manners,ribbon,0.2
+Swimming In The Flood,Pretty Pink Ribbon,manners,comfort,0.5
+Swimming In The Flood,Pretty Pink Ribbon,manners,eagle,0.1111111111111111
+Swimming In The Flood,Pop Champagne,swimming,pop,0.09523809523809523
+Swimming In The Flood,Pop Champagne,swimming,champagne,0.18181818181818182
+Swimming In The Flood,Pop Champagne,swimming,pray,0
+Swimming In The Flood,Pop Champagne,swimming,iv,0.2222222222222222
+Swimming In The Flood,Pop Champagne,swimming,reign,0.25
+Swimming In The Flood,Pop Champagne,flood,pop,0.2222222222222222
+Swimming In The Flood,Pop Champagne,flood,champagne,0.23529411764705882
+Swimming In The Flood,Pop Champagne,flood,pray,0
+Swimming In The Flood,Pop Champagne,flood,iv,0.13333333333333333
+Swimming In The Flood,Pop Champagne,flood,reign,0.15384615384615385
+Swimming In The Flood,Pop Champagne,manners,pop,0.11764705882352941
+Swimming In The Flood,Pop Champagne,manners,champagne,0.2222222222222222
+Swimming In The Flood,Pop Champagne,manners,pray,0
+Swimming In The Flood,Pop Champagne,manners,iv,0.2857142857142857
+Swimming In The Flood,Pop Champagne,manners,reign,0.3333333333333333
+Swimming In The Flood,Frank Sinatra,swimming,frank,0.11764705882352941
+Swimming In The Flood,Frank Sinatra,swimming,sinatra,0.1111111111111111
+Swimming In The Flood,Frank Sinatra,swimming,fashion,0.26666666666666666
+Swimming In The Flood,Frank Sinatra,swimming,nugget,0.125
+Swimming In The Flood,Frank Sinatra,flood,frank,0.2857142857142857
+Swimming In The Flood,Frank Sinatra,flood,sinatra,0.26666666666666666
+Swimming In The Flood,Frank Sinatra,flood,fashion,0.16666666666666666
+Swimming In The Flood,Frank Sinatra,flood,nugget,0.3076923076923077
+Swimming In The Flood,Frank Sinatra,manners,frank,0.15384615384615385
+Swimming In The Flood,Frank Sinatra,manners,sinatra,0.14285714285714285
+Swimming In The Flood,Frank Sinatra,manners,fashion,0.5454545454545454
+Swimming In The Flood,Frank Sinatra,manners,nugget,0.16666666666666666
+Swimming In The Flood,Long Line Of Cars,swimming,long,0
+Swimming In The Flood,Long Line Of Cars,swimming,line,0.25
+Swimming In The Flood,Long Line Of Cars,swimming,cars,0.09523809523809523
+Swimming In The Flood,Long Line Of Cars,swimming,comfort,0.25
+Swimming In The Flood,Long Line Of Cars,swimming,eagle,0.09090909090909091
+Swimming In The Flood,Long Line Of Cars,flood,long,0
+Swimming In The Flood,Long Line Of Cars,flood,line,0.15384615384615385
+Swimming In The Flood,Long Line Of Cars,flood,cars,0.2222222222222222
+Swimming In The Flood,Long Line Of Cars,flood,comfort,0.15384615384615385
+Swimming In The Flood,Long Line Of Cars,flood,eagle,0.21052631578947367
+Swimming In The Flood,Long Line Of Cars,manners,long,0
+Swimming In The Flood,Long Line Of Cars,manners,line,0.3333333333333333
+Swimming In The Flood,Long Line Of Cars,manners,cars,0.11764705882352941
+Swimming In The Flood,Long Line Of Cars,manners,comfort,0.5
+Swimming In The Flood,Long Line Of Cars,manners,eagle,0.1111111111111111
+Swimming In The Flood,W,swimming,free,0.26666666666666666
+Swimming In The Flood,W,swimming,cloud,0.11764705882352941
+Swimming In The Flood,W,flood,free,0.16666666666666666
+Swimming In The Flood,W,flood,cloud,0.7142857142857143
+Swimming In The Flood,W,manners,free,0.36363636363636365
+Swimming In The Flood,W,manners,cloud,0.15384615384615385
+Swimming In The Flood,Let Me Go,swimming,let,0.2222222222222222
+Swimming In The Flood,Let Me Go,swimming,go,0.21052631578947367
+Swimming In The Flood,Let Me Go,swimming,prolonging,0
+Swimming In The Flood,Let Me Go,swimming,magic,0.3333333333333333
+Swimming In The Flood,Let Me Go,flood,let,0.13333333333333333
+Swimming In The Flood,Let Me Go,flood,go,0.125
+Swimming In The Flood,Let Me Go,flood,prolonging,0
+Swimming In The Flood,Let Me Go,flood,magic,0.13333333333333333
+Swimming In The Flood,Let Me Go,manners,let,0.2857142857142857
+Swimming In The Flood,Let Me Go,manners,go,0.26666666666666666
+Swimming In The Flood,Let Me Go,manners,prolonging,0
+Swimming In The Flood,Let Me Go,manners,magic,0.2857142857142857
+Swimming In The Flood,Cool Blue Reason,swimming,cool,0.23529411764705882
+Swimming In The Flood,Cool Blue Reason,swimming,blue,0.2222222222222222
+Swimming In The Flood,Cool Blue Reason,swimming,reason,0.375
+Swimming In The Flood,Cool Blue Reason,swimming,prolonging,0
+Swimming In The Flood,Cool Blue Reason,swimming,magic,0.3333333333333333
+Swimming In The Flood,Cool Blue Reason,flood,cool,0.2857142857142857
+Swimming In The Flood,Cool Blue Reason,flood,blue,0.13333333333333333
+Swimming In The Flood,Cool Blue Reason,flood,reason,0.15384615384615385
+Swimming In The Flood,Cool Blue Reason,flood,prolonging,0
+Swimming In The Flood,Cool Blue Reason,flood,magic,0.13333333333333333
+Swimming In The Flood,Cool Blue Reason,manners,cool,0.42857142857142855
+Swimming In The Flood,Cool Blue Reason,manners,blue,0.42857142857142855
+Swimming In The Flood,Cool Blue Reason,manners,reason,0.3333333333333333
+Swimming In The Flood,Cool Blue Reason,manners,prolonging,0
+Swimming In The Flood,Cool Blue Reason,manners,magic,0.2857142857142857

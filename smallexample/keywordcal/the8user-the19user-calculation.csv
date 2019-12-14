@@ -1,0 +1,2157 @@
+the_first_song,the_second_song,word1,word2,result
+Swallowed In The Sea,Kathelin Gray,swallowed,gray,0.16666666666666666
+Swallowed In The Sea,Kathelin Gray,swallowed,song,0.18181818181818182
+Swallowed In The Sea,Kathelin Gray,swallowed,x,0.16666666666666666
+Swallowed In The Sea,Kathelin Gray,sea,gray,0.15384615384615385
+Swallowed In The Sea,Kathelin Gray,sea,song,0.16666666666666666
+Swallowed In The Sea,Kathelin Gray,sea,x,0.15384615384615385
+Swallowed In The Sea,Kathelin Gray,x,gray,0.25
+Swallowed In The Sea,Kathelin Gray,x,song,0.26666666666666666
+Swallowed In The Sea,Kathelin Gray,x,x,1.0
+Swallowed In The Sea,Heave Ho,swallowed,heave,0.15384615384615385
+Swallowed In The Sea,Heave Ho,swallowed,ho,0.18181818181818182
+Swallowed In The Sea,Heave Ho,swallowed,cunning,0.16666666666666666
+Swallowed In The Sea,Heave Ho,swallowed,stunts,0.15384615384615385
+Swallowed In The Sea,Heave Ho,sea,heave,0.14285714285714285
+Swallowed In The Sea,Heave Ho,sea,ho,0.3333333333333333
+Swallowed In The Sea,Heave Ho,sea,cunning,0.15384615384615385
+Swallowed In The Sea,Heave Ho,sea,stunts,0.14285714285714285
+Swallowed In The Sea,Heave Ho,x,heave,0.23529411764705882
+Swallowed In The Sea,Heave Ho,x,ho,0.25
+Swallowed In The Sea,Heave Ho,x,cunning,0.25
+Swallowed In The Sea,Heave Ho,x,stunts,0.23529411764705882
+Swallowed In The Sea,Driving Home For Christmas,swallowed,driving,0.125
+Swallowed In The Sea,Driving Home For Christmas,swallowed,home,0.15384615384615385
+Swallowed In The Sea,Driving Home For Christmas,swallowed,christmas,0.18181818181818182
+Swallowed In The Sea,Driving Home For Christmas,swallowed,hell,0.2
+Swallowed In The Sea,Driving Home For Christmas,swallowed,part,0.25
+Swallowed In The Sea,Driving Home For Christmas,swallowed,road,0.18181818181818182
+Swallowed In The Sea,Driving Home For Christmas,sea,driving,0.11764705882352941
+Swallowed In The Sea,Driving Home For Christmas,sea,home,0.2857142857142857
+Swallowed In The Sea,Driving Home For Christmas,sea,christmas,0.16666666666666666
+Swallowed In The Sea,Driving Home For Christmas,sea,hell,0.36363636363636365
+Swallowed In The Sea,Driving Home For Christmas,sea,part,0.2222222222222222
+Swallowed In The Sea,Driving Home For Christmas,sea,road,0.3333333333333333
+Swallowed In The Sea,Driving Home For Christmas,x,driving,0.2
+Swallowed In The Sea,Driving Home For Christmas,x,home,0.11764705882352941
+Swallowed In The Sea,Driving Home For Christmas,x,christmas,0.4
+Swallowed In The Sea,Driving Home For Christmas,x,hell,0.14285714285714285
+Swallowed In The Sea,Driving Home For Christmas,x,part,0.3333333333333333
+Swallowed In The Sea,Driving Home For Christmas,x,road,0.13333333333333333
+Swallowed In The Sea,I Want You Back,swallowed,want,0.16666666666666666
+Swallowed In The Sea,I Want You Back,swallowed,back,0.2
+Swallowed In The Sea,I Want You Back,swallowed,sweet,0.15384615384615385
+Swallowed In The Sea,I Want You Back,swallowed,children,0.18181818181818182
+Swallowed In The Sea,I Want You Back,swallowed,mine,0.18181818181818182
+Swallowed In The Sea,I Want You Back,sea,want,0.15384615384615385
+Swallowed In The Sea,I Want You Back,sea,back,0.5454545454545454
+Swallowed In The Sea,I Want You Back,sea,sweet,0.3076923076923077
+Swallowed In The Sea,I Want You Back,sea,children,0.36363636363636365
+Swallowed In The Sea,I Want You Back,sea,mine,0.3333333333333333
+Swallowed In The Sea,I Want You Back,x,want,0.25
+Swallowed In The Sea,I Want You Back,x,back,0.14285714285714285
+Swallowed In The Sea,I Want You Back,x,sweet,0.125
+Swallowed In The Sea,I Want You Back,x,children,0.14285714285714285
+Swallowed In The Sea,I Want You Back,x,mine,0.13333333333333333
+Swallowed In The Sea,Ort,swallowed,place,0.2
+Swallowed In The Sea,Ort,swallowed,cunning,0.16666666666666666
+Swallowed In The Sea,Ort,swallowed,stunts,0.15384615384615385
+Swallowed In The Sea,Ort,sea,place,0.36363636363636365
+Swallowed In The Sea,Ort,sea,cunning,0.15384615384615385
+Swallowed In The Sea,Ort,sea,stunts,0.14285714285714285
+Swallowed In The Sea,Ort,x,place,0.14285714285714285
+Swallowed In The Sea,Ort,x,cunning,0.25
+Swallowed In The Sea,Ort,x,stunts,0.23529411764705882
+Swallowed In The Sea,Don't Leave,swallowed,leave,0.18181818181818182
+Swallowed In The Sea,Don't Leave,swallowed,insomnia,0.15384615384615385
+Swallowed In The Sea,Don't Leave,swallowed,best,0.16666666666666666
+Swallowed In The Sea,Don't Leave,sea,leave,0.16666666666666666
+Swallowed In The Sea,Don't Leave,sea,insomnia,0.14285714285714285
+Swallowed In The Sea,Don't Leave,sea,best,0.15384615384615385
+Swallowed In The Sea,Don't Leave,x,leave,0.4
+Swallowed In The Sea,Don't Leave,x,insomnia,0.23529411764705882
+Swallowed In The Sea,Don't Leave,x,best,0.25
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),swallowed,lp,0.125
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),swallowed,version,0.16666666666666666
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),swallowed,sting,0.15384615384615385
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),swallowed,bumblebee,0.11764705882352941
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),swallowed,metal,0.2
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),swallowed,kings,0.16666666666666666
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),sea,lp,0.23529411764705882
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),sea,version,0.15384615384615385
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),sea,sting,0.14285714285714285
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),sea,bumblebee,0.2222222222222222
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),sea,metal,0.36363636363636365
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),sea,kings,0.3333333333333333
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),x,lp,0.1
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),x,version,0.25
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),x,sting,0.23529411764705882
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),x,bumblebee,0.09523809523809523
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),x,metal,0.26666666666666666
+Swallowed In The Sea,Sting Of The Bumblebee (LP Version),x,kings,0.13333333333333333
+Swallowed In The Sea,Nervous Breakdown,swallowed,nervous,0.4
+Swallowed In The Sea,Nervous Breakdown,swallowed,breakdown,0.13333333333333333
+Swallowed In The Sea,Nervous Breakdown,swallowed,lords,0.15384615384615385
+Swallowed In The Sea,Nervous Breakdown,sea,nervous,0
+Swallowed In The Sea,Nervous Breakdown,sea,breakdown,0.125
+Swallowed In The Sea,Nervous Breakdown,sea,lords,0.14285714285714285
+Swallowed In The Sea,Nervous Breakdown,x,nervous,0
+Swallowed In The Sea,Nervous Breakdown,x,breakdown,0.21052631578947367
+Swallowed In The Sea,Nervous Breakdown,x,lords,0.23529411764705882
+Swallowed In The Sea,Question And Answer (Live) (Album Version),swallowed,album,0.16666666666666666
+Swallowed In The Sea,Question And Answer (Live) (Album Version),swallowed,version,0.16666666666666666
+Swallowed In The Sea,Question And Answer (Live) (Album Version),swallowed,question,0.15384615384615385
+Swallowed In The Sea,Question And Answer (Live) (Album Version),swallowed,live,0.3333333333333333
+Swallowed In The Sea,Question And Answer (Live) (Album Version),swallowed,answer,0.2
+Swallowed In The Sea,Question And Answer (Live) (Album Version),swallowed,trio,0.16666666666666666
+Swallowed In The Sea,Question And Answer (Live) (Album Version),swallowed,live,0.3333333333333333
+Swallowed In The Sea,Question And Answer (Live) (Album Version),sea,album,0.3076923076923077
+Swallowed In The Sea,Question And Answer (Live) (Album Version),sea,version,0.15384615384615385
+Swallowed In The Sea,Question And Answer (Live) (Album Version),sea,question,0.14285714285714285
+Swallowed In The Sea,Question And Answer (Live) (Album Version),sea,live,0
+Swallowed In The Sea,Question And Answer (Live) (Album Version),sea,answer,0.18181818181818182
+Swallowed In The Sea,Question And Answer (Live) (Album Version),sea,trio,0.15384615384615385
+Swallowed In The Sea,Question And Answer (Live) (Album Version),sea,live,0
+Swallowed In The Sea,Question And Answer (Live) (Album Version),x,album,0.125
+Swallowed In The Sea,Question And Answer (Live) (Album Version),x,version,0.25
+Swallowed In The Sea,Question And Answer (Live) (Album Version),x,question,0.23529411764705882
+Swallowed In The Sea,Question And Answer (Live) (Album Version),x,live,0
+Swallowed In The Sea,Question And Answer (Live) (Album Version),x,answer,0.2857142857142857
+Swallowed In The Sea,Question And Answer (Live) (Album Version),x,trio,0.75
+Swallowed In The Sea,Question And Answer (Live) (Album Version),x,live,0
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),swallowed,rubber,0.15384615384615385
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),swallowed,band,0.2222222222222222
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),swallowed,lp,0.125
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),swallowed,version,0.16666666666666666
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),swallowed,rubber,0.15384615384615385
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),swallowed,band,0.2222222222222222
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),sea,rubber,0.2857142857142857
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),sea,band,0.2
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),sea,lp,0.23529411764705882
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),sea,version,0.15384615384615385
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),sea,rubber,0.2857142857142857
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),sea,band,0.2
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),x,rubber,0.2222222222222222
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),x,band,0.3076923076923077
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),x,lp,0.1
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),x,version,0.25
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),x,rubber,0.2222222222222222
+Swallowed In The Sea,Stretchin' Out (In A Rubber Band) (LP Version),x,band,0.3076923076923077
+Swallowed In The Sea,Ahora soy feliz,swallowed,happy,0.4
+Swallowed In The Sea,Ahora soy feliz,swallowed,federal,0.15384615384615385
+Swallowed In The Sea,Ahora soy feliz,swallowed,airlines,0.13333333333333333
+Swallowed In The Sea,Ahora soy feliz,sea,happy,0
+Swallowed In The Sea,Ahora soy feliz,sea,federal,0.3076923076923077
+Swallowed In The Sea,Ahora soy feliz,sea,airlines,0.25
+Swallowed In The Sea,Ahora soy feliz,x,happy,0
+Swallowed In The Sea,Ahora soy feliz,x,federal,0.125
+Swallowed In The Sea,Ahora soy feliz,x,airlines,0.10526315789473684
+Life In Technicolor,Kathelin Gray,technicolor,gray,0.25
+Life In Technicolor,Kathelin Gray,technicolor,song,0.26666666666666666
+Life In Technicolor,Kathelin Gray,technicolor,x,0.25
+Life In Technicolor,Kathelin Gray,life,gray,0.42857142857142855
+Life In Technicolor,Kathelin Gray,life,song,0.3076923076923077
+Life In Technicolor,Kathelin Gray,life,x,0.2857142857142857
+Life In Technicolor,Kathelin Gray,viva,gray,0.25
+Life In Technicolor,Kathelin Gray,viva,song,0.26666666666666666
+Life In Technicolor,Kathelin Gray,viva,x,0.25
+Life In Technicolor,Kathelin Gray,la,gray,0.25
+Life In Technicolor,Kathelin Gray,la,song,0.26666666666666666
+Life In Technicolor,Kathelin Gray,la,x,0.25
+Life In Technicolor,Kathelin Gray,friends,gray,0.15384615384615385
+Life In Technicolor,Kathelin Gray,friends,song,0.16666666666666666
+Life In Technicolor,Kathelin Gray,friends,x,0.15384615384615385
+Life In Technicolor,Kathelin Gray,death,gray,0.26666666666666666
+Life In Technicolor,Kathelin Gray,death,song,0.2857142857142857
+Life In Technicolor,Kathelin Gray,death,x,0.26666666666666666
+Life In Technicolor,Heave Ho,technicolor,heave,0.35294117647058826
+Life In Technicolor,Heave Ho,technicolor,ho,0.25
+Life In Technicolor,Heave Ho,technicolor,cunning,0.625
+Life In Technicolor,Heave Ho,technicolor,stunts,0.35294117647058826
+Life In Technicolor,Heave Ho,life,heave,0.26666666666666666
+Life In Technicolor,Heave Ho,life,ho,0.2857142857142857
+Life In Technicolor,Heave Ho,life,cunning,0.2857142857142857
+Life In Technicolor,Heave Ho,life,stunts,0.26666666666666666
+Life In Technicolor,Heave Ho,viva,heave,0.47058823529411764
+Life In Technicolor,Heave Ho,viva,ho,0.25
+Life In Technicolor,Heave Ho,viva,cunning,0.375
+Life In Technicolor,Heave Ho,viva,stunts,0.5882352941176471
+Life In Technicolor,Heave Ho,la,heave,0.23529411764705882
+Life In Technicolor,Heave Ho,la,ho,0.875
+Life In Technicolor,Heave Ho,la,cunning,0.25
+Life In Technicolor,Heave Ho,la,stunts,0.23529411764705882
+Life In Technicolor,Heave Ho,friends,heave,0.14285714285714285
+Life In Technicolor,Heave Ho,friends,ho,0.3333333333333333
+Life In Technicolor,Heave Ho,friends,cunning,0.15384615384615385
+Life In Technicolor,Heave Ho,friends,stunts,0.14285714285714285
+Life In Technicolor,Heave Ho,death,heave,0.625
+Life In Technicolor,Heave Ho,death,ho,0.26666666666666666
+Life In Technicolor,Heave Ho,death,cunning,0.4
+Life In Technicolor,Heave Ho,death,stunts,0.5
+Life In Technicolor,Driving Home For Christmas,technicolor,driving,0.3
+Life In Technicolor,Driving Home For Christmas,technicolor,home,0.11764705882352941
+Life In Technicolor,Driving Home For Christmas,technicolor,christmas,0.26666666666666666
+Life In Technicolor,Driving Home For Christmas,technicolor,hell,0.14285714285714285
+Life In Technicolor,Driving Home For Christmas,technicolor,part,0.3333333333333333
+Life In Technicolor,Driving Home For Christmas,technicolor,road,0.13333333333333333
+Life In Technicolor,Driving Home For Christmas,life,driving,0.2222222222222222
+Life In Technicolor,Driving Home For Christmas,life,home,0.13333333333333333
+Life In Technicolor,Driving Home For Christmas,life,christmas,0.3076923076923077
+Life In Technicolor,Driving Home For Christmas,life,hell,0.16666666666666666
+Life In Technicolor,Driving Home For Christmas,life,part,0.4
+Life In Technicolor,Driving Home For Christmas,life,road,0.15384615384615385
+Life In Technicolor,Driving Home For Christmas,viva,driving,0.5
+Life In Technicolor,Driving Home For Christmas,viva,home,0.11764705882352941
+Life In Technicolor,Driving Home For Christmas,viva,christmas,0.26666666666666666
+Life In Technicolor,Driving Home For Christmas,viva,hell,0.14285714285714285
+Life In Technicolor,Driving Home For Christmas,viva,part,0.3333333333333333
+Life In Technicolor,Driving Home For Christmas,viva,road,0.13333333333333333
+Life In Technicolor,Driving Home For Christmas,la,driving,0.2
+Life In Technicolor,Driving Home For Christmas,la,home,0.25
+Life In Technicolor,Driving Home For Christmas,la,christmas,0.26666666666666666
+Life In Technicolor,Driving Home For Christmas,la,hell,0.3076923076923077
+Life In Technicolor,Driving Home For Christmas,la,part,0.6666666666666666
+Life In Technicolor,Driving Home For Christmas,la,road,0.2857142857142857
+Life In Technicolor,Driving Home For Christmas,friends,driving,0.11764705882352941
+Life In Technicolor,Driving Home For Christmas,friends,home,0.375
+Life In Technicolor,Driving Home For Christmas,friends,christmas,0.16666666666666666
+Life In Technicolor,Driving Home For Christmas,friends,hell,0.46153846153846156
+Life In Technicolor,Driving Home For Christmas,friends,part,0.2222222222222222
+Life In Technicolor,Driving Home For Christmas,friends,road,0.5333333333333333
+Life In Technicolor,Driving Home For Christmas,death,driving,0.42105263157894735
+Life In Technicolor,Driving Home For Christmas,death,home,0.125
+Life In Technicolor,Driving Home For Christmas,death,christmas,0.2857142857142857
+Life In Technicolor,Driving Home For Christmas,death,hell,0.15384615384615385
+Life In Technicolor,Driving Home For Christmas,death,part,0.36363636363636365
+Life In Technicolor,Driving Home For Christmas,death,road,0.14285714285714285
+Life In Technicolor,I Want You Back,technicolor,want,0.25
+Life In Technicolor,I Want You Back,technicolor,back,0.14285714285714285
+Life In Technicolor,I Want You Back,technicolor,sweet,0.125
+Life In Technicolor,I Want You Back,technicolor,children,0.14285714285714285
+Life In Technicolor,I Want You Back,technicolor,mine,0.13333333333333333
+Life In Technicolor,I Want You Back,life,want,0.5714285714285714
+Life In Technicolor,I Want You Back,life,back,0.16666666666666666
+Life In Technicolor,I Want You Back,life,sweet,0.14285714285714285
+Life In Technicolor,I Want You Back,life,children,0.16666666666666666
+Life In Technicolor,I Want You Back,life,mine,0.15384615384615385
+Life In Technicolor,I Want You Back,viva,want,0.25
+Life In Technicolor,I Want You Back,viva,back,0.14285714285714285
+Life In Technicolor,I Want You Back,viva,sweet,0.125
+Life In Technicolor,I Want You Back,viva,children,0.14285714285714285
+Life In Technicolor,I Want You Back,viva,mine,0.13333333333333333
+Life In Technicolor,I Want You Back,la,want,0.25
+Life In Technicolor,I Want You Back,la,back,0.3076923076923077
+Life In Technicolor,I Want You Back,la,sweet,0.26666666666666666
+Life In Technicolor,I Want You Back,la,children,0.3076923076923077
+Life In Technicolor,I Want You Back,la,mine,0.2857142857142857
+Life In Technicolor,I Want You Back,friends,want,0.15384615384615385
+Life In Technicolor,I Want You Back,friends,back,0.36363636363636365
+Life In Technicolor,I Want You Back,friends,sweet,0.631578947368421
+Life In Technicolor,I Want You Back,friends,children,0.7058823529411765
+Life In Technicolor,I Want You Back,friends,mine,0.5333333333333333
+Life In Technicolor,I Want You Back,death,want,0.26666666666666666
+Life In Technicolor,I Want You Back,death,back,0.15384615384615385
+Life In Technicolor,I Want You Back,death,sweet,0.13333333333333333
+Life In Technicolor,I Want You Back,death,children,0.15384615384615385
+Life In Technicolor,I Want You Back,death,mine,0.14285714285714285
+Life In Technicolor,Ort,technicolor,place,0.14285714285714285
+Life In Technicolor,Ort,technicolor,cunning,0.625
+Life In Technicolor,Ort,technicolor,stunts,0.35294117647058826
+Life In Technicolor,Ort,life,place,0.16666666666666666
+Life In Technicolor,Ort,life,cunning,0.2857142857142857
+Life In Technicolor,Ort,life,stunts,0.26666666666666666
+Life In Technicolor,Ort,viva,place,0.14285714285714285
+Life In Technicolor,Ort,viva,cunning,0.375
+Life In Technicolor,Ort,viva,stunts,0.5882352941176471
+Life In Technicolor,Ort,la,place,0.3076923076923077
+Life In Technicolor,Ort,la,cunning,0.25
+Life In Technicolor,Ort,la,stunts,0.23529411764705882
+Life In Technicolor,Ort,friends,place,0.46153846153846156
+Life In Technicolor,Ort,friends,cunning,0.15384615384615385
+Life In Technicolor,Ort,friends,stunts,0.14285714285714285
+Life In Technicolor,Ort,death,place,0.15384615384615385
+Life In Technicolor,Ort,death,cunning,0.4
+Life In Technicolor,Ort,death,stunts,0.5
+Life In Technicolor,Don't Leave,technicolor,leave,0.26666666666666666
+Life In Technicolor,Don't Leave,technicolor,insomnia,0.23529411764705882
+Life In Technicolor,Don't Leave,technicolor,best,0.375
+Life In Technicolor,Don't Leave,life,leave,0.3076923076923077
+Life In Technicolor,Don't Leave,life,insomnia,0.5333333333333333
+Life In Technicolor,Don't Leave,life,best,0.2857142857142857
+Life In Technicolor,Don't Leave,viva,leave,0.26666666666666666
+Life In Technicolor,Don't Leave,viva,insomnia,0.23529411764705882
+Life In Technicolor,Don't Leave,viva,best,0.625
+Life In Technicolor,Don't Leave,la,leave,0.26666666666666666
+Life In Technicolor,Don't Leave,la,insomnia,0.23529411764705882
+Life In Technicolor,Don't Leave,la,best,0.25
+Life In Technicolor,Don't Leave,friends,leave,0.16666666666666666
+Life In Technicolor,Don't Leave,friends,insomnia,0.14285714285714285
+Life In Technicolor,Don't Leave,friends,best,0.15384615384615385
+Life In Technicolor,Don't Leave,death,leave,0.2857142857142857
+Life In Technicolor,Don't Leave,death,insomnia,0.25
+Life In Technicolor,Don't Leave,death,best,0.5333333333333333
+Life In Technicolor,Sting Of The Bumblebee (LP Version),technicolor,lp,0.1
+Life In Technicolor,Sting Of The Bumblebee (LP Version),technicolor,version,0.25
+Life In Technicolor,Sting Of The Bumblebee (LP Version),technicolor,sting,0.47058823529411764
+Life In Technicolor,Sting Of The Bumblebee (LP Version),technicolor,bumblebee,0.09523809523809523
+Life In Technicolor,Sting Of The Bumblebee (LP Version),technicolor,metal,0.26666666666666666
+Life In Technicolor,Sting Of The Bumblebee (LP Version),technicolor,kings,0.13333333333333333
+Life In Technicolor,Sting Of The Bumblebee (LP Version),life,lp,0.1111111111111111
+Life In Technicolor,Sting Of The Bumblebee (LP Version),life,version,0.2857142857142857
+Life In Technicolor,Sting Of The Bumblebee (LP Version),life,sting,0.26666666666666666
+Life In Technicolor,Sting Of The Bumblebee (LP Version),life,bumblebee,0.10526315789473684
+Life In Technicolor,Sting Of The Bumblebee (LP Version),life,metal,0.3076923076923077
+Life In Technicolor,Sting Of The Bumblebee (LP Version),life,kings,0.15384615384615385
+Life In Technicolor,Sting Of The Bumblebee (LP Version),viva,lp,0.1
+Life In Technicolor,Sting Of The Bumblebee (LP Version),viva,version,0.25
+Life In Technicolor,Sting Of The Bumblebee (LP Version),viva,sting,0.35294117647058826
+Life In Technicolor,Sting Of The Bumblebee (LP Version),viva,bumblebee,0.09523809523809523
+Life In Technicolor,Sting Of The Bumblebee (LP Version),viva,metal,0.26666666666666666
+Life In Technicolor,Sting Of The Bumblebee (LP Version),viva,kings,0.13333333333333333
+Life In Technicolor,Sting Of The Bumblebee (LP Version),la,lp,0.21052631578947367
+Life In Technicolor,Sting Of The Bumblebee (LP Version),la,version,0.25
+Life In Technicolor,Sting Of The Bumblebee (LP Version),la,sting,0.23529411764705882
+Life In Technicolor,Sting Of The Bumblebee (LP Version),la,bumblebee,0.2
+Life In Technicolor,Sting Of The Bumblebee (LP Version),la,metal,0.9333333333333333
+Life In Technicolor,Sting Of The Bumblebee (LP Version),la,kings,0.2857142857142857
+Life In Technicolor,Sting Of The Bumblebee (LP Version),friends,lp,0.4
+Life In Technicolor,Sting Of The Bumblebee (LP Version),friends,version,0.15384615384615385
+Life In Technicolor,Sting Of The Bumblebee (LP Version),friends,sting,0.14285714285714285
+Life In Technicolor,Sting Of The Bumblebee (LP Version),friends,bumblebee,0.5714285714285714
+Life In Technicolor,Sting Of The Bumblebee (LP Version),friends,metal,0.36363636363636365
+Life In Technicolor,Sting Of The Bumblebee (LP Version),friends,kings,0.6666666666666666
+Life In Technicolor,Sting Of The Bumblebee (LP Version),death,lp,0.10526315789473684
+Life In Technicolor,Sting Of The Bumblebee (LP Version),death,version,0.26666666666666666
+Life In Technicolor,Sting Of The Bumblebee (LP Version),death,sting,0.375
+Life In Technicolor,Sting Of The Bumblebee (LP Version),death,bumblebee,0.1
+Life In Technicolor,Sting Of The Bumblebee (LP Version),death,metal,0.2857142857142857
+Life In Technicolor,Sting Of The Bumblebee (LP Version),death,kings,0.14285714285714285
+Life In Technicolor,Nervous Breakdown,technicolor,nervous,0
+Life In Technicolor,Nervous Breakdown,technicolor,breakdown,0.3157894736842105
+Life In Technicolor,Nervous Breakdown,technicolor,lords,0.47058823529411764
+Life In Technicolor,Nervous Breakdown,life,nervous,0
+Life In Technicolor,Nervous Breakdown,life,breakdown,0.23529411764705882
+Life In Technicolor,Nervous Breakdown,life,lords,0.26666666666666666
+Life In Technicolor,Nervous Breakdown,viva,nervous,0
+Life In Technicolor,Nervous Breakdown,viva,breakdown,0.5263157894736842
+Life In Technicolor,Nervous Breakdown,viva,lords,0.35294117647058826
+Life In Technicolor,Nervous Breakdown,la,nervous,0
+Life In Technicolor,Nervous Breakdown,la,breakdown,0.21052631578947367
+Life In Technicolor,Nervous Breakdown,la,lords,0.23529411764705882
+Life In Technicolor,Nervous Breakdown,friends,nervous,0
+Life In Technicolor,Nervous Breakdown,friends,breakdown,0.125
+Life In Technicolor,Nervous Breakdown,friends,lords,0.14285714285714285
+Life In Technicolor,Nervous Breakdown,death,nervous,0
+Life In Technicolor,Nervous Breakdown,death,breakdown,0.4444444444444444
+Life In Technicolor,Nervous Breakdown,death,lords,0.375
+Life In Technicolor,Question And Answer (Live) (Album Version),technicolor,album,0.125
+Life In Technicolor,Question And Answer (Live) (Album Version),technicolor,version,0.25
+Life In Technicolor,Question And Answer (Live) (Album Version),technicolor,question,0.35294117647058826
+Life In Technicolor,Question And Answer (Live) (Album Version),technicolor,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),technicolor,answer,0.2857142857142857
+Life In Technicolor,Question And Answer (Live) (Album Version),technicolor,trio,0.25
+Life In Technicolor,Question And Answer (Live) (Album Version),technicolor,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),life,album,0.14285714285714285
+Life In Technicolor,Question And Answer (Live) (Album Version),life,version,0.2857142857142857
+Life In Technicolor,Question And Answer (Live) (Album Version),life,question,0.26666666666666666
+Life In Technicolor,Question And Answer (Live) (Album Version),life,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),life,answer,0.3333333333333333
+Life In Technicolor,Question And Answer (Live) (Album Version),life,trio,0.2857142857142857
+Life In Technicolor,Question And Answer (Live) (Album Version),life,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),viva,album,0.125
+Life In Technicolor,Question And Answer (Live) (Album Version),viva,version,0.25
+Life In Technicolor,Question And Answer (Live) (Album Version),viva,question,0.5882352941176471
+Life In Technicolor,Question And Answer (Live) (Album Version),viva,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),viva,answer,0.2857142857142857
+Life In Technicolor,Question And Answer (Live) (Album Version),viva,trio,0.25
+Life In Technicolor,Question And Answer (Live) (Album Version),viva,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),la,album,0.26666666666666666
+Life In Technicolor,Question And Answer (Live) (Album Version),la,version,0.25
+Life In Technicolor,Question And Answer (Live) (Album Version),la,question,0.23529411764705882
+Life In Technicolor,Question And Answer (Live) (Album Version),la,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),la,answer,0.2857142857142857
+Life In Technicolor,Question And Answer (Live) (Album Version),la,trio,0.25
+Life In Technicolor,Question And Answer (Live) (Album Version),la,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),friends,album,0.5
+Life In Technicolor,Question And Answer (Live) (Album Version),friends,version,0.15384615384615385
+Life In Technicolor,Question And Answer (Live) (Album Version),friends,question,0.14285714285714285
+Life In Technicolor,Question And Answer (Live) (Album Version),friends,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),friends,answer,0.18181818181818182
+Life In Technicolor,Question And Answer (Live) (Album Version),friends,trio,0.15384615384615385
+Life In Technicolor,Question And Answer (Live) (Album Version),friends,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),death,album,0.13333333333333333
+Life In Technicolor,Question And Answer (Live) (Album Version),death,version,0.26666666666666666
+Life In Technicolor,Question And Answer (Live) (Album Version),death,question,0.5
+Life In Technicolor,Question And Answer (Live) (Album Version),death,live,0
+Life In Technicolor,Question And Answer (Live) (Album Version),death,answer,0.3076923076923077
+Life In Technicolor,Question And Answer (Live) (Album Version),death,trio,0.26666666666666666
+Life In Technicolor,Question And Answer (Live) (Album Version),death,live,0
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,rubber,0.2222222222222222
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,band,0.3076923076923077
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,lp,0.1
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,version,0.25
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,rubber,0.2222222222222222
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,band,0.3076923076923077
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),life,rubber,0.25
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),life,band,0.36363636363636365
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),life,lp,0.1111111111111111
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),life,version,0.2857142857142857
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),life,rubber,0.25
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),life,band,0.36363636363636365
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),viva,rubber,0.2222222222222222
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),viva,band,0.3076923076923077
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),viva,lp,0.1
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),viva,version,0.25
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),viva,rubber,0.2222222222222222
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),viva,band,0.3076923076923077
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),la,rubber,0.4444444444444444
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),la,band,0.3076923076923077
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),la,lp,0.21052631578947367
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),la,version,0.25
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),la,rubber,0.4444444444444444
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),la,band,0.3076923076923077
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),friends,rubber,0.2857142857142857
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),friends,band,0.2
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),friends,lp,0.4
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),friends,version,0.15384615384615385
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),friends,rubber,0.2857142857142857
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),friends,band,0.2
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),death,rubber,0.23529411764705882
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),death,band,0.3333333333333333
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),death,lp,0.10526315789473684
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),death,version,0.26666666666666666
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),death,rubber,0.23529411764705882
+Life In Technicolor,Stretchin' Out (In A Rubber Band) (LP Version),death,band,0.3333333333333333
+Life In Technicolor,Ahora soy feliz,technicolor,happy,0
+Life In Technicolor,Ahora soy feliz,technicolor,federal,0.125
+Life In Technicolor,Ahora soy feliz,technicolor,airlines,0.10526315789473684
+Life In Technicolor,Ahora soy feliz,life,happy,0
+Life In Technicolor,Ahora soy feliz,life,federal,0.14285714285714285
+Life In Technicolor,Ahora soy feliz,life,airlines,0.11764705882352941
+Life In Technicolor,Ahora soy feliz,viva,happy,0
+Life In Technicolor,Ahora soy feliz,viva,federal,0.125
+Life In Technicolor,Ahora soy feliz,viva,airlines,0.10526315789473684
+Life In Technicolor,Ahora soy feliz,la,happy,0
+Life In Technicolor,Ahora soy feliz,la,federal,0.26666666666666666
+Life In Technicolor,Ahora soy feliz,la,airlines,0.2222222222222222
+Life In Technicolor,Ahora soy feliz,friends,happy,0
+Life In Technicolor,Ahora soy feliz,friends,federal,0.631578947368421
+Life In Technicolor,Ahora soy feliz,friends,airlines,0.42105263157894735
+Life In Technicolor,Ahora soy feliz,death,happy,0
+Life In Technicolor,Ahora soy feliz,death,federal,0.13333333333333333
+Life In Technicolor,Ahora soy feliz,death,airlines,0.1111111111111111
+Clocks,Kathelin Gray,clocks,gray,0.1
+Clocks,Kathelin Gray,clocks,song,0.10526315789473684
+Clocks,Kathelin Gray,clocks,x,0.1
+Clocks,Kathelin Gray,rush,gray,0.23529411764705882
+Clocks,Kathelin Gray,rush,song,0.25
+Clocks,Kathelin Gray,rush,x,0.23529411764705882
+Clocks,Kathelin Gray,head,gray,0.13333333333333333
+Clocks,Kathelin Gray,head,song,0.14285714285714285
+Clocks,Kathelin Gray,head,x,0.13333333333333333
+Clocks,Kathelin Gray,blood,gray,0.25
+Clocks,Kathelin Gray,blood,song,0.26666666666666666
+Clocks,Kathelin Gray,blood,x,0.25
+Clocks,Heave Ho,clocks,heave,0.09523809523809523
+Clocks,Heave Ho,clocks,ho,0.21052631578947367
+Clocks,Heave Ho,clocks,cunning,0.1
+Clocks,Heave Ho,clocks,stunts,0.09523809523809523
+Clocks,Heave Ho,rush,heave,0.4444444444444444
+Clocks,Heave Ho,rush,ho,0.23529411764705882
+Clocks,Heave Ho,rush,cunning,0.35294117647058826
+Clocks,Heave Ho,rush,stunts,0.6666666666666666
+Clocks,Heave Ho,head,heave,0.125
+Clocks,Heave Ho,head,ho,0.2857142857142857
+Clocks,Heave Ho,head,cunning,0.13333333333333333
+Clocks,Heave Ho,head,stunts,0.125
+Clocks,Heave Ho,blood,heave,0.23529411764705882
+Clocks,Heave Ho,blood,ho,0.5
+Clocks,Heave Ho,blood,cunning,0.25
+Clocks,Heave Ho,blood,stunts,0.23529411764705882
+Clocks,Driving Home For Christmas,clocks,driving,0.08333333333333333
+Clocks,Driving Home For Christmas,clocks,home,0.2857142857142857
+Clocks,Driving Home For Christmas,clocks,christmas,0.10526315789473684
+Clocks,Driving Home For Christmas,clocks,hell,0.3333333333333333
+Clocks,Driving Home For Christmas,clocks,part,0.125
+Clocks,Driving Home For Christmas,clocks,road,0.42105263157894735
+Clocks,Driving Home For Christmas,rush,driving,0.7619047619047619
+Clocks,Driving Home For Christmas,rush,home,0.1111111111111111
+Clocks,Driving Home For Christmas,rush,christmas,0.25
+Clocks,Driving Home For Christmas,rush,hell,0.13333333333333333
+Clocks,Driving Home For Christmas,rush,part,0.3076923076923077
+Clocks,Driving Home For Christmas,rush,road,0.125
+Clocks,Driving Home For Christmas,head,driving,0.10526315789473684
+Clocks,Driving Home For Christmas,head,home,0.25
+Clocks,Driving Home For Christmas,head,christmas,0.14285714285714285
+Clocks,Driving Home For Christmas,head,hell,0.3076923076923077
+Clocks,Driving Home For Christmas,head,part,0.18181818181818182
+Clocks,Driving Home For Christmas,head,road,0.2857142857142857
+Clocks,Driving Home For Christmas,blood,driving,0.2
+Clocks,Driving Home For Christmas,blood,home,0.25
+Clocks,Driving Home For Christmas,blood,christmas,0.26666666666666666
+Clocks,Driving Home For Christmas,blood,hell,0.3076923076923077
+Clocks,Driving Home For Christmas,blood,part,0.6666666666666666
+Clocks,Driving Home For Christmas,blood,road,0.2857142857142857
+Clocks,I Want You Back,clocks,want,0.1
+Clocks,I Want You Back,clocks,back,0.2222222222222222
+Clocks,I Want You Back,clocks,sweet,0.5217391304347826
+Clocks,I Want You Back,clocks,children,0.5714285714285714
+Clocks,I Want You Back,clocks,mine,0.42105263157894735
+Clocks,I Want You Back,rush,want,0.23529411764705882
+Clocks,I Want You Back,rush,back,0.13333333333333333
+Clocks,I Want You Back,rush,sweet,0.11764705882352941
+Clocks,I Want You Back,rush,children,0.13333333333333333
+Clocks,I Want You Back,rush,mine,0.125
+Clocks,I Want You Back,head,want,0.13333333333333333
+Clocks,I Want You Back,head,back,0.7692307692307693
+Clocks,I Want You Back,head,sweet,0.26666666666666666
+Clocks,I Want You Back,head,children,0.3076923076923077
+Clocks,I Want You Back,head,mine,0.2857142857142857
+Clocks,I Want You Back,blood,want,0.25
+Clocks,I Want You Back,blood,back,0.3076923076923077
+Clocks,I Want You Back,blood,sweet,0.26666666666666666
+Clocks,I Want You Back,blood,children,0.3076923076923077
+Clocks,I Want You Back,blood,mine,0.2857142857142857
+Clocks,Ort,clocks,place,0.3333333333333333
+Clocks,Ort,clocks,cunning,0.1
+Clocks,Ort,clocks,stunts,0.09523809523809523
+Clocks,Ort,rush,place,0.13333333333333333
+Clocks,Ort,rush,cunning,0.35294117647058826
+Clocks,Ort,rush,stunts,0.6666666666666666
+Clocks,Ort,head,place,0.3076923076923077
+Clocks,Ort,head,cunning,0.13333333333333333
+Clocks,Ort,head,stunts,0.125
+Clocks,Ort,blood,place,0.3076923076923077
+Clocks,Ort,blood,cunning,0.25
+Clocks,Ort,blood,stunts,0.23529411764705882
+Clocks,Don't Leave,clocks,leave,0.10526315789473684
+Clocks,Don't Leave,clocks,insomnia,0.09523809523809523
+Clocks,Don't Leave,clocks,best,0.1
+Clocks,Don't Leave,rush,leave,0.25
+Clocks,Don't Leave,rush,insomnia,0.2222222222222222
+Clocks,Don't Leave,rush,best,0.5882352941176471
+Clocks,Don't Leave,head,leave,0.14285714285714285
+Clocks,Don't Leave,head,insomnia,0.125
+Clocks,Don't Leave,head,best,0.13333333333333333
+Clocks,Don't Leave,blood,leave,0.26666666666666666
+Clocks,Don't Leave,blood,insomnia,0.23529411764705882
+Clocks,Don't Leave,blood,best,0.25
+Clocks,Sting Of The Bumblebee (LP Version),clocks,lp,0.3333333333333333
+Clocks,Sting Of The Bumblebee (LP Version),clocks,version,0.1
+Clocks,Sting Of The Bumblebee (LP Version),clocks,sting,0.09523809523809523
+Clocks,Sting Of The Bumblebee (LP Version),clocks,bumblebee,0.48
+Clocks,Sting Of The Bumblebee (LP Version),clocks,metal,0.2222222222222222
+Clocks,Sting Of The Bumblebee (LP Version),clocks,kings,0.5454545454545454
+Clocks,Sting Of The Bumblebee (LP Version),rush,lp,0.09523809523809523
+Clocks,Sting Of The Bumblebee (LP Version),rush,version,0.23529411764705882
+Clocks,Sting Of The Bumblebee (LP Version),rush,sting,0.3333333333333333
+Clocks,Sting Of The Bumblebee (LP Version),rush,bumblebee,0.09090909090909091
+Clocks,Sting Of The Bumblebee (LP Version),rush,metal,0.25
+Clocks,Sting Of The Bumblebee (LP Version),rush,kings,0.125
+Clocks,Sting Of The Bumblebee (LP Version),head,lp,0.21052631578947367
+Clocks,Sting Of The Bumblebee (LP Version),head,version,0.13333333333333333
+Clocks,Sting Of The Bumblebee (LP Version),head,sting,0.125
+Clocks,Sting Of The Bumblebee (LP Version),head,bumblebee,0.2
+Clocks,Sting Of The Bumblebee (LP Version),head,metal,0.3076923076923077
+Clocks,Sting Of The Bumblebee (LP Version),head,kings,0.2857142857142857
+Clocks,Sting Of The Bumblebee (LP Version),blood,lp,0.21052631578947367
+Clocks,Sting Of The Bumblebee (LP Version),blood,version,0.25
+Clocks,Sting Of The Bumblebee (LP Version),blood,sting,0.23529411764705882
+Clocks,Sting Of The Bumblebee (LP Version),blood,bumblebee,0.2
+Clocks,Sting Of The Bumblebee (LP Version),blood,metal,0.5333333333333333
+Clocks,Sting Of The Bumblebee (LP Version),blood,kings,0.2857142857142857
+Clocks,Nervous Breakdown,clocks,nervous,0
+Clocks,Nervous Breakdown,clocks,breakdown,0.08695652173913043
+Clocks,Nervous Breakdown,clocks,lords,0.09523809523809523
+Clocks,Nervous Breakdown,rush,nervous,0
+Clocks,Nervous Breakdown,rush,breakdown,0.7
+Clocks,Nervous Breakdown,rush,lords,0.3333333333333333
+Clocks,Nervous Breakdown,head,nervous,0
+Clocks,Nervous Breakdown,head,breakdown,0.1111111111111111
+Clocks,Nervous Breakdown,head,lords,0.125
+Clocks,Nervous Breakdown,blood,nervous,0
+Clocks,Nervous Breakdown,blood,breakdown,0.21052631578947367
+Clocks,Nervous Breakdown,blood,lords,0.23529411764705882
+Clocks,Question And Answer (Live) (Album Version),clocks,album,0.4
+Clocks,Question And Answer (Live) (Album Version),clocks,version,0.1
+Clocks,Question And Answer (Live) (Album Version),clocks,question,0.09523809523809523
+Clocks,Question And Answer (Live) (Album Version),clocks,live,0
+Clocks,Question And Answer (Live) (Album Version),clocks,answer,0.1111111111111111
+Clocks,Question And Answer (Live) (Album Version),clocks,trio,0.1
+Clocks,Question And Answer (Live) (Album Version),clocks,live,0
+Clocks,Question And Answer (Live) (Album Version),rush,album,0.11764705882352941
+Clocks,Question And Answer (Live) (Album Version),rush,version,0.23529411764705882
+Clocks,Question And Answer (Live) (Album Version),rush,question,0.5555555555555556
+Clocks,Question And Answer (Live) (Album Version),rush,live,0
+Clocks,Question And Answer (Live) (Album Version),rush,answer,0.26666666666666666
+Clocks,Question And Answer (Live) (Album Version),rush,trio,0.23529411764705882
+Clocks,Question And Answer (Live) (Album Version),rush,live,0
+Clocks,Question And Answer (Live) (Album Version),head,album,0.26666666666666666
+Clocks,Question And Answer (Live) (Album Version),head,version,0.13333333333333333
+Clocks,Question And Answer (Live) (Album Version),head,question,0.125
+Clocks,Question And Answer (Live) (Album Version),head,live,0
+Clocks,Question And Answer (Live) (Album Version),head,answer,0.15384615384615385
+Clocks,Question And Answer (Live) (Album Version),head,trio,0.13333333333333333
+Clocks,Question And Answer (Live) (Album Version),head,live,0
+Clocks,Question And Answer (Live) (Album Version),blood,album,0.26666666666666666
+Clocks,Question And Answer (Live) (Album Version),blood,version,0.25
+Clocks,Question And Answer (Live) (Album Version),blood,question,0.23529411764705882
+Clocks,Question And Answer (Live) (Album Version),blood,live,0
+Clocks,Question And Answer (Live) (Album Version),blood,answer,0.2857142857142857
+Clocks,Question And Answer (Live) (Album Version),blood,trio,0.25
+Clocks,Question And Answer (Live) (Album Version),blood,live,0
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),clocks,rubber,0.19047619047619047
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),clocks,band,0.11764705882352941
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),clocks,lp,0.3333333333333333
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),clocks,version,0.1
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),clocks,rubber,0.19047619047619047
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),clocks,band,0.11764705882352941
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),rush,rubber,0.21052631578947367
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),rush,band,0.2857142857142857
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),rush,lp,0.09523809523809523
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),rush,version,0.23529411764705882
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),rush,rubber,0.21052631578947367
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),rush,band,0.2857142857142857
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),head,rubber,0.25
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),head,band,0.16666666666666666
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),head,lp,0.21052631578947367
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),head,version,0.13333333333333333
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),head,rubber,0.25
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),head,band,0.16666666666666666
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),blood,rubber,0.4444444444444444
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),blood,band,0.3076923076923077
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),blood,lp,0.21052631578947367
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),blood,version,0.25
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),blood,rubber,0.4444444444444444
+Clocks,Stretchin' Out (In A Rubber Band) (LP Version),blood,band,0.3076923076923077
+Clocks,Ahora soy feliz,clocks,happy,0
+Clocks,Ahora soy feliz,clocks,federal,0.5217391304347826
+Clocks,Ahora soy feliz,clocks,airlines,0.34782608695652173
+Clocks,Ahora soy feliz,rush,happy,0
+Clocks,Ahora soy feliz,rush,federal,0.11764705882352941
+Clocks,Ahora soy feliz,rush,airlines,0.1
+Clocks,Ahora soy feliz,head,happy,0
+Clocks,Ahora soy feliz,head,federal,0.26666666666666666
+Clocks,Ahora soy feliz,head,airlines,0.2222222222222222
+Clocks,Ahora soy feliz,blood,happy,0
+Clocks,Ahora soy feliz,blood,federal,0.26666666666666666
+Clocks,Ahora soy feliz,blood,airlines,0.2222222222222222
+Strawberry Swing,Kathelin Gray,strawberry,gray,0.11764705882352941
+Strawberry Swing,Kathelin Gray,strawberry,song,0.125
+Strawberry Swing,Kathelin Gray,strawberry,x,0.11764705882352941
+Strawberry Swing,Kathelin Gray,swing,gray,0.42857142857142855
+Strawberry Swing,Kathelin Gray,swing,song,0.3076923076923077
+Strawberry Swing,Kathelin Gray,swing,x,0.2857142857142857
+Strawberry Swing,Kathelin Gray,viva,gray,0.25
+Strawberry Swing,Kathelin Gray,viva,song,0.26666666666666666
+Strawberry Swing,Kathelin Gray,viva,x,0.25
+Strawberry Swing,Kathelin Gray,la,gray,0.25
+Strawberry Swing,Kathelin Gray,la,song,0.26666666666666666
+Strawberry Swing,Kathelin Gray,la,x,0.25
+Strawberry Swing,Kathelin Gray,march,gray,0.25
+Strawberry Swing,Kathelin Gray,march,song,0.26666666666666666
+Strawberry Swing,Kathelin Gray,march,x,0.375
+Strawberry Swing,Kathelin Gray,edition,gray,0.10526315789473684
+Strawberry Swing,Kathelin Gray,edition,song,0.1111111111111111
+Strawberry Swing,Kathelin Gray,edition,x,0.10526315789473684
+Strawberry Swing,Heave Ho,strawberry,heave,0.1111111111111111
+Strawberry Swing,Heave Ho,strawberry,ho,0.375
+Strawberry Swing,Heave Ho,strawberry,cunning,0.11764705882352941
+Strawberry Swing,Heave Ho,strawberry,stunts,0.1111111111111111
+Strawberry Swing,Heave Ho,swing,heave,0.26666666666666666
+Strawberry Swing,Heave Ho,swing,ho,0.2857142857142857
+Strawberry Swing,Heave Ho,swing,cunning,0.2857142857142857
+Strawberry Swing,Heave Ho,swing,stunts,0.26666666666666666
+Strawberry Swing,Heave Ho,viva,heave,0.47058823529411764
+Strawberry Swing,Heave Ho,viva,ho,0.25
+Strawberry Swing,Heave Ho,viva,cunning,0.375
+Strawberry Swing,Heave Ho,viva,stunts,0.5882352941176471
+Strawberry Swing,Heave Ho,la,heave,0.23529411764705882
+Strawberry Swing,Heave Ho,la,ho,0.875
+Strawberry Swing,Heave Ho,la,cunning,0.25
+Strawberry Swing,Heave Ho,la,stunts,0.23529411764705882
+Strawberry Swing,Heave Ho,march,heave,0.23529411764705882
+Strawberry Swing,Heave Ho,march,ho,0.25
+Strawberry Swing,Heave Ho,march,cunning,0.25
+Strawberry Swing,Heave Ho,march,stunts,0.23529411764705882
+Strawberry Swing,Heave Ho,edition,heave,0.1
+Strawberry Swing,Heave Ho,edition,ho,0.2222222222222222
+Strawberry Swing,Heave Ho,edition,cunning,0.10526315789473684
+Strawberry Swing,Heave Ho,edition,stunts,0.1
+Strawberry Swing,Driving Home For Christmas,strawberry,driving,0.09523809523809523
+Strawberry Swing,Driving Home For Christmas,strawberry,home,0.3
+Strawberry Swing,Driving Home For Christmas,strawberry,christmas,0.125
+Strawberry Swing,Driving Home For Christmas,strawberry,hell,0.35294117647058826
+Strawberry Swing,Driving Home For Christmas,strawberry,part,0.15384615384615385
+Strawberry Swing,Driving Home For Christmas,strawberry,road,0.42105263157894735
+Strawberry Swing,Driving Home For Christmas,swing,driving,0.2222222222222222
+Strawberry Swing,Driving Home For Christmas,swing,home,0.13333333333333333
+Strawberry Swing,Driving Home For Christmas,swing,christmas,0.3076923076923077
+Strawberry Swing,Driving Home For Christmas,swing,hell,0.16666666666666666
+Strawberry Swing,Driving Home For Christmas,swing,part,0.4
+Strawberry Swing,Driving Home For Christmas,swing,road,0.15384615384615385
+Strawberry Swing,Driving Home For Christmas,viva,driving,0.5
+Strawberry Swing,Driving Home For Christmas,viva,home,0.11764705882352941
+Strawberry Swing,Driving Home For Christmas,viva,christmas,0.26666666666666666
+Strawberry Swing,Driving Home For Christmas,viva,hell,0.14285714285714285
+Strawberry Swing,Driving Home For Christmas,viva,part,0.3333333333333333
+Strawberry Swing,Driving Home For Christmas,viva,road,0.13333333333333333
+Strawberry Swing,Driving Home For Christmas,la,driving,0.2
+Strawberry Swing,Driving Home For Christmas,la,home,0.25
+Strawberry Swing,Driving Home For Christmas,la,christmas,0.26666666666666666
+Strawberry Swing,Driving Home For Christmas,la,hell,0.3076923076923077
+Strawberry Swing,Driving Home For Christmas,la,part,0.6666666666666666
+Strawberry Swing,Driving Home For Christmas,la,road,0.2857142857142857
+Strawberry Swing,Driving Home For Christmas,march,driving,0.2
+Strawberry Swing,Driving Home For Christmas,march,home,0.11764705882352941
+Strawberry Swing,Driving Home For Christmas,march,christmas,0.6666666666666666
+Strawberry Swing,Driving Home For Christmas,march,hell,0.14285714285714285
+Strawberry Swing,Driving Home For Christmas,march,part,0.3333333333333333
+Strawberry Swing,Driving Home For Christmas,march,road,0.13333333333333333
+Strawberry Swing,Driving Home For Christmas,edition,driving,0.08695652173913043
+Strawberry Swing,Driving Home For Christmas,edition,home,0.3
+Strawberry Swing,Driving Home For Christmas,edition,christmas,0.1111111111111111
+Strawberry Swing,Driving Home For Christmas,edition,hell,0.35294117647058826
+Strawberry Swing,Driving Home For Christmas,edition,part,0.13333333333333333
+Strawberry Swing,Driving Home For Christmas,edition,road,0.5555555555555556
+Strawberry Swing,I Want You Back,strawberry,want,0.11764705882352941
+Strawberry Swing,I Want You Back,strawberry,back,0.26666666666666666
+Strawberry Swing,I Want You Back,strawberry,sweet,0.34782608695652173
+Strawberry Swing,I Want You Back,strawberry,children,0.38095238095238093
+Strawberry Swing,I Want You Back,strawberry,mine,0.42105263157894735
+Strawberry Swing,I Want You Back,swing,want,0.5714285714285714
+Strawberry Swing,I Want You Back,swing,back,0.16666666666666666
+Strawberry Swing,I Want You Back,swing,sweet,0.14285714285714285
+Strawberry Swing,I Want You Back,swing,children,0.16666666666666666
+Strawberry Swing,I Want You Back,swing,mine,0.15384615384615385
+Strawberry Swing,I Want You Back,viva,want,0.25
+Strawberry Swing,I Want You Back,viva,back,0.14285714285714285
+Strawberry Swing,I Want You Back,viva,sweet,0.125
+Strawberry Swing,I Want You Back,viva,children,0.14285714285714285
+Strawberry Swing,I Want You Back,viva,mine,0.13333333333333333
+Strawberry Swing,I Want You Back,la,want,0.25
+Strawberry Swing,I Want You Back,la,back,0.3076923076923077
+Strawberry Swing,I Want You Back,la,sweet,0.26666666666666666
+Strawberry Swing,I Want You Back,la,children,0.3076923076923077
+Strawberry Swing,I Want You Back,la,mine,0.2857142857142857
+Strawberry Swing,I Want You Back,march,want,0.25
+Strawberry Swing,I Want You Back,march,back,0.14285714285714285
+Strawberry Swing,I Want You Back,march,sweet,0.125
+Strawberry Swing,I Want You Back,march,children,0.14285714285714285
+Strawberry Swing,I Want You Back,march,mine,0.13333333333333333
+Strawberry Swing,I Want You Back,edition,want,0.10526315789473684
+Strawberry Swing,I Want You Back,edition,back,0.23529411764705882
+Strawberry Swing,I Want You Back,edition,sweet,0.36363636363636365
+Strawberry Swing,I Want You Back,edition,children,0.4
+Strawberry Swing,I Want You Back,edition,mine,0.5555555555555556
+Strawberry Swing,Ort,strawberry,place,0.35294117647058826
+Strawberry Swing,Ort,strawberry,cunning,0.11764705882352941
+Strawberry Swing,Ort,strawberry,stunts,0.1111111111111111
+Strawberry Swing,Ort,swing,place,0.16666666666666666
+Strawberry Swing,Ort,swing,cunning,0.2857142857142857
+Strawberry Swing,Ort,swing,stunts,0.26666666666666666
+Strawberry Swing,Ort,viva,place,0.14285714285714285
+Strawberry Swing,Ort,viva,cunning,0.375
+Strawberry Swing,Ort,viva,stunts,0.5882352941176471
+Strawberry Swing,Ort,la,place,0.3076923076923077
+Strawberry Swing,Ort,la,cunning,0.25
+Strawberry Swing,Ort,la,stunts,0.23529411764705882
+Strawberry Swing,Ort,march,place,0.14285714285714285
+Strawberry Swing,Ort,march,cunning,0.25
+Strawberry Swing,Ort,march,stunts,0.23529411764705882
+Strawberry Swing,Ort,edition,place,0.35294117647058826
+Strawberry Swing,Ort,edition,cunning,0.10526315789473684
+Strawberry Swing,Ort,edition,stunts,0.1
+Strawberry Swing,Don't Leave,strawberry,leave,0.125
+Strawberry Swing,Don't Leave,strawberry,insomnia,0.1111111111111111
+Strawberry Swing,Don't Leave,strawberry,best,0.11764705882352941
+Strawberry Swing,Don't Leave,swing,leave,0.3076923076923077
+Strawberry Swing,Don't Leave,swing,insomnia,0.5333333333333333
+Strawberry Swing,Don't Leave,swing,best,0.2857142857142857
+Strawberry Swing,Don't Leave,viva,leave,0.26666666666666666
+Strawberry Swing,Don't Leave,viva,insomnia,0.23529411764705882
+Strawberry Swing,Don't Leave,viva,best,0.625
+Strawberry Swing,Don't Leave,la,leave,0.26666666666666666
+Strawberry Swing,Don't Leave,la,insomnia,0.23529411764705882
+Strawberry Swing,Don't Leave,la,best,0.25
+Strawberry Swing,Don't Leave,march,leave,0.6666666666666666
+Strawberry Swing,Don't Leave,march,insomnia,0.23529411764705882
+Strawberry Swing,Don't Leave,march,best,0.25
+Strawberry Swing,Don't Leave,edition,leave,0.1111111111111111
+Strawberry Swing,Don't Leave,edition,insomnia,0.1
+Strawberry Swing,Don't Leave,edition,best,0.10526315789473684
+Strawberry Swing,Sting Of The Bumblebee (LP Version),strawberry,lp,0.3333333333333333
+Strawberry Swing,Sting Of The Bumblebee (LP Version),strawberry,version,0.11764705882352941
+Strawberry Swing,Sting Of The Bumblebee (LP Version),strawberry,sting,0.1111111111111111
+Strawberry Swing,Sting Of The Bumblebee (LP Version),strawberry,bumblebee,0.32
+Strawberry Swing,Sting Of The Bumblebee (LP Version),strawberry,metal,0.4
+Strawberry Swing,Sting Of The Bumblebee (LP Version),strawberry,kings,0.36363636363636365
+Strawberry Swing,Sting Of The Bumblebee (LP Version),swing,lp,0.1111111111111111
+Strawberry Swing,Sting Of The Bumblebee (LP Version),swing,version,0.2857142857142857
+Strawberry Swing,Sting Of The Bumblebee (LP Version),swing,sting,0.26666666666666666
+Strawberry Swing,Sting Of The Bumblebee (LP Version),swing,bumblebee,0.10526315789473684
+Strawberry Swing,Sting Of The Bumblebee (LP Version),swing,metal,0.3076923076923077
+Strawberry Swing,Sting Of The Bumblebee (LP Version),swing,kings,0.15384615384615385
+Strawberry Swing,Sting Of The Bumblebee (LP Version),viva,lp,0.1
+Strawberry Swing,Sting Of The Bumblebee (LP Version),viva,version,0.25
+Strawberry Swing,Sting Of The Bumblebee (LP Version),viva,sting,0.35294117647058826
+Strawberry Swing,Sting Of The Bumblebee (LP Version),viva,bumblebee,0.09523809523809523
+Strawberry Swing,Sting Of The Bumblebee (LP Version),viva,metal,0.26666666666666666
+Strawberry Swing,Sting Of The Bumblebee (LP Version),viva,kings,0.13333333333333333
+Strawberry Swing,Sting Of The Bumblebee (LP Version),la,lp,0.21052631578947367
+Strawberry Swing,Sting Of The Bumblebee (LP Version),la,version,0.25
+Strawberry Swing,Sting Of The Bumblebee (LP Version),la,sting,0.23529411764705882
+Strawberry Swing,Sting Of The Bumblebee (LP Version),la,bumblebee,0.2
+Strawberry Swing,Sting Of The Bumblebee (LP Version),la,metal,0.9333333333333333
+Strawberry Swing,Sting Of The Bumblebee (LP Version),la,kings,0.2857142857142857
+Strawberry Swing,Sting Of The Bumblebee (LP Version),march,lp,0.1
+Strawberry Swing,Sting Of The Bumblebee (LP Version),march,version,0.25
+Strawberry Swing,Sting Of The Bumblebee (LP Version),march,sting,0.23529411764705882
+Strawberry Swing,Sting Of The Bumblebee (LP Version),march,bumblebee,0.09523809523809523
+Strawberry Swing,Sting Of The Bumblebee (LP Version),march,metal,0.26666666666666666
+Strawberry Swing,Sting Of The Bumblebee (LP Version),march,kings,0.13333333333333333
+Strawberry Swing,Sting Of The Bumblebee (LP Version),edition,lp,0.43478260869565216
+Strawberry Swing,Sting Of The Bumblebee (LP Version),edition,version,0.10526315789473684
+Strawberry Swing,Sting Of The Bumblebee (LP Version),edition,sting,0.1
+Strawberry Swing,Sting Of The Bumblebee (LP Version),edition,bumblebee,0.3333333333333333
+Strawberry Swing,Sting Of The Bumblebee (LP Version),edition,metal,0.23529411764705882
+Strawberry Swing,Sting Of The Bumblebee (LP Version),edition,kings,0.38095238095238093
+Strawberry Swing,Nervous Breakdown,strawberry,nervous,0
+Strawberry Swing,Nervous Breakdown,strawberry,breakdown,0.1
+Strawberry Swing,Nervous Breakdown,strawberry,lords,0.1111111111111111
+Strawberry Swing,Nervous Breakdown,swing,nervous,0
+Strawberry Swing,Nervous Breakdown,swing,breakdown,0.23529411764705882
+Strawberry Swing,Nervous Breakdown,swing,lords,0.26666666666666666
+Strawberry Swing,Nervous Breakdown,viva,nervous,0
+Strawberry Swing,Nervous Breakdown,viva,breakdown,0.5263157894736842
+Strawberry Swing,Nervous Breakdown,viva,lords,0.35294117647058826
+Strawberry Swing,Nervous Breakdown,la,nervous,0
+Strawberry Swing,Nervous Breakdown,la,breakdown,0.21052631578947367
+Strawberry Swing,Nervous Breakdown,la,lords,0.23529411764705882
+Strawberry Swing,Nervous Breakdown,march,nervous,0
+Strawberry Swing,Nervous Breakdown,march,breakdown,0.21052631578947367
+Strawberry Swing,Nervous Breakdown,march,lords,0.23529411764705882
+Strawberry Swing,Nervous Breakdown,edition,nervous,0
+Strawberry Swing,Nervous Breakdown,edition,breakdown,0.09090909090909091
+Strawberry Swing,Nervous Breakdown,edition,lords,0.1
+Strawberry Swing,Question And Answer (Live) (Album Version),strawberry,album,0.4
+Strawberry Swing,Question And Answer (Live) (Album Version),strawberry,version,0.11764705882352941
+Strawberry Swing,Question And Answer (Live) (Album Version),strawberry,question,0.1111111111111111
+Strawberry Swing,Question And Answer (Live) (Album Version),strawberry,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),strawberry,answer,0.13333333333333333
+Strawberry Swing,Question And Answer (Live) (Album Version),strawberry,trio,0.11764705882352941
+Strawberry Swing,Question And Answer (Live) (Album Version),strawberry,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),swing,album,0.14285714285714285
+Strawberry Swing,Question And Answer (Live) (Album Version),swing,version,0.2857142857142857
+Strawberry Swing,Question And Answer (Live) (Album Version),swing,question,0.26666666666666666
+Strawberry Swing,Question And Answer (Live) (Album Version),swing,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),swing,answer,0.3333333333333333
+Strawberry Swing,Question And Answer (Live) (Album Version),swing,trio,0.2857142857142857
+Strawberry Swing,Question And Answer (Live) (Album Version),swing,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),viva,album,0.125
+Strawberry Swing,Question And Answer (Live) (Album Version),viva,version,0.25
+Strawberry Swing,Question And Answer (Live) (Album Version),viva,question,0.5882352941176471
+Strawberry Swing,Question And Answer (Live) (Album Version),viva,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),viva,answer,0.2857142857142857
+Strawberry Swing,Question And Answer (Live) (Album Version),viva,trio,0.25
+Strawberry Swing,Question And Answer (Live) (Album Version),viva,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),la,album,0.26666666666666666
+Strawberry Swing,Question And Answer (Live) (Album Version),la,version,0.25
+Strawberry Swing,Question And Answer (Live) (Album Version),la,question,0.23529411764705882
+Strawberry Swing,Question And Answer (Live) (Album Version),la,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),la,answer,0.2857142857142857
+Strawberry Swing,Question And Answer (Live) (Album Version),la,trio,0.25
+Strawberry Swing,Question And Answer (Live) (Album Version),la,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),march,album,0.125
+Strawberry Swing,Question And Answer (Live) (Album Version),march,version,0.25
+Strawberry Swing,Question And Answer (Live) (Album Version),march,question,0.23529411764705882
+Strawberry Swing,Question And Answer (Live) (Album Version),march,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),march,answer,0.2857142857142857
+Strawberry Swing,Question And Answer (Live) (Album Version),march,trio,0.375
+Strawberry Swing,Question And Answer (Live) (Album Version),march,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),edition,album,0.5263157894736842
+Strawberry Swing,Question And Answer (Live) (Album Version),edition,version,0.10526315789473684
+Strawberry Swing,Question And Answer (Live) (Album Version),edition,question,0.1
+Strawberry Swing,Question And Answer (Live) (Album Version),edition,live,0
+Strawberry Swing,Question And Answer (Live) (Album Version),edition,answer,0.11764705882352941
+Strawberry Swing,Question And Answer (Live) (Album Version),edition,trio,0.10526315789473684
+Strawberry Swing,Question And Answer (Live) (Album Version),edition,live,0
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),strawberry,rubber,0.3333333333333333
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),strawberry,band,0.14285714285714285
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),strawberry,lp,0.3333333333333333
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),strawberry,version,0.11764705882352941
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),strawberry,rubber,0.3333333333333333
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),strawberry,band,0.14285714285714285
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),swing,rubber,0.25
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),swing,band,0.36363636363636365
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),swing,lp,0.1111111111111111
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),swing,version,0.2857142857142857
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),swing,rubber,0.25
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),swing,band,0.36363636363636365
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),viva,rubber,0.2222222222222222
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),viva,band,0.3076923076923077
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),viva,lp,0.1
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),viva,version,0.25
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),viva,rubber,0.2222222222222222
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),viva,band,0.3076923076923077
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),la,rubber,0.4444444444444444
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),la,band,0.3076923076923077
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),la,lp,0.21052631578947367
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),la,version,0.25
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),la,rubber,0.4444444444444444
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),la,band,0.3076923076923077
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),march,rubber,0.2222222222222222
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),march,band,0.3076923076923077
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),march,lp,0.1
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),march,version,0.25
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),march,rubber,0.2222222222222222
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),march,band,0.3076923076923077
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),edition,rubber,0.2
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),edition,band,0.125
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),edition,lp,0.43478260869565216
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),edition,version,0.10526315789473684
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),edition,rubber,0.2
+Strawberry Swing,Stretchin' Out (In A Rubber Band) (LP Version),edition,band,0.125
+Strawberry Swing,Ahora soy feliz,strawberry,happy,0
+Strawberry Swing,Ahora soy feliz,strawberry,federal,0.34782608695652173
+Strawberry Swing,Ahora soy feliz,strawberry,airlines,0.34782608695652173
+Strawberry Swing,Ahora soy feliz,swing,happy,0
+Strawberry Swing,Ahora soy feliz,swing,federal,0.14285714285714285
+Strawberry Swing,Ahora soy feliz,swing,airlines,0.11764705882352941
+Strawberry Swing,Ahora soy feliz,viva,happy,0
+Strawberry Swing,Ahora soy feliz,viva,federal,0.125
+Strawberry Swing,Ahora soy feliz,viva,airlines,0.10526315789473684
+Strawberry Swing,Ahora soy feliz,la,happy,0
+Strawberry Swing,Ahora soy feliz,la,federal,0.26666666666666666
+Strawberry Swing,Ahora soy feliz,la,airlines,0.2222222222222222
+Strawberry Swing,Ahora soy feliz,march,happy,0
+Strawberry Swing,Ahora soy feliz,march,federal,0.125
+Strawberry Swing,Ahora soy feliz,march,airlines,0.10526315789473684
+Strawberry Swing,Ahora soy feliz,edition,happy,0
+Strawberry Swing,Ahora soy feliz,edition,federal,0.36363636363636365
+Strawberry Swing,Ahora soy feliz,edition,airlines,0.45454545454545453
+Life In Technicolor ii,Kathelin Gray,technicolor,gray,0.25
+Life In Technicolor ii,Kathelin Gray,technicolor,song,0.26666666666666666
+Life In Technicolor ii,Kathelin Gray,technicolor,x,0.25
+Life In Technicolor ii,Kathelin Gray,ii,gray,0.25
+Life In Technicolor ii,Kathelin Gray,ii,song,0.26666666666666666
+Life In Technicolor ii,Kathelin Gray,ii,x,0.75
+Life In Technicolor ii,Kathelin Gray,life,gray,0.42857142857142855
+Life In Technicolor ii,Kathelin Gray,life,song,0.3076923076923077
+Life In Technicolor ii,Kathelin Gray,life,x,0.2857142857142857
+Life In Technicolor ii,Kathelin Gray,viva,gray,0.25
+Life In Technicolor ii,Kathelin Gray,viva,song,0.26666666666666666
+Life In Technicolor ii,Kathelin Gray,viva,x,0.25
+Life In Technicolor ii,Kathelin Gray,la,gray,0.25
+Life In Technicolor ii,Kathelin Gray,la,song,0.26666666666666666
+Life In Technicolor ii,Kathelin Gray,la,x,0.25
+Life In Technicolor ii,Kathelin Gray,march,gray,0.25
+Life In Technicolor ii,Kathelin Gray,march,song,0.26666666666666666
+Life In Technicolor ii,Kathelin Gray,march,x,0.375
+Life In Technicolor ii,Kathelin Gray,edition,gray,0.10526315789473684
+Life In Technicolor ii,Kathelin Gray,edition,song,0.1111111111111111
+Life In Technicolor ii,Kathelin Gray,edition,x,0.10526315789473684
+Life In Technicolor ii,Heave Ho,technicolor,heave,0.35294117647058826
+Life In Technicolor ii,Heave Ho,technicolor,ho,0.25
+Life In Technicolor ii,Heave Ho,technicolor,cunning,0.625
+Life In Technicolor ii,Heave Ho,technicolor,stunts,0.35294117647058826
+Life In Technicolor ii,Heave Ho,ii,heave,0.23529411764705882
+Life In Technicolor ii,Heave Ho,ii,ho,0.25
+Life In Technicolor ii,Heave Ho,ii,cunning,0.25
+Life In Technicolor ii,Heave Ho,ii,stunts,0.23529411764705882
+Life In Technicolor ii,Heave Ho,life,heave,0.26666666666666666
+Life In Technicolor ii,Heave Ho,life,ho,0.2857142857142857
+Life In Technicolor ii,Heave Ho,life,cunning,0.2857142857142857
+Life In Technicolor ii,Heave Ho,life,stunts,0.26666666666666666
+Life In Technicolor ii,Heave Ho,viva,heave,0.47058823529411764
+Life In Technicolor ii,Heave Ho,viva,ho,0.25
+Life In Technicolor ii,Heave Ho,viva,cunning,0.375
+Life In Technicolor ii,Heave Ho,viva,stunts,0.5882352941176471
+Life In Technicolor ii,Heave Ho,la,heave,0.23529411764705882
+Life In Technicolor ii,Heave Ho,la,ho,0.875
+Life In Technicolor ii,Heave Ho,la,cunning,0.25
+Life In Technicolor ii,Heave Ho,la,stunts,0.23529411764705882
+Life In Technicolor ii,Heave Ho,march,heave,0.23529411764705882
+Life In Technicolor ii,Heave Ho,march,ho,0.25
+Life In Technicolor ii,Heave Ho,march,cunning,0.25
+Life In Technicolor ii,Heave Ho,march,stunts,0.23529411764705882
+Life In Technicolor ii,Heave Ho,edition,heave,0.1
+Life In Technicolor ii,Heave Ho,edition,ho,0.2222222222222222
+Life In Technicolor ii,Heave Ho,edition,cunning,0.10526315789473684
+Life In Technicolor ii,Heave Ho,edition,stunts,0.1
+Life In Technicolor ii,Driving Home For Christmas,technicolor,driving,0.3
+Life In Technicolor ii,Driving Home For Christmas,technicolor,home,0.11764705882352941
+Life In Technicolor ii,Driving Home For Christmas,technicolor,christmas,0.26666666666666666
+Life In Technicolor ii,Driving Home For Christmas,technicolor,hell,0.14285714285714285
+Life In Technicolor ii,Driving Home For Christmas,technicolor,part,0.3333333333333333
+Life In Technicolor ii,Driving Home For Christmas,technicolor,road,0.13333333333333333
+Life In Technicolor ii,Driving Home For Christmas,ii,driving,0.2
+Life In Technicolor ii,Driving Home For Christmas,ii,home,0.11764705882352941
+Life In Technicolor ii,Driving Home For Christmas,ii,christmas,0.4
+Life In Technicolor ii,Driving Home For Christmas,ii,hell,0.14285714285714285
+Life In Technicolor ii,Driving Home For Christmas,ii,part,0.3333333333333333
+Life In Technicolor ii,Driving Home For Christmas,ii,road,0.13333333333333333
+Life In Technicolor ii,Driving Home For Christmas,life,driving,0.2222222222222222
+Life In Technicolor ii,Driving Home For Christmas,life,home,0.13333333333333333
+Life In Technicolor ii,Driving Home For Christmas,life,christmas,0.3076923076923077
+Life In Technicolor ii,Driving Home For Christmas,life,hell,0.16666666666666666
+Life In Technicolor ii,Driving Home For Christmas,life,part,0.4
+Life In Technicolor ii,Driving Home For Christmas,life,road,0.15384615384615385
+Life In Technicolor ii,Driving Home For Christmas,viva,driving,0.5
+Life In Technicolor ii,Driving Home For Christmas,viva,home,0.11764705882352941
+Life In Technicolor ii,Driving Home For Christmas,viva,christmas,0.26666666666666666
+Life In Technicolor ii,Driving Home For Christmas,viva,hell,0.14285714285714285
+Life In Technicolor ii,Driving Home For Christmas,viva,part,0.3333333333333333
+Life In Technicolor ii,Driving Home For Christmas,viva,road,0.13333333333333333
+Life In Technicolor ii,Driving Home For Christmas,la,driving,0.2
+Life In Technicolor ii,Driving Home For Christmas,la,home,0.25
+Life In Technicolor ii,Driving Home For Christmas,la,christmas,0.26666666666666666
+Life In Technicolor ii,Driving Home For Christmas,la,hell,0.3076923076923077
+Life In Technicolor ii,Driving Home For Christmas,la,part,0.6666666666666666
+Life In Technicolor ii,Driving Home For Christmas,la,road,0.2857142857142857
+Life In Technicolor ii,Driving Home For Christmas,march,driving,0.2
+Life In Technicolor ii,Driving Home For Christmas,march,home,0.11764705882352941
+Life In Technicolor ii,Driving Home For Christmas,march,christmas,0.6666666666666666
+Life In Technicolor ii,Driving Home For Christmas,march,hell,0.14285714285714285
+Life In Technicolor ii,Driving Home For Christmas,march,part,0.3333333333333333
+Life In Technicolor ii,Driving Home For Christmas,march,road,0.13333333333333333
+Life In Technicolor ii,Driving Home For Christmas,edition,driving,0.08695652173913043
+Life In Technicolor ii,Driving Home For Christmas,edition,home,0.3
+Life In Technicolor ii,Driving Home For Christmas,edition,christmas,0.1111111111111111
+Life In Technicolor ii,Driving Home For Christmas,edition,hell,0.35294117647058826
+Life In Technicolor ii,Driving Home For Christmas,edition,part,0.13333333333333333
+Life In Technicolor ii,Driving Home For Christmas,edition,road,0.5555555555555556
+Life In Technicolor ii,I Want You Back,technicolor,want,0.25
+Life In Technicolor ii,I Want You Back,technicolor,back,0.14285714285714285
+Life In Technicolor ii,I Want You Back,technicolor,sweet,0.125
+Life In Technicolor ii,I Want You Back,technicolor,children,0.14285714285714285
+Life In Technicolor ii,I Want You Back,technicolor,mine,0.13333333333333333
+Life In Technicolor ii,I Want You Back,ii,want,0.25
+Life In Technicolor ii,I Want You Back,ii,back,0.14285714285714285
+Life In Technicolor ii,I Want You Back,ii,sweet,0.125
+Life In Technicolor ii,I Want You Back,ii,children,0.14285714285714285
+Life In Technicolor ii,I Want You Back,ii,mine,0.13333333333333333
+Life In Technicolor ii,I Want You Back,life,want,0.5714285714285714
+Life In Technicolor ii,I Want You Back,life,back,0.16666666666666666
+Life In Technicolor ii,I Want You Back,life,sweet,0.14285714285714285
+Life In Technicolor ii,I Want You Back,life,children,0.16666666666666666
+Life In Technicolor ii,I Want You Back,life,mine,0.15384615384615385
+Life In Technicolor ii,I Want You Back,viva,want,0.25
+Life In Technicolor ii,I Want You Back,viva,back,0.14285714285714285
+Life In Technicolor ii,I Want You Back,viva,sweet,0.125
+Life In Technicolor ii,I Want You Back,viva,children,0.14285714285714285
+Life In Technicolor ii,I Want You Back,viva,mine,0.13333333333333333
+Life In Technicolor ii,I Want You Back,la,want,0.25
+Life In Technicolor ii,I Want You Back,la,back,0.3076923076923077
+Life In Technicolor ii,I Want You Back,la,sweet,0.26666666666666666
+Life In Technicolor ii,I Want You Back,la,children,0.3076923076923077
+Life In Technicolor ii,I Want You Back,la,mine,0.2857142857142857
+Life In Technicolor ii,I Want You Back,march,want,0.25
+Life In Technicolor ii,I Want You Back,march,back,0.14285714285714285
+Life In Technicolor ii,I Want You Back,march,sweet,0.125
+Life In Technicolor ii,I Want You Back,march,children,0.14285714285714285
+Life In Technicolor ii,I Want You Back,march,mine,0.13333333333333333
+Life In Technicolor ii,I Want You Back,edition,want,0.10526315789473684
+Life In Technicolor ii,I Want You Back,edition,back,0.23529411764705882
+Life In Technicolor ii,I Want You Back,edition,sweet,0.36363636363636365
+Life In Technicolor ii,I Want You Back,edition,children,0.4
+Life In Technicolor ii,I Want You Back,edition,mine,0.5555555555555556
+Life In Technicolor ii,Ort,technicolor,place,0.14285714285714285
+Life In Technicolor ii,Ort,technicolor,cunning,0.625
+Life In Technicolor ii,Ort,technicolor,stunts,0.35294117647058826
+Life In Technicolor ii,Ort,ii,place,0.14285714285714285
+Life In Technicolor ii,Ort,ii,cunning,0.25
+Life In Technicolor ii,Ort,ii,stunts,0.23529411764705882
+Life In Technicolor ii,Ort,life,place,0.16666666666666666
+Life In Technicolor ii,Ort,life,cunning,0.2857142857142857
+Life In Technicolor ii,Ort,life,stunts,0.26666666666666666
+Life In Technicolor ii,Ort,viva,place,0.14285714285714285
+Life In Technicolor ii,Ort,viva,cunning,0.375
+Life In Technicolor ii,Ort,viva,stunts,0.5882352941176471
+Life In Technicolor ii,Ort,la,place,0.3076923076923077
+Life In Technicolor ii,Ort,la,cunning,0.25
+Life In Technicolor ii,Ort,la,stunts,0.23529411764705882
+Life In Technicolor ii,Ort,march,place,0.14285714285714285
+Life In Technicolor ii,Ort,march,cunning,0.25
+Life In Technicolor ii,Ort,march,stunts,0.23529411764705882
+Life In Technicolor ii,Ort,edition,place,0.35294117647058826
+Life In Technicolor ii,Ort,edition,cunning,0.10526315789473684
+Life In Technicolor ii,Ort,edition,stunts,0.1
+Life In Technicolor ii,Don't Leave,technicolor,leave,0.26666666666666666
+Life In Technicolor ii,Don't Leave,technicolor,insomnia,0.23529411764705882
+Life In Technicolor ii,Don't Leave,technicolor,best,0.375
+Life In Technicolor ii,Don't Leave,ii,leave,0.4
+Life In Technicolor ii,Don't Leave,ii,insomnia,0.23529411764705882
+Life In Technicolor ii,Don't Leave,ii,best,0.25
+Life In Technicolor ii,Don't Leave,life,leave,0.3076923076923077
+Life In Technicolor ii,Don't Leave,life,insomnia,0.5333333333333333
+Life In Technicolor ii,Don't Leave,life,best,0.2857142857142857
+Life In Technicolor ii,Don't Leave,viva,leave,0.26666666666666666
+Life In Technicolor ii,Don't Leave,viva,insomnia,0.23529411764705882
+Life In Technicolor ii,Don't Leave,viva,best,0.625
+Life In Technicolor ii,Don't Leave,la,leave,0.26666666666666666
+Life In Technicolor ii,Don't Leave,la,insomnia,0.23529411764705882
+Life In Technicolor ii,Don't Leave,la,best,0.25
+Life In Technicolor ii,Don't Leave,march,leave,0.6666666666666666
+Life In Technicolor ii,Don't Leave,march,insomnia,0.23529411764705882
+Life In Technicolor ii,Don't Leave,march,best,0.25
+Life In Technicolor ii,Don't Leave,edition,leave,0.1111111111111111
+Life In Technicolor ii,Don't Leave,edition,insomnia,0.1
+Life In Technicolor ii,Don't Leave,edition,best,0.10526315789473684
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),technicolor,lp,0.1
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),technicolor,version,0.25
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),technicolor,sting,0.47058823529411764
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),technicolor,bumblebee,0.09523809523809523
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),technicolor,metal,0.26666666666666666
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),technicolor,kings,0.13333333333333333
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),ii,lp,0.1
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),ii,version,0.25
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),ii,sting,0.23529411764705882
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),ii,bumblebee,0.09523809523809523
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),ii,metal,0.26666666666666666
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),ii,kings,0.13333333333333333
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),life,lp,0.1111111111111111
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),life,version,0.2857142857142857
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),life,sting,0.26666666666666666
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),life,bumblebee,0.10526315789473684
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),life,metal,0.3076923076923077
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),life,kings,0.15384615384615385
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),viva,lp,0.1
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),viva,version,0.25
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),viva,sting,0.35294117647058826
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),viva,bumblebee,0.09523809523809523
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),viva,metal,0.26666666666666666
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),viva,kings,0.13333333333333333
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),la,lp,0.21052631578947367
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),la,version,0.25
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),la,sting,0.23529411764705882
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),la,bumblebee,0.2
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),la,metal,0.9333333333333333
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),la,kings,0.2857142857142857
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),march,lp,0.1
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),march,version,0.25
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),march,sting,0.23529411764705882
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),march,bumblebee,0.09523809523809523
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),march,metal,0.26666666666666666
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),march,kings,0.13333333333333333
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),edition,lp,0.43478260869565216
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),edition,version,0.10526315789473684
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),edition,sting,0.1
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),edition,bumblebee,0.3333333333333333
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),edition,metal,0.23529411764705882
+Life In Technicolor ii,Sting Of The Bumblebee (LP Version),edition,kings,0.38095238095238093
+Life In Technicolor ii,Nervous Breakdown,technicolor,nervous,0
+Life In Technicolor ii,Nervous Breakdown,technicolor,breakdown,0.3157894736842105
+Life In Technicolor ii,Nervous Breakdown,technicolor,lords,0.47058823529411764
+Life In Technicolor ii,Nervous Breakdown,ii,nervous,0
+Life In Technicolor ii,Nervous Breakdown,ii,breakdown,0.21052631578947367
+Life In Technicolor ii,Nervous Breakdown,ii,lords,0.23529411764705882
+Life In Technicolor ii,Nervous Breakdown,life,nervous,0
+Life In Technicolor ii,Nervous Breakdown,life,breakdown,0.23529411764705882
+Life In Technicolor ii,Nervous Breakdown,life,lords,0.26666666666666666
+Life In Technicolor ii,Nervous Breakdown,viva,nervous,0
+Life In Technicolor ii,Nervous Breakdown,viva,breakdown,0.5263157894736842
+Life In Technicolor ii,Nervous Breakdown,viva,lords,0.35294117647058826
+Life In Technicolor ii,Nervous Breakdown,la,nervous,0
+Life In Technicolor ii,Nervous Breakdown,la,breakdown,0.21052631578947367
+Life In Technicolor ii,Nervous Breakdown,la,lords,0.23529411764705882
+Life In Technicolor ii,Nervous Breakdown,march,nervous,0
+Life In Technicolor ii,Nervous Breakdown,march,breakdown,0.21052631578947367
+Life In Technicolor ii,Nervous Breakdown,march,lords,0.23529411764705882
+Life In Technicolor ii,Nervous Breakdown,edition,nervous,0
+Life In Technicolor ii,Nervous Breakdown,edition,breakdown,0.09090909090909091
+Life In Technicolor ii,Nervous Breakdown,edition,lords,0.1
+Life In Technicolor ii,Question And Answer (Live) (Album Version),technicolor,album,0.125
+Life In Technicolor ii,Question And Answer (Live) (Album Version),technicolor,version,0.25
+Life In Technicolor ii,Question And Answer (Live) (Album Version),technicolor,question,0.35294117647058826
+Life In Technicolor ii,Question And Answer (Live) (Album Version),technicolor,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),technicolor,answer,0.2857142857142857
+Life In Technicolor ii,Question And Answer (Live) (Album Version),technicolor,trio,0.25
+Life In Technicolor ii,Question And Answer (Live) (Album Version),technicolor,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),ii,album,0.125
+Life In Technicolor ii,Question And Answer (Live) (Album Version),ii,version,0.25
+Life In Technicolor ii,Question And Answer (Live) (Album Version),ii,question,0.23529411764705882
+Life In Technicolor ii,Question And Answer (Live) (Album Version),ii,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),ii,answer,0.2857142857142857
+Life In Technicolor ii,Question And Answer (Live) (Album Version),ii,trio,0.875
+Life In Technicolor ii,Question And Answer (Live) (Album Version),ii,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),life,album,0.14285714285714285
+Life In Technicolor ii,Question And Answer (Live) (Album Version),life,version,0.2857142857142857
+Life In Technicolor ii,Question And Answer (Live) (Album Version),life,question,0.26666666666666666
+Life In Technicolor ii,Question And Answer (Live) (Album Version),life,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),life,answer,0.3333333333333333
+Life In Technicolor ii,Question And Answer (Live) (Album Version),life,trio,0.2857142857142857
+Life In Technicolor ii,Question And Answer (Live) (Album Version),life,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),viva,album,0.125
+Life In Technicolor ii,Question And Answer (Live) (Album Version),viva,version,0.25
+Life In Technicolor ii,Question And Answer (Live) (Album Version),viva,question,0.5882352941176471
+Life In Technicolor ii,Question And Answer (Live) (Album Version),viva,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),viva,answer,0.2857142857142857
+Life In Technicolor ii,Question And Answer (Live) (Album Version),viva,trio,0.25
+Life In Technicolor ii,Question And Answer (Live) (Album Version),viva,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),la,album,0.26666666666666666
+Life In Technicolor ii,Question And Answer (Live) (Album Version),la,version,0.25
+Life In Technicolor ii,Question And Answer (Live) (Album Version),la,question,0.23529411764705882
+Life In Technicolor ii,Question And Answer (Live) (Album Version),la,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),la,answer,0.2857142857142857
+Life In Technicolor ii,Question And Answer (Live) (Album Version),la,trio,0.25
+Life In Technicolor ii,Question And Answer (Live) (Album Version),la,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),march,album,0.125
+Life In Technicolor ii,Question And Answer (Live) (Album Version),march,version,0.25
+Life In Technicolor ii,Question And Answer (Live) (Album Version),march,question,0.23529411764705882
+Life In Technicolor ii,Question And Answer (Live) (Album Version),march,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),march,answer,0.2857142857142857
+Life In Technicolor ii,Question And Answer (Live) (Album Version),march,trio,0.375
+Life In Technicolor ii,Question And Answer (Live) (Album Version),march,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),edition,album,0.5263157894736842
+Life In Technicolor ii,Question And Answer (Live) (Album Version),edition,version,0.10526315789473684
+Life In Technicolor ii,Question And Answer (Live) (Album Version),edition,question,0.1
+Life In Technicolor ii,Question And Answer (Live) (Album Version),edition,live,0
+Life In Technicolor ii,Question And Answer (Live) (Album Version),edition,answer,0.11764705882352941
+Life In Technicolor ii,Question And Answer (Live) (Album Version),edition,trio,0.10526315789473684
+Life In Technicolor ii,Question And Answer (Live) (Album Version),edition,live,0
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,rubber,0.2222222222222222
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,lp,0.1
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,version,0.25
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,rubber,0.2222222222222222
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),technicolor,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),ii,rubber,0.2222222222222222
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),ii,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),ii,lp,0.1
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),ii,version,0.25
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),ii,rubber,0.2222222222222222
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),ii,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),life,rubber,0.25
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),life,band,0.36363636363636365
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),life,lp,0.1111111111111111
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),life,version,0.2857142857142857
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),life,rubber,0.25
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),life,band,0.36363636363636365
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),viva,rubber,0.2222222222222222
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),viva,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),viva,lp,0.1
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),viva,version,0.25
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),viva,rubber,0.2222222222222222
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),viva,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),la,rubber,0.4444444444444444
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),la,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),la,lp,0.21052631578947367
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),la,version,0.25
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),la,rubber,0.4444444444444444
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),la,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),march,rubber,0.2222222222222222
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),march,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),march,lp,0.1
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),march,version,0.25
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),march,rubber,0.2222222222222222
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),march,band,0.3076923076923077
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),edition,rubber,0.2
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),edition,band,0.125
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),edition,lp,0.43478260869565216
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),edition,version,0.10526315789473684
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),edition,rubber,0.2
+Life In Technicolor ii,Stretchin' Out (In A Rubber Band) (LP Version),edition,band,0.125
+Life In Technicolor ii,Ahora soy feliz,technicolor,happy,0
+Life In Technicolor ii,Ahora soy feliz,technicolor,federal,0.125
+Life In Technicolor ii,Ahora soy feliz,technicolor,airlines,0.10526315789473684
+Life In Technicolor ii,Ahora soy feliz,ii,happy,0
+Life In Technicolor ii,Ahora soy feliz,ii,federal,0.125
+Life In Technicolor ii,Ahora soy feliz,ii,airlines,0.10526315789473684
+Life In Technicolor ii,Ahora soy feliz,life,happy,0
+Life In Technicolor ii,Ahora soy feliz,life,federal,0.14285714285714285
+Life In Technicolor ii,Ahora soy feliz,life,airlines,0.11764705882352941
+Life In Technicolor ii,Ahora soy feliz,viva,happy,0
+Life In Technicolor ii,Ahora soy feliz,viva,federal,0.125
+Life In Technicolor ii,Ahora soy feliz,viva,airlines,0.10526315789473684
+Life In Technicolor ii,Ahora soy feliz,la,happy,0
+Life In Technicolor ii,Ahora soy feliz,la,federal,0.26666666666666666
+Life In Technicolor ii,Ahora soy feliz,la,airlines,0.2222222222222222
+Life In Technicolor ii,Ahora soy feliz,march,happy,0
+Life In Technicolor ii,Ahora soy feliz,march,federal,0.125
+Life In Technicolor ii,Ahora soy feliz,march,airlines,0.10526315789473684
+Life In Technicolor ii,Ahora soy feliz,edition,happy,0
+Life In Technicolor ii,Ahora soy feliz,edition,federal,0.36363636363636365
+Life In Technicolor ii,Ahora soy feliz,edition,airlines,0.45454545454545453
+The Scientist,Kathelin Gray,scientist,gray,0.15384615384615385
+The Scientist,Kathelin Gray,scientist,song,0.16666666666666666
+The Scientist,Kathelin Gray,scientist,x,0.15384615384615385
+The Scientist,Kathelin Gray,scientist,gray,0.15384615384615385
+The Scientist,Kathelin Gray,scientist,song,0.16666666666666666
+The Scientist,Kathelin Gray,scientist,x,0.15384615384615385
+The Scientist,Heave Ho,scientist,heave,0.14285714285714285
+The Scientist,Heave Ho,scientist,ho,0.3333333333333333
+The Scientist,Heave Ho,scientist,cunning,0.15384615384615385
+The Scientist,Heave Ho,scientist,stunts,0.14285714285714285
+The Scientist,Heave Ho,scientist,heave,0.14285714285714285
+The Scientist,Heave Ho,scientist,ho,0.3333333333333333
+The Scientist,Heave Ho,scientist,cunning,0.15384615384615385
+The Scientist,Heave Ho,scientist,stunts,0.14285714285714285
+The Scientist,Driving Home For Christmas,scientist,driving,0.11764705882352941
+The Scientist,Driving Home For Christmas,scientist,home,0.375
+The Scientist,Driving Home For Christmas,scientist,christmas,0.16666666666666666
+The Scientist,Driving Home For Christmas,scientist,hell,0.46153846153846156
+The Scientist,Driving Home For Christmas,scientist,part,0.2222222222222222
+The Scientist,Driving Home For Christmas,scientist,road,0.5333333333333333
+The Scientist,Driving Home For Christmas,scientist,driving,0.11764705882352941
+The Scientist,Driving Home For Christmas,scientist,home,0.375
+The Scientist,Driving Home For Christmas,scientist,christmas,0.16666666666666666
+The Scientist,Driving Home For Christmas,scientist,hell,0.46153846153846156
+The Scientist,Driving Home For Christmas,scientist,part,0.2222222222222222
+The Scientist,Driving Home For Christmas,scientist,road,0.5333333333333333
+The Scientist,I Want You Back,scientist,want,0.15384615384615385
+The Scientist,I Want You Back,scientist,back,0.36363636363636365
+The Scientist,I Want You Back,scientist,sweet,0.631578947368421
+The Scientist,I Want You Back,scientist,children,0.7058823529411765
+The Scientist,I Want You Back,scientist,mine,0.5333333333333333
+The Scientist,I Want You Back,scientist,want,0.15384615384615385
+The Scientist,I Want You Back,scientist,back,0.36363636363636365
+The Scientist,I Want You Back,scientist,sweet,0.631578947368421
+The Scientist,I Want You Back,scientist,children,0.7058823529411765
+The Scientist,I Want You Back,scientist,mine,0.5333333333333333
+The Scientist,Ort,scientist,place,0.46153846153846156
+The Scientist,Ort,scientist,cunning,0.15384615384615385
+The Scientist,Ort,scientist,stunts,0.14285714285714285
+The Scientist,Ort,scientist,place,0.46153846153846156
+The Scientist,Ort,scientist,cunning,0.15384615384615385
+The Scientist,Ort,scientist,stunts,0.14285714285714285
+The Scientist,Don't Leave,scientist,leave,0.16666666666666666
+The Scientist,Don't Leave,scientist,insomnia,0.14285714285714285
+The Scientist,Don't Leave,scientist,best,0.15384615384615385
+The Scientist,Don't Leave,scientist,leave,0.16666666666666666
+The Scientist,Don't Leave,scientist,insomnia,0.14285714285714285
+The Scientist,Don't Leave,scientist,best,0.15384615384615385
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,lp,0.4
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,version,0.15384615384615385
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,sting,0.14285714285714285
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,bumblebee,0.5714285714285714
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,metal,0.36363636363636365
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,kings,0.6666666666666666
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,lp,0.4
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,version,0.15384615384615385
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,sting,0.14285714285714285
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,bumblebee,0.5714285714285714
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,metal,0.36363636363636365
+The Scientist,Sting Of The Bumblebee (LP Version),scientist,kings,0.6666666666666666
+The Scientist,Nervous Breakdown,scientist,nervous,0
+The Scientist,Nervous Breakdown,scientist,breakdown,0.125
+The Scientist,Nervous Breakdown,scientist,lords,0.14285714285714285
+The Scientist,Nervous Breakdown,scientist,nervous,0
+The Scientist,Nervous Breakdown,scientist,breakdown,0.125
+The Scientist,Nervous Breakdown,scientist,lords,0.14285714285714285
+The Scientist,Question And Answer (Live) (Album Version),scientist,album,0.5
+The Scientist,Question And Answer (Live) (Album Version),scientist,version,0.15384615384615385
+The Scientist,Question And Answer (Live) (Album Version),scientist,question,0.14285714285714285
+The Scientist,Question And Answer (Live) (Album Version),scientist,live,0
+The Scientist,Question And Answer (Live) (Album Version),scientist,answer,0.18181818181818182
+The Scientist,Question And Answer (Live) (Album Version),scientist,trio,0.15384615384615385
+The Scientist,Question And Answer (Live) (Album Version),scientist,live,0
+The Scientist,Question And Answer (Live) (Album Version),scientist,album,0.5
+The Scientist,Question And Answer (Live) (Album Version),scientist,version,0.15384615384615385
+The Scientist,Question And Answer (Live) (Album Version),scientist,question,0.14285714285714285
+The Scientist,Question And Answer (Live) (Album Version),scientist,live,0
+The Scientist,Question And Answer (Live) (Album Version),scientist,answer,0.18181818181818182
+The Scientist,Question And Answer (Live) (Album Version),scientist,trio,0.15384615384615385
+The Scientist,Question And Answer (Live) (Album Version),scientist,live,0
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,rubber,0.2857142857142857
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,band,0.2
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,lp,0.4
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,version,0.15384615384615385
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,rubber,0.2857142857142857
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,band,0.2
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,rubber,0.2857142857142857
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,band,0.2
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,lp,0.4
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,version,0.15384615384615385
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,rubber,0.2857142857142857
+The Scientist,Stretchin' Out (In A Rubber Band) (LP Version),scientist,band,0.2
+The Scientist,Ahora soy feliz,scientist,happy,0
+The Scientist,Ahora soy feliz,scientist,federal,0.631578947368421
+The Scientist,Ahora soy feliz,scientist,airlines,0.42105263157894735
+The Scientist,Ahora soy feliz,scientist,happy,0
+The Scientist,Ahora soy feliz,scientist,federal,0.631578947368421
+The Scientist,Ahora soy feliz,scientist,airlines,0.42105263157894735
+In My Place,Kathelin Gray,place,gray,0.14285714285714285
+In My Place,Kathelin Gray,place,song,0.15384615384615385
+In My Place,Kathelin Gray,place,x,0.14285714285714285
+In My Place,Kathelin Gray,rush,gray,0.23529411764705882
+In My Place,Kathelin Gray,rush,song,0.25
+In My Place,Kathelin Gray,rush,x,0.23529411764705882
+In My Place,Kathelin Gray,head,gray,0.13333333333333333
+In My Place,Kathelin Gray,head,song,0.14285714285714285
+In My Place,Kathelin Gray,head,x,0.13333333333333333
+In My Place,Kathelin Gray,blood,gray,0.25
+In My Place,Kathelin Gray,blood,song,0.26666666666666666
+In My Place,Kathelin Gray,blood,x,0.25
+In My Place,Heave Ho,place,heave,0.13333333333333333
+In My Place,Heave Ho,place,ho,0.3076923076923077
+In My Place,Heave Ho,place,cunning,0.14285714285714285
+In My Place,Heave Ho,place,stunts,0.13333333333333333
+In My Place,Heave Ho,rush,heave,0.4444444444444444
+In My Place,Heave Ho,rush,ho,0.23529411764705882
+In My Place,Heave Ho,rush,cunning,0.35294117647058826
+In My Place,Heave Ho,rush,stunts,0.6666666666666666
+In My Place,Heave Ho,head,heave,0.125
+In My Place,Heave Ho,head,ho,0.2857142857142857
+In My Place,Heave Ho,head,cunning,0.13333333333333333
+In My Place,Heave Ho,head,stunts,0.125
+In My Place,Heave Ho,blood,heave,0.23529411764705882
+In My Place,Heave Ho,blood,ho,0.5
+In My Place,Heave Ho,blood,cunning,0.25
+In My Place,Heave Ho,blood,stunts,0.23529411764705882
+In My Place,Driving Home For Christmas,place,driving,0.1111111111111111
+In My Place,Driving Home For Christmas,place,home,0.6666666666666666
+In My Place,Driving Home For Christmas,place,christmas,0.15384615384615385
+In My Place,Driving Home For Christmas,place,hell,0.6666666666666666
+In My Place,Driving Home For Christmas,place,part,0.2
+In My Place,Driving Home For Christmas,place,road,0.46153846153846156
+In My Place,Driving Home For Christmas,rush,driving,0.7619047619047619
+In My Place,Driving Home For Christmas,rush,home,0.1111111111111111
+In My Place,Driving Home For Christmas,rush,christmas,0.25
+In My Place,Driving Home For Christmas,rush,hell,0.13333333333333333
+In My Place,Driving Home For Christmas,rush,part,0.3076923076923077
+In My Place,Driving Home For Christmas,rush,road,0.125
+In My Place,Driving Home For Christmas,head,driving,0.10526315789473684
+In My Place,Driving Home For Christmas,head,home,0.25
+In My Place,Driving Home For Christmas,head,christmas,0.14285714285714285
+In My Place,Driving Home For Christmas,head,hell,0.3076923076923077
+In My Place,Driving Home For Christmas,head,part,0.18181818181818182
+In My Place,Driving Home For Christmas,head,road,0.2857142857142857
+In My Place,Driving Home For Christmas,blood,driving,0.2
+In My Place,Driving Home For Christmas,blood,home,0.25
+In My Place,Driving Home For Christmas,blood,christmas,0.26666666666666666
+In My Place,Driving Home For Christmas,blood,hell,0.3076923076923077
+In My Place,Driving Home For Christmas,blood,part,0.6666666666666666
+In My Place,Driving Home For Christmas,blood,road,0.2857142857142857
+In My Place,I Want You Back,place,want,0.14285714285714285
+In My Place,I Want You Back,place,back,0.3333333333333333
+In My Place,I Want You Back,place,sweet,0.375
+In My Place,I Want You Back,place,children,0.42857142857142855
+In My Place,I Want You Back,place,mine,0.46153846153846156
+In My Place,I Want You Back,rush,want,0.23529411764705882
+In My Place,I Want You Back,rush,back,0.13333333333333333
+In My Place,I Want You Back,rush,sweet,0.11764705882352941
+In My Place,I Want You Back,rush,children,0.13333333333333333
+In My Place,I Want You Back,rush,mine,0.125
+In My Place,I Want You Back,head,want,0.13333333333333333
+In My Place,I Want You Back,head,back,0.7692307692307693
+In My Place,I Want You Back,head,sweet,0.26666666666666666
+In My Place,I Want You Back,head,children,0.3076923076923077
+In My Place,I Want You Back,head,mine,0.2857142857142857
+In My Place,I Want You Back,blood,want,0.25
+In My Place,I Want You Back,blood,back,0.3076923076923077
+In My Place,I Want You Back,blood,sweet,0.26666666666666666
+In My Place,I Want You Back,blood,children,0.3076923076923077
+In My Place,I Want You Back,blood,mine,0.2857142857142857
+In My Place,Ort,place,place,1.0
+In My Place,Ort,place,cunning,0.14285714285714285
+In My Place,Ort,place,stunts,0.13333333333333333
+In My Place,Ort,rush,place,0.13333333333333333
+In My Place,Ort,rush,cunning,0.35294117647058826
+In My Place,Ort,rush,stunts,0.6666666666666666
+In My Place,Ort,head,place,0.3076923076923077
+In My Place,Ort,head,cunning,0.13333333333333333
+In My Place,Ort,head,stunts,0.125
+In My Place,Ort,blood,place,0.3076923076923077
+In My Place,Ort,blood,cunning,0.25
+In My Place,Ort,blood,stunts,0.23529411764705882
+In My Place,Don't Leave,place,leave,0.15384615384615385
+In My Place,Don't Leave,place,insomnia,0.13333333333333333
+In My Place,Don't Leave,place,best,0.14285714285714285
+In My Place,Don't Leave,rush,leave,0.25
+In My Place,Don't Leave,rush,insomnia,0.2222222222222222
+In My Place,Don't Leave,rush,best,0.5882352941176471
+In My Place,Don't Leave,head,leave,0.14285714285714285
+In My Place,Don't Leave,head,insomnia,0.125
+In My Place,Don't Leave,head,best,0.13333333333333333
+In My Place,Don't Leave,blood,leave,0.26666666666666666
+In My Place,Don't Leave,blood,insomnia,0.23529411764705882
+In My Place,Don't Leave,blood,best,0.25
+In My Place,Sting Of The Bumblebee (LP Version),place,lp,0.3333333333333333
+In My Place,Sting Of The Bumblebee (LP Version),place,version,0.14285714285714285
+In My Place,Sting Of The Bumblebee (LP Version),place,sting,0.13333333333333333
+In My Place,Sting Of The Bumblebee (LP Version),place,bumblebee,0.3157894736842105
+In My Place,Sting Of The Bumblebee (LP Version),place,metal,0.3333333333333333
+In My Place,Sting Of The Bumblebee (LP Version),place,kings,0.4
+In My Place,Sting Of The Bumblebee (LP Version),rush,lp,0.09523809523809523
+In My Place,Sting Of The Bumblebee (LP Version),rush,version,0.23529411764705882
+In My Place,Sting Of The Bumblebee (LP Version),rush,sting,0.3333333333333333
+In My Place,Sting Of The Bumblebee (LP Version),rush,bumblebee,0.09090909090909091
+In My Place,Sting Of The Bumblebee (LP Version),rush,metal,0.25
+In My Place,Sting Of The Bumblebee (LP Version),rush,kings,0.125
+In My Place,Sting Of The Bumblebee (LP Version),head,lp,0.21052631578947367
+In My Place,Sting Of The Bumblebee (LP Version),head,version,0.13333333333333333
+In My Place,Sting Of The Bumblebee (LP Version),head,sting,0.125
+In My Place,Sting Of The Bumblebee (LP Version),head,bumblebee,0.2
+In My Place,Sting Of The Bumblebee (LP Version),head,metal,0.3076923076923077
+In My Place,Sting Of The Bumblebee (LP Version),head,kings,0.2857142857142857
+In My Place,Sting Of The Bumblebee (LP Version),blood,lp,0.21052631578947367
+In My Place,Sting Of The Bumblebee (LP Version),blood,version,0.25
+In My Place,Sting Of The Bumblebee (LP Version),blood,sting,0.23529411764705882
+In My Place,Sting Of The Bumblebee (LP Version),blood,bumblebee,0.2
+In My Place,Sting Of The Bumblebee (LP Version),blood,metal,0.5333333333333333
+In My Place,Sting Of The Bumblebee (LP Version),blood,kings,0.2857142857142857
+In My Place,Nervous Breakdown,place,nervous,0
+In My Place,Nervous Breakdown,place,breakdown,0.11764705882352941
+In My Place,Nervous Breakdown,place,lords,0.13333333333333333
+In My Place,Nervous Breakdown,rush,nervous,0
+In My Place,Nervous Breakdown,rush,breakdown,0.7
+In My Place,Nervous Breakdown,rush,lords,0.3333333333333333
+In My Place,Nervous Breakdown,head,nervous,0
+In My Place,Nervous Breakdown,head,breakdown,0.1111111111111111
+In My Place,Nervous Breakdown,head,lords,0.125
+In My Place,Nervous Breakdown,blood,nervous,0
+In My Place,Nervous Breakdown,blood,breakdown,0.21052631578947367
+In My Place,Nervous Breakdown,blood,lords,0.23529411764705882
+In My Place,Question And Answer (Live) (Album Version),place,album,0.42857142857142855
+In My Place,Question And Answer (Live) (Album Version),place,version,0.14285714285714285
+In My Place,Question And Answer (Live) (Album Version),place,question,0.13333333333333333
+In My Place,Question And Answer (Live) (Album Version),place,live,0
+In My Place,Question And Answer (Live) (Album Version),place,answer,0.16666666666666666
+In My Place,Question And Answer (Live) (Album Version),place,trio,0.14285714285714285
+In My Place,Question And Answer (Live) (Album Version),place,live,0
+In My Place,Question And Answer (Live) (Album Version),rush,album,0.11764705882352941
+In My Place,Question And Answer (Live) (Album Version),rush,version,0.23529411764705882
+In My Place,Question And Answer (Live) (Album Version),rush,question,0.5555555555555556
+In My Place,Question And Answer (Live) (Album Version),rush,live,0
+In My Place,Question And Answer (Live) (Album Version),rush,answer,0.26666666666666666
+In My Place,Question And Answer (Live) (Album Version),rush,trio,0.23529411764705882
+In My Place,Question And Answer (Live) (Album Version),rush,live,0
+In My Place,Question And Answer (Live) (Album Version),head,album,0.26666666666666666
+In My Place,Question And Answer (Live) (Album Version),head,version,0.13333333333333333
+In My Place,Question And Answer (Live) (Album Version),head,question,0.125
+In My Place,Question And Answer (Live) (Album Version),head,live,0
+In My Place,Question And Answer (Live) (Album Version),head,answer,0.15384615384615385
+In My Place,Question And Answer (Live) (Album Version),head,trio,0.13333333333333333
+In My Place,Question And Answer (Live) (Album Version),head,live,0
+In My Place,Question And Answer (Live) (Album Version),blood,album,0.26666666666666666
+In My Place,Question And Answer (Live) (Album Version),blood,version,0.25
+In My Place,Question And Answer (Live) (Album Version),blood,question,0.23529411764705882
+In My Place,Question And Answer (Live) (Album Version),blood,live,0
+In My Place,Question And Answer (Live) (Album Version),blood,answer,0.2857142857142857
+In My Place,Question And Answer (Live) (Album Version),blood,trio,0.25
+In My Place,Question And Answer (Live) (Album Version),blood,live,0
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),place,rubber,0.26666666666666666
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),place,band,0.18181818181818182
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),place,lp,0.3333333333333333
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),place,version,0.14285714285714285
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),place,rubber,0.26666666666666666
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),place,band,0.18181818181818182
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),rush,rubber,0.21052631578947367
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),rush,band,0.2857142857142857
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),rush,lp,0.09523809523809523
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),rush,version,0.23529411764705882
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),rush,rubber,0.21052631578947367
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),rush,band,0.2857142857142857
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),head,rubber,0.25
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),head,band,0.16666666666666666
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),head,lp,0.21052631578947367
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),head,version,0.13333333333333333
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),head,rubber,0.25
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),head,band,0.16666666666666666
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),blood,rubber,0.4444444444444444
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),blood,band,0.3076923076923077
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),blood,lp,0.21052631578947367
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),blood,version,0.25
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),blood,rubber,0.4444444444444444
+In My Place,Stretchin' Out (In A Rubber Band) (LP Version),blood,band,0.3076923076923077
+In My Place,Ahora soy feliz,place,happy,0
+In My Place,Ahora soy feliz,place,federal,0.375
+In My Place,Ahora soy feliz,place,airlines,0.35294117647058826
+In My Place,Ahora soy feliz,rush,happy,0
+In My Place,Ahora soy feliz,rush,federal,0.11764705882352941
+In My Place,Ahora soy feliz,rush,airlines,0.1
+In My Place,Ahora soy feliz,head,happy,0
+In My Place,Ahora soy feliz,head,federal,0.26666666666666666
+In My Place,Ahora soy feliz,head,airlines,0.2222222222222222
+In My Place,Ahora soy feliz,blood,happy,0
+In My Place,Ahora soy feliz,blood,federal,0.26666666666666666
+In My Place,Ahora soy feliz,blood,airlines,0.2222222222222222
+Lost!,Kathelin Gray,lost,gray,0.3076923076923077
+Lost!,Kathelin Gray,lost,song,0.3333333333333333
+Lost!,Kathelin Gray,lost,x,0.3076923076923077
+Lost!,Kathelin Gray,viva,gray,0.25
+Lost!,Kathelin Gray,viva,song,0.26666666666666666
+Lost!,Kathelin Gray,viva,x,0.25
+Lost!,Kathelin Gray,la,gray,0.25
+Lost!,Kathelin Gray,la,song,0.26666666666666666
+Lost!,Kathelin Gray,la,x,0.25
+Lost!,Kathelin Gray,friends,gray,0.15384615384615385
+Lost!,Kathelin Gray,friends,song,0.16666666666666666
+Lost!,Kathelin Gray,friends,x,0.15384615384615385
+Lost!,Kathelin Gray,death,gray,0.26666666666666666
+Lost!,Kathelin Gray,death,song,0.2857142857142857
+Lost!,Kathelin Gray,death,x,0.26666666666666666
+Lost!,Heave Ho,lost,heave,0.2857142857142857
+Lost!,Heave Ho,lost,ho,0.3076923076923077
+Lost!,Heave Ho,lost,cunning,0.3076923076923077
+Lost!,Heave Ho,lost,stunts,0.2857142857142857
+Lost!,Heave Ho,viva,heave,0.47058823529411764
+Lost!,Heave Ho,viva,ho,0.25
+Lost!,Heave Ho,viva,cunning,0.375
+Lost!,Heave Ho,viva,stunts,0.5882352941176471
+Lost!,Heave Ho,la,heave,0.23529411764705882
+Lost!,Heave Ho,la,ho,0.875
+Lost!,Heave Ho,la,cunning,0.25
+Lost!,Heave Ho,la,stunts,0.23529411764705882
+Lost!,Heave Ho,friends,heave,0.14285714285714285
+Lost!,Heave Ho,friends,ho,0.3333333333333333
+Lost!,Heave Ho,friends,cunning,0.15384615384615385
+Lost!,Heave Ho,friends,stunts,0.14285714285714285
+Lost!,Heave Ho,death,heave,0.625
+Lost!,Heave Ho,death,ho,0.26666666666666666
+Lost!,Heave Ho,death,cunning,0.4
+Lost!,Heave Ho,death,stunts,0.5
+Lost!,Driving Home For Christmas,lost,driving,0.23529411764705882
+Lost!,Driving Home For Christmas,lost,home,0.14285714285714285
+Lost!,Driving Home For Christmas,lost,christmas,0.3333333333333333
+Lost!,Driving Home For Christmas,lost,hell,0.18181818181818182
+Lost!,Driving Home For Christmas,lost,part,0.4444444444444444
+Lost!,Driving Home For Christmas,lost,road,0.16666666666666666
+Lost!,Driving Home For Christmas,viva,driving,0.5
+Lost!,Driving Home For Christmas,viva,home,0.11764705882352941
+Lost!,Driving Home For Christmas,viva,christmas,0.26666666666666666
+Lost!,Driving Home For Christmas,viva,hell,0.14285714285714285
+Lost!,Driving Home For Christmas,viva,part,0.3333333333333333
+Lost!,Driving Home For Christmas,viva,road,0.13333333333333333
+Lost!,Driving Home For Christmas,la,driving,0.2
+Lost!,Driving Home For Christmas,la,home,0.25
+Lost!,Driving Home For Christmas,la,christmas,0.26666666666666666
+Lost!,Driving Home For Christmas,la,hell,0.3076923076923077
+Lost!,Driving Home For Christmas,la,part,0.6666666666666666
+Lost!,Driving Home For Christmas,la,road,0.2857142857142857
+Lost!,Driving Home For Christmas,friends,driving,0.11764705882352941
+Lost!,Driving Home For Christmas,friends,home,0.375
+Lost!,Driving Home For Christmas,friends,christmas,0.16666666666666666
+Lost!,Driving Home For Christmas,friends,hell,0.46153846153846156
+Lost!,Driving Home For Christmas,friends,part,0.2222222222222222
+Lost!,Driving Home For Christmas,friends,road,0.5333333333333333
+Lost!,Driving Home For Christmas,death,driving,0.42105263157894735
+Lost!,Driving Home For Christmas,death,home,0.125
+Lost!,Driving Home For Christmas,death,christmas,0.2857142857142857
+Lost!,Driving Home For Christmas,death,hell,0.15384615384615385
+Lost!,Driving Home For Christmas,death,part,0.36363636363636365
+Lost!,Driving Home For Christmas,death,road,0.14285714285714285
+Lost!,I Want You Back,lost,want,0.3076923076923077
+Lost!,I Want You Back,lost,back,0.18181818181818182
+Lost!,I Want You Back,lost,sweet,0.15384615384615385
+Lost!,I Want You Back,lost,children,0.18181818181818182
+Lost!,I Want You Back,lost,mine,0.16666666666666666
+Lost!,I Want You Back,viva,want,0.25
+Lost!,I Want You Back,viva,back,0.14285714285714285
+Lost!,I Want You Back,viva,sweet,0.125
+Lost!,I Want You Back,viva,children,0.14285714285714285
+Lost!,I Want You Back,viva,mine,0.13333333333333333
+Lost!,I Want You Back,la,want,0.25
+Lost!,I Want You Back,la,back,0.3076923076923077
+Lost!,I Want You Back,la,sweet,0.26666666666666666
+Lost!,I Want You Back,la,children,0.3076923076923077
+Lost!,I Want You Back,la,mine,0.2857142857142857
+Lost!,I Want You Back,friends,want,0.15384615384615385
+Lost!,I Want You Back,friends,back,0.36363636363636365
+Lost!,I Want You Back,friends,sweet,0.631578947368421
+Lost!,I Want You Back,friends,children,0.7058823529411765
+Lost!,I Want You Back,friends,mine,0.5333333333333333
+Lost!,I Want You Back,death,want,0.26666666666666666
+Lost!,I Want You Back,death,back,0.15384615384615385
+Lost!,I Want You Back,death,sweet,0.13333333333333333
+Lost!,I Want You Back,death,children,0.15384615384615385
+Lost!,I Want You Back,death,mine,0.14285714285714285
+Lost!,Ort,lost,place,0.18181818181818182
+Lost!,Ort,lost,cunning,0.3076923076923077
+Lost!,Ort,lost,stunts,0.2857142857142857
+Lost!,Ort,viva,place,0.14285714285714285
+Lost!,Ort,viva,cunning,0.375
+Lost!,Ort,viva,stunts,0.5882352941176471
+Lost!,Ort,la,place,0.3076923076923077
+Lost!,Ort,la,cunning,0.25
+Lost!,Ort,la,stunts,0.23529411764705882
+Lost!,Ort,friends,place,0.46153846153846156
+Lost!,Ort,friends,cunning,0.15384615384615385
+Lost!,Ort,friends,stunts,0.14285714285714285
+Lost!,Ort,death,place,0.15384615384615385
+Lost!,Ort,death,cunning,0.4
+Lost!,Ort,death,stunts,0.5
+Lost!,Don't Leave,lost,leave,0.3333333333333333
+Lost!,Don't Leave,lost,insomnia,0.2857142857142857
+Lost!,Don't Leave,lost,best,0.3076923076923077
+Lost!,Don't Leave,viva,leave,0.26666666666666666
+Lost!,Don't Leave,viva,insomnia,0.23529411764705882
+Lost!,Don't Leave,viva,best,0.625
+Lost!,Don't Leave,la,leave,0.26666666666666666
+Lost!,Don't Leave,la,insomnia,0.23529411764705882
+Lost!,Don't Leave,la,best,0.25
+Lost!,Don't Leave,friends,leave,0.16666666666666666
+Lost!,Don't Leave,friends,insomnia,0.14285714285714285
+Lost!,Don't Leave,friends,best,0.15384615384615385
+Lost!,Don't Leave,death,leave,0.2857142857142857
+Lost!,Don't Leave,death,insomnia,0.25
+Lost!,Don't Leave,death,best,0.5333333333333333
+Lost!,Sting Of The Bumblebee (LP Version),lost,lp,0.11764705882352941
+Lost!,Sting Of The Bumblebee (LP Version),lost,version,0.3076923076923077
+Lost!,Sting Of The Bumblebee (LP Version),lost,sting,0.2857142857142857
+Lost!,Sting Of The Bumblebee (LP Version),lost,bumblebee,0.1111111111111111
+Lost!,Sting Of The Bumblebee (LP Version),lost,metal,0.3333333333333333
+Lost!,Sting Of The Bumblebee (LP Version),lost,kings,0.16666666666666666
+Lost!,Sting Of The Bumblebee (LP Version),viva,lp,0.1
+Lost!,Sting Of The Bumblebee (LP Version),viva,version,0.25
+Lost!,Sting Of The Bumblebee (LP Version),viva,sting,0.35294117647058826
+Lost!,Sting Of The Bumblebee (LP Version),viva,bumblebee,0.09523809523809523
+Lost!,Sting Of The Bumblebee (LP Version),viva,metal,0.26666666666666666
+Lost!,Sting Of The Bumblebee (LP Version),viva,kings,0.13333333333333333
+Lost!,Sting Of The Bumblebee (LP Version),la,lp,0.21052631578947367
+Lost!,Sting Of The Bumblebee (LP Version),la,version,0.25
+Lost!,Sting Of The Bumblebee (LP Version),la,sting,0.23529411764705882
+Lost!,Sting Of The Bumblebee (LP Version),la,bumblebee,0.2
+Lost!,Sting Of The Bumblebee (LP Version),la,metal,0.9333333333333333
+Lost!,Sting Of The Bumblebee (LP Version),la,kings,0.2857142857142857
+Lost!,Sting Of The Bumblebee (LP Version),friends,lp,0.4
+Lost!,Sting Of The Bumblebee (LP Version),friends,version,0.15384615384615385
+Lost!,Sting Of The Bumblebee (LP Version),friends,sting,0.14285714285714285
+Lost!,Sting Of The Bumblebee (LP Version),friends,bumblebee,0.5714285714285714
+Lost!,Sting Of The Bumblebee (LP Version),friends,metal,0.36363636363636365
+Lost!,Sting Of The Bumblebee (LP Version),friends,kings,0.6666666666666666
+Lost!,Sting Of The Bumblebee (LP Version),death,lp,0.10526315789473684
+Lost!,Sting Of The Bumblebee (LP Version),death,version,0.26666666666666666
+Lost!,Sting Of The Bumblebee (LP Version),death,sting,0.375
+Lost!,Sting Of The Bumblebee (LP Version),death,bumblebee,0.1
+Lost!,Sting Of The Bumblebee (LP Version),death,metal,0.2857142857142857
+Lost!,Sting Of The Bumblebee (LP Version),death,kings,0.14285714285714285
+Lost!,Nervous Breakdown,lost,nervous,0
+Lost!,Nervous Breakdown,lost,breakdown,0.25
+Lost!,Nervous Breakdown,lost,lords,0.2857142857142857
+Lost!,Nervous Breakdown,viva,nervous,0
+Lost!,Nervous Breakdown,viva,breakdown,0.5263157894736842
+Lost!,Nervous Breakdown,viva,lords,0.35294117647058826
+Lost!,Nervous Breakdown,la,nervous,0
+Lost!,Nervous Breakdown,la,breakdown,0.21052631578947367
+Lost!,Nervous Breakdown,la,lords,0.23529411764705882
+Lost!,Nervous Breakdown,friends,nervous,0
+Lost!,Nervous Breakdown,friends,breakdown,0.125
+Lost!,Nervous Breakdown,friends,lords,0.14285714285714285
+Lost!,Nervous Breakdown,death,nervous,0
+Lost!,Nervous Breakdown,death,breakdown,0.4444444444444444
+Lost!,Nervous Breakdown,death,lords,0.375
+Lost!,Question And Answer (Live) (Album Version),lost,album,0.15384615384615385
+Lost!,Question And Answer (Live) (Album Version),lost,version,0.3076923076923077
+Lost!,Question And Answer (Live) (Album Version),lost,question,0.2857142857142857
+Lost!,Question And Answer (Live) (Album Version),lost,live,0
+Lost!,Question And Answer (Live) (Album Version),lost,answer,0.36363636363636365
+Lost!,Question And Answer (Live) (Album Version),lost,trio,0.3076923076923077
+Lost!,Question And Answer (Live) (Album Version),lost,live,0
+Lost!,Question And Answer (Live) (Album Version),viva,album,0.125
+Lost!,Question And Answer (Live) (Album Version),viva,version,0.25
+Lost!,Question And Answer (Live) (Album Version),viva,question,0.5882352941176471
+Lost!,Question And Answer (Live) (Album Version),viva,live,0
+Lost!,Question And Answer (Live) (Album Version),viva,answer,0.2857142857142857
+Lost!,Question And Answer (Live) (Album Version),viva,trio,0.25
+Lost!,Question And Answer (Live) (Album Version),viva,live,0
+Lost!,Question And Answer (Live) (Album Version),la,album,0.26666666666666666
+Lost!,Question And Answer (Live) (Album Version),la,version,0.25
+Lost!,Question And Answer (Live) (Album Version),la,question,0.23529411764705882
+Lost!,Question And Answer (Live) (Album Version),la,live,0
+Lost!,Question And Answer (Live) (Album Version),la,answer,0.2857142857142857
+Lost!,Question And Answer (Live) (Album Version),la,trio,0.25
+Lost!,Question And Answer (Live) (Album Version),la,live,0
+Lost!,Question And Answer (Live) (Album Version),friends,album,0.5
+Lost!,Question And Answer (Live) (Album Version),friends,version,0.15384615384615385
+Lost!,Question And Answer (Live) (Album Version),friends,question,0.14285714285714285
+Lost!,Question And Answer (Live) (Album Version),friends,live,0
+Lost!,Question And Answer (Live) (Album Version),friends,answer,0.18181818181818182
+Lost!,Question And Answer (Live) (Album Version),friends,trio,0.15384615384615385
+Lost!,Question And Answer (Live) (Album Version),friends,live,0
+Lost!,Question And Answer (Live) (Album Version),death,album,0.13333333333333333
+Lost!,Question And Answer (Live) (Album Version),death,version,0.26666666666666666
+Lost!,Question And Answer (Live) (Album Version),death,question,0.5
+Lost!,Question And Answer (Live) (Album Version),death,live,0
+Lost!,Question And Answer (Live) (Album Version),death,answer,0.3076923076923077
+Lost!,Question And Answer (Live) (Album Version),death,trio,0.26666666666666666
+Lost!,Question And Answer (Live) (Album Version),death,live,0
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),lost,rubber,0.26666666666666666
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),lost,band,0.6
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),lost,lp,0.11764705882352941
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),lost,version,0.3076923076923077
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),lost,rubber,0.26666666666666666
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),lost,band,0.6
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),viva,rubber,0.2222222222222222
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),viva,band,0.3076923076923077
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),viva,lp,0.1
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),viva,version,0.25
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),viva,rubber,0.2222222222222222
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),viva,band,0.3076923076923077
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),la,rubber,0.4444444444444444
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),la,band,0.3076923076923077
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),la,lp,0.21052631578947367
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),la,version,0.25
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),la,rubber,0.4444444444444444
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),la,band,0.3076923076923077
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),friends,rubber,0.2857142857142857
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),friends,band,0.2
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),friends,lp,0.4
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),friends,version,0.15384615384615385
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),friends,rubber,0.2857142857142857
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),friends,band,0.2
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),death,rubber,0.23529411764705882
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),death,band,0.3333333333333333
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),death,lp,0.10526315789473684
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),death,version,0.26666666666666666
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),death,rubber,0.23529411764705882
+Lost!,Stretchin' Out (In A Rubber Band) (LP Version),death,band,0.3333333333333333
+Lost!,Ahora soy feliz,lost,happy,0
+Lost!,Ahora soy feliz,lost,federal,0.15384615384615385
+Lost!,Ahora soy feliz,lost,airlines,0.125
+Lost!,Ahora soy feliz,viva,happy,0
+Lost!,Ahora soy feliz,viva,federal,0.125
+Lost!,Ahora soy feliz,viva,airlines,0.10526315789473684
+Lost!,Ahora soy feliz,la,happy,0
+Lost!,Ahora soy feliz,la,federal,0.26666666666666666
+Lost!,Ahora soy feliz,la,airlines,0.2222222222222222
+Lost!,Ahora soy feliz,friends,happy,0
+Lost!,Ahora soy feliz,friends,federal,0.631578947368421
+Lost!,Ahora soy feliz,friends,airlines,0.42105263157894735
+Lost!,Ahora soy feliz,death,happy,0
+Lost!,Ahora soy feliz,death,federal,0.13333333333333333
+Lost!,Ahora soy feliz,death,airlines,0.1111111111111111
+Yellow,Kathelin Gray,yellow,gray,0.75
+Yellow,Kathelin Gray,yellow,song,0.26666666666666666
+Yellow,Kathelin Gray,yellow,x,0.25
+Yellow,Kathelin Gray,yellow,gray,0.75
+Yellow,Kathelin Gray,yellow,song,0.26666666666666666
+Yellow,Kathelin Gray,yellow,x,0.25
+Yellow,Heave Ho,yellow,heave,0.23529411764705882
+Yellow,Heave Ho,yellow,ho,0.25
+Yellow,Heave Ho,yellow,cunning,0.25
+Yellow,Heave Ho,yellow,stunts,0.23529411764705882
+Yellow,Heave Ho,yellow,heave,0.23529411764705882
+Yellow,Heave Ho,yellow,ho,0.25
+Yellow,Heave Ho,yellow,cunning,0.25
+Yellow,Heave Ho,yellow,stunts,0.23529411764705882
+Yellow,Driving Home For Christmas,yellow,driving,0.2
+Yellow,Driving Home For Christmas,yellow,home,0.11764705882352941
+Yellow,Driving Home For Christmas,yellow,christmas,0.26666666666666666
+Yellow,Driving Home For Christmas,yellow,hell,0.14285714285714285
+Yellow,Driving Home For Christmas,yellow,part,0.3333333333333333
+Yellow,Driving Home For Christmas,yellow,road,0.13333333333333333
+Yellow,Driving Home For Christmas,yellow,driving,0.2
+Yellow,Driving Home For Christmas,yellow,home,0.11764705882352941
+Yellow,Driving Home For Christmas,yellow,christmas,0.26666666666666666
+Yellow,Driving Home For Christmas,yellow,hell,0.14285714285714285
+Yellow,Driving Home For Christmas,yellow,part,0.3333333333333333
+Yellow,Driving Home For Christmas,yellow,road,0.13333333333333333
+Yellow,I Want You Back,yellow,want,0.375
+Yellow,I Want You Back,yellow,back,0.14285714285714285
+Yellow,I Want You Back,yellow,sweet,0.125
+Yellow,I Want You Back,yellow,children,0.14285714285714285
+Yellow,I Want You Back,yellow,mine,0.13333333333333333
+Yellow,I Want You Back,yellow,want,0.375
+Yellow,I Want You Back,yellow,back,0.14285714285714285
+Yellow,I Want You Back,yellow,sweet,0.125
+Yellow,I Want You Back,yellow,children,0.14285714285714285
+Yellow,I Want You Back,yellow,mine,0.13333333333333333
+Yellow,Ort,yellow,place,0.14285714285714285
+Yellow,Ort,yellow,cunning,0.25
+Yellow,Ort,yellow,stunts,0.23529411764705882
+Yellow,Ort,yellow,place,0.14285714285714285
+Yellow,Ort,yellow,cunning,0.25
+Yellow,Ort,yellow,stunts,0.23529411764705882
+Yellow,Don't Leave,yellow,leave,0.26666666666666666
+Yellow,Don't Leave,yellow,insomnia,0.35294117647058826
+Yellow,Don't Leave,yellow,best,0.25
+Yellow,Don't Leave,yellow,leave,0.26666666666666666
+Yellow,Don't Leave,yellow,insomnia,0.35294117647058826
+Yellow,Don't Leave,yellow,best,0.25
+Yellow,Sting Of The Bumblebee (LP Version),yellow,lp,0.1
+Yellow,Sting Of The Bumblebee (LP Version),yellow,version,0.25
+Yellow,Sting Of The Bumblebee (LP Version),yellow,sting,0.23529411764705882
+Yellow,Sting Of The Bumblebee (LP Version),yellow,bumblebee,0.09523809523809523
+Yellow,Sting Of The Bumblebee (LP Version),yellow,metal,0.26666666666666666
+Yellow,Sting Of The Bumblebee (LP Version),yellow,kings,0.13333333333333333
+Yellow,Sting Of The Bumblebee (LP Version),yellow,lp,0.1
+Yellow,Sting Of The Bumblebee (LP Version),yellow,version,0.25
+Yellow,Sting Of The Bumblebee (LP Version),yellow,sting,0.23529411764705882
+Yellow,Sting Of The Bumblebee (LP Version),yellow,bumblebee,0.09523809523809523
+Yellow,Sting Of The Bumblebee (LP Version),yellow,metal,0.26666666666666666
+Yellow,Sting Of The Bumblebee (LP Version),yellow,kings,0.13333333333333333
+Yellow,Nervous Breakdown,yellow,nervous,0
+Yellow,Nervous Breakdown,yellow,breakdown,0.21052631578947367
+Yellow,Nervous Breakdown,yellow,lords,0.23529411764705882
+Yellow,Nervous Breakdown,yellow,nervous,0
+Yellow,Nervous Breakdown,yellow,breakdown,0.21052631578947367
+Yellow,Nervous Breakdown,yellow,lords,0.23529411764705882
+Yellow,Question And Answer (Live) (Album Version),yellow,album,0.125
+Yellow,Question And Answer (Live) (Album Version),yellow,version,0.25
+Yellow,Question And Answer (Live) (Album Version),yellow,question,0.23529411764705882
+Yellow,Question And Answer (Live) (Album Version),yellow,live,0
+Yellow,Question And Answer (Live) (Album Version),yellow,answer,0.2857142857142857
+Yellow,Question And Answer (Live) (Album Version),yellow,trio,0.25
+Yellow,Question And Answer (Live) (Album Version),yellow,live,0
+Yellow,Question And Answer (Live) (Album Version),yellow,album,0.125
+Yellow,Question And Answer (Live) (Album Version),yellow,version,0.25
+Yellow,Question And Answer (Live) (Album Version),yellow,question,0.23529411764705882
+Yellow,Question And Answer (Live) (Album Version),yellow,live,0
+Yellow,Question And Answer (Live) (Album Version),yellow,answer,0.2857142857142857
+Yellow,Question And Answer (Live) (Album Version),yellow,trio,0.25
+Yellow,Question And Answer (Live) (Album Version),yellow,live,0
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,rubber,0.2222222222222222
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,band,0.3076923076923077
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,lp,0.1
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,version,0.25
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,rubber,0.2222222222222222
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,band,0.3076923076923077
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,rubber,0.2222222222222222
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,band,0.3076923076923077
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,lp,0.1
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,version,0.25
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,rubber,0.2222222222222222
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,band,0.3076923076923077
+Yellow,Ahora soy feliz,yellow,happy,0
+Yellow,Ahora soy feliz,yellow,federal,0.125
+Yellow,Ahora soy feliz,yellow,airlines,0.10526315789473684
+Yellow,Ahora soy feliz,yellow,happy,0
+Yellow,Ahora soy feliz,yellow,federal,0.125
+Yellow,Ahora soy feliz,yellow,airlines,0.10526315789473684
+Yellow,Kathelin Gray,yellow,gray,0.75
+Yellow,Kathelin Gray,yellow,song,0.26666666666666666
+Yellow,Kathelin Gray,yellow,x,0.25
+Yellow,Heave Ho,yellow,heave,0.23529411764705882
+Yellow,Heave Ho,yellow,ho,0.25
+Yellow,Heave Ho,yellow,cunning,0.25
+Yellow,Heave Ho,yellow,stunts,0.23529411764705882
+Yellow,Driving Home For Christmas,yellow,driving,0.2
+Yellow,Driving Home For Christmas,yellow,home,0.11764705882352941
+Yellow,Driving Home For Christmas,yellow,christmas,0.26666666666666666
+Yellow,Driving Home For Christmas,yellow,hell,0.14285714285714285
+Yellow,Driving Home For Christmas,yellow,part,0.3333333333333333
+Yellow,Driving Home For Christmas,yellow,road,0.13333333333333333
+Yellow,I Want You Back,yellow,want,0.375
+Yellow,I Want You Back,yellow,back,0.14285714285714285
+Yellow,I Want You Back,yellow,sweet,0.125
+Yellow,I Want You Back,yellow,children,0.14285714285714285
+Yellow,I Want You Back,yellow,mine,0.13333333333333333
+Yellow,Ort,yellow,place,0.14285714285714285
+Yellow,Ort,yellow,cunning,0.25
+Yellow,Ort,yellow,stunts,0.23529411764705882
+Yellow,Don't Leave,yellow,leave,0.26666666666666666
+Yellow,Don't Leave,yellow,insomnia,0.35294117647058826
+Yellow,Don't Leave,yellow,best,0.25
+Yellow,Sting Of The Bumblebee (LP Version),yellow,lp,0.1
+Yellow,Sting Of The Bumblebee (LP Version),yellow,version,0.25
+Yellow,Sting Of The Bumblebee (LP Version),yellow,sting,0.23529411764705882
+Yellow,Sting Of The Bumblebee (LP Version),yellow,bumblebee,0.09523809523809523
+Yellow,Sting Of The Bumblebee (LP Version),yellow,metal,0.26666666666666666
+Yellow,Sting Of The Bumblebee (LP Version),yellow,kings,0.13333333333333333
+Yellow,Nervous Breakdown,yellow,nervous,0
+Yellow,Nervous Breakdown,yellow,breakdown,0.21052631578947367
+Yellow,Nervous Breakdown,yellow,lords,0.23529411764705882
+Yellow,Question And Answer (Live) (Album Version),yellow,album,0.125
+Yellow,Question And Answer (Live) (Album Version),yellow,version,0.25
+Yellow,Question And Answer (Live) (Album Version),yellow,question,0.23529411764705882
+Yellow,Question And Answer (Live) (Album Version),yellow,live,0
+Yellow,Question And Answer (Live) (Album Version),yellow,answer,0.2857142857142857
+Yellow,Question And Answer (Live) (Album Version),yellow,trio,0.25
+Yellow,Question And Answer (Live) (Album Version),yellow,live,0
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,rubber,0.2222222222222222
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,band,0.3076923076923077
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,lp,0.1
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,version,0.25
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,rubber,0.2222222222222222
+Yellow,Stretchin' Out (In A Rubber Band) (LP Version),yellow,band,0.3076923076923077
+Yellow,Ahora soy feliz,yellow,happy,0
+Yellow,Ahora soy feliz,yellow,federal,0.125
+Yellow,Ahora soy feliz,yellow,airlines,0.10526315789473684
+Speed Of Sound,Kathelin Gray,speed,gray,0.2857142857142857
+Speed Of Sound,Kathelin Gray,speed,song,0.3076923076923077
+Speed Of Sound,Kathelin Gray,speed,x,0.2857142857142857
+Speed Of Sound,Kathelin Gray,sound,gray,0.5714285714285714
+Speed Of Sound,Kathelin Gray,sound,song,0.3076923076923077
+Speed Of Sound,Kathelin Gray,sound,x,0.2857142857142857
+Speed Of Sound,Kathelin Gray,speed,gray,0.2857142857142857
+Speed Of Sound,Kathelin Gray,speed,song,0.3076923076923077
+Speed Of Sound,Kathelin Gray,speed,x,0.2857142857142857
+Speed Of Sound,Kathelin Gray,sound,gray,0.5714285714285714
+Speed Of Sound,Kathelin Gray,sound,song,0.3076923076923077
+Speed Of Sound,Kathelin Gray,sound,x,0.2857142857142857
+Speed Of Sound,Heave Ho,speed,heave,0.26666666666666666
+Speed Of Sound,Heave Ho,speed,ho,0.42857142857142855
+Speed Of Sound,Heave Ho,speed,cunning,0.2857142857142857
+Speed Of Sound,Heave Ho,speed,stunts,0.26666666666666666
+Speed Of Sound,Heave Ho,sound,heave,0.26666666666666666
+Speed Of Sound,Heave Ho,sound,ho,0.2857142857142857
+Speed Of Sound,Heave Ho,sound,cunning,0.2857142857142857
+Speed Of Sound,Heave Ho,sound,stunts,0.26666666666666666
+Speed Of Sound,Heave Ho,speed,heave,0.26666666666666666
+Speed Of Sound,Heave Ho,speed,ho,0.42857142857142855
+Speed Of Sound,Heave Ho,speed,cunning,0.2857142857142857
+Speed Of Sound,Heave Ho,speed,stunts,0.26666666666666666
+Speed Of Sound,Heave Ho,sound,heave,0.26666666666666666
+Speed Of Sound,Heave Ho,sound,ho,0.2857142857142857
+Speed Of Sound,Heave Ho,sound,cunning,0.2857142857142857
+Speed Of Sound,Heave Ho,sound,stunts,0.26666666666666666
+Speed Of Sound,Driving Home For Christmas,speed,driving,0.2222222222222222
+Speed Of Sound,Driving Home For Christmas,speed,home,0.13333333333333333
+Speed Of Sound,Driving Home For Christmas,speed,christmas,0.3076923076923077
+Speed Of Sound,Driving Home For Christmas,speed,hell,0.16666666666666666
+Speed Of Sound,Driving Home For Christmas,speed,part,0.6
+Speed Of Sound,Driving Home For Christmas,speed,road,0.15384615384615385
+Speed Of Sound,Driving Home For Christmas,sound,driving,0.2222222222222222
+Speed Of Sound,Driving Home For Christmas,sound,home,0.13333333333333333
+Speed Of Sound,Driving Home For Christmas,sound,christmas,0.3076923076923077
+Speed Of Sound,Driving Home For Christmas,sound,hell,0.16666666666666666
+Speed Of Sound,Driving Home For Christmas,sound,part,0.4
+Speed Of Sound,Driving Home For Christmas,sound,road,0.15384615384615385
+Speed Of Sound,Driving Home For Christmas,speed,driving,0.2222222222222222
+Speed Of Sound,Driving Home For Christmas,speed,home,0.13333333333333333
+Speed Of Sound,Driving Home For Christmas,speed,christmas,0.3076923076923077
+Speed Of Sound,Driving Home For Christmas,speed,hell,0.16666666666666666
+Speed Of Sound,Driving Home For Christmas,speed,part,0.6
+Speed Of Sound,Driving Home For Christmas,speed,road,0.15384615384615385
+Speed Of Sound,Driving Home For Christmas,sound,driving,0.2222222222222222
+Speed Of Sound,Driving Home For Christmas,sound,home,0.13333333333333333
+Speed Of Sound,Driving Home For Christmas,sound,christmas,0.3076923076923077
+Speed Of Sound,Driving Home For Christmas,sound,hell,0.16666666666666666
+Speed Of Sound,Driving Home For Christmas,sound,part,0.4
+Speed Of Sound,Driving Home For Christmas,sound,road,0.15384615384615385
+Speed Of Sound,I Want You Back,speed,want,0.2857142857142857
+Speed Of Sound,I Want You Back,speed,back,0.16666666666666666
+Speed Of Sound,I Want You Back,speed,sweet,0.14285714285714285
+Speed Of Sound,I Want You Back,speed,children,0.16666666666666666
+Speed Of Sound,I Want You Back,speed,mine,0.15384615384615385
+Speed Of Sound,I Want You Back,sound,want,0.42857142857142855
+Speed Of Sound,I Want You Back,sound,back,0.16666666666666666
+Speed Of Sound,I Want You Back,sound,sweet,0.14285714285714285
+Speed Of Sound,I Want You Back,sound,children,0.16666666666666666
+Speed Of Sound,I Want You Back,sound,mine,0.15384615384615385
+Speed Of Sound,I Want You Back,speed,want,0.2857142857142857
+Speed Of Sound,I Want You Back,speed,back,0.16666666666666666
+Speed Of Sound,I Want You Back,speed,sweet,0.14285714285714285
+Speed Of Sound,I Want You Back,speed,children,0.16666666666666666
+Speed Of Sound,I Want You Back,speed,mine,0.15384615384615385
+Speed Of Sound,I Want You Back,sound,want,0.42857142857142855
+Speed Of Sound,I Want You Back,sound,back,0.16666666666666666
+Speed Of Sound,I Want You Back,sound,sweet,0.14285714285714285
+Speed Of Sound,I Want You Back,sound,children,0.16666666666666666
+Speed Of Sound,I Want You Back,sound,mine,0.15384615384615385
+Speed Of Sound,Ort,speed,place,0.16666666666666666
+Speed Of Sound,Ort,speed,cunning,0.2857142857142857
+Speed Of Sound,Ort,speed,stunts,0.26666666666666666
+Speed Of Sound,Ort,sound,place,0.16666666666666666
+Speed Of Sound,Ort,sound,cunning,0.2857142857142857
+Speed Of Sound,Ort,sound,stunts,0.26666666666666666
+Speed Of Sound,Ort,speed,place,0.16666666666666666
+Speed Of Sound,Ort,speed,cunning,0.2857142857142857
+Speed Of Sound,Ort,speed,stunts,0.26666666666666666
+Speed Of Sound,Ort,sound,place,0.16666666666666666
+Speed Of Sound,Ort,sound,cunning,0.2857142857142857
+Speed Of Sound,Ort,sound,stunts,0.26666666666666666
+Speed Of Sound,Don't Leave,speed,leave,0.3076923076923077
+Speed Of Sound,Don't Leave,speed,insomnia,0.26666666666666666
+Speed Of Sound,Don't Leave,speed,best,0.2857142857142857
+Speed Of Sound,Don't Leave,sound,leave,0.3076923076923077
+Speed Of Sound,Don't Leave,sound,insomnia,0.4
+Speed Of Sound,Don't Leave,sound,best,0.2857142857142857
+Speed Of Sound,Don't Leave,speed,leave,0.3076923076923077
+Speed Of Sound,Don't Leave,speed,insomnia,0.26666666666666666
+Speed Of Sound,Don't Leave,speed,best,0.2857142857142857
+Speed Of Sound,Don't Leave,sound,leave,0.3076923076923077
+Speed Of Sound,Don't Leave,sound,insomnia,0.4
+Speed Of Sound,Don't Leave,sound,best,0.2857142857142857
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,lp,0.1111111111111111
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,version,0.2857142857142857
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,sting,0.26666666666666666
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,bumblebee,0.10526315789473684
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,metal,0.46153846153846156
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,kings,0.15384615384615385
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,lp,0.1111111111111111
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,version,0.2857142857142857
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,sting,0.26666666666666666
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,bumblebee,0.10526315789473684
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,metal,0.3076923076923077
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,kings,0.15384615384615385
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,lp,0.1111111111111111
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,version,0.2857142857142857
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,sting,0.26666666666666666
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,bumblebee,0.10526315789473684
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,metal,0.46153846153846156
+Speed Of Sound,Sting Of The Bumblebee (LP Version),speed,kings,0.15384615384615385
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,lp,0.1111111111111111
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,version,0.2857142857142857
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,sting,0.26666666666666666
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,bumblebee,0.10526315789473684
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,metal,0.3076923076923077
+Speed Of Sound,Sting Of The Bumblebee (LP Version),sound,kings,0.15384615384615385
+Speed Of Sound,Nervous Breakdown,speed,nervous,0
+Speed Of Sound,Nervous Breakdown,speed,breakdown,0.23529411764705882
+Speed Of Sound,Nervous Breakdown,speed,lords,0.26666666666666666
+Speed Of Sound,Nervous Breakdown,sound,nervous,0
+Speed Of Sound,Nervous Breakdown,sound,breakdown,0.23529411764705882
+Speed Of Sound,Nervous Breakdown,sound,lords,0.26666666666666666
+Speed Of Sound,Nervous Breakdown,speed,nervous,0
+Speed Of Sound,Nervous Breakdown,speed,breakdown,0.23529411764705882
+Speed Of Sound,Nervous Breakdown,speed,lords,0.26666666666666666
+Speed Of Sound,Nervous Breakdown,sound,nervous,0
+Speed Of Sound,Nervous Breakdown,sound,breakdown,0.23529411764705882
+Speed Of Sound,Nervous Breakdown,sound,lords,0.26666666666666666
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,album,0.14285714285714285
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,version,0.2857142857142857
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,question,0.26666666666666666
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,live,0
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,answer,0.3333333333333333
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,trio,0.2857142857142857
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,live,0
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,album,0.14285714285714285
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,version,0.2857142857142857
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,question,0.26666666666666666
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,live,0
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,answer,0.3333333333333333
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,trio,0.2857142857142857
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,live,0
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,album,0.14285714285714285
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,version,0.2857142857142857
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,question,0.26666666666666666
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,live,0
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,answer,0.3333333333333333
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,trio,0.2857142857142857
+Speed Of Sound,Question And Answer (Live) (Album Version),speed,live,0
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,album,0.14285714285714285
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,version,0.2857142857142857
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,question,0.26666666666666666
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,live,0
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,answer,0.3333333333333333
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,trio,0.2857142857142857
+Speed Of Sound,Question And Answer (Live) (Album Version),sound,live,0
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,rubber,0.375
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,band,0.36363636363636365
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,lp,0.1111111111111111
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,version,0.2857142857142857
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,rubber,0.375
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,band,0.36363636363636365
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,rubber,0.25
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,band,0.36363636363636365
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,lp,0.1111111111111111
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,version,0.2857142857142857
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,rubber,0.25
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,band,0.36363636363636365
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,rubber,0.375
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,band,0.36363636363636365
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,lp,0.1111111111111111
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,version,0.2857142857142857
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,rubber,0.375
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),speed,band,0.36363636363636365
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,rubber,0.25
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,band,0.36363636363636365
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,lp,0.1111111111111111
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,version,0.2857142857142857
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,rubber,0.25
+Speed Of Sound,Stretchin' Out (In A Rubber Band) (LP Version),sound,band,0.36363636363636365
+Speed Of Sound,Ahora soy feliz,speed,happy,0
+Speed Of Sound,Ahora soy feliz,speed,federal,0.14285714285714285
+Speed Of Sound,Ahora soy feliz,speed,airlines,0.11764705882352941
+Speed Of Sound,Ahora soy feliz,sound,happy,0
+Speed Of Sound,Ahora soy feliz,sound,federal,0.14285714285714285
+Speed Of Sound,Ahora soy feliz,sound,airlines,0.11764705882352941
+Speed Of Sound,Ahora soy feliz,speed,happy,0
+Speed Of Sound,Ahora soy feliz,speed,federal,0.14285714285714285
+Speed Of Sound,Ahora soy feliz,speed,airlines,0.11764705882352941
+Speed Of Sound,Ahora soy feliz,sound,happy,0
+Speed Of Sound,Ahora soy feliz,sound,federal,0.14285714285714285
+Speed Of Sound,Ahora soy feliz,sound,airlines,0.11764705882352941

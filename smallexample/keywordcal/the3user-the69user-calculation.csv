@@ -1,0 +1,1777 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Here It Goes Again,sun,goes,0.11764705882352941
+Sun Hands,Here It Goes Again,sun,oh,0.3333333333333333
+Sun Hands,Here It Goes Again,hands,goes,0.2222222222222222
+Sun Hands,Here It Goes Again,hands,oh,0.10526315789473684
+Sun Hands,Here It Goes Again,gorilla,goes,0.08
+Sun Hands,Here It Goes Again,gorilla,oh,0.23076923076923078
+Sun Hands,Here It Goes Again,manor,goes,0.10526315789473684
+Sun Hands,Here It Goes Again,manor,oh,0.3
+Sun Hands,Enter Shikari (Demo Version),sun,enter,0
+Sun Hands,Enter Shikari (Demo Version),sun,demo,0.15384615384615385
+Sun Hands,Enter Shikari (Demo Version),sun,version,0.125
+Sun Hands,Enter Shikari (Demo Version),sun,zone,0.4
+Sun Hands,Enter Shikari (Demo Version),hands,enter,0
+Sun Hands,Enter Shikari (Demo Version),hands,demo,0.2857142857142857
+Sun Hands,Enter Shikari (Demo Version),hands,version,0.23529411764705882
+Sun Hands,Enter Shikari (Demo Version),hands,zone,0.125
+Sun Hands,Enter Shikari (Demo Version),gorilla,enter,0
+Sun Hands,Enter Shikari (Demo Version),gorilla,demo,0.09523809523809523
+Sun Hands,Enter Shikari (Demo Version),gorilla,version,0.08333333333333333
+Sun Hands,Enter Shikari (Demo Version),gorilla,zone,0.2608695652173913
+Sun Hands,Enter Shikari (Demo Version),manor,enter,0
+Sun Hands,Enter Shikari (Demo Version),manor,demo,0.13333333333333333
+Sun Hands,Enter Shikari (Demo Version),manor,version,0.1111111111111111
+Sun Hands,Enter Shikari (Demo Version),manor,zone,0.35294117647058826
+Sun Hands,Wanna Get With U,sun,wan,0.4444444444444444
+Sun Hands,Wanna Get With U,sun,na,0.26666666666666666
+Sun Hands,Wanna Get With U,sun,get,0.09523809523809523
+Sun Hands,Wanna Get With U,sun,u,0.21052631578947367
+Sun Hands,Wanna Get With U,sun,guy,0.4444444444444444
+Sun Hands,Wanna Get With U,sun,best,0.125
+Sun Hands,Wanna Get With U,hands,wan,0.10526315789473684
+Sun Hands,Wanna Get With U,hands,na,0.23529411764705882
+Sun Hands,Wanna Get With U,hands,get,0.43478260869565216
+Sun Hands,Wanna Get With U,hands,u,0.19047619047619047
+Sun Hands,Wanna Get With U,hands,guy,0.125
+Sun Hands,Wanna Get With U,hands,best,0.5555555555555556
+Sun Hands,Wanna Get With U,gorilla,wan,0.3076923076923077
+Sun Hands,Wanna Get With U,gorilla,na,0.17391304347826086
+Sun Hands,Wanna Get With U,gorilla,get,0.06896551724137931
+Sun Hands,Wanna Get With U,gorilla,u,0.14814814814814814
+Sun Hands,Wanna Get With U,gorilla,guy,0.46153846153846156
+Sun Hands,Wanna Get With U,gorilla,best,0.08333333333333333
+Sun Hands,Wanna Get With U,manor,wan,0.5
+Sun Hands,Wanna Get With U,manor,na,0.23529411764705882
+Sun Hands,Wanna Get With U,manor,get,0.08695652173913043
+Sun Hands,Wanna Get With U,manor,u,0.19047619047619047
+Sun Hands,Wanna Get With U,manor,guy,0.4
+Sun Hands,Wanna Get With U,manor,best,0.1111111111111111
+Sun Hands,The Choice Is Yours,sun,choice,0.125
+Sun Hands,The Choice Is Yours,sun,wolf,0.36363636363636365
+Sun Hands,The Choice Is Yours,sun,sheep,0.3333333333333333
+Sun Hands,The Choice Is Yours,sun,clothing,0.5333333333333333
+Sun Hands,The Choice Is Yours,hands,choice,0.35294117647058826
+Sun Hands,The Choice Is Yours,hands,wolf,0.08695652173913043
+Sun Hands,The Choice Is Yours,hands,sheep,0.08
+Sun Hands,The Choice Is Yours,hands,clothing,0.125
+Sun Hands,The Choice Is Yours,gorilla,choice,0.08333333333333333
+Sun Hands,The Choice Is Yours,gorilla,wolf,0.7333333333333333
+Sun Hands,The Choice Is Yours,gorilla,sheep,0.6875
+Sun Hands,The Choice Is Yours,gorilla,clothing,0.34782608695652173
+Sun Hands,The Choice Is Yours,manor,choice,0.1111111111111111
+Sun Hands,The Choice Is Yours,manor,wolf,0.3333333333333333
+Sun Hands,The Choice Is Yours,manor,sheep,0.3076923076923077
+Sun Hands,The Choice Is Yours,manor,clothing,0.5882352941176471
+Sun Hands,Troublemaker,sun,troublemaker,0.47058823529411764
+Sun Hands,Troublemaker,hands,troublemaker,0.13333333333333333
+Sun Hands,Troublemaker,gorilla,troublemaker,0.48
+Sun Hands,Troublemaker,manor,troublemaker,0.42105263157894735
+Sun Hands,Teddy's Jam,sun,teddy,0.5333333333333333
+Sun Hands,Teddy's Jam,sun,jam,0.21052631578947367
+Sun Hands,Teddy's Jam,sun,guy,0.4444444444444444
+Sun Hands,Teddy's Jam,sun,best,0.125
+Sun Hands,Teddy's Jam,hands,teddy,0.125
+Sun Hands,Teddy's Jam,hands,jam,0.1
+Sun Hands,Teddy's Jam,hands,guy,0.125
+Sun Hands,Teddy's Jam,hands,best,0.5555555555555556
+Sun Hands,Teddy's Jam,gorilla,teddy,0.34782608695652173
+Sun Hands,Teddy's Jam,gorilla,jam,0.14814814814814814
+Sun Hands,Teddy's Jam,gorilla,guy,0.46153846153846156
+Sun Hands,Teddy's Jam,gorilla,best,0.08333333333333333
+Sun Hands,Teddy's Jam,manor,teddy,0.5882352941176471
+Sun Hands,Teddy's Jam,manor,jam,0.19047619047619047
+Sun Hands,Teddy's Jam,manor,guy,0.4
+Sun Hands,Teddy's Jam,manor,best,0.1111111111111111
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),sun,nada,0.15384615384615385
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),sun,antes,0.1111111111111111
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),sun,nothing,0.15384615384615385
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),sun,telecommunication,0.5
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),hands,nada,0.2857142857142857
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),hands,antes,0.21052631578947367
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),hands,nothing,0.2857142857142857
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),hands,telecommunication,0.11764705882352941
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),gorilla,nada,0.09523809523809523
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),gorilla,antes,0.07692307692307693
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),gorilla,nothing,0.09523809523809523
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),gorilla,telecommunication,0.3333333333333333
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),manor,nada,0.13333333333333333
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),manor,antes,0.1
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),manor,nothing,0.13333333333333333
+Sun Hands,Nothing Will Be As It Was (Nada Será Como Antes),manor,telecommunication,0.5555555555555556
+Sun Hands,Iron Man,sun,iron,0.26666666666666666
+Sun Hands,Iron Man,sun,man,0.47058823529411764
+Sun Hands,Iron Man,sun,iron,0.26666666666666666
+Sun Hands,Iron Man,sun,man,0.47058823529411764
+Sun Hands,Iron Man,hands,iron,0.23529411764705882
+Sun Hands,Iron Man,hands,man,0.13333333333333333
+Sun Hands,Iron Man,hands,iron,0.23529411764705882
+Sun Hands,Iron Man,hands,man,0.13333333333333333
+Sun Hands,Iron Man,gorilla,iron,0.17391304347826086
+Sun Hands,Iron Man,gorilla,man,0.48
+Sun Hands,Iron Man,gorilla,iron,0.17391304347826086
+Sun Hands,Iron Man,gorilla,man,0.48
+Sun Hands,Iron Man,manor,iron,0.23529411764705882
+Sun Hands,Iron Man,manor,man,0.42105263157894735
+Sun Hands,Iron Man,manor,iron,0.23529411764705882
+Sun Hands,Iron Man,manor,man,0.42105263157894735
+Sun Hands,Tribute,sun,tribute,0.14285714285714285
+Sun Hands,Tribute,sun,deluxe,0
+Sun Hands,Tribute,sun,version,0.125
+Sun Hands,Tribute,hands,tribute,0.26666666666666666
+Sun Hands,Tribute,hands,deluxe,0
+Sun Hands,Tribute,hands,version,0.23529411764705882
+Sun Hands,Tribute,gorilla,tribute,0.09090909090909091
+Sun Hands,Tribute,gorilla,deluxe,0
+Sun Hands,Tribute,gorilla,version,0.08333333333333333
+Sun Hands,Tribute,manor,tribute,0.125
+Sun Hands,Tribute,manor,deluxe,0
+Sun Hands,Tribute,manor,version,0.1111111111111111
+Sun Hands,Big Truck (Album Version),sun,big,0
+Sun Hands,Big Truck (Album Version),sun,truck,0.42105263157894735
+Sun Hands,Big Truck (Album Version),sun,album,0.5
+Sun Hands,Big Truck (Album Version),sun,version,0.125
+Sun Hands,Big Truck (Album Version),sun,coal,0.3076923076923077
+Sun Hands,Big Truck (Album Version),sun,chamber,0.47058823529411764
+Sun Hands,Big Truck (Album Version),hands,big,0
+Sun Hands,Big Truck (Album Version),hands,truck,0.1
+Sun Hands,Big Truck (Album Version),hands,album,0.11764705882352941
+Sun Hands,Big Truck (Album Version),hands,version,0.23529411764705882
+Sun Hands,Big Truck (Album Version),hands,coal,0.14285714285714285
+Sun Hands,Big Truck (Album Version),hands,chamber,0.1111111111111111
+Sun Hands,Big Truck (Album Version),gorilla,big,0
+Sun Hands,Big Truck (Album Version),gorilla,truck,0.2962962962962963
+Sun Hands,Big Truck (Album Version),gorilla,album,0.3333333333333333
+Sun Hands,Big Truck (Album Version),gorilla,version,0.08333333333333333
+Sun Hands,Big Truck (Album Version),gorilla,coal,0.19047619047619047
+Sun Hands,Big Truck (Album Version),gorilla,chamber,0.32
+Sun Hands,Big Truck (Album Version),manor,big,0
+Sun Hands,Big Truck (Album Version),manor,truck,0.47619047619047616
+Sun Hands,Big Truck (Album Version),manor,album,0.5555555555555556
+Sun Hands,Big Truck (Album Version),manor,version,0.1111111111111111
+Sun Hands,Big Truck (Album Version),manor,coal,0.26666666666666666
+Sun Hands,Big Truck (Album Version),manor,chamber,0.631578947368421
+Sun Hands,Fever,sun,fever,0.125
+Sun Hands,Fever,sun,die,0.5
+Sun Hands,Fever,sun,dance,0.5
+Sun Hands,Fever,hands,fever,0.35294117647058826
+Sun Hands,Fever,hands,die,0.11764705882352941
+Sun Hands,Fever,hands,dance,0.11764705882352941
+Sun Hands,Fever,gorilla,fever,0.08333333333333333
+Sun Hands,Fever,gorilla,die,0.3333333333333333
+Sun Hands,Fever,gorilla,dance,0.3333333333333333
+Sun Hands,Fever,manor,fever,0.1111111111111111
+Sun Hands,Fever,manor,die,0.5555555555555556
+Sun Hands,Fever,manor,dance,0.5555555555555556
+Sun Hands,You Really Got Me (Album Version),sun,really,0
+Sun Hands,You Really Got Me (Album Version),sun,got,0
+Sun Hands,You Really Got Me (Album Version),sun,album,0.5
+Sun Hands,You Really Got Me (Album Version),sun,version,0.125
+Sun Hands,You Really Got Me (Album Version),sun,van,0.13333333333333333
+Sun Hands,You Really Got Me (Album Version),hands,really,0
+Sun Hands,You Really Got Me (Album Version),hands,got,0
+Sun Hands,You Really Got Me (Album Version),hands,album,0.11764705882352941
+Sun Hands,You Really Got Me (Album Version),hands,version,0.23529411764705882
+Sun Hands,You Really Got Me (Album Version),hands,van,0.25
+Sun Hands,You Really Got Me (Album Version),gorilla,really,0
+Sun Hands,You Really Got Me (Album Version),gorilla,got,0
+Sun Hands,You Really Got Me (Album Version),gorilla,album,0.3333333333333333
+Sun Hands,You Really Got Me (Album Version),gorilla,version,0.08333333333333333
+Sun Hands,You Really Got Me (Album Version),gorilla,van,0.08695652173913043
+Sun Hands,You Really Got Me (Album Version),manor,really,0
+Sun Hands,You Really Got Me (Album Version),manor,got,0
+Sun Hands,You Really Got Me (Album Version),manor,album,0.5555555555555556
+Sun Hands,You Really Got Me (Album Version),manor,version,0.1111111111111111
+Sun Hands,You Really Got Me (Album Version),manor,van,0.11764705882352941
+Sun Hands,Dreamin',sun,red,0.125
+Sun Hands,Dreamin',sun,album,0.5
+Sun Hands,Dreamin',hands,red,0.23529411764705882
+Sun Hands,Dreamin',hands,album,0.11764705882352941
+Sun Hands,Dreamin',gorilla,red,0.08333333333333333
+Sun Hands,Dreamin',gorilla,album,0.3333333333333333
+Sun Hands,Dreamin',manor,red,0.1111111111111111
+Sun Hands,Dreamin',manor,album,0.5555555555555556
+Camera Talk,Here It Goes Again,camera,goes,0.1111111111111111
+Camera Talk,Here It Goes Again,camera,oh,0.3157894736842105
+Camera Talk,Here It Goes Again,talk,goes,0.25
+Camera Talk,Here It Goes Again,talk,oh,0.11764705882352941
+Camera Talk,Here It Goes Again,camera,goes,0.1111111111111111
+Camera Talk,Here It Goes Again,camera,oh,0.3157894736842105
+Camera Talk,Here It Goes Again,talk,goes,0.25
+Camera Talk,Here It Goes Again,talk,oh,0.11764705882352941
+Camera Talk,Enter Shikari (Demo Version),camera,enter,0
+Camera Talk,Enter Shikari (Demo Version),camera,demo,0.14285714285714285
+Camera Talk,Enter Shikari (Demo Version),camera,version,0.11764705882352941
+Camera Talk,Enter Shikari (Demo Version),camera,zone,0.375
+Camera Talk,Enter Shikari (Demo Version),talk,enter,0
+Camera Talk,Enter Shikari (Demo Version),talk,demo,0.5
+Camera Talk,Enter Shikari (Demo Version),talk,version,0.4
+Camera Talk,Enter Shikari (Demo Version),talk,zone,0.14285714285714285
+Camera Talk,Enter Shikari (Demo Version),camera,enter,0
+Camera Talk,Enter Shikari (Demo Version),camera,demo,0.14285714285714285
+Camera Talk,Enter Shikari (Demo Version),camera,version,0.11764705882352941
+Camera Talk,Enter Shikari (Demo Version),camera,zone,0.375
+Camera Talk,Enter Shikari (Demo Version),talk,enter,0
+Camera Talk,Enter Shikari (Demo Version),talk,demo,0.5
+Camera Talk,Enter Shikari (Demo Version),talk,version,0.4
+Camera Talk,Enter Shikari (Demo Version),talk,zone,0.14285714285714285
+Camera Talk,Wanna Get With U,camera,wan,0.631578947368421
+Camera Talk,Wanna Get With U,camera,na,0.25
+Camera Talk,Wanna Get With U,camera,get,0.09090909090909091
+Camera Talk,Wanna Get With U,camera,u,0.2
+Camera Talk,Wanna Get With U,camera,guy,0.42105263157894735
+Camera Talk,Wanna Get With U,camera,best,0.11764705882352941
+Camera Talk,Wanna Get With U,talk,wan,0.11764705882352941
+Camera Talk,Wanna Get With U,talk,na,0.26666666666666666
+Camera Talk,Wanna Get With U,talk,get,0.2
+Camera Talk,Wanna Get With U,talk,u,0.21052631578947367
+Camera Talk,Wanna Get With U,talk,guy,0.14285714285714285
+Camera Talk,Wanna Get With U,talk,best,0.26666666666666666
+Camera Talk,Wanna Get With U,camera,wan,0.631578947368421
+Camera Talk,Wanna Get With U,camera,na,0.25
+Camera Talk,Wanna Get With U,camera,get,0.09090909090909091
+Camera Talk,Wanna Get With U,camera,u,0.2
+Camera Talk,Wanna Get With U,camera,guy,0.42105263157894735
+Camera Talk,Wanna Get With U,camera,best,0.11764705882352941
+Camera Talk,Wanna Get With U,talk,wan,0.11764705882352941
+Camera Talk,Wanna Get With U,talk,na,0.26666666666666666
+Camera Talk,Wanna Get With U,talk,get,0.2
+Camera Talk,Wanna Get With U,talk,u,0.21052631578947367
+Camera Talk,Wanna Get With U,talk,guy,0.14285714285714285
+Camera Talk,Wanna Get With U,talk,best,0.26666666666666666
+Camera Talk,The Choice Is Yours,camera,choice,0.11764705882352941
+Camera Talk,The Choice Is Yours,camera,wolf,0.34782608695652173
+Camera Talk,The Choice Is Yours,camera,sheep,0.32
+Camera Talk,The Choice Is Yours,camera,clothing,0.625
+Camera Talk,The Choice Is Yours,talk,choice,0.26666666666666666
+Camera Talk,The Choice Is Yours,talk,wolf,0.09523809523809523
+Camera Talk,The Choice Is Yours,talk,sheep,0.08695652173913043
+Camera Talk,The Choice Is Yours,talk,clothing,0.14285714285714285
+Camera Talk,The Choice Is Yours,camera,choice,0.11764705882352941
+Camera Talk,The Choice Is Yours,camera,wolf,0.34782608695652173
+Camera Talk,The Choice Is Yours,camera,sheep,0.32
+Camera Talk,The Choice Is Yours,camera,clothing,0.625
+Camera Talk,The Choice Is Yours,talk,choice,0.26666666666666666
+Camera Talk,The Choice Is Yours,talk,wolf,0.09523809523809523
+Camera Talk,The Choice Is Yours,talk,sheep,0.08695652173913043
+Camera Talk,The Choice Is Yours,talk,clothing,0.14285714285714285
+Camera Talk,Troublemaker,camera,troublemaker,0.4444444444444444
+Camera Talk,Troublemaker,talk,troublemaker,0.15384615384615385
+Camera Talk,Troublemaker,camera,troublemaker,0.4444444444444444
+Camera Talk,Troublemaker,talk,troublemaker,0.15384615384615385
+Camera Talk,Teddy's Jam,camera,teddy,0.625
+Camera Talk,Teddy's Jam,camera,jam,0.2
+Camera Talk,Teddy's Jam,camera,guy,0.42105263157894735
+Camera Talk,Teddy's Jam,camera,best,0.11764705882352941
+Camera Talk,Teddy's Jam,talk,teddy,0.14285714285714285
+Camera Talk,Teddy's Jam,talk,jam,0.1111111111111111
+Camera Talk,Teddy's Jam,talk,guy,0.14285714285714285
+Camera Talk,Teddy's Jam,talk,best,0.26666666666666666
+Camera Talk,Teddy's Jam,camera,teddy,0.625
+Camera Talk,Teddy's Jam,camera,jam,0.2
+Camera Talk,Teddy's Jam,camera,guy,0.42105263157894735
+Camera Talk,Teddy's Jam,camera,best,0.11764705882352941
+Camera Talk,Teddy's Jam,talk,teddy,0.14285714285714285
+Camera Talk,Teddy's Jam,talk,jam,0.1111111111111111
+Camera Talk,Teddy's Jam,talk,guy,0.14285714285714285
+Camera Talk,Teddy's Jam,talk,best,0.26666666666666666
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),camera,nada,0.14285714285714285
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),camera,antes,0.10526315789473684
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),camera,nothing,0.14285714285714285
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),camera,telecommunication,0.7058823529411765
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),talk,nada,0.3333333333333333
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),talk,antes,0.23529411764705882
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),talk,nothing,0.3333333333333333
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),talk,telecommunication,0.13333333333333333
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),camera,nada,0.14285714285714285
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),camera,antes,0.10526315789473684
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),camera,nothing,0.14285714285714285
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),camera,telecommunication,0.7058823529411765
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),talk,nada,0.3333333333333333
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),talk,antes,0.23529411764705882
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),talk,nothing,0.3333333333333333
+Camera Talk,Nothing Will Be As It Was (Nada Será Como Antes),talk,telecommunication,0.13333333333333333
+Camera Talk,Iron Man,camera,iron,0.25
+Camera Talk,Iron Man,camera,man,0.4444444444444444
+Camera Talk,Iron Man,camera,iron,0.25
+Camera Talk,Iron Man,camera,man,0.4444444444444444
+Camera Talk,Iron Man,talk,iron,0.26666666666666666
+Camera Talk,Iron Man,talk,man,0.15384615384615385
+Camera Talk,Iron Man,talk,iron,0.26666666666666666
+Camera Talk,Iron Man,talk,man,0.15384615384615385
+Camera Talk,Iron Man,camera,iron,0.25
+Camera Talk,Iron Man,camera,man,0.4444444444444444
+Camera Talk,Iron Man,camera,iron,0.25
+Camera Talk,Iron Man,camera,man,0.4444444444444444
+Camera Talk,Iron Man,talk,iron,0.26666666666666666
+Camera Talk,Iron Man,talk,man,0.15384615384615385
+Camera Talk,Iron Man,talk,iron,0.26666666666666666
+Camera Talk,Iron Man,talk,man,0.15384615384615385
+Camera Talk,Tribute,camera,tribute,0.13333333333333333
+Camera Talk,Tribute,camera,deluxe,0
+Camera Talk,Tribute,camera,version,0.11764705882352941
+Camera Talk,Tribute,talk,tribute,0.46153846153846156
+Camera Talk,Tribute,talk,deluxe,0
+Camera Talk,Tribute,talk,version,0.4
+Camera Talk,Tribute,camera,tribute,0.13333333333333333
+Camera Talk,Tribute,camera,deluxe,0
+Camera Talk,Tribute,camera,version,0.11764705882352941
+Camera Talk,Tribute,talk,tribute,0.46153846153846156
+Camera Talk,Tribute,talk,deluxe,0
+Camera Talk,Tribute,talk,version,0.4
+Camera Talk,Big Truck (Album Version),camera,big,0
+Camera Talk,Big Truck (Album Version),camera,truck,0.6
+Camera Talk,Big Truck (Album Version),camera,album,0.7058823529411765
+Camera Talk,Big Truck (Album Version),camera,version,0.11764705882352941
+Camera Talk,Big Truck (Album Version),camera,coal,0.2857142857142857
+Camera Talk,Big Truck (Album Version),camera,chamber,0.5555555555555556
+Camera Talk,Big Truck (Album Version),talk,big,0
+Camera Talk,Big Truck (Album Version),talk,truck,0.1111111111111111
+Camera Talk,Big Truck (Album Version),talk,album,0.13333333333333333
+Camera Talk,Big Truck (Album Version),talk,version,0.4
+Camera Talk,Big Truck (Album Version),talk,coal,0.16666666666666666
+Camera Talk,Big Truck (Album Version),talk,chamber,0.125
+Camera Talk,Big Truck (Album Version),camera,big,0
+Camera Talk,Big Truck (Album Version),camera,truck,0.6
+Camera Talk,Big Truck (Album Version),camera,album,0.7058823529411765
+Camera Talk,Big Truck (Album Version),camera,version,0.11764705882352941
+Camera Talk,Big Truck (Album Version),camera,coal,0.2857142857142857
+Camera Talk,Big Truck (Album Version),camera,chamber,0.5555555555555556
+Camera Talk,Big Truck (Album Version),talk,big,0
+Camera Talk,Big Truck (Album Version),talk,truck,0.1111111111111111
+Camera Talk,Big Truck (Album Version),talk,album,0.13333333333333333
+Camera Talk,Big Truck (Album Version),talk,version,0.4
+Camera Talk,Big Truck (Album Version),talk,coal,0.16666666666666666
+Camera Talk,Big Truck (Album Version),talk,chamber,0.125
+Camera Talk,Fever,camera,fever,0.11764705882352941
+Camera Talk,Fever,camera,die,0.5882352941176471
+Camera Talk,Fever,camera,dance,0.5882352941176471
+Camera Talk,Fever,talk,fever,0.26666666666666666
+Camera Talk,Fever,talk,die,0.13333333333333333
+Camera Talk,Fever,talk,dance,0.13333333333333333
+Camera Talk,Fever,camera,fever,0.11764705882352941
+Camera Talk,Fever,camera,die,0.5882352941176471
+Camera Talk,Fever,camera,dance,0.5882352941176471
+Camera Talk,Fever,talk,fever,0.26666666666666666
+Camera Talk,Fever,talk,die,0.13333333333333333
+Camera Talk,Fever,talk,dance,0.13333333333333333
+Camera Talk,You Really Got Me (Album Version),camera,really,0
+Camera Talk,You Really Got Me (Album Version),camera,got,0
+Camera Talk,You Really Got Me (Album Version),camera,album,0.7058823529411765
+Camera Talk,You Really Got Me (Album Version),camera,version,0.11764705882352941
+Camera Talk,You Really Got Me (Album Version),camera,van,0.125
+Camera Talk,You Really Got Me (Album Version),talk,really,0
+Camera Talk,You Really Got Me (Album Version),talk,got,0
+Camera Talk,You Really Got Me (Album Version),talk,album,0.13333333333333333
+Camera Talk,You Really Got Me (Album Version),talk,version,0.4
+Camera Talk,You Really Got Me (Album Version),talk,van,0.2857142857142857
+Camera Talk,You Really Got Me (Album Version),camera,really,0
+Camera Talk,You Really Got Me (Album Version),camera,got,0
+Camera Talk,You Really Got Me (Album Version),camera,album,0.7058823529411765
+Camera Talk,You Really Got Me (Album Version),camera,version,0.11764705882352941
+Camera Talk,You Really Got Me (Album Version),camera,van,0.125
+Camera Talk,You Really Got Me (Album Version),talk,really,0
+Camera Talk,You Really Got Me (Album Version),talk,got,0
+Camera Talk,You Really Got Me (Album Version),talk,album,0.13333333333333333
+Camera Talk,You Really Got Me (Album Version),talk,version,0.4
+Camera Talk,You Really Got Me (Album Version),talk,van,0.2857142857142857
+Camera Talk,Dreamin',camera,red,0.11764705882352941
+Camera Talk,Dreamin',camera,album,0.7058823529411765
+Camera Talk,Dreamin',talk,red,0.26666666666666666
+Camera Talk,Dreamin',talk,album,0.13333333333333333
+Camera Talk,Dreamin',camera,red,0.11764705882352941
+Camera Talk,Dreamin',camera,album,0.7058823529411765
+Camera Talk,Dreamin',talk,red,0.26666666666666666
+Camera Talk,Dreamin',talk,album,0.13333333333333333
+Belle,Here It Goes Again,beautiful,goes,0
+Belle,Here It Goes Again,beautiful,oh,0
+Belle,Here It Goes Again,dreams,goes,0.2222222222222222
+Belle,Here It Goes Again,dreams,oh,0.10526315789473684
+Belle,Enter Shikari (Demo Version),beautiful,enter,0
+Belle,Enter Shikari (Demo Version),beautiful,demo,0
+Belle,Enter Shikari (Demo Version),beautiful,version,0
+Belle,Enter Shikari (Demo Version),beautiful,zone,0
+Belle,Enter Shikari (Demo Version),dreams,enter,0
+Belle,Enter Shikari (Demo Version),dreams,demo,0.2857142857142857
+Belle,Enter Shikari (Demo Version),dreams,version,0.23529411764705882
+Belle,Enter Shikari (Demo Version),dreams,zone,0.125
+Belle,Wanna Get With U,beautiful,wan,0
+Belle,Wanna Get With U,beautiful,na,0
+Belle,Wanna Get With U,beautiful,get,0
+Belle,Wanna Get With U,beautiful,u,0
+Belle,Wanna Get With U,beautiful,guy,0
+Belle,Wanna Get With U,beautiful,best,0
+Belle,Wanna Get With U,dreams,wan,0.10526315789473684
+Belle,Wanna Get With U,dreams,na,0.23529411764705882
+Belle,Wanna Get With U,dreams,get,0.2727272727272727
+Belle,Wanna Get With U,dreams,u,0.19047619047619047
+Belle,Wanna Get With U,dreams,guy,0.125
+Belle,Wanna Get With U,dreams,best,0.35294117647058826
+Belle,The Choice Is Yours,beautiful,choice,0
+Belle,The Choice Is Yours,beautiful,wolf,0
+Belle,The Choice Is Yours,beautiful,sheep,0
+Belle,The Choice Is Yours,beautiful,clothing,0
+Belle,The Choice Is Yours,dreams,choice,0.5882352941176471
+Belle,The Choice Is Yours,dreams,wolf,0.08695652173913043
+Belle,The Choice Is Yours,dreams,sheep,0.08
+Belle,The Choice Is Yours,dreams,clothing,0.125
+Belle,Troublemaker,beautiful,troublemaker,0
+Belle,Troublemaker,dreams,troublemaker,0.13333333333333333
+Belle,Teddy's Jam,beautiful,teddy,0
+Belle,Teddy's Jam,beautiful,jam,0
+Belle,Teddy's Jam,beautiful,guy,0
+Belle,Teddy's Jam,beautiful,best,0
+Belle,Teddy's Jam,dreams,teddy,0.125
+Belle,Teddy's Jam,dreams,jam,0.1
+Belle,Teddy's Jam,dreams,guy,0.125
+Belle,Teddy's Jam,dreams,best,0.35294117647058826
+Belle,Nothing Will Be As It Was (Nada Será Como Antes),beautiful,nada,0
+Belle,Nothing Will Be As It Was (Nada Será Como Antes),beautiful,antes,0
+Belle,Nothing Will Be As It Was (Nada Será Como Antes),beautiful,nothing,0
+Belle,Nothing Will Be As It Was (Nada Será Como Antes),beautiful,telecommunication,0
+Belle,Nothing Will Be As It Was (Nada Será Como Antes),dreams,nada,0.2857142857142857
+Belle,Nothing Will Be As It Was (Nada Será Como Antes),dreams,antes,0.21052631578947367
+Belle,Nothing Will Be As It Was (Nada Será Como Antes),dreams,nothing,0.2857142857142857
+Belle,Nothing Will Be As It Was (Nada Será Como Antes),dreams,telecommunication,0.11764705882352941
+Belle,Iron Man,beautiful,iron,0
+Belle,Iron Man,beautiful,man,0
+Belle,Iron Man,beautiful,iron,0
+Belle,Iron Man,beautiful,man,0
+Belle,Iron Man,dreams,iron,0.23529411764705882
+Belle,Iron Man,dreams,man,0.13333333333333333
+Belle,Iron Man,dreams,iron,0.23529411764705882
+Belle,Iron Man,dreams,man,0.13333333333333333
+Belle,Tribute,beautiful,tribute,0
+Belle,Tribute,beautiful,deluxe,0
+Belle,Tribute,beautiful,version,0
+Belle,Tribute,dreams,tribute,0.26666666666666666
+Belle,Tribute,dreams,deluxe,0
+Belle,Tribute,dreams,version,0.23529411764705882
+Belle,Big Truck (Album Version),beautiful,big,0
+Belle,Big Truck (Album Version),beautiful,truck,0
+Belle,Big Truck (Album Version),beautiful,album,0
+Belle,Big Truck (Album Version),beautiful,version,0
+Belle,Big Truck (Album Version),beautiful,coal,0
+Belle,Big Truck (Album Version),beautiful,chamber,0
+Belle,Big Truck (Album Version),dreams,big,0
+Belle,Big Truck (Album Version),dreams,truck,0.1
+Belle,Big Truck (Album Version),dreams,album,0.11764705882352941
+Belle,Big Truck (Album Version),dreams,version,0.23529411764705882
+Belle,Big Truck (Album Version),dreams,coal,0.14285714285714285
+Belle,Big Truck (Album Version),dreams,chamber,0.1111111111111111
+Belle,Fever,beautiful,fever,0
+Belle,Fever,beautiful,die,0
+Belle,Fever,beautiful,dance,0
+Belle,Fever,dreams,fever,0.47058823529411764
+Belle,Fever,dreams,die,0.11764705882352941
+Belle,Fever,dreams,dance,0.11764705882352941
+Belle,You Really Got Me (Album Version),beautiful,really,0
+Belle,You Really Got Me (Album Version),beautiful,got,0
+Belle,You Really Got Me (Album Version),beautiful,album,0
+Belle,You Really Got Me (Album Version),beautiful,version,0
+Belle,You Really Got Me (Album Version),beautiful,van,0
+Belle,You Really Got Me (Album Version),dreams,really,0
+Belle,You Really Got Me (Album Version),dreams,got,0
+Belle,You Really Got Me (Album Version),dreams,album,0.11764705882352941
+Belle,You Really Got Me (Album Version),dreams,version,0.23529411764705882
+Belle,You Really Got Me (Album Version),dreams,van,0.25
+Belle,Dreamin',beautiful,red,0
+Belle,Dreamin',beautiful,album,0
+Belle,Dreamin',dreams,red,0.23529411764705882
+Belle,Dreamin',dreams,album,0.11764705882352941
+Auto Rock,Here It Goes Again,auto,goes,0.1
+Auto Rock,Here It Goes Again,auto,oh,0.2857142857142857
+Auto Rock,Here It Goes Again,rock,goes,0.13333333333333333
+Auto Rock,Here It Goes Again,rock,oh,0.375
+Auto Rock,Here It Goes Again,mr,goes,0.2222222222222222
+Auto Rock,Here It Goes Again,mr,oh,0.10526315789473684
+Auto Rock,Here It Goes Again,beast,goes,0.125
+Auto Rock,Here It Goes Again,beast,oh,0.35294117647058826
+Auto Rock,Enter Shikari (Demo Version),auto,enter,0
+Auto Rock,Enter Shikari (Demo Version),auto,demo,0.125
+Auto Rock,Enter Shikari (Demo Version),auto,version,0.10526315789473684
+Auto Rock,Enter Shikari (Demo Version),auto,zone,0.3333333333333333
+Auto Rock,Enter Shikari (Demo Version),rock,enter,0
+Auto Rock,Enter Shikari (Demo Version),rock,demo,0.18181818181818182
+Auto Rock,Enter Shikari (Demo Version),rock,version,0.14285714285714285
+Auto Rock,Enter Shikari (Demo Version),rock,zone,0.46153846153846156
+Auto Rock,Enter Shikari (Demo Version),mr,enter,0
+Auto Rock,Enter Shikari (Demo Version),mr,demo,0.2857142857142857
+Auto Rock,Enter Shikari (Demo Version),mr,version,0.23529411764705882
+Auto Rock,Enter Shikari (Demo Version),mr,zone,0.125
+Auto Rock,Enter Shikari (Demo Version),beast,enter,0
+Auto Rock,Enter Shikari (Demo Version),beast,demo,0.16666666666666666
+Auto Rock,Enter Shikari (Demo Version),beast,version,0.13333333333333333
+Auto Rock,Enter Shikari (Demo Version),beast,zone,0.42857142857142855
+Auto Rock,Wanna Get With U,auto,wan,0.5714285714285714
+Auto Rock,Wanna Get With U,auto,na,0.2222222222222222
+Auto Rock,Wanna Get With U,auto,get,0.08333333333333333
+Auto Rock,Wanna Get With U,auto,u,0.18181818181818182
+Auto Rock,Wanna Get With U,auto,guy,0.38095238095238093
+Auto Rock,Wanna Get With U,auto,best,0.10526315789473684
+Auto Rock,Wanna Get With U,rock,wan,0.5
+Auto Rock,Wanna Get With U,rock,na,0.3076923076923077
+Auto Rock,Wanna Get With U,rock,get,0.10526315789473684
+Auto Rock,Wanna Get With U,rock,u,0.23529411764705882
+Auto Rock,Wanna Get With U,rock,guy,0.5
+Auto Rock,Wanna Get With U,rock,best,0.14285714285714285
+Auto Rock,Wanna Get With U,mr,wan,0.10526315789473684
+Auto Rock,Wanna Get With U,mr,na,0.47058823529411764
+Auto Rock,Wanna Get With U,mr,get,0.18181818181818182
+Auto Rock,Wanna Get With U,mr,u,0.38095238095238093
+Auto Rock,Wanna Get With U,mr,guy,0.125
+Auto Rock,Wanna Get With U,mr,best,0.23529411764705882
+Auto Rock,Wanna Get With U,beast,wan,0.47058823529411764
+Auto Rock,Wanna Get With U,beast,na,0.2857142857142857
+Auto Rock,Wanna Get With U,beast,get,0.1
+Auto Rock,Wanna Get With U,beast,u,0.2222222222222222
+Auto Rock,Wanna Get With U,beast,guy,0.7058823529411765
+Auto Rock,Wanna Get With U,beast,best,0.13333333333333333
+Auto Rock,The Choice Is Yours,auto,choice,0.10526315789473684
+Auto Rock,The Choice Is Yours,auto,wolf,0.32
+Auto Rock,The Choice Is Yours,auto,sheep,0.2962962962962963
+Auto Rock,The Choice Is Yours,auto,clothing,0.5555555555555556
+Auto Rock,The Choice Is Yours,rock,choice,0.14285714285714285
+Auto Rock,The Choice Is Yours,rock,wolf,0.4
+Auto Rock,The Choice Is Yours,rock,sheep,0.36363636363636365
+Auto Rock,The Choice Is Yours,rock,clothing,0.6153846153846154
+Auto Rock,The Choice Is Yours,mr,choice,0.23529411764705882
+Auto Rock,The Choice Is Yours,mr,wolf,0.08695652173913043
+Auto Rock,The Choice Is Yours,mr,sheep,0.08
+Auto Rock,The Choice Is Yours,mr,clothing,0.125
+Auto Rock,The Choice Is Yours,beast,choice,0.13333333333333333
+Auto Rock,The Choice Is Yours,beast,wolf,0.6666666666666666
+Auto Rock,The Choice Is Yours,beast,sheep,0.6086956521739131
+Auto Rock,The Choice Is Yours,beast,clothing,0.5714285714285714
+Auto Rock,Troublemaker,auto,troublemaker,0.4
+Auto Rock,Troublemaker,rock,troublemaker,0.5333333333333333
+Auto Rock,Troublemaker,mr,troublemaker,0.13333333333333333
+Auto Rock,Troublemaker,beast,troublemaker,0.75
+Auto Rock,Teddy's Jam,auto,teddy,0.5555555555555556
+Auto Rock,Teddy's Jam,auto,jam,0.18181818181818182
+Auto Rock,Teddy's Jam,auto,guy,0.38095238095238093
+Auto Rock,Teddy's Jam,auto,best,0.10526315789473684
+Auto Rock,Teddy's Jam,rock,teddy,0.6153846153846154
+Auto Rock,Teddy's Jam,rock,jam,0.23529411764705882
+Auto Rock,Teddy's Jam,rock,guy,0.5
+Auto Rock,Teddy's Jam,rock,best,0.14285714285714285
+Auto Rock,Teddy's Jam,mr,teddy,0.125
+Auto Rock,Teddy's Jam,mr,jam,0.1
+Auto Rock,Teddy's Jam,mr,guy,0.125
+Auto Rock,Teddy's Jam,mr,best,0.23529411764705882
+Auto Rock,Teddy's Jam,beast,teddy,0.5714285714285714
+Auto Rock,Teddy's Jam,beast,jam,0.2222222222222222
+Auto Rock,Teddy's Jam,beast,guy,0.7058823529411765
+Auto Rock,Teddy's Jam,beast,best,0.13333333333333333
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),auto,nada,0.125
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),auto,antes,0.09523809523809523
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),auto,nothing,0.125
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),auto,telecommunication,0.631578947368421
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),rock,nada,0.18181818181818182
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),rock,antes,0.125
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),rock,nothing,0.18181818181818182
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),rock,telecommunication,0.5714285714285714
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),mr,nada,0.2857142857142857
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),mr,antes,0.3157894736842105
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),mr,nothing,0.2857142857142857
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),mr,telecommunication,0.11764705882352941
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),beast,nada,0.16666666666666666
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),beast,antes,0.11764705882352941
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),beast,nothing,0.16666666666666666
+Auto Rock,Nothing Will Be As It Was (Nada Será Como Antes),beast,telecommunication,0.5333333333333333
+Auto Rock,Iron Man,auto,iron,0.2222222222222222
+Auto Rock,Iron Man,auto,man,0.4
+Auto Rock,Iron Man,auto,iron,0.2222222222222222
+Auto Rock,Iron Man,auto,man,0.4
+Auto Rock,Iron Man,rock,iron,0.3076923076923077
+Auto Rock,Iron Man,rock,man,0.5333333333333333
+Auto Rock,Iron Man,rock,iron,0.3076923076923077
+Auto Rock,Iron Man,rock,man,0.5333333333333333
+Auto Rock,Iron Man,mr,iron,0.47058823529411764
+Auto Rock,Iron Man,mr,man,0.13333333333333333
+Auto Rock,Iron Man,mr,iron,0.47058823529411764
+Auto Rock,Iron Man,mr,man,0.13333333333333333
+Auto Rock,Iron Man,beast,iron,0.2857142857142857
+Auto Rock,Iron Man,beast,man,0.75
+Auto Rock,Iron Man,beast,iron,0.2857142857142857
+Auto Rock,Iron Man,beast,man,0.75
+Auto Rock,Tribute,auto,tribute,0.11764705882352941
+Auto Rock,Tribute,auto,deluxe,0
+Auto Rock,Tribute,auto,version,0.10526315789473684
+Auto Rock,Tribute,rock,tribute,0.16666666666666666
+Auto Rock,Tribute,rock,deluxe,0
+Auto Rock,Tribute,rock,version,0.14285714285714285
+Auto Rock,Tribute,mr,tribute,0.26666666666666666
+Auto Rock,Tribute,mr,deluxe,0
+Auto Rock,Tribute,mr,version,0.23529411764705882
+Auto Rock,Tribute,beast,tribute,0.15384615384615385
+Auto Rock,Tribute,beast,deluxe,0
+Auto Rock,Tribute,beast,version,0.13333333333333333
+Auto Rock,Big Truck (Album Version),auto,big,0
+Auto Rock,Big Truck (Album Version),auto,truck,0.9166666666666666
+Auto Rock,Big Truck (Album Version),auto,album,0.631578947368421
+Auto Rock,Big Truck (Album Version),auto,version,0.10526315789473684
+Auto Rock,Big Truck (Album Version),auto,coal,0.25
+Auto Rock,Big Truck (Album Version),auto,chamber,0.5
+Auto Rock,Big Truck (Album Version),rock,big,0
+Auto Rock,Big Truck (Album Version),rock,truck,0.47058823529411764
+Auto Rock,Big Truck (Album Version),rock,album,0.5714285714285714
+Auto Rock,Big Truck (Album Version),rock,version,0.14285714285714285
+Auto Rock,Big Truck (Album Version),rock,coal,0.36363636363636365
+Auto Rock,Big Truck (Album Version),rock,chamber,0.5333333333333333
+Auto Rock,Big Truck (Album Version),mr,big,0
+Auto Rock,Big Truck (Album Version),mr,truck,0.1
+Auto Rock,Big Truck (Album Version),mr,album,0.11764705882352941
+Auto Rock,Big Truck (Album Version),mr,version,0.23529411764705882
+Auto Rock,Big Truck (Album Version),mr,coal,0.14285714285714285
+Auto Rock,Big Truck (Album Version),mr,chamber,0.1111111111111111
+Auto Rock,Big Truck (Album Version),beast,big,0
+Auto Rock,Big Truck (Album Version),beast,truck,0.4444444444444444
+Auto Rock,Big Truck (Album Version),beast,album,0.5333333333333333
+Auto Rock,Big Truck (Album Version),beast,version,0.13333333333333333
+Auto Rock,Big Truck (Album Version),beast,coal,0.3333333333333333
+Auto Rock,Big Truck (Album Version),beast,chamber,0.5
+Auto Rock,Fever,auto,fever,0.10526315789473684
+Auto Rock,Fever,auto,die,0.5263157894736842
+Auto Rock,Fever,auto,dance,0.5263157894736842
+Auto Rock,Fever,rock,fever,0.14285714285714285
+Auto Rock,Fever,rock,die,0.5714285714285714
+Auto Rock,Fever,rock,dance,0.5714285714285714
+Auto Rock,Fever,mr,fever,0.23529411764705882
+Auto Rock,Fever,mr,die,0.11764705882352941
+Auto Rock,Fever,mr,dance,0.11764705882352941
+Auto Rock,Fever,beast,fever,0.13333333333333333
+Auto Rock,Fever,beast,die,0.5333333333333333
+Auto Rock,Fever,beast,dance,0.5333333333333333
+Auto Rock,You Really Got Me (Album Version),auto,really,0
+Auto Rock,You Really Got Me (Album Version),auto,got,0
+Auto Rock,You Really Got Me (Album Version),auto,album,0.631578947368421
+Auto Rock,You Really Got Me (Album Version),auto,version,0.10526315789473684
+Auto Rock,You Really Got Me (Album Version),auto,van,0.1111111111111111
+Auto Rock,You Really Got Me (Album Version),rock,really,0
+Auto Rock,You Really Got Me (Album Version),rock,got,0
+Auto Rock,You Really Got Me (Album Version),rock,album,0.5714285714285714
+Auto Rock,You Really Got Me (Album Version),rock,version,0.14285714285714285
+Auto Rock,You Really Got Me (Album Version),rock,van,0.15384615384615385
+Auto Rock,You Really Got Me (Album Version),mr,really,0
+Auto Rock,You Really Got Me (Album Version),mr,got,0
+Auto Rock,You Really Got Me (Album Version),mr,album,0.11764705882352941
+Auto Rock,You Really Got Me (Album Version),mr,version,0.23529411764705882
+Auto Rock,You Really Got Me (Album Version),mr,van,0.25
+Auto Rock,You Really Got Me (Album Version),beast,really,0
+Auto Rock,You Really Got Me (Album Version),beast,got,0
+Auto Rock,You Really Got Me (Album Version),beast,album,0.5333333333333333
+Auto Rock,You Really Got Me (Album Version),beast,version,0.13333333333333333
+Auto Rock,You Really Got Me (Album Version),beast,van,0.14285714285714285
+Auto Rock,Dreamin',auto,red,0.10526315789473684
+Auto Rock,Dreamin',auto,album,0.631578947368421
+Auto Rock,Dreamin',rock,red,0.14285714285714285
+Auto Rock,Dreamin',rock,album,0.5714285714285714
+Auto Rock,Dreamin',mr,red,0.23529411764705882
+Auto Rock,Dreamin',mr,album,0.11764705882352941
+Auto Rock,Dreamin',beast,red,0.13333333333333333
+Auto Rock,Dreamin',beast,album,0.5333333333333333
+Who Knows Who Cares,Here It Goes Again,knows,goes,0.23529411764705882
+Who Knows Who Cares,Here It Goes Again,knows,oh,0.1111111111111111
+Who Knows Who Cares,Here It Goes Again,cares,goes,0.23529411764705882
+Who Knows Who Cares,Here It Goes Again,cares,oh,0.1111111111111111
+Who Knows Who Cares,Here It Goes Again,gorilla,goes,0.08
+Who Knows Who Cares,Here It Goes Again,gorilla,oh,0.23076923076923078
+Who Knows Who Cares,Here It Goes Again,manor,goes,0.10526315789473684
+Who Knows Who Cares,Here It Goes Again,manor,oh,0.3
+Who Knows Who Cares,Enter Shikari (Demo Version),knows,enter,0
+Who Knows Who Cares,Enter Shikari (Demo Version),knows,demo,0.3076923076923077
+Who Knows Who Cares,Enter Shikari (Demo Version),knows,version,0.25
+Who Knows Who Cares,Enter Shikari (Demo Version),knows,zone,0.13333333333333333
+Who Knows Who Cares,Enter Shikari (Demo Version),cares,enter,0
+Who Knows Who Cares,Enter Shikari (Demo Version),cares,demo,0.3076923076923077
+Who Knows Who Cares,Enter Shikari (Demo Version),cares,version,0.25
+Who Knows Who Cares,Enter Shikari (Demo Version),cares,zone,0.13333333333333333
+Who Knows Who Cares,Enter Shikari (Demo Version),gorilla,enter,0
+Who Knows Who Cares,Enter Shikari (Demo Version),gorilla,demo,0.09523809523809523
+Who Knows Who Cares,Enter Shikari (Demo Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Enter Shikari (Demo Version),gorilla,zone,0.2608695652173913
+Who Knows Who Cares,Enter Shikari (Demo Version),manor,enter,0
+Who Knows Who Cares,Enter Shikari (Demo Version),manor,demo,0.13333333333333333
+Who Knows Who Cares,Enter Shikari (Demo Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Enter Shikari (Demo Version),manor,zone,0.35294117647058826
+Who Knows Who Cares,Wanna Get With U,knows,wan,0.1111111111111111
+Who Knows Who Cares,Wanna Get With U,knows,na,0.25
+Who Knows Who Cares,Wanna Get With U,knows,get,0.2857142857142857
+Who Knows Who Cares,Wanna Get With U,knows,u,0.2
+Who Knows Who Cares,Wanna Get With U,knows,guy,0.13333333333333333
+Who Knows Who Cares,Wanna Get With U,knows,best,0.375
+Who Knows Who Cares,Wanna Get With U,cares,wan,0.1111111111111111
+Who Knows Who Cares,Wanna Get With U,cares,na,0.25
+Who Knows Who Cares,Wanna Get With U,cares,get,0.47619047619047616
+Who Knows Who Cares,Wanna Get With U,cares,u,0.2
+Who Knows Who Cares,Wanna Get With U,cares,guy,0.13333333333333333
+Who Knows Who Cares,Wanna Get With U,cares,best,0.75
+Who Knows Who Cares,Wanna Get With U,gorilla,wan,0.3076923076923077
+Who Knows Who Cares,Wanna Get With U,gorilla,na,0.17391304347826086
+Who Knows Who Cares,Wanna Get With U,gorilla,get,0.06896551724137931
+Who Knows Who Cares,Wanna Get With U,gorilla,u,0.14814814814814814
+Who Knows Who Cares,Wanna Get With U,gorilla,guy,0.46153846153846156
+Who Knows Who Cares,Wanna Get With U,gorilla,best,0.08333333333333333
+Who Knows Who Cares,Wanna Get With U,manor,wan,0.5
+Who Knows Who Cares,Wanna Get With U,manor,na,0.23529411764705882
+Who Knows Who Cares,Wanna Get With U,manor,get,0.08695652173913043
+Who Knows Who Cares,Wanna Get With U,manor,u,0.19047619047619047
+Who Knows Who Cares,Wanna Get With U,manor,guy,0.4
+Who Knows Who Cares,Wanna Get With U,manor,best,0.1111111111111111
+Who Knows Who Cares,The Choice Is Yours,knows,choice,0.75
+Who Knows Who Cares,The Choice Is Yours,knows,wolf,0.09090909090909091
+Who Knows Who Cares,The Choice Is Yours,knows,sheep,0.08333333333333333
+Who Knows Who Cares,The Choice Is Yours,knows,clothing,0.13333333333333333
+Who Knows Who Cares,The Choice Is Yours,cares,choice,0.375
+Who Knows Who Cares,The Choice Is Yours,cares,wolf,0.09090909090909091
+Who Knows Who Cares,The Choice Is Yours,cares,sheep,0.08333333333333333
+Who Knows Who Cares,The Choice Is Yours,cares,clothing,0.13333333333333333
+Who Knows Who Cares,The Choice Is Yours,gorilla,choice,0.08333333333333333
+Who Knows Who Cares,The Choice Is Yours,gorilla,wolf,0.7333333333333333
+Who Knows Who Cares,The Choice Is Yours,gorilla,sheep,0.6875
+Who Knows Who Cares,The Choice Is Yours,gorilla,clothing,0.34782608695652173
+Who Knows Who Cares,The Choice Is Yours,manor,choice,0.1111111111111111
+Who Knows Who Cares,The Choice Is Yours,manor,wolf,0.3333333333333333
+Who Knows Who Cares,The Choice Is Yours,manor,sheep,0.3076923076923077
+Who Knows Who Cares,The Choice Is Yours,manor,clothing,0.5882352941176471
+Who Knows Who Cares,Troublemaker,knows,troublemaker,0.14285714285714285
+Who Knows Who Cares,Troublemaker,cares,troublemaker,0.14285714285714285
+Who Knows Who Cares,Troublemaker,gorilla,troublemaker,0.48
+Who Knows Who Cares,Troublemaker,manor,troublemaker,0.42105263157894735
+Who Knows Who Cares,Teddy's Jam,knows,teddy,0.13333333333333333
+Who Knows Who Cares,Teddy's Jam,knows,jam,0.10526315789473684
+Who Knows Who Cares,Teddy's Jam,knows,guy,0.13333333333333333
+Who Knows Who Cares,Teddy's Jam,knows,best,0.375
+Who Knows Who Cares,Teddy's Jam,cares,teddy,0.13333333333333333
+Who Knows Who Cares,Teddy's Jam,cares,jam,0.10526315789473684
+Who Knows Who Cares,Teddy's Jam,cares,guy,0.13333333333333333
+Who Knows Who Cares,Teddy's Jam,cares,best,0.75
+Who Knows Who Cares,Teddy's Jam,gorilla,teddy,0.34782608695652173
+Who Knows Who Cares,Teddy's Jam,gorilla,jam,0.14814814814814814
+Who Knows Who Cares,Teddy's Jam,gorilla,guy,0.46153846153846156
+Who Knows Who Cares,Teddy's Jam,gorilla,best,0.08333333333333333
+Who Knows Who Cares,Teddy's Jam,manor,teddy,0.5882352941176471
+Who Knows Who Cares,Teddy's Jam,manor,jam,0.19047619047619047
+Who Knows Who Cares,Teddy's Jam,manor,guy,0.4
+Who Knows Who Cares,Teddy's Jam,manor,best,0.1111111111111111
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),knows,nada,0.3076923076923077
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),knows,antes,0.2222222222222222
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),knows,nothing,0.3076923076923077
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),knows,telecommunication,0.125
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),cares,nada,0.3076923076923077
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),cares,antes,0.2222222222222222
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),cares,nothing,0.3076923076923077
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),cares,telecommunication,0.125
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),gorilla,nada,0.09523809523809523
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),gorilla,antes,0.07692307692307693
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),gorilla,nothing,0.09523809523809523
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),gorilla,telecommunication,0.3333333333333333
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),manor,nada,0.13333333333333333
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),manor,antes,0.1
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),manor,nothing,0.13333333333333333
+Who Knows Who Cares,Nothing Will Be As It Was (Nada Será Como Antes),manor,telecommunication,0.5555555555555556
+Who Knows Who Cares,Iron Man,knows,iron,0.25
+Who Knows Who Cares,Iron Man,knows,man,0.14285714285714285
+Who Knows Who Cares,Iron Man,knows,iron,0.25
+Who Knows Who Cares,Iron Man,knows,man,0.14285714285714285
+Who Knows Who Cares,Iron Man,cares,iron,0.25
+Who Knows Who Cares,Iron Man,cares,man,0.14285714285714285
+Who Knows Who Cares,Iron Man,cares,iron,0.25
+Who Knows Who Cares,Iron Man,cares,man,0.14285714285714285
+Who Knows Who Cares,Iron Man,gorilla,iron,0.17391304347826086
+Who Knows Who Cares,Iron Man,gorilla,man,0.48
+Who Knows Who Cares,Iron Man,gorilla,iron,0.17391304347826086
+Who Knows Who Cares,Iron Man,gorilla,man,0.48
+Who Knows Who Cares,Iron Man,manor,iron,0.23529411764705882
+Who Knows Who Cares,Iron Man,manor,man,0.42105263157894735
+Who Knows Who Cares,Iron Man,manor,iron,0.23529411764705882
+Who Knows Who Cares,Iron Man,manor,man,0.42105263157894735
+Who Knows Who Cares,Tribute,knows,tribute,0.2857142857142857
+Who Knows Who Cares,Tribute,knows,deluxe,0
+Who Knows Who Cares,Tribute,knows,version,0.25
+Who Knows Who Cares,Tribute,cares,tribute,0.2857142857142857
+Who Knows Who Cares,Tribute,cares,deluxe,0
+Who Knows Who Cares,Tribute,cares,version,0.25
+Who Knows Who Cares,Tribute,gorilla,tribute,0.09090909090909091
+Who Knows Who Cares,Tribute,gorilla,deluxe,0
+Who Knows Who Cares,Tribute,gorilla,version,0.08333333333333333
+Who Knows Who Cares,Tribute,manor,tribute,0.125
+Who Knows Who Cares,Tribute,manor,deluxe,0
+Who Knows Who Cares,Tribute,manor,version,0.1111111111111111
+Who Knows Who Cares,Big Truck (Album Version),knows,big,0
+Who Knows Who Cares,Big Truck (Album Version),knows,truck,0.10526315789473684
+Who Knows Who Cares,Big Truck (Album Version),knows,album,0.125
+Who Knows Who Cares,Big Truck (Album Version),knows,version,0.25
+Who Knows Who Cares,Big Truck (Album Version),knows,coal,0.15384615384615385
+Who Knows Who Cares,Big Truck (Album Version),knows,chamber,0.11764705882352941
+Who Knows Who Cares,Big Truck (Album Version),cares,big,0
+Who Knows Who Cares,Big Truck (Album Version),cares,truck,0.10526315789473684
+Who Knows Who Cares,Big Truck (Album Version),cares,album,0.125
+Who Knows Who Cares,Big Truck (Album Version),cares,version,0.25
+Who Knows Who Cares,Big Truck (Album Version),cares,coal,0.15384615384615385
+Who Knows Who Cares,Big Truck (Album Version),cares,chamber,0.11764705882352941
+Who Knows Who Cares,Big Truck (Album Version),gorilla,big,0
+Who Knows Who Cares,Big Truck (Album Version),gorilla,truck,0.2962962962962963
+Who Knows Who Cares,Big Truck (Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,Big Truck (Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Big Truck (Album Version),gorilla,coal,0.19047619047619047
+Who Knows Who Cares,Big Truck (Album Version),gorilla,chamber,0.32
+Who Knows Who Cares,Big Truck (Album Version),manor,big,0
+Who Knows Who Cares,Big Truck (Album Version),manor,truck,0.47619047619047616
+Who Knows Who Cares,Big Truck (Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,Big Truck (Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Big Truck (Album Version),manor,coal,0.26666666666666666
+Who Knows Who Cares,Big Truck (Album Version),manor,chamber,0.631578947368421
+Who Knows Who Cares,Fever,knows,fever,0.5
+Who Knows Who Cares,Fever,knows,die,0.125
+Who Knows Who Cares,Fever,knows,dance,0.125
+Who Knows Who Cares,Fever,cares,fever,0.375
+Who Knows Who Cares,Fever,cares,die,0.125
+Who Knows Who Cares,Fever,cares,dance,0.125
+Who Knows Who Cares,Fever,gorilla,fever,0.08333333333333333
+Who Knows Who Cares,Fever,gorilla,die,0.3333333333333333
+Who Knows Who Cares,Fever,gorilla,dance,0.3333333333333333
+Who Knows Who Cares,Fever,manor,fever,0.1111111111111111
+Who Knows Who Cares,Fever,manor,die,0.5555555555555556
+Who Knows Who Cares,Fever,manor,dance,0.5555555555555556
+Who Knows Who Cares,You Really Got Me (Album Version),knows,really,0
+Who Knows Who Cares,You Really Got Me (Album Version),knows,got,0
+Who Knows Who Cares,You Really Got Me (Album Version),knows,album,0.125
+Who Knows Who Cares,You Really Got Me (Album Version),knows,version,0.25
+Who Knows Who Cares,You Really Got Me (Album Version),knows,van,0.26666666666666666
+Who Knows Who Cares,You Really Got Me (Album Version),cares,really,0
+Who Knows Who Cares,You Really Got Me (Album Version),cares,got,0
+Who Knows Who Cares,You Really Got Me (Album Version),cares,album,0.125
+Who Knows Who Cares,You Really Got Me (Album Version),cares,version,0.25
+Who Knows Who Cares,You Really Got Me (Album Version),cares,van,0.26666666666666666
+Who Knows Who Cares,You Really Got Me (Album Version),gorilla,really,0
+Who Knows Who Cares,You Really Got Me (Album Version),gorilla,got,0
+Who Knows Who Cares,You Really Got Me (Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,You Really Got Me (Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,You Really Got Me (Album Version),gorilla,van,0.08695652173913043
+Who Knows Who Cares,You Really Got Me (Album Version),manor,really,0
+Who Knows Who Cares,You Really Got Me (Album Version),manor,got,0
+Who Knows Who Cares,You Really Got Me (Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,You Really Got Me (Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,You Really Got Me (Album Version),manor,van,0.11764705882352941
+Who Knows Who Cares,Dreamin',knows,red,0.25
+Who Knows Who Cares,Dreamin',knows,album,0.125
+Who Knows Who Cares,Dreamin',cares,red,0.25
+Who Knows Who Cares,Dreamin',cares,album,0.125
+Who Knows Who Cares,Dreamin',gorilla,red,0.08333333333333333
+Who Knows Who Cares,Dreamin',gorilla,album,0.3333333333333333
+Who Knows Who Cares,Dreamin',manor,red,0.1111111111111111
+Who Knows Who Cares,Dreamin',manor,album,0.5555555555555556
+Quiet,Here It Goes Again,quiet,goes,0.1
+Quiet,Here It Goes Again,quiet,oh,0.19047619047619047
+Quiet,Here It Goes Again,young,goes,0.11764705882352941
+Quiet,Here It Goes Again,young,oh,0.3333333333333333
+Quiet,Here It Goes Again,mountain,goes,0.13333333333333333
+Quiet,Here It Goes Again,mountain,oh,0.375
+Quiet,Enter Shikari (Demo Version),quiet,enter,0
+Quiet,Enter Shikari (Demo Version),quiet,demo,0.125
+Quiet,Enter Shikari (Demo Version),quiet,version,0.10526315789473684
+Quiet,Enter Shikari (Demo Version),quiet,zone,0.2222222222222222
+Quiet,Enter Shikari (Demo Version),young,enter,0
+Quiet,Enter Shikari (Demo Version),young,demo,0.15384615384615385
+Quiet,Enter Shikari (Demo Version),young,version,0.125
+Quiet,Enter Shikari (Demo Version),young,zone,0.4
+Quiet,Enter Shikari (Demo Version),mountain,enter,0
+Quiet,Enter Shikari (Demo Version),mountain,demo,0.18181818181818182
+Quiet,Enter Shikari (Demo Version),mountain,version,0.14285714285714285
+Quiet,Enter Shikari (Demo Version),mountain,zone,0.46153846153846156
+Quiet,Wanna Get With U,quiet,wan,0.19047619047619047
+Quiet,Wanna Get With U,quiet,na,0.2222222222222222
+Quiet,Wanna Get With U,quiet,get,0.08333333333333333
+Quiet,Wanna Get With U,quiet,u,0.18181818181818182
+Quiet,Wanna Get With U,quiet,guy,0.2222222222222222
+Quiet,Wanna Get With U,quiet,best,0.10526315789473684
+Quiet,Wanna Get With U,young,wan,0.4444444444444444
+Quiet,Wanna Get With U,young,na,0.26666666666666666
+Quiet,Wanna Get With U,young,get,0.09523809523809523
+Quiet,Wanna Get With U,young,u,0.21052631578947367
+Quiet,Wanna Get With U,young,guy,0.6666666666666666
+Quiet,Wanna Get With U,young,best,0.125
+Quiet,Wanna Get With U,mountain,wan,0.375
+Quiet,Wanna Get With U,mountain,na,0.3076923076923077
+Quiet,Wanna Get With U,mountain,get,0.10526315789473684
+Quiet,Wanna Get With U,mountain,u,0.23529411764705882
+Quiet,Wanna Get With U,mountain,guy,0.4
+Quiet,Wanna Get With U,mountain,best,0.14285714285714285
+Quiet,The Choice Is Yours,quiet,choice,0.10526315789473684
+Quiet,The Choice Is Yours,quiet,wolf,0.16
+Quiet,The Choice Is Yours,quiet,sheep,0.14814814814814814
+Quiet,The Choice Is Yours,quiet,clothing,0.2222222222222222
+Quiet,The Choice Is Yours,young,choice,0.125
+Quiet,The Choice Is Yours,young,wolf,0.6363636363636364
+Quiet,The Choice Is Yours,young,sheep,0.5833333333333334
+Quiet,The Choice Is Yours,young,clothing,0.5333333333333333
+Quiet,The Choice Is Yours,mountain,choice,0.14285714285714285
+Quiet,The Choice Is Yours,mountain,wolf,0.3
+Quiet,The Choice Is Yours,mountain,sheep,0.2727272727272727
+Quiet,The Choice Is Yours,mountain,clothing,0.46153846153846156
+Quiet,Troublemaker,quiet,troublemaker,0.23529411764705882
+Quiet,Troublemaker,young,troublemaker,0.7058823529411765
+Quiet,Troublemaker,mountain,troublemaker,0.42857142857142855
+Quiet,Teddy's Jam,quiet,teddy,0.2222222222222222
+Quiet,Teddy's Jam,quiet,jam,0.18181818181818182
+Quiet,Teddy's Jam,quiet,guy,0.2222222222222222
+Quiet,Teddy's Jam,quiet,best,0.10526315789473684
+Quiet,Teddy's Jam,young,teddy,0.5333333333333333
+Quiet,Teddy's Jam,young,jam,0.21052631578947367
+Quiet,Teddy's Jam,young,guy,0.6666666666666666
+Quiet,Teddy's Jam,young,best,0.125
+Quiet,Teddy's Jam,mountain,teddy,0.46153846153846156
+Quiet,Teddy's Jam,mountain,jam,0.23529411764705882
+Quiet,Teddy's Jam,mountain,guy,0.4
+Quiet,Teddy's Jam,mountain,best,0.14285714285714285
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),quiet,nada,0.125
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),quiet,antes,0.09523809523809523
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),quiet,nothing,0.125
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),quiet,telecommunication,0.21052631578947367
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),young,nada,0.15384615384615385
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),young,antes,0.1111111111111111
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),young,nothing,0.15384615384615385
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),young,telecommunication,0.5
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),mountain,nada,0.18181818181818182
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),mountain,antes,0.125
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),mountain,nothing,0.18181818181818182
+Quiet,Nothing Will Be As It Was (Nada Será Como Antes),mountain,telecommunication,0.42857142857142855
+Quiet,Iron Man,quiet,iron,0.2222222222222222
+Quiet,Iron Man,quiet,man,0.23529411764705882
+Quiet,Iron Man,quiet,iron,0.2222222222222222
+Quiet,Iron Man,quiet,man,0.23529411764705882
+Quiet,Iron Man,young,iron,0.26666666666666666
+Quiet,Iron Man,young,man,0.7058823529411765
+Quiet,Iron Man,young,iron,0.26666666666666666
+Quiet,Iron Man,young,man,0.7058823529411765
+Quiet,Iron Man,mountain,iron,0.3076923076923077
+Quiet,Iron Man,mountain,man,0.42857142857142855
+Quiet,Iron Man,mountain,iron,0.3076923076923077
+Quiet,Iron Man,mountain,man,0.42857142857142855
+Quiet,Tribute,quiet,tribute,0.11764705882352941
+Quiet,Tribute,quiet,deluxe,0
+Quiet,Tribute,quiet,version,0.10526315789473684
+Quiet,Tribute,young,tribute,0.14285714285714285
+Quiet,Tribute,young,deluxe,0
+Quiet,Tribute,young,version,0.125
+Quiet,Tribute,mountain,tribute,0.16666666666666666
+Quiet,Tribute,mountain,deluxe,0
+Quiet,Tribute,mountain,version,0.14285714285714285
+Quiet,Big Truck (Album Version),quiet,big,0
+Quiet,Big Truck (Album Version),quiet,truck,0.18181818181818182
+Quiet,Big Truck (Album Version),quiet,album,0.21052631578947367
+Quiet,Big Truck (Album Version),quiet,version,0.10526315789473684
+Quiet,Big Truck (Album Version),quiet,coal,0.25
+Quiet,Big Truck (Album Version),quiet,chamber,0.2
+Quiet,Big Truck (Album Version),young,big,0
+Quiet,Big Truck (Album Version),young,truck,0.42105263157894735
+Quiet,Big Truck (Album Version),young,album,0.5
+Quiet,Big Truck (Album Version),young,version,0.125
+Quiet,Big Truck (Album Version),young,coal,0.3076923076923077
+Quiet,Big Truck (Album Version),young,chamber,0.47058823529411764
+Quiet,Big Truck (Album Version),mountain,big,0
+Quiet,Big Truck (Album Version),mountain,truck,0.35294117647058826
+Quiet,Big Truck (Album Version),mountain,album,0.42857142857142855
+Quiet,Big Truck (Album Version),mountain,version,0.14285714285714285
+Quiet,Big Truck (Album Version),mountain,coal,0.36363636363636365
+Quiet,Big Truck (Album Version),mountain,chamber,0.4
+Quiet,Fever,quiet,fever,0.10526315789473684
+Quiet,Fever,quiet,die,0.21052631578947367
+Quiet,Fever,quiet,dance,0.21052631578947367
+Quiet,Fever,young,fever,0.125
+Quiet,Fever,young,die,0.5
+Quiet,Fever,young,dance,0.5
+Quiet,Fever,mountain,fever,0.14285714285714285
+Quiet,Fever,mountain,die,0.42857142857142855
+Quiet,Fever,mountain,dance,0.42857142857142855
+Quiet,You Really Got Me (Album Version),quiet,really,0
+Quiet,You Really Got Me (Album Version),quiet,got,0
+Quiet,You Really Got Me (Album Version),quiet,album,0.21052631578947367
+Quiet,You Really Got Me (Album Version),quiet,version,0.10526315789473684
+Quiet,You Really Got Me (Album Version),quiet,van,0.1111111111111111
+Quiet,You Really Got Me (Album Version),young,really,0
+Quiet,You Really Got Me (Album Version),young,got,0
+Quiet,You Really Got Me (Album Version),young,album,0.5
+Quiet,You Really Got Me (Album Version),young,version,0.125
+Quiet,You Really Got Me (Album Version),young,van,0.13333333333333333
+Quiet,You Really Got Me (Album Version),mountain,really,0
+Quiet,You Really Got Me (Album Version),mountain,got,0
+Quiet,You Really Got Me (Album Version),mountain,album,0.42857142857142855
+Quiet,You Really Got Me (Album Version),mountain,version,0.14285714285714285
+Quiet,You Really Got Me (Album Version),mountain,van,0.15384615384615385
+Quiet,Dreamin',quiet,red,0.10526315789473684
+Quiet,Dreamin',quiet,album,0.21052631578947367
+Quiet,Dreamin',young,red,0.125
+Quiet,Dreamin',young,album,0.5
+Quiet,Dreamin',mountain,red,0.14285714285714285
+Quiet,Dreamin',mountain,album,0.42857142857142855
+Girlfriend,Here It Goes Again,girlfriend,goes,0.13333333333333333
+Girlfriend,Here It Goes Again,girlfriend,oh,0.3333333333333333
+Girlfriend,Here It Goes Again,phoenix,goes,0.1
+Girlfriend,Here It Goes Again,phoenix,oh,0.6666666666666666
+Girlfriend,Enter Shikari (Demo Version),girlfriend,enter,0
+Girlfriend,Enter Shikari (Demo Version),girlfriend,demo,0.18181818181818182
+Girlfriend,Enter Shikari (Demo Version),girlfriend,version,0.14285714285714285
+Girlfriend,Enter Shikari (Demo Version),girlfriend,zone,0.4
+Girlfriend,Enter Shikari (Demo Version),phoenix,enter,0
+Girlfriend,Enter Shikari (Demo Version),phoenix,demo,0.125
+Girlfriend,Enter Shikari (Demo Version),phoenix,version,0.10526315789473684
+Girlfriend,Enter Shikari (Demo Version),phoenix,zone,0.4444444444444444
+Girlfriend,Wanna Get With U,girlfriend,wan,0.42105263157894735
+Girlfriend,Wanna Get With U,girlfriend,na,0.3076923076923077
+Girlfriend,Wanna Get With U,girlfriend,get,0.10526315789473684
+Girlfriend,Wanna Get With U,girlfriend,u,0.23529411764705882
+Girlfriend,Wanna Get With U,girlfriend,guy,0.631578947368421
+Girlfriend,Wanna Get With U,girlfriend,best,0.14285714285714285
+Girlfriend,Wanna Get With U,phoenix,wan,0.2857142857142857
+Girlfriend,Wanna Get With U,phoenix,na,0.2222222222222222
+Girlfriend,Wanna Get With U,phoenix,get,0.08333333333333333
+Girlfriend,Wanna Get With U,phoenix,u,0.18181818181818182
+Girlfriend,Wanna Get With U,phoenix,guy,0.3
+Girlfriend,Wanna Get With U,phoenix,best,0.10526315789473684
+Girlfriend,The Choice Is Yours,girlfriend,choice,0.14285714285714285
+Girlfriend,The Choice Is Yours,girlfriend,wolf,0.5217391304347826
+Girlfriend,The Choice Is Yours,girlfriend,sheep,0.48
+Girlfriend,The Choice Is Yours,girlfriend,clothing,0.5
+Girlfriend,The Choice Is Yours,phoenix,choice,0.10526315789473684
+Girlfriend,The Choice Is Yours,phoenix,wolf,0.24
+Girlfriend,The Choice Is Yours,phoenix,sheep,0.2222222222222222
+Girlfriend,The Choice Is Yours,phoenix,clothing,0.3333333333333333
+Girlfriend,Troublemaker,girlfriend,troublemaker,0.6666666666666666
+Girlfriend,Troublemaker,phoenix,troublemaker,0.3157894736842105
+Girlfriend,Teddy's Jam,girlfriend,teddy,0.5
+Girlfriend,Teddy's Jam,girlfriend,jam,0.23529411764705882
+Girlfriend,Teddy's Jam,girlfriend,guy,0.631578947368421
+Girlfriend,Teddy's Jam,girlfriend,best,0.14285714285714285
+Girlfriend,Teddy's Jam,phoenix,teddy,0.3333333333333333
+Girlfriend,Teddy's Jam,phoenix,jam,0.18181818181818182
+Girlfriend,Teddy's Jam,phoenix,guy,0.3
+Girlfriend,Teddy's Jam,phoenix,best,0.10526315789473684
+Girlfriend,Nothing Will Be As It Was (Nada Será Como Antes),girlfriend,nada,0.18181818181818182
+Girlfriend,Nothing Will Be As It Was (Nada Será Como Antes),girlfriend,antes,0.125
+Girlfriend,Nothing Will Be As It Was (Nada Será Como Antes),girlfriend,nothing,0.18181818181818182
+Girlfriend,Nothing Will Be As It Was (Nada Será Como Antes),girlfriend,telecommunication,0.47058823529411764
+Girlfriend,Nothing Will Be As It Was (Nada Será Como Antes),phoenix,nada,0.125
+Girlfriend,Nothing Will Be As It Was (Nada Será Como Antes),phoenix,antes,0.09523809523809523
+Girlfriend,Nothing Will Be As It Was (Nada Será Como Antes),phoenix,nothing,0.125
+Girlfriend,Nothing Will Be As It Was (Nada Será Como Antes),phoenix,telecommunication,0.3157894736842105
+Girlfriend,Iron Man,girlfriend,iron,0.3076923076923077
+Girlfriend,Iron Man,girlfriend,man,0.6666666666666666
+Girlfriend,Iron Man,girlfriend,iron,0.3076923076923077
+Girlfriend,Iron Man,girlfriend,man,0.6666666666666666
+Girlfriend,Iron Man,phoenix,iron,0.2222222222222222
+Girlfriend,Iron Man,phoenix,man,0.3157894736842105
+Girlfriend,Iron Man,phoenix,iron,0.2222222222222222
+Girlfriend,Iron Man,phoenix,man,0.3157894736842105
+Girlfriend,Tribute,girlfriend,tribute,0.16666666666666666
+Girlfriend,Tribute,girlfriend,deluxe,0
+Girlfriend,Tribute,girlfriend,version,0.14285714285714285
+Girlfriend,Tribute,phoenix,tribute,0.11764705882352941
+Girlfriend,Tribute,phoenix,deluxe,0
+Girlfriend,Tribute,phoenix,version,0.10526315789473684
+Girlfriend,Big Truck (Album Version),girlfriend,big,0
+Girlfriend,Big Truck (Album Version),girlfriend,truck,0.4
+Girlfriend,Big Truck (Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,Big Truck (Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,Big Truck (Album Version),girlfriend,coal,0.36363636363636365
+Girlfriend,Big Truck (Album Version),girlfriend,chamber,0.4444444444444444
+Girlfriend,Big Truck (Album Version),phoenix,big,0
+Girlfriend,Big Truck (Album Version),phoenix,truck,0.2727272727272727
+Girlfriend,Big Truck (Album Version),phoenix,album,0.3157894736842105
+Girlfriend,Big Truck (Album Version),phoenix,version,0.10526315789473684
+Girlfriend,Big Truck (Album Version),phoenix,coal,0.25
+Girlfriend,Big Truck (Album Version),phoenix,chamber,0.3
+Girlfriend,Fever,girlfriend,fever,0.14285714285714285
+Girlfriend,Fever,girlfriend,die,0.47058823529411764
+Girlfriend,Fever,girlfriend,dance,0.47058823529411764
+Girlfriend,Fever,phoenix,fever,0.10526315789473684
+Girlfriend,Fever,phoenix,die,0.3157894736842105
+Girlfriend,Fever,phoenix,dance,0.3157894736842105
+Girlfriend,You Really Got Me (Album Version),girlfriend,really,0
+Girlfriend,You Really Got Me (Album Version),girlfriend,got,0
+Girlfriend,You Really Got Me (Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,You Really Got Me (Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,You Really Got Me (Album Version),girlfriend,van,0.15384615384615385
+Girlfriend,You Really Got Me (Album Version),phoenix,really,0
+Girlfriend,You Really Got Me (Album Version),phoenix,got,0
+Girlfriend,You Really Got Me (Album Version),phoenix,album,0.3157894736842105
+Girlfriend,You Really Got Me (Album Version),phoenix,version,0.10526315789473684
+Girlfriend,You Really Got Me (Album Version),phoenix,van,0.1111111111111111
+Girlfriend,Dreamin',girlfriend,red,0.14285714285714285
+Girlfriend,Dreamin',girlfriend,album,0.47058823529411764
+Girlfriend,Dreamin',phoenix,red,0.10526315789473684
+Girlfriend,Dreamin',phoenix,album,0.3157894736842105
+Happiness: We're All In It Together,Here It Goes Again,together,goes,0
+Happiness: We're All In It Together,Here It Goes Again,together,oh,0
+Happiness: We're All In It Together,Here It Goes Again,happiness,goes,0.23529411764705882
+Happiness: We're All In It Together,Here It Goes Again,happiness,oh,0.1111111111111111
+Happiness: We're All In It Together,Here It Goes Again,young,goes,0.11764705882352941
+Happiness: We're All In It Together,Here It Goes Again,young,oh,0.3333333333333333
+Happiness: We're All In It Together,Here It Goes Again,mountain,goes,0.13333333333333333
+Happiness: We're All In It Together,Here It Goes Again,mountain,oh,0.375
+Happiness: We're All In It Together,Enter Shikari (Demo Version),together,enter,0
+Happiness: We're All In It Together,Enter Shikari (Demo Version),together,demo,0
+Happiness: We're All In It Together,Enter Shikari (Demo Version),together,version,0
+Happiness: We're All In It Together,Enter Shikari (Demo Version),together,zone,0
+Happiness: We're All In It Together,Enter Shikari (Demo Version),happiness,enter,0
+Happiness: We're All In It Together,Enter Shikari (Demo Version),happiness,demo,0.3076923076923077
+Happiness: We're All In It Together,Enter Shikari (Demo Version),happiness,version,0.25
+Happiness: We're All In It Together,Enter Shikari (Demo Version),happiness,zone,0.13333333333333333
+Happiness: We're All In It Together,Enter Shikari (Demo Version),young,enter,0
+Happiness: We're All In It Together,Enter Shikari (Demo Version),young,demo,0.15384615384615385
+Happiness: We're All In It Together,Enter Shikari (Demo Version),young,version,0.125
+Happiness: We're All In It Together,Enter Shikari (Demo Version),young,zone,0.4
+Happiness: We're All In It Together,Enter Shikari (Demo Version),mountain,enter,0
+Happiness: We're All In It Together,Enter Shikari (Demo Version),mountain,demo,0.18181818181818182
+Happiness: We're All In It Together,Enter Shikari (Demo Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Enter Shikari (Demo Version),mountain,zone,0.46153846153846156
+Happiness: We're All In It Together,Wanna Get With U,together,wan,0
+Happiness: We're All In It Together,Wanna Get With U,together,na,0
+Happiness: We're All In It Together,Wanna Get With U,together,get,0
+Happiness: We're All In It Together,Wanna Get With U,together,u,0
+Happiness: We're All In It Together,Wanna Get With U,together,guy,0
+Happiness: We're All In It Together,Wanna Get With U,together,best,0
+Happiness: We're All In It Together,Wanna Get With U,happiness,wan,0.1111111111111111
+Happiness: We're All In It Together,Wanna Get With U,happiness,na,0.25
+Happiness: We're All In It Together,Wanna Get With U,happiness,get,0.19047619047619047
+Happiness: We're All In It Together,Wanna Get With U,happiness,u,0.2
+Happiness: We're All In It Together,Wanna Get With U,happiness,guy,0.13333333333333333
+Happiness: We're All In It Together,Wanna Get With U,happiness,best,0.25
+Happiness: We're All In It Together,Wanna Get With U,young,wan,0.4444444444444444
+Happiness: We're All In It Together,Wanna Get With U,young,na,0.26666666666666666
+Happiness: We're All In It Together,Wanna Get With U,young,get,0.09523809523809523
+Happiness: We're All In It Together,Wanna Get With U,young,u,0.21052631578947367
+Happiness: We're All In It Together,Wanna Get With U,young,guy,0.6666666666666666
+Happiness: We're All In It Together,Wanna Get With U,young,best,0.125
+Happiness: We're All In It Together,Wanna Get With U,mountain,wan,0.375
+Happiness: We're All In It Together,Wanna Get With U,mountain,na,0.3076923076923077
+Happiness: We're All In It Together,Wanna Get With U,mountain,get,0.10526315789473684
+Happiness: We're All In It Together,Wanna Get With U,mountain,u,0.23529411764705882
+Happiness: We're All In It Together,Wanna Get With U,mountain,guy,0.4
+Happiness: We're All In It Together,Wanna Get With U,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,The Choice Is Yours,together,choice,0
+Happiness: We're All In It Together,The Choice Is Yours,together,wolf,0
+Happiness: We're All In It Together,The Choice Is Yours,together,sheep,0
+Happiness: We're All In It Together,The Choice Is Yours,together,clothing,0
+Happiness: We're All In It Together,The Choice Is Yours,happiness,choice,0.25
+Happiness: We're All In It Together,The Choice Is Yours,happiness,wolf,0.09090909090909091
+Happiness: We're All In It Together,The Choice Is Yours,happiness,sheep,0.08333333333333333
+Happiness: We're All In It Together,The Choice Is Yours,happiness,clothing,0.13333333333333333
+Happiness: We're All In It Together,The Choice Is Yours,young,choice,0.125
+Happiness: We're All In It Together,The Choice Is Yours,young,wolf,0.6363636363636364
+Happiness: We're All In It Together,The Choice Is Yours,young,sheep,0.5833333333333334
+Happiness: We're All In It Together,The Choice Is Yours,young,clothing,0.5333333333333333
+Happiness: We're All In It Together,The Choice Is Yours,mountain,choice,0.14285714285714285
+Happiness: We're All In It Together,The Choice Is Yours,mountain,wolf,0.3
+Happiness: We're All In It Together,The Choice Is Yours,mountain,sheep,0.2727272727272727
+Happiness: We're All In It Together,The Choice Is Yours,mountain,clothing,0.46153846153846156
+Happiness: We're All In It Together,Troublemaker,together,troublemaker,0
+Happiness: We're All In It Together,Troublemaker,happiness,troublemaker,0.14285714285714285
+Happiness: We're All In It Together,Troublemaker,young,troublemaker,0.7058823529411765
+Happiness: We're All In It Together,Troublemaker,mountain,troublemaker,0.42857142857142855
+Happiness: We're All In It Together,Teddy's Jam,together,teddy,0
+Happiness: We're All In It Together,Teddy's Jam,together,jam,0
+Happiness: We're All In It Together,Teddy's Jam,together,guy,0
+Happiness: We're All In It Together,Teddy's Jam,together,best,0
+Happiness: We're All In It Together,Teddy's Jam,happiness,teddy,0.13333333333333333
+Happiness: We're All In It Together,Teddy's Jam,happiness,jam,0.10526315789473684
+Happiness: We're All In It Together,Teddy's Jam,happiness,guy,0.13333333333333333
+Happiness: We're All In It Together,Teddy's Jam,happiness,best,0.25
+Happiness: We're All In It Together,Teddy's Jam,young,teddy,0.5333333333333333
+Happiness: We're All In It Together,Teddy's Jam,young,jam,0.21052631578947367
+Happiness: We're All In It Together,Teddy's Jam,young,guy,0.6666666666666666
+Happiness: We're All In It Together,Teddy's Jam,young,best,0.125
+Happiness: We're All In It Together,Teddy's Jam,mountain,teddy,0.46153846153846156
+Happiness: We're All In It Together,Teddy's Jam,mountain,jam,0.23529411764705882
+Happiness: We're All In It Together,Teddy's Jam,mountain,guy,0.4
+Happiness: We're All In It Together,Teddy's Jam,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),together,nada,0
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),together,antes,0
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),together,nothing,0
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),together,telecommunication,0
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),happiness,nada,0.3076923076923077
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),happiness,antes,0.2222222222222222
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),happiness,nothing,0.3076923076923077
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),happiness,telecommunication,0.125
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),young,nada,0.15384615384615385
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),young,antes,0.1111111111111111
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),young,nothing,0.15384615384615385
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),young,telecommunication,0.5
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),mountain,nada,0.18181818181818182
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),mountain,antes,0.125
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),mountain,nothing,0.18181818181818182
+Happiness: We're All In It Together,Nothing Will Be As It Was (Nada Será Como Antes),mountain,telecommunication,0.42857142857142855
+Happiness: We're All In It Together,Iron Man,together,iron,0
+Happiness: We're All In It Together,Iron Man,together,man,0
+Happiness: We're All In It Together,Iron Man,together,iron,0
+Happiness: We're All In It Together,Iron Man,together,man,0
+Happiness: We're All In It Together,Iron Man,happiness,iron,0.25
+Happiness: We're All In It Together,Iron Man,happiness,man,0.14285714285714285
+Happiness: We're All In It Together,Iron Man,happiness,iron,0.25
+Happiness: We're All In It Together,Iron Man,happiness,man,0.14285714285714285
+Happiness: We're All In It Together,Iron Man,young,iron,0.26666666666666666
+Happiness: We're All In It Together,Iron Man,young,man,0.7058823529411765
+Happiness: We're All In It Together,Iron Man,young,iron,0.26666666666666666
+Happiness: We're All In It Together,Iron Man,young,man,0.7058823529411765
+Happiness: We're All In It Together,Iron Man,mountain,iron,0.3076923076923077
+Happiness: We're All In It Together,Iron Man,mountain,man,0.42857142857142855
+Happiness: We're All In It Together,Iron Man,mountain,iron,0.3076923076923077
+Happiness: We're All In It Together,Iron Man,mountain,man,0.42857142857142855
+Happiness: We're All In It Together,Tribute,together,tribute,0
+Happiness: We're All In It Together,Tribute,together,deluxe,0
+Happiness: We're All In It Together,Tribute,together,version,0
+Happiness: We're All In It Together,Tribute,happiness,tribute,0.2857142857142857
+Happiness: We're All In It Together,Tribute,happiness,deluxe,0
+Happiness: We're All In It Together,Tribute,happiness,version,0.25
+Happiness: We're All In It Together,Tribute,young,tribute,0.14285714285714285
+Happiness: We're All In It Together,Tribute,young,deluxe,0
+Happiness: We're All In It Together,Tribute,young,version,0.125
+Happiness: We're All In It Together,Tribute,mountain,tribute,0.16666666666666666
+Happiness: We're All In It Together,Tribute,mountain,deluxe,0
+Happiness: We're All In It Together,Tribute,mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Big Truck (Album Version),together,big,0
+Happiness: We're All In It Together,Big Truck (Album Version),together,truck,0
+Happiness: We're All In It Together,Big Truck (Album Version),together,album,0
+Happiness: We're All In It Together,Big Truck (Album Version),together,version,0
+Happiness: We're All In It Together,Big Truck (Album Version),together,coal,0
+Happiness: We're All In It Together,Big Truck (Album Version),together,chamber,0
+Happiness: We're All In It Together,Big Truck (Album Version),happiness,big,0
+Happiness: We're All In It Together,Big Truck (Album Version),happiness,truck,0.10526315789473684
+Happiness: We're All In It Together,Big Truck (Album Version),happiness,album,0.125
+Happiness: We're All In It Together,Big Truck (Album Version),happiness,version,0.25
+Happiness: We're All In It Together,Big Truck (Album Version),happiness,coal,0.15384615384615385
+Happiness: We're All In It Together,Big Truck (Album Version),happiness,chamber,0.11764705882352941
+Happiness: We're All In It Together,Big Truck (Album Version),young,big,0
+Happiness: We're All In It Together,Big Truck (Album Version),young,truck,0.42105263157894735
+Happiness: We're All In It Together,Big Truck (Album Version),young,album,0.5
+Happiness: We're All In It Together,Big Truck (Album Version),young,version,0.125
+Happiness: We're All In It Together,Big Truck (Album Version),young,coal,0.3076923076923077
+Happiness: We're All In It Together,Big Truck (Album Version),young,chamber,0.47058823529411764
+Happiness: We're All In It Together,Big Truck (Album Version),mountain,big,0
+Happiness: We're All In It Together,Big Truck (Album Version),mountain,truck,0.35294117647058826
+Happiness: We're All In It Together,Big Truck (Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,Big Truck (Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Big Truck (Album Version),mountain,coal,0.36363636363636365
+Happiness: We're All In It Together,Big Truck (Album Version),mountain,chamber,0.4
+Happiness: We're All In It Together,Fever,together,fever,0
+Happiness: We're All In It Together,Fever,together,die,0
+Happiness: We're All In It Together,Fever,together,dance,0
+Happiness: We're All In It Together,Fever,happiness,fever,0.25
+Happiness: We're All In It Together,Fever,happiness,die,0.125
+Happiness: We're All In It Together,Fever,happiness,dance,0.125
+Happiness: We're All In It Together,Fever,young,fever,0.125
+Happiness: We're All In It Together,Fever,young,die,0.5
+Happiness: We're All In It Together,Fever,young,dance,0.5
+Happiness: We're All In It Together,Fever,mountain,fever,0.14285714285714285
+Happiness: We're All In It Together,Fever,mountain,die,0.42857142857142855
+Happiness: We're All In It Together,Fever,mountain,dance,0.42857142857142855
+Happiness: We're All In It Together,You Really Got Me (Album Version),together,really,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),together,got,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),together,album,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),together,version,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),together,van,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),happiness,really,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),happiness,got,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),happiness,album,0.125
+Happiness: We're All In It Together,You Really Got Me (Album Version),happiness,version,0.25
+Happiness: We're All In It Together,You Really Got Me (Album Version),happiness,van,0.26666666666666666
+Happiness: We're All In It Together,You Really Got Me (Album Version),young,really,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),young,got,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),young,album,0.5
+Happiness: We're All In It Together,You Really Got Me (Album Version),young,version,0.125
+Happiness: We're All In It Together,You Really Got Me (Album Version),young,van,0.13333333333333333
+Happiness: We're All In It Together,You Really Got Me (Album Version),mountain,really,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),mountain,got,0
+Happiness: We're All In It Together,You Really Got Me (Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,You Really Got Me (Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,You Really Got Me (Album Version),mountain,van,0.15384615384615385
+Happiness: We're All In It Together,Dreamin',together,red,0
+Happiness: We're All In It Together,Dreamin',together,album,0
+Happiness: We're All In It Together,Dreamin',happiness,red,0.375
+Happiness: We're All In It Together,Dreamin',happiness,album,0.125
+Happiness: We're All In It Together,Dreamin',young,red,0.125
+Happiness: We're All In It Together,Dreamin',young,album,0.5
+Happiness: We're All In It Together,Dreamin',mountain,red,0.14285714285714285
+Happiness: We're All In It Together,Dreamin',mountain,album,0.42857142857142855
+Armistice,Here It Goes Again,armistice,goes,0.25
+Armistice,Here It Goes Again,armistice,oh,0.11764705882352941
+Armistice,Here It Goes Again,phoenix,goes,0.1
+Armistice,Here It Goes Again,phoenix,oh,0.6666666666666666
+Armistice,Enter Shikari (Demo Version),armistice,enter,0
+Armistice,Enter Shikari (Demo Version),armistice,demo,0.3333333333333333
+Armistice,Enter Shikari (Demo Version),armistice,version,0.26666666666666666
+Armistice,Enter Shikari (Demo Version),armistice,zone,0.14285714285714285
+Armistice,Enter Shikari (Demo Version),phoenix,enter,0
+Armistice,Enter Shikari (Demo Version),phoenix,demo,0.125
+Armistice,Enter Shikari (Demo Version),phoenix,version,0.10526315789473684
+Armistice,Enter Shikari (Demo Version),phoenix,zone,0.4444444444444444
+Armistice,Wanna Get With U,armistice,wan,0.11764705882352941
+Armistice,Wanna Get With U,armistice,na,0.26666666666666666
+Armistice,Wanna Get With U,armistice,get,0.2
+Armistice,Wanna Get With U,armistice,u,0.21052631578947367
+Armistice,Wanna Get With U,armistice,guy,0.14285714285714285
+Armistice,Wanna Get With U,armistice,best,0.26666666666666666
+Armistice,Wanna Get With U,phoenix,wan,0.2857142857142857
+Armistice,Wanna Get With U,phoenix,na,0.2222222222222222
+Armistice,Wanna Get With U,phoenix,get,0.08333333333333333
+Armistice,Wanna Get With U,phoenix,u,0.18181818181818182
+Armistice,Wanna Get With U,phoenix,guy,0.3
+Armistice,Wanna Get With U,phoenix,best,0.10526315789473684
+Armistice,The Choice Is Yours,armistice,choice,0.26666666666666666
+Armistice,The Choice Is Yours,armistice,wolf,0.09523809523809523
+Armistice,The Choice Is Yours,armistice,sheep,0.08695652173913043
+Armistice,The Choice Is Yours,armistice,clothing,0.14285714285714285
+Armistice,The Choice Is Yours,phoenix,choice,0.10526315789473684
+Armistice,The Choice Is Yours,phoenix,wolf,0.24
+Armistice,The Choice Is Yours,phoenix,sheep,0.2222222222222222
+Armistice,The Choice Is Yours,phoenix,clothing,0.3333333333333333
+Armistice,Troublemaker,armistice,troublemaker,0.15384615384615385
+Armistice,Troublemaker,phoenix,troublemaker,0.3157894736842105
+Armistice,Teddy's Jam,armistice,teddy,0.14285714285714285
+Armistice,Teddy's Jam,armistice,jam,0.1111111111111111
+Armistice,Teddy's Jam,armistice,guy,0.14285714285714285
+Armistice,Teddy's Jam,armistice,best,0.26666666666666666
+Armistice,Teddy's Jam,phoenix,teddy,0.3333333333333333
+Armistice,Teddy's Jam,phoenix,jam,0.18181818181818182
+Armistice,Teddy's Jam,phoenix,guy,0.3
+Armistice,Teddy's Jam,phoenix,best,0.10526315789473684
+Armistice,Nothing Will Be As It Was (Nada Será Como Antes),armistice,nada,0.3333333333333333
+Armistice,Nothing Will Be As It Was (Nada Será Como Antes),armistice,antes,0.23529411764705882
+Armistice,Nothing Will Be As It Was (Nada Será Como Antes),armistice,nothing,0.3333333333333333
+Armistice,Nothing Will Be As It Was (Nada Será Como Antes),armistice,telecommunication,0.13333333333333333
+Armistice,Nothing Will Be As It Was (Nada Será Como Antes),phoenix,nada,0.125
+Armistice,Nothing Will Be As It Was (Nada Será Como Antes),phoenix,antes,0.09523809523809523
+Armistice,Nothing Will Be As It Was (Nada Será Como Antes),phoenix,nothing,0.125
+Armistice,Nothing Will Be As It Was (Nada Será Como Antes),phoenix,telecommunication,0.3157894736842105
+Armistice,Iron Man,armistice,iron,0.26666666666666666
+Armistice,Iron Man,armistice,man,0.15384615384615385
+Armistice,Iron Man,armistice,iron,0.26666666666666666
+Armistice,Iron Man,armistice,man,0.15384615384615385
+Armistice,Iron Man,phoenix,iron,0.2222222222222222
+Armistice,Iron Man,phoenix,man,0.3157894736842105
+Armistice,Iron Man,phoenix,iron,0.2222222222222222
+Armistice,Iron Man,phoenix,man,0.3157894736842105
+Armistice,Tribute,armistice,tribute,0.3076923076923077
+Armistice,Tribute,armistice,deluxe,0
+Armistice,Tribute,armistice,version,0.26666666666666666
+Armistice,Tribute,phoenix,tribute,0.11764705882352941
+Armistice,Tribute,phoenix,deluxe,0
+Armistice,Tribute,phoenix,version,0.10526315789473684
+Armistice,Big Truck (Album Version),armistice,big,0
+Armistice,Big Truck (Album Version),armistice,truck,0.1111111111111111
+Armistice,Big Truck (Album Version),armistice,album,0.13333333333333333
+Armistice,Big Truck (Album Version),armistice,version,0.26666666666666666
+Armistice,Big Truck (Album Version),armistice,coal,0.16666666666666666
+Armistice,Big Truck (Album Version),armistice,chamber,0.125
+Armistice,Big Truck (Album Version),phoenix,big,0
+Armistice,Big Truck (Album Version),phoenix,truck,0.2727272727272727
+Armistice,Big Truck (Album Version),phoenix,album,0.3157894736842105
+Armistice,Big Truck (Album Version),phoenix,version,0.10526315789473684
+Armistice,Big Truck (Album Version),phoenix,coal,0.25
+Armistice,Big Truck (Album Version),phoenix,chamber,0.3
+Armistice,Fever,armistice,fever,0.26666666666666666
+Armistice,Fever,armistice,die,0.13333333333333333
+Armistice,Fever,armistice,dance,0.13333333333333333
+Armistice,Fever,phoenix,fever,0.10526315789473684
+Armistice,Fever,phoenix,die,0.3157894736842105
+Armistice,Fever,phoenix,dance,0.3157894736842105
+Armistice,You Really Got Me (Album Version),armistice,really,0
+Armistice,You Really Got Me (Album Version),armistice,got,0
+Armistice,You Really Got Me (Album Version),armistice,album,0.13333333333333333
+Armistice,You Really Got Me (Album Version),armistice,version,0.26666666666666666
+Armistice,You Really Got Me (Album Version),armistice,van,0.2857142857142857
+Armistice,You Really Got Me (Album Version),phoenix,really,0
+Armistice,You Really Got Me (Album Version),phoenix,got,0
+Armistice,You Really Got Me (Album Version),phoenix,album,0.3157894736842105
+Armistice,You Really Got Me (Album Version),phoenix,version,0.10526315789473684
+Armistice,You Really Got Me (Album Version),phoenix,van,0.1111111111111111
+Armistice,Dreamin',armistice,red,0.4
+Armistice,Dreamin',armistice,album,0.13333333333333333
+Armistice,Dreamin',phoenix,red,0.10526315789473684
+Armistice,Dreamin',phoenix,album,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,remedies,goes,0.2
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,remedies,oh,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,worse,goes,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,worse,oh,0.125
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,disease,goes,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,disease,oh,0.1
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,young,goes,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,young,oh,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,mountain,goes,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Here It Goes Again,mountain,oh,0.375
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),remedies,enter,0
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),remedies,demo,0.25
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),remedies,zone,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),worse,enter,0
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),worse,demo,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),worse,zone,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),disease,enter,0
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),disease,demo,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),disease,zone,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),young,enter,0
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),young,demo,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),young,zone,0.4
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),mountain,enter,0
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),mountain,demo,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Enter Shikari (Demo Version),mountain,zone,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,remedies,wan,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,remedies,na,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,remedies,get,0.5833333333333334
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,remedies,u,0.17391304347826086
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,remedies,guy,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,worse,wan,0.125
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,worse,na,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,worse,get,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,worse,u,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,worse,guy,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,disease,wan,0.1
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,disease,na,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,disease,get,0.17391304347826086
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,disease,u,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,disease,guy,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,young,wan,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,young,na,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,young,get,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,young,u,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,young,guy,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,young,best,0.125
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,mountain,wan,0.375
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,mountain,na,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,mountain,get,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,mountain,u,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,mountain,guy,0.4
+There Are Some Remedies Worse Than The Disease,Wanna Get With U,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,remedies,choice,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,remedies,wolf,0.08
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,remedies,sheep,0.07407407407407407
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,remedies,clothing,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,worse,choice,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,worse,wolf,0.1
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,worse,sheep,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,worse,clothing,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,disease,choice,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,disease,wolf,0.08333333333333333
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,disease,sheep,0.07692307692307693
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,disease,clothing,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,young,choice,0.125
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,young,wolf,0.6363636363636364
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,young,sheep,0.5833333333333334
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,young,clothing,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,mountain,choice,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,mountain,wolf,0.3
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,mountain,sheep,0.2727272727272727
+There Are Some Remedies Worse Than The Disease,The Choice Is Yours,mountain,clothing,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Troublemaker,remedies,troublemaker,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Troublemaker,worse,troublemaker,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Troublemaker,disease,troublemaker,0.125
+There Are Some Remedies Worse Than The Disease,Troublemaker,young,troublemaker,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Troublemaker,mountain,troublemaker,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,remedies,teddy,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,remedies,jam,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,remedies,guy,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,worse,teddy,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,worse,jam,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,worse,guy,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,disease,teddy,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,disease,jam,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,disease,guy,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,young,teddy,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,young,jam,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,young,guy,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,young,best,0.125
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,mountain,teddy,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,mountain,jam,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,mountain,guy,0.4
+There Are Some Remedies Worse Than The Disease,Teddy's Jam,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),remedies,nada,0.25
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),remedies,antes,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),remedies,nothing,0.25
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),remedies,telecommunication,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),worse,nada,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),worse,antes,0.25
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),worse,nothing,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),worse,telecommunication,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),disease,nada,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),disease,antes,0.2
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),disease,nothing,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),disease,telecommunication,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),young,nada,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),young,antes,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),young,nothing,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),young,telecommunication,0.5
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),mountain,nada,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),mountain,antes,0.125
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),mountain,nothing,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Nothing Will Be As It Was (Nada Será Como Antes),mountain,telecommunication,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Iron Man,remedies,iron,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Iron Man,remedies,man,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Iron Man,remedies,iron,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Iron Man,remedies,man,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Iron Man,worse,iron,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Iron Man,worse,man,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Iron Man,worse,iron,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Iron Man,worse,man,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Iron Man,disease,iron,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Iron Man,disease,man,0.125
+There Are Some Remedies Worse Than The Disease,Iron Man,disease,iron,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Iron Man,disease,man,0.125
+There Are Some Remedies Worse Than The Disease,Iron Man,young,iron,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Iron Man,young,man,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Iron Man,young,iron,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Iron Man,young,man,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Iron Man,mountain,iron,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Iron Man,mountain,man,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Iron Man,mountain,iron,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Iron Man,mountain,man,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Tribute,remedies,tribute,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Tribute,remedies,deluxe,0
+There Are Some Remedies Worse Than The Disease,Tribute,remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Tribute,worse,tribute,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Tribute,worse,deluxe,0
+There Are Some Remedies Worse Than The Disease,Tribute,worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Tribute,disease,tribute,0.25
+There Are Some Remedies Worse Than The Disease,Tribute,disease,deluxe,0
+There Are Some Remedies Worse Than The Disease,Tribute,disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Tribute,young,tribute,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Tribute,young,deluxe,0
+There Are Some Remedies Worse Than The Disease,Tribute,young,version,0.125
+There Are Some Remedies Worse Than The Disease,Tribute,mountain,tribute,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Tribute,mountain,deluxe,0
+There Are Some Remedies Worse Than The Disease,Tribute,mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),remedies,big,0
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),remedies,truck,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),remedies,coal,0.125
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),remedies,chamber,0.1
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),worse,big,0
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),worse,truck,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),worse,coal,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),worse,chamber,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),disease,big,0
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),disease,truck,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),disease,coal,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),disease,chamber,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),young,big,0
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),young,truck,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),young,coal,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),young,chamber,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),mountain,big,0
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),mountain,truck,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),mountain,coal,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Big Truck (Album Version),mountain,chamber,0.4
+There Are Some Remedies Worse Than The Disease,Fever,remedies,fever,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Fever,remedies,die,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Fever,remedies,dance,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Fever,worse,fever,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Fever,worse,die,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Fever,worse,dance,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Fever,disease,fever,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Fever,disease,die,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Fever,disease,dance,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Fever,young,fever,0.125
+There Are Some Remedies Worse Than The Disease,Fever,young,die,0.5
+There Are Some Remedies Worse Than The Disease,Fever,young,dance,0.5
+There Are Some Remedies Worse Than The Disease,Fever,mountain,fever,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Fever,mountain,die,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Fever,mountain,dance,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),remedies,really,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),remedies,got,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),remedies,van,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),worse,really,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),worse,got,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),worse,van,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),disease,really,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),disease,got,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),disease,van,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),young,really,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),young,got,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),young,van,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),mountain,really,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),mountain,got,0
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You Really Got Me (Album Version),mountain,van,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Dreamin',remedies,red,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Dreamin',remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Dreamin',worse,red,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Dreamin',worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Dreamin',disease,red,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Dreamin',disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Dreamin',young,red,0.125
+There Are Some Remedies Worse Than The Disease,Dreamin',young,album,0.5
+There Are Some Remedies Worse Than The Disease,Dreamin',mountain,red,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Dreamin',mountain,album,0.42857142857142855
+Swimming In The Flood,Here It Goes Again,swimming,goes,0.21052631578947367
+Swimming In The Flood,Here It Goes Again,swimming,oh,0.1
+Swimming In The Flood,Here It Goes Again,flood,goes,0.125
+Swimming In The Flood,Here It Goes Again,flood,oh,0.23529411764705882
+Swimming In The Flood,Here It Goes Again,manners,goes,0.26666666666666666
+Swimming In The Flood,Here It Goes Again,manners,oh,0.125
+Swimming In The Flood,Enter Shikari (Demo Version),swimming,enter,0
+Swimming In The Flood,Enter Shikari (Demo Version),swimming,demo,0.26666666666666666
+Swimming In The Flood,Enter Shikari (Demo Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Enter Shikari (Demo Version),swimming,zone,0.11764705882352941
+Swimming In The Flood,Enter Shikari (Demo Version),flood,enter,0
+Swimming In The Flood,Enter Shikari (Demo Version),flood,demo,0.16666666666666666
+Swimming In The Flood,Enter Shikari (Demo Version),flood,version,0.13333333333333333
+Swimming In The Flood,Enter Shikari (Demo Version),flood,zone,0.2857142857142857
+Swimming In The Flood,Enter Shikari (Demo Version),manners,enter,0
+Swimming In The Flood,Enter Shikari (Demo Version),manners,demo,0.36363636363636365
+Swimming In The Flood,Enter Shikari (Demo Version),manners,version,0.2857142857142857
+Swimming In The Flood,Enter Shikari (Demo Version),manners,zone,0.15384615384615385
+Swimming In The Flood,Wanna Get With U,swimming,wan,0.1
+Swimming In The Flood,Wanna Get With U,swimming,na,0.2222222222222222
+Swimming In The Flood,Wanna Get With U,swimming,get,0.43478260869565216
+Swimming In The Flood,Wanna Get With U,swimming,u,0.18181818181818182
+Swimming In The Flood,Wanna Get With U,swimming,guy,0.11764705882352941
+Swimming In The Flood,Wanna Get With U,swimming,best,0.6666666666666666
+Swimming In The Flood,Wanna Get With U,flood,wan,0.23529411764705882
+Swimming In The Flood,Wanna Get With U,flood,na,0.2857142857142857
+Swimming In The Flood,Wanna Get With U,flood,get,0.1
+Swimming In The Flood,Wanna Get With U,flood,u,0.2222222222222222
+Swimming In The Flood,Wanna Get With U,flood,guy,0.2857142857142857
+Swimming In The Flood,Wanna Get With U,flood,best,0.13333333333333333
+Swimming In The Flood,Wanna Get With U,manners,wan,0.125
+Swimming In The Flood,Wanna Get With U,manners,na,0.2857142857142857
+Swimming In The Flood,Wanna Get With U,manners,get,0.21052631578947367
+Swimming In The Flood,Wanna Get With U,manners,u,0.2222222222222222
+Swimming In The Flood,Wanna Get With U,manners,guy,0.15384615384615385
+Swimming In The Flood,Wanna Get With U,manners,best,0.2857142857142857
+Swimming In The Flood,The Choice Is Yours,swimming,choice,0.3333333333333333
+Swimming In The Flood,The Choice Is Yours,swimming,wolf,0.08333333333333333
+Swimming In The Flood,The Choice Is Yours,swimming,sheep,0.07692307692307693
+Swimming In The Flood,The Choice Is Yours,swimming,clothing,0.11764705882352941
+Swimming In The Flood,The Choice Is Yours,flood,choice,0.13333333333333333
+Swimming In The Flood,The Choice Is Yours,flood,wolf,0.19047619047619047
+Swimming In The Flood,The Choice Is Yours,flood,sheep,0.17391304347826086
+Swimming In The Flood,The Choice Is Yours,flood,clothing,0.2857142857142857
+Swimming In The Flood,The Choice Is Yours,manners,choice,0.2857142857142857
+Swimming In The Flood,The Choice Is Yours,manners,wolf,0.1
+Swimming In The Flood,The Choice Is Yours,manners,sheep,0.09090909090909091
+Swimming In The Flood,The Choice Is Yours,manners,clothing,0.15384615384615385
+Swimming In The Flood,Troublemaker,swimming,troublemaker,0.125
+Swimming In The Flood,Troublemaker,flood,troublemaker,0.3076923076923077
+Swimming In The Flood,Troublemaker,manners,troublemaker,0.16666666666666666
+Swimming In The Flood,Teddy's Jam,swimming,teddy,0.11764705882352941
+Swimming In The Flood,Teddy's Jam,swimming,jam,0.09523809523809523
+Swimming In The Flood,Teddy's Jam,swimming,guy,0.11764705882352941
+Swimming In The Flood,Teddy's Jam,swimming,best,0.6666666666666666
+Swimming In The Flood,Teddy's Jam,flood,teddy,0.2857142857142857
+Swimming In The Flood,Teddy's Jam,flood,jam,0.2222222222222222
+Swimming In The Flood,Teddy's Jam,flood,guy,0.2857142857142857
+Swimming In The Flood,Teddy's Jam,flood,best,0.13333333333333333
+Swimming In The Flood,Teddy's Jam,manners,teddy,0.15384615384615385
+Swimming In The Flood,Teddy's Jam,manners,jam,0.11764705882352941
+Swimming In The Flood,Teddy's Jam,manners,guy,0.15384615384615385
+Swimming In The Flood,Teddy's Jam,manners,best,0.2857142857142857
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),swimming,nada,0.26666666666666666
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),swimming,antes,0.2
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),swimming,nothing,0.26666666666666666
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),swimming,telecommunication,0.1111111111111111
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),flood,nada,0.16666666666666666
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),flood,antes,0.11764705882352941
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),flood,nothing,0.16666666666666666
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),flood,telecommunication,0.26666666666666666
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),manners,nada,0.36363636363636365
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),manners,antes,0.25
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),manners,nothing,0.36363636363636365
+Swimming In The Flood,Nothing Will Be As It Was (Nada Será Como Antes),manners,telecommunication,0.14285714285714285
+Swimming In The Flood,Iron Man,swimming,iron,0.2222222222222222
+Swimming In The Flood,Iron Man,swimming,man,0.125
+Swimming In The Flood,Iron Man,swimming,iron,0.2222222222222222
+Swimming In The Flood,Iron Man,swimming,man,0.125
+Swimming In The Flood,Iron Man,flood,iron,0.2857142857142857
+Swimming In The Flood,Iron Man,flood,man,0.3076923076923077
+Swimming In The Flood,Iron Man,flood,iron,0.2857142857142857
+Swimming In The Flood,Iron Man,flood,man,0.3076923076923077
+Swimming In The Flood,Iron Man,manners,iron,0.2857142857142857
+Swimming In The Flood,Iron Man,manners,man,0.16666666666666666
+Swimming In The Flood,Iron Man,manners,iron,0.2857142857142857
+Swimming In The Flood,Iron Man,manners,man,0.16666666666666666
+Swimming In The Flood,Tribute,swimming,tribute,0.25
+Swimming In The Flood,Tribute,swimming,deluxe,0
+Swimming In The Flood,Tribute,swimming,version,0.2222222222222222
+Swimming In The Flood,Tribute,flood,tribute,0.15384615384615385
+Swimming In The Flood,Tribute,flood,deluxe,0
+Swimming In The Flood,Tribute,flood,version,0.13333333333333333
+Swimming In The Flood,Tribute,manners,tribute,0.3333333333333333
+Swimming In The Flood,Tribute,manners,deluxe,0
+Swimming In The Flood,Tribute,manners,version,0.2857142857142857
+Swimming In The Flood,Big Truck (Album Version),swimming,big,0
+Swimming In The Flood,Big Truck (Album Version),swimming,truck,0.09523809523809523
+Swimming In The Flood,Big Truck (Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,Big Truck (Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Big Truck (Album Version),swimming,coal,0.13333333333333333
+Swimming In The Flood,Big Truck (Album Version),swimming,chamber,0.10526315789473684
+Swimming In The Flood,Big Truck (Album Version),flood,big,0
+Swimming In The Flood,Big Truck (Album Version),flood,truck,0.2222222222222222
+Swimming In The Flood,Big Truck (Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,Big Truck (Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,Big Truck (Album Version),flood,coal,0.3333333333333333
+Swimming In The Flood,Big Truck (Album Version),flood,chamber,0.25
+Swimming In The Flood,Big Truck (Album Version),manners,big,0
+Swimming In The Flood,Big Truck (Album Version),manners,truck,0.11764705882352941
+Swimming In The Flood,Big Truck (Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,Big Truck (Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,Big Truck (Album Version),manners,coal,0.18181818181818182
+Swimming In The Flood,Big Truck (Album Version),manners,chamber,0.13333333333333333
+Swimming In The Flood,Fever,swimming,fever,0.3333333333333333
+Swimming In The Flood,Fever,swimming,die,0.1111111111111111
+Swimming In The Flood,Fever,swimming,dance,0.1111111111111111
+Swimming In The Flood,Fever,flood,fever,0.13333333333333333
+Swimming In The Flood,Fever,flood,die,0.26666666666666666
+Swimming In The Flood,Fever,flood,dance,0.26666666666666666
+Swimming In The Flood,Fever,manners,fever,0.2857142857142857
+Swimming In The Flood,Fever,manners,die,0.14285714285714285
+Swimming In The Flood,Fever,manners,dance,0.14285714285714285
+Swimming In The Flood,You Really Got Me (Album Version),swimming,really,0
+Swimming In The Flood,You Really Got Me (Album Version),swimming,got,0
+Swimming In The Flood,You Really Got Me (Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,You Really Got Me (Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,You Really Got Me (Album Version),swimming,van,0.23529411764705882
+Swimming In The Flood,You Really Got Me (Album Version),flood,really,0
+Swimming In The Flood,You Really Got Me (Album Version),flood,got,0
+Swimming In The Flood,You Really Got Me (Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,You Really Got Me (Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,You Really Got Me (Album Version),flood,van,0.14285714285714285
+Swimming In The Flood,You Really Got Me (Album Version),manners,really,0
+Swimming In The Flood,You Really Got Me (Album Version),manners,got,0
+Swimming In The Flood,You Really Got Me (Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,You Really Got Me (Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,You Really Got Me (Album Version),manners,van,0.3076923076923077
+Swimming In The Flood,Dreamin',swimming,red,0.2222222222222222
+Swimming In The Flood,Dreamin',swimming,album,0.1111111111111111
+Swimming In The Flood,Dreamin',flood,red,0.13333333333333333
+Swimming In The Flood,Dreamin',flood,album,0.26666666666666666
+Swimming In The Flood,Dreamin',manners,red,0.42857142857142855
+Swimming In The Flood,Dreamin',manners,album,0.14285714285714285

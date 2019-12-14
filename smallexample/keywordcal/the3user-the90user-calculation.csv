@@ -1,0 +1,2443 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Jason Phones It In,sun,jason,0.1111111111111111
+Sun Hands,Jason Phones It In,sun,phones,0.47058823529411764
+Sun Hands,Jason Phones It In,sun,bourne,0.375
+Sun Hands,Jason Phones It In,sun,identity,0.15384615384615385
+Sun Hands,Jason Phones It In,hands,jason,0.3157894736842105
+Sun Hands,Jason Phones It In,hands,phones,0.1111111111111111
+Sun Hands,Jason Phones It In,hands,bourne,0.11764705882352941
+Sun Hands,Jason Phones It In,hands,identity,0.2857142857142857
+Sun Hands,Jason Phones It In,gorilla,jason,0.07692307692307693
+Sun Hands,Jason Phones It In,gorilla,phones,0.32
+Sun Hands,Jason Phones It In,gorilla,bourne,0.25
+Sun Hands,Jason Phones It In,gorilla,identity,0.09523809523809523
+Sun Hands,Jason Phones It In,manor,jason,0.1
+Sun Hands,Jason Phones It In,manor,phones,0.5263157894736842
+Sun Hands,Jason Phones It In,manor,bourne,0.3333333333333333
+Sun Hands,Jason Phones It In,manor,identity,0.13333333333333333
+Sun Hands,Bebegim Öldü,sun,dead,0.15384615384615385
+Sun Hands,Bebegim Öldü,sun,baby,0.42105263157894735
+Sun Hands,Bebegim Öldü,sun,romanticism,0.125
+Sun Hands,Bebegim Öldü,hands,dead,0.2857142857142857
+Sun Hands,Bebegim Öldü,hands,baby,0.11764705882352941
+Sun Hands,Bebegim Öldü,hands,romanticism,0.23529411764705882
+Sun Hands,Bebegim Öldü,gorilla,dead,0.09523809523809523
+Sun Hands,Bebegim Öldü,gorilla,baby,0.4444444444444444
+Sun Hands,Bebegim Öldü,gorilla,romanticism,0.08333333333333333
+Sun Hands,Bebegim Öldü,manor,dead,0.13333333333333333
+Sun Hands,Bebegim Öldü,manor,baby,0.38095238095238093
+Sun Hands,Bebegim Öldü,manor,romanticism,0.1111111111111111
+Sun Hands,Forever Loving Jah,sun,forever,0
+Sun Hands,Forever Loving Jah,sun,loving,0
+Sun Hands,Forever Loving Jah,sun,songs,0.13333333333333333
+Sun Hands,Forever Loving Jah,sun,freedom,0.15384615384615385
+Sun Hands,Forever Loving Jah,hands,forever,0
+Sun Hands,Forever Loving Jah,hands,loving,0
+Sun Hands,Forever Loving Jah,hands,songs,0.25
+Sun Hands,Forever Loving Jah,hands,freedom,0.2857142857142857
+Sun Hands,Forever Loving Jah,gorilla,forever,0
+Sun Hands,Forever Loving Jah,gorilla,loving,0
+Sun Hands,Forever Loving Jah,gorilla,songs,0.08695652173913043
+Sun Hands,Forever Loving Jah,gorilla,freedom,0.09523809523809523
+Sun Hands,Forever Loving Jah,manor,forever,0
+Sun Hands,Forever Loving Jah,manor,loving,0
+Sun Hands,Forever Loving Jah,manor,songs,0.11764705882352941
+Sun Hands,Forever Loving Jah,manor,freedom,0.13333333333333333
+Sun Hands,Hora Din Caval,sun,din,0.125
+Sun Hands,Hora Din Caval,sun,time,0.13333333333333333
+Sun Hands,Hora Din Caval,sun,honourable,0
+Sun Hands,Hora Din Caval,sun,magic,0.125
+Sun Hands,Hora Din Caval,sun,horses,0.34782608695652173
+Sun Hands,Hora Din Caval,sun,evil,0.11764705882352941
+Sun Hands,Hora Din Caval,sun,eye,0.25
+Sun Hands,Hora Din Caval,hands,din,0.47058823529411764
+Sun Hands,Hora Din Caval,hands,time,0.5
+Sun Hands,Hora Din Caval,hands,honourable,0
+Sun Hands,Hora Din Caval,hands,magic,0.35294117647058826
+Sun Hands,Hora Din Caval,hands,horses,0.08333333333333333
+Sun Hands,Hora Din Caval,hands,evil,0.5263157894736842
+Sun Hands,Hora Din Caval,hands,eye,0.11764705882352941
+Sun Hands,Hora Din Caval,gorilla,din,0.08333333333333333
+Sun Hands,Hora Din Caval,gorilla,time,0.08695652173913043
+Sun Hands,Hora Din Caval,gorilla,honourable,0
+Sun Hands,Hora Din Caval,gorilla,magic,0.08333333333333333
+Sun Hands,Hora Din Caval,gorilla,horses,0.7096774193548387
+Sun Hands,Hora Din Caval,gorilla,evil,0.08
+Sun Hands,Hora Din Caval,gorilla,eye,0.16666666666666666
+Sun Hands,Hora Din Caval,manor,din,0.1111111111111111
+Sun Hands,Hora Din Caval,manor,time,0.11764705882352941
+Sun Hands,Hora Din Caval,manor,honourable,0
+Sun Hands,Hora Din Caval,manor,magic,0.1111111111111111
+Sun Hands,Hora Din Caval,manor,horses,0.32
+Sun Hands,Hora Din Caval,manor,evil,0.10526315789473684
+Sun Hands,Hora Din Caval,manor,eye,0.2222222222222222
+Sun Hands,To The Roof,sun,roof,0.5
+Sun Hands,To The Roof,sun,bourne,0.375
+Sun Hands,To The Roof,sun,supremacy,0.13333333333333333
+Sun Hands,To The Roof,hands,roof,0.11764705882352941
+Sun Hands,To The Roof,hands,bourne,0.11764705882352941
+Sun Hands,To The Roof,hands,supremacy,0.25
+Sun Hands,To The Roof,gorilla,roof,0.3333333333333333
+Sun Hands,To The Roof,gorilla,bourne,0.25
+Sun Hands,To The Roof,gorilla,supremacy,0.08695652173913043
+Sun Hands,To The Roof,manor,roof,0.5555555555555556
+Sun Hands,To The Roof,manor,bourne,0.3333333333333333
+Sun Hands,To The Roof,manor,supremacy,0.11764705882352941
+Sun Hands,Some Bwoy,sun,fully,0
+Sun Hands,Some Bwoy,sun,loaded,0
+Sun Hands,Some Bwoy,hands,fully,0
+Sun Hands,Some Bwoy,hands,loaded,0
+Sun Hands,Some Bwoy,gorilla,fully,0
+Sun Hands,Some Bwoy,gorilla,loaded,0
+Sun Hands,Some Bwoy,manor,fully,0
+Sun Hands,Some Bwoy,manor,loaded,0
+Sun Hands,Lothlorien (2002 Digital Remaster),sun,digital,0
+Sun Hands,Lothlorien (2002 Digital Remaster),sun,rings,0.4444444444444444
+Sun Hands,Lothlorien (2002 Digital Remaster),sun,lord,0.11764705882352941
+Sun Hands,Lothlorien (2002 Digital Remaster),hands,digital,0
+Sun Hands,Lothlorien (2002 Digital Remaster),hands,rings,0.10526315789473684
+Sun Hands,Lothlorien (2002 Digital Remaster),hands,lord,0.3333333333333333
+Sun Hands,Lothlorien (2002 Digital Remaster),gorilla,digital,0
+Sun Hands,Lothlorien (2002 Digital Remaster),gorilla,rings,0.3076923076923077
+Sun Hands,Lothlorien (2002 Digital Remaster),gorilla,lord,0.08
+Sun Hands,Lothlorien (2002 Digital Remaster),manor,digital,0
+Sun Hands,Lothlorien (2002 Digital Remaster),manor,rings,0.5
+Sun Hands,Lothlorien (2002 Digital Remaster),manor,lord,0.10526315789473684
+Sun Hands,Tive Sim,sun,yes,0.1111111111111111
+Sun Hands,Tive Sim,sun,new,0
+Sun Hands,Tive Sim,sun,top,0.42857142857142855
+Sun Hands,Tive Sim,sun,hat,0.47058823529411764
+Sun Hands,Tive Sim,hands,yes,0.21052631578947367
+Sun Hands,Tive Sim,hands,new,0
+Sun Hands,Tive Sim,hands,top,0.13333333333333333
+Sun Hands,Tive Sim,hands,hat,0.1111111111111111
+Sun Hands,Tive Sim,gorilla,yes,0.07692307692307693
+Sun Hands,Tive Sim,gorilla,new,0
+Sun Hands,Tive Sim,gorilla,top,0.2727272727272727
+Sun Hands,Tive Sim,gorilla,hat,0.32
+Sun Hands,Tive Sim,manor,yes,0.1
+Sun Hands,Tive Sim,manor,new,0
+Sun Hands,Tive Sim,manor,top,0.375
+Sun Hands,Tive Sim,manor,hat,0.5263157894736842
+Sun Hands,Sticks And Stones,sun,stones,0.7142857142857143
+Sun Hands,Sticks And Stones,sun,sticks,0.5
+Sun Hands,Sticks And Stones,sun,anthology,0.42105263157894735
+Sun Hands,Sticks And Stones,hands,stones,0.13333333333333333
+Sun Hands,Sticks And Stones,hands,sticks,0.11764705882352941
+Sun Hands,Sticks And Stones,hands,anthology,0.1
+Sun Hands,Sticks And Stones,gorilla,stones,0.36363636363636365
+Sun Hands,Sticks And Stones,gorilla,sticks,0.3333333333333333
+Sun Hands,Sticks And Stones,gorilla,anthology,0.2962962962962963
+Sun Hands,Sticks And Stones,manor,stones,0.5
+Sun Hands,Sticks And Stones,manor,sticks,0.5555555555555556
+Sun Hands,Sticks And Stones,manor,anthology,0.47619047619047616
+Sun Hands,Vasiyet,sun,testament,0.11764705882352941
+Sun Hands,Vasiyet,sun,romanticism,0.125
+Sun Hands,Vasiyet,hands,testament,0.3333333333333333
+Sun Hands,Vasiyet,hands,romanticism,0.23529411764705882
+Sun Hands,Vasiyet,gorilla,testament,0.08
+Sun Hands,Vasiyet,gorilla,romanticism,0.08333333333333333
+Sun Hands,Vasiyet,manor,testament,0.10526315789473684
+Sun Hands,Vasiyet,manor,romanticism,0.1111111111111111
+Sun Hands,Justin's Death,sun,death,0.13333333333333333
+Sun Hands,Justin's Death,sun,constant,0.11764705882352941
+Sun Hands,Justin's Death,sun,gardener,0.4444444444444444
+Sun Hands,Justin's Death,hands,death,0.5
+Sun Hands,Justin's Death,hands,constant,0.3333333333333333
+Sun Hands,Justin's Death,hands,gardener,0.125
+Sun Hands,Justin's Death,gorilla,death,0.08695652173913043
+Sun Hands,Justin's Death,gorilla,constant,0.08
+Sun Hands,Justin's Death,gorilla,gardener,0.46153846153846156
+Sun Hands,Justin's Death,manor,death,0.11764705882352941
+Sun Hands,Justin's Death,manor,constant,0.10526315789473684
+Sun Hands,Justin's Death,manor,gardener,0.4
+Sun Hands,Universe,sun,universe,0.7142857142857143
+Sun Hands,Universe,sun,anthology,0.42105263157894735
+Sun Hands,Universe,hands,universe,0.13333333333333333
+Sun Hands,Universe,hands,anthology,0.1
+Sun Hands,Universe,gorilla,universe,0.36363636363636365
+Sun Hands,Universe,gorilla,anthology,0.2962962962962963
+Sun Hands,Universe,manor,universe,0.5
+Sun Hands,Universe,manor,anthology,0.47619047619047616
+Sun Hands,Hurt,sun,hurt,0.11764705882352941
+Sun Hands,Hurt,sun,greatest,0
+Sun Hands,Hurt,sun,hits,0.11764705882352941
+Sun Hands,Hurt,hands,hurt,0.2222222222222222
+Sun Hands,Hurt,hands,greatest,0
+Sun Hands,Hurt,hands,hits,0.5263157894736842
+Sun Hands,Hurt,gorilla,hurt,0.08
+Sun Hands,Hurt,gorilla,greatest,0
+Sun Hands,Hurt,gorilla,hits,0.08
+Sun Hands,Hurt,manor,hurt,0.10526315789473684
+Sun Hands,Hurt,manor,greatest,0
+Sun Hands,Hurt,manor,hits,0.10526315789473684
+Sun Hands,Jomo Gets An HIV Test,sun,gets,0.09523809523809523
+Sun Hands,Jomo Gets An HIV Test,sun,hiv,0.10526315789473684
+Sun Hands,Jomo Gets An HIV Test,sun,test,0.10526315789473684
+Sun Hands,Jomo Gets An HIV Test,sun,constant,0.11764705882352941
+Sun Hands,Jomo Gets An HIV Test,sun,gardener,0.4444444444444444
+Sun Hands,Jomo Gets An HIV Test,hands,gets,0.43478260869565216
+Sun Hands,Jomo Gets An HIV Test,hands,hiv,0.2
+Sun Hands,Jomo Gets An HIV Test,hands,test,0.3
+Sun Hands,Jomo Gets An HIV Test,hands,constant,0.3333333333333333
+Sun Hands,Jomo Gets An HIV Test,hands,gardener,0.125
+Sun Hands,Jomo Gets An HIV Test,gorilla,gets,0.06896551724137931
+Sun Hands,Jomo Gets An HIV Test,gorilla,hiv,0.07407407407407407
+Sun Hands,Jomo Gets An HIV Test,gorilla,test,0.07407407407407407
+Sun Hands,Jomo Gets An HIV Test,gorilla,constant,0.08
+Sun Hands,Jomo Gets An HIV Test,gorilla,gardener,0.46153846153846156
+Sun Hands,Jomo Gets An HIV Test,manor,gets,0.08695652173913043
+Sun Hands,Jomo Gets An HIV Test,manor,hiv,0.09523809523809523
+Sun Hands,Jomo Gets An HIV Test,manor,test,0.09523809523809523
+Sun Hands,Jomo Gets An HIV Test,manor,constant,0.10526315789473684
+Sun Hands,Jomo Gets An HIV Test,manor,gardener,0.4
+Sun Hands,Dropped Off At Turkana,sun,dropped,0
+Sun Hands,Dropped Off At Turkana,sun,constant,0.11764705882352941
+Sun Hands,Dropped Off At Turkana,sun,gardener,0.4444444444444444
+Sun Hands,Dropped Off At Turkana,hands,dropped,0
+Sun Hands,Dropped Off At Turkana,hands,constant,0.3333333333333333
+Sun Hands,Dropped Off At Turkana,hands,gardener,0.125
+Sun Hands,Dropped Off At Turkana,gorilla,dropped,0
+Sun Hands,Dropped Off At Turkana,gorilla,constant,0.08
+Sun Hands,Dropped Off At Turkana,gorilla,gardener,0.46153846153846156
+Sun Hands,Dropped Off At Turkana,manor,dropped,0
+Sun Hands,Dropped Off At Turkana,manor,constant,0.10526315789473684
+Sun Hands,Dropped Off At Turkana,manor,gardener,0.4
+Sun Hands,Fairy Tale,sun,fairy,0.125
+Sun Hands,Fairy Tale,sun,tale,0.15384615384615385
+Sun Hands,Fairy Tale,sun,second,0.15384615384615385
+Sun Hands,Fairy Tale,sun,passport,0.13333333333333333
+Sun Hands,Fairy Tale,hands,fairy,0.35294117647058826
+Sun Hands,Fairy Tale,hands,tale,0.2857142857142857
+Sun Hands,Fairy Tale,hands,second,0.2857142857142857
+Sun Hands,Fairy Tale,hands,passport,0.25
+Sun Hands,Fairy Tale,gorilla,fairy,0.08333333333333333
+Sun Hands,Fairy Tale,gorilla,tale,0.09523809523809523
+Sun Hands,Fairy Tale,gorilla,second,0.09523809523809523
+Sun Hands,Fairy Tale,gorilla,passport,0.08695652173913043
+Sun Hands,Fairy Tale,manor,fairy,0.1111111111111111
+Sun Hands,Fairy Tale,manor,tale,0.13333333333333333
+Sun Hands,Fairy Tale,manor,second,0.13333333333333333
+Sun Hands,Fairy Tale,manor,passport,0.11764705882352941
+Sun Hands,Restless,sun,restless,0
+Sun Hands,Restless,sun,lonely,0
+Sun Hands,Restless,sun,runs,0.10526315789473684
+Sun Hands,Restless,sun,ways,0.5333333333333333
+Sun Hands,Restless,hands,restless,0
+Sun Hands,Restless,hands,lonely,0
+Sun Hands,Restless,hands,runs,0.47619047619047616
+Sun Hands,Restless,hands,ways,0.125
+Sun Hands,Restless,gorilla,restless,0
+Sun Hands,Restless,gorilla,lonely,0
+Sun Hands,Restless,gorilla,runs,0.07407407407407407
+Sun Hands,Restless,gorilla,ways,0.34782608695652173
+Sun Hands,Restless,manor,restless,0
+Sun Hands,Restless,manor,lonely,0
+Sun Hands,Restless,manor,runs,0.09523809523809523
+Sun Hands,Restless,manor,ways,0.7058823529411765
+Sun Hands,Halla Halla,sun,live,0
+Sun Hands,Halla Halla,hands,live,0
+Sun Hands,Halla Halla,gorilla,live,0
+Sun Hands,Halla Halla,manor,live,0
+Sun Hands,Killa,sun,truth,0.13333333333333333
+Sun Hands,Killa,hands,truth,0.375
+Sun Hands,Killa,gorilla,truth,0.08695652173913043
+Sun Hands,Killa,manor,truth,0.11764705882352941
+Sun Hands,Cantaloop (Flip Fantasia),sun,flip,0.1
+Sun Hands,Cantaloop (Flip Fantasia),sun,fantasia,0.13333333333333333
+Sun Hands,Cantaloop (Flip Fantasia),sun,flip,0.1
+Sun Hands,Cantaloop (Flip Fantasia),sun,fantasia,0.13333333333333333
+Sun Hands,Cantaloop (Flip Fantasia),sun,hits,0.11764705882352941
+Sun Hands,Cantaloop (Flip Fantasia),hands,flip,0.45454545454545453
+Sun Hands,Cantaloop (Flip Fantasia),hands,fantasia,0.25
+Sun Hands,Cantaloop (Flip Fantasia),hands,flip,0.45454545454545453
+Sun Hands,Cantaloop (Flip Fantasia),hands,fantasia,0.25
+Sun Hands,Cantaloop (Flip Fantasia),hands,hits,0.5263157894736842
+Sun Hands,Cantaloop (Flip Fantasia),gorilla,flip,0.07142857142857142
+Sun Hands,Cantaloop (Flip Fantasia),gorilla,fantasia,0.08695652173913043
+Sun Hands,Cantaloop (Flip Fantasia),gorilla,flip,0.07142857142857142
+Sun Hands,Cantaloop (Flip Fantasia),gorilla,fantasia,0.08695652173913043
+Sun Hands,Cantaloop (Flip Fantasia),gorilla,hits,0.08
+Sun Hands,Cantaloop (Flip Fantasia),manor,flip,0.09090909090909091
+Sun Hands,Cantaloop (Flip Fantasia),manor,fantasia,0.11764705882352941
+Sun Hands,Cantaloop (Flip Fantasia),manor,flip,0.09090909090909091
+Sun Hands,Cantaloop (Flip Fantasia),manor,fantasia,0.11764705882352941
+Sun Hands,Cantaloop (Flip Fantasia),manor,hits,0.10526315789473684
+Camera Talk,Jason Phones It In,camera,jason,0.10526315789473684
+Camera Talk,Jason Phones It In,camera,phones,0.7777777777777778
+Camera Talk,Jason Phones It In,camera,bourne,0.35294117647058826
+Camera Talk,Jason Phones It In,camera,identity,0.14285714285714285
+Camera Talk,Jason Phones It In,talk,jason,0.23529411764705882
+Camera Talk,Jason Phones It In,talk,phones,0.125
+Camera Talk,Jason Phones It In,talk,bourne,0.13333333333333333
+Camera Talk,Jason Phones It In,talk,identity,0.3333333333333333
+Camera Talk,Jason Phones It In,camera,jason,0.10526315789473684
+Camera Talk,Jason Phones It In,camera,phones,0.7777777777777778
+Camera Talk,Jason Phones It In,camera,bourne,0.35294117647058826
+Camera Talk,Jason Phones It In,camera,identity,0.14285714285714285
+Camera Talk,Jason Phones It In,talk,jason,0.23529411764705882
+Camera Talk,Jason Phones It In,talk,phones,0.125
+Camera Talk,Jason Phones It In,talk,bourne,0.13333333333333333
+Camera Talk,Jason Phones It In,talk,identity,0.3333333333333333
+Camera Talk,Bebegim Öldü,camera,dead,0.14285714285714285
+Camera Talk,Bebegim Öldü,camera,baby,0.4
+Camera Talk,Bebegim Öldü,camera,romanticism,0.11764705882352941
+Camera Talk,Bebegim Öldü,talk,dead,0.3333333333333333
+Camera Talk,Bebegim Öldü,talk,baby,0.13333333333333333
+Camera Talk,Bebegim Öldü,talk,romanticism,0.26666666666666666
+Camera Talk,Bebegim Öldü,camera,dead,0.14285714285714285
+Camera Talk,Bebegim Öldü,camera,baby,0.4
+Camera Talk,Bebegim Öldü,camera,romanticism,0.11764705882352941
+Camera Talk,Bebegim Öldü,talk,dead,0.3333333333333333
+Camera Talk,Bebegim Öldü,talk,baby,0.13333333333333333
+Camera Talk,Bebegim Öldü,talk,romanticism,0.26666666666666666
+Camera Talk,Forever Loving Jah,camera,forever,0
+Camera Talk,Forever Loving Jah,camera,loving,0
+Camera Talk,Forever Loving Jah,camera,songs,0.125
+Camera Talk,Forever Loving Jah,camera,freedom,0.14285714285714285
+Camera Talk,Forever Loving Jah,talk,forever,0
+Camera Talk,Forever Loving Jah,talk,loving,0
+Camera Talk,Forever Loving Jah,talk,songs,0.5714285714285714
+Camera Talk,Forever Loving Jah,talk,freedom,0.3333333333333333
+Camera Talk,Forever Loving Jah,camera,forever,0
+Camera Talk,Forever Loving Jah,camera,loving,0
+Camera Talk,Forever Loving Jah,camera,songs,0.125
+Camera Talk,Forever Loving Jah,camera,freedom,0.14285714285714285
+Camera Talk,Forever Loving Jah,talk,forever,0
+Camera Talk,Forever Loving Jah,talk,loving,0
+Camera Talk,Forever Loving Jah,talk,songs,0.5714285714285714
+Camera Talk,Forever Loving Jah,talk,freedom,0.3333333333333333
+Camera Talk,Hora Din Caval,camera,din,0.11764705882352941
+Camera Talk,Hora Din Caval,camera,time,0.125
+Camera Talk,Hora Din Caval,camera,honourable,0
+Camera Talk,Hora Din Caval,camera,magic,0.11764705882352941
+Camera Talk,Hora Din Caval,camera,horses,0.3333333333333333
+Camera Talk,Hora Din Caval,camera,evil,0.1111111111111111
+Camera Talk,Hora Din Caval,camera,eye,0.23529411764705882
+Camera Talk,Hora Din Caval,talk,din,0.26666666666666666
+Camera Talk,Hora Din Caval,talk,time,0.2857142857142857
+Camera Talk,Hora Din Caval,talk,honourable,0
+Camera Talk,Hora Din Caval,talk,magic,0.26666666666666666
+Camera Talk,Hora Din Caval,talk,horses,0.09090909090909091
+Camera Talk,Hora Din Caval,talk,evil,0.25
+Camera Talk,Hora Din Caval,talk,eye,0.13333333333333333
+Camera Talk,Hora Din Caval,camera,din,0.11764705882352941
+Camera Talk,Hora Din Caval,camera,time,0.125
+Camera Talk,Hora Din Caval,camera,honourable,0
+Camera Talk,Hora Din Caval,camera,magic,0.11764705882352941
+Camera Talk,Hora Din Caval,camera,horses,0.3333333333333333
+Camera Talk,Hora Din Caval,camera,evil,0.1111111111111111
+Camera Talk,Hora Din Caval,camera,eye,0.23529411764705882
+Camera Talk,Hora Din Caval,talk,din,0.26666666666666666
+Camera Talk,Hora Din Caval,talk,time,0.2857142857142857
+Camera Talk,Hora Din Caval,talk,honourable,0
+Camera Talk,Hora Din Caval,talk,magic,0.26666666666666666
+Camera Talk,Hora Din Caval,talk,horses,0.09090909090909091
+Camera Talk,Hora Din Caval,talk,evil,0.25
+Camera Talk,Hora Din Caval,talk,eye,0.13333333333333333
+Camera Talk,To The Roof,camera,roof,0.5882352941176471
+Camera Talk,To The Roof,camera,bourne,0.35294117647058826
+Camera Talk,To The Roof,camera,supremacy,0.125
+Camera Talk,To The Roof,talk,roof,0.13333333333333333
+Camera Talk,To The Roof,talk,bourne,0.13333333333333333
+Camera Talk,To The Roof,talk,supremacy,0.2857142857142857
+Camera Talk,To The Roof,camera,roof,0.5882352941176471
+Camera Talk,To The Roof,camera,bourne,0.35294117647058826
+Camera Talk,To The Roof,camera,supremacy,0.125
+Camera Talk,To The Roof,talk,roof,0.13333333333333333
+Camera Talk,To The Roof,talk,bourne,0.13333333333333333
+Camera Talk,To The Roof,talk,supremacy,0.2857142857142857
+Camera Talk,Some Bwoy,camera,fully,0
+Camera Talk,Some Bwoy,camera,loaded,0
+Camera Talk,Some Bwoy,talk,fully,0
+Camera Talk,Some Bwoy,talk,loaded,0
+Camera Talk,Some Bwoy,camera,fully,0
+Camera Talk,Some Bwoy,camera,loaded,0
+Camera Talk,Some Bwoy,talk,fully,0
+Camera Talk,Some Bwoy,talk,loaded,0
+Camera Talk,Lothlorien (2002 Digital Remaster),camera,digital,0
+Camera Talk,Lothlorien (2002 Digital Remaster),camera,rings,0.7368421052631579
+Camera Talk,Lothlorien (2002 Digital Remaster),camera,lord,0.1111111111111111
+Camera Talk,Lothlorien (2002 Digital Remaster),talk,digital,0
+Camera Talk,Lothlorien (2002 Digital Remaster),talk,rings,0.11764705882352941
+Camera Talk,Lothlorien (2002 Digital Remaster),talk,lord,0.25
+Camera Talk,Lothlorien (2002 Digital Remaster),camera,digital,0
+Camera Talk,Lothlorien (2002 Digital Remaster),camera,rings,0.7368421052631579
+Camera Talk,Lothlorien (2002 Digital Remaster),camera,lord,0.1111111111111111
+Camera Talk,Lothlorien (2002 Digital Remaster),talk,digital,0
+Camera Talk,Lothlorien (2002 Digital Remaster),talk,rings,0.11764705882352941
+Camera Talk,Lothlorien (2002 Digital Remaster),talk,lord,0.25
+Camera Talk,Tive Sim,camera,yes,0.10526315789473684
+Camera Talk,Tive Sim,camera,new,0
+Camera Talk,Tive Sim,camera,top,0.4
+Camera Talk,Tive Sim,camera,hat,0.5555555555555556
+Camera Talk,Tive Sim,talk,yes,0.35294117647058826
+Camera Talk,Tive Sim,talk,new,0
+Camera Talk,Tive Sim,talk,top,0.15384615384615385
+Camera Talk,Tive Sim,talk,hat,0.125
+Camera Talk,Tive Sim,camera,yes,0.10526315789473684
+Camera Talk,Tive Sim,camera,new,0
+Camera Talk,Tive Sim,camera,top,0.4
+Camera Talk,Tive Sim,camera,hat,0.5555555555555556
+Camera Talk,Tive Sim,talk,yes,0.35294117647058826
+Camera Talk,Tive Sim,talk,new,0
+Camera Talk,Tive Sim,talk,top,0.15384615384615385
+Camera Talk,Tive Sim,talk,hat,0.125
+Camera Talk,Sticks And Stones,camera,stones,0.5333333333333333
+Camera Talk,Sticks And Stones,camera,sticks,0.7058823529411765
+Camera Talk,Sticks And Stones,camera,anthology,0.5
+Camera Talk,Sticks And Stones,talk,stones,0.15384615384615385
+Camera Talk,Sticks And Stones,talk,sticks,0.13333333333333333
+Camera Talk,Sticks And Stones,talk,anthology,0.1111111111111111
+Camera Talk,Sticks And Stones,camera,stones,0.5333333333333333
+Camera Talk,Sticks And Stones,camera,sticks,0.7058823529411765
+Camera Talk,Sticks And Stones,camera,anthology,0.5
+Camera Talk,Sticks And Stones,talk,stones,0.15384615384615385
+Camera Talk,Sticks And Stones,talk,sticks,0.13333333333333333
+Camera Talk,Sticks And Stones,talk,anthology,0.1111111111111111
+Camera Talk,Vasiyet,camera,testament,0.1111111111111111
+Camera Talk,Vasiyet,camera,romanticism,0.11764705882352941
+Camera Talk,Vasiyet,talk,testament,0.25
+Camera Talk,Vasiyet,talk,romanticism,0.26666666666666666
+Camera Talk,Vasiyet,camera,testament,0.1111111111111111
+Camera Talk,Vasiyet,camera,romanticism,0.11764705882352941
+Camera Talk,Vasiyet,talk,testament,0.25
+Camera Talk,Vasiyet,talk,romanticism,0.26666666666666666
+Camera Talk,Justin's Death,camera,death,0.125
+Camera Talk,Justin's Death,camera,constant,0.1111111111111111
+Camera Talk,Justin's Death,camera,gardener,0.42105263157894735
+Camera Talk,Justin's Death,talk,death,0.2857142857142857
+Camera Talk,Justin's Death,talk,constant,0.25
+Camera Talk,Justin's Death,talk,gardener,0.14285714285714285
+Camera Talk,Justin's Death,camera,death,0.125
+Camera Talk,Justin's Death,camera,constant,0.1111111111111111
+Camera Talk,Justin's Death,camera,gardener,0.42105263157894735
+Camera Talk,Justin's Death,talk,death,0.2857142857142857
+Camera Talk,Justin's Death,talk,constant,0.25
+Camera Talk,Justin's Death,talk,gardener,0.14285714285714285
+Camera Talk,Universe,camera,universe,0.5333333333333333
+Camera Talk,Universe,camera,anthology,0.5
+Camera Talk,Universe,talk,universe,0.15384615384615385
+Camera Talk,Universe,talk,anthology,0.1111111111111111
+Camera Talk,Universe,camera,universe,0.5333333333333333
+Camera Talk,Universe,camera,anthology,0.5
+Camera Talk,Universe,talk,universe,0.15384615384615385
+Camera Talk,Universe,talk,anthology,0.1111111111111111
+Camera Talk,Hurt,camera,hurt,0.1111111111111111
+Camera Talk,Hurt,camera,greatest,0
+Camera Talk,Hurt,camera,hits,0.1111111111111111
+Camera Talk,Hurt,talk,hurt,0.25
+Camera Talk,Hurt,talk,greatest,0
+Camera Talk,Hurt,talk,hits,0.25
+Camera Talk,Hurt,camera,hurt,0.1111111111111111
+Camera Talk,Hurt,camera,greatest,0
+Camera Talk,Hurt,camera,hits,0.1111111111111111
+Camera Talk,Hurt,talk,hurt,0.25
+Camera Talk,Hurt,talk,greatest,0
+Camera Talk,Hurt,talk,hits,0.25
+Camera Talk,Jomo Gets An HIV Test,camera,gets,0.09090909090909091
+Camera Talk,Jomo Gets An HIV Test,camera,hiv,0.1
+Camera Talk,Jomo Gets An HIV Test,camera,test,0.1
+Camera Talk,Jomo Gets An HIV Test,camera,constant,0.1111111111111111
+Camera Talk,Jomo Gets An HIV Test,camera,gardener,0.42105263157894735
+Camera Talk,Jomo Gets An HIV Test,talk,gets,0.2
+Camera Talk,Jomo Gets An HIV Test,talk,hiv,0.2222222222222222
+Camera Talk,Jomo Gets An HIV Test,talk,test,0.2222222222222222
+Camera Talk,Jomo Gets An HIV Test,talk,constant,0.25
+Camera Talk,Jomo Gets An HIV Test,talk,gardener,0.14285714285714285
+Camera Talk,Jomo Gets An HIV Test,camera,gets,0.09090909090909091
+Camera Talk,Jomo Gets An HIV Test,camera,hiv,0.1
+Camera Talk,Jomo Gets An HIV Test,camera,test,0.1
+Camera Talk,Jomo Gets An HIV Test,camera,constant,0.1111111111111111
+Camera Talk,Jomo Gets An HIV Test,camera,gardener,0.42105263157894735
+Camera Talk,Jomo Gets An HIV Test,talk,gets,0.2
+Camera Talk,Jomo Gets An HIV Test,talk,hiv,0.2222222222222222
+Camera Talk,Jomo Gets An HIV Test,talk,test,0.2222222222222222
+Camera Talk,Jomo Gets An HIV Test,talk,constant,0.25
+Camera Talk,Jomo Gets An HIV Test,talk,gardener,0.14285714285714285
+Camera Talk,Dropped Off At Turkana,camera,dropped,0
+Camera Talk,Dropped Off At Turkana,camera,constant,0.1111111111111111
+Camera Talk,Dropped Off At Turkana,camera,gardener,0.42105263157894735
+Camera Talk,Dropped Off At Turkana,talk,dropped,0
+Camera Talk,Dropped Off At Turkana,talk,constant,0.25
+Camera Talk,Dropped Off At Turkana,talk,gardener,0.14285714285714285
+Camera Talk,Dropped Off At Turkana,camera,dropped,0
+Camera Talk,Dropped Off At Turkana,camera,constant,0.1111111111111111
+Camera Talk,Dropped Off At Turkana,camera,gardener,0.42105263157894735
+Camera Talk,Dropped Off At Turkana,talk,dropped,0
+Camera Talk,Dropped Off At Turkana,talk,constant,0.25
+Camera Talk,Dropped Off At Turkana,talk,gardener,0.14285714285714285
+Camera Talk,Fairy Tale,camera,fairy,0.11764705882352941
+Camera Talk,Fairy Tale,camera,tale,0.14285714285714285
+Camera Talk,Fairy Tale,camera,second,0.14285714285714285
+Camera Talk,Fairy Tale,camera,passport,0.125
+Camera Talk,Fairy Tale,talk,fairy,0.26666666666666666
+Camera Talk,Fairy Tale,talk,tale,0.5
+Camera Talk,Fairy Tale,talk,second,0.3333333333333333
+Camera Talk,Fairy Tale,talk,passport,0.42857142857142855
+Camera Talk,Fairy Tale,camera,fairy,0.11764705882352941
+Camera Talk,Fairy Tale,camera,tale,0.14285714285714285
+Camera Talk,Fairy Tale,camera,second,0.14285714285714285
+Camera Talk,Fairy Tale,camera,passport,0.125
+Camera Talk,Fairy Tale,talk,fairy,0.26666666666666666
+Camera Talk,Fairy Tale,talk,tale,0.5
+Camera Talk,Fairy Tale,talk,second,0.3333333333333333
+Camera Talk,Fairy Tale,talk,passport,0.42857142857142855
+Camera Talk,Restless,camera,restless,0
+Camera Talk,Restless,camera,lonely,0
+Camera Talk,Restless,camera,runs,0.1
+Camera Talk,Restless,camera,ways,0.625
+Camera Talk,Restless,talk,restless,0
+Camera Talk,Restless,talk,lonely,0
+Camera Talk,Restless,talk,runs,0.2222222222222222
+Camera Talk,Restless,talk,ways,0.14285714285714285
+Camera Talk,Restless,camera,restless,0
+Camera Talk,Restless,camera,lonely,0
+Camera Talk,Restless,camera,runs,0.1
+Camera Talk,Restless,camera,ways,0.625
+Camera Talk,Restless,talk,restless,0
+Camera Talk,Restless,talk,lonely,0
+Camera Talk,Restless,talk,runs,0.2222222222222222
+Camera Talk,Restless,talk,ways,0.14285714285714285
+Camera Talk,Halla Halla,camera,live,0
+Camera Talk,Halla Halla,talk,live,0
+Camera Talk,Halla Halla,camera,live,0
+Camera Talk,Halla Halla,talk,live,0
+Camera Talk,Killa,camera,truth,0.125
+Camera Talk,Killa,talk,truth,0.2857142857142857
+Camera Talk,Killa,camera,truth,0.125
+Camera Talk,Killa,talk,truth,0.2857142857142857
+Camera Talk,Cantaloop (Flip Fantasia),camera,flip,0.09523809523809523
+Camera Talk,Cantaloop (Flip Fantasia),camera,fantasia,0.125
+Camera Talk,Cantaloop (Flip Fantasia),camera,flip,0.09523809523809523
+Camera Talk,Cantaloop (Flip Fantasia),camera,fantasia,0.125
+Camera Talk,Cantaloop (Flip Fantasia),camera,hits,0.1111111111111111
+Camera Talk,Cantaloop (Flip Fantasia),talk,flip,0.21052631578947367
+Camera Talk,Cantaloop (Flip Fantasia),talk,fantasia,0.5714285714285714
+Camera Talk,Cantaloop (Flip Fantasia),talk,flip,0.21052631578947367
+Camera Talk,Cantaloop (Flip Fantasia),talk,fantasia,0.5714285714285714
+Camera Talk,Cantaloop (Flip Fantasia),talk,hits,0.25
+Camera Talk,Cantaloop (Flip Fantasia),camera,flip,0.09523809523809523
+Camera Talk,Cantaloop (Flip Fantasia),camera,fantasia,0.125
+Camera Talk,Cantaloop (Flip Fantasia),camera,flip,0.09523809523809523
+Camera Talk,Cantaloop (Flip Fantasia),camera,fantasia,0.125
+Camera Talk,Cantaloop (Flip Fantasia),camera,hits,0.1111111111111111
+Camera Talk,Cantaloop (Flip Fantasia),talk,flip,0.21052631578947367
+Camera Talk,Cantaloop (Flip Fantasia),talk,fantasia,0.5714285714285714
+Camera Talk,Cantaloop (Flip Fantasia),talk,flip,0.21052631578947367
+Camera Talk,Cantaloop (Flip Fantasia),talk,fantasia,0.5714285714285714
+Camera Talk,Cantaloop (Flip Fantasia),talk,hits,0.25
+Belle,Jason Phones It In,beautiful,jason,0
+Belle,Jason Phones It In,beautiful,phones,0
+Belle,Jason Phones It In,beautiful,bourne,0
+Belle,Jason Phones It In,beautiful,identity,0
+Belle,Jason Phones It In,dreams,jason,0.42105263157894735
+Belle,Jason Phones It In,dreams,phones,0.1111111111111111
+Belle,Jason Phones It In,dreams,bourne,0.11764705882352941
+Belle,Jason Phones It In,dreams,identity,0.2857142857142857
+Belle,Bebegim Öldü,beautiful,dead,0
+Belle,Bebegim Öldü,beautiful,baby,0
+Belle,Bebegim Öldü,beautiful,romanticism,0
+Belle,Bebegim Öldü,dreams,dead,0.2857142857142857
+Belle,Bebegim Öldü,dreams,baby,0.11764705882352941
+Belle,Bebegim Öldü,dreams,romanticism,0.23529411764705882
+Belle,Forever Loving Jah,beautiful,forever,0
+Belle,Forever Loving Jah,beautiful,loving,0
+Belle,Forever Loving Jah,beautiful,songs,0
+Belle,Forever Loving Jah,beautiful,freedom,0
+Belle,Forever Loving Jah,dreams,forever,0
+Belle,Forever Loving Jah,dreams,loving,0
+Belle,Forever Loving Jah,dreams,songs,0.25
+Belle,Forever Loving Jah,dreams,freedom,0.2857142857142857
+Belle,Hora Din Caval,beautiful,din,0
+Belle,Hora Din Caval,beautiful,time,0
+Belle,Hora Din Caval,beautiful,honourable,0
+Belle,Hora Din Caval,beautiful,magic,0
+Belle,Hora Din Caval,beautiful,horses,0
+Belle,Hora Din Caval,beautiful,evil,0
+Belle,Hora Din Caval,beautiful,eye,0
+Belle,Hora Din Caval,dreams,din,0.35294117647058826
+Belle,Hora Din Caval,dreams,time,0.375
+Belle,Hora Din Caval,dreams,honourable,0
+Belle,Hora Din Caval,dreams,magic,0.47058823529411764
+Belle,Hora Din Caval,dreams,horses,0.08333333333333333
+Belle,Hora Din Caval,dreams,evil,0.3333333333333333
+Belle,Hora Din Caval,dreams,eye,0.11764705882352941
+Belle,To The Roof,beautiful,roof,0
+Belle,To The Roof,beautiful,bourne,0
+Belle,To The Roof,beautiful,supremacy,0
+Belle,To The Roof,dreams,roof,0.11764705882352941
+Belle,To The Roof,dreams,bourne,0.11764705882352941
+Belle,To The Roof,dreams,supremacy,0.25
+Belle,Some Bwoy,beautiful,fully,0
+Belle,Some Bwoy,beautiful,loaded,0
+Belle,Some Bwoy,dreams,fully,0
+Belle,Some Bwoy,dreams,loaded,0
+Belle,Lothlorien (2002 Digital Remaster),beautiful,digital,0
+Belle,Lothlorien (2002 Digital Remaster),beautiful,rings,0
+Belle,Lothlorien (2002 Digital Remaster),beautiful,lord,0
+Belle,Lothlorien (2002 Digital Remaster),dreams,digital,0
+Belle,Lothlorien (2002 Digital Remaster),dreams,rings,0.10526315789473684
+Belle,Lothlorien (2002 Digital Remaster),dreams,lord,0.4444444444444444
+Belle,Tive Sim,beautiful,yes,0
+Belle,Tive Sim,beautiful,new,0
+Belle,Tive Sim,beautiful,top,0
+Belle,Tive Sim,beautiful,hat,0
+Belle,Tive Sim,dreams,yes,0.21052631578947367
+Belle,Tive Sim,dreams,new,0
+Belle,Tive Sim,dreams,top,0.13333333333333333
+Belle,Tive Sim,dreams,hat,0.1111111111111111
+Belle,Sticks And Stones,beautiful,stones,0
+Belle,Sticks And Stones,beautiful,sticks,0
+Belle,Sticks And Stones,beautiful,anthology,0
+Belle,Sticks And Stones,dreams,stones,0.13333333333333333
+Belle,Sticks And Stones,dreams,sticks,0.11764705882352941
+Belle,Sticks And Stones,dreams,anthology,0.1
+Belle,Vasiyet,beautiful,testament,0
+Belle,Vasiyet,beautiful,romanticism,0
+Belle,Vasiyet,dreams,testament,0.4444444444444444
+Belle,Vasiyet,dreams,romanticism,0.23529411764705882
+Belle,Justin's Death,beautiful,death,0
+Belle,Justin's Death,beautiful,constant,0
+Belle,Justin's Death,beautiful,gardener,0
+Belle,Justin's Death,dreams,death,0.375
+Belle,Justin's Death,dreams,constant,0.4444444444444444
+Belle,Justin's Death,dreams,gardener,0.125
+Belle,Universe,beautiful,universe,0
+Belle,Universe,beautiful,anthology,0
+Belle,Universe,dreams,universe,0.13333333333333333
+Belle,Universe,dreams,anthology,0.1
+Belle,Hurt,beautiful,hurt,0
+Belle,Hurt,beautiful,greatest,0
+Belle,Hurt,beautiful,hits,0
+Belle,Hurt,dreams,hurt,0.2222222222222222
+Belle,Hurt,dreams,greatest,0
+Belle,Hurt,dreams,hits,0.3333333333333333
+Belle,Jomo Gets An HIV Test,beautiful,gets,0
+Belle,Jomo Gets An HIV Test,beautiful,hiv,0
+Belle,Jomo Gets An HIV Test,beautiful,test,0
+Belle,Jomo Gets An HIV Test,beautiful,constant,0
+Belle,Jomo Gets An HIV Test,beautiful,gardener,0
+Belle,Jomo Gets An HIV Test,dreams,gets,0.2727272727272727
+Belle,Jomo Gets An HIV Test,dreams,hiv,0.2
+Belle,Jomo Gets An HIV Test,dreams,test,0.5
+Belle,Jomo Gets An HIV Test,dreams,constant,0.4444444444444444
+Belle,Jomo Gets An HIV Test,dreams,gardener,0.125
+Belle,Dropped Off At Turkana,beautiful,dropped,0
+Belle,Dropped Off At Turkana,beautiful,constant,0
+Belle,Dropped Off At Turkana,beautiful,gardener,0
+Belle,Dropped Off At Turkana,dreams,dropped,0
+Belle,Dropped Off At Turkana,dreams,constant,0.4444444444444444
+Belle,Dropped Off At Turkana,dreams,gardener,0.125
+Belle,Fairy Tale,beautiful,fairy,0
+Belle,Fairy Tale,beautiful,tale,0
+Belle,Fairy Tale,beautiful,second,0
+Belle,Fairy Tale,beautiful,passport,0
+Belle,Fairy Tale,dreams,fairy,0.47058823529411764
+Belle,Fairy Tale,dreams,tale,0.2857142857142857
+Belle,Fairy Tale,dreams,second,0.2857142857142857
+Belle,Fairy Tale,dreams,passport,0.25
+Belle,Restless,beautiful,restless,0
+Belle,Restless,beautiful,lonely,0
+Belle,Restless,beautiful,runs,0
+Belle,Restless,beautiful,ways,0
+Belle,Restless,dreams,restless,0
+Belle,Restless,dreams,lonely,0
+Belle,Restless,dreams,runs,0.3
+Belle,Restless,dreams,ways,0.125
+Belle,Halla Halla,beautiful,live,0
+Belle,Halla Halla,dreams,live,0
+Belle,Killa,beautiful,truth,0
+Belle,Killa,dreams,truth,0.5
+Belle,Cantaloop (Flip Fantasia),beautiful,flip,0
+Belle,Cantaloop (Flip Fantasia),beautiful,fantasia,0
+Belle,Cantaloop (Flip Fantasia),beautiful,flip,0
+Belle,Cantaloop (Flip Fantasia),beautiful,fantasia,0
+Belle,Cantaloop (Flip Fantasia),beautiful,hits,0
+Belle,Cantaloop (Flip Fantasia),dreams,flip,0.2857142857142857
+Belle,Cantaloop (Flip Fantasia),dreams,fantasia,0.25
+Belle,Cantaloop (Flip Fantasia),dreams,flip,0.2857142857142857
+Belle,Cantaloop (Flip Fantasia),dreams,fantasia,0.25
+Belle,Cantaloop (Flip Fantasia),dreams,hits,0.3333333333333333
+Auto Rock,Jason Phones It In,auto,jason,0.09523809523809523
+Auto Rock,Jason Phones It In,auto,phones,0.6
+Auto Rock,Jason Phones It In,auto,bourne,0.3157894736842105
+Auto Rock,Jason Phones It In,auto,identity,0.125
+Auto Rock,Jason Phones It In,rock,jason,0.125
+Auto Rock,Jason Phones It In,rock,phones,0.5333333333333333
+Auto Rock,Jason Phones It In,rock,bourne,0.42857142857142855
+Auto Rock,Jason Phones It In,rock,identity,0.18181818181818182
+Auto Rock,Jason Phones It In,mr,jason,0.21052631578947367
+Auto Rock,Jason Phones It In,mr,phones,0.1111111111111111
+Auto Rock,Jason Phones It In,mr,bourne,0.11764705882352941
+Auto Rock,Jason Phones It In,mr,identity,0.2857142857142857
+Auto Rock,Jason Phones It In,beast,jason,0.11764705882352941
+Auto Rock,Jason Phones It In,beast,phones,0.5
+Auto Rock,Jason Phones It In,beast,bourne,0.4
+Auto Rock,Jason Phones It In,beast,identity,0.16666666666666666
+Auto Rock,Bebegim Öldü,auto,dead,0.125
+Auto Rock,Bebegim Öldü,auto,baby,0.36363636363636365
+Auto Rock,Bebegim Öldü,auto,romanticism,0.10526315789473684
+Auto Rock,Bebegim Öldü,rock,dead,0.18181818181818182
+Auto Rock,Bebegim Öldü,rock,baby,0.47058823529411764
+Auto Rock,Bebegim Öldü,rock,romanticism,0.14285714285714285
+Auto Rock,Bebegim Öldü,mr,dead,0.2857142857142857
+Auto Rock,Bebegim Öldü,mr,baby,0.11764705882352941
+Auto Rock,Bebegim Öldü,mr,romanticism,0.23529411764705882
+Auto Rock,Bebegim Öldü,beast,dead,0.16666666666666666
+Auto Rock,Bebegim Öldü,beast,baby,0.6666666666666666
+Auto Rock,Bebegim Öldü,beast,romanticism,0.13333333333333333
+Auto Rock,Forever Loving Jah,auto,forever,0
+Auto Rock,Forever Loving Jah,auto,loving,0
+Auto Rock,Forever Loving Jah,auto,songs,0.1111111111111111
+Auto Rock,Forever Loving Jah,auto,freedom,0.125
+Auto Rock,Forever Loving Jah,rock,forever,0
+Auto Rock,Forever Loving Jah,rock,loving,0
+Auto Rock,Forever Loving Jah,rock,songs,0.15384615384615385
+Auto Rock,Forever Loving Jah,rock,freedom,0.18181818181818182
+Auto Rock,Forever Loving Jah,mr,forever,0
+Auto Rock,Forever Loving Jah,mr,loving,0
+Auto Rock,Forever Loving Jah,mr,songs,0.25
+Auto Rock,Forever Loving Jah,mr,freedom,0.2857142857142857
+Auto Rock,Forever Loving Jah,beast,forever,0
+Auto Rock,Forever Loving Jah,beast,loving,0
+Auto Rock,Forever Loving Jah,beast,songs,0.14285714285714285
+Auto Rock,Forever Loving Jah,beast,freedom,0.16666666666666666
+Auto Rock,Hora Din Caval,auto,din,0.10526315789473684
+Auto Rock,Hora Din Caval,auto,time,0.1111111111111111
+Auto Rock,Hora Din Caval,auto,honourable,0
+Auto Rock,Hora Din Caval,auto,magic,0.10526315789473684
+Auto Rock,Hora Din Caval,auto,horses,0.3076923076923077
+Auto Rock,Hora Din Caval,auto,evil,0.1
+Auto Rock,Hora Din Caval,auto,eye,0.21052631578947367
+Auto Rock,Hora Din Caval,rock,din,0.14285714285714285
+Auto Rock,Hora Din Caval,rock,time,0.15384615384615385
+Auto Rock,Hora Din Caval,rock,honourable,0
+Auto Rock,Hora Din Caval,rock,magic,0.14285714285714285
+Auto Rock,Hora Din Caval,rock,horses,0.38095238095238093
+Auto Rock,Hora Din Caval,rock,evil,0.13333333333333333
+Auto Rock,Hora Din Caval,rock,eye,0.2857142857142857
+Auto Rock,Hora Din Caval,mr,din,0.23529411764705882
+Auto Rock,Hora Din Caval,mr,time,0.25
+Auto Rock,Hora Din Caval,mr,honourable,0
+Auto Rock,Hora Din Caval,mr,magic,0.23529411764705882
+Auto Rock,Hora Din Caval,mr,horses,0.08333333333333333
+Auto Rock,Hora Din Caval,mr,evil,0.2222222222222222
+Auto Rock,Hora Din Caval,mr,eye,0.11764705882352941
+Auto Rock,Hora Din Caval,beast,din,0.13333333333333333
+Auto Rock,Hora Din Caval,beast,time,0.14285714285714285
+Auto Rock,Hora Din Caval,beast,honourable,0
+Auto Rock,Hora Din Caval,beast,magic,0.13333333333333333
+Auto Rock,Hora Din Caval,beast,horses,0.6363636363636364
+Auto Rock,Hora Din Caval,beast,evil,0.125
+Auto Rock,Hora Din Caval,beast,eye,0.26666666666666666
+Auto Rock,To The Roof,auto,roof,0.5263157894736842
+Auto Rock,To The Roof,auto,bourne,0.3157894736842105
+Auto Rock,To The Roof,auto,supremacy,0.1111111111111111
+Auto Rock,To The Roof,rock,roof,0.5714285714285714
+Auto Rock,To The Roof,rock,bourne,0.42857142857142855
+Auto Rock,To The Roof,rock,supremacy,0.15384615384615385
+Auto Rock,To The Roof,mr,roof,0.11764705882352941
+Auto Rock,To The Roof,mr,bourne,0.11764705882352941
+Auto Rock,To The Roof,mr,supremacy,0.25
+Auto Rock,To The Roof,beast,roof,0.5333333333333333
+Auto Rock,To The Roof,beast,bourne,0.4
+Auto Rock,To The Roof,beast,supremacy,0.14285714285714285
+Auto Rock,Some Bwoy,auto,fully,0
+Auto Rock,Some Bwoy,auto,loaded,0
+Auto Rock,Some Bwoy,rock,fully,0
+Auto Rock,Some Bwoy,rock,loaded,0
+Auto Rock,Some Bwoy,mr,fully,0
+Auto Rock,Some Bwoy,mr,loaded,0
+Auto Rock,Some Bwoy,beast,fully,0
+Auto Rock,Some Bwoy,beast,loaded,0
+Auto Rock,Lothlorien (2002 Digital Remaster),auto,digital,0
+Auto Rock,Lothlorien (2002 Digital Remaster),auto,rings,0.5714285714285714
+Auto Rock,Lothlorien (2002 Digital Remaster),auto,lord,0.1
+Auto Rock,Lothlorien (2002 Digital Remaster),rock,digital,0
+Auto Rock,Lothlorien (2002 Digital Remaster),rock,rings,0.5
+Auto Rock,Lothlorien (2002 Digital Remaster),rock,lord,0.13333333333333333
+Auto Rock,Lothlorien (2002 Digital Remaster),mr,digital,0
+Auto Rock,Lothlorien (2002 Digital Remaster),mr,rings,0.10526315789473684
+Auto Rock,Lothlorien (2002 Digital Remaster),mr,lord,0.2222222222222222
+Auto Rock,Lothlorien (2002 Digital Remaster),beast,digital,0
+Auto Rock,Lothlorien (2002 Digital Remaster),beast,rings,0.47058823529411764
+Auto Rock,Lothlorien (2002 Digital Remaster),beast,lord,0.125
+Auto Rock,Tive Sim,auto,yes,0.09523809523809523
+Auto Rock,Tive Sim,auto,new,0
+Auto Rock,Tive Sim,auto,top,0.35294117647058826
+Auto Rock,Tive Sim,auto,hat,0.5
+Auto Rock,Tive Sim,rock,yes,0.125
+Auto Rock,Tive Sim,rock,new,0
+Auto Rock,Tive Sim,rock,top,0.5
+Auto Rock,Tive Sim,rock,hat,0.5333333333333333
+Auto Rock,Tive Sim,mr,yes,0.21052631578947367
+Auto Rock,Tive Sim,mr,new,0
+Auto Rock,Tive Sim,mr,top,0.13333333333333333
+Auto Rock,Tive Sim,mr,hat,0.1111111111111111
+Auto Rock,Tive Sim,beast,yes,0.11764705882352941
+Auto Rock,Tive Sim,beast,new,0
+Auto Rock,Tive Sim,beast,top,0.46153846153846156
+Auto Rock,Tive Sim,beast,hat,0.5
+Auto Rock,Sticks And Stones,auto,stones,0.47058823529411764
+Auto Rock,Sticks And Stones,auto,sticks,0.631578947368421
+Auto Rock,Sticks And Stones,auto,anthology,0.45454545454545453
+Auto Rock,Sticks And Stones,rock,stones,1.0
+Auto Rock,Sticks And Stones,rock,sticks,0.5714285714285714
+Auto Rock,Sticks And Stones,rock,anthology,0.47058823529411764
+Auto Rock,Sticks And Stones,mr,stones,0.13333333333333333
+Auto Rock,Sticks And Stones,mr,sticks,0.11764705882352941
+Auto Rock,Sticks And Stones,mr,anthology,0.1
+Auto Rock,Sticks And Stones,beast,stones,0.6153846153846154
+Auto Rock,Sticks And Stones,beast,sticks,0.5333333333333333
+Auto Rock,Sticks And Stones,beast,anthology,0.4444444444444444
+Auto Rock,Vasiyet,auto,testament,0.1
+Auto Rock,Vasiyet,auto,romanticism,0.10526315789473684
+Auto Rock,Vasiyet,rock,testament,0.13333333333333333
+Auto Rock,Vasiyet,rock,romanticism,0.14285714285714285
+Auto Rock,Vasiyet,mr,testament,0.2222222222222222
+Auto Rock,Vasiyet,mr,romanticism,0.23529411764705882
+Auto Rock,Vasiyet,beast,testament,0.125
+Auto Rock,Vasiyet,beast,romanticism,0.13333333333333333
+Auto Rock,Justin's Death,auto,death,0.1111111111111111
+Auto Rock,Justin's Death,auto,constant,0.1
+Auto Rock,Justin's Death,auto,gardener,0.38095238095238093
+Auto Rock,Justin's Death,rock,death,0.15384615384615385
+Auto Rock,Justin's Death,rock,constant,0.13333333333333333
+Auto Rock,Justin's Death,rock,gardener,0.5
+Auto Rock,Justin's Death,mr,death,0.25
+Auto Rock,Justin's Death,mr,constant,0.2222222222222222
+Auto Rock,Justin's Death,mr,gardener,0.125
+Auto Rock,Justin's Death,beast,death,0.14285714285714285
+Auto Rock,Justin's Death,beast,constant,0.125
+Auto Rock,Justin's Death,beast,gardener,0.7058823529411765
+Auto Rock,Universe,auto,universe,0.47058823529411764
+Auto Rock,Universe,auto,anthology,0.45454545454545453
+Auto Rock,Universe,rock,universe,0.8333333333333334
+Auto Rock,Universe,rock,anthology,0.47058823529411764
+Auto Rock,Universe,mr,universe,0.13333333333333333
+Auto Rock,Universe,mr,anthology,0.1
+Auto Rock,Universe,beast,universe,0.6153846153846154
+Auto Rock,Universe,beast,anthology,0.4444444444444444
+Auto Rock,Hurt,auto,hurt,0.1
+Auto Rock,Hurt,auto,greatest,0
+Auto Rock,Hurt,auto,hits,0.1
+Auto Rock,Hurt,rock,hurt,0.13333333333333333
+Auto Rock,Hurt,rock,greatest,0
+Auto Rock,Hurt,rock,hits,0.13333333333333333
+Auto Rock,Hurt,mr,hurt,0.2222222222222222
+Auto Rock,Hurt,mr,greatest,0
+Auto Rock,Hurt,mr,hits,0.2222222222222222
+Auto Rock,Hurt,beast,hurt,0.125
+Auto Rock,Hurt,beast,greatest,0
+Auto Rock,Hurt,beast,hits,0.125
+Auto Rock,Jomo Gets An HIV Test,auto,gets,0.08333333333333333
+Auto Rock,Jomo Gets An HIV Test,auto,hiv,0.09090909090909091
+Auto Rock,Jomo Gets An HIV Test,auto,test,0.09090909090909091
+Auto Rock,Jomo Gets An HIV Test,auto,constant,0.1
+Auto Rock,Jomo Gets An HIV Test,auto,gardener,0.38095238095238093
+Auto Rock,Jomo Gets An HIV Test,rock,gets,0.10526315789473684
+Auto Rock,Jomo Gets An HIV Test,rock,hiv,0.11764705882352941
+Auto Rock,Jomo Gets An HIV Test,rock,test,0.11764705882352941
+Auto Rock,Jomo Gets An HIV Test,rock,constant,0.13333333333333333
+Auto Rock,Jomo Gets An HIV Test,rock,gardener,0.5
+Auto Rock,Jomo Gets An HIV Test,mr,gets,0.18181818181818182
+Auto Rock,Jomo Gets An HIV Test,mr,hiv,0.2
+Auto Rock,Jomo Gets An HIV Test,mr,test,0.2
+Auto Rock,Jomo Gets An HIV Test,mr,constant,0.2222222222222222
+Auto Rock,Jomo Gets An HIV Test,mr,gardener,0.125
+Auto Rock,Jomo Gets An HIV Test,beast,gets,0.1
+Auto Rock,Jomo Gets An HIV Test,beast,hiv,0.1111111111111111
+Auto Rock,Jomo Gets An HIV Test,beast,test,0.1111111111111111
+Auto Rock,Jomo Gets An HIV Test,beast,constant,0.125
+Auto Rock,Jomo Gets An HIV Test,beast,gardener,0.7058823529411765
+Auto Rock,Dropped Off At Turkana,auto,dropped,0
+Auto Rock,Dropped Off At Turkana,auto,constant,0.1
+Auto Rock,Dropped Off At Turkana,auto,gardener,0.38095238095238093
+Auto Rock,Dropped Off At Turkana,rock,dropped,0
+Auto Rock,Dropped Off At Turkana,rock,constant,0.13333333333333333
+Auto Rock,Dropped Off At Turkana,rock,gardener,0.5
+Auto Rock,Dropped Off At Turkana,mr,dropped,0
+Auto Rock,Dropped Off At Turkana,mr,constant,0.2222222222222222
+Auto Rock,Dropped Off At Turkana,mr,gardener,0.125
+Auto Rock,Dropped Off At Turkana,beast,dropped,0
+Auto Rock,Dropped Off At Turkana,beast,constant,0.125
+Auto Rock,Dropped Off At Turkana,beast,gardener,0.7058823529411765
+Auto Rock,Fairy Tale,auto,fairy,0.10526315789473684
+Auto Rock,Fairy Tale,auto,tale,0.125
+Auto Rock,Fairy Tale,auto,second,0.125
+Auto Rock,Fairy Tale,auto,passport,0.1111111111111111
+Auto Rock,Fairy Tale,rock,fairy,0.14285714285714285
+Auto Rock,Fairy Tale,rock,tale,0.18181818181818182
+Auto Rock,Fairy Tale,rock,second,0.18181818181818182
+Auto Rock,Fairy Tale,rock,passport,0.15384615384615385
+Auto Rock,Fairy Tale,mr,fairy,0.23529411764705882
+Auto Rock,Fairy Tale,mr,tale,0.2857142857142857
+Auto Rock,Fairy Tale,mr,second,0.2857142857142857
+Auto Rock,Fairy Tale,mr,passport,0.25
+Auto Rock,Fairy Tale,beast,fairy,0.13333333333333333
+Auto Rock,Fairy Tale,beast,tale,0.16666666666666666
+Auto Rock,Fairy Tale,beast,second,0.16666666666666666
+Auto Rock,Fairy Tale,beast,passport,0.14285714285714285
+Auto Rock,Restless,auto,restless,0
+Auto Rock,Restless,auto,lonely,0
+Auto Rock,Restless,auto,runs,0.09090909090909091
+Auto Rock,Restless,auto,ways,0.5555555555555556
+Auto Rock,Restless,rock,restless,0
+Auto Rock,Restless,rock,lonely,0
+Auto Rock,Restless,rock,runs,0.11764705882352941
+Auto Rock,Restless,rock,ways,0.6153846153846154
+Auto Rock,Restless,mr,restless,0
+Auto Rock,Restless,mr,lonely,0
+Auto Rock,Restless,mr,runs,0.2
+Auto Rock,Restless,mr,ways,0.125
+Auto Rock,Restless,beast,restless,0
+Auto Rock,Restless,beast,lonely,0
+Auto Rock,Restless,beast,runs,0.1111111111111111
+Auto Rock,Restless,beast,ways,0.5714285714285714
+Auto Rock,Halla Halla,auto,live,0
+Auto Rock,Halla Halla,rock,live,0
+Auto Rock,Halla Halla,mr,live,0
+Auto Rock,Halla Halla,beast,live,0
+Auto Rock,Killa,auto,truth,0.1111111111111111
+Auto Rock,Killa,rock,truth,0.15384615384615385
+Auto Rock,Killa,mr,truth,0.25
+Auto Rock,Killa,beast,truth,0.14285714285714285
+Auto Rock,Cantaloop (Flip Fantasia),auto,flip,0.08695652173913043
+Auto Rock,Cantaloop (Flip Fantasia),auto,fantasia,0.1111111111111111
+Auto Rock,Cantaloop (Flip Fantasia),auto,flip,0.08695652173913043
+Auto Rock,Cantaloop (Flip Fantasia),auto,fantasia,0.1111111111111111
+Auto Rock,Cantaloop (Flip Fantasia),auto,hits,0.1
+Auto Rock,Cantaloop (Flip Fantasia),rock,flip,0.1111111111111111
+Auto Rock,Cantaloop (Flip Fantasia),rock,fantasia,0.15384615384615385
+Auto Rock,Cantaloop (Flip Fantasia),rock,flip,0.1111111111111111
+Auto Rock,Cantaloop (Flip Fantasia),rock,fantasia,0.15384615384615385
+Auto Rock,Cantaloop (Flip Fantasia),rock,hits,0.13333333333333333
+Auto Rock,Cantaloop (Flip Fantasia),mr,flip,0.19047619047619047
+Auto Rock,Cantaloop (Flip Fantasia),mr,fantasia,0.25
+Auto Rock,Cantaloop (Flip Fantasia),mr,flip,0.19047619047619047
+Auto Rock,Cantaloop (Flip Fantasia),mr,fantasia,0.25
+Auto Rock,Cantaloop (Flip Fantasia),mr,hits,0.2222222222222222
+Auto Rock,Cantaloop (Flip Fantasia),beast,flip,0.10526315789473684
+Auto Rock,Cantaloop (Flip Fantasia),beast,fantasia,0.14285714285714285
+Auto Rock,Cantaloop (Flip Fantasia),beast,flip,0.10526315789473684
+Auto Rock,Cantaloop (Flip Fantasia),beast,fantasia,0.14285714285714285
+Auto Rock,Cantaloop (Flip Fantasia),beast,hits,0.125
+Who Knows Who Cares,Jason Phones It In,knows,jason,0.4444444444444444
+Who Knows Who Cares,Jason Phones It In,knows,phones,0.11764705882352941
+Who Knows Who Cares,Jason Phones It In,knows,bourne,0.125
+Who Knows Who Cares,Jason Phones It In,knows,identity,0.3076923076923077
+Who Knows Who Cares,Jason Phones It In,cares,jason,0.3333333333333333
+Who Knows Who Cares,Jason Phones It In,cares,phones,0.11764705882352941
+Who Knows Who Cares,Jason Phones It In,cares,bourne,0.125
+Who Knows Who Cares,Jason Phones It In,cares,identity,0.3076923076923077
+Who Knows Who Cares,Jason Phones It In,gorilla,jason,0.07692307692307693
+Who Knows Who Cares,Jason Phones It In,gorilla,phones,0.32
+Who Knows Who Cares,Jason Phones It In,gorilla,bourne,0.25
+Who Knows Who Cares,Jason Phones It In,gorilla,identity,0.09523809523809523
+Who Knows Who Cares,Jason Phones It In,manor,jason,0.1
+Who Knows Who Cares,Jason Phones It In,manor,phones,0.5263157894736842
+Who Knows Who Cares,Jason Phones It In,manor,bourne,0.3333333333333333
+Who Knows Who Cares,Jason Phones It In,manor,identity,0.13333333333333333
+Who Knows Who Cares,Bebegim Öldü,knows,dead,0.3076923076923077
+Who Knows Who Cares,Bebegim Öldü,knows,baby,0.125
+Who Knows Who Cares,Bebegim Öldü,knows,romanticism,0.25
+Who Knows Who Cares,Bebegim Öldü,cares,dead,0.3076923076923077
+Who Knows Who Cares,Bebegim Öldü,cares,baby,0.125
+Who Knows Who Cares,Bebegim Öldü,cares,romanticism,0.25
+Who Knows Who Cares,Bebegim Öldü,gorilla,dead,0.09523809523809523
+Who Knows Who Cares,Bebegim Öldü,gorilla,baby,0.4444444444444444
+Who Knows Who Cares,Bebegim Öldü,gorilla,romanticism,0.08333333333333333
+Who Knows Who Cares,Bebegim Öldü,manor,dead,0.13333333333333333
+Who Knows Who Cares,Bebegim Öldü,manor,baby,0.38095238095238093
+Who Knows Who Cares,Bebegim Öldü,manor,romanticism,0.1111111111111111
+Who Knows Who Cares,Forever Loving Jah,knows,forever,0
+Who Knows Who Cares,Forever Loving Jah,knows,loving,0
+Who Knows Who Cares,Forever Loving Jah,knows,songs,0.26666666666666666
+Who Knows Who Cares,Forever Loving Jah,knows,freedom,0.3076923076923077
+Who Knows Who Cares,Forever Loving Jah,cares,forever,0
+Who Knows Who Cares,Forever Loving Jah,cares,loving,0
+Who Knows Who Cares,Forever Loving Jah,cares,songs,0.26666666666666666
+Who Knows Who Cares,Forever Loving Jah,cares,freedom,0.3076923076923077
+Who Knows Who Cares,Forever Loving Jah,gorilla,forever,0
+Who Knows Who Cares,Forever Loving Jah,gorilla,loving,0
+Who Knows Who Cares,Forever Loving Jah,gorilla,songs,0.08695652173913043
+Who Knows Who Cares,Forever Loving Jah,gorilla,freedom,0.09523809523809523
+Who Knows Who Cares,Forever Loving Jah,manor,forever,0
+Who Knows Who Cares,Forever Loving Jah,manor,loving,0
+Who Knows Who Cares,Forever Loving Jah,manor,songs,0.11764705882352941
+Who Knows Who Cares,Forever Loving Jah,manor,freedom,0.13333333333333333
+Who Knows Who Cares,Hora Din Caval,knows,din,0.375
+Who Knows Who Cares,Hora Din Caval,knows,time,0.4
+Who Knows Who Cares,Hora Din Caval,knows,honourable,0
+Who Knows Who Cares,Hora Din Caval,knows,magic,0.5
+Who Knows Who Cares,Hora Din Caval,knows,horses,0.08695652173913043
+Who Knows Who Cares,Hora Din Caval,knows,evil,0.35294117647058826
+Who Knows Who Cares,Hora Din Caval,knows,eye,0.125
+Who Knows Who Cares,Hora Din Caval,cares,din,0.5
+Who Knows Who Cares,Hora Din Caval,cares,time,0.5333333333333333
+Who Knows Who Cares,Hora Din Caval,cares,honourable,0
+Who Knows Who Cares,Hora Din Caval,cares,magic,0.375
+Who Knows Who Cares,Hora Din Caval,cares,horses,0.08695652173913043
+Who Knows Who Cares,Hora Din Caval,cares,evil,0.7058823529411765
+Who Knows Who Cares,Hora Din Caval,cares,eye,0.125
+Who Knows Who Cares,Hora Din Caval,gorilla,din,0.08333333333333333
+Who Knows Who Cares,Hora Din Caval,gorilla,time,0.08695652173913043
+Who Knows Who Cares,Hora Din Caval,gorilla,honourable,0
+Who Knows Who Cares,Hora Din Caval,gorilla,magic,0.08333333333333333
+Who Knows Who Cares,Hora Din Caval,gorilla,horses,0.7096774193548387
+Who Knows Who Cares,Hora Din Caval,gorilla,evil,0.08
+Who Knows Who Cares,Hora Din Caval,gorilla,eye,0.16666666666666666
+Who Knows Who Cares,Hora Din Caval,manor,din,0.1111111111111111
+Who Knows Who Cares,Hora Din Caval,manor,time,0.11764705882352941
+Who Knows Who Cares,Hora Din Caval,manor,honourable,0
+Who Knows Who Cares,Hora Din Caval,manor,magic,0.1111111111111111
+Who Knows Who Cares,Hora Din Caval,manor,horses,0.32
+Who Knows Who Cares,Hora Din Caval,manor,evil,0.10526315789473684
+Who Knows Who Cares,Hora Din Caval,manor,eye,0.2222222222222222
+Who Knows Who Cares,To The Roof,knows,roof,0.125
+Who Knows Who Cares,To The Roof,knows,bourne,0.125
+Who Knows Who Cares,To The Roof,knows,supremacy,0.26666666666666666
+Who Knows Who Cares,To The Roof,cares,roof,0.125
+Who Knows Who Cares,To The Roof,cares,bourne,0.125
+Who Knows Who Cares,To The Roof,cares,supremacy,0.26666666666666666
+Who Knows Who Cares,To The Roof,gorilla,roof,0.3333333333333333
+Who Knows Who Cares,To The Roof,gorilla,bourne,0.25
+Who Knows Who Cares,To The Roof,gorilla,supremacy,0.08695652173913043
+Who Knows Who Cares,To The Roof,manor,roof,0.5555555555555556
+Who Knows Who Cares,To The Roof,manor,bourne,0.3333333333333333
+Who Knows Who Cares,To The Roof,manor,supremacy,0.11764705882352941
+Who Knows Who Cares,Some Bwoy,knows,fully,0
+Who Knows Who Cares,Some Bwoy,knows,loaded,0
+Who Knows Who Cares,Some Bwoy,cares,fully,0
+Who Knows Who Cares,Some Bwoy,cares,loaded,0
+Who Knows Who Cares,Some Bwoy,gorilla,fully,0
+Who Knows Who Cares,Some Bwoy,gorilla,loaded,0
+Who Knows Who Cares,Some Bwoy,manor,fully,0
+Who Knows Who Cares,Some Bwoy,manor,loaded,0
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),knows,digital,0
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),knows,rings,0.1111111111111111
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),knows,lord,0.47058823529411764
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),cares,digital,0
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),cares,rings,0.1111111111111111
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),cares,lord,0.35294117647058826
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),gorilla,digital,0
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),gorilla,rings,0.3076923076923077
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),gorilla,lord,0.08
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),manor,digital,0
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),manor,rings,0.5
+Who Knows Who Cares,Lothlorien (2002 Digital Remaster),manor,lord,0.10526315789473684
+Who Knows Who Cares,Tive Sim,knows,yes,0.2222222222222222
+Who Knows Who Cares,Tive Sim,knows,new,0
+Who Knows Who Cares,Tive Sim,knows,top,0.14285714285714285
+Who Knows Who Cares,Tive Sim,knows,hat,0.11764705882352941
+Who Knows Who Cares,Tive Sim,cares,yes,0.2222222222222222
+Who Knows Who Cares,Tive Sim,cares,new,0
+Who Knows Who Cares,Tive Sim,cares,top,0.14285714285714285
+Who Knows Who Cares,Tive Sim,cares,hat,0.11764705882352941
+Who Knows Who Cares,Tive Sim,gorilla,yes,0.07692307692307693
+Who Knows Who Cares,Tive Sim,gorilla,new,0
+Who Knows Who Cares,Tive Sim,gorilla,top,0.2727272727272727
+Who Knows Who Cares,Tive Sim,gorilla,hat,0.32
+Who Knows Who Cares,Tive Sim,manor,yes,0.1
+Who Knows Who Cares,Tive Sim,manor,new,0
+Who Knows Who Cares,Tive Sim,manor,top,0.375
+Who Knows Who Cares,Tive Sim,manor,hat,0.5263157894736842
+Who Knows Who Cares,Sticks And Stones,knows,stones,0.14285714285714285
+Who Knows Who Cares,Sticks And Stones,knows,sticks,0.125
+Who Knows Who Cares,Sticks And Stones,knows,anthology,0.10526315789473684
+Who Knows Who Cares,Sticks And Stones,cares,stones,0.14285714285714285
+Who Knows Who Cares,Sticks And Stones,cares,sticks,0.125
+Who Knows Who Cares,Sticks And Stones,cares,anthology,0.10526315789473684
+Who Knows Who Cares,Sticks And Stones,gorilla,stones,0.36363636363636365
+Who Knows Who Cares,Sticks And Stones,gorilla,sticks,0.3333333333333333
+Who Knows Who Cares,Sticks And Stones,gorilla,anthology,0.2962962962962963
+Who Knows Who Cares,Sticks And Stones,manor,stones,0.5
+Who Knows Who Cares,Sticks And Stones,manor,sticks,0.5555555555555556
+Who Knows Who Cares,Sticks And Stones,manor,anthology,0.47619047619047616
+Who Knows Who Cares,Vasiyet,knows,testament,0.47058823529411764
+Who Knows Who Cares,Vasiyet,knows,romanticism,0.25
+Who Knows Who Cares,Vasiyet,cares,testament,0.35294117647058826
+Who Knows Who Cares,Vasiyet,cares,romanticism,0.25
+Who Knows Who Cares,Vasiyet,gorilla,testament,0.08
+Who Knows Who Cares,Vasiyet,gorilla,romanticism,0.08333333333333333
+Who Knows Who Cares,Vasiyet,manor,testament,0.10526315789473684
+Who Knows Who Cares,Vasiyet,manor,romanticism,0.1111111111111111
+Who Knows Who Cares,Justin's Death,knows,death,0.4
+Who Knows Who Cares,Justin's Death,knows,constant,0.47058823529411764
+Who Knows Who Cares,Justin's Death,knows,gardener,0.13333333333333333
+Who Knows Who Cares,Justin's Death,cares,death,0.5333333333333333
+Who Knows Who Cares,Justin's Death,cares,constant,0.35294117647058826
+Who Knows Who Cares,Justin's Death,cares,gardener,0.13333333333333333
+Who Knows Who Cares,Justin's Death,gorilla,death,0.08695652173913043
+Who Knows Who Cares,Justin's Death,gorilla,constant,0.08
+Who Knows Who Cares,Justin's Death,gorilla,gardener,0.46153846153846156
+Who Knows Who Cares,Justin's Death,manor,death,0.11764705882352941
+Who Knows Who Cares,Justin's Death,manor,constant,0.10526315789473684
+Who Knows Who Cares,Justin's Death,manor,gardener,0.4
+Who Knows Who Cares,Universe,knows,universe,0.14285714285714285
+Who Knows Who Cares,Universe,knows,anthology,0.10526315789473684
+Who Knows Who Cares,Universe,cares,universe,0.14285714285714285
+Who Knows Who Cares,Universe,cares,anthology,0.10526315789473684
+Who Knows Who Cares,Universe,gorilla,universe,0.36363636363636365
+Who Knows Who Cares,Universe,gorilla,anthology,0.2962962962962963
+Who Knows Who Cares,Universe,manor,universe,0.5
+Who Knows Who Cares,Universe,manor,anthology,0.47619047619047616
+Who Knows Who Cares,Hurt,knows,hurt,0.23529411764705882
+Who Knows Who Cares,Hurt,knows,greatest,0
+Who Knows Who Cares,Hurt,knows,hits,0.35294117647058826
+Who Knows Who Cares,Hurt,cares,hurt,0.23529411764705882
+Who Knows Who Cares,Hurt,cares,greatest,0
+Who Knows Who Cares,Hurt,cares,hits,0.5882352941176471
+Who Knows Who Cares,Hurt,gorilla,hurt,0.08
+Who Knows Who Cares,Hurt,gorilla,greatest,0
+Who Knows Who Cares,Hurt,gorilla,hits,0.08
+Who Knows Who Cares,Hurt,manor,hurt,0.10526315789473684
+Who Knows Who Cares,Hurt,manor,greatest,0
+Who Knows Who Cares,Hurt,manor,hits,0.10526315789473684
+Who Knows Who Cares,Jomo Gets An HIV Test,knows,gets,0.2857142857142857
+Who Knows Who Cares,Jomo Gets An HIV Test,knows,hiv,0.21052631578947367
+Who Knows Who Cares,Jomo Gets An HIV Test,knows,test,0.631578947368421
+Who Knows Who Cares,Jomo Gets An HIV Test,knows,constant,0.47058823529411764
+Who Knows Who Cares,Jomo Gets An HIV Test,knows,gardener,0.13333333333333333
+Who Knows Who Cares,Jomo Gets An HIV Test,cares,gets,0.47619047619047616
+Who Knows Who Cares,Jomo Gets An HIV Test,cares,hiv,0.21052631578947367
+Who Knows Who Cares,Jomo Gets An HIV Test,cares,test,0.3157894736842105
+Who Knows Who Cares,Jomo Gets An HIV Test,cares,constant,0.35294117647058826
+Who Knows Who Cares,Jomo Gets An HIV Test,cares,gardener,0.13333333333333333
+Who Knows Who Cares,Jomo Gets An HIV Test,gorilla,gets,0.06896551724137931
+Who Knows Who Cares,Jomo Gets An HIV Test,gorilla,hiv,0.07407407407407407
+Who Knows Who Cares,Jomo Gets An HIV Test,gorilla,test,0.07407407407407407
+Who Knows Who Cares,Jomo Gets An HIV Test,gorilla,constant,0.08
+Who Knows Who Cares,Jomo Gets An HIV Test,gorilla,gardener,0.46153846153846156
+Who Knows Who Cares,Jomo Gets An HIV Test,manor,gets,0.08695652173913043
+Who Knows Who Cares,Jomo Gets An HIV Test,manor,hiv,0.09523809523809523
+Who Knows Who Cares,Jomo Gets An HIV Test,manor,test,0.09523809523809523
+Who Knows Who Cares,Jomo Gets An HIV Test,manor,constant,0.10526315789473684
+Who Knows Who Cares,Jomo Gets An HIV Test,manor,gardener,0.4
+Who Knows Who Cares,Dropped Off At Turkana,knows,dropped,0
+Who Knows Who Cares,Dropped Off At Turkana,knows,constant,0.47058823529411764
+Who Knows Who Cares,Dropped Off At Turkana,knows,gardener,0.13333333333333333
+Who Knows Who Cares,Dropped Off At Turkana,cares,dropped,0
+Who Knows Who Cares,Dropped Off At Turkana,cares,constant,0.35294117647058826
+Who Knows Who Cares,Dropped Off At Turkana,cares,gardener,0.13333333333333333
+Who Knows Who Cares,Dropped Off At Turkana,gorilla,dropped,0
+Who Knows Who Cares,Dropped Off At Turkana,gorilla,constant,0.08
+Who Knows Who Cares,Dropped Off At Turkana,gorilla,gardener,0.46153846153846156
+Who Knows Who Cares,Dropped Off At Turkana,manor,dropped,0
+Who Knows Who Cares,Dropped Off At Turkana,manor,constant,0.10526315789473684
+Who Knows Who Cares,Dropped Off At Turkana,manor,gardener,0.4
+Who Knows Who Cares,Fairy Tale,knows,fairy,0.5
+Who Knows Who Cares,Fairy Tale,knows,tale,0.3076923076923077
+Who Knows Who Cares,Fairy Tale,knows,second,0.3076923076923077
+Who Knows Who Cares,Fairy Tale,knows,passport,0.26666666666666666
+Who Knows Who Cares,Fairy Tale,cares,fairy,0.375
+Who Knows Who Cares,Fairy Tale,cares,tale,0.3076923076923077
+Who Knows Who Cares,Fairy Tale,cares,second,0.3076923076923077
+Who Knows Who Cares,Fairy Tale,cares,passport,0.26666666666666666
+Who Knows Who Cares,Fairy Tale,gorilla,fairy,0.08333333333333333
+Who Knows Who Cares,Fairy Tale,gorilla,tale,0.09523809523809523
+Who Knows Who Cares,Fairy Tale,gorilla,second,0.09523809523809523
+Who Knows Who Cares,Fairy Tale,gorilla,passport,0.08695652173913043
+Who Knows Who Cares,Fairy Tale,manor,fairy,0.1111111111111111
+Who Knows Who Cares,Fairy Tale,manor,tale,0.13333333333333333
+Who Knows Who Cares,Fairy Tale,manor,second,0.13333333333333333
+Who Knows Who Cares,Fairy Tale,manor,passport,0.11764705882352941
+Who Knows Who Cares,Restless,knows,restless,0
+Who Knows Who Cares,Restless,knows,lonely,0
+Who Knows Who Cares,Restless,knows,runs,0.3157894736842105
+Who Knows Who Cares,Restless,knows,ways,0.13333333333333333
+Who Knows Who Cares,Restless,cares,restless,0
+Who Knows Who Cares,Restless,cares,lonely,0
+Who Knows Who Cares,Restless,cares,runs,0.5263157894736842
+Who Knows Who Cares,Restless,cares,ways,0.13333333333333333
+Who Knows Who Cares,Restless,gorilla,restless,0
+Who Knows Who Cares,Restless,gorilla,lonely,0
+Who Knows Who Cares,Restless,gorilla,runs,0.07407407407407407
+Who Knows Who Cares,Restless,gorilla,ways,0.34782608695652173
+Who Knows Who Cares,Restless,manor,restless,0
+Who Knows Who Cares,Restless,manor,lonely,0
+Who Knows Who Cares,Restless,manor,runs,0.09523809523809523
+Who Knows Who Cares,Restless,manor,ways,0.7058823529411765
+Who Knows Who Cares,Halla Halla,knows,live,0
+Who Knows Who Cares,Halla Halla,cares,live,0
+Who Knows Who Cares,Halla Halla,gorilla,live,0
+Who Knows Who Cares,Halla Halla,manor,live,0
+Who Knows Who Cares,Killa,knows,truth,0.5333333333333333
+Who Knows Who Cares,Killa,cares,truth,0.4
+Who Knows Who Cares,Killa,gorilla,truth,0.08695652173913043
+Who Knows Who Cares,Killa,manor,truth,0.11764705882352941
+Who Knows Who Cares,Cantaloop (Flip Fantasia),knows,flip,0.3
+Who Knows Who Cares,Cantaloop (Flip Fantasia),knows,fantasia,0.26666666666666666
+Who Knows Who Cares,Cantaloop (Flip Fantasia),knows,flip,0.3
+Who Knows Who Cares,Cantaloop (Flip Fantasia),knows,fantasia,0.26666666666666666
+Who Knows Who Cares,Cantaloop (Flip Fantasia),knows,hits,0.35294117647058826
+Who Knows Who Cares,Cantaloop (Flip Fantasia),cares,flip,0.5
+Who Knows Who Cares,Cantaloop (Flip Fantasia),cares,fantasia,0.26666666666666666
+Who Knows Who Cares,Cantaloop (Flip Fantasia),cares,flip,0.5
+Who Knows Who Cares,Cantaloop (Flip Fantasia),cares,fantasia,0.26666666666666666
+Who Knows Who Cares,Cantaloop (Flip Fantasia),cares,hits,0.5882352941176471
+Who Knows Who Cares,Cantaloop (Flip Fantasia),gorilla,flip,0.07142857142857142
+Who Knows Who Cares,Cantaloop (Flip Fantasia),gorilla,fantasia,0.08695652173913043
+Who Knows Who Cares,Cantaloop (Flip Fantasia),gorilla,flip,0.07142857142857142
+Who Knows Who Cares,Cantaloop (Flip Fantasia),gorilla,fantasia,0.08695652173913043
+Who Knows Who Cares,Cantaloop (Flip Fantasia),gorilla,hits,0.08
+Who Knows Who Cares,Cantaloop (Flip Fantasia),manor,flip,0.09090909090909091
+Who Knows Who Cares,Cantaloop (Flip Fantasia),manor,fantasia,0.11764705882352941
+Who Knows Who Cares,Cantaloop (Flip Fantasia),manor,flip,0.09090909090909091
+Who Knows Who Cares,Cantaloop (Flip Fantasia),manor,fantasia,0.11764705882352941
+Who Knows Who Cares,Cantaloop (Flip Fantasia),manor,hits,0.10526315789473684
+Quiet,Jason Phones It In,quiet,jason,0.09523809523809523
+Quiet,Jason Phones It In,quiet,phones,0.2
+Quiet,Jason Phones It In,quiet,bourne,0.21052631578947367
+Quiet,Jason Phones It In,quiet,identity,0.125
+Quiet,Jason Phones It In,young,jason,0.1111111111111111
+Quiet,Jason Phones It In,young,phones,0.47058823529411764
+Quiet,Jason Phones It In,young,bourne,0.375
+Quiet,Jason Phones It In,young,identity,0.15384615384615385
+Quiet,Jason Phones It In,mountain,jason,0.125
+Quiet,Jason Phones It In,mountain,phones,0.4
+Quiet,Jason Phones It In,mountain,bourne,0.42857142857142855
+Quiet,Jason Phones It In,mountain,identity,0.18181818181818182
+Quiet,Bebegim Öldü,quiet,dead,0.125
+Quiet,Bebegim Öldü,quiet,baby,0.21052631578947367
+Quiet,Bebegim Öldü,quiet,romanticism,0.10526315789473684
+Quiet,Bebegim Öldü,young,dead,0.15384615384615385
+Quiet,Bebegim Öldü,young,baby,0.631578947368421
+Quiet,Bebegim Öldü,young,romanticism,0.125
+Quiet,Bebegim Öldü,mountain,dead,0.18181818181818182
+Quiet,Bebegim Öldü,mountain,baby,0.375
+Quiet,Bebegim Öldü,mountain,romanticism,0.14285714285714285
+Quiet,Forever Loving Jah,quiet,forever,0
+Quiet,Forever Loving Jah,quiet,loving,0
+Quiet,Forever Loving Jah,quiet,songs,0.1111111111111111
+Quiet,Forever Loving Jah,quiet,freedom,0.125
+Quiet,Forever Loving Jah,young,forever,0
+Quiet,Forever Loving Jah,young,loving,0
+Quiet,Forever Loving Jah,young,songs,0.13333333333333333
+Quiet,Forever Loving Jah,young,freedom,0.15384615384615385
+Quiet,Forever Loving Jah,mountain,forever,0
+Quiet,Forever Loving Jah,mountain,loving,0
+Quiet,Forever Loving Jah,mountain,songs,0.15384615384615385
+Quiet,Forever Loving Jah,mountain,freedom,0.18181818181818182
+Quiet,Hora Din Caval,quiet,din,0.10526315789473684
+Quiet,Hora Din Caval,quiet,time,0.1111111111111111
+Quiet,Hora Din Caval,quiet,honourable,0
+Quiet,Hora Din Caval,quiet,magic,0.10526315789473684
+Quiet,Hora Din Caval,quiet,horses,0.15384615384615385
+Quiet,Hora Din Caval,quiet,evil,0.1
+Quiet,Hora Din Caval,quiet,eye,0.21052631578947367
+Quiet,Hora Din Caval,young,din,0.125
+Quiet,Hora Din Caval,young,time,0.13333333333333333
+Quiet,Hora Din Caval,young,honourable,0
+Quiet,Hora Din Caval,young,magic,0.125
+Quiet,Hora Din Caval,young,horses,0.6086956521739131
+Quiet,Hora Din Caval,young,evil,0.11764705882352941
+Quiet,Hora Din Caval,young,eye,0.25
+Quiet,Hora Din Caval,mountain,din,0.14285714285714285
+Quiet,Hora Din Caval,mountain,time,0.15384615384615385
+Quiet,Hora Din Caval,mountain,honourable,0
+Quiet,Hora Din Caval,mountain,magic,0.14285714285714285
+Quiet,Hora Din Caval,mountain,horses,0.2857142857142857
+Quiet,Hora Din Caval,mountain,evil,0.13333333333333333
+Quiet,Hora Din Caval,mountain,eye,0.2857142857142857
+Quiet,To The Roof,quiet,roof,0.21052631578947367
+Quiet,To The Roof,quiet,bourne,0.21052631578947367
+Quiet,To The Roof,quiet,supremacy,0.1111111111111111
+Quiet,To The Roof,young,roof,0.5
+Quiet,To The Roof,young,bourne,0.375
+Quiet,To The Roof,young,supremacy,0.13333333333333333
+Quiet,To The Roof,mountain,roof,0.42857142857142855
+Quiet,To The Roof,mountain,bourne,0.42857142857142855
+Quiet,To The Roof,mountain,supremacy,0.15384615384615385
+Quiet,Some Bwoy,quiet,fully,0
+Quiet,Some Bwoy,quiet,loaded,0
+Quiet,Some Bwoy,young,fully,0
+Quiet,Some Bwoy,young,loaded,0
+Quiet,Some Bwoy,mountain,fully,0
+Quiet,Some Bwoy,mountain,loaded,0
+Quiet,Lothlorien (2002 Digital Remaster),quiet,digital,0
+Quiet,Lothlorien (2002 Digital Remaster),quiet,rings,0.19047619047619047
+Quiet,Lothlorien (2002 Digital Remaster),quiet,lord,0.1
+Quiet,Lothlorien (2002 Digital Remaster),young,digital,0
+Quiet,Lothlorien (2002 Digital Remaster),young,rings,0.4444444444444444
+Quiet,Lothlorien (2002 Digital Remaster),young,lord,0.11764705882352941
+Quiet,Lothlorien (2002 Digital Remaster),mountain,digital,0
+Quiet,Lothlorien (2002 Digital Remaster),mountain,rings,0.375
+Quiet,Lothlorien (2002 Digital Remaster),mountain,lord,0.13333333333333333
+Quiet,Tive Sim,quiet,yes,0.09523809523809523
+Quiet,Tive Sim,quiet,new,0
+Quiet,Tive Sim,quiet,top,0.23529411764705882
+Quiet,Tive Sim,quiet,hat,0.2
+Quiet,Tive Sim,young,yes,0.1111111111111111
+Quiet,Tive Sim,young,new,0
+Quiet,Tive Sim,young,top,0.42857142857142855
+Quiet,Tive Sim,young,hat,0.47058823529411764
+Quiet,Tive Sim,mountain,yes,0.125
+Quiet,Tive Sim,mountain,new,0
+Quiet,Tive Sim,mountain,top,0.5
+Quiet,Tive Sim,mountain,hat,0.4
+Quiet,Sticks And Stones,quiet,stones,0.23529411764705882
+Quiet,Sticks And Stones,quiet,sticks,0.21052631578947367
+Quiet,Sticks And Stones,quiet,anthology,0.18181818181818182
+Quiet,Sticks And Stones,young,stones,0.5714285714285714
+Quiet,Sticks And Stones,young,sticks,0.5
+Quiet,Sticks And Stones,young,anthology,0.42105263157894735
+Quiet,Sticks And Stones,mountain,stones,0.5
+Quiet,Sticks And Stones,mountain,sticks,0.42857142857142855
+Quiet,Sticks And Stones,mountain,anthology,0.35294117647058826
+Quiet,Vasiyet,quiet,testament,0.1
+Quiet,Vasiyet,quiet,romanticism,0.10526315789473684
+Quiet,Vasiyet,young,testament,0.11764705882352941
+Quiet,Vasiyet,young,romanticism,0.125
+Quiet,Vasiyet,mountain,testament,0.13333333333333333
+Quiet,Vasiyet,mountain,romanticism,0.14285714285714285
+Quiet,Justin's Death,quiet,death,0.1111111111111111
+Quiet,Justin's Death,quiet,constant,0.1
+Quiet,Justin's Death,quiet,gardener,0.2222222222222222
+Quiet,Justin's Death,young,death,0.13333333333333333
+Quiet,Justin's Death,young,constant,0.11764705882352941
+Quiet,Justin's Death,young,gardener,0.6666666666666666
+Quiet,Justin's Death,mountain,death,0.15384615384615385
+Quiet,Justin's Death,mountain,constant,0.13333333333333333
+Quiet,Justin's Death,mountain,gardener,0.4
+Quiet,Universe,quiet,universe,0.23529411764705882
+Quiet,Universe,quiet,anthology,0.18181818181818182
+Quiet,Universe,young,universe,0.5714285714285714
+Quiet,Universe,young,anthology,0.42105263157894735
+Quiet,Universe,mountain,universe,0.5
+Quiet,Universe,mountain,anthology,0.35294117647058826
+Quiet,Hurt,quiet,hurt,0.1
+Quiet,Hurt,quiet,greatest,0
+Quiet,Hurt,quiet,hits,0.1
+Quiet,Hurt,young,hurt,0.11764705882352941
+Quiet,Hurt,young,greatest,0
+Quiet,Hurt,young,hits,0.11764705882352941
+Quiet,Hurt,mountain,hurt,0.13333333333333333
+Quiet,Hurt,mountain,greatest,0
+Quiet,Hurt,mountain,hits,0.13333333333333333
+Quiet,Jomo Gets An HIV Test,quiet,gets,0.08333333333333333
+Quiet,Jomo Gets An HIV Test,quiet,hiv,0.09090909090909091
+Quiet,Jomo Gets An HIV Test,quiet,test,0.09090909090909091
+Quiet,Jomo Gets An HIV Test,quiet,constant,0.1
+Quiet,Jomo Gets An HIV Test,quiet,gardener,0.2222222222222222
+Quiet,Jomo Gets An HIV Test,young,gets,0.09523809523809523
+Quiet,Jomo Gets An HIV Test,young,hiv,0.10526315789473684
+Quiet,Jomo Gets An HIV Test,young,test,0.10526315789473684
+Quiet,Jomo Gets An HIV Test,young,constant,0.11764705882352941
+Quiet,Jomo Gets An HIV Test,young,gardener,0.6666666666666666
+Quiet,Jomo Gets An HIV Test,mountain,gets,0.10526315789473684
+Quiet,Jomo Gets An HIV Test,mountain,hiv,0.11764705882352941
+Quiet,Jomo Gets An HIV Test,mountain,test,0.11764705882352941
+Quiet,Jomo Gets An HIV Test,mountain,constant,0.13333333333333333
+Quiet,Jomo Gets An HIV Test,mountain,gardener,0.4
+Quiet,Dropped Off At Turkana,quiet,dropped,0
+Quiet,Dropped Off At Turkana,quiet,constant,0.1
+Quiet,Dropped Off At Turkana,quiet,gardener,0.2222222222222222
+Quiet,Dropped Off At Turkana,young,dropped,0
+Quiet,Dropped Off At Turkana,young,constant,0.11764705882352941
+Quiet,Dropped Off At Turkana,young,gardener,0.6666666666666666
+Quiet,Dropped Off At Turkana,mountain,dropped,0
+Quiet,Dropped Off At Turkana,mountain,constant,0.13333333333333333
+Quiet,Dropped Off At Turkana,mountain,gardener,0.4
+Quiet,Fairy Tale,quiet,fairy,0.10526315789473684
+Quiet,Fairy Tale,quiet,tale,0.125
+Quiet,Fairy Tale,quiet,second,0.125
+Quiet,Fairy Tale,quiet,passport,0.1111111111111111
+Quiet,Fairy Tale,young,fairy,0.125
+Quiet,Fairy Tale,young,tale,0.15384615384615385
+Quiet,Fairy Tale,young,second,0.15384615384615385
+Quiet,Fairy Tale,young,passport,0.13333333333333333
+Quiet,Fairy Tale,mountain,fairy,0.14285714285714285
+Quiet,Fairy Tale,mountain,tale,0.18181818181818182
+Quiet,Fairy Tale,mountain,second,0.18181818181818182
+Quiet,Fairy Tale,mountain,passport,0.15384615384615385
+Quiet,Restless,quiet,restless,0
+Quiet,Restless,quiet,lonely,0
+Quiet,Restless,quiet,runs,0.09090909090909091
+Quiet,Restless,quiet,ways,0.2222222222222222
+Quiet,Restless,young,restless,0
+Quiet,Restless,young,lonely,0
+Quiet,Restless,young,runs,0.10526315789473684
+Quiet,Restless,young,ways,0.5333333333333333
+Quiet,Restless,mountain,restless,0
+Quiet,Restless,mountain,lonely,0
+Quiet,Restless,mountain,runs,0.11764705882352941
+Quiet,Restless,mountain,ways,0.46153846153846156
+Quiet,Halla Halla,quiet,live,0
+Quiet,Halla Halla,young,live,0
+Quiet,Halla Halla,mountain,live,0
+Quiet,Killa,quiet,truth,0.1111111111111111
+Quiet,Killa,young,truth,0.13333333333333333
+Quiet,Killa,mountain,truth,0.15384615384615385
+Quiet,Cantaloop (Flip Fantasia),quiet,flip,0.08695652173913043
+Quiet,Cantaloop (Flip Fantasia),quiet,fantasia,0.1111111111111111
+Quiet,Cantaloop (Flip Fantasia),quiet,flip,0.08695652173913043
+Quiet,Cantaloop (Flip Fantasia),quiet,fantasia,0.1111111111111111
+Quiet,Cantaloop (Flip Fantasia),quiet,hits,0.1
+Quiet,Cantaloop (Flip Fantasia),young,flip,0.1
+Quiet,Cantaloop (Flip Fantasia),young,fantasia,0.13333333333333333
+Quiet,Cantaloop (Flip Fantasia),young,flip,0.1
+Quiet,Cantaloop (Flip Fantasia),young,fantasia,0.13333333333333333
+Quiet,Cantaloop (Flip Fantasia),young,hits,0.11764705882352941
+Quiet,Cantaloop (Flip Fantasia),mountain,flip,0.1111111111111111
+Quiet,Cantaloop (Flip Fantasia),mountain,fantasia,0.15384615384615385
+Quiet,Cantaloop (Flip Fantasia),mountain,flip,0.1111111111111111
+Quiet,Cantaloop (Flip Fantasia),mountain,fantasia,0.15384615384615385
+Quiet,Cantaloop (Flip Fantasia),mountain,hits,0.13333333333333333
+Girlfriend,Jason Phones It In,girlfriend,jason,0.125
+Girlfriend,Jason Phones It In,girlfriend,phones,0.4444444444444444
+Girlfriend,Jason Phones It In,girlfriend,bourne,0.375
+Girlfriend,Jason Phones It In,girlfriend,identity,0.18181818181818182
+Girlfriend,Jason Phones It In,phoenix,jason,0.09523809523809523
+Girlfriend,Jason Phones It In,phoenix,phones,0.3
+Girlfriend,Jason Phones It In,phoenix,bourne,0.42105263157894735
+Girlfriend,Jason Phones It In,phoenix,identity,0.125
+Girlfriend,Bebegim Öldü,girlfriend,dead,0.18181818181818182
+Girlfriend,Bebegim Öldü,girlfriend,baby,0.6
+Girlfriend,Bebegim Öldü,girlfriend,romanticism,0.14285714285714285
+Girlfriend,Bebegim Öldü,phoenix,dead,0.125
+Girlfriend,Bebegim Öldü,phoenix,baby,0.2857142857142857
+Girlfriend,Bebegim Öldü,phoenix,romanticism,0.10526315789473684
+Girlfriend,Forever Loving Jah,girlfriend,forever,0
+Girlfriend,Forever Loving Jah,girlfriend,loving,0
+Girlfriend,Forever Loving Jah,girlfriend,songs,0.15384615384615385
+Girlfriend,Forever Loving Jah,girlfriend,freedom,0.18181818181818182
+Girlfriend,Forever Loving Jah,phoenix,forever,0
+Girlfriend,Forever Loving Jah,phoenix,loving,0
+Girlfriend,Forever Loving Jah,phoenix,songs,0.1111111111111111
+Girlfriend,Forever Loving Jah,phoenix,freedom,0.125
+Girlfriend,Hora Din Caval,girlfriend,din,0.14285714285714285
+Girlfriend,Hora Din Caval,girlfriend,time,0.15384615384615385
+Girlfriend,Hora Din Caval,girlfriend,honourable,0
+Girlfriend,Hora Din Caval,girlfriend,magic,0.14285714285714285
+Girlfriend,Hora Din Caval,girlfriend,horses,0.5
+Girlfriend,Hora Din Caval,girlfriend,evil,0.13333333333333333
+Girlfriend,Hora Din Caval,girlfriend,eye,0.2857142857142857
+Girlfriend,Hora Din Caval,phoenix,din,0.10526315789473684
+Girlfriend,Hora Din Caval,phoenix,time,0.1111111111111111
+Girlfriend,Hora Din Caval,phoenix,honourable,0
+Girlfriend,Hora Din Caval,phoenix,magic,0.10526315789473684
+Girlfriend,Hora Din Caval,phoenix,horses,0.23076923076923078
+Girlfriend,Hora Din Caval,phoenix,evil,0.1
+Girlfriend,Hora Din Caval,phoenix,eye,0.21052631578947367
+Girlfriend,To The Roof,girlfriend,roof,0.47058823529411764
+Girlfriend,To The Roof,girlfriend,bourne,0.375
+Girlfriend,To The Roof,girlfriend,supremacy,0.15384615384615385
+Girlfriend,To The Roof,phoenix,roof,0.3157894736842105
+Girlfriend,To The Roof,phoenix,bourne,0.42105263157894735
+Girlfriend,To The Roof,phoenix,supremacy,0.1111111111111111
+Girlfriend,Some Bwoy,girlfriend,fully,0
+Girlfriend,Some Bwoy,girlfriend,loaded,0
+Girlfriend,Some Bwoy,phoenix,fully,0
+Girlfriend,Some Bwoy,phoenix,loaded,0
+Girlfriend,Lothlorien (2002 Digital Remaster),girlfriend,digital,0
+Girlfriend,Lothlorien (2002 Digital Remaster),girlfriend,rings,0.42105263157894735
+Girlfriend,Lothlorien (2002 Digital Remaster),girlfriend,lord,0.13333333333333333
+Girlfriend,Lothlorien (2002 Digital Remaster),phoenix,digital,0
+Girlfriend,Lothlorien (2002 Digital Remaster),phoenix,rings,0.2857142857142857
+Girlfriend,Lothlorien (2002 Digital Remaster),phoenix,lord,0.1
+Girlfriend,Tive Sim,girlfriend,yes,0.125
+Girlfriend,Tive Sim,girlfriend,new,0
+Girlfriend,Tive Sim,girlfriend,top,0.42857142857142855
+Girlfriend,Tive Sim,girlfriend,hat,0.4444444444444444
+Girlfriend,Tive Sim,phoenix,yes,0.09523809523809523
+Girlfriend,Tive Sim,phoenix,new,0
+Girlfriend,Tive Sim,phoenix,top,0.47058823529411764
+Girlfriend,Tive Sim,phoenix,hat,0.3
+Girlfriend,Sticks And Stones,girlfriend,stones,0.5333333333333333
+Girlfriend,Sticks And Stones,girlfriend,sticks,0.47058823529411764
+Girlfriend,Sticks And Stones,girlfriend,anthology,0.4
+Girlfriend,Sticks And Stones,phoenix,stones,0.35294117647058826
+Girlfriend,Sticks And Stones,phoenix,sticks,0.3157894736842105
+Girlfriend,Sticks And Stones,phoenix,anthology,0.2727272727272727
+Girlfriend,Vasiyet,girlfriend,testament,0.13333333333333333
+Girlfriend,Vasiyet,girlfriend,romanticism,0.14285714285714285
+Girlfriend,Vasiyet,phoenix,testament,0.1
+Girlfriend,Vasiyet,phoenix,romanticism,0.10526315789473684
+Girlfriend,Justin's Death,girlfriend,death,0.15384615384615385
+Girlfriend,Justin's Death,girlfriend,constant,0.13333333333333333
+Girlfriend,Justin's Death,girlfriend,gardener,0.631578947368421
+Girlfriend,Justin's Death,phoenix,death,0.1111111111111111
+Girlfriend,Justin's Death,phoenix,constant,0.1
+Girlfriend,Justin's Death,phoenix,gardener,0.3
+Girlfriend,Universe,girlfriend,universe,0.5333333333333333
+Girlfriend,Universe,girlfriend,anthology,0.4
+Girlfriend,Universe,phoenix,universe,0.35294117647058826
+Girlfriend,Universe,phoenix,anthology,0.2727272727272727
+Girlfriend,Hurt,girlfriend,hurt,0.13333333333333333
+Girlfriend,Hurt,girlfriend,greatest,0
+Girlfriend,Hurt,girlfriend,hits,0.13333333333333333
+Girlfriend,Hurt,phoenix,hurt,0.1
+Girlfriend,Hurt,phoenix,greatest,0
+Girlfriend,Hurt,phoenix,hits,0.1
+Girlfriend,Jomo Gets An HIV Test,girlfriend,gets,0.10526315789473684
+Girlfriend,Jomo Gets An HIV Test,girlfriend,hiv,0.11764705882352941
+Girlfriend,Jomo Gets An HIV Test,girlfriend,test,0.11764705882352941
+Girlfriend,Jomo Gets An HIV Test,girlfriend,constant,0.13333333333333333
+Girlfriend,Jomo Gets An HIV Test,girlfriend,gardener,0.631578947368421
+Girlfriend,Jomo Gets An HIV Test,phoenix,gets,0.08333333333333333
+Girlfriend,Jomo Gets An HIV Test,phoenix,hiv,0.09090909090909091
+Girlfriend,Jomo Gets An HIV Test,phoenix,test,0.09090909090909091
+Girlfriend,Jomo Gets An HIV Test,phoenix,constant,0.1
+Girlfriend,Jomo Gets An HIV Test,phoenix,gardener,0.3
+Girlfriend,Dropped Off At Turkana,girlfriend,dropped,0
+Girlfriend,Dropped Off At Turkana,girlfriend,constant,0.13333333333333333
+Girlfriend,Dropped Off At Turkana,girlfriend,gardener,0.631578947368421
+Girlfriend,Dropped Off At Turkana,phoenix,dropped,0
+Girlfriend,Dropped Off At Turkana,phoenix,constant,0.1
+Girlfriend,Dropped Off At Turkana,phoenix,gardener,0.3
+Girlfriend,Fairy Tale,girlfriend,fairy,0.14285714285714285
+Girlfriend,Fairy Tale,girlfriend,tale,0.18181818181818182
+Girlfriend,Fairy Tale,girlfriend,second,0.18181818181818182
+Girlfriend,Fairy Tale,girlfriend,passport,0.15384615384615385
+Girlfriend,Fairy Tale,phoenix,fairy,0.10526315789473684
+Girlfriend,Fairy Tale,phoenix,tale,0.125
+Girlfriend,Fairy Tale,phoenix,second,0.125
+Girlfriend,Fairy Tale,phoenix,passport,0.1111111111111111
+Girlfriend,Restless,girlfriend,restless,0
+Girlfriend,Restless,girlfriend,lonely,0
+Girlfriend,Restless,girlfriend,runs,0.11764705882352941
+Girlfriend,Restless,girlfriend,ways,0.5
+Girlfriend,Restless,phoenix,restless,0
+Girlfriend,Restless,phoenix,lonely,0
+Girlfriend,Restless,phoenix,runs,0.09090909090909091
+Girlfriend,Restless,phoenix,ways,0.3333333333333333
+Girlfriend,Halla Halla,girlfriend,live,0
+Girlfriend,Halla Halla,phoenix,live,0
+Girlfriend,Killa,girlfriend,truth,0.15384615384615385
+Girlfriend,Killa,phoenix,truth,0.1111111111111111
+Girlfriend,Cantaloop (Flip Fantasia),girlfriend,flip,0.1111111111111111
+Girlfriend,Cantaloop (Flip Fantasia),girlfriend,fantasia,0.15384615384615385
+Girlfriend,Cantaloop (Flip Fantasia),girlfriend,flip,0.1111111111111111
+Girlfriend,Cantaloop (Flip Fantasia),girlfriend,fantasia,0.15384615384615385
+Girlfriend,Cantaloop (Flip Fantasia),girlfriend,hits,0.13333333333333333
+Girlfriend,Cantaloop (Flip Fantasia),phoenix,flip,0.08695652173913043
+Girlfriend,Cantaloop (Flip Fantasia),phoenix,fantasia,0.1111111111111111
+Girlfriend,Cantaloop (Flip Fantasia),phoenix,flip,0.08695652173913043
+Girlfriend,Cantaloop (Flip Fantasia),phoenix,fantasia,0.1111111111111111
+Girlfriend,Cantaloop (Flip Fantasia),phoenix,hits,0.1
+Happiness: We're All In It Together,Jason Phones It In,together,jason,0
+Happiness: We're All In It Together,Jason Phones It In,together,phones,0
+Happiness: We're All In It Together,Jason Phones It In,together,bourne,0
+Happiness: We're All In It Together,Jason Phones It In,together,identity,0
+Happiness: We're All In It Together,Jason Phones It In,happiness,jason,0.2222222222222222
+Happiness: We're All In It Together,Jason Phones It In,happiness,phones,0.11764705882352941
+Happiness: We're All In It Together,Jason Phones It In,happiness,bourne,0.125
+Happiness: We're All In It Together,Jason Phones It In,happiness,identity,0.46153846153846156
+Happiness: We're All In It Together,Jason Phones It In,young,jason,0.1111111111111111
+Happiness: We're All In It Together,Jason Phones It In,young,phones,0.47058823529411764
+Happiness: We're All In It Together,Jason Phones It In,young,bourne,0.375
+Happiness: We're All In It Together,Jason Phones It In,young,identity,0.15384615384615385
+Happiness: We're All In It Together,Jason Phones It In,mountain,jason,0.125
+Happiness: We're All In It Together,Jason Phones It In,mountain,phones,0.4
+Happiness: We're All In It Together,Jason Phones It In,mountain,bourne,0.42857142857142855
+Happiness: We're All In It Together,Jason Phones It In,mountain,identity,0.18181818181818182
+Happiness: We're All In It Together,Bebegim Öldü,together,dead,0
+Happiness: We're All In It Together,Bebegim Öldü,together,baby,0
+Happiness: We're All In It Together,Bebegim Öldü,together,romanticism,0
+Happiness: We're All In It Together,Bebegim Öldü,happiness,dead,0.3076923076923077
+Happiness: We're All In It Together,Bebegim Öldü,happiness,baby,0.125
+Happiness: We're All In It Together,Bebegim Öldü,happiness,romanticism,0.375
+Happiness: We're All In It Together,Bebegim Öldü,young,dead,0.15384615384615385
+Happiness: We're All In It Together,Bebegim Öldü,young,baby,0.631578947368421
+Happiness: We're All In It Together,Bebegim Öldü,young,romanticism,0.125
+Happiness: We're All In It Together,Bebegim Öldü,mountain,dead,0.18181818181818182
+Happiness: We're All In It Together,Bebegim Öldü,mountain,baby,0.375
+Happiness: We're All In It Together,Bebegim Öldü,mountain,romanticism,0.14285714285714285
+Happiness: We're All In It Together,Forever Loving Jah,together,forever,0
+Happiness: We're All In It Together,Forever Loving Jah,together,loving,0
+Happiness: We're All In It Together,Forever Loving Jah,together,songs,0
+Happiness: We're All In It Together,Forever Loving Jah,together,freedom,0
+Happiness: We're All In It Together,Forever Loving Jah,happiness,forever,0
+Happiness: We're All In It Together,Forever Loving Jah,happiness,loving,0
+Happiness: We're All In It Together,Forever Loving Jah,happiness,songs,0.26666666666666666
+Happiness: We're All In It Together,Forever Loving Jah,happiness,freedom,0.6153846153846154
+Happiness: We're All In It Together,Forever Loving Jah,young,forever,0
+Happiness: We're All In It Together,Forever Loving Jah,young,loving,0
+Happiness: We're All In It Together,Forever Loving Jah,young,songs,0.13333333333333333
+Happiness: We're All In It Together,Forever Loving Jah,young,freedom,0.15384615384615385
+Happiness: We're All In It Together,Forever Loving Jah,mountain,forever,0
+Happiness: We're All In It Together,Forever Loving Jah,mountain,loving,0
+Happiness: We're All In It Together,Forever Loving Jah,mountain,songs,0.15384615384615385
+Happiness: We're All In It Together,Forever Loving Jah,mountain,freedom,0.18181818181818182
+Happiness: We're All In It Together,Hora Din Caval,together,din,0
+Happiness: We're All In It Together,Hora Din Caval,together,time,0
+Happiness: We're All In It Together,Hora Din Caval,together,honourable,0
+Happiness: We're All In It Together,Hora Din Caval,together,magic,0
+Happiness: We're All In It Together,Hora Din Caval,together,horses,0
+Happiness: We're All In It Together,Hora Din Caval,together,evil,0
+Happiness: We're All In It Together,Hora Din Caval,together,eye,0
+Happiness: We're All In It Together,Hora Din Caval,happiness,din,0.25
+Happiness: We're All In It Together,Hora Din Caval,happiness,time,0.26666666666666666
+Happiness: We're All In It Together,Hora Din Caval,happiness,honourable,0
+Happiness: We're All In It Together,Hora Din Caval,happiness,magic,0.25
+Happiness: We're All In It Together,Hora Din Caval,happiness,horses,0.08695652173913043
+Happiness: We're All In It Together,Hora Din Caval,happiness,evil,0.23529411764705882
+Happiness: We're All In It Together,Hora Din Caval,happiness,eye,0.125
+Happiness: We're All In It Together,Hora Din Caval,young,din,0.125
+Happiness: We're All In It Together,Hora Din Caval,young,time,0.13333333333333333
+Happiness: We're All In It Together,Hora Din Caval,young,honourable,0
+Happiness: We're All In It Together,Hora Din Caval,young,magic,0.125
+Happiness: We're All In It Together,Hora Din Caval,young,horses,0.6086956521739131
+Happiness: We're All In It Together,Hora Din Caval,young,evil,0.11764705882352941
+Happiness: We're All In It Together,Hora Din Caval,young,eye,0.25
+Happiness: We're All In It Together,Hora Din Caval,mountain,din,0.14285714285714285
+Happiness: We're All In It Together,Hora Din Caval,mountain,time,0.15384615384615385
+Happiness: We're All In It Together,Hora Din Caval,mountain,honourable,0
+Happiness: We're All In It Together,Hora Din Caval,mountain,magic,0.14285714285714285
+Happiness: We're All In It Together,Hora Din Caval,mountain,horses,0.2857142857142857
+Happiness: We're All In It Together,Hora Din Caval,mountain,evil,0.13333333333333333
+Happiness: We're All In It Together,Hora Din Caval,mountain,eye,0.2857142857142857
+Happiness: We're All In It Together,To The Roof,together,roof,0
+Happiness: We're All In It Together,To The Roof,together,bourne,0
+Happiness: We're All In It Together,To The Roof,together,supremacy,0
+Happiness: We're All In It Together,To The Roof,happiness,roof,0.125
+Happiness: We're All In It Together,To The Roof,happiness,bourne,0.125
+Happiness: We're All In It Together,To The Roof,happiness,supremacy,0.5333333333333333
+Happiness: We're All In It Together,To The Roof,young,roof,0.5
+Happiness: We're All In It Together,To The Roof,young,bourne,0.375
+Happiness: We're All In It Together,To The Roof,young,supremacy,0.13333333333333333
+Happiness: We're All In It Together,To The Roof,mountain,roof,0.42857142857142855
+Happiness: We're All In It Together,To The Roof,mountain,bourne,0.42857142857142855
+Happiness: We're All In It Together,To The Roof,mountain,supremacy,0.15384615384615385
+Happiness: We're All In It Together,Some Bwoy,together,fully,0
+Happiness: We're All In It Together,Some Bwoy,together,loaded,0
+Happiness: We're All In It Together,Some Bwoy,happiness,fully,0
+Happiness: We're All In It Together,Some Bwoy,happiness,loaded,0
+Happiness: We're All In It Together,Some Bwoy,young,fully,0
+Happiness: We're All In It Together,Some Bwoy,young,loaded,0
+Happiness: We're All In It Together,Some Bwoy,mountain,fully,0
+Happiness: We're All In It Together,Some Bwoy,mountain,loaded,0
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),together,digital,0
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),together,rings,0
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),together,lord,0
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),happiness,digital,0
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),happiness,rings,0.1111111111111111
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),happiness,lord,0.23529411764705882
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),young,digital,0
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),young,rings,0.4444444444444444
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),young,lord,0.11764705882352941
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),mountain,digital,0
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),mountain,rings,0.375
+Happiness: We're All In It Together,Lothlorien (2002 Digital Remaster),mountain,lord,0.13333333333333333
+Happiness: We're All In It Together,Tive Sim,together,yes,0
+Happiness: We're All In It Together,Tive Sim,together,new,0
+Happiness: We're All In It Together,Tive Sim,together,top,0
+Happiness: We're All In It Together,Tive Sim,together,hat,0
+Happiness: We're All In It Together,Tive Sim,happiness,yes,0.2222222222222222
+Happiness: We're All In It Together,Tive Sim,happiness,new,0
+Happiness: We're All In It Together,Tive Sim,happiness,top,0.14285714285714285
+Happiness: We're All In It Together,Tive Sim,happiness,hat,0.11764705882352941
+Happiness: We're All In It Together,Tive Sim,young,yes,0.1111111111111111
+Happiness: We're All In It Together,Tive Sim,young,new,0
+Happiness: We're All In It Together,Tive Sim,young,top,0.42857142857142855
+Happiness: We're All In It Together,Tive Sim,young,hat,0.47058823529411764
+Happiness: We're All In It Together,Tive Sim,mountain,yes,0.125
+Happiness: We're All In It Together,Tive Sim,mountain,new,0
+Happiness: We're All In It Together,Tive Sim,mountain,top,0.5
+Happiness: We're All In It Together,Tive Sim,mountain,hat,0.4
+Happiness: We're All In It Together,Sticks And Stones,together,stones,0
+Happiness: We're All In It Together,Sticks And Stones,together,sticks,0
+Happiness: We're All In It Together,Sticks And Stones,together,anthology,0
+Happiness: We're All In It Together,Sticks And Stones,happiness,stones,0.14285714285714285
+Happiness: We're All In It Together,Sticks And Stones,happiness,sticks,0.125
+Happiness: We're All In It Together,Sticks And Stones,happiness,anthology,0.10526315789473684
+Happiness: We're All In It Together,Sticks And Stones,young,stones,0.5714285714285714
+Happiness: We're All In It Together,Sticks And Stones,young,sticks,0.5
+Happiness: We're All In It Together,Sticks And Stones,young,anthology,0.42105263157894735
+Happiness: We're All In It Together,Sticks And Stones,mountain,stones,0.5
+Happiness: We're All In It Together,Sticks And Stones,mountain,sticks,0.42857142857142855
+Happiness: We're All In It Together,Sticks And Stones,mountain,anthology,0.35294117647058826
+Happiness: We're All In It Together,Vasiyet,together,testament,0
+Happiness: We're All In It Together,Vasiyet,together,romanticism,0
+Happiness: We're All In It Together,Vasiyet,happiness,testament,0.23529411764705882
+Happiness: We're All In It Together,Vasiyet,happiness,romanticism,0.375
+Happiness: We're All In It Together,Vasiyet,young,testament,0.11764705882352941
+Happiness: We're All In It Together,Vasiyet,young,romanticism,0.125
+Happiness: We're All In It Together,Vasiyet,mountain,testament,0.13333333333333333
+Happiness: We're All In It Together,Vasiyet,mountain,romanticism,0.14285714285714285
+Happiness: We're All In It Together,Justin's Death,together,death,0
+Happiness: We're All In It Together,Justin's Death,together,constant,0
+Happiness: We're All In It Together,Justin's Death,together,gardener,0
+Happiness: We're All In It Together,Justin's Death,happiness,death,0.26666666666666666
+Happiness: We're All In It Together,Justin's Death,happiness,constant,0.23529411764705882
+Happiness: We're All In It Together,Justin's Death,happiness,gardener,0.13333333333333333
+Happiness: We're All In It Together,Justin's Death,young,death,0.13333333333333333
+Happiness: We're All In It Together,Justin's Death,young,constant,0.11764705882352941
+Happiness: We're All In It Together,Justin's Death,young,gardener,0.6666666666666666
+Happiness: We're All In It Together,Justin's Death,mountain,death,0.15384615384615385
+Happiness: We're All In It Together,Justin's Death,mountain,constant,0.13333333333333333
+Happiness: We're All In It Together,Justin's Death,mountain,gardener,0.4
+Happiness: We're All In It Together,Universe,together,universe,0
+Happiness: We're All In It Together,Universe,together,anthology,0
+Happiness: We're All In It Together,Universe,happiness,universe,0.14285714285714285
+Happiness: We're All In It Together,Universe,happiness,anthology,0.10526315789473684
+Happiness: We're All In It Together,Universe,young,universe,0.5714285714285714
+Happiness: We're All In It Together,Universe,young,anthology,0.42105263157894735
+Happiness: We're All In It Together,Universe,mountain,universe,0.5
+Happiness: We're All In It Together,Universe,mountain,anthology,0.35294117647058826
+Happiness: We're All In It Together,Hurt,together,hurt,0
+Happiness: We're All In It Together,Hurt,together,greatest,0
+Happiness: We're All In It Together,Hurt,together,hits,0
+Happiness: We're All In It Together,Hurt,happiness,hurt,0.47058823529411764
+Happiness: We're All In It Together,Hurt,happiness,greatest,0
+Happiness: We're All In It Together,Hurt,happiness,hits,0.23529411764705882
+Happiness: We're All In It Together,Hurt,young,hurt,0.11764705882352941
+Happiness: We're All In It Together,Hurt,young,greatest,0
+Happiness: We're All In It Together,Hurt,young,hits,0.11764705882352941
+Happiness: We're All In It Together,Hurt,mountain,hurt,0.13333333333333333
+Happiness: We're All In It Together,Hurt,mountain,greatest,0
+Happiness: We're All In It Together,Hurt,mountain,hits,0.13333333333333333
+Happiness: We're All In It Together,Jomo Gets An HIV Test,together,gets,0
+Happiness: We're All In It Together,Jomo Gets An HIV Test,together,hiv,0
+Happiness: We're All In It Together,Jomo Gets An HIV Test,together,test,0
+Happiness: We're All In It Together,Jomo Gets An HIV Test,together,constant,0
+Happiness: We're All In It Together,Jomo Gets An HIV Test,together,gardener,0
+Happiness: We're All In It Together,Jomo Gets An HIV Test,happiness,gets,0.19047619047619047
+Happiness: We're All In It Together,Jomo Gets An HIV Test,happiness,hiv,0.42105263157894735
+Happiness: We're All In It Together,Jomo Gets An HIV Test,happiness,test,0.21052631578947367
+Happiness: We're All In It Together,Jomo Gets An HIV Test,happiness,constant,0.23529411764705882
+Happiness: We're All In It Together,Jomo Gets An HIV Test,happiness,gardener,0.13333333333333333
+Happiness: We're All In It Together,Jomo Gets An HIV Test,young,gets,0.09523809523809523
+Happiness: We're All In It Together,Jomo Gets An HIV Test,young,hiv,0.10526315789473684
+Happiness: We're All In It Together,Jomo Gets An HIV Test,young,test,0.10526315789473684
+Happiness: We're All In It Together,Jomo Gets An HIV Test,young,constant,0.11764705882352941
+Happiness: We're All In It Together,Jomo Gets An HIV Test,young,gardener,0.6666666666666666
+Happiness: We're All In It Together,Jomo Gets An HIV Test,mountain,gets,0.10526315789473684
+Happiness: We're All In It Together,Jomo Gets An HIV Test,mountain,hiv,0.11764705882352941
+Happiness: We're All In It Together,Jomo Gets An HIV Test,mountain,test,0.11764705882352941
+Happiness: We're All In It Together,Jomo Gets An HIV Test,mountain,constant,0.13333333333333333
+Happiness: We're All In It Together,Jomo Gets An HIV Test,mountain,gardener,0.4
+Happiness: We're All In It Together,Dropped Off At Turkana,together,dropped,0
+Happiness: We're All In It Together,Dropped Off At Turkana,together,constant,0
+Happiness: We're All In It Together,Dropped Off At Turkana,together,gardener,0
+Happiness: We're All In It Together,Dropped Off At Turkana,happiness,dropped,0
+Happiness: We're All In It Together,Dropped Off At Turkana,happiness,constant,0.23529411764705882
+Happiness: We're All In It Together,Dropped Off At Turkana,happiness,gardener,0.13333333333333333
+Happiness: We're All In It Together,Dropped Off At Turkana,young,dropped,0
+Happiness: We're All In It Together,Dropped Off At Turkana,young,constant,0.11764705882352941
+Happiness: We're All In It Together,Dropped Off At Turkana,young,gardener,0.6666666666666666
+Happiness: We're All In It Together,Dropped Off At Turkana,mountain,dropped,0
+Happiness: We're All In It Together,Dropped Off At Turkana,mountain,constant,0.13333333333333333
+Happiness: We're All In It Together,Dropped Off At Turkana,mountain,gardener,0.4
+Happiness: We're All In It Together,Fairy Tale,together,fairy,0
+Happiness: We're All In It Together,Fairy Tale,together,tale,0
+Happiness: We're All In It Together,Fairy Tale,together,second,0
+Happiness: We're All In It Together,Fairy Tale,together,passport,0
+Happiness: We're All In It Together,Fairy Tale,happiness,fairy,0.25
+Happiness: We're All In It Together,Fairy Tale,happiness,tale,0.3076923076923077
+Happiness: We're All In It Together,Fairy Tale,happiness,second,0.3076923076923077
+Happiness: We're All In It Together,Fairy Tale,happiness,passport,0.26666666666666666
+Happiness: We're All In It Together,Fairy Tale,young,fairy,0.125
+Happiness: We're All In It Together,Fairy Tale,young,tale,0.15384615384615385
+Happiness: We're All In It Together,Fairy Tale,young,second,0.15384615384615385
+Happiness: We're All In It Together,Fairy Tale,young,passport,0.13333333333333333
+Happiness: We're All In It Together,Fairy Tale,mountain,fairy,0.14285714285714285
+Happiness: We're All In It Together,Fairy Tale,mountain,tale,0.18181818181818182
+Happiness: We're All In It Together,Fairy Tale,mountain,second,0.18181818181818182
+Happiness: We're All In It Together,Fairy Tale,mountain,passport,0.15384615384615385
+Happiness: We're All In It Together,Restless,together,restless,0
+Happiness: We're All In It Together,Restless,together,lonely,0
+Happiness: We're All In It Together,Restless,together,runs,0
+Happiness: We're All In It Together,Restless,together,ways,0
+Happiness: We're All In It Together,Restless,happiness,restless,0
+Happiness: We're All In It Together,Restless,happiness,lonely,0
+Happiness: We're All In It Together,Restless,happiness,runs,0.21052631578947367
+Happiness: We're All In It Together,Restless,happiness,ways,0.13333333333333333
+Happiness: We're All In It Together,Restless,young,restless,0
+Happiness: We're All In It Together,Restless,young,lonely,0
+Happiness: We're All In It Together,Restless,young,runs,0.10526315789473684
+Happiness: We're All In It Together,Restless,young,ways,0.5333333333333333
+Happiness: We're All In It Together,Restless,mountain,restless,0
+Happiness: We're All In It Together,Restless,mountain,lonely,0
+Happiness: We're All In It Together,Restless,mountain,runs,0.11764705882352941
+Happiness: We're All In It Together,Restless,mountain,ways,0.46153846153846156
+Happiness: We're All In It Together,Halla Halla,together,live,0
+Happiness: We're All In It Together,Halla Halla,happiness,live,0
+Happiness: We're All In It Together,Halla Halla,young,live,0
+Happiness: We're All In It Together,Halla Halla,mountain,live,0
+Happiness: We're All In It Together,Killa,together,truth,0
+Happiness: We're All In It Together,Killa,happiness,truth,0.26666666666666666
+Happiness: We're All In It Together,Killa,young,truth,0.13333333333333333
+Happiness: We're All In It Together,Killa,mountain,truth,0.15384615384615385
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),together,flip,0
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),together,fantasia,0
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),together,flip,0
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),together,fantasia,0
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),together,hits,0
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),happiness,flip,0.2
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),happiness,fantasia,0.26666666666666666
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),happiness,flip,0.2
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),happiness,fantasia,0.26666666666666666
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),happiness,hits,0.23529411764705882
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),young,flip,0.1
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),young,fantasia,0.13333333333333333
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),young,flip,0.1
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),young,fantasia,0.13333333333333333
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),young,hits,0.11764705882352941
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),mountain,flip,0.1111111111111111
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),mountain,fantasia,0.15384615384615385
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),mountain,flip,0.1111111111111111
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),mountain,fantasia,0.15384615384615385
+Happiness: We're All In It Together,Cantaloop (Flip Fantasia),mountain,hits,0.13333333333333333
+Armistice,Jason Phones It In,armistice,jason,0.23529411764705882
+Armistice,Jason Phones It In,armistice,phones,0.125
+Armistice,Jason Phones It In,armistice,bourne,0.13333333333333333
+Armistice,Jason Phones It In,armistice,identity,0.5
+Armistice,Jason Phones It In,phoenix,jason,0.09523809523809523
+Armistice,Jason Phones It In,phoenix,phones,0.3
+Armistice,Jason Phones It In,phoenix,bourne,0.42105263157894735
+Armistice,Jason Phones It In,phoenix,identity,0.125
+Armistice,Bebegim Öldü,armistice,dead,0.3333333333333333
+Armistice,Bebegim Öldü,armistice,baby,0.13333333333333333
+Armistice,Bebegim Öldü,armistice,romanticism,0.4
+Armistice,Bebegim Öldü,phoenix,dead,0.125
+Armistice,Bebegim Öldü,phoenix,baby,0.2857142857142857
+Armistice,Bebegim Öldü,phoenix,romanticism,0.10526315789473684
+Armistice,Forever Loving Jah,armistice,forever,0
+Armistice,Forever Loving Jah,armistice,loving,0
+Armistice,Forever Loving Jah,armistice,songs,0.2857142857142857
+Armistice,Forever Loving Jah,armistice,freedom,0.6666666666666666
+Armistice,Forever Loving Jah,phoenix,forever,0
+Armistice,Forever Loving Jah,phoenix,loving,0
+Armistice,Forever Loving Jah,phoenix,songs,0.1111111111111111
+Armistice,Forever Loving Jah,phoenix,freedom,0.125
+Armistice,Hora Din Caval,armistice,din,0.26666666666666666
+Armistice,Hora Din Caval,armistice,time,0.2857142857142857
+Armistice,Hora Din Caval,armistice,honourable,0
+Armistice,Hora Din Caval,armistice,magic,0.26666666666666666
+Armistice,Hora Din Caval,armistice,horses,0.09090909090909091
+Armistice,Hora Din Caval,armistice,evil,0.25
+Armistice,Hora Din Caval,armistice,eye,0.13333333333333333
+Armistice,Hora Din Caval,phoenix,din,0.10526315789473684
+Armistice,Hora Din Caval,phoenix,time,0.1111111111111111
+Armistice,Hora Din Caval,phoenix,honourable,0
+Armistice,Hora Din Caval,phoenix,magic,0.10526315789473684
+Armistice,Hora Din Caval,phoenix,horses,0.23076923076923078
+Armistice,Hora Din Caval,phoenix,evil,0.1
+Armistice,Hora Din Caval,phoenix,eye,0.21052631578947367
+Armistice,To The Roof,armistice,roof,0.13333333333333333
+Armistice,To The Roof,armistice,bourne,0.13333333333333333
+Armistice,To The Roof,armistice,supremacy,0.5714285714285714
+Armistice,To The Roof,phoenix,roof,0.3157894736842105
+Armistice,To The Roof,phoenix,bourne,0.42105263157894735
+Armistice,To The Roof,phoenix,supremacy,0.1111111111111111
+Armistice,Some Bwoy,armistice,fully,0
+Armistice,Some Bwoy,armistice,loaded,0
+Armistice,Some Bwoy,phoenix,fully,0
+Armistice,Some Bwoy,phoenix,loaded,0
+Armistice,Lothlorien (2002 Digital Remaster),armistice,digital,0
+Armistice,Lothlorien (2002 Digital Remaster),armistice,rings,0.11764705882352941
+Armistice,Lothlorien (2002 Digital Remaster),armistice,lord,0.25
+Armistice,Lothlorien (2002 Digital Remaster),phoenix,digital,0
+Armistice,Lothlorien (2002 Digital Remaster),phoenix,rings,0.2857142857142857
+Armistice,Lothlorien (2002 Digital Remaster),phoenix,lord,0.1
+Armistice,Tive Sim,armistice,yes,0.23529411764705882
+Armistice,Tive Sim,armistice,new,0
+Armistice,Tive Sim,armistice,top,0.15384615384615385
+Armistice,Tive Sim,armistice,hat,0.125
+Armistice,Tive Sim,phoenix,yes,0.09523809523809523
+Armistice,Tive Sim,phoenix,new,0
+Armistice,Tive Sim,phoenix,top,0.47058823529411764
+Armistice,Tive Sim,phoenix,hat,0.3
+Armistice,Sticks And Stones,armistice,stones,0.15384615384615385
+Armistice,Sticks And Stones,armistice,sticks,0.13333333333333333
+Armistice,Sticks And Stones,armistice,anthology,0.1111111111111111
+Armistice,Sticks And Stones,phoenix,stones,0.35294117647058826
+Armistice,Sticks And Stones,phoenix,sticks,0.3157894736842105
+Armistice,Sticks And Stones,phoenix,anthology,0.2727272727272727
+Armistice,Vasiyet,armistice,testament,0.25
+Armistice,Vasiyet,armistice,romanticism,0.4
+Armistice,Vasiyet,phoenix,testament,0.1
+Armistice,Vasiyet,phoenix,romanticism,0.10526315789473684
+Armistice,Justin's Death,armistice,death,0.2857142857142857
+Armistice,Justin's Death,armistice,constant,0.25
+Armistice,Justin's Death,armistice,gardener,0.14285714285714285
+Armistice,Justin's Death,phoenix,death,0.1111111111111111
+Armistice,Justin's Death,phoenix,constant,0.1
+Armistice,Justin's Death,phoenix,gardener,0.3
+Armistice,Universe,armistice,universe,0.15384615384615385
+Armistice,Universe,armistice,anthology,0.1111111111111111
+Armistice,Universe,phoenix,universe,0.35294117647058826
+Armistice,Universe,phoenix,anthology,0.2727272727272727
+Armistice,Hurt,armistice,hurt,0.5
+Armistice,Hurt,armistice,greatest,0
+Armistice,Hurt,armistice,hits,0.25
+Armistice,Hurt,phoenix,hurt,0.1
+Armistice,Hurt,phoenix,greatest,0
+Armistice,Hurt,phoenix,hits,0.1
+Armistice,Jomo Gets An HIV Test,armistice,gets,0.2
+Armistice,Jomo Gets An HIV Test,armistice,hiv,0.4444444444444444
+Armistice,Jomo Gets An HIV Test,armistice,test,0.2222222222222222
+Armistice,Jomo Gets An HIV Test,armistice,constant,0.25
+Armistice,Jomo Gets An HIV Test,armistice,gardener,0.14285714285714285
+Armistice,Jomo Gets An HIV Test,phoenix,gets,0.08333333333333333
+Armistice,Jomo Gets An HIV Test,phoenix,hiv,0.09090909090909091
+Armistice,Jomo Gets An HIV Test,phoenix,test,0.09090909090909091
+Armistice,Jomo Gets An HIV Test,phoenix,constant,0.1
+Armistice,Jomo Gets An HIV Test,phoenix,gardener,0.3
+Armistice,Dropped Off At Turkana,armistice,dropped,0
+Armistice,Dropped Off At Turkana,armistice,constant,0.25
+Armistice,Dropped Off At Turkana,armistice,gardener,0.14285714285714285
+Armistice,Dropped Off At Turkana,phoenix,dropped,0
+Armistice,Dropped Off At Turkana,phoenix,constant,0.1
+Armistice,Dropped Off At Turkana,phoenix,gardener,0.3
+Armistice,Fairy Tale,armistice,fairy,0.26666666666666666
+Armistice,Fairy Tale,armistice,tale,0.3333333333333333
+Armistice,Fairy Tale,armistice,second,0.3333333333333333
+Armistice,Fairy Tale,armistice,passport,0.2857142857142857
+Armistice,Fairy Tale,phoenix,fairy,0.10526315789473684
+Armistice,Fairy Tale,phoenix,tale,0.125
+Armistice,Fairy Tale,phoenix,second,0.125
+Armistice,Fairy Tale,phoenix,passport,0.1111111111111111
+Armistice,Restless,armistice,restless,0
+Armistice,Restless,armistice,lonely,0
+Armistice,Restless,armistice,runs,0.2222222222222222
+Armistice,Restless,armistice,ways,0.14285714285714285
+Armistice,Restless,phoenix,restless,0
+Armistice,Restless,phoenix,lonely,0
+Armistice,Restless,phoenix,runs,0.09090909090909091
+Armistice,Restless,phoenix,ways,0.3333333333333333
+Armistice,Halla Halla,armistice,live,0
+Armistice,Halla Halla,phoenix,live,0
+Armistice,Killa,armistice,truth,0.2857142857142857
+Armistice,Killa,phoenix,truth,0.1111111111111111
+Armistice,Cantaloop (Flip Fantasia),armistice,flip,0.21052631578947367
+Armistice,Cantaloop (Flip Fantasia),armistice,fantasia,0.2857142857142857
+Armistice,Cantaloop (Flip Fantasia),armistice,flip,0.21052631578947367
+Armistice,Cantaloop (Flip Fantasia),armistice,fantasia,0.2857142857142857
+Armistice,Cantaloop (Flip Fantasia),armistice,hits,0.25
+Armistice,Cantaloop (Flip Fantasia),phoenix,flip,0.08695652173913043
+Armistice,Cantaloop (Flip Fantasia),phoenix,fantasia,0.1111111111111111
+Armistice,Cantaloop (Flip Fantasia),phoenix,flip,0.08695652173913043
+Armistice,Cantaloop (Flip Fantasia),phoenix,fantasia,0.1111111111111111
+Armistice,Cantaloop (Flip Fantasia),phoenix,hits,0.1
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,remedies,jason,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,remedies,phones,0.1
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,remedies,bourne,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,remedies,identity,0.25
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,worse,jason,0.25
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,worse,phones,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,worse,bourne,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,worse,identity,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,disease,jason,0.2
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,disease,phones,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,disease,bourne,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,disease,identity,0.4
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,young,jason,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,young,phones,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,young,bourne,0.375
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,young,identity,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,mountain,jason,0.125
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,mountain,phones,0.4
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,mountain,bourne,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Jason Phones It In,mountain,identity,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,remedies,dead,0.25
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,remedies,baby,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,remedies,romanticism,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,worse,dead,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,worse,baby,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,worse,romanticism,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,disease,dead,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,disease,baby,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,disease,romanticism,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,young,dead,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,young,baby,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,young,romanticism,0.125
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,mountain,dead,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,mountain,baby,0.375
+There Are Some Remedies Worse Than The Disease,Bebegim Öldü,mountain,romanticism,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,remedies,forever,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,remedies,loving,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,remedies,songs,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,remedies,freedom,0.25
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,worse,forever,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,worse,loving,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,worse,songs,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,worse,freedom,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,disease,forever,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,disease,loving,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,disease,songs,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,disease,freedom,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,young,forever,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,young,loving,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,young,songs,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,young,freedom,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,mountain,forever,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,mountain,loving,0
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,mountain,songs,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Forever Loving Jah,mountain,freedom,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,remedies,din,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,remedies,time,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,remedies,honourable,0
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,remedies,magic,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,remedies,horses,0.07692307692307693
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,remedies,evil,0.5
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,remedies,eye,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,worse,din,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,worse,time,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,worse,honourable,0
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,worse,magic,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,worse,horses,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,worse,evil,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,worse,eye,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,disease,din,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,disease,time,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,disease,honourable,0
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,disease,magic,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,disease,horses,0.08
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,disease,evil,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,disease,eye,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,young,din,0.125
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,young,time,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,young,honourable,0
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,young,magic,0.125
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,young,horses,0.6086956521739131
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,young,evil,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,young,eye,0.25
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,mountain,din,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,mountain,time,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,mountain,honourable,0
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,mountain,magic,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,mountain,horses,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,mountain,evil,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Hora Din Caval,mountain,eye,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,To The Roof,remedies,roof,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,To The Roof,remedies,bourne,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,To The Roof,remedies,supremacy,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,To The Roof,worse,roof,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,To The Roof,worse,bourne,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,To The Roof,worse,supremacy,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,To The Roof,disease,roof,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,To The Roof,disease,bourne,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,To The Roof,disease,supremacy,0.5882352941176471
+There Are Some Remedies Worse Than The Disease,To The Roof,young,roof,0.5
+There Are Some Remedies Worse Than The Disease,To The Roof,young,bourne,0.375
+There Are Some Remedies Worse Than The Disease,To The Roof,young,supremacy,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,To The Roof,mountain,roof,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,To The Roof,mountain,bourne,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,To The Roof,mountain,supremacy,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Some Bwoy,remedies,fully,0
+There Are Some Remedies Worse Than The Disease,Some Bwoy,remedies,loaded,0
+There Are Some Remedies Worse Than The Disease,Some Bwoy,worse,fully,0
+There Are Some Remedies Worse Than The Disease,Some Bwoy,worse,loaded,0
+There Are Some Remedies Worse Than The Disease,Some Bwoy,disease,fully,0
+There Are Some Remedies Worse Than The Disease,Some Bwoy,disease,loaded,0
+There Are Some Remedies Worse Than The Disease,Some Bwoy,young,fully,0
+There Are Some Remedies Worse Than The Disease,Some Bwoy,young,loaded,0
+There Are Some Remedies Worse Than The Disease,Some Bwoy,mountain,fully,0
+There Are Some Remedies Worse Than The Disease,Some Bwoy,mountain,loaded,0
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),remedies,digital,0
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),remedies,rings,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),remedies,lord,0.3
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),worse,digital,0
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),worse,rings,0.125
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),worse,lord,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),disease,digital,0
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),disease,rings,0.1
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),disease,lord,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),young,digital,0
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),young,rings,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),young,lord,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),mountain,digital,0
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),mountain,rings,0.375
+There Are Some Remedies Worse Than The Disease,Lothlorien (2002 Digital Remaster),mountain,lord,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Tive Sim,remedies,yes,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Tive Sim,remedies,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,remedies,top,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Tive Sim,remedies,hat,0.1
+There Are Some Remedies Worse Than The Disease,Tive Sim,worse,yes,0.25
+There Are Some Remedies Worse Than The Disease,Tive Sim,worse,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,worse,top,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Tive Sim,worse,hat,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Tive Sim,disease,yes,0.2
+There Are Some Remedies Worse Than The Disease,Tive Sim,disease,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,disease,top,0.125
+There Are Some Remedies Worse Than The Disease,Tive Sim,disease,hat,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Tive Sim,young,yes,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Tive Sim,young,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,young,top,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Tive Sim,young,hat,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Tive Sim,mountain,yes,0.125
+There Are Some Remedies Worse Than The Disease,Tive Sim,mountain,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,mountain,top,0.5
+There Are Some Remedies Worse Than The Disease,Tive Sim,mountain,hat,0.4
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,remedies,stones,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,remedies,sticks,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,remedies,anthology,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,worse,stones,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,worse,sticks,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,worse,anthology,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,disease,stones,0.125
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,disease,sticks,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,disease,anthology,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,young,stones,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,young,sticks,0.5
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,young,anthology,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,mountain,stones,0.5
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,mountain,sticks,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Sticks And Stones,mountain,anthology,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Vasiyet,remedies,testament,0.3
+There Are Some Remedies Worse Than The Disease,Vasiyet,remedies,romanticism,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Vasiyet,worse,testament,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Vasiyet,worse,romanticism,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,Vasiyet,disease,testament,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Vasiyet,disease,romanticism,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Vasiyet,young,testament,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Vasiyet,young,romanticism,0.125
+There Are Some Remedies Worse Than The Disease,Vasiyet,mountain,testament,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Vasiyet,mountain,romanticism,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Justin's Death,remedies,death,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Justin's Death,remedies,constant,0.3
+There Are Some Remedies Worse Than The Disease,Justin's Death,remedies,gardener,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Justin's Death,worse,death,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Justin's Death,worse,constant,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Justin's Death,worse,gardener,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Justin's Death,disease,death,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Justin's Death,disease,constant,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Justin's Death,disease,gardener,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Justin's Death,young,death,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Justin's Death,young,constant,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Justin's Death,young,gardener,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Justin's Death,mountain,death,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Justin's Death,mountain,constant,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Justin's Death,mountain,gardener,0.4
+There Are Some Remedies Worse Than The Disease,Universe,remedies,universe,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Universe,remedies,anthology,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Universe,worse,universe,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Universe,worse,anthology,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Universe,disease,universe,0.125
+There Are Some Remedies Worse Than The Disease,Universe,disease,anthology,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Universe,young,universe,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,Universe,young,anthology,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Universe,mountain,universe,0.5
+There Are Some Remedies Worse Than The Disease,Universe,mountain,anthology,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Hurt,remedies,hurt,0.2
+There Are Some Remedies Worse Than The Disease,Hurt,remedies,greatest,0
+There Are Some Remedies Worse Than The Disease,Hurt,remedies,hits,0.6
+There Are Some Remedies Worse Than The Disease,Hurt,worse,hurt,0.4
+There Are Some Remedies Worse Than The Disease,Hurt,worse,greatest,0
+There Are Some Remedies Worse Than The Disease,Hurt,worse,hits,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Hurt,disease,hurt,0.8421052631578947
+There Are Some Remedies Worse Than The Disease,Hurt,disease,greatest,0
+There Are Some Remedies Worse Than The Disease,Hurt,disease,hits,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Hurt,young,hurt,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hurt,young,greatest,0
+There Are Some Remedies Worse Than The Disease,Hurt,young,hits,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hurt,mountain,hurt,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Hurt,mountain,greatest,0
+There Are Some Remedies Worse Than The Disease,Hurt,mountain,hits,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,remedies,gets,0.5833333333333334
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,remedies,hiv,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,remedies,test,0.2727272727272727
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,remedies,constant,0.3
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,remedies,gardener,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,worse,gets,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,worse,hiv,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,worse,test,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,worse,constant,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,worse,gardener,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,disease,gets,0.17391304347826086
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,disease,hiv,0.7619047619047619
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,disease,test,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,disease,constant,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,disease,gardener,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,young,gets,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,young,hiv,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,young,test,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,young,constant,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,young,gardener,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,mountain,gets,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,mountain,hiv,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,mountain,test,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,mountain,constant,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Jomo Gets An HIV Test,mountain,gardener,0.4
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,remedies,dropped,0
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,remedies,constant,0.3
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,remedies,gardener,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,worse,dropped,0
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,worse,constant,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,worse,gardener,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,disease,dropped,0
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,disease,constant,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,disease,gardener,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,young,dropped,0
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,young,constant,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,young,gardener,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,mountain,dropped,0
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,mountain,constant,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Dropped Off At Turkana,mountain,gardener,0.4
+There Are Some Remedies Worse Than The Disease,Fairy Tale,remedies,fairy,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Fairy Tale,remedies,tale,0.25
+There Are Some Remedies Worse Than The Disease,Fairy Tale,remedies,second,0.25
+There Are Some Remedies Worse Than The Disease,Fairy Tale,remedies,passport,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Fairy Tale,worse,fairy,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Fairy Tale,worse,tale,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Fairy Tale,worse,second,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Fairy Tale,worse,passport,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Fairy Tale,disease,fairy,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Fairy Tale,disease,tale,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Fairy Tale,disease,second,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Fairy Tale,disease,passport,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Fairy Tale,young,fairy,0.125
+There Are Some Remedies Worse Than The Disease,Fairy Tale,young,tale,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Fairy Tale,young,second,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Fairy Tale,young,passport,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Fairy Tale,mountain,fairy,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Fairy Tale,mountain,tale,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Fairy Tale,mountain,second,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Fairy Tale,mountain,passport,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Restless,remedies,restless,0
+There Are Some Remedies Worse Than The Disease,Restless,remedies,lonely,0
+There Are Some Remedies Worse Than The Disease,Restless,remedies,runs,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Restless,remedies,ways,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Restless,worse,restless,0
+There Are Some Remedies Worse Than The Disease,Restless,worse,lonely,0
+There Are Some Remedies Worse Than The Disease,Restless,worse,runs,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Restless,worse,ways,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Restless,disease,restless,0
+There Are Some Remedies Worse Than The Disease,Restless,disease,lonely,0
+There Are Some Remedies Worse Than The Disease,Restless,disease,runs,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Restless,disease,ways,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Restless,young,restless,0
+There Are Some Remedies Worse Than The Disease,Restless,young,lonely,0
+There Are Some Remedies Worse Than The Disease,Restless,young,runs,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Restless,young,ways,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Restless,mountain,restless,0
+There Are Some Remedies Worse Than The Disease,Restless,mountain,lonely,0
+There Are Some Remedies Worse Than The Disease,Restless,mountain,runs,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Restless,mountain,ways,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Halla Halla,remedies,live,0
+There Are Some Remedies Worse Than The Disease,Halla Halla,worse,live,0
+There Are Some Remedies Worse Than The Disease,Halla Halla,disease,live,0
+There Are Some Remedies Worse Than The Disease,Halla Halla,young,live,0
+There Are Some Remedies Worse Than The Disease,Halla Halla,mountain,live,0
+There Are Some Remedies Worse Than The Disease,Killa,remedies,truth,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Killa,worse,truth,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Killa,disease,truth,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Killa,young,truth,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Killa,mountain,truth,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),remedies,flip,0.5217391304347826
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),remedies,fantasia,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),remedies,flip,0.5217391304347826
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),remedies,fantasia,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),remedies,hits,0.6
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),worse,flip,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),worse,fantasia,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),worse,flip,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),worse,fantasia,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),worse,hits,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),disease,flip,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),disease,fantasia,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),disease,flip,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),disease,fantasia,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),disease,hits,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),young,flip,0.1
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),young,fantasia,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),young,flip,0.1
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),young,fantasia,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),young,hits,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),mountain,flip,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),mountain,fantasia,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),mountain,flip,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),mountain,fantasia,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Cantaloop (Flip Fantasia),mountain,hits,0.13333333333333333
+Swimming In The Flood,Jason Phones It In,swimming,jason,0.3
+Swimming In The Flood,Jason Phones It In,swimming,phones,0.10526315789473684
+Swimming In The Flood,Jason Phones It In,swimming,bourne,0.1111111111111111
+Swimming In The Flood,Jason Phones It In,swimming,identity,0.26666666666666666
+Swimming In The Flood,Jason Phones It In,flood,jason,0.11764705882352941
+Swimming In The Flood,Jason Phones It In,flood,phones,0.25
+Swimming In The Flood,Jason Phones It In,flood,bourne,0.26666666666666666
+Swimming In The Flood,Jason Phones It In,flood,identity,0.16666666666666666
+Swimming In The Flood,Jason Phones It In,manners,jason,0.25
+Swimming In The Flood,Jason Phones It In,manners,phones,0.13333333333333333
+Swimming In The Flood,Jason Phones It In,manners,bourne,0.14285714285714285
+Swimming In The Flood,Jason Phones It In,manners,identity,0.5454545454545454
+Swimming In The Flood,Bebegim Öldü,swimming,dead,0.26666666666666666
+Swimming In The Flood,Bebegim Öldü,swimming,baby,0.1111111111111111
+Swimming In The Flood,Bebegim Öldü,swimming,romanticism,0.2222222222222222
+Swimming In The Flood,Bebegim Öldü,flood,dead,0.16666666666666666
+Swimming In The Flood,Bebegim Öldü,flood,baby,0.26666666666666666
+Swimming In The Flood,Bebegim Öldü,flood,romanticism,0.13333333333333333
+Swimming In The Flood,Bebegim Öldü,manners,dead,0.36363636363636365
+Swimming In The Flood,Bebegim Öldü,manners,baby,0.14285714285714285
+Swimming In The Flood,Bebegim Öldü,manners,romanticism,0.42857142857142855
+Swimming In The Flood,Forever Loving Jah,swimming,forever,0
+Swimming In The Flood,Forever Loving Jah,swimming,loving,0
+Swimming In The Flood,Forever Loving Jah,swimming,songs,0.23529411764705882
+Swimming In The Flood,Forever Loving Jah,swimming,freedom,0.26666666666666666
+Swimming In The Flood,Forever Loving Jah,flood,forever,0
+Swimming In The Flood,Forever Loving Jah,flood,loving,0
+Swimming In The Flood,Forever Loving Jah,flood,songs,0.14285714285714285
+Swimming In The Flood,Forever Loving Jah,flood,freedom,0.16666666666666666
+Swimming In The Flood,Forever Loving Jah,manners,forever,0
+Swimming In The Flood,Forever Loving Jah,manners,loving,0
+Swimming In The Flood,Forever Loving Jah,manners,songs,0.3076923076923077
+Swimming In The Flood,Forever Loving Jah,manners,freedom,0.5454545454545454
+Swimming In The Flood,Hora Din Caval,swimming,din,0.4444444444444444
+Swimming In The Flood,Hora Din Caval,swimming,time,0.47058823529411764
+Swimming In The Flood,Hora Din Caval,swimming,honourable,0
+Swimming In The Flood,Hora Din Caval,swimming,magic,0.3333333333333333
+Swimming In The Flood,Hora Din Caval,swimming,horses,0.08
+Swimming In The Flood,Hora Din Caval,swimming,evil,0.631578947368421
+Swimming In The Flood,Hora Din Caval,swimming,eye,0.1111111111111111
+Swimming In The Flood,Hora Din Caval,flood,din,0.13333333333333333
+Swimming In The Flood,Hora Din Caval,flood,time,0.14285714285714285
+Swimming In The Flood,Hora Din Caval,flood,honourable,0
+Swimming In The Flood,Hora Din Caval,flood,magic,0.13333333333333333
+Swimming In The Flood,Hora Din Caval,flood,horses,0.18181818181818182
+Swimming In The Flood,Hora Din Caval,flood,evil,0.125
+Swimming In The Flood,Hora Din Caval,flood,eye,0.26666666666666666
+Swimming In The Flood,Hora Din Caval,manners,din,0.2857142857142857
+Swimming In The Flood,Hora Din Caval,manners,time,0.3076923076923077
+Swimming In The Flood,Hora Din Caval,manners,honourable,0
+Swimming In The Flood,Hora Din Caval,manners,magic,0.2857142857142857
+Swimming In The Flood,Hora Din Caval,manners,horses,0.09523809523809523
+Swimming In The Flood,Hora Din Caval,manners,evil,0.26666666666666666
+Swimming In The Flood,Hora Din Caval,manners,eye,0.14285714285714285
+Swimming In The Flood,To The Roof,swimming,roof,0.1111111111111111
+Swimming In The Flood,To The Roof,swimming,bourne,0.1111111111111111
+Swimming In The Flood,To The Roof,swimming,supremacy,0.23529411764705882
+Swimming In The Flood,To The Roof,flood,roof,0.26666666666666666
+Swimming In The Flood,To The Roof,flood,bourne,0.26666666666666666
+Swimming In The Flood,To The Roof,flood,supremacy,0.14285714285714285
+Swimming In The Flood,To The Roof,manners,roof,0.14285714285714285
+Swimming In The Flood,To The Roof,manners,bourne,0.14285714285714285
+Swimming In The Flood,To The Roof,manners,supremacy,0.46153846153846156
+Swimming In The Flood,Some Bwoy,swimming,fully,0
+Swimming In The Flood,Some Bwoy,swimming,loaded,0
+Swimming In The Flood,Some Bwoy,flood,fully,0
+Swimming In The Flood,Some Bwoy,flood,loaded,0
+Swimming In The Flood,Some Bwoy,manners,fully,0
+Swimming In The Flood,Some Bwoy,manners,loaded,0
+Swimming In The Flood,Lothlorien (2002 Digital Remaster),swimming,digital,0
+Swimming In The Flood,Lothlorien (2002 Digital Remaster),swimming,rings,0.1
+Swimming In The Flood,Lothlorien (2002 Digital Remaster),swimming,lord,0.3157894736842105
+Swimming In The Flood,Lothlorien (2002 Digital Remaster),flood,digital,0
+Swimming In The Flood,Lothlorien (2002 Digital Remaster),flood,rings,0.23529411764705882
+Swimming In The Flood,Lothlorien (2002 Digital Remaster),flood,lord,0.125
+Swimming In The Flood,Lothlorien (2002 Digital Remaster),manners,digital,0
+Swimming In The Flood,Lothlorien (2002 Digital Remaster),manners,rings,0.125
+Swimming In The Flood,Lothlorien (2002 Digital Remaster),manners,lord,0.26666666666666666
+Swimming In The Flood,Tive Sim,swimming,yes,0.2
+Swimming In The Flood,Tive Sim,swimming,new,0
+Swimming In The Flood,Tive Sim,swimming,top,0.125
+Swimming In The Flood,Tive Sim,swimming,hat,0.10526315789473684
+Swimming In The Flood,Tive Sim,flood,yes,0.11764705882352941
+Swimming In The Flood,Tive Sim,flood,new,0
+Swimming In The Flood,Tive Sim,flood,top,0.3076923076923077
+Swimming In The Flood,Tive Sim,flood,hat,0.25
+Swimming In The Flood,Tive Sim,manners,yes,0.25
+Swimming In The Flood,Tive Sim,manners,new,0
+Swimming In The Flood,Tive Sim,manners,top,0.16666666666666666
+Swimming In The Flood,Tive Sim,manners,hat,0.13333333333333333
+Swimming In The Flood,Sticks And Stones,swimming,stones,0.125
+Swimming In The Flood,Sticks And Stones,swimming,sticks,0.1111111111111111
+Swimming In The Flood,Sticks And Stones,swimming,anthology,0.09523809523809523
+Swimming In The Flood,Sticks And Stones,flood,stones,0.3076923076923077
+Swimming In The Flood,Sticks And Stones,flood,sticks,0.26666666666666666
+Swimming In The Flood,Sticks And Stones,flood,anthology,0.2222222222222222
+Swimming In The Flood,Sticks And Stones,manners,stones,0.16666666666666666
+Swimming In The Flood,Sticks And Stones,manners,sticks,0.14285714285714285
+Swimming In The Flood,Sticks And Stones,manners,anthology,0.11764705882352941
+Swimming In The Flood,Vasiyet,swimming,testament,0.3157894736842105
+Swimming In The Flood,Vasiyet,swimming,romanticism,0.2222222222222222
+Swimming In The Flood,Vasiyet,flood,testament,0.125
+Swimming In The Flood,Vasiyet,flood,romanticism,0.13333333333333333
+Swimming In The Flood,Vasiyet,manners,testament,0.26666666666666666
+Swimming In The Flood,Vasiyet,manners,romanticism,0.42857142857142855
+Swimming In The Flood,Justin's Death,swimming,death,0.47058823529411764
+Swimming In The Flood,Justin's Death,swimming,constant,0.3157894736842105
+Swimming In The Flood,Justin's Death,swimming,gardener,0.11764705882352941
+Swimming In The Flood,Justin's Death,flood,death,0.14285714285714285
+Swimming In The Flood,Justin's Death,flood,constant,0.125
+Swimming In The Flood,Justin's Death,flood,gardener,0.2857142857142857
+Swimming In The Flood,Justin's Death,manners,death,0.3076923076923077
+Swimming In The Flood,Justin's Death,manners,constant,0.26666666666666666
+Swimming In The Flood,Justin's Death,manners,gardener,0.15384615384615385
+Swimming In The Flood,Universe,swimming,universe,0.125
+Swimming In The Flood,Universe,swimming,anthology,0.09523809523809523
+Swimming In The Flood,Universe,flood,universe,0.3076923076923077
+Swimming In The Flood,Universe,flood,anthology,0.2222222222222222
+Swimming In The Flood,Universe,manners,universe,0.16666666666666666
+Swimming In The Flood,Universe,manners,anthology,0.11764705882352941
+Swimming In The Flood,Hurt,swimming,hurt,0.21052631578947367
+Swimming In The Flood,Hurt,swimming,greatest,0
+Swimming In The Flood,Hurt,swimming,hits,0.5263157894736842
+Swimming In The Flood,Hurt,flood,hurt,0.125
+Swimming In The Flood,Hurt,flood,greatest,0
+Swimming In The Flood,Hurt,flood,hits,0.125
+Swimming In The Flood,Hurt,manners,hurt,0.4
+Swimming In The Flood,Hurt,manners,greatest,0
+Swimming In The Flood,Hurt,manners,hits,0.26666666666666666
+Swimming In The Flood,Jomo Gets An HIV Test,swimming,gets,0.43478260869565216
+Swimming In The Flood,Jomo Gets An HIV Test,swimming,hiv,0.19047619047619047
+Swimming In The Flood,Jomo Gets An HIV Test,swimming,test,0.2857142857142857
+Swimming In The Flood,Jomo Gets An HIV Test,swimming,constant,0.3157894736842105
+Swimming In The Flood,Jomo Gets An HIV Test,swimming,gardener,0.11764705882352941
+Swimming In The Flood,Jomo Gets An HIV Test,flood,gets,0.1
+Swimming In The Flood,Jomo Gets An HIV Test,flood,hiv,0.1111111111111111
+Swimming In The Flood,Jomo Gets An HIV Test,flood,test,0.1111111111111111
+Swimming In The Flood,Jomo Gets An HIV Test,flood,constant,0.125
+Swimming In The Flood,Jomo Gets An HIV Test,flood,gardener,0.2857142857142857
+Swimming In The Flood,Jomo Gets An HIV Test,manners,gets,0.21052631578947367
+Swimming In The Flood,Jomo Gets An HIV Test,manners,hiv,0.35294117647058826
+Swimming In The Flood,Jomo Gets An HIV Test,manners,test,0.23529411764705882
+Swimming In The Flood,Jomo Gets An HIV Test,manners,constant,0.26666666666666666
+Swimming In The Flood,Jomo Gets An HIV Test,manners,gardener,0.15384615384615385
+Swimming In The Flood,Dropped Off At Turkana,swimming,dropped,0
+Swimming In The Flood,Dropped Off At Turkana,swimming,constant,0.3157894736842105
+Swimming In The Flood,Dropped Off At Turkana,swimming,gardener,0.11764705882352941
+Swimming In The Flood,Dropped Off At Turkana,flood,dropped,0
+Swimming In The Flood,Dropped Off At Turkana,flood,constant,0.125
+Swimming In The Flood,Dropped Off At Turkana,flood,gardener,0.2857142857142857
+Swimming In The Flood,Dropped Off At Turkana,manners,dropped,0
+Swimming In The Flood,Dropped Off At Turkana,manners,constant,0.26666666666666666
+Swimming In The Flood,Dropped Off At Turkana,manners,gardener,0.15384615384615385
+Swimming In The Flood,Fairy Tale,swimming,fairy,0.3333333333333333
+Swimming In The Flood,Fairy Tale,swimming,tale,0.26666666666666666
+Swimming In The Flood,Fairy Tale,swimming,second,0.26666666666666666
+Swimming In The Flood,Fairy Tale,swimming,passport,0.23529411764705882
+Swimming In The Flood,Fairy Tale,flood,fairy,0.13333333333333333
+Swimming In The Flood,Fairy Tale,flood,tale,0.16666666666666666
+Swimming In The Flood,Fairy Tale,flood,second,0.16666666666666666
+Swimming In The Flood,Fairy Tale,flood,passport,0.14285714285714285
+Swimming In The Flood,Fairy Tale,manners,fairy,0.2857142857142857
+Swimming In The Flood,Fairy Tale,manners,tale,0.36363636363636365
+Swimming In The Flood,Fairy Tale,manners,second,0.36363636363636365
+Swimming In The Flood,Fairy Tale,manners,passport,0.3076923076923077
+Swimming In The Flood,Restless,swimming,restless,0
+Swimming In The Flood,Restless,swimming,lonely,0
+Swimming In The Flood,Restless,swimming,runs,0.47619047619047616
+Swimming In The Flood,Restless,swimming,ways,0.11764705882352941
+Swimming In The Flood,Restless,flood,restless,0
+Swimming In The Flood,Restless,flood,lonely,0
+Swimming In The Flood,Restless,flood,runs,0.1111111111111111
+Swimming In The Flood,Restless,flood,ways,0.2857142857142857
+Swimming In The Flood,Restless,manners,restless,0
+Swimming In The Flood,Restless,manners,lonely,0
+Swimming In The Flood,Restless,manners,runs,0.23529411764705882
+Swimming In The Flood,Restless,manners,ways,0.15384615384615385
+Swimming In The Flood,Halla Halla,swimming,live,0
+Swimming In The Flood,Halla Halla,flood,live,0
+Swimming In The Flood,Halla Halla,manners,live,0
+Swimming In The Flood,Killa,swimming,truth,0.35294117647058826
+Swimming In The Flood,Killa,flood,truth,0.14285714285714285
+Swimming In The Flood,Killa,manners,truth,0.3076923076923077
+Swimming In The Flood,Cantaloop (Flip Fantasia),swimming,flip,0.45454545454545453
+Swimming In The Flood,Cantaloop (Flip Fantasia),swimming,fantasia,0.23529411764705882
+Swimming In The Flood,Cantaloop (Flip Fantasia),swimming,flip,0.45454545454545453
+Swimming In The Flood,Cantaloop (Flip Fantasia),swimming,fantasia,0.23529411764705882
+Swimming In The Flood,Cantaloop (Flip Fantasia),swimming,hits,0.5263157894736842
+Swimming In The Flood,Cantaloop (Flip Fantasia),flood,flip,0.10526315789473684
+Swimming In The Flood,Cantaloop (Flip Fantasia),flood,fantasia,0.14285714285714285
+Swimming In The Flood,Cantaloop (Flip Fantasia),flood,flip,0.10526315789473684
+Swimming In The Flood,Cantaloop (Flip Fantasia),flood,fantasia,0.14285714285714285
+Swimming In The Flood,Cantaloop (Flip Fantasia),flood,hits,0.125
+Swimming In The Flood,Cantaloop (Flip Fantasia),manners,flip,0.2222222222222222
+Swimming In The Flood,Cantaloop (Flip Fantasia),manners,fantasia,0.3076923076923077
+Swimming In The Flood,Cantaloop (Flip Fantasia),manners,flip,0.2222222222222222
+Swimming In The Flood,Cantaloop (Flip Fantasia),manners,fantasia,0.3076923076923077
+Swimming In The Flood,Cantaloop (Flip Fantasia),manners,hits,0.26666666666666666

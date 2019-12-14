@@ -1,0 +1,3345 @@
+the_first_song,the_second_song,word1,word2,result
+Swallowed In The Sea,Where Would I Be?,swallowed,prolonging,0.25
+Swallowed In The Sea,Where Would I Be?,swallowed,magic,0.16666666666666666
+Swallowed In The Sea,Where Would I Be?,sea,prolonging,0
+Swallowed In The Sea,Where Would I Be?,sea,magic,0.15384615384615385
+Swallowed In The Sea,Where Would I Be?,x,prolonging,0
+Swallowed In The Sea,Where Would I Be?,x,magic,0.25
+Swallowed In The Sea,Comfort Eagle,swallowed,comfort,0.2
+Swallowed In The Sea,Comfort Eagle,swallowed,eagle,0.125
+Swallowed In The Sea,Comfort Eagle,swallowed,comfort,0.2
+Swallowed In The Sea,Comfort Eagle,swallowed,eagle,0.125
+Swallowed In The Sea,Comfort Eagle,sea,comfort,0.18181818181818182
+Swallowed In The Sea,Comfort Eagle,sea,eagle,0.23529411764705882
+Swallowed In The Sea,Comfort Eagle,sea,comfort,0.18181818181818182
+Swallowed In The Sea,Comfort Eagle,sea,eagle,0.23529411764705882
+Swallowed In The Sea,Comfort Eagle,x,comfort,0.2857142857142857
+Swallowed In The Sea,Comfort Eagle,x,eagle,0.1
+Swallowed In The Sea,Comfort Eagle,x,comfort,0.2857142857142857
+Swallowed In The Sea,Comfort Eagle,x,eagle,0.1
+Swallowed In The Sea,Never There,swallowed,never,0.4
+Swallowed In The Sea,Never There,swallowed,prolonging,0.25
+Swallowed In The Sea,Never There,swallowed,magic,0.16666666666666666
+Swallowed In The Sea,Never There,sea,never,0
+Swallowed In The Sea,Never There,sea,prolonging,0
+Swallowed In The Sea,Never There,sea,magic,0.15384615384615385
+Swallowed In The Sea,Never There,x,never,0
+Swallowed In The Sea,Never There,x,prolonging,0
+Swallowed In The Sea,Never There,x,magic,0.25
+Swallowed In The Sea,Beautiful,swallowed,beautiful,0.4
+Swallowed In The Sea,Beautiful,swallowed,hotel,0.16666666666666666
+Swallowed In The Sea,Beautiful,sea,beautiful,0
+Swallowed In The Sea,Beautiful,sea,hotel,0.3076923076923077
+Swallowed In The Sea,Beautiful,x,beautiful,0
+Swallowed In The Sea,Beautiful,x,hotel,0.125
+Swallowed In The Sea,Carbon Monoxide,swallowed,carbon,0.2
+Swallowed In The Sea,Carbon Monoxide,swallowed,monoxide,0.15384615384615385
+Swallowed In The Sea,Carbon Monoxide,swallowed,pressure,0.18181818181818182
+Swallowed In The Sea,Carbon Monoxide,swallowed,chief,0.18181818181818182
+Swallowed In The Sea,Carbon Monoxide,sea,carbon,0.36363636363636365
+Swallowed In The Sea,Carbon Monoxide,sea,monoxide,0.2857142857142857
+Swallowed In The Sea,Carbon Monoxide,sea,pressure,0.3333333333333333
+Swallowed In The Sea,Carbon Monoxide,sea,chief,0.36363636363636365
+Swallowed In The Sea,Carbon Monoxide,x,carbon,0.26666666666666666
+Swallowed In The Sea,Carbon Monoxide,x,monoxide,0.2222222222222222
+Swallowed In The Sea,Carbon Monoxide,x,pressure,0.13333333333333333
+Swallowed In The Sea,Carbon Monoxide,x,chief,0.14285714285714285
+Swallowed In The Sea,Guitar,swallowed,guitar,0.14285714285714285
+Swallowed In The Sea,Guitar,swallowed,prolonging,0.25
+Swallowed In The Sea,Guitar,swallowed,magic,0.16666666666666666
+Swallowed In The Sea,Guitar,sea,guitar,0.26666666666666666
+Swallowed In The Sea,Guitar,sea,prolonging,0
+Swallowed In The Sea,Guitar,sea,magic,0.15384615384615385
+Swallowed In The Sea,Guitar,x,guitar,0.1111111111111111
+Swallowed In The Sea,Guitar,x,prolonging,0
+Swallowed In The Sea,Guitar,x,magic,0.25
+Swallowed In The Sea,Opera Singer,swallowed,opera,0.18181818181818182
+Swallowed In The Sea,Opera Singer,swallowed,singer,0.15384615384615385
+Swallowed In The Sea,Opera Singer,swallowed,comfort,0.2
+Swallowed In The Sea,Opera Singer,swallowed,eagle,0.125
+Swallowed In The Sea,Opera Singer,sea,opera,0.16666666666666666
+Swallowed In The Sea,Opera Singer,sea,singer,0.3076923076923077
+Swallowed In The Sea,Opera Singer,sea,comfort,0.18181818181818182
+Swallowed In The Sea,Opera Singer,sea,eagle,0.23529411764705882
+Swallowed In The Sea,Opera Singer,x,opera,0.26666666666666666
+Swallowed In The Sea,Opera Singer,x,singer,0.125
+Swallowed In The Sea,Opera Singer,x,comfort,0.2857142857142857
+Swallowed In The Sea,Opera Singer,x,eagle,0.1
+Swallowed In The Sea,Waiting,swallowed,waiting,0.18181818181818182
+Swallowed In The Sea,Waiting,swallowed,pressure,0.18181818181818182
+Swallowed In The Sea,Waiting,swallowed,chief,0.18181818181818182
+Swallowed In The Sea,Waiting,sea,waiting,0.16666666666666666
+Swallowed In The Sea,Waiting,sea,pressure,0.3333333333333333
+Swallowed In The Sea,Waiting,sea,chief,0.36363636363636365
+Swallowed In The Sea,Waiting,x,waiting,0.26666666666666666
+Swallowed In The Sea,Waiting,x,pressure,0.13333333333333333
+Swallowed In The Sea,Waiting,x,chief,0.14285714285714285
+Swallowed In The Sea,Alpha Beta Parking Lot,swallowed,alpha,0.15384615384615385
+Swallowed In The Sea,Alpha Beta Parking Lot,swallowed,beta,0.15384615384615385
+Swallowed In The Sea,Alpha Beta Parking Lot,swallowed,parking,0.2
+Swallowed In The Sea,Alpha Beta Parking Lot,swallowed,lot,0.2
+Swallowed In The Sea,Alpha Beta Parking Lot,swallowed,prolonging,0.25
+Swallowed In The Sea,Alpha Beta Parking Lot,swallowed,magic,0.16666666666666666
+Swallowed In The Sea,Alpha Beta Parking Lot,sea,alpha,0.14285714285714285
+Swallowed In The Sea,Alpha Beta Parking Lot,sea,beta,0.14285714285714285
+Swallowed In The Sea,Alpha Beta Parking Lot,sea,parking,0.18181818181818182
+Swallowed In The Sea,Alpha Beta Parking Lot,sea,lot,0.18181818181818182
+Swallowed In The Sea,Alpha Beta Parking Lot,sea,prolonging,0
+Swallowed In The Sea,Alpha Beta Parking Lot,sea,magic,0.15384615384615385
+Swallowed In The Sea,Alpha Beta Parking Lot,x,alpha,0.23529411764705882
+Swallowed In The Sea,Alpha Beta Parking Lot,x,beta,0.23529411764705882
+Swallowed In The Sea,Alpha Beta Parking Lot,x,parking,0.2857142857142857
+Swallowed In The Sea,Alpha Beta Parking Lot,x,lot,0.42857142857142855
+Swallowed In The Sea,Alpha Beta Parking Lot,x,prolonging,0
+Swallowed In The Sea,Alpha Beta Parking Lot,x,magic,0.25
+Swallowed In The Sea,No Phone,swallowed,phone,0.15384615384615385
+Swallowed In The Sea,No Phone,swallowed,pressure,0.18181818181818182
+Swallowed In The Sea,No Phone,swallowed,chief,0.18181818181818182
+Swallowed In The Sea,No Phone,sea,phone,0.2857142857142857
+Swallowed In The Sea,No Phone,sea,pressure,0.3333333333333333
+Swallowed In The Sea,No Phone,sea,chief,0.36363636363636365
+Swallowed In The Sea,No Phone,x,phone,0.11764705882352941
+Swallowed In The Sea,No Phone,x,pressure,0.13333333333333333
+Swallowed In The Sea,No Phone,x,chief,0.14285714285714285
+Swallowed In The Sea,Commissioning A Symphony In C,swallowed,symphony,0.16666666666666666
+Swallowed In The Sea,Commissioning A Symphony In C,swallowed,commissioning,0.15384615384615385
+Swallowed In The Sea,Commissioning A Symphony In C,swallowed,c,0.16666666666666666
+Swallowed In The Sea,Commissioning A Symphony In C,swallowed,comfort,0.2
+Swallowed In The Sea,Commissioning A Symphony In C,swallowed,eagle,0.125
+Swallowed In The Sea,Commissioning A Symphony In C,sea,symphony,0.15384615384615385
+Swallowed In The Sea,Commissioning A Symphony In C,sea,commissioning,0.14285714285714285
+Swallowed In The Sea,Commissioning A Symphony In C,sea,c,0.15384615384615385
+Swallowed In The Sea,Commissioning A Symphony In C,sea,comfort,0.18181818181818182
+Swallowed In The Sea,Commissioning A Symphony In C,sea,eagle,0.23529411764705882
+Swallowed In The Sea,Commissioning A Symphony In C,x,symphony,0.25
+Swallowed In The Sea,Commissioning A Symphony In C,x,commissioning,0.23529411764705882
+Swallowed In The Sea,Commissioning A Symphony In C,x,c,0.5
+Swallowed In The Sea,Commissioning A Symphony In C,x,comfort,0.2857142857142857
+Swallowed In The Sea,Commissioning A Symphony In C,x,eagle,0.1
+Swallowed In The Sea,Mexico,swallowed,mexico,0.14285714285714285
+Swallowed In The Sea,Mexico,swallowed,prolonging,0.25
+Swallowed In The Sea,Mexico,swallowed,magic,0.16666666666666666
+Swallowed In The Sea,Mexico,sea,mexico,0.26666666666666666
+Swallowed In The Sea,Mexico,sea,prolonging,0
+Swallowed In The Sea,Mexico,sea,magic,0.15384615384615385
+Swallowed In The Sea,Mexico,x,mexico,0.1111111111111111
+Swallowed In The Sea,Mexico,x,prolonging,0
+Swallowed In The Sea,Mexico,x,magic,0.25
+Swallowed In The Sea,Mahna_ Mahna,swallowed,sides,0.2
+Swallowed In The Sea,Mahna_ Mahna,swallowed,rarities,0.15384615384615385
+Swallowed In The Sea,Mahna_ Mahna,swallowed,b,0.14285714285714285
+Swallowed In The Sea,Mahna_ Mahna,sea,sides,0.36363636363636365
+Swallowed In The Sea,Mahna_ Mahna,sea,rarities,0.14285714285714285
+Swallowed In The Sea,Mahna_ Mahna,sea,b,0.26666666666666666
+Swallowed In The Sea,Mahna_ Mahna,x,sides,0.14285714285714285
+Swallowed In The Sea,Mahna_ Mahna,x,rarities,0.23529411764705882
+Swallowed In The Sea,Mahna_ Mahna,x,b,0.1111111111111111
+Swallowed In The Sea,Hey Mama,swallowed,mama,0.125
+Swallowed In The Sea,Hey Mama,sea,mama,0.25
+Swallowed In The Sea,Hey Mama,x,mama,0.10526315789473684
+Swallowed In The Sea,Pretty Pink Ribbon,swallowed,pretty,0.4
+Swallowed In The Sea,Pretty Pink Ribbon,swallowed,pink,0.16666666666666666
+Swallowed In The Sea,Pretty Pink Ribbon,swallowed,ribbon,0.25
+Swallowed In The Sea,Pretty Pink Ribbon,swallowed,comfort,0.2
+Swallowed In The Sea,Pretty Pink Ribbon,swallowed,eagle,0.125
+Swallowed In The Sea,Pretty Pink Ribbon,sea,pretty,0
+Swallowed In The Sea,Pretty Pink Ribbon,sea,pink,0.15384615384615385
+Swallowed In The Sea,Pretty Pink Ribbon,sea,ribbon,0.4444444444444444
+Swallowed In The Sea,Pretty Pink Ribbon,sea,comfort,0.18181818181818182
+Swallowed In The Sea,Pretty Pink Ribbon,sea,eagle,0.23529411764705882
+Swallowed In The Sea,Pretty Pink Ribbon,x,pretty,0
+Swallowed In The Sea,Pretty Pink Ribbon,x,pink,0.25
+Swallowed In The Sea,Pretty Pink Ribbon,x,ribbon,0.16666666666666666
+Swallowed In The Sea,Pretty Pink Ribbon,x,comfort,0.2857142857142857
+Swallowed In The Sea,Pretty Pink Ribbon,x,eagle,0.1
+Swallowed In The Sea,Pop Champagne,swallowed,pop,0.125
+Swallowed In The Sea,Pop Champagne,swallowed,champagne,0.13333333333333333
+Swallowed In The Sea,Pop Champagne,swallowed,pray,0.2222222222222222
+Swallowed In The Sea,Pop Champagne,swallowed,iv,0.16666666666666666
+Swallowed In The Sea,Pop Champagne,swallowed,reign,0.2
+Swallowed In The Sea,Pop Champagne,sea,pop,0.25
+Swallowed In The Sea,Pop Champagne,sea,champagne,0.26666666666666666
+Swallowed In The Sea,Pop Champagne,sea,pray,0
+Swallowed In The Sea,Pop Champagne,sea,iv,0.15384615384615385
+Swallowed In The Sea,Pop Champagne,sea,reign,0.18181818181818182
+Swallowed In The Sea,Pop Champagne,x,pop,0.10526315789473684
+Swallowed In The Sea,Pop Champagne,x,champagne,0.2
+Swallowed In The Sea,Pop Champagne,x,pray,0
+Swallowed In The Sea,Pop Champagne,x,iv,0.75
+Swallowed In The Sea,Pop Champagne,x,reign,0.42857142857142855
+Swallowed In The Sea,Frank Sinatra,swallowed,frank,0.16666666666666666
+Swallowed In The Sea,Frank Sinatra,swallowed,sinatra,0.15384615384615385
+Swallowed In The Sea,Frank Sinatra,swallowed,fashion,0.2222222222222222
+Swallowed In The Sea,Frank Sinatra,swallowed,nugget,0.2
+Swallowed In The Sea,Frank Sinatra,sea,frank,0.3333333333333333
+Swallowed In The Sea,Frank Sinatra,sea,sinatra,0.3076923076923077
+Swallowed In The Sea,Frank Sinatra,sea,fashion,0.2
+Swallowed In The Sea,Frank Sinatra,sea,nugget,0.5454545454545454
+Swallowed In The Sea,Frank Sinatra,x,frank,0.13333333333333333
+Swallowed In The Sea,Frank Sinatra,x,sinatra,0.125
+Swallowed In The Sea,Frank Sinatra,x,fashion,0.3076923076923077
+Swallowed In The Sea,Frank Sinatra,x,nugget,0.14285714285714285
+Swallowed In The Sea,Long Line Of Cars,swallowed,long,0.3333333333333333
+Swallowed In The Sea,Long Line Of Cars,swallowed,line,0.2
+Swallowed In The Sea,Long Line Of Cars,swallowed,cars,0.13333333333333333
+Swallowed In The Sea,Long Line Of Cars,swallowed,comfort,0.2
+Swallowed In The Sea,Long Line Of Cars,swallowed,eagle,0.125
+Swallowed In The Sea,Long Line Of Cars,sea,long,0
+Swallowed In The Sea,Long Line Of Cars,sea,line,0.18181818181818182
+Swallowed In The Sea,Long Line Of Cars,sea,cars,0.25
+Swallowed In The Sea,Long Line Of Cars,sea,comfort,0.18181818181818182
+Swallowed In The Sea,Long Line Of Cars,sea,eagle,0.23529411764705882
+Swallowed In The Sea,Long Line Of Cars,x,long,0
+Swallowed In The Sea,Long Line Of Cars,x,line,0.2857142857142857
+Swallowed In The Sea,Long Line Of Cars,x,cars,0.10526315789473684
+Swallowed In The Sea,Long Line Of Cars,x,comfort,0.2857142857142857
+Swallowed In The Sea,Long Line Of Cars,x,eagle,0.1
+Swallowed In The Sea,W,swallowed,free,0.2222222222222222
+Swallowed In The Sea,W,swallowed,cloud,0.18181818181818182
+Swallowed In The Sea,W,sea,free,0.2
+Swallowed In The Sea,W,sea,cloud,0.3333333333333333
+Swallowed In The Sea,W,x,free,0.3076923076923077
+Swallowed In The Sea,W,x,cloud,0.13333333333333333
+Swallowed In The Sea,Let Me Go,swallowed,let,0.16666666666666666
+Swallowed In The Sea,Let Me Go,swallowed,go,0.15384615384615385
+Swallowed In The Sea,Let Me Go,swallowed,prolonging,0.25
+Swallowed In The Sea,Let Me Go,swallowed,magic,0.16666666666666666
+Swallowed In The Sea,Let Me Go,sea,let,0.15384615384615385
+Swallowed In The Sea,Let Me Go,sea,go,0.14285714285714285
+Swallowed In The Sea,Let Me Go,sea,prolonging,0
+Swallowed In The Sea,Let Me Go,sea,magic,0.15384615384615385
+Swallowed In The Sea,Let Me Go,x,let,0.25
+Swallowed In The Sea,Let Me Go,x,go,0.35294117647058826
+Swallowed In The Sea,Let Me Go,x,prolonging,0
+Swallowed In The Sea,Let Me Go,x,magic,0.25
+Swallowed In The Sea,Cool Blue Reason,swallowed,cool,0.18181818181818182
+Swallowed In The Sea,Cool Blue Reason,swallowed,blue,0.16666666666666666
+Swallowed In The Sea,Cool Blue Reason,swallowed,reason,0.2
+Swallowed In The Sea,Cool Blue Reason,swallowed,prolonging,0.25
+Swallowed In The Sea,Cool Blue Reason,swallowed,magic,0.16666666666666666
+Swallowed In The Sea,Cool Blue Reason,sea,cool,0.3333333333333333
+Swallowed In The Sea,Cool Blue Reason,sea,blue,0.15384615384615385
+Swallowed In The Sea,Cool Blue Reason,sea,reason,0.18181818181818182
+Swallowed In The Sea,Cool Blue Reason,sea,prolonging,0
+Swallowed In The Sea,Cool Blue Reason,sea,magic,0.15384615384615385
+Swallowed In The Sea,Cool Blue Reason,x,cool,0.4
+Swallowed In The Sea,Cool Blue Reason,x,blue,0.25
+Swallowed In The Sea,Cool Blue Reason,x,reason,0.2857142857142857
+Swallowed In The Sea,Cool Blue Reason,x,prolonging,0
+Swallowed In The Sea,Cool Blue Reason,x,magic,0.25
+Life In Technicolor,Where Would I Be?,technicolor,prolonging,0
+Life In Technicolor,Where Would I Be?,technicolor,magic,0.5
+Life In Technicolor,Where Would I Be?,life,prolonging,0
+Life In Technicolor,Where Would I Be?,life,magic,0.2857142857142857
+Life In Technicolor,Where Would I Be?,viva,prolonging,0
+Life In Technicolor,Where Would I Be?,viva,magic,0.375
+Life In Technicolor,Where Would I Be?,la,prolonging,0
+Life In Technicolor,Where Would I Be?,la,magic,0.25
+Life In Technicolor,Where Would I Be?,friends,prolonging,0
+Life In Technicolor,Where Would I Be?,friends,magic,0.15384615384615385
+Life In Technicolor,Where Would I Be?,death,prolonging,0
+Life In Technicolor,Where Would I Be?,death,magic,0.4
+Life In Technicolor,Comfort Eagle,technicolor,comfort,0.2857142857142857
+Life In Technicolor,Comfort Eagle,technicolor,eagle,0.1
+Life In Technicolor,Comfort Eagle,technicolor,comfort,0.2857142857142857
+Life In Technicolor,Comfort Eagle,technicolor,eagle,0.1
+Life In Technicolor,Comfort Eagle,life,comfort,0.6666666666666666
+Life In Technicolor,Comfort Eagle,life,eagle,0.1111111111111111
+Life In Technicolor,Comfort Eagle,life,comfort,0.6666666666666666
+Life In Technicolor,Comfort Eagle,life,eagle,0.1111111111111111
+Life In Technicolor,Comfort Eagle,viva,comfort,0.2857142857142857
+Life In Technicolor,Comfort Eagle,viva,eagle,0.1
+Life In Technicolor,Comfort Eagle,viva,comfort,0.2857142857142857
+Life In Technicolor,Comfort Eagle,viva,eagle,0.1
+Life In Technicolor,Comfort Eagle,la,comfort,0.2857142857142857
+Life In Technicolor,Comfort Eagle,la,eagle,0.21052631578947367
+Life In Technicolor,Comfort Eagle,la,comfort,0.2857142857142857
+Life In Technicolor,Comfort Eagle,la,eagle,0.21052631578947367
+Life In Technicolor,Comfort Eagle,friends,comfort,0.18181818181818182
+Life In Technicolor,Comfort Eagle,friends,eagle,0.6
+Life In Technicolor,Comfort Eagle,friends,comfort,0.18181818181818182
+Life In Technicolor,Comfort Eagle,friends,eagle,0.6
+Life In Technicolor,Comfort Eagle,death,comfort,0.3076923076923077
+Life In Technicolor,Comfort Eagle,death,eagle,0.10526315789473684
+Life In Technicolor,Comfort Eagle,death,comfort,0.3076923076923077
+Life In Technicolor,Comfort Eagle,death,eagle,0.10526315789473684
+Life In Technicolor,Never There,technicolor,never,0
+Life In Technicolor,Never There,technicolor,prolonging,0
+Life In Technicolor,Never There,technicolor,magic,0.5
+Life In Technicolor,Never There,life,never,0
+Life In Technicolor,Never There,life,prolonging,0
+Life In Technicolor,Never There,life,magic,0.2857142857142857
+Life In Technicolor,Never There,viva,never,0
+Life In Technicolor,Never There,viva,prolonging,0
+Life In Technicolor,Never There,viva,magic,0.375
+Life In Technicolor,Never There,la,never,0
+Life In Technicolor,Never There,la,prolonging,0
+Life In Technicolor,Never There,la,magic,0.25
+Life In Technicolor,Never There,friends,never,0
+Life In Technicolor,Never There,friends,prolonging,0
+Life In Technicolor,Never There,friends,magic,0.15384615384615385
+Life In Technicolor,Never There,death,never,0
+Life In Technicolor,Never There,death,prolonging,0
+Life In Technicolor,Never There,death,magic,0.4
+Life In Technicolor,Beautiful,technicolor,beautiful,0
+Life In Technicolor,Beautiful,technicolor,hotel,0.125
+Life In Technicolor,Beautiful,life,beautiful,0
+Life In Technicolor,Beautiful,life,hotel,0.14285714285714285
+Life In Technicolor,Beautiful,viva,beautiful,0
+Life In Technicolor,Beautiful,viva,hotel,0.125
+Life In Technicolor,Beautiful,la,beautiful,0
+Life In Technicolor,Beautiful,la,hotel,0.26666666666666666
+Life In Technicolor,Beautiful,friends,beautiful,0
+Life In Technicolor,Beautiful,friends,hotel,0.5
+Life In Technicolor,Beautiful,death,beautiful,0
+Life In Technicolor,Beautiful,death,hotel,0.13333333333333333
+Life In Technicolor,Carbon Monoxide,technicolor,carbon,0.26666666666666666
+Life In Technicolor,Carbon Monoxide,technicolor,monoxide,0.2222222222222222
+Life In Technicolor,Carbon Monoxide,technicolor,pressure,0.13333333333333333
+Life In Technicolor,Carbon Monoxide,technicolor,chief,0.14285714285714285
+Life In Technicolor,Carbon Monoxide,life,carbon,0.3076923076923077
+Life In Technicolor,Carbon Monoxide,life,monoxide,0.25
+Life In Technicolor,Carbon Monoxide,life,pressure,0.15384615384615385
+Life In Technicolor,Carbon Monoxide,life,chief,0.16666666666666666
+Life In Technicolor,Carbon Monoxide,viva,carbon,0.26666666666666666
+Life In Technicolor,Carbon Monoxide,viva,monoxide,0.2222222222222222
+Life In Technicolor,Carbon Monoxide,viva,pressure,0.13333333333333333
+Life In Technicolor,Carbon Monoxide,viva,chief,0.14285714285714285
+Life In Technicolor,Carbon Monoxide,la,carbon,0.8
+Life In Technicolor,Carbon Monoxide,la,monoxide,0.4444444444444444
+Life In Technicolor,Carbon Monoxide,la,pressure,0.2857142857142857
+Life In Technicolor,Carbon Monoxide,la,chief,0.3076923076923077
+Life In Technicolor,Carbon Monoxide,friends,carbon,0.36363636363636365
+Life In Technicolor,Carbon Monoxide,friends,monoxide,0.2857142857142857
+Life In Technicolor,Carbon Monoxide,friends,pressure,0.3333333333333333
+Life In Technicolor,Carbon Monoxide,friends,chief,0.7058823529411765
+Life In Technicolor,Carbon Monoxide,death,carbon,0.2857142857142857
+Life In Technicolor,Carbon Monoxide,death,monoxide,0.23529411764705882
+Life In Technicolor,Carbon Monoxide,death,pressure,0.14285714285714285
+Life In Technicolor,Carbon Monoxide,death,chief,0.15384615384615385
+Life In Technicolor,Guitar,technicolor,guitar,0.1111111111111111
+Life In Technicolor,Guitar,technicolor,prolonging,0
+Life In Technicolor,Guitar,technicolor,magic,0.5
+Life In Technicolor,Guitar,life,guitar,0.125
+Life In Technicolor,Guitar,life,prolonging,0
+Life In Technicolor,Guitar,life,magic,0.2857142857142857
+Life In Technicolor,Guitar,viva,guitar,0.1111111111111111
+Life In Technicolor,Guitar,viva,prolonging,0
+Life In Technicolor,Guitar,viva,magic,0.375
+Life In Technicolor,Guitar,la,guitar,0.23529411764705882
+Life In Technicolor,Guitar,la,prolonging,0
+Life In Technicolor,Guitar,la,magic,0.25
+Life In Technicolor,Guitar,friends,guitar,0.4444444444444444
+Life In Technicolor,Guitar,friends,prolonging,0
+Life In Technicolor,Guitar,friends,magic,0.15384615384615385
+Life In Technicolor,Guitar,death,guitar,0.11764705882352941
+Life In Technicolor,Guitar,death,prolonging,0
+Life In Technicolor,Guitar,death,magic,0.4
+Life In Technicolor,Opera Singer,technicolor,opera,0.26666666666666666
+Life In Technicolor,Opera Singer,technicolor,singer,0.125
+Life In Technicolor,Opera Singer,technicolor,comfort,0.2857142857142857
+Life In Technicolor,Opera Singer,technicolor,eagle,0.1
+Life In Technicolor,Opera Singer,life,opera,0.3076923076923077
+Life In Technicolor,Opera Singer,life,singer,0.14285714285714285
+Life In Technicolor,Opera Singer,life,comfort,0.6666666666666666
+Life In Technicolor,Opera Singer,life,eagle,0.1111111111111111
+Life In Technicolor,Opera Singer,viva,opera,0.26666666666666666
+Life In Technicolor,Opera Singer,viva,singer,0.125
+Life In Technicolor,Opera Singer,viva,comfort,0.2857142857142857
+Life In Technicolor,Opera Singer,viva,eagle,0.1
+Life In Technicolor,Opera Singer,la,opera,0.26666666666666666
+Life In Technicolor,Opera Singer,la,singer,0.26666666666666666
+Life In Technicolor,Opera Singer,la,comfort,0.2857142857142857
+Life In Technicolor,Opera Singer,la,eagle,0.21052631578947367
+Life In Technicolor,Opera Singer,friends,opera,0.16666666666666666
+Life In Technicolor,Opera Singer,friends,singer,0.631578947368421
+Life In Technicolor,Opera Singer,friends,comfort,0.18181818181818182
+Life In Technicolor,Opera Singer,friends,eagle,0.6
+Life In Technicolor,Opera Singer,death,opera,0.2857142857142857
+Life In Technicolor,Opera Singer,death,singer,0.13333333333333333
+Life In Technicolor,Opera Singer,death,comfort,0.3076923076923077
+Life In Technicolor,Opera Singer,death,eagle,0.10526315789473684
+Life In Technicolor,Waiting,technicolor,waiting,0.4
+Life In Technicolor,Waiting,technicolor,pressure,0.13333333333333333
+Life In Technicolor,Waiting,technicolor,chief,0.14285714285714285
+Life In Technicolor,Waiting,life,waiting,0.3076923076923077
+Life In Technicolor,Waiting,life,pressure,0.15384615384615385
+Life In Technicolor,Waiting,life,chief,0.16666666666666666
+Life In Technicolor,Waiting,viva,waiting,0.6666666666666666
+Life In Technicolor,Waiting,viva,pressure,0.13333333333333333
+Life In Technicolor,Waiting,viva,chief,0.14285714285714285
+Life In Technicolor,Waiting,la,waiting,0.26666666666666666
+Life In Technicolor,Waiting,la,pressure,0.2857142857142857
+Life In Technicolor,Waiting,la,chief,0.3076923076923077
+Life In Technicolor,Waiting,friends,waiting,0.16666666666666666
+Life In Technicolor,Waiting,friends,pressure,0.3333333333333333
+Life In Technicolor,Waiting,friends,chief,0.7058823529411765
+Life In Technicolor,Waiting,death,waiting,0.5714285714285714
+Life In Technicolor,Waiting,death,pressure,0.14285714285714285
+Life In Technicolor,Waiting,death,chief,0.15384615384615385
+Life In Technicolor,Alpha Beta Parking Lot,technicolor,alpha,0.23529411764705882
+Life In Technicolor,Alpha Beta Parking Lot,technicolor,beta,0.23529411764705882
+Life In Technicolor,Alpha Beta Parking Lot,technicolor,parking,0.2857142857142857
+Life In Technicolor,Alpha Beta Parking Lot,technicolor,lot,0.2857142857142857
+Life In Technicolor,Alpha Beta Parking Lot,technicolor,prolonging,0
+Life In Technicolor,Alpha Beta Parking Lot,technicolor,magic,0.5
+Life In Technicolor,Alpha Beta Parking Lot,life,alpha,0.26666666666666666
+Life In Technicolor,Alpha Beta Parking Lot,life,beta,0.26666666666666666
+Life In Technicolor,Alpha Beta Parking Lot,life,parking,0.3333333333333333
+Life In Technicolor,Alpha Beta Parking Lot,life,lot,0.3333333333333333
+Life In Technicolor,Alpha Beta Parking Lot,life,prolonging,0
+Life In Technicolor,Alpha Beta Parking Lot,life,magic,0.2857142857142857
+Life In Technicolor,Alpha Beta Parking Lot,viva,alpha,0.23529411764705882
+Life In Technicolor,Alpha Beta Parking Lot,viva,beta,0.23529411764705882
+Life In Technicolor,Alpha Beta Parking Lot,viva,parking,0.2857142857142857
+Life In Technicolor,Alpha Beta Parking Lot,viva,lot,0.2857142857142857
+Life In Technicolor,Alpha Beta Parking Lot,viva,prolonging,0
+Life In Technicolor,Alpha Beta Parking Lot,viva,magic,0.375
+Life In Technicolor,Alpha Beta Parking Lot,la,alpha,0.23529411764705882
+Life In Technicolor,Alpha Beta Parking Lot,la,beta,0.23529411764705882
+Life In Technicolor,Alpha Beta Parking Lot,la,parking,0.42857142857142855
+Life In Technicolor,Alpha Beta Parking Lot,la,lot,0.2857142857142857
+Life In Technicolor,Alpha Beta Parking Lot,la,prolonging,0
+Life In Technicolor,Alpha Beta Parking Lot,la,magic,0.25
+Life In Technicolor,Alpha Beta Parking Lot,friends,alpha,0.14285714285714285
+Life In Technicolor,Alpha Beta Parking Lot,friends,beta,0.14285714285714285
+Life In Technicolor,Alpha Beta Parking Lot,friends,parking,0.18181818181818182
+Life In Technicolor,Alpha Beta Parking Lot,friends,lot,0.18181818181818182
+Life In Technicolor,Alpha Beta Parking Lot,friends,prolonging,0
+Life In Technicolor,Alpha Beta Parking Lot,friends,magic,0.15384615384615385
+Life In Technicolor,Alpha Beta Parking Lot,death,alpha,0.25
+Life In Technicolor,Alpha Beta Parking Lot,death,beta,0.25
+Life In Technicolor,Alpha Beta Parking Lot,death,parking,0.3076923076923077
+Life In Technicolor,Alpha Beta Parking Lot,death,lot,0.3076923076923077
+Life In Technicolor,Alpha Beta Parking Lot,death,prolonging,0
+Life In Technicolor,Alpha Beta Parking Lot,death,magic,0.4
+Life In Technicolor,No Phone,technicolor,phone,0.11764705882352941
+Life In Technicolor,No Phone,technicolor,pressure,0.13333333333333333
+Life In Technicolor,No Phone,technicolor,chief,0.14285714285714285
+Life In Technicolor,No Phone,life,phone,0.13333333333333333
+Life In Technicolor,No Phone,life,pressure,0.15384615384615385
+Life In Technicolor,No Phone,life,chief,0.16666666666666666
+Life In Technicolor,No Phone,viva,phone,0.11764705882352941
+Life In Technicolor,No Phone,viva,pressure,0.13333333333333333
+Life In Technicolor,No Phone,viva,chief,0.14285714285714285
+Life In Technicolor,No Phone,la,phone,0.25
+Life In Technicolor,No Phone,la,pressure,0.2857142857142857
+Life In Technicolor,No Phone,la,chief,0.3076923076923077
+Life In Technicolor,No Phone,friends,phone,0.47058823529411764
+Life In Technicolor,No Phone,friends,pressure,0.3333333333333333
+Life In Technicolor,No Phone,friends,chief,0.7058823529411765
+Life In Technicolor,No Phone,death,phone,0.125
+Life In Technicolor,No Phone,death,pressure,0.14285714285714285
+Life In Technicolor,No Phone,death,chief,0.15384615384615385
+Life In Technicolor,Commissioning A Symphony In C,technicolor,symphony,0.25
+Life In Technicolor,Commissioning A Symphony In C,technicolor,commissioning,0.35294117647058826
+Life In Technicolor,Commissioning A Symphony In C,technicolor,c,0.25
+Life In Technicolor,Commissioning A Symphony In C,technicolor,comfort,0.2857142857142857
+Life In Technicolor,Commissioning A Symphony In C,technicolor,eagle,0.1
+Life In Technicolor,Commissioning A Symphony In C,life,symphony,0.2857142857142857
+Life In Technicolor,Commissioning A Symphony In C,life,commissioning,0.26666666666666666
+Life In Technicolor,Commissioning A Symphony In C,life,c,0.2857142857142857
+Life In Technicolor,Commissioning A Symphony In C,life,comfort,0.6666666666666666
+Life In Technicolor,Commissioning A Symphony In C,life,eagle,0.1111111111111111
+Life In Technicolor,Commissioning A Symphony In C,viva,symphony,0.25
+Life In Technicolor,Commissioning A Symphony In C,viva,commissioning,0.5555555555555556
+Life In Technicolor,Commissioning A Symphony In C,viva,c,0.25
+Life In Technicolor,Commissioning A Symphony In C,viva,comfort,0.2857142857142857
+Life In Technicolor,Commissioning A Symphony In C,viva,eagle,0.1
+Life In Technicolor,Commissioning A Symphony In C,la,symphony,0.25
+Life In Technicolor,Commissioning A Symphony In C,la,commissioning,0.23529411764705882
+Life In Technicolor,Commissioning A Symphony In C,la,c,0.25
+Life In Technicolor,Commissioning A Symphony In C,la,comfort,0.2857142857142857
+Life In Technicolor,Commissioning A Symphony In C,la,eagle,0.21052631578947367
+Life In Technicolor,Commissioning A Symphony In C,friends,symphony,0.15384615384615385
+Life In Technicolor,Commissioning A Symphony In C,friends,commissioning,0.14285714285714285
+Life In Technicolor,Commissioning A Symphony In C,friends,c,0.15384615384615385
+Life In Technicolor,Commissioning A Symphony In C,friends,comfort,0.18181818181818182
+Life In Technicolor,Commissioning A Symphony In C,friends,eagle,0.6
+Life In Technicolor,Commissioning A Symphony In C,death,symphony,0.26666666666666666
+Life In Technicolor,Commissioning A Symphony In C,death,commissioning,0.5
+Life In Technicolor,Commissioning A Symphony In C,death,c,0.26666666666666666
+Life In Technicolor,Commissioning A Symphony In C,death,comfort,0.3076923076923077
+Life In Technicolor,Commissioning A Symphony In C,death,eagle,0.10526315789473684
+Life In Technicolor,Mexico,technicolor,mexico,0.1111111111111111
+Life In Technicolor,Mexico,technicolor,prolonging,0
+Life In Technicolor,Mexico,technicolor,magic,0.5
+Life In Technicolor,Mexico,life,mexico,0.125
+Life In Technicolor,Mexico,life,prolonging,0
+Life In Technicolor,Mexico,life,magic,0.2857142857142857
+Life In Technicolor,Mexico,viva,mexico,0.1111111111111111
+Life In Technicolor,Mexico,viva,prolonging,0
+Life In Technicolor,Mexico,viva,magic,0.375
+Life In Technicolor,Mexico,la,mexico,0.23529411764705882
+Life In Technicolor,Mexico,la,prolonging,0
+Life In Technicolor,Mexico,la,magic,0.25
+Life In Technicolor,Mexico,friends,mexico,0.35294117647058826
+Life In Technicolor,Mexico,friends,prolonging,0
+Life In Technicolor,Mexico,friends,magic,0.15384615384615385
+Life In Technicolor,Mexico,death,mexico,0.11764705882352941
+Life In Technicolor,Mexico,death,prolonging,0
+Life In Technicolor,Mexico,death,magic,0.4
+Life In Technicolor,Mahna_ Mahna,technicolor,sides,0.14285714285714285
+Life In Technicolor,Mahna_ Mahna,technicolor,rarities,0.23529411764705882
+Life In Technicolor,Mahna_ Mahna,technicolor,b,0.1111111111111111
+Life In Technicolor,Mahna_ Mahna,life,sides,0.16666666666666666
+Life In Technicolor,Mahna_ Mahna,life,rarities,0.4
+Life In Technicolor,Mahna_ Mahna,life,b,0.125
+Life In Technicolor,Mahna_ Mahna,viva,sides,0.14285714285714285
+Life In Technicolor,Mahna_ Mahna,viva,rarities,0.23529411764705882
+Life In Technicolor,Mahna_ Mahna,viva,b,0.1111111111111111
+Life In Technicolor,Mahna_ Mahna,la,sides,0.3076923076923077
+Life In Technicolor,Mahna_ Mahna,la,rarities,0.23529411764705882
+Life In Technicolor,Mahna_ Mahna,la,b,0.23529411764705882
+Life In Technicolor,Mahna_ Mahna,friends,sides,0.46153846153846156
+Life In Technicolor,Mahna_ Mahna,friends,rarities,0.14285714285714285
+Life In Technicolor,Mahna_ Mahna,friends,b,0.6666666666666666
+Life In Technicolor,Mahna_ Mahna,death,sides,0.15384615384615385
+Life In Technicolor,Mahna_ Mahna,death,rarities,0.25
+Life In Technicolor,Mahna_ Mahna,death,b,0.11764705882352941
+Life In Technicolor,Hey Mama,technicolor,mama,0.10526315789473684
+Life In Technicolor,Hey Mama,life,mama,0.11764705882352941
+Life In Technicolor,Hey Mama,viva,mama,0.10526315789473684
+Life In Technicolor,Hey Mama,la,mama,0.2222222222222222
+Life In Technicolor,Hey Mama,friends,mama,0.5454545454545454
+Life In Technicolor,Hey Mama,death,mama,0.1111111111111111
+Life In Technicolor,Pretty Pink Ribbon,technicolor,pretty,0
+Life In Technicolor,Pretty Pink Ribbon,technicolor,pink,0.25
+Life In Technicolor,Pretty Pink Ribbon,technicolor,ribbon,0.16666666666666666
+Life In Technicolor,Pretty Pink Ribbon,technicolor,comfort,0.2857142857142857
+Life In Technicolor,Pretty Pink Ribbon,technicolor,eagle,0.1
+Life In Technicolor,Pretty Pink Ribbon,life,pretty,0
+Life In Technicolor,Pretty Pink Ribbon,life,pink,0.42857142857142855
+Life In Technicolor,Pretty Pink Ribbon,life,ribbon,0.2
+Life In Technicolor,Pretty Pink Ribbon,life,comfort,0.6666666666666666
+Life In Technicolor,Pretty Pink Ribbon,life,eagle,0.1111111111111111
+Life In Technicolor,Pretty Pink Ribbon,viva,pretty,0
+Life In Technicolor,Pretty Pink Ribbon,viva,pink,0.25
+Life In Technicolor,Pretty Pink Ribbon,viva,ribbon,0.16666666666666666
+Life In Technicolor,Pretty Pink Ribbon,viva,comfort,0.2857142857142857
+Life In Technicolor,Pretty Pink Ribbon,viva,eagle,0.1
+Life In Technicolor,Pretty Pink Ribbon,la,pretty,0
+Life In Technicolor,Pretty Pink Ribbon,la,pink,0.25
+Life In Technicolor,Pretty Pink Ribbon,la,ribbon,0.36363636363636365
+Life In Technicolor,Pretty Pink Ribbon,la,comfort,0.2857142857142857
+Life In Technicolor,Pretty Pink Ribbon,la,eagle,0.21052631578947367
+Life In Technicolor,Pretty Pink Ribbon,friends,pretty,0
+Life In Technicolor,Pretty Pink Ribbon,friends,pink,0.15384615384615385
+Life In Technicolor,Pretty Pink Ribbon,friends,ribbon,0.5454545454545454
+Life In Technicolor,Pretty Pink Ribbon,friends,comfort,0.18181818181818182
+Life In Technicolor,Pretty Pink Ribbon,friends,eagle,0.6
+Life In Technicolor,Pretty Pink Ribbon,death,pretty,0
+Life In Technicolor,Pretty Pink Ribbon,death,pink,0.26666666666666666
+Life In Technicolor,Pretty Pink Ribbon,death,ribbon,0.18181818181818182
+Life In Technicolor,Pretty Pink Ribbon,death,comfort,0.3076923076923077
+Life In Technicolor,Pretty Pink Ribbon,death,eagle,0.10526315789473684
+Life In Technicolor,Pop Champagne,technicolor,pop,0.10526315789473684
+Life In Technicolor,Pop Champagne,technicolor,champagne,0.2
+Life In Technicolor,Pop Champagne,technicolor,pray,0
+Life In Technicolor,Pop Champagne,technicolor,iv,0.25
+Life In Technicolor,Pop Champagne,technicolor,reign,0.2857142857142857
+Life In Technicolor,Pop Champagne,life,pop,0.11764705882352941
+Life In Technicolor,Pop Champagne,life,champagne,0.2222222222222222
+Life In Technicolor,Pop Champagne,life,pray,0
+Life In Technicolor,Pop Champagne,life,iv,0.2857142857142857
+Life In Technicolor,Pop Champagne,life,reign,0.3333333333333333
+Life In Technicolor,Pop Champagne,viva,pop,0.10526315789473684
+Life In Technicolor,Pop Champagne,viva,champagne,0.2
+Life In Technicolor,Pop Champagne,viva,pray,0
+Life In Technicolor,Pop Champagne,viva,iv,0.25
+Life In Technicolor,Pop Champagne,viva,reign,0.2857142857142857
+Life In Technicolor,Pop Champagne,la,pop,0.2222222222222222
+Life In Technicolor,Pop Champagne,la,champagne,0.4
+Life In Technicolor,Pop Champagne,la,pray,0
+Life In Technicolor,Pop Champagne,la,iv,0.25
+Life In Technicolor,Pop Champagne,la,reign,0.2857142857142857
+Life In Technicolor,Pop Champagne,friends,pop,0.5454545454545454
+Life In Technicolor,Pop Champagne,friends,champagne,0.4
+Life In Technicolor,Pop Champagne,friends,pray,0
+Life In Technicolor,Pop Champagne,friends,iv,0.15384615384615385
+Life In Technicolor,Pop Champagne,friends,reign,0.18181818181818182
+Life In Technicolor,Pop Champagne,death,pop,0.1111111111111111
+Life In Technicolor,Pop Champagne,death,champagne,0.21052631578947367
+Life In Technicolor,Pop Champagne,death,pray,0
+Life In Technicolor,Pop Champagne,death,iv,0.26666666666666666
+Life In Technicolor,Pop Champagne,death,reign,0.3076923076923077
+Life In Technicolor,Frank Sinatra,technicolor,frank,0.13333333333333333
+Life In Technicolor,Frank Sinatra,technicolor,sinatra,0.125
+Life In Technicolor,Frank Sinatra,technicolor,fashion,0.3076923076923077
+Life In Technicolor,Frank Sinatra,technicolor,nugget,0.14285714285714285
+Life In Technicolor,Frank Sinatra,life,frank,0.15384615384615385
+Life In Technicolor,Frank Sinatra,life,sinatra,0.14285714285714285
+Life In Technicolor,Frank Sinatra,life,fashion,0.5454545454545454
+Life In Technicolor,Frank Sinatra,life,nugget,0.16666666666666666
+Life In Technicolor,Frank Sinatra,viva,frank,0.13333333333333333
+Life In Technicolor,Frank Sinatra,viva,sinatra,0.125
+Life In Technicolor,Frank Sinatra,viva,fashion,0.3076923076923077
+Life In Technicolor,Frank Sinatra,viva,nugget,0.14285714285714285
+Life In Technicolor,Frank Sinatra,la,frank,0.2857142857142857
+Life In Technicolor,Frank Sinatra,la,sinatra,0.26666666666666666
+Life In Technicolor,Frank Sinatra,la,fashion,0.3076923076923077
+Life In Technicolor,Frank Sinatra,la,nugget,0.3076923076923077
+Life In Technicolor,Frank Sinatra,friends,frank,0.6666666666666666
+Life In Technicolor,Frank Sinatra,friends,sinatra,0.631578947368421
+Life In Technicolor,Frank Sinatra,friends,fashion,0.2
+Life In Technicolor,Frank Sinatra,friends,nugget,0.36363636363636365
+Life In Technicolor,Frank Sinatra,death,frank,0.14285714285714285
+Life In Technicolor,Frank Sinatra,death,sinatra,0.13333333333333333
+Life In Technicolor,Frank Sinatra,death,fashion,0.3333333333333333
+Life In Technicolor,Frank Sinatra,death,nugget,0.15384615384615385
+Life In Technicolor,Long Line Of Cars,technicolor,long,0
+Life In Technicolor,Long Line Of Cars,technicolor,line,0.2857142857142857
+Life In Technicolor,Long Line Of Cars,technicolor,cars,0.10526315789473684
+Life In Technicolor,Long Line Of Cars,technicolor,comfort,0.2857142857142857
+Life In Technicolor,Long Line Of Cars,technicolor,eagle,0.1
+Life In Technicolor,Long Line Of Cars,life,long,0
+Life In Technicolor,Long Line Of Cars,life,line,0.3333333333333333
+Life In Technicolor,Long Line Of Cars,life,cars,0.11764705882352941
+Life In Technicolor,Long Line Of Cars,life,comfort,0.6666666666666666
+Life In Technicolor,Long Line Of Cars,life,eagle,0.1111111111111111
+Life In Technicolor,Long Line Of Cars,viva,long,0
+Life In Technicolor,Long Line Of Cars,viva,line,0.2857142857142857
+Life In Technicolor,Long Line Of Cars,viva,cars,0.10526315789473684
+Life In Technicolor,Long Line Of Cars,viva,comfort,0.2857142857142857
+Life In Technicolor,Long Line Of Cars,viva,eagle,0.1
+Life In Technicolor,Long Line Of Cars,la,long,0
+Life In Technicolor,Long Line Of Cars,la,line,0.2857142857142857
+Life In Technicolor,Long Line Of Cars,la,cars,0.2222222222222222
+Life In Technicolor,Long Line Of Cars,la,comfort,0.2857142857142857
+Life In Technicolor,Long Line Of Cars,la,eagle,0.21052631578947367
+Life In Technicolor,Long Line Of Cars,friends,long,0
+Life In Technicolor,Long Line Of Cars,friends,line,0.18181818181818182
+Life In Technicolor,Long Line Of Cars,friends,cars,0.42105263157894735
+Life In Technicolor,Long Line Of Cars,friends,comfort,0.18181818181818182
+Life In Technicolor,Long Line Of Cars,friends,eagle,0.6
+Life In Technicolor,Long Line Of Cars,death,long,0
+Life In Technicolor,Long Line Of Cars,death,line,0.3076923076923077
+Life In Technicolor,Long Line Of Cars,death,cars,0.1111111111111111
+Life In Technicolor,Long Line Of Cars,death,comfort,0.3076923076923077
+Life In Technicolor,Long Line Of Cars,death,eagle,0.10526315789473684
+Life In Technicolor,W,technicolor,free,0.3076923076923077
+Life In Technicolor,W,technicolor,cloud,0.13333333333333333
+Life In Technicolor,W,life,free,0.36363636363636365
+Life In Technicolor,W,life,cloud,0.15384615384615385
+Life In Technicolor,W,viva,free,0.3076923076923077
+Life In Technicolor,W,viva,cloud,0.13333333333333333
+Life In Technicolor,W,la,free,0.3076923076923077
+Life In Technicolor,W,la,cloud,0.2857142857142857
+Life In Technicolor,W,friends,free,0.2
+Life In Technicolor,W,friends,cloud,0.3333333333333333
+Life In Technicolor,W,death,free,0.3333333333333333
+Life In Technicolor,W,death,cloud,0.14285714285714285
+Life In Technicolor,Let Me Go,technicolor,let,0.25
+Life In Technicolor,Let Me Go,technicolor,go,0.23529411764705882
+Life In Technicolor,Let Me Go,technicolor,prolonging,0
+Life In Technicolor,Let Me Go,technicolor,magic,0.5
+Life In Technicolor,Let Me Go,life,let,0.2857142857142857
+Life In Technicolor,Let Me Go,life,go,0.26666666666666666
+Life In Technicolor,Let Me Go,life,prolonging,0
+Life In Technicolor,Let Me Go,life,magic,0.2857142857142857
+Life In Technicolor,Let Me Go,viva,let,0.25
+Life In Technicolor,Let Me Go,viva,go,0.23529411764705882
+Life In Technicolor,Let Me Go,viva,prolonging,0
+Life In Technicolor,Let Me Go,viva,magic,0.375
+Life In Technicolor,Let Me Go,la,let,0.25
+Life In Technicolor,Let Me Go,la,go,0.23529411764705882
+Life In Technicolor,Let Me Go,la,prolonging,0
+Life In Technicolor,Let Me Go,la,magic,0.25
+Life In Technicolor,Let Me Go,friends,let,0.15384615384615385
+Life In Technicolor,Let Me Go,friends,go,0.14285714285714285
+Life In Technicolor,Let Me Go,friends,prolonging,0
+Life In Technicolor,Let Me Go,friends,magic,0.15384615384615385
+Life In Technicolor,Let Me Go,death,let,0.26666666666666666
+Life In Technicolor,Let Me Go,death,go,0.25
+Life In Technicolor,Let Me Go,death,prolonging,0
+Life In Technicolor,Let Me Go,death,magic,0.4
+Life In Technicolor,Cool Blue Reason,technicolor,cool,0.26666666666666666
+Life In Technicolor,Cool Blue Reason,technicolor,blue,0.25
+Life In Technicolor,Cool Blue Reason,technicolor,reason,0.42857142857142855
+Life In Technicolor,Cool Blue Reason,technicolor,prolonging,0
+Life In Technicolor,Cool Blue Reason,technicolor,magic,0.5
+Life In Technicolor,Cool Blue Reason,life,cool,0.42857142857142855
+Life In Technicolor,Cool Blue Reason,life,blue,0.42857142857142855
+Life In Technicolor,Cool Blue Reason,life,reason,0.3333333333333333
+Life In Technicolor,Cool Blue Reason,life,prolonging,0
+Life In Technicolor,Cool Blue Reason,life,magic,0.2857142857142857
+Life In Technicolor,Cool Blue Reason,viva,cool,0.26666666666666666
+Life In Technicolor,Cool Blue Reason,viva,blue,0.25
+Life In Technicolor,Cool Blue Reason,viva,reason,0.42857142857142855
+Life In Technicolor,Cool Blue Reason,viva,prolonging,0
+Life In Technicolor,Cool Blue Reason,viva,magic,0.375
+Life In Technicolor,Cool Blue Reason,la,cool,0.26666666666666666
+Life In Technicolor,Cool Blue Reason,la,blue,0.25
+Life In Technicolor,Cool Blue Reason,la,reason,0.2857142857142857
+Life In Technicolor,Cool Blue Reason,la,prolonging,0
+Life In Technicolor,Cool Blue Reason,la,magic,0.25
+Life In Technicolor,Cool Blue Reason,friends,cool,0.5
+Life In Technicolor,Cool Blue Reason,friends,blue,0.15384615384615385
+Life In Technicolor,Cool Blue Reason,friends,reason,0.18181818181818182
+Life In Technicolor,Cool Blue Reason,friends,prolonging,0
+Life In Technicolor,Cool Blue Reason,friends,magic,0.15384615384615385
+Life In Technicolor,Cool Blue Reason,death,cool,0.2857142857142857
+Life In Technicolor,Cool Blue Reason,death,blue,0.26666666666666666
+Life In Technicolor,Cool Blue Reason,death,reason,0.46153846153846156
+Life In Technicolor,Cool Blue Reason,death,prolonging,0
+Life In Technicolor,Cool Blue Reason,death,magic,0.4
+Clocks,Where Would I Be?,clocks,prolonging,0
+Clocks,Where Would I Be?,clocks,magic,0.1
+Clocks,Where Would I Be?,rush,prolonging,0
+Clocks,Where Would I Be?,rush,magic,0.35294117647058826
+Clocks,Where Would I Be?,head,prolonging,0
+Clocks,Where Would I Be?,head,magic,0.13333333333333333
+Clocks,Where Would I Be?,blood,prolonging,0
+Clocks,Where Would I Be?,blood,magic,0.25
+Clocks,Comfort Eagle,clocks,comfort,0.1111111111111111
+Clocks,Comfort Eagle,clocks,eagle,0.5
+Clocks,Comfort Eagle,clocks,comfort,0.1111111111111111
+Clocks,Comfort Eagle,clocks,eagle,0.5
+Clocks,Comfort Eagle,rush,comfort,0.26666666666666666
+Clocks,Comfort Eagle,rush,eagle,0.09523809523809523
+Clocks,Comfort Eagle,rush,comfort,0.26666666666666666
+Clocks,Comfort Eagle,rush,eagle,0.09523809523809523
+Clocks,Comfort Eagle,head,comfort,0.15384615384615385
+Clocks,Comfort Eagle,head,eagle,0.21052631578947367
+Clocks,Comfort Eagle,head,comfort,0.15384615384615385
+Clocks,Comfort Eagle,head,eagle,0.21052631578947367
+Clocks,Comfort Eagle,blood,comfort,0.2857142857142857
+Clocks,Comfort Eagle,blood,eagle,0.21052631578947367
+Clocks,Comfort Eagle,blood,comfort,0.2857142857142857
+Clocks,Comfort Eagle,blood,eagle,0.21052631578947367
+Clocks,Never There,clocks,never,0
+Clocks,Never There,clocks,prolonging,0
+Clocks,Never There,clocks,magic,0.1
+Clocks,Never There,rush,never,0
+Clocks,Never There,rush,prolonging,0
+Clocks,Never There,rush,magic,0.35294117647058826
+Clocks,Never There,head,never,0
+Clocks,Never There,head,prolonging,0
+Clocks,Never There,head,magic,0.13333333333333333
+Clocks,Never There,blood,never,0
+Clocks,Never There,blood,prolonging,0
+Clocks,Never There,blood,magic,0.25
+Clocks,Beautiful,clocks,beautiful,0
+Clocks,Beautiful,clocks,hotel,0.4
+Clocks,Beautiful,rush,beautiful,0
+Clocks,Beautiful,rush,hotel,0.11764705882352941
+Clocks,Beautiful,head,beautiful,0
+Clocks,Beautiful,head,hotel,0.26666666666666666
+Clocks,Beautiful,blood,beautiful,0
+Clocks,Beautiful,blood,hotel,0.26666666666666666
+Clocks,Carbon Monoxide,clocks,carbon,0.2222222222222222
+Clocks,Carbon Monoxide,clocks,monoxide,0.19047619047619047
+Clocks,Carbon Monoxide,clocks,pressure,0.21052631578947367
+Clocks,Carbon Monoxide,clocks,chief,0.5714285714285714
+Clocks,Carbon Monoxide,rush,carbon,0.25
+Clocks,Carbon Monoxide,rush,monoxide,0.21052631578947367
+Clocks,Carbon Monoxide,rush,pressure,0.125
+Clocks,Carbon Monoxide,rush,chief,0.13333333333333333
+Clocks,Carbon Monoxide,head,carbon,0.3076923076923077
+Clocks,Carbon Monoxide,head,monoxide,0.25
+Clocks,Carbon Monoxide,head,pressure,0.2857142857142857
+Clocks,Carbon Monoxide,head,chief,0.3076923076923077
+Clocks,Carbon Monoxide,blood,carbon,0.5333333333333333
+Clocks,Carbon Monoxide,blood,monoxide,0.4444444444444444
+Clocks,Carbon Monoxide,blood,pressure,0.2857142857142857
+Clocks,Carbon Monoxide,blood,chief,0.3076923076923077
+Clocks,Guitar,clocks,guitar,0.36363636363636365
+Clocks,Guitar,clocks,prolonging,0
+Clocks,Guitar,clocks,magic,0.1
+Clocks,Guitar,rush,guitar,0.10526315789473684
+Clocks,Guitar,rush,prolonging,0
+Clocks,Guitar,rush,magic,0.35294117647058826
+Clocks,Guitar,head,guitar,0.23529411764705882
+Clocks,Guitar,head,prolonging,0
+Clocks,Guitar,head,magic,0.13333333333333333
+Clocks,Guitar,blood,guitar,0.23529411764705882
+Clocks,Guitar,blood,prolonging,0
+Clocks,Guitar,blood,magic,0.25
+Clocks,Opera Singer,clocks,opera,0.10526315789473684
+Clocks,Opera Singer,clocks,singer,0.5217391304347826
+Clocks,Opera Singer,clocks,comfort,0.1111111111111111
+Clocks,Opera Singer,clocks,eagle,0.5
+Clocks,Opera Singer,rush,opera,0.25
+Clocks,Opera Singer,rush,singer,0.11764705882352941
+Clocks,Opera Singer,rush,comfort,0.26666666666666666
+Clocks,Opera Singer,rush,eagle,0.09523809523809523
+Clocks,Opera Singer,head,opera,0.14285714285714285
+Clocks,Opera Singer,head,singer,0.26666666666666666
+Clocks,Opera Singer,head,comfort,0.15384615384615385
+Clocks,Opera Singer,head,eagle,0.21052631578947367
+Clocks,Opera Singer,blood,opera,0.26666666666666666
+Clocks,Opera Singer,blood,singer,0.26666666666666666
+Clocks,Opera Singer,blood,comfort,0.2857142857142857
+Clocks,Opera Singer,blood,eagle,0.21052631578947367
+Clocks,Waiting,clocks,waiting,0.10526315789473684
+Clocks,Waiting,clocks,pressure,0.21052631578947367
+Clocks,Waiting,clocks,chief,0.5714285714285714
+Clocks,Waiting,rush,waiting,0.625
+Clocks,Waiting,rush,pressure,0.125
+Clocks,Waiting,rush,chief,0.13333333333333333
+Clocks,Waiting,head,waiting,0.14285714285714285
+Clocks,Waiting,head,pressure,0.2857142857142857
+Clocks,Waiting,head,chief,0.3076923076923077
+Clocks,Waiting,blood,waiting,0.26666666666666666
+Clocks,Waiting,blood,pressure,0.2857142857142857
+Clocks,Waiting,blood,chief,0.3076923076923077
+Clocks,Alpha Beta Parking Lot,clocks,alpha,0.09523809523809523
+Clocks,Alpha Beta Parking Lot,clocks,beta,0.09523809523809523
+Clocks,Alpha Beta Parking Lot,clocks,parking,0.1111111111111111
+Clocks,Alpha Beta Parking Lot,clocks,lot,0.1111111111111111
+Clocks,Alpha Beta Parking Lot,clocks,prolonging,0
+Clocks,Alpha Beta Parking Lot,clocks,magic,0.1
+Clocks,Alpha Beta Parking Lot,rush,alpha,0.2222222222222222
+Clocks,Alpha Beta Parking Lot,rush,beta,0.2222222222222222
+Clocks,Alpha Beta Parking Lot,rush,parking,0.26666666666666666
+Clocks,Alpha Beta Parking Lot,rush,lot,0.26666666666666666
+Clocks,Alpha Beta Parking Lot,rush,prolonging,0
+Clocks,Alpha Beta Parking Lot,rush,magic,0.35294117647058826
+Clocks,Alpha Beta Parking Lot,head,alpha,0.125
+Clocks,Alpha Beta Parking Lot,head,beta,0.125
+Clocks,Alpha Beta Parking Lot,head,parking,0.15384615384615385
+Clocks,Alpha Beta Parking Lot,head,lot,0.15384615384615385
+Clocks,Alpha Beta Parking Lot,head,prolonging,0
+Clocks,Alpha Beta Parking Lot,head,magic,0.13333333333333333
+Clocks,Alpha Beta Parking Lot,blood,alpha,0.23529411764705882
+Clocks,Alpha Beta Parking Lot,blood,beta,0.23529411764705882
+Clocks,Alpha Beta Parking Lot,blood,parking,0.42857142857142855
+Clocks,Alpha Beta Parking Lot,blood,lot,0.2857142857142857
+Clocks,Alpha Beta Parking Lot,blood,prolonging,0
+Clocks,Alpha Beta Parking Lot,blood,magic,0.25
+Clocks,No Phone,clocks,phone,0.38095238095238093
+Clocks,No Phone,clocks,pressure,0.21052631578947367
+Clocks,No Phone,clocks,chief,0.5714285714285714
+Clocks,No Phone,rush,phone,0.1111111111111111
+Clocks,No Phone,rush,pressure,0.125
+Clocks,No Phone,rush,chief,0.13333333333333333
+Clocks,No Phone,head,phone,0.25
+Clocks,No Phone,head,pressure,0.2857142857142857
+Clocks,No Phone,head,chief,0.3076923076923077
+Clocks,No Phone,blood,phone,0.25
+Clocks,No Phone,blood,pressure,0.2857142857142857
+Clocks,No Phone,blood,chief,0.3076923076923077
+Clocks,Commissioning A Symphony In C,clocks,symphony,0.1
+Clocks,Commissioning A Symphony In C,clocks,commissioning,0.09523809523809523
+Clocks,Commissioning A Symphony In C,clocks,c,0.1
+Clocks,Commissioning A Symphony In C,clocks,comfort,0.1111111111111111
+Clocks,Commissioning A Symphony In C,clocks,eagle,0.5
+Clocks,Commissioning A Symphony In C,rush,symphony,0.23529411764705882
+Clocks,Commissioning A Symphony In C,rush,commissioning,0.5263157894736842
+Clocks,Commissioning A Symphony In C,rush,c,0.23529411764705882
+Clocks,Commissioning A Symphony In C,rush,comfort,0.26666666666666666
+Clocks,Commissioning A Symphony In C,rush,eagle,0.09523809523809523
+Clocks,Commissioning A Symphony In C,head,symphony,0.13333333333333333
+Clocks,Commissioning A Symphony In C,head,commissioning,0.125
+Clocks,Commissioning A Symphony In C,head,c,0.13333333333333333
+Clocks,Commissioning A Symphony In C,head,comfort,0.15384615384615385
+Clocks,Commissioning A Symphony In C,head,eagle,0.21052631578947367
+Clocks,Commissioning A Symphony In C,blood,symphony,0.25
+Clocks,Commissioning A Symphony In C,blood,commissioning,0.23529411764705882
+Clocks,Commissioning A Symphony In C,blood,c,0.25
+Clocks,Commissioning A Symphony In C,blood,comfort,0.2857142857142857
+Clocks,Commissioning A Symphony In C,blood,eagle,0.21052631578947367
+Clocks,Mexico,clocks,mexico,0.2727272727272727
+Clocks,Mexico,clocks,prolonging,0
+Clocks,Mexico,clocks,magic,0.1
+Clocks,Mexico,rush,mexico,0.10526315789473684
+Clocks,Mexico,rush,prolonging,0
+Clocks,Mexico,rush,magic,0.35294117647058826
+Clocks,Mexico,head,mexico,0.23529411764705882
+Clocks,Mexico,head,prolonging,0
+Clocks,Mexico,head,magic,0.13333333333333333
+Clocks,Mexico,blood,mexico,0.23529411764705882
+Clocks,Mexico,blood,prolonging,0
+Clocks,Mexico,blood,magic,0.25
+Clocks,Mahna_ Mahna,clocks,sides,0.3333333333333333
+Clocks,Mahna_ Mahna,clocks,rarities,0.09523809523809523
+Clocks,Mahna_ Mahna,clocks,b,0.5454545454545454
+Clocks,Mahna_ Mahna,rush,sides,0.13333333333333333
+Clocks,Mahna_ Mahna,rush,rarities,0.2222222222222222
+Clocks,Mahna_ Mahna,rush,b,0.10526315789473684
+Clocks,Mahna_ Mahna,head,sides,0.3076923076923077
+Clocks,Mahna_ Mahna,head,rarities,0.125
+Clocks,Mahna_ Mahna,head,b,0.23529411764705882
+Clocks,Mahna_ Mahna,blood,sides,0.3076923076923077
+Clocks,Mahna_ Mahna,blood,rarities,0.23529411764705882
+Clocks,Mahna_ Mahna,blood,b,0.23529411764705882
+Clocks,Hey Mama,clocks,mama,0.46153846153846156
+Clocks,Hey Mama,rush,mama,0.1
+Clocks,Hey Mama,head,mama,0.2222222222222222
+Clocks,Hey Mama,blood,mama,0.2222222222222222
+Clocks,Pretty Pink Ribbon,clocks,pretty,0
+Clocks,Pretty Pink Ribbon,clocks,pink,0.1
+Clocks,Pretty Pink Ribbon,clocks,ribbon,0.375
+Clocks,Pretty Pink Ribbon,clocks,comfort,0.1111111111111111
+Clocks,Pretty Pink Ribbon,clocks,eagle,0.5
+Clocks,Pretty Pink Ribbon,rush,pretty,0
+Clocks,Pretty Pink Ribbon,rush,pink,0.23529411764705882
+Clocks,Pretty Pink Ribbon,rush,ribbon,0.15384615384615385
+Clocks,Pretty Pink Ribbon,rush,comfort,0.26666666666666666
+Clocks,Pretty Pink Ribbon,rush,eagle,0.09523809523809523
+Clocks,Pretty Pink Ribbon,head,pretty,0
+Clocks,Pretty Pink Ribbon,head,pink,0.13333333333333333
+Clocks,Pretty Pink Ribbon,head,ribbon,0.36363636363636365
+Clocks,Pretty Pink Ribbon,head,comfort,0.15384615384615385
+Clocks,Pretty Pink Ribbon,head,eagle,0.21052631578947367
+Clocks,Pretty Pink Ribbon,blood,pretty,0
+Clocks,Pretty Pink Ribbon,blood,pink,0.25
+Clocks,Pretty Pink Ribbon,blood,ribbon,0.36363636363636365
+Clocks,Pretty Pink Ribbon,blood,comfort,0.2857142857142857
+Clocks,Pretty Pink Ribbon,blood,eagle,0.21052631578947367
+Clocks,Pop Champagne,clocks,pop,0.46153846153846156
+Clocks,Pop Champagne,clocks,champagne,0.18181818181818182
+Clocks,Pop Champagne,clocks,pray,0
+Clocks,Pop Champagne,clocks,iv,0.1
+Clocks,Pop Champagne,clocks,reign,0.1111111111111111
+Clocks,Pop Champagne,rush,pop,0.1
+Clocks,Pop Champagne,rush,champagne,0.19047619047619047
+Clocks,Pop Champagne,rush,pray,0
+Clocks,Pop Champagne,rush,iv,0.23529411764705882
+Clocks,Pop Champagne,rush,reign,0.26666666666666666
+Clocks,Pop Champagne,head,pop,0.2222222222222222
+Clocks,Pop Champagne,head,champagne,0.23529411764705882
+Clocks,Pop Champagne,head,pray,0
+Clocks,Pop Champagne,head,iv,0.13333333333333333
+Clocks,Pop Champagne,head,reign,0.15384615384615385
+Clocks,Pop Champagne,blood,pop,0.2222222222222222
+Clocks,Pop Champagne,blood,champagne,0.4
+Clocks,Pop Champagne,blood,pray,0
+Clocks,Pop Champagne,blood,iv,0.25
+Clocks,Pop Champagne,blood,reign,0.2857142857142857
+Clocks,Frank Sinatra,clocks,frank,0.5454545454545454
+Clocks,Frank Sinatra,clocks,sinatra,0.5217391304347826
+Clocks,Frank Sinatra,clocks,fashion,0.11764705882352941
+Clocks,Frank Sinatra,clocks,nugget,0.2222222222222222
+Clocks,Frank Sinatra,rush,frank,0.125
+Clocks,Frank Sinatra,rush,sinatra,0.11764705882352941
+Clocks,Frank Sinatra,rush,fashion,0.2857142857142857
+Clocks,Frank Sinatra,rush,nugget,0.13333333333333333
+Clocks,Frank Sinatra,head,frank,0.2857142857142857
+Clocks,Frank Sinatra,head,sinatra,0.26666666666666666
+Clocks,Frank Sinatra,head,fashion,0.16666666666666666
+Clocks,Frank Sinatra,head,nugget,0.6153846153846154
+Clocks,Frank Sinatra,blood,frank,0.2857142857142857
+Clocks,Frank Sinatra,blood,sinatra,0.26666666666666666
+Clocks,Frank Sinatra,blood,fashion,0.3076923076923077
+Clocks,Frank Sinatra,blood,nugget,0.3076923076923077
+Clocks,Long Line Of Cars,clocks,long,0
+Clocks,Long Line Of Cars,clocks,line,0.1111111111111111
+Clocks,Long Line Of Cars,clocks,cars,0.34782608695652173
+Clocks,Long Line Of Cars,clocks,comfort,0.1111111111111111
+Clocks,Long Line Of Cars,clocks,eagle,0.5
+Clocks,Long Line Of Cars,rush,long,0
+Clocks,Long Line Of Cars,rush,line,0.26666666666666666
+Clocks,Long Line Of Cars,rush,cars,0.1
+Clocks,Long Line Of Cars,rush,comfort,0.26666666666666666
+Clocks,Long Line Of Cars,rush,eagle,0.09523809523809523
+Clocks,Long Line Of Cars,head,long,0
+Clocks,Long Line Of Cars,head,line,0.15384615384615385
+Clocks,Long Line Of Cars,head,cars,0.2222222222222222
+Clocks,Long Line Of Cars,head,comfort,0.15384615384615385
+Clocks,Long Line Of Cars,head,eagle,0.21052631578947367
+Clocks,Long Line Of Cars,blood,long,0
+Clocks,Long Line Of Cars,blood,line,0.2857142857142857
+Clocks,Long Line Of Cars,blood,cars,0.2222222222222222
+Clocks,Long Line Of Cars,blood,comfort,0.2857142857142857
+Clocks,Long Line Of Cars,blood,eagle,0.21052631578947367
+Clocks,W,clocks,free,0.11764705882352941
+Clocks,W,clocks,cloud,0.21052631578947367
+Clocks,W,rush,free,0.2857142857142857
+Clocks,W,rush,cloud,0.125
+Clocks,W,head,free,0.16666666666666666
+Clocks,W,head,cloud,0.2857142857142857
+Clocks,W,blood,free,0.3076923076923077
+Clocks,W,blood,cloud,0.2857142857142857
+Clocks,Let Me Go,clocks,let,0.1
+Clocks,Let Me Go,clocks,go,0.09523809523809523
+Clocks,Let Me Go,clocks,prolonging,0
+Clocks,Let Me Go,clocks,magic,0.1
+Clocks,Let Me Go,rush,let,0.23529411764705882
+Clocks,Let Me Go,rush,go,0.2222222222222222
+Clocks,Let Me Go,rush,prolonging,0
+Clocks,Let Me Go,rush,magic,0.35294117647058826
+Clocks,Let Me Go,head,let,0.13333333333333333
+Clocks,Let Me Go,head,go,0.125
+Clocks,Let Me Go,head,prolonging,0
+Clocks,Let Me Go,head,magic,0.13333333333333333
+Clocks,Let Me Go,blood,let,0.25
+Clocks,Let Me Go,blood,go,0.23529411764705882
+Clocks,Let Me Go,blood,prolonging,0
+Clocks,Let Me Go,blood,magic,0.25
+Clocks,Cool Blue Reason,clocks,cool,0.21052631578947367
+Clocks,Cool Blue Reason,clocks,blue,0.1
+Clocks,Cool Blue Reason,clocks,reason,0.1111111111111111
+Clocks,Cool Blue Reason,clocks,prolonging,0
+Clocks,Cool Blue Reason,clocks,magic,0.1
+Clocks,Cool Blue Reason,rush,cool,0.25
+Clocks,Cool Blue Reason,rush,blue,0.23529411764705882
+Clocks,Cool Blue Reason,rush,reason,0.4
+Clocks,Cool Blue Reason,rush,prolonging,0
+Clocks,Cool Blue Reason,rush,magic,0.35294117647058826
+Clocks,Cool Blue Reason,head,cool,0.2857142857142857
+Clocks,Cool Blue Reason,head,blue,0.13333333333333333
+Clocks,Cool Blue Reason,head,reason,0.15384615384615385
+Clocks,Cool Blue Reason,head,prolonging,0
+Clocks,Cool Blue Reason,head,magic,0.13333333333333333
+Clocks,Cool Blue Reason,blood,cool,0.26666666666666666
+Clocks,Cool Blue Reason,blood,blue,0.25
+Clocks,Cool Blue Reason,blood,reason,0.2857142857142857
+Clocks,Cool Blue Reason,blood,prolonging,0
+Clocks,Cool Blue Reason,blood,magic,0.25
+Strawberry Swing,Where Would I Be?,strawberry,prolonging,0
+Strawberry Swing,Where Would I Be?,strawberry,magic,0.11764705882352941
+Strawberry Swing,Where Would I Be?,swing,prolonging,0
+Strawberry Swing,Where Would I Be?,swing,magic,0.2857142857142857
+Strawberry Swing,Where Would I Be?,viva,prolonging,0
+Strawberry Swing,Where Would I Be?,viva,magic,0.375
+Strawberry Swing,Where Would I Be?,la,prolonging,0
+Strawberry Swing,Where Would I Be?,la,magic,0.25
+Strawberry Swing,Where Would I Be?,march,prolonging,0
+Strawberry Swing,Where Would I Be?,march,magic,0.25
+Strawberry Swing,Where Would I Be?,edition,prolonging,0
+Strawberry Swing,Where Would I Be?,edition,magic,0.10526315789473684
+Strawberry Swing,Comfort Eagle,strawberry,comfort,0.13333333333333333
+Strawberry Swing,Comfort Eagle,strawberry,eagle,0.3333333333333333
+Strawberry Swing,Comfort Eagle,strawberry,comfort,0.13333333333333333
+Strawberry Swing,Comfort Eagle,strawberry,eagle,0.3333333333333333
+Strawberry Swing,Comfort Eagle,swing,comfort,0.6666666666666666
+Strawberry Swing,Comfort Eagle,swing,eagle,0.1111111111111111
+Strawberry Swing,Comfort Eagle,swing,comfort,0.6666666666666666
+Strawberry Swing,Comfort Eagle,swing,eagle,0.1111111111111111
+Strawberry Swing,Comfort Eagle,viva,comfort,0.2857142857142857
+Strawberry Swing,Comfort Eagle,viva,eagle,0.1
+Strawberry Swing,Comfort Eagle,viva,comfort,0.2857142857142857
+Strawberry Swing,Comfort Eagle,viva,eagle,0.1
+Strawberry Swing,Comfort Eagle,la,comfort,0.2857142857142857
+Strawberry Swing,Comfort Eagle,la,eagle,0.21052631578947367
+Strawberry Swing,Comfort Eagle,la,comfort,0.2857142857142857
+Strawberry Swing,Comfort Eagle,la,eagle,0.21052631578947367
+Strawberry Swing,Comfort Eagle,march,comfort,0.2857142857142857
+Strawberry Swing,Comfort Eagle,march,eagle,0.1
+Strawberry Swing,Comfort Eagle,march,comfort,0.2857142857142857
+Strawberry Swing,Comfort Eagle,march,eagle,0.1
+Strawberry Swing,Comfort Eagle,edition,comfort,0.11764705882352941
+Strawberry Swing,Comfort Eagle,edition,eagle,0.34782608695652173
+Strawberry Swing,Comfort Eagle,edition,comfort,0.11764705882352941
+Strawberry Swing,Comfort Eagle,edition,eagle,0.34782608695652173
+Strawberry Swing,Never There,strawberry,never,0
+Strawberry Swing,Never There,strawberry,prolonging,0
+Strawberry Swing,Never There,strawberry,magic,0.11764705882352941
+Strawberry Swing,Never There,swing,never,0
+Strawberry Swing,Never There,swing,prolonging,0
+Strawberry Swing,Never There,swing,magic,0.2857142857142857
+Strawberry Swing,Never There,viva,never,0
+Strawberry Swing,Never There,viva,prolonging,0
+Strawberry Swing,Never There,viva,magic,0.375
+Strawberry Swing,Never There,la,never,0
+Strawberry Swing,Never There,la,prolonging,0
+Strawberry Swing,Never There,la,magic,0.25
+Strawberry Swing,Never There,march,never,0
+Strawberry Swing,Never There,march,prolonging,0
+Strawberry Swing,Never There,march,magic,0.25
+Strawberry Swing,Never There,edition,never,0
+Strawberry Swing,Never There,edition,prolonging,0
+Strawberry Swing,Never There,edition,magic,0.10526315789473684
+Strawberry Swing,Beautiful,strawberry,beautiful,0
+Strawberry Swing,Beautiful,strawberry,hotel,0.4
+Strawberry Swing,Beautiful,swing,beautiful,0
+Strawberry Swing,Beautiful,swing,hotel,0.14285714285714285
+Strawberry Swing,Beautiful,viva,beautiful,0
+Strawberry Swing,Beautiful,viva,hotel,0.125
+Strawberry Swing,Beautiful,la,beautiful,0
+Strawberry Swing,Beautiful,la,hotel,0.26666666666666666
+Strawberry Swing,Beautiful,march,beautiful,0
+Strawberry Swing,Beautiful,march,hotel,0.125
+Strawberry Swing,Beautiful,edition,beautiful,0
+Strawberry Swing,Beautiful,edition,hotel,0.5263157894736842
+Strawberry Swing,Carbon Monoxide,strawberry,carbon,0.4
+Strawberry Swing,Carbon Monoxide,strawberry,monoxide,0.3333333333333333
+Strawberry Swing,Carbon Monoxide,strawberry,pressure,0.25
+Strawberry Swing,Carbon Monoxide,strawberry,chief,0.38095238095238093
+Strawberry Swing,Carbon Monoxide,swing,carbon,0.3076923076923077
+Strawberry Swing,Carbon Monoxide,swing,monoxide,0.25
+Strawberry Swing,Carbon Monoxide,swing,pressure,0.15384615384615385
+Strawberry Swing,Carbon Monoxide,swing,chief,0.16666666666666666
+Strawberry Swing,Carbon Monoxide,viva,carbon,0.26666666666666666
+Strawberry Swing,Carbon Monoxide,viva,monoxide,0.2222222222222222
+Strawberry Swing,Carbon Monoxide,viva,pressure,0.13333333333333333
+Strawberry Swing,Carbon Monoxide,viva,chief,0.14285714285714285
+Strawberry Swing,Carbon Monoxide,la,carbon,0.8
+Strawberry Swing,Carbon Monoxide,la,monoxide,0.4444444444444444
+Strawberry Swing,Carbon Monoxide,la,pressure,0.2857142857142857
+Strawberry Swing,Carbon Monoxide,la,chief,0.3076923076923077
+Strawberry Swing,Carbon Monoxide,march,carbon,0.26666666666666666
+Strawberry Swing,Carbon Monoxide,march,monoxide,0.2222222222222222
+Strawberry Swing,Carbon Monoxide,march,pressure,0.13333333333333333
+Strawberry Swing,Carbon Monoxide,march,chief,0.14285714285714285
+Strawberry Swing,Carbon Monoxide,edition,carbon,0.23529411764705882
+Strawberry Swing,Carbon Monoxide,edition,monoxide,0.2
+Strawberry Swing,Carbon Monoxide,edition,pressure,0.2222222222222222
+Strawberry Swing,Carbon Monoxide,edition,chief,0.4
+Strawberry Swing,Guitar,strawberry,guitar,0.36363636363636365
+Strawberry Swing,Guitar,strawberry,prolonging,0
+Strawberry Swing,Guitar,strawberry,magic,0.11764705882352941
+Strawberry Swing,Guitar,swing,guitar,0.125
+Strawberry Swing,Guitar,swing,prolonging,0
+Strawberry Swing,Guitar,swing,magic,0.2857142857142857
+Strawberry Swing,Guitar,viva,guitar,0.1111111111111111
+Strawberry Swing,Guitar,viva,prolonging,0
+Strawberry Swing,Guitar,viva,magic,0.375
+Strawberry Swing,Guitar,la,guitar,0.23529411764705882
+Strawberry Swing,Guitar,la,prolonging,0
+Strawberry Swing,Guitar,la,magic,0.25
+Strawberry Swing,Guitar,march,guitar,0.1111111111111111
+Strawberry Swing,Guitar,march,prolonging,0
+Strawberry Swing,Guitar,march,magic,0.25
+Strawberry Swing,Guitar,edition,guitar,0.47619047619047616
+Strawberry Swing,Guitar,edition,prolonging,0
+Strawberry Swing,Guitar,edition,magic,0.10526315789473684
+Strawberry Swing,Opera Singer,strawberry,opera,0.125
+Strawberry Swing,Opera Singer,strawberry,singer,0.34782608695652173
+Strawberry Swing,Opera Singer,strawberry,comfort,0.13333333333333333
+Strawberry Swing,Opera Singer,strawberry,eagle,0.3333333333333333
+Strawberry Swing,Opera Singer,swing,opera,0.3076923076923077
+Strawberry Swing,Opera Singer,swing,singer,0.14285714285714285
+Strawberry Swing,Opera Singer,swing,comfort,0.6666666666666666
+Strawberry Swing,Opera Singer,swing,eagle,0.1111111111111111
+Strawberry Swing,Opera Singer,viva,opera,0.26666666666666666
+Strawberry Swing,Opera Singer,viva,singer,0.125
+Strawberry Swing,Opera Singer,viva,comfort,0.2857142857142857
+Strawberry Swing,Opera Singer,viva,eagle,0.1
+Strawberry Swing,Opera Singer,la,opera,0.26666666666666666
+Strawberry Swing,Opera Singer,la,singer,0.26666666666666666
+Strawberry Swing,Opera Singer,la,comfort,0.2857142857142857
+Strawberry Swing,Opera Singer,la,eagle,0.21052631578947367
+Strawberry Swing,Opera Singer,march,opera,0.26666666666666666
+Strawberry Swing,Opera Singer,march,singer,0.125
+Strawberry Swing,Opera Singer,march,comfort,0.2857142857142857
+Strawberry Swing,Opera Singer,march,eagle,0.1
+Strawberry Swing,Opera Singer,edition,opera,0.1111111111111111
+Strawberry Swing,Opera Singer,edition,singer,0.36363636363636365
+Strawberry Swing,Opera Singer,edition,comfort,0.11764705882352941
+Strawberry Swing,Opera Singer,edition,eagle,0.34782608695652173
+Strawberry Swing,Waiting,strawberry,waiting,0.125
+Strawberry Swing,Waiting,strawberry,pressure,0.25
+Strawberry Swing,Waiting,strawberry,chief,0.38095238095238093
+Strawberry Swing,Waiting,swing,waiting,0.3076923076923077
+Strawberry Swing,Waiting,swing,pressure,0.15384615384615385
+Strawberry Swing,Waiting,swing,chief,0.16666666666666666
+Strawberry Swing,Waiting,viva,waiting,0.6666666666666666
+Strawberry Swing,Waiting,viva,pressure,0.13333333333333333
+Strawberry Swing,Waiting,viva,chief,0.14285714285714285
+Strawberry Swing,Waiting,la,waiting,0.26666666666666666
+Strawberry Swing,Waiting,la,pressure,0.2857142857142857
+Strawberry Swing,Waiting,la,chief,0.3076923076923077
+Strawberry Swing,Waiting,march,waiting,0.26666666666666666
+Strawberry Swing,Waiting,march,pressure,0.13333333333333333
+Strawberry Swing,Waiting,march,chief,0.14285714285714285
+Strawberry Swing,Waiting,edition,waiting,0.1111111111111111
+Strawberry Swing,Waiting,edition,pressure,0.2222222222222222
+Strawberry Swing,Waiting,edition,chief,0.4
+Strawberry Swing,Alpha Beta Parking Lot,strawberry,alpha,0.1111111111111111
+Strawberry Swing,Alpha Beta Parking Lot,strawberry,beta,0.1111111111111111
+Strawberry Swing,Alpha Beta Parking Lot,strawberry,parking,0.13333333333333333
+Strawberry Swing,Alpha Beta Parking Lot,strawberry,lot,0.13333333333333333
+Strawberry Swing,Alpha Beta Parking Lot,strawberry,prolonging,0
+Strawberry Swing,Alpha Beta Parking Lot,strawberry,magic,0.11764705882352941
+Strawberry Swing,Alpha Beta Parking Lot,swing,alpha,0.26666666666666666
+Strawberry Swing,Alpha Beta Parking Lot,swing,beta,0.26666666666666666
+Strawberry Swing,Alpha Beta Parking Lot,swing,parking,0.3333333333333333
+Strawberry Swing,Alpha Beta Parking Lot,swing,lot,0.3333333333333333
+Strawberry Swing,Alpha Beta Parking Lot,swing,prolonging,0
+Strawberry Swing,Alpha Beta Parking Lot,swing,magic,0.2857142857142857
+Strawberry Swing,Alpha Beta Parking Lot,viva,alpha,0.23529411764705882
+Strawberry Swing,Alpha Beta Parking Lot,viva,beta,0.23529411764705882
+Strawberry Swing,Alpha Beta Parking Lot,viva,parking,0.2857142857142857
+Strawberry Swing,Alpha Beta Parking Lot,viva,lot,0.2857142857142857
+Strawberry Swing,Alpha Beta Parking Lot,viva,prolonging,0
+Strawberry Swing,Alpha Beta Parking Lot,viva,magic,0.375
+Strawberry Swing,Alpha Beta Parking Lot,la,alpha,0.23529411764705882
+Strawberry Swing,Alpha Beta Parking Lot,la,beta,0.23529411764705882
+Strawberry Swing,Alpha Beta Parking Lot,la,parking,0.42857142857142855
+Strawberry Swing,Alpha Beta Parking Lot,la,lot,0.2857142857142857
+Strawberry Swing,Alpha Beta Parking Lot,la,prolonging,0
+Strawberry Swing,Alpha Beta Parking Lot,la,magic,0.25
+Strawberry Swing,Alpha Beta Parking Lot,march,alpha,0.23529411764705882
+Strawberry Swing,Alpha Beta Parking Lot,march,beta,0.23529411764705882
+Strawberry Swing,Alpha Beta Parking Lot,march,parking,0.2857142857142857
+Strawberry Swing,Alpha Beta Parking Lot,march,lot,0.42857142857142855
+Strawberry Swing,Alpha Beta Parking Lot,march,prolonging,0
+Strawberry Swing,Alpha Beta Parking Lot,march,magic,0.25
+Strawberry Swing,Alpha Beta Parking Lot,edition,alpha,0.1
+Strawberry Swing,Alpha Beta Parking Lot,edition,beta,0.1
+Strawberry Swing,Alpha Beta Parking Lot,edition,parking,0.11764705882352941
+Strawberry Swing,Alpha Beta Parking Lot,edition,lot,0.11764705882352941
+Strawberry Swing,Alpha Beta Parking Lot,edition,prolonging,0
+Strawberry Swing,Alpha Beta Parking Lot,edition,magic,0.10526315789473684
+Strawberry Swing,No Phone,strawberry,phone,0.38095238095238093
+Strawberry Swing,No Phone,strawberry,pressure,0.25
+Strawberry Swing,No Phone,strawberry,chief,0.38095238095238093
+Strawberry Swing,No Phone,swing,phone,0.13333333333333333
+Strawberry Swing,No Phone,swing,pressure,0.15384615384615385
+Strawberry Swing,No Phone,swing,chief,0.16666666666666666
+Strawberry Swing,No Phone,viva,phone,0.11764705882352941
+Strawberry Swing,No Phone,viva,pressure,0.13333333333333333
+Strawberry Swing,No Phone,viva,chief,0.14285714285714285
+Strawberry Swing,No Phone,la,phone,0.25
+Strawberry Swing,No Phone,la,pressure,0.2857142857142857
+Strawberry Swing,No Phone,la,chief,0.3076923076923077
+Strawberry Swing,No Phone,march,phone,0.11764705882352941
+Strawberry Swing,No Phone,march,pressure,0.13333333333333333
+Strawberry Swing,No Phone,march,chief,0.14285714285714285
+Strawberry Swing,No Phone,edition,phone,0.5
+Strawberry Swing,No Phone,edition,pressure,0.2222222222222222
+Strawberry Swing,No Phone,edition,chief,0.4
+Strawberry Swing,Commissioning A Symphony In C,strawberry,symphony,0.11764705882352941
+Strawberry Swing,Commissioning A Symphony In C,strawberry,commissioning,0.1111111111111111
+Strawberry Swing,Commissioning A Symphony In C,strawberry,c,0.11764705882352941
+Strawberry Swing,Commissioning A Symphony In C,strawberry,comfort,0.13333333333333333
+Strawberry Swing,Commissioning A Symphony In C,strawberry,eagle,0.3333333333333333
+Strawberry Swing,Commissioning A Symphony In C,swing,symphony,0.2857142857142857
+Strawberry Swing,Commissioning A Symphony In C,swing,commissioning,0.26666666666666666
+Strawberry Swing,Commissioning A Symphony In C,swing,c,0.2857142857142857
+Strawberry Swing,Commissioning A Symphony In C,swing,comfort,0.6666666666666666
+Strawberry Swing,Commissioning A Symphony In C,swing,eagle,0.1111111111111111
+Strawberry Swing,Commissioning A Symphony In C,viva,symphony,0.25
+Strawberry Swing,Commissioning A Symphony In C,viva,commissioning,0.5555555555555556
+Strawberry Swing,Commissioning A Symphony In C,viva,c,0.25
+Strawberry Swing,Commissioning A Symphony In C,viva,comfort,0.2857142857142857
+Strawberry Swing,Commissioning A Symphony In C,viva,eagle,0.1
+Strawberry Swing,Commissioning A Symphony In C,la,symphony,0.25
+Strawberry Swing,Commissioning A Symphony In C,la,commissioning,0.23529411764705882
+Strawberry Swing,Commissioning A Symphony In C,la,c,0.25
+Strawberry Swing,Commissioning A Symphony In C,la,comfort,0.2857142857142857
+Strawberry Swing,Commissioning A Symphony In C,la,eagle,0.21052631578947367
+Strawberry Swing,Commissioning A Symphony In C,march,symphony,0.25
+Strawberry Swing,Commissioning A Symphony In C,march,commissioning,0.23529411764705882
+Strawberry Swing,Commissioning A Symphony In C,march,c,0.375
+Strawberry Swing,Commissioning A Symphony In C,march,comfort,0.2857142857142857
+Strawberry Swing,Commissioning A Symphony In C,march,eagle,0.1
+Strawberry Swing,Commissioning A Symphony In C,edition,symphony,0.10526315789473684
+Strawberry Swing,Commissioning A Symphony In C,edition,commissioning,0.1
+Strawberry Swing,Commissioning A Symphony In C,edition,c,0.10526315789473684
+Strawberry Swing,Commissioning A Symphony In C,edition,comfort,0.11764705882352941
+Strawberry Swing,Commissioning A Symphony In C,edition,eagle,0.34782608695652173
+Strawberry Swing,Mexico,strawberry,mexico,0.2857142857142857
+Strawberry Swing,Mexico,strawberry,prolonging,0
+Strawberry Swing,Mexico,strawberry,magic,0.11764705882352941
+Strawberry Swing,Mexico,swing,mexico,0.125
+Strawberry Swing,Mexico,swing,prolonging,0
+Strawberry Swing,Mexico,swing,magic,0.2857142857142857
+Strawberry Swing,Mexico,viva,mexico,0.1111111111111111
+Strawberry Swing,Mexico,viva,prolonging,0
+Strawberry Swing,Mexico,viva,magic,0.375
+Strawberry Swing,Mexico,la,mexico,0.23529411764705882
+Strawberry Swing,Mexico,la,prolonging,0
+Strawberry Swing,Mexico,la,magic,0.25
+Strawberry Swing,Mexico,march,mexico,0.1111111111111111
+Strawberry Swing,Mexico,march,prolonging,0
+Strawberry Swing,Mexico,march,magic,0.25
+Strawberry Swing,Mexico,edition,mexico,0.2857142857142857
+Strawberry Swing,Mexico,edition,prolonging,0
+Strawberry Swing,Mexico,edition,magic,0.10526315789473684
+Strawberry Swing,Mahna_ Mahna,strawberry,sides,0.35294117647058826
+Strawberry Swing,Mahna_ Mahna,strawberry,rarities,0.1111111111111111
+Strawberry Swing,Mahna_ Mahna,strawberry,b,0.36363636363636365
+Strawberry Swing,Mahna_ Mahna,swing,sides,0.16666666666666666
+Strawberry Swing,Mahna_ Mahna,swing,rarities,0.4
+Strawberry Swing,Mahna_ Mahna,swing,b,0.125
+Strawberry Swing,Mahna_ Mahna,viva,sides,0.14285714285714285
+Strawberry Swing,Mahna_ Mahna,viva,rarities,0.23529411764705882
+Strawberry Swing,Mahna_ Mahna,viva,b,0.1111111111111111
+Strawberry Swing,Mahna_ Mahna,la,sides,0.3076923076923077
+Strawberry Swing,Mahna_ Mahna,la,rarities,0.23529411764705882
+Strawberry Swing,Mahna_ Mahna,la,b,0.23529411764705882
+Strawberry Swing,Mahna_ Mahna,march,sides,0.14285714285714285
+Strawberry Swing,Mahna_ Mahna,march,rarities,0.23529411764705882
+Strawberry Swing,Mahna_ Mahna,march,b,0.1111111111111111
+Strawberry Swing,Mahna_ Mahna,edition,sides,0.35294117647058826
+Strawberry Swing,Mahna_ Mahna,edition,rarities,0.1
+Strawberry Swing,Mahna_ Mahna,edition,b,0.38095238095238093
+Strawberry Swing,Hey Mama,strawberry,mama,0.3076923076923077
+Strawberry Swing,Hey Mama,swing,mama,0.11764705882352941
+Strawberry Swing,Hey Mama,viva,mama,0.10526315789473684
+Strawberry Swing,Hey Mama,la,mama,0.2222222222222222
+Strawberry Swing,Hey Mama,march,mama,0.10526315789473684
+Strawberry Swing,Hey Mama,edition,mama,0.32
+Strawberry Swing,Pretty Pink Ribbon,strawberry,pretty,0
+Strawberry Swing,Pretty Pink Ribbon,strawberry,pink,0.11764705882352941
+Strawberry Swing,Pretty Pink Ribbon,strawberry,ribbon,0.4
+Strawberry Swing,Pretty Pink Ribbon,strawberry,comfort,0.13333333333333333
+Strawberry Swing,Pretty Pink Ribbon,strawberry,eagle,0.3333333333333333
+Strawberry Swing,Pretty Pink Ribbon,swing,pretty,0
+Strawberry Swing,Pretty Pink Ribbon,swing,pink,0.42857142857142855
+Strawberry Swing,Pretty Pink Ribbon,swing,ribbon,0.2
+Strawberry Swing,Pretty Pink Ribbon,swing,comfort,0.6666666666666666
+Strawberry Swing,Pretty Pink Ribbon,swing,eagle,0.1111111111111111
+Strawberry Swing,Pretty Pink Ribbon,viva,pretty,0
+Strawberry Swing,Pretty Pink Ribbon,viva,pink,0.25
+Strawberry Swing,Pretty Pink Ribbon,viva,ribbon,0.16666666666666666
+Strawberry Swing,Pretty Pink Ribbon,viva,comfort,0.2857142857142857
+Strawberry Swing,Pretty Pink Ribbon,viva,eagle,0.1
+Strawberry Swing,Pretty Pink Ribbon,la,pretty,0
+Strawberry Swing,Pretty Pink Ribbon,la,pink,0.25
+Strawberry Swing,Pretty Pink Ribbon,la,ribbon,0.36363636363636365
+Strawberry Swing,Pretty Pink Ribbon,la,comfort,0.2857142857142857
+Strawberry Swing,Pretty Pink Ribbon,la,eagle,0.21052631578947367
+Strawberry Swing,Pretty Pink Ribbon,march,pretty,0
+Strawberry Swing,Pretty Pink Ribbon,march,pink,0.25
+Strawberry Swing,Pretty Pink Ribbon,march,ribbon,0.16666666666666666
+Strawberry Swing,Pretty Pink Ribbon,march,comfort,0.2857142857142857
+Strawberry Swing,Pretty Pink Ribbon,march,eagle,0.1
+Strawberry Swing,Pretty Pink Ribbon,edition,pretty,0
+Strawberry Swing,Pretty Pink Ribbon,edition,pink,0.10526315789473684
+Strawberry Swing,Pretty Pink Ribbon,edition,ribbon,0.4
+Strawberry Swing,Pretty Pink Ribbon,edition,comfort,0.11764705882352941
+Strawberry Swing,Pretty Pink Ribbon,edition,eagle,0.34782608695652173
+Strawberry Swing,Pop Champagne,strawberry,pop,0.3076923076923077
+Strawberry Swing,Pop Champagne,strawberry,champagne,0.3157894736842105
+Strawberry Swing,Pop Champagne,strawberry,pray,0
+Strawberry Swing,Pop Champagne,strawberry,iv,0.11764705882352941
+Strawberry Swing,Pop Champagne,strawberry,reign,0.13333333333333333
+Strawberry Swing,Pop Champagne,swing,pop,0.11764705882352941
+Strawberry Swing,Pop Champagne,swing,champagne,0.2222222222222222
+Strawberry Swing,Pop Champagne,swing,pray,0
+Strawberry Swing,Pop Champagne,swing,iv,0.2857142857142857
+Strawberry Swing,Pop Champagne,swing,reign,0.3333333333333333
+Strawberry Swing,Pop Champagne,viva,pop,0.10526315789473684
+Strawberry Swing,Pop Champagne,viva,champagne,0.2
+Strawberry Swing,Pop Champagne,viva,pray,0
+Strawberry Swing,Pop Champagne,viva,iv,0.25
+Strawberry Swing,Pop Champagne,viva,reign,0.2857142857142857
+Strawberry Swing,Pop Champagne,la,pop,0.2222222222222222
+Strawberry Swing,Pop Champagne,la,champagne,0.4
+Strawberry Swing,Pop Champagne,la,pray,0
+Strawberry Swing,Pop Champagne,la,iv,0.25
+Strawberry Swing,Pop Champagne,la,reign,0.2857142857142857
+Strawberry Swing,Pop Champagne,march,pop,0.10526315789473684
+Strawberry Swing,Pop Champagne,march,champagne,0.2
+Strawberry Swing,Pop Champagne,march,pray,0
+Strawberry Swing,Pop Champagne,march,iv,0.375
+Strawberry Swing,Pop Champagne,march,reign,0.7142857142857143
+Strawberry Swing,Pop Champagne,edition,pop,0.32
+Strawberry Swing,Pop Champagne,edition,champagne,0.19047619047619047
+Strawberry Swing,Pop Champagne,edition,pray,0
+Strawberry Swing,Pop Champagne,edition,iv,0.10526315789473684
+Strawberry Swing,Pop Champagne,edition,reign,0.11764705882352941
+Strawberry Swing,Frank Sinatra,strawberry,frank,0.36363636363636365
+Strawberry Swing,Frank Sinatra,strawberry,sinatra,0.34782608695652173
+Strawberry Swing,Frank Sinatra,strawberry,fashion,0.14285714285714285
+Strawberry Swing,Frank Sinatra,strawberry,nugget,0.26666666666666666
+Strawberry Swing,Frank Sinatra,swing,frank,0.15384615384615385
+Strawberry Swing,Frank Sinatra,swing,sinatra,0.14285714285714285
+Strawberry Swing,Frank Sinatra,swing,fashion,0.5454545454545454
+Strawberry Swing,Frank Sinatra,swing,nugget,0.16666666666666666
+Strawberry Swing,Frank Sinatra,viva,frank,0.13333333333333333
+Strawberry Swing,Frank Sinatra,viva,sinatra,0.125
+Strawberry Swing,Frank Sinatra,viva,fashion,0.3076923076923077
+Strawberry Swing,Frank Sinatra,viva,nugget,0.14285714285714285
+Strawberry Swing,Frank Sinatra,la,frank,0.2857142857142857
+Strawberry Swing,Frank Sinatra,la,sinatra,0.26666666666666666
+Strawberry Swing,Frank Sinatra,la,fashion,0.3076923076923077
+Strawberry Swing,Frank Sinatra,la,nugget,0.3076923076923077
+Strawberry Swing,Frank Sinatra,march,frank,0.13333333333333333
+Strawberry Swing,Frank Sinatra,march,sinatra,0.125
+Strawberry Swing,Frank Sinatra,march,fashion,0.3076923076923077
+Strawberry Swing,Frank Sinatra,march,nugget,0.14285714285714285
+Strawberry Swing,Frank Sinatra,edition,frank,0.38095238095238093
+Strawberry Swing,Frank Sinatra,edition,sinatra,0.36363636363636365
+Strawberry Swing,Frank Sinatra,edition,fashion,0.125
+Strawberry Swing,Frank Sinatra,edition,nugget,0.23529411764705882
+Strawberry Swing,Long Line Of Cars,strawberry,long,0
+Strawberry Swing,Long Line Of Cars,strawberry,line,0.13333333333333333
+Strawberry Swing,Long Line Of Cars,strawberry,cars,0.34782608695652173
+Strawberry Swing,Long Line Of Cars,strawberry,comfort,0.13333333333333333
+Strawberry Swing,Long Line Of Cars,strawberry,eagle,0.3333333333333333
+Strawberry Swing,Long Line Of Cars,swing,long,0
+Strawberry Swing,Long Line Of Cars,swing,line,0.3333333333333333
+Strawberry Swing,Long Line Of Cars,swing,cars,0.11764705882352941
+Strawberry Swing,Long Line Of Cars,swing,comfort,0.6666666666666666
+Strawberry Swing,Long Line Of Cars,swing,eagle,0.1111111111111111
+Strawberry Swing,Long Line Of Cars,viva,long,0
+Strawberry Swing,Long Line Of Cars,viva,line,0.2857142857142857
+Strawberry Swing,Long Line Of Cars,viva,cars,0.10526315789473684
+Strawberry Swing,Long Line Of Cars,viva,comfort,0.2857142857142857
+Strawberry Swing,Long Line Of Cars,viva,eagle,0.1
+Strawberry Swing,Long Line Of Cars,la,long,0
+Strawberry Swing,Long Line Of Cars,la,line,0.2857142857142857
+Strawberry Swing,Long Line Of Cars,la,cars,0.2222222222222222
+Strawberry Swing,Long Line Of Cars,la,comfort,0.2857142857142857
+Strawberry Swing,Long Line Of Cars,la,eagle,0.21052631578947367
+Strawberry Swing,Long Line Of Cars,march,long,0
+Strawberry Swing,Long Line Of Cars,march,line,0.2857142857142857
+Strawberry Swing,Long Line Of Cars,march,cars,0.10526315789473684
+Strawberry Swing,Long Line Of Cars,march,comfort,0.2857142857142857
+Strawberry Swing,Long Line Of Cars,march,eagle,0.1
+Strawberry Swing,Long Line Of Cars,edition,long,0
+Strawberry Swing,Long Line Of Cars,edition,line,0.11764705882352941
+Strawberry Swing,Long Line Of Cars,edition,cars,0.45454545454545453
+Strawberry Swing,Long Line Of Cars,edition,comfort,0.11764705882352941
+Strawberry Swing,Long Line Of Cars,edition,eagle,0.34782608695652173
+Strawberry Swing,W,strawberry,free,0.14285714285714285
+Strawberry Swing,W,strawberry,cloud,0.25
+Strawberry Swing,W,swing,free,0.36363636363636365
+Strawberry Swing,W,swing,cloud,0.15384615384615385
+Strawberry Swing,W,viva,free,0.3076923076923077
+Strawberry Swing,W,viva,cloud,0.13333333333333333
+Strawberry Swing,W,la,free,0.3076923076923077
+Strawberry Swing,W,la,cloud,0.2857142857142857
+Strawberry Swing,W,march,free,0.3076923076923077
+Strawberry Swing,W,march,cloud,0.13333333333333333
+Strawberry Swing,W,edition,free,0.125
+Strawberry Swing,W,edition,cloud,0.2222222222222222
+Strawberry Swing,Let Me Go,strawberry,let,0.11764705882352941
+Strawberry Swing,Let Me Go,strawberry,go,0.1111111111111111
+Strawberry Swing,Let Me Go,strawberry,prolonging,0
+Strawberry Swing,Let Me Go,strawberry,magic,0.11764705882352941
+Strawberry Swing,Let Me Go,swing,let,0.2857142857142857
+Strawberry Swing,Let Me Go,swing,go,0.26666666666666666
+Strawberry Swing,Let Me Go,swing,prolonging,0
+Strawberry Swing,Let Me Go,swing,magic,0.2857142857142857
+Strawberry Swing,Let Me Go,viva,let,0.25
+Strawberry Swing,Let Me Go,viva,go,0.23529411764705882
+Strawberry Swing,Let Me Go,viva,prolonging,0
+Strawberry Swing,Let Me Go,viva,magic,0.375
+Strawberry Swing,Let Me Go,la,let,0.25
+Strawberry Swing,Let Me Go,la,go,0.23529411764705882
+Strawberry Swing,Let Me Go,la,prolonging,0
+Strawberry Swing,Let Me Go,la,magic,0.25
+Strawberry Swing,Let Me Go,march,let,0.25
+Strawberry Swing,Let Me Go,march,go,0.5882352941176471
+Strawberry Swing,Let Me Go,march,prolonging,0
+Strawberry Swing,Let Me Go,march,magic,0.25
+Strawberry Swing,Let Me Go,edition,let,0.10526315789473684
+Strawberry Swing,Let Me Go,edition,go,0.1
+Strawberry Swing,Let Me Go,edition,prolonging,0
+Strawberry Swing,Let Me Go,edition,magic,0.10526315789473684
+Strawberry Swing,Cool Blue Reason,strawberry,cool,0.25
+Strawberry Swing,Cool Blue Reason,strawberry,blue,0.11764705882352941
+Strawberry Swing,Cool Blue Reason,strawberry,reason,0.13333333333333333
+Strawberry Swing,Cool Blue Reason,strawberry,prolonging,0
+Strawberry Swing,Cool Blue Reason,strawberry,magic,0.11764705882352941
+Strawberry Swing,Cool Blue Reason,swing,cool,0.42857142857142855
+Strawberry Swing,Cool Blue Reason,swing,blue,0.42857142857142855
+Strawberry Swing,Cool Blue Reason,swing,reason,0.3333333333333333
+Strawberry Swing,Cool Blue Reason,swing,prolonging,0
+Strawberry Swing,Cool Blue Reason,swing,magic,0.2857142857142857
+Strawberry Swing,Cool Blue Reason,viva,cool,0.26666666666666666
+Strawberry Swing,Cool Blue Reason,viva,blue,0.25
+Strawberry Swing,Cool Blue Reason,viva,reason,0.42857142857142855
+Strawberry Swing,Cool Blue Reason,viva,prolonging,0
+Strawberry Swing,Cool Blue Reason,viva,magic,0.375
+Strawberry Swing,Cool Blue Reason,la,cool,0.26666666666666666
+Strawberry Swing,Cool Blue Reason,la,blue,0.25
+Strawberry Swing,Cool Blue Reason,la,reason,0.2857142857142857
+Strawberry Swing,Cool Blue Reason,la,prolonging,0
+Strawberry Swing,Cool Blue Reason,la,magic,0.25
+Strawberry Swing,Cool Blue Reason,march,cool,0.5333333333333333
+Strawberry Swing,Cool Blue Reason,march,blue,0.25
+Strawberry Swing,Cool Blue Reason,march,reason,0.2857142857142857
+Strawberry Swing,Cool Blue Reason,march,prolonging,0
+Strawberry Swing,Cool Blue Reason,march,magic,0.25
+Strawberry Swing,Cool Blue Reason,edition,cool,0.2222222222222222
+Strawberry Swing,Cool Blue Reason,edition,blue,0.10526315789473684
+Strawberry Swing,Cool Blue Reason,edition,reason,0.11764705882352941
+Strawberry Swing,Cool Blue Reason,edition,prolonging,0
+Strawberry Swing,Cool Blue Reason,edition,magic,0.10526315789473684
+Life In Technicolor ii,Where Would I Be?,technicolor,prolonging,0
+Life In Technicolor ii,Where Would I Be?,technicolor,magic,0.5
+Life In Technicolor ii,Where Would I Be?,ii,prolonging,0
+Life In Technicolor ii,Where Would I Be?,ii,magic,0.25
+Life In Technicolor ii,Where Would I Be?,life,prolonging,0
+Life In Technicolor ii,Where Would I Be?,life,magic,0.2857142857142857
+Life In Technicolor ii,Where Would I Be?,viva,prolonging,0
+Life In Technicolor ii,Where Would I Be?,viva,magic,0.375
+Life In Technicolor ii,Where Would I Be?,la,prolonging,0
+Life In Technicolor ii,Where Would I Be?,la,magic,0.25
+Life In Technicolor ii,Where Would I Be?,march,prolonging,0
+Life In Technicolor ii,Where Would I Be?,march,magic,0.25
+Life In Technicolor ii,Where Would I Be?,edition,prolonging,0
+Life In Technicolor ii,Where Would I Be?,edition,magic,0.10526315789473684
+Life In Technicolor ii,Comfort Eagle,technicolor,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,technicolor,eagle,0.1
+Life In Technicolor ii,Comfort Eagle,technicolor,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,technicolor,eagle,0.1
+Life In Technicolor ii,Comfort Eagle,ii,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,ii,eagle,0.1
+Life In Technicolor ii,Comfort Eagle,ii,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,ii,eagle,0.1
+Life In Technicolor ii,Comfort Eagle,life,comfort,0.6666666666666666
+Life In Technicolor ii,Comfort Eagle,life,eagle,0.1111111111111111
+Life In Technicolor ii,Comfort Eagle,life,comfort,0.6666666666666666
+Life In Technicolor ii,Comfort Eagle,life,eagle,0.1111111111111111
+Life In Technicolor ii,Comfort Eagle,viva,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,viva,eagle,0.1
+Life In Technicolor ii,Comfort Eagle,viva,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,viva,eagle,0.1
+Life In Technicolor ii,Comfort Eagle,la,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,la,eagle,0.21052631578947367
+Life In Technicolor ii,Comfort Eagle,la,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,la,eagle,0.21052631578947367
+Life In Technicolor ii,Comfort Eagle,march,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,march,eagle,0.1
+Life In Technicolor ii,Comfort Eagle,march,comfort,0.2857142857142857
+Life In Technicolor ii,Comfort Eagle,march,eagle,0.1
+Life In Technicolor ii,Comfort Eagle,edition,comfort,0.11764705882352941
+Life In Technicolor ii,Comfort Eagle,edition,eagle,0.34782608695652173
+Life In Technicolor ii,Comfort Eagle,edition,comfort,0.11764705882352941
+Life In Technicolor ii,Comfort Eagle,edition,eagle,0.34782608695652173
+Life In Technicolor ii,Never There,technicolor,never,0
+Life In Technicolor ii,Never There,technicolor,prolonging,0
+Life In Technicolor ii,Never There,technicolor,magic,0.5
+Life In Technicolor ii,Never There,ii,never,0
+Life In Technicolor ii,Never There,ii,prolonging,0
+Life In Technicolor ii,Never There,ii,magic,0.25
+Life In Technicolor ii,Never There,life,never,0
+Life In Technicolor ii,Never There,life,prolonging,0
+Life In Technicolor ii,Never There,life,magic,0.2857142857142857
+Life In Technicolor ii,Never There,viva,never,0
+Life In Technicolor ii,Never There,viva,prolonging,0
+Life In Technicolor ii,Never There,viva,magic,0.375
+Life In Technicolor ii,Never There,la,never,0
+Life In Technicolor ii,Never There,la,prolonging,0
+Life In Technicolor ii,Never There,la,magic,0.25
+Life In Technicolor ii,Never There,march,never,0
+Life In Technicolor ii,Never There,march,prolonging,0
+Life In Technicolor ii,Never There,march,magic,0.25
+Life In Technicolor ii,Never There,edition,never,0
+Life In Technicolor ii,Never There,edition,prolonging,0
+Life In Technicolor ii,Never There,edition,magic,0.10526315789473684
+Life In Technicolor ii,Beautiful,technicolor,beautiful,0
+Life In Technicolor ii,Beautiful,technicolor,hotel,0.125
+Life In Technicolor ii,Beautiful,ii,beautiful,0
+Life In Technicolor ii,Beautiful,ii,hotel,0.125
+Life In Technicolor ii,Beautiful,life,beautiful,0
+Life In Technicolor ii,Beautiful,life,hotel,0.14285714285714285
+Life In Technicolor ii,Beautiful,viva,beautiful,0
+Life In Technicolor ii,Beautiful,viva,hotel,0.125
+Life In Technicolor ii,Beautiful,la,beautiful,0
+Life In Technicolor ii,Beautiful,la,hotel,0.26666666666666666
+Life In Technicolor ii,Beautiful,march,beautiful,0
+Life In Technicolor ii,Beautiful,march,hotel,0.125
+Life In Technicolor ii,Beautiful,edition,beautiful,0
+Life In Technicolor ii,Beautiful,edition,hotel,0.5263157894736842
+Life In Technicolor ii,Carbon Monoxide,technicolor,carbon,0.26666666666666666
+Life In Technicolor ii,Carbon Monoxide,technicolor,monoxide,0.2222222222222222
+Life In Technicolor ii,Carbon Monoxide,technicolor,pressure,0.13333333333333333
+Life In Technicolor ii,Carbon Monoxide,technicolor,chief,0.14285714285714285
+Life In Technicolor ii,Carbon Monoxide,ii,carbon,0.26666666666666666
+Life In Technicolor ii,Carbon Monoxide,ii,monoxide,0.2222222222222222
+Life In Technicolor ii,Carbon Monoxide,ii,pressure,0.13333333333333333
+Life In Technicolor ii,Carbon Monoxide,ii,chief,0.14285714285714285
+Life In Technicolor ii,Carbon Monoxide,life,carbon,0.3076923076923077
+Life In Technicolor ii,Carbon Monoxide,life,monoxide,0.25
+Life In Technicolor ii,Carbon Monoxide,life,pressure,0.15384615384615385
+Life In Technicolor ii,Carbon Monoxide,life,chief,0.16666666666666666
+Life In Technicolor ii,Carbon Monoxide,viva,carbon,0.26666666666666666
+Life In Technicolor ii,Carbon Monoxide,viva,monoxide,0.2222222222222222
+Life In Technicolor ii,Carbon Monoxide,viva,pressure,0.13333333333333333
+Life In Technicolor ii,Carbon Monoxide,viva,chief,0.14285714285714285
+Life In Technicolor ii,Carbon Monoxide,la,carbon,0.8
+Life In Technicolor ii,Carbon Monoxide,la,monoxide,0.4444444444444444
+Life In Technicolor ii,Carbon Monoxide,la,pressure,0.2857142857142857
+Life In Technicolor ii,Carbon Monoxide,la,chief,0.3076923076923077
+Life In Technicolor ii,Carbon Monoxide,march,carbon,0.26666666666666666
+Life In Technicolor ii,Carbon Monoxide,march,monoxide,0.2222222222222222
+Life In Technicolor ii,Carbon Monoxide,march,pressure,0.13333333333333333
+Life In Technicolor ii,Carbon Monoxide,march,chief,0.14285714285714285
+Life In Technicolor ii,Carbon Monoxide,edition,carbon,0.23529411764705882
+Life In Technicolor ii,Carbon Monoxide,edition,monoxide,0.2
+Life In Technicolor ii,Carbon Monoxide,edition,pressure,0.2222222222222222
+Life In Technicolor ii,Carbon Monoxide,edition,chief,0.4
+Life In Technicolor ii,Guitar,technicolor,guitar,0.1111111111111111
+Life In Technicolor ii,Guitar,technicolor,prolonging,0
+Life In Technicolor ii,Guitar,technicolor,magic,0.5
+Life In Technicolor ii,Guitar,ii,guitar,0.1111111111111111
+Life In Technicolor ii,Guitar,ii,prolonging,0
+Life In Technicolor ii,Guitar,ii,magic,0.25
+Life In Technicolor ii,Guitar,life,guitar,0.125
+Life In Technicolor ii,Guitar,life,prolonging,0
+Life In Technicolor ii,Guitar,life,magic,0.2857142857142857
+Life In Technicolor ii,Guitar,viva,guitar,0.1111111111111111
+Life In Technicolor ii,Guitar,viva,prolonging,0
+Life In Technicolor ii,Guitar,viva,magic,0.375
+Life In Technicolor ii,Guitar,la,guitar,0.23529411764705882
+Life In Technicolor ii,Guitar,la,prolonging,0
+Life In Technicolor ii,Guitar,la,magic,0.25
+Life In Technicolor ii,Guitar,march,guitar,0.1111111111111111
+Life In Technicolor ii,Guitar,march,prolonging,0
+Life In Technicolor ii,Guitar,march,magic,0.25
+Life In Technicolor ii,Guitar,edition,guitar,0.47619047619047616
+Life In Technicolor ii,Guitar,edition,prolonging,0
+Life In Technicolor ii,Guitar,edition,magic,0.10526315789473684
+Life In Technicolor ii,Opera Singer,technicolor,opera,0.26666666666666666
+Life In Technicolor ii,Opera Singer,technicolor,singer,0.125
+Life In Technicolor ii,Opera Singer,technicolor,comfort,0.2857142857142857
+Life In Technicolor ii,Opera Singer,technicolor,eagle,0.1
+Life In Technicolor ii,Opera Singer,ii,opera,0.26666666666666666
+Life In Technicolor ii,Opera Singer,ii,singer,0.125
+Life In Technicolor ii,Opera Singer,ii,comfort,0.2857142857142857
+Life In Technicolor ii,Opera Singer,ii,eagle,0.1
+Life In Technicolor ii,Opera Singer,life,opera,0.3076923076923077
+Life In Technicolor ii,Opera Singer,life,singer,0.14285714285714285
+Life In Technicolor ii,Opera Singer,life,comfort,0.6666666666666666
+Life In Technicolor ii,Opera Singer,life,eagle,0.1111111111111111
+Life In Technicolor ii,Opera Singer,viva,opera,0.26666666666666666
+Life In Technicolor ii,Opera Singer,viva,singer,0.125
+Life In Technicolor ii,Opera Singer,viva,comfort,0.2857142857142857
+Life In Technicolor ii,Opera Singer,viva,eagle,0.1
+Life In Technicolor ii,Opera Singer,la,opera,0.26666666666666666
+Life In Technicolor ii,Opera Singer,la,singer,0.26666666666666666
+Life In Technicolor ii,Opera Singer,la,comfort,0.2857142857142857
+Life In Technicolor ii,Opera Singer,la,eagle,0.21052631578947367
+Life In Technicolor ii,Opera Singer,march,opera,0.26666666666666666
+Life In Technicolor ii,Opera Singer,march,singer,0.125
+Life In Technicolor ii,Opera Singer,march,comfort,0.2857142857142857
+Life In Technicolor ii,Opera Singer,march,eagle,0.1
+Life In Technicolor ii,Opera Singer,edition,opera,0.1111111111111111
+Life In Technicolor ii,Opera Singer,edition,singer,0.36363636363636365
+Life In Technicolor ii,Opera Singer,edition,comfort,0.11764705882352941
+Life In Technicolor ii,Opera Singer,edition,eagle,0.34782608695652173
+Life In Technicolor ii,Waiting,technicolor,waiting,0.4
+Life In Technicolor ii,Waiting,technicolor,pressure,0.13333333333333333
+Life In Technicolor ii,Waiting,technicolor,chief,0.14285714285714285
+Life In Technicolor ii,Waiting,ii,waiting,0.26666666666666666
+Life In Technicolor ii,Waiting,ii,pressure,0.13333333333333333
+Life In Technicolor ii,Waiting,ii,chief,0.14285714285714285
+Life In Technicolor ii,Waiting,life,waiting,0.3076923076923077
+Life In Technicolor ii,Waiting,life,pressure,0.15384615384615385
+Life In Technicolor ii,Waiting,life,chief,0.16666666666666666
+Life In Technicolor ii,Waiting,viva,waiting,0.6666666666666666
+Life In Technicolor ii,Waiting,viva,pressure,0.13333333333333333
+Life In Technicolor ii,Waiting,viva,chief,0.14285714285714285
+Life In Technicolor ii,Waiting,la,waiting,0.26666666666666666
+Life In Technicolor ii,Waiting,la,pressure,0.2857142857142857
+Life In Technicolor ii,Waiting,la,chief,0.3076923076923077
+Life In Technicolor ii,Waiting,march,waiting,0.26666666666666666
+Life In Technicolor ii,Waiting,march,pressure,0.13333333333333333
+Life In Technicolor ii,Waiting,march,chief,0.14285714285714285
+Life In Technicolor ii,Waiting,edition,waiting,0.1111111111111111
+Life In Technicolor ii,Waiting,edition,pressure,0.2222222222222222
+Life In Technicolor ii,Waiting,edition,chief,0.4
+Life In Technicolor ii,Alpha Beta Parking Lot,technicolor,alpha,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,technicolor,beta,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,technicolor,parking,0.2857142857142857
+Life In Technicolor ii,Alpha Beta Parking Lot,technicolor,lot,0.2857142857142857
+Life In Technicolor ii,Alpha Beta Parking Lot,technicolor,prolonging,0
+Life In Technicolor ii,Alpha Beta Parking Lot,technicolor,magic,0.5
+Life In Technicolor ii,Alpha Beta Parking Lot,ii,alpha,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,ii,beta,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,ii,parking,0.2857142857142857
+Life In Technicolor ii,Alpha Beta Parking Lot,ii,lot,0.42857142857142855
+Life In Technicolor ii,Alpha Beta Parking Lot,ii,prolonging,0
+Life In Technicolor ii,Alpha Beta Parking Lot,ii,magic,0.25
+Life In Technicolor ii,Alpha Beta Parking Lot,life,alpha,0.26666666666666666
+Life In Technicolor ii,Alpha Beta Parking Lot,life,beta,0.26666666666666666
+Life In Technicolor ii,Alpha Beta Parking Lot,life,parking,0.3333333333333333
+Life In Technicolor ii,Alpha Beta Parking Lot,life,lot,0.3333333333333333
+Life In Technicolor ii,Alpha Beta Parking Lot,life,prolonging,0
+Life In Technicolor ii,Alpha Beta Parking Lot,life,magic,0.2857142857142857
+Life In Technicolor ii,Alpha Beta Parking Lot,viva,alpha,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,viva,beta,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,viva,parking,0.2857142857142857
+Life In Technicolor ii,Alpha Beta Parking Lot,viva,lot,0.2857142857142857
+Life In Technicolor ii,Alpha Beta Parking Lot,viva,prolonging,0
+Life In Technicolor ii,Alpha Beta Parking Lot,viva,magic,0.375
+Life In Technicolor ii,Alpha Beta Parking Lot,la,alpha,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,la,beta,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,la,parking,0.42857142857142855
+Life In Technicolor ii,Alpha Beta Parking Lot,la,lot,0.2857142857142857
+Life In Technicolor ii,Alpha Beta Parking Lot,la,prolonging,0
+Life In Technicolor ii,Alpha Beta Parking Lot,la,magic,0.25
+Life In Technicolor ii,Alpha Beta Parking Lot,march,alpha,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,march,beta,0.23529411764705882
+Life In Technicolor ii,Alpha Beta Parking Lot,march,parking,0.2857142857142857
+Life In Technicolor ii,Alpha Beta Parking Lot,march,lot,0.42857142857142855
+Life In Technicolor ii,Alpha Beta Parking Lot,march,prolonging,0
+Life In Technicolor ii,Alpha Beta Parking Lot,march,magic,0.25
+Life In Technicolor ii,Alpha Beta Parking Lot,edition,alpha,0.1
+Life In Technicolor ii,Alpha Beta Parking Lot,edition,beta,0.1
+Life In Technicolor ii,Alpha Beta Parking Lot,edition,parking,0.11764705882352941
+Life In Technicolor ii,Alpha Beta Parking Lot,edition,lot,0.11764705882352941
+Life In Technicolor ii,Alpha Beta Parking Lot,edition,prolonging,0
+Life In Technicolor ii,Alpha Beta Parking Lot,edition,magic,0.10526315789473684
+Life In Technicolor ii,No Phone,technicolor,phone,0.11764705882352941
+Life In Technicolor ii,No Phone,technicolor,pressure,0.13333333333333333
+Life In Technicolor ii,No Phone,technicolor,chief,0.14285714285714285
+Life In Technicolor ii,No Phone,ii,phone,0.11764705882352941
+Life In Technicolor ii,No Phone,ii,pressure,0.13333333333333333
+Life In Technicolor ii,No Phone,ii,chief,0.14285714285714285
+Life In Technicolor ii,No Phone,life,phone,0.13333333333333333
+Life In Technicolor ii,No Phone,life,pressure,0.15384615384615385
+Life In Technicolor ii,No Phone,life,chief,0.16666666666666666
+Life In Technicolor ii,No Phone,viva,phone,0.11764705882352941
+Life In Technicolor ii,No Phone,viva,pressure,0.13333333333333333
+Life In Technicolor ii,No Phone,viva,chief,0.14285714285714285
+Life In Technicolor ii,No Phone,la,phone,0.25
+Life In Technicolor ii,No Phone,la,pressure,0.2857142857142857
+Life In Technicolor ii,No Phone,la,chief,0.3076923076923077
+Life In Technicolor ii,No Phone,march,phone,0.11764705882352941
+Life In Technicolor ii,No Phone,march,pressure,0.13333333333333333
+Life In Technicolor ii,No Phone,march,chief,0.14285714285714285
+Life In Technicolor ii,No Phone,edition,phone,0.5
+Life In Technicolor ii,No Phone,edition,pressure,0.2222222222222222
+Life In Technicolor ii,No Phone,edition,chief,0.4
+Life In Technicolor ii,Commissioning A Symphony In C,technicolor,symphony,0.25
+Life In Technicolor ii,Commissioning A Symphony In C,technicolor,commissioning,0.35294117647058826
+Life In Technicolor ii,Commissioning A Symphony In C,technicolor,c,0.25
+Life In Technicolor ii,Commissioning A Symphony In C,technicolor,comfort,0.2857142857142857
+Life In Technicolor ii,Commissioning A Symphony In C,technicolor,eagle,0.1
+Life In Technicolor ii,Commissioning A Symphony In C,ii,symphony,0.25
+Life In Technicolor ii,Commissioning A Symphony In C,ii,commissioning,0.23529411764705882
+Life In Technicolor ii,Commissioning A Symphony In C,ii,c,0.5
+Life In Technicolor ii,Commissioning A Symphony In C,ii,comfort,0.2857142857142857
+Life In Technicolor ii,Commissioning A Symphony In C,ii,eagle,0.1
+Life In Technicolor ii,Commissioning A Symphony In C,life,symphony,0.2857142857142857
+Life In Technicolor ii,Commissioning A Symphony In C,life,commissioning,0.26666666666666666
+Life In Technicolor ii,Commissioning A Symphony In C,life,c,0.2857142857142857
+Life In Technicolor ii,Commissioning A Symphony In C,life,comfort,0.6666666666666666
+Life In Technicolor ii,Commissioning A Symphony In C,life,eagle,0.1111111111111111
+Life In Technicolor ii,Commissioning A Symphony In C,viva,symphony,0.25
+Life In Technicolor ii,Commissioning A Symphony In C,viva,commissioning,0.5555555555555556
+Life In Technicolor ii,Commissioning A Symphony In C,viva,c,0.25
+Life In Technicolor ii,Commissioning A Symphony In C,viva,comfort,0.2857142857142857
+Life In Technicolor ii,Commissioning A Symphony In C,viva,eagle,0.1
+Life In Technicolor ii,Commissioning A Symphony In C,la,symphony,0.25
+Life In Technicolor ii,Commissioning A Symphony In C,la,commissioning,0.23529411764705882
+Life In Technicolor ii,Commissioning A Symphony In C,la,c,0.25
+Life In Technicolor ii,Commissioning A Symphony In C,la,comfort,0.2857142857142857
+Life In Technicolor ii,Commissioning A Symphony In C,la,eagle,0.21052631578947367
+Life In Technicolor ii,Commissioning A Symphony In C,march,symphony,0.25
+Life In Technicolor ii,Commissioning A Symphony In C,march,commissioning,0.23529411764705882
+Life In Technicolor ii,Commissioning A Symphony In C,march,c,0.375
+Life In Technicolor ii,Commissioning A Symphony In C,march,comfort,0.2857142857142857
+Life In Technicolor ii,Commissioning A Symphony In C,march,eagle,0.1
+Life In Technicolor ii,Commissioning A Symphony In C,edition,symphony,0.10526315789473684
+Life In Technicolor ii,Commissioning A Symphony In C,edition,commissioning,0.1
+Life In Technicolor ii,Commissioning A Symphony In C,edition,c,0.10526315789473684
+Life In Technicolor ii,Commissioning A Symphony In C,edition,comfort,0.11764705882352941
+Life In Technicolor ii,Commissioning A Symphony In C,edition,eagle,0.34782608695652173
+Life In Technicolor ii,Mexico,technicolor,mexico,0.1111111111111111
+Life In Technicolor ii,Mexico,technicolor,prolonging,0
+Life In Technicolor ii,Mexico,technicolor,magic,0.5
+Life In Technicolor ii,Mexico,ii,mexico,0.1111111111111111
+Life In Technicolor ii,Mexico,ii,prolonging,0
+Life In Technicolor ii,Mexico,ii,magic,0.25
+Life In Technicolor ii,Mexico,life,mexico,0.125
+Life In Technicolor ii,Mexico,life,prolonging,0
+Life In Technicolor ii,Mexico,life,magic,0.2857142857142857
+Life In Technicolor ii,Mexico,viva,mexico,0.1111111111111111
+Life In Technicolor ii,Mexico,viva,prolonging,0
+Life In Technicolor ii,Mexico,viva,magic,0.375
+Life In Technicolor ii,Mexico,la,mexico,0.23529411764705882
+Life In Technicolor ii,Mexico,la,prolonging,0
+Life In Technicolor ii,Mexico,la,magic,0.25
+Life In Technicolor ii,Mexico,march,mexico,0.1111111111111111
+Life In Technicolor ii,Mexico,march,prolonging,0
+Life In Technicolor ii,Mexico,march,magic,0.25
+Life In Technicolor ii,Mexico,edition,mexico,0.2857142857142857
+Life In Technicolor ii,Mexico,edition,prolonging,0
+Life In Technicolor ii,Mexico,edition,magic,0.10526315789473684
+Life In Technicolor ii,Mahna_ Mahna,technicolor,sides,0.14285714285714285
+Life In Technicolor ii,Mahna_ Mahna,technicolor,rarities,0.23529411764705882
+Life In Technicolor ii,Mahna_ Mahna,technicolor,b,0.1111111111111111
+Life In Technicolor ii,Mahna_ Mahna,ii,sides,0.14285714285714285
+Life In Technicolor ii,Mahna_ Mahna,ii,rarities,0.23529411764705882
+Life In Technicolor ii,Mahna_ Mahna,ii,b,0.1111111111111111
+Life In Technicolor ii,Mahna_ Mahna,life,sides,0.16666666666666666
+Life In Technicolor ii,Mahna_ Mahna,life,rarities,0.4
+Life In Technicolor ii,Mahna_ Mahna,life,b,0.125
+Life In Technicolor ii,Mahna_ Mahna,viva,sides,0.14285714285714285
+Life In Technicolor ii,Mahna_ Mahna,viva,rarities,0.23529411764705882
+Life In Technicolor ii,Mahna_ Mahna,viva,b,0.1111111111111111
+Life In Technicolor ii,Mahna_ Mahna,la,sides,0.3076923076923077
+Life In Technicolor ii,Mahna_ Mahna,la,rarities,0.23529411764705882
+Life In Technicolor ii,Mahna_ Mahna,la,b,0.23529411764705882
+Life In Technicolor ii,Mahna_ Mahna,march,sides,0.14285714285714285
+Life In Technicolor ii,Mahna_ Mahna,march,rarities,0.23529411764705882
+Life In Technicolor ii,Mahna_ Mahna,march,b,0.1111111111111111
+Life In Technicolor ii,Mahna_ Mahna,edition,sides,0.35294117647058826
+Life In Technicolor ii,Mahna_ Mahna,edition,rarities,0.1
+Life In Technicolor ii,Mahna_ Mahna,edition,b,0.38095238095238093
+Life In Technicolor ii,Hey Mama,technicolor,mama,0.10526315789473684
+Life In Technicolor ii,Hey Mama,ii,mama,0.10526315789473684
+Life In Technicolor ii,Hey Mama,life,mama,0.11764705882352941
+Life In Technicolor ii,Hey Mama,viva,mama,0.10526315789473684
+Life In Technicolor ii,Hey Mama,la,mama,0.2222222222222222
+Life In Technicolor ii,Hey Mama,march,mama,0.10526315789473684
+Life In Technicolor ii,Hey Mama,edition,mama,0.32
+Life In Technicolor ii,Pretty Pink Ribbon,technicolor,pretty,0
+Life In Technicolor ii,Pretty Pink Ribbon,technicolor,pink,0.25
+Life In Technicolor ii,Pretty Pink Ribbon,technicolor,ribbon,0.16666666666666666
+Life In Technicolor ii,Pretty Pink Ribbon,technicolor,comfort,0.2857142857142857
+Life In Technicolor ii,Pretty Pink Ribbon,technicolor,eagle,0.1
+Life In Technicolor ii,Pretty Pink Ribbon,ii,pretty,0
+Life In Technicolor ii,Pretty Pink Ribbon,ii,pink,0.25
+Life In Technicolor ii,Pretty Pink Ribbon,ii,ribbon,0.16666666666666666
+Life In Technicolor ii,Pretty Pink Ribbon,ii,comfort,0.2857142857142857
+Life In Technicolor ii,Pretty Pink Ribbon,ii,eagle,0.1
+Life In Technicolor ii,Pretty Pink Ribbon,life,pretty,0
+Life In Technicolor ii,Pretty Pink Ribbon,life,pink,0.42857142857142855
+Life In Technicolor ii,Pretty Pink Ribbon,life,ribbon,0.2
+Life In Technicolor ii,Pretty Pink Ribbon,life,comfort,0.6666666666666666
+Life In Technicolor ii,Pretty Pink Ribbon,life,eagle,0.1111111111111111
+Life In Technicolor ii,Pretty Pink Ribbon,viva,pretty,0
+Life In Technicolor ii,Pretty Pink Ribbon,viva,pink,0.25
+Life In Technicolor ii,Pretty Pink Ribbon,viva,ribbon,0.16666666666666666
+Life In Technicolor ii,Pretty Pink Ribbon,viva,comfort,0.2857142857142857
+Life In Technicolor ii,Pretty Pink Ribbon,viva,eagle,0.1
+Life In Technicolor ii,Pretty Pink Ribbon,la,pretty,0
+Life In Technicolor ii,Pretty Pink Ribbon,la,pink,0.25
+Life In Technicolor ii,Pretty Pink Ribbon,la,ribbon,0.36363636363636365
+Life In Technicolor ii,Pretty Pink Ribbon,la,comfort,0.2857142857142857
+Life In Technicolor ii,Pretty Pink Ribbon,la,eagle,0.21052631578947367
+Life In Technicolor ii,Pretty Pink Ribbon,march,pretty,0
+Life In Technicolor ii,Pretty Pink Ribbon,march,pink,0.25
+Life In Technicolor ii,Pretty Pink Ribbon,march,ribbon,0.16666666666666666
+Life In Technicolor ii,Pretty Pink Ribbon,march,comfort,0.2857142857142857
+Life In Technicolor ii,Pretty Pink Ribbon,march,eagle,0.1
+Life In Technicolor ii,Pretty Pink Ribbon,edition,pretty,0
+Life In Technicolor ii,Pretty Pink Ribbon,edition,pink,0.10526315789473684
+Life In Technicolor ii,Pretty Pink Ribbon,edition,ribbon,0.4
+Life In Technicolor ii,Pretty Pink Ribbon,edition,comfort,0.11764705882352941
+Life In Technicolor ii,Pretty Pink Ribbon,edition,eagle,0.34782608695652173
+Life In Technicolor ii,Pop Champagne,technicolor,pop,0.10526315789473684
+Life In Technicolor ii,Pop Champagne,technicolor,champagne,0.2
+Life In Technicolor ii,Pop Champagne,technicolor,pray,0
+Life In Technicolor ii,Pop Champagne,technicolor,iv,0.25
+Life In Technicolor ii,Pop Champagne,technicolor,reign,0.2857142857142857
+Life In Technicolor ii,Pop Champagne,ii,pop,0.10526315789473684
+Life In Technicolor ii,Pop Champagne,ii,champagne,0.2
+Life In Technicolor ii,Pop Champagne,ii,pray,0
+Life In Technicolor ii,Pop Champagne,ii,iv,0.875
+Life In Technicolor ii,Pop Champagne,ii,reign,0.42857142857142855
+Life In Technicolor ii,Pop Champagne,life,pop,0.11764705882352941
+Life In Technicolor ii,Pop Champagne,life,champagne,0.2222222222222222
+Life In Technicolor ii,Pop Champagne,life,pray,0
+Life In Technicolor ii,Pop Champagne,life,iv,0.2857142857142857
+Life In Technicolor ii,Pop Champagne,life,reign,0.3333333333333333
+Life In Technicolor ii,Pop Champagne,viva,pop,0.10526315789473684
+Life In Technicolor ii,Pop Champagne,viva,champagne,0.2
+Life In Technicolor ii,Pop Champagne,viva,pray,0
+Life In Technicolor ii,Pop Champagne,viva,iv,0.25
+Life In Technicolor ii,Pop Champagne,viva,reign,0.2857142857142857
+Life In Technicolor ii,Pop Champagne,la,pop,0.2222222222222222
+Life In Technicolor ii,Pop Champagne,la,champagne,0.4
+Life In Technicolor ii,Pop Champagne,la,pray,0
+Life In Technicolor ii,Pop Champagne,la,iv,0.25
+Life In Technicolor ii,Pop Champagne,la,reign,0.2857142857142857
+Life In Technicolor ii,Pop Champagne,march,pop,0.10526315789473684
+Life In Technicolor ii,Pop Champagne,march,champagne,0.2
+Life In Technicolor ii,Pop Champagne,march,pray,0
+Life In Technicolor ii,Pop Champagne,march,iv,0.375
+Life In Technicolor ii,Pop Champagne,march,reign,0.7142857142857143
+Life In Technicolor ii,Pop Champagne,edition,pop,0.32
+Life In Technicolor ii,Pop Champagne,edition,champagne,0.19047619047619047
+Life In Technicolor ii,Pop Champagne,edition,pray,0
+Life In Technicolor ii,Pop Champagne,edition,iv,0.10526315789473684
+Life In Technicolor ii,Pop Champagne,edition,reign,0.11764705882352941
+Life In Technicolor ii,Frank Sinatra,technicolor,frank,0.13333333333333333
+Life In Technicolor ii,Frank Sinatra,technicolor,sinatra,0.125
+Life In Technicolor ii,Frank Sinatra,technicolor,fashion,0.3076923076923077
+Life In Technicolor ii,Frank Sinatra,technicolor,nugget,0.14285714285714285
+Life In Technicolor ii,Frank Sinatra,ii,frank,0.13333333333333333
+Life In Technicolor ii,Frank Sinatra,ii,sinatra,0.125
+Life In Technicolor ii,Frank Sinatra,ii,fashion,0.3076923076923077
+Life In Technicolor ii,Frank Sinatra,ii,nugget,0.14285714285714285
+Life In Technicolor ii,Frank Sinatra,life,frank,0.15384615384615385
+Life In Technicolor ii,Frank Sinatra,life,sinatra,0.14285714285714285
+Life In Technicolor ii,Frank Sinatra,life,fashion,0.5454545454545454
+Life In Technicolor ii,Frank Sinatra,life,nugget,0.16666666666666666
+Life In Technicolor ii,Frank Sinatra,viva,frank,0.13333333333333333
+Life In Technicolor ii,Frank Sinatra,viva,sinatra,0.125
+Life In Technicolor ii,Frank Sinatra,viva,fashion,0.3076923076923077
+Life In Technicolor ii,Frank Sinatra,viva,nugget,0.14285714285714285
+Life In Technicolor ii,Frank Sinatra,la,frank,0.2857142857142857
+Life In Technicolor ii,Frank Sinatra,la,sinatra,0.26666666666666666
+Life In Technicolor ii,Frank Sinatra,la,fashion,0.3076923076923077
+Life In Technicolor ii,Frank Sinatra,la,nugget,0.3076923076923077
+Life In Technicolor ii,Frank Sinatra,march,frank,0.13333333333333333
+Life In Technicolor ii,Frank Sinatra,march,sinatra,0.125
+Life In Technicolor ii,Frank Sinatra,march,fashion,0.3076923076923077
+Life In Technicolor ii,Frank Sinatra,march,nugget,0.14285714285714285
+Life In Technicolor ii,Frank Sinatra,edition,frank,0.38095238095238093
+Life In Technicolor ii,Frank Sinatra,edition,sinatra,0.36363636363636365
+Life In Technicolor ii,Frank Sinatra,edition,fashion,0.125
+Life In Technicolor ii,Frank Sinatra,edition,nugget,0.23529411764705882
+Life In Technicolor ii,Long Line Of Cars,technicolor,long,0
+Life In Technicolor ii,Long Line Of Cars,technicolor,line,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,technicolor,cars,0.10526315789473684
+Life In Technicolor ii,Long Line Of Cars,technicolor,comfort,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,technicolor,eagle,0.1
+Life In Technicolor ii,Long Line Of Cars,ii,long,0
+Life In Technicolor ii,Long Line Of Cars,ii,line,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,ii,cars,0.10526315789473684
+Life In Technicolor ii,Long Line Of Cars,ii,comfort,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,ii,eagle,0.1
+Life In Technicolor ii,Long Line Of Cars,life,long,0
+Life In Technicolor ii,Long Line Of Cars,life,line,0.3333333333333333
+Life In Technicolor ii,Long Line Of Cars,life,cars,0.11764705882352941
+Life In Technicolor ii,Long Line Of Cars,life,comfort,0.6666666666666666
+Life In Technicolor ii,Long Line Of Cars,life,eagle,0.1111111111111111
+Life In Technicolor ii,Long Line Of Cars,viva,long,0
+Life In Technicolor ii,Long Line Of Cars,viva,line,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,viva,cars,0.10526315789473684
+Life In Technicolor ii,Long Line Of Cars,viva,comfort,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,viva,eagle,0.1
+Life In Technicolor ii,Long Line Of Cars,la,long,0
+Life In Technicolor ii,Long Line Of Cars,la,line,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,la,cars,0.2222222222222222
+Life In Technicolor ii,Long Line Of Cars,la,comfort,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,la,eagle,0.21052631578947367
+Life In Technicolor ii,Long Line Of Cars,march,long,0
+Life In Technicolor ii,Long Line Of Cars,march,line,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,march,cars,0.10526315789473684
+Life In Technicolor ii,Long Line Of Cars,march,comfort,0.2857142857142857
+Life In Technicolor ii,Long Line Of Cars,march,eagle,0.1
+Life In Technicolor ii,Long Line Of Cars,edition,long,0
+Life In Technicolor ii,Long Line Of Cars,edition,line,0.11764705882352941
+Life In Technicolor ii,Long Line Of Cars,edition,cars,0.45454545454545453
+Life In Technicolor ii,Long Line Of Cars,edition,comfort,0.11764705882352941
+Life In Technicolor ii,Long Line Of Cars,edition,eagle,0.34782608695652173
+Life In Technicolor ii,W,technicolor,free,0.3076923076923077
+Life In Technicolor ii,W,technicolor,cloud,0.13333333333333333
+Life In Technicolor ii,W,ii,free,0.3076923076923077
+Life In Technicolor ii,W,ii,cloud,0.13333333333333333
+Life In Technicolor ii,W,life,free,0.36363636363636365
+Life In Technicolor ii,W,life,cloud,0.15384615384615385
+Life In Technicolor ii,W,viva,free,0.3076923076923077
+Life In Technicolor ii,W,viva,cloud,0.13333333333333333
+Life In Technicolor ii,W,la,free,0.3076923076923077
+Life In Technicolor ii,W,la,cloud,0.2857142857142857
+Life In Technicolor ii,W,march,free,0.3076923076923077
+Life In Technicolor ii,W,march,cloud,0.13333333333333333
+Life In Technicolor ii,W,edition,free,0.125
+Life In Technicolor ii,W,edition,cloud,0.2222222222222222
+Life In Technicolor ii,Let Me Go,technicolor,let,0.25
+Life In Technicolor ii,Let Me Go,technicolor,go,0.23529411764705882
+Life In Technicolor ii,Let Me Go,technicolor,prolonging,0
+Life In Technicolor ii,Let Me Go,technicolor,magic,0.5
+Life In Technicolor ii,Let Me Go,ii,let,0.25
+Life In Technicolor ii,Let Me Go,ii,go,0.35294117647058826
+Life In Technicolor ii,Let Me Go,ii,prolonging,0
+Life In Technicolor ii,Let Me Go,ii,magic,0.25
+Life In Technicolor ii,Let Me Go,life,let,0.2857142857142857
+Life In Technicolor ii,Let Me Go,life,go,0.26666666666666666
+Life In Technicolor ii,Let Me Go,life,prolonging,0
+Life In Technicolor ii,Let Me Go,life,magic,0.2857142857142857
+Life In Technicolor ii,Let Me Go,viva,let,0.25
+Life In Technicolor ii,Let Me Go,viva,go,0.23529411764705882
+Life In Technicolor ii,Let Me Go,viva,prolonging,0
+Life In Technicolor ii,Let Me Go,viva,magic,0.375
+Life In Technicolor ii,Let Me Go,la,let,0.25
+Life In Technicolor ii,Let Me Go,la,go,0.23529411764705882
+Life In Technicolor ii,Let Me Go,la,prolonging,0
+Life In Technicolor ii,Let Me Go,la,magic,0.25
+Life In Technicolor ii,Let Me Go,march,let,0.25
+Life In Technicolor ii,Let Me Go,march,go,0.5882352941176471
+Life In Technicolor ii,Let Me Go,march,prolonging,0
+Life In Technicolor ii,Let Me Go,march,magic,0.25
+Life In Technicolor ii,Let Me Go,edition,let,0.10526315789473684
+Life In Technicolor ii,Let Me Go,edition,go,0.1
+Life In Technicolor ii,Let Me Go,edition,prolonging,0
+Life In Technicolor ii,Let Me Go,edition,magic,0.10526315789473684
+Life In Technicolor ii,Cool Blue Reason,technicolor,cool,0.26666666666666666
+Life In Technicolor ii,Cool Blue Reason,technicolor,blue,0.25
+Life In Technicolor ii,Cool Blue Reason,technicolor,reason,0.42857142857142855
+Life In Technicolor ii,Cool Blue Reason,technicolor,prolonging,0
+Life In Technicolor ii,Cool Blue Reason,technicolor,magic,0.5
+Life In Technicolor ii,Cool Blue Reason,ii,cool,0.4
+Life In Technicolor ii,Cool Blue Reason,ii,blue,0.25
+Life In Technicolor ii,Cool Blue Reason,ii,reason,0.2857142857142857
+Life In Technicolor ii,Cool Blue Reason,ii,prolonging,0
+Life In Technicolor ii,Cool Blue Reason,ii,magic,0.25
+Life In Technicolor ii,Cool Blue Reason,life,cool,0.42857142857142855
+Life In Technicolor ii,Cool Blue Reason,life,blue,0.42857142857142855
+Life In Technicolor ii,Cool Blue Reason,life,reason,0.3333333333333333
+Life In Technicolor ii,Cool Blue Reason,life,prolonging,0
+Life In Technicolor ii,Cool Blue Reason,life,magic,0.2857142857142857
+Life In Technicolor ii,Cool Blue Reason,viva,cool,0.26666666666666666
+Life In Technicolor ii,Cool Blue Reason,viva,blue,0.25
+Life In Technicolor ii,Cool Blue Reason,viva,reason,0.42857142857142855
+Life In Technicolor ii,Cool Blue Reason,viva,prolonging,0
+Life In Technicolor ii,Cool Blue Reason,viva,magic,0.375
+Life In Technicolor ii,Cool Blue Reason,la,cool,0.26666666666666666
+Life In Technicolor ii,Cool Blue Reason,la,blue,0.25
+Life In Technicolor ii,Cool Blue Reason,la,reason,0.2857142857142857
+Life In Technicolor ii,Cool Blue Reason,la,prolonging,0
+Life In Technicolor ii,Cool Blue Reason,la,magic,0.25
+Life In Technicolor ii,Cool Blue Reason,march,cool,0.5333333333333333
+Life In Technicolor ii,Cool Blue Reason,march,blue,0.25
+Life In Technicolor ii,Cool Blue Reason,march,reason,0.2857142857142857
+Life In Technicolor ii,Cool Blue Reason,march,prolonging,0
+Life In Technicolor ii,Cool Blue Reason,march,magic,0.25
+Life In Technicolor ii,Cool Blue Reason,edition,cool,0.2222222222222222
+Life In Technicolor ii,Cool Blue Reason,edition,blue,0.10526315789473684
+Life In Technicolor ii,Cool Blue Reason,edition,reason,0.11764705882352941
+Life In Technicolor ii,Cool Blue Reason,edition,prolonging,0
+Life In Technicolor ii,Cool Blue Reason,edition,magic,0.10526315789473684
+The Scientist,Where Would I Be?,scientist,prolonging,0
+The Scientist,Where Would I Be?,scientist,magic,0.15384615384615385
+The Scientist,Where Would I Be?,scientist,prolonging,0
+The Scientist,Where Would I Be?,scientist,magic,0.15384615384615385
+The Scientist,Comfort Eagle,scientist,comfort,0.18181818181818182
+The Scientist,Comfort Eagle,scientist,eagle,0.6
+The Scientist,Comfort Eagle,scientist,comfort,0.18181818181818182
+The Scientist,Comfort Eagle,scientist,eagle,0.6
+The Scientist,Comfort Eagle,scientist,comfort,0.18181818181818182
+The Scientist,Comfort Eagle,scientist,eagle,0.6
+The Scientist,Comfort Eagle,scientist,comfort,0.18181818181818182
+The Scientist,Comfort Eagle,scientist,eagle,0.6
+The Scientist,Never There,scientist,never,0
+The Scientist,Never There,scientist,prolonging,0
+The Scientist,Never There,scientist,magic,0.15384615384615385
+The Scientist,Never There,scientist,never,0
+The Scientist,Never There,scientist,prolonging,0
+The Scientist,Never There,scientist,magic,0.15384615384615385
+The Scientist,Beautiful,scientist,beautiful,0
+The Scientist,Beautiful,scientist,hotel,0.5
+The Scientist,Beautiful,scientist,beautiful,0
+The Scientist,Beautiful,scientist,hotel,0.5
+The Scientist,Carbon Monoxide,scientist,carbon,0.36363636363636365
+The Scientist,Carbon Monoxide,scientist,monoxide,0.2857142857142857
+The Scientist,Carbon Monoxide,scientist,pressure,0.3333333333333333
+The Scientist,Carbon Monoxide,scientist,chief,0.7058823529411765
+The Scientist,Carbon Monoxide,scientist,carbon,0.36363636363636365
+The Scientist,Carbon Monoxide,scientist,monoxide,0.2857142857142857
+The Scientist,Carbon Monoxide,scientist,pressure,0.3333333333333333
+The Scientist,Carbon Monoxide,scientist,chief,0.7058823529411765
+The Scientist,Guitar,scientist,guitar,0.4444444444444444
+The Scientist,Guitar,scientist,prolonging,0
+The Scientist,Guitar,scientist,magic,0.15384615384615385
+The Scientist,Guitar,scientist,guitar,0.4444444444444444
+The Scientist,Guitar,scientist,prolonging,0
+The Scientist,Guitar,scientist,magic,0.15384615384615385
+The Scientist,Opera Singer,scientist,opera,0.16666666666666666
+The Scientist,Opera Singer,scientist,singer,0.631578947368421
+The Scientist,Opera Singer,scientist,comfort,0.18181818181818182
+The Scientist,Opera Singer,scientist,eagle,0.6
+The Scientist,Opera Singer,scientist,opera,0.16666666666666666
+The Scientist,Opera Singer,scientist,singer,0.631578947368421
+The Scientist,Opera Singer,scientist,comfort,0.18181818181818182
+The Scientist,Opera Singer,scientist,eagle,0.6
+The Scientist,Waiting,scientist,waiting,0.16666666666666666
+The Scientist,Waiting,scientist,pressure,0.3333333333333333
+The Scientist,Waiting,scientist,chief,0.7058823529411765
+The Scientist,Waiting,scientist,waiting,0.16666666666666666
+The Scientist,Waiting,scientist,pressure,0.3333333333333333
+The Scientist,Waiting,scientist,chief,0.7058823529411765
+The Scientist,Alpha Beta Parking Lot,scientist,alpha,0.14285714285714285
+The Scientist,Alpha Beta Parking Lot,scientist,beta,0.14285714285714285
+The Scientist,Alpha Beta Parking Lot,scientist,parking,0.18181818181818182
+The Scientist,Alpha Beta Parking Lot,scientist,lot,0.18181818181818182
+The Scientist,Alpha Beta Parking Lot,scientist,prolonging,0
+The Scientist,Alpha Beta Parking Lot,scientist,magic,0.15384615384615385
+The Scientist,Alpha Beta Parking Lot,scientist,alpha,0.14285714285714285
+The Scientist,Alpha Beta Parking Lot,scientist,beta,0.14285714285714285
+The Scientist,Alpha Beta Parking Lot,scientist,parking,0.18181818181818182
+The Scientist,Alpha Beta Parking Lot,scientist,lot,0.18181818181818182
+The Scientist,Alpha Beta Parking Lot,scientist,prolonging,0
+The Scientist,Alpha Beta Parking Lot,scientist,magic,0.15384615384615385
+The Scientist,No Phone,scientist,phone,0.47058823529411764
+The Scientist,No Phone,scientist,pressure,0.3333333333333333
+The Scientist,No Phone,scientist,chief,0.7058823529411765
+The Scientist,No Phone,scientist,phone,0.47058823529411764
+The Scientist,No Phone,scientist,pressure,0.3333333333333333
+The Scientist,No Phone,scientist,chief,0.7058823529411765
+The Scientist,Commissioning A Symphony In C,scientist,symphony,0.15384615384615385
+The Scientist,Commissioning A Symphony In C,scientist,commissioning,0.14285714285714285
+The Scientist,Commissioning A Symphony In C,scientist,c,0.15384615384615385
+The Scientist,Commissioning A Symphony In C,scientist,comfort,0.18181818181818182
+The Scientist,Commissioning A Symphony In C,scientist,eagle,0.6
+The Scientist,Commissioning A Symphony In C,scientist,symphony,0.15384615384615385
+The Scientist,Commissioning A Symphony In C,scientist,commissioning,0.14285714285714285
+The Scientist,Commissioning A Symphony In C,scientist,c,0.15384615384615385
+The Scientist,Commissioning A Symphony In C,scientist,comfort,0.18181818181818182
+The Scientist,Commissioning A Symphony In C,scientist,eagle,0.6
+The Scientist,Mexico,scientist,mexico,0.35294117647058826
+The Scientist,Mexico,scientist,prolonging,0
+The Scientist,Mexico,scientist,magic,0.15384615384615385
+The Scientist,Mexico,scientist,mexico,0.35294117647058826
+The Scientist,Mexico,scientist,prolonging,0
+The Scientist,Mexico,scientist,magic,0.15384615384615385
+The Scientist,Mahna_ Mahna,scientist,sides,0.46153846153846156
+The Scientist,Mahna_ Mahna,scientist,rarities,0.14285714285714285
+The Scientist,Mahna_ Mahna,scientist,b,0.6666666666666666
+The Scientist,Mahna_ Mahna,scientist,sides,0.46153846153846156
+The Scientist,Mahna_ Mahna,scientist,rarities,0.14285714285714285
+The Scientist,Mahna_ Mahna,scientist,b,0.6666666666666666
+The Scientist,Hey Mama,scientist,mama,0.5454545454545454
+The Scientist,Hey Mama,scientist,mama,0.5454545454545454
+The Scientist,Pretty Pink Ribbon,scientist,pretty,0
+The Scientist,Pretty Pink Ribbon,scientist,pink,0.15384615384615385
+The Scientist,Pretty Pink Ribbon,scientist,ribbon,0.5454545454545454
+The Scientist,Pretty Pink Ribbon,scientist,comfort,0.18181818181818182
+The Scientist,Pretty Pink Ribbon,scientist,eagle,0.6
+The Scientist,Pretty Pink Ribbon,scientist,pretty,0
+The Scientist,Pretty Pink Ribbon,scientist,pink,0.15384615384615385
+The Scientist,Pretty Pink Ribbon,scientist,ribbon,0.5454545454545454
+The Scientist,Pretty Pink Ribbon,scientist,comfort,0.18181818181818182
+The Scientist,Pretty Pink Ribbon,scientist,eagle,0.6
+The Scientist,Pop Champagne,scientist,pop,0.5454545454545454
+The Scientist,Pop Champagne,scientist,champagne,0.4
+The Scientist,Pop Champagne,scientist,pray,0
+The Scientist,Pop Champagne,scientist,iv,0.15384615384615385
+The Scientist,Pop Champagne,scientist,reign,0.18181818181818182
+The Scientist,Pop Champagne,scientist,pop,0.5454545454545454
+The Scientist,Pop Champagne,scientist,champagne,0.4
+The Scientist,Pop Champagne,scientist,pray,0
+The Scientist,Pop Champagne,scientist,iv,0.15384615384615385
+The Scientist,Pop Champagne,scientist,reign,0.18181818181818182
+The Scientist,Frank Sinatra,scientist,frank,0.6666666666666666
+The Scientist,Frank Sinatra,scientist,sinatra,0.631578947368421
+The Scientist,Frank Sinatra,scientist,fashion,0.2
+The Scientist,Frank Sinatra,scientist,nugget,0.36363636363636365
+The Scientist,Frank Sinatra,scientist,frank,0.6666666666666666
+The Scientist,Frank Sinatra,scientist,sinatra,0.631578947368421
+The Scientist,Frank Sinatra,scientist,fashion,0.2
+The Scientist,Frank Sinatra,scientist,nugget,0.36363636363636365
+The Scientist,Long Line Of Cars,scientist,long,0
+The Scientist,Long Line Of Cars,scientist,line,0.18181818181818182
+The Scientist,Long Line Of Cars,scientist,cars,0.42105263157894735
+The Scientist,Long Line Of Cars,scientist,comfort,0.18181818181818182
+The Scientist,Long Line Of Cars,scientist,eagle,0.6
+The Scientist,Long Line Of Cars,scientist,long,0
+The Scientist,Long Line Of Cars,scientist,line,0.18181818181818182
+The Scientist,Long Line Of Cars,scientist,cars,0.42105263157894735
+The Scientist,Long Line Of Cars,scientist,comfort,0.18181818181818182
+The Scientist,Long Line Of Cars,scientist,eagle,0.6
+The Scientist,W,scientist,free,0.2
+The Scientist,W,scientist,cloud,0.3333333333333333
+The Scientist,W,scientist,free,0.2
+The Scientist,W,scientist,cloud,0.3333333333333333
+The Scientist,Let Me Go,scientist,let,0.15384615384615385
+The Scientist,Let Me Go,scientist,go,0.14285714285714285
+The Scientist,Let Me Go,scientist,prolonging,0
+The Scientist,Let Me Go,scientist,magic,0.15384615384615385
+The Scientist,Let Me Go,scientist,let,0.15384615384615385
+The Scientist,Let Me Go,scientist,go,0.14285714285714285
+The Scientist,Let Me Go,scientist,prolonging,0
+The Scientist,Let Me Go,scientist,magic,0.15384615384615385
+The Scientist,Cool Blue Reason,scientist,cool,0.5
+The Scientist,Cool Blue Reason,scientist,blue,0.15384615384615385
+The Scientist,Cool Blue Reason,scientist,reason,0.18181818181818182
+The Scientist,Cool Blue Reason,scientist,prolonging,0
+The Scientist,Cool Blue Reason,scientist,magic,0.15384615384615385
+The Scientist,Cool Blue Reason,scientist,cool,0.5
+The Scientist,Cool Blue Reason,scientist,blue,0.15384615384615385
+The Scientist,Cool Blue Reason,scientist,reason,0.18181818181818182
+The Scientist,Cool Blue Reason,scientist,prolonging,0
+The Scientist,Cool Blue Reason,scientist,magic,0.15384615384615385
+In My Place,Where Would I Be?,place,prolonging,0
+In My Place,Where Would I Be?,place,magic,0.14285714285714285
+In My Place,Where Would I Be?,rush,prolonging,0
+In My Place,Where Would I Be?,rush,magic,0.35294117647058826
+In My Place,Where Would I Be?,head,prolonging,0
+In My Place,Where Would I Be?,head,magic,0.13333333333333333
+In My Place,Where Would I Be?,blood,prolonging,0
+In My Place,Where Would I Be?,blood,magic,0.25
+In My Place,Comfort Eagle,place,comfort,0.16666666666666666
+In My Place,Comfort Eagle,place,eagle,0.3333333333333333
+In My Place,Comfort Eagle,place,comfort,0.16666666666666666
+In My Place,Comfort Eagle,place,eagle,0.3333333333333333
+In My Place,Comfort Eagle,rush,comfort,0.26666666666666666
+In My Place,Comfort Eagle,rush,eagle,0.09523809523809523
+In My Place,Comfort Eagle,rush,comfort,0.26666666666666666
+In My Place,Comfort Eagle,rush,eagle,0.09523809523809523
+In My Place,Comfort Eagle,head,comfort,0.15384615384615385
+In My Place,Comfort Eagle,head,eagle,0.21052631578947367
+In My Place,Comfort Eagle,head,comfort,0.15384615384615385
+In My Place,Comfort Eagle,head,eagle,0.21052631578947367
+In My Place,Comfort Eagle,blood,comfort,0.2857142857142857
+In My Place,Comfort Eagle,blood,eagle,0.21052631578947367
+In My Place,Comfort Eagle,blood,comfort,0.2857142857142857
+In My Place,Comfort Eagle,blood,eagle,0.21052631578947367
+In My Place,Never There,place,never,0
+In My Place,Never There,place,prolonging,0
+In My Place,Never There,place,magic,0.14285714285714285
+In My Place,Never There,rush,never,0
+In My Place,Never There,rush,prolonging,0
+In My Place,Never There,rush,magic,0.35294117647058826
+In My Place,Never There,head,never,0
+In My Place,Never There,head,prolonging,0
+In My Place,Never There,head,magic,0.13333333333333333
+In My Place,Never There,blood,never,0
+In My Place,Never There,blood,prolonging,0
+In My Place,Never There,blood,magic,0.25
+In My Place,Beautiful,place,beautiful,0
+In My Place,Beautiful,place,hotel,0.42857142857142855
+In My Place,Beautiful,rush,beautiful,0
+In My Place,Beautiful,rush,hotel,0.11764705882352941
+In My Place,Beautiful,head,beautiful,0
+In My Place,Beautiful,head,hotel,0.26666666666666666
+In My Place,Beautiful,blood,beautiful,0
+In My Place,Beautiful,blood,hotel,0.26666666666666666
+In My Place,Carbon Monoxide,place,carbon,0.3333333333333333
+In My Place,Carbon Monoxide,place,monoxide,0.26666666666666666
+In My Place,Carbon Monoxide,place,pressure,0.3076923076923077
+In My Place,Carbon Monoxide,place,chief,0.42857142857142855
+In My Place,Carbon Monoxide,rush,carbon,0.25
+In My Place,Carbon Monoxide,rush,monoxide,0.21052631578947367
+In My Place,Carbon Monoxide,rush,pressure,0.125
+In My Place,Carbon Monoxide,rush,chief,0.13333333333333333
+In My Place,Carbon Monoxide,head,carbon,0.3076923076923077
+In My Place,Carbon Monoxide,head,monoxide,0.25
+In My Place,Carbon Monoxide,head,pressure,0.2857142857142857
+In My Place,Carbon Monoxide,head,chief,0.3076923076923077
+In My Place,Carbon Monoxide,blood,carbon,0.5333333333333333
+In My Place,Carbon Monoxide,blood,monoxide,0.4444444444444444
+In My Place,Carbon Monoxide,blood,pressure,0.2857142857142857
+In My Place,Carbon Monoxide,blood,chief,0.3076923076923077
+In My Place,Guitar,place,guitar,0.375
+In My Place,Guitar,place,prolonging,0
+In My Place,Guitar,place,magic,0.14285714285714285
+In My Place,Guitar,rush,guitar,0.10526315789473684
+In My Place,Guitar,rush,prolonging,0
+In My Place,Guitar,rush,magic,0.35294117647058826
+In My Place,Guitar,head,guitar,0.23529411764705882
+In My Place,Guitar,head,prolonging,0
+In My Place,Guitar,head,magic,0.13333333333333333
+In My Place,Guitar,blood,guitar,0.23529411764705882
+In My Place,Guitar,blood,prolonging,0
+In My Place,Guitar,blood,magic,0.25
+In My Place,Opera Singer,place,opera,0.15384615384615385
+In My Place,Opera Singer,place,singer,0.375
+In My Place,Opera Singer,place,comfort,0.16666666666666666
+In My Place,Opera Singer,place,eagle,0.3333333333333333
+In My Place,Opera Singer,rush,opera,0.25
+In My Place,Opera Singer,rush,singer,0.11764705882352941
+In My Place,Opera Singer,rush,comfort,0.26666666666666666
+In My Place,Opera Singer,rush,eagle,0.09523809523809523
+In My Place,Opera Singer,head,opera,0.14285714285714285
+In My Place,Opera Singer,head,singer,0.26666666666666666
+In My Place,Opera Singer,head,comfort,0.15384615384615385
+In My Place,Opera Singer,head,eagle,0.21052631578947367
+In My Place,Opera Singer,blood,opera,0.26666666666666666
+In My Place,Opera Singer,blood,singer,0.26666666666666666
+In My Place,Opera Singer,blood,comfort,0.2857142857142857
+In My Place,Opera Singer,blood,eagle,0.21052631578947367
+In My Place,Waiting,place,waiting,0.15384615384615385
+In My Place,Waiting,place,pressure,0.3076923076923077
+In My Place,Waiting,place,chief,0.42857142857142855
+In My Place,Waiting,rush,waiting,0.625
+In My Place,Waiting,rush,pressure,0.125
+In My Place,Waiting,rush,chief,0.13333333333333333
+In My Place,Waiting,head,waiting,0.14285714285714285
+In My Place,Waiting,head,pressure,0.2857142857142857
+In My Place,Waiting,head,chief,0.3076923076923077
+In My Place,Waiting,blood,waiting,0.26666666666666666
+In My Place,Waiting,blood,pressure,0.2857142857142857
+In My Place,Waiting,blood,chief,0.3076923076923077
+In My Place,Alpha Beta Parking Lot,place,alpha,0.13333333333333333
+In My Place,Alpha Beta Parking Lot,place,beta,0.13333333333333333
+In My Place,Alpha Beta Parking Lot,place,parking,0.16666666666666666
+In My Place,Alpha Beta Parking Lot,place,lot,0.16666666666666666
+In My Place,Alpha Beta Parking Lot,place,prolonging,0
+In My Place,Alpha Beta Parking Lot,place,magic,0.14285714285714285
+In My Place,Alpha Beta Parking Lot,rush,alpha,0.2222222222222222
+In My Place,Alpha Beta Parking Lot,rush,beta,0.2222222222222222
+In My Place,Alpha Beta Parking Lot,rush,parking,0.26666666666666666
+In My Place,Alpha Beta Parking Lot,rush,lot,0.26666666666666666
+In My Place,Alpha Beta Parking Lot,rush,prolonging,0
+In My Place,Alpha Beta Parking Lot,rush,magic,0.35294117647058826
+In My Place,Alpha Beta Parking Lot,head,alpha,0.125
+In My Place,Alpha Beta Parking Lot,head,beta,0.125
+In My Place,Alpha Beta Parking Lot,head,parking,0.15384615384615385
+In My Place,Alpha Beta Parking Lot,head,lot,0.15384615384615385
+In My Place,Alpha Beta Parking Lot,head,prolonging,0
+In My Place,Alpha Beta Parking Lot,head,magic,0.13333333333333333
+In My Place,Alpha Beta Parking Lot,blood,alpha,0.23529411764705882
+In My Place,Alpha Beta Parking Lot,blood,beta,0.23529411764705882
+In My Place,Alpha Beta Parking Lot,blood,parking,0.42857142857142855
+In My Place,Alpha Beta Parking Lot,blood,lot,0.2857142857142857
+In My Place,Alpha Beta Parking Lot,blood,prolonging,0
+In My Place,Alpha Beta Parking Lot,blood,magic,0.25
+In My Place,No Phone,place,phone,0.4
+In My Place,No Phone,place,pressure,0.3076923076923077
+In My Place,No Phone,place,chief,0.42857142857142855
+In My Place,No Phone,rush,phone,0.1111111111111111
+In My Place,No Phone,rush,pressure,0.125
+In My Place,No Phone,rush,chief,0.13333333333333333
+In My Place,No Phone,head,phone,0.25
+In My Place,No Phone,head,pressure,0.2857142857142857
+In My Place,No Phone,head,chief,0.3076923076923077
+In My Place,No Phone,blood,phone,0.25
+In My Place,No Phone,blood,pressure,0.2857142857142857
+In My Place,No Phone,blood,chief,0.3076923076923077
+In My Place,Commissioning A Symphony In C,place,symphony,0.14285714285714285
+In My Place,Commissioning A Symphony In C,place,commissioning,0.13333333333333333
+In My Place,Commissioning A Symphony In C,place,c,0.14285714285714285
+In My Place,Commissioning A Symphony In C,place,comfort,0.16666666666666666
+In My Place,Commissioning A Symphony In C,place,eagle,0.3333333333333333
+In My Place,Commissioning A Symphony In C,rush,symphony,0.23529411764705882
+In My Place,Commissioning A Symphony In C,rush,commissioning,0.5263157894736842
+In My Place,Commissioning A Symphony In C,rush,c,0.23529411764705882
+In My Place,Commissioning A Symphony In C,rush,comfort,0.26666666666666666
+In My Place,Commissioning A Symphony In C,rush,eagle,0.09523809523809523
+In My Place,Commissioning A Symphony In C,head,symphony,0.13333333333333333
+In My Place,Commissioning A Symphony In C,head,commissioning,0.125
+In My Place,Commissioning A Symphony In C,head,c,0.13333333333333333
+In My Place,Commissioning A Symphony In C,head,comfort,0.15384615384615385
+In My Place,Commissioning A Symphony In C,head,eagle,0.21052631578947367
+In My Place,Commissioning A Symphony In C,blood,symphony,0.25
+In My Place,Commissioning A Symphony In C,blood,commissioning,0.23529411764705882
+In My Place,Commissioning A Symphony In C,blood,c,0.25
+In My Place,Commissioning A Symphony In C,blood,comfort,0.2857142857142857
+In My Place,Commissioning A Symphony In C,blood,eagle,0.21052631578947367
+In My Place,Mexico,place,mexico,0.5
+In My Place,Mexico,place,prolonging,0
+In My Place,Mexico,place,magic,0.14285714285714285
+In My Place,Mexico,rush,mexico,0.10526315789473684
+In My Place,Mexico,rush,prolonging,0
+In My Place,Mexico,rush,magic,0.35294117647058826
+In My Place,Mexico,head,mexico,0.23529411764705882
+In My Place,Mexico,head,prolonging,0
+In My Place,Mexico,head,magic,0.13333333333333333
+In My Place,Mexico,blood,mexico,0.23529411764705882
+In My Place,Mexico,blood,prolonging,0
+In My Place,Mexico,blood,magic,0.25
+In My Place,Mahna_ Mahna,place,sides,0.6666666666666666
+In My Place,Mahna_ Mahna,place,rarities,0.13333333333333333
+In My Place,Mahna_ Mahna,place,b,0.375
+In My Place,Mahna_ Mahna,rush,sides,0.13333333333333333
+In My Place,Mahna_ Mahna,rush,rarities,0.2222222222222222
+In My Place,Mahna_ Mahna,rush,b,0.10526315789473684
+In My Place,Mahna_ Mahna,head,sides,0.3076923076923077
+In My Place,Mahna_ Mahna,head,rarities,0.125
+In My Place,Mahna_ Mahna,head,b,0.23529411764705882
+In My Place,Mahna_ Mahna,blood,sides,0.3076923076923077
+In My Place,Mahna_ Mahna,blood,rarities,0.23529411764705882
+In My Place,Mahna_ Mahna,blood,b,0.23529411764705882
+In My Place,Hey Mama,place,mama,0.3157894736842105
+In My Place,Hey Mama,rush,mama,0.1
+In My Place,Hey Mama,head,mama,0.2222222222222222
+In My Place,Hey Mama,blood,mama,0.2222222222222222
+In My Place,Pretty Pink Ribbon,place,pretty,0
+In My Place,Pretty Pink Ribbon,place,pink,0.14285714285714285
+In My Place,Pretty Pink Ribbon,place,ribbon,0.6
+In My Place,Pretty Pink Ribbon,place,comfort,0.16666666666666666
+In My Place,Pretty Pink Ribbon,place,eagle,0.3333333333333333
+In My Place,Pretty Pink Ribbon,rush,pretty,0
+In My Place,Pretty Pink Ribbon,rush,pink,0.23529411764705882
+In My Place,Pretty Pink Ribbon,rush,ribbon,0.15384615384615385
+In My Place,Pretty Pink Ribbon,rush,comfort,0.26666666666666666
+In My Place,Pretty Pink Ribbon,rush,eagle,0.09523809523809523
+In My Place,Pretty Pink Ribbon,head,pretty,0
+In My Place,Pretty Pink Ribbon,head,pink,0.13333333333333333
+In My Place,Pretty Pink Ribbon,head,ribbon,0.36363636363636365
+In My Place,Pretty Pink Ribbon,head,comfort,0.15384615384615385
+In My Place,Pretty Pink Ribbon,head,eagle,0.21052631578947367
+In My Place,Pretty Pink Ribbon,blood,pretty,0
+In My Place,Pretty Pink Ribbon,blood,pink,0.25
+In My Place,Pretty Pink Ribbon,blood,ribbon,0.36363636363636365
+In My Place,Pretty Pink Ribbon,blood,comfort,0.2857142857142857
+In My Place,Pretty Pink Ribbon,blood,eagle,0.21052631578947367
+In My Place,Pop Champagne,place,pop,0.3157894736842105
+In My Place,Pop Champagne,place,champagne,0.25
+In My Place,Pop Champagne,place,pray,0
+In My Place,Pop Champagne,place,iv,0.14285714285714285
+In My Place,Pop Champagne,place,reign,0.16666666666666666
+In My Place,Pop Champagne,rush,pop,0.1
+In My Place,Pop Champagne,rush,champagne,0.19047619047619047
+In My Place,Pop Champagne,rush,pray,0
+In My Place,Pop Champagne,rush,iv,0.23529411764705882
+In My Place,Pop Champagne,rush,reign,0.26666666666666666
+In My Place,Pop Champagne,head,pop,0.2222222222222222
+In My Place,Pop Champagne,head,champagne,0.23529411764705882
+In My Place,Pop Champagne,head,pray,0
+In My Place,Pop Champagne,head,iv,0.13333333333333333
+In My Place,Pop Champagne,head,reign,0.15384615384615385
+In My Place,Pop Champagne,blood,pop,0.2222222222222222
+In My Place,Pop Champagne,blood,champagne,0.4
+In My Place,Pop Champagne,blood,pray,0
+In My Place,Pop Champagne,blood,iv,0.25
+In My Place,Pop Champagne,blood,reign,0.2857142857142857
+In My Place,Frank Sinatra,place,frank,0.4
+In My Place,Frank Sinatra,place,sinatra,0.375
+In My Place,Frank Sinatra,place,fashion,0.18181818181818182
+In My Place,Frank Sinatra,place,nugget,0.3333333333333333
+In My Place,Frank Sinatra,rush,frank,0.125
+In My Place,Frank Sinatra,rush,sinatra,0.11764705882352941
+In My Place,Frank Sinatra,rush,fashion,0.2857142857142857
+In My Place,Frank Sinatra,rush,nugget,0.13333333333333333
+In My Place,Frank Sinatra,head,frank,0.2857142857142857
+In My Place,Frank Sinatra,head,sinatra,0.26666666666666666
+In My Place,Frank Sinatra,head,fashion,0.16666666666666666
+In My Place,Frank Sinatra,head,nugget,0.6153846153846154
+In My Place,Frank Sinatra,blood,frank,0.2857142857142857
+In My Place,Frank Sinatra,blood,sinatra,0.26666666666666666
+In My Place,Frank Sinatra,blood,fashion,0.3076923076923077
+In My Place,Frank Sinatra,blood,nugget,0.3076923076923077
+In My Place,Long Line Of Cars,place,long,0
+In My Place,Long Line Of Cars,place,line,0.16666666666666666
+In My Place,Long Line Of Cars,place,cars,0.35294117647058826
+In My Place,Long Line Of Cars,place,comfort,0.16666666666666666
+In My Place,Long Line Of Cars,place,eagle,0.3333333333333333
+In My Place,Long Line Of Cars,rush,long,0
+In My Place,Long Line Of Cars,rush,line,0.26666666666666666
+In My Place,Long Line Of Cars,rush,cars,0.1
+In My Place,Long Line Of Cars,rush,comfort,0.26666666666666666
+In My Place,Long Line Of Cars,rush,eagle,0.09523809523809523
+In My Place,Long Line Of Cars,head,long,0
+In My Place,Long Line Of Cars,head,line,0.15384615384615385
+In My Place,Long Line Of Cars,head,cars,0.2222222222222222
+In My Place,Long Line Of Cars,head,comfort,0.15384615384615385
+In My Place,Long Line Of Cars,head,eagle,0.21052631578947367
+In My Place,Long Line Of Cars,blood,long,0
+In My Place,Long Line Of Cars,blood,line,0.2857142857142857
+In My Place,Long Line Of Cars,blood,cars,0.2222222222222222
+In My Place,Long Line Of Cars,blood,comfort,0.2857142857142857
+In My Place,Long Line Of Cars,blood,eagle,0.21052631578947367
+In My Place,W,place,free,0.18181818181818182
+In My Place,W,place,cloud,0.3076923076923077
+In My Place,W,rush,free,0.2857142857142857
+In My Place,W,rush,cloud,0.125
+In My Place,W,head,free,0.16666666666666666
+In My Place,W,head,cloud,0.2857142857142857
+In My Place,W,blood,free,0.3076923076923077
+In My Place,W,blood,cloud,0.2857142857142857
+In My Place,Let Me Go,place,let,0.14285714285714285
+In My Place,Let Me Go,place,go,0.13333333333333333
+In My Place,Let Me Go,place,prolonging,0
+In My Place,Let Me Go,place,magic,0.14285714285714285
+In My Place,Let Me Go,rush,let,0.23529411764705882
+In My Place,Let Me Go,rush,go,0.2222222222222222
+In My Place,Let Me Go,rush,prolonging,0
+In My Place,Let Me Go,rush,magic,0.35294117647058826
+In My Place,Let Me Go,head,let,0.13333333333333333
+In My Place,Let Me Go,head,go,0.125
+In My Place,Let Me Go,head,prolonging,0
+In My Place,Let Me Go,head,magic,0.13333333333333333
+In My Place,Let Me Go,blood,let,0.25
+In My Place,Let Me Go,blood,go,0.23529411764705882
+In My Place,Let Me Go,blood,prolonging,0
+In My Place,Let Me Go,blood,magic,0.25
+In My Place,Cool Blue Reason,place,cool,0.3076923076923077
+In My Place,Cool Blue Reason,place,blue,0.14285714285714285
+In My Place,Cool Blue Reason,place,reason,0.16666666666666666
+In My Place,Cool Blue Reason,place,prolonging,0
+In My Place,Cool Blue Reason,place,magic,0.14285714285714285
+In My Place,Cool Blue Reason,rush,cool,0.25
+In My Place,Cool Blue Reason,rush,blue,0.23529411764705882
+In My Place,Cool Blue Reason,rush,reason,0.4
+In My Place,Cool Blue Reason,rush,prolonging,0
+In My Place,Cool Blue Reason,rush,magic,0.35294117647058826
+In My Place,Cool Blue Reason,head,cool,0.2857142857142857
+In My Place,Cool Blue Reason,head,blue,0.13333333333333333
+In My Place,Cool Blue Reason,head,reason,0.15384615384615385
+In My Place,Cool Blue Reason,head,prolonging,0
+In My Place,Cool Blue Reason,head,magic,0.13333333333333333
+In My Place,Cool Blue Reason,blood,cool,0.26666666666666666
+In My Place,Cool Blue Reason,blood,blue,0.25
+In My Place,Cool Blue Reason,blood,reason,0.2857142857142857
+In My Place,Cool Blue Reason,blood,prolonging,0
+In My Place,Cool Blue Reason,blood,magic,0.25
+Lost!,Where Would I Be?,lost,prolonging,0
+Lost!,Where Would I Be?,lost,magic,0.3076923076923077
+Lost!,Where Would I Be?,viva,prolonging,0
+Lost!,Where Would I Be?,viva,magic,0.375
+Lost!,Where Would I Be?,la,prolonging,0
+Lost!,Where Would I Be?,la,magic,0.25
+Lost!,Where Would I Be?,friends,prolonging,0
+Lost!,Where Would I Be?,friends,magic,0.15384615384615385
+Lost!,Where Would I Be?,death,prolonging,0
+Lost!,Where Would I Be?,death,magic,0.4
+Lost!,Comfort Eagle,lost,comfort,0.36363636363636365
+Lost!,Comfort Eagle,lost,eagle,0.11764705882352941
+Lost!,Comfort Eagle,lost,comfort,0.36363636363636365
+Lost!,Comfort Eagle,lost,eagle,0.11764705882352941
+Lost!,Comfort Eagle,viva,comfort,0.2857142857142857
+Lost!,Comfort Eagle,viva,eagle,0.1
+Lost!,Comfort Eagle,viva,comfort,0.2857142857142857
+Lost!,Comfort Eagle,viva,eagle,0.1
+Lost!,Comfort Eagle,la,comfort,0.2857142857142857
+Lost!,Comfort Eagle,la,eagle,0.21052631578947367
+Lost!,Comfort Eagle,la,comfort,0.2857142857142857
+Lost!,Comfort Eagle,la,eagle,0.21052631578947367
+Lost!,Comfort Eagle,friends,comfort,0.18181818181818182
+Lost!,Comfort Eagle,friends,eagle,0.6
+Lost!,Comfort Eagle,friends,comfort,0.18181818181818182
+Lost!,Comfort Eagle,friends,eagle,0.6
+Lost!,Comfort Eagle,death,comfort,0.3076923076923077
+Lost!,Comfort Eagle,death,eagle,0.10526315789473684
+Lost!,Comfort Eagle,death,comfort,0.3076923076923077
+Lost!,Comfort Eagle,death,eagle,0.10526315789473684
+Lost!,Never There,lost,never,0
+Lost!,Never There,lost,prolonging,0
+Lost!,Never There,lost,magic,0.3076923076923077
+Lost!,Never There,viva,never,0
+Lost!,Never There,viva,prolonging,0
+Lost!,Never There,viva,magic,0.375
+Lost!,Never There,la,never,0
+Lost!,Never There,la,prolonging,0
+Lost!,Never There,la,magic,0.25
+Lost!,Never There,friends,never,0
+Lost!,Never There,friends,prolonging,0
+Lost!,Never There,friends,magic,0.15384615384615385
+Lost!,Never There,death,never,0
+Lost!,Never There,death,prolonging,0
+Lost!,Never There,death,magic,0.4
+Lost!,Beautiful,lost,beautiful,0
+Lost!,Beautiful,lost,hotel,0.15384615384615385
+Lost!,Beautiful,viva,beautiful,0
+Lost!,Beautiful,viva,hotel,0.125
+Lost!,Beautiful,la,beautiful,0
+Lost!,Beautiful,la,hotel,0.26666666666666666
+Lost!,Beautiful,friends,beautiful,0
+Lost!,Beautiful,friends,hotel,0.5
+Lost!,Beautiful,death,beautiful,0
+Lost!,Beautiful,death,hotel,0.13333333333333333
+Lost!,Carbon Monoxide,lost,carbon,0.3333333333333333
+Lost!,Carbon Monoxide,lost,monoxide,0.26666666666666666
+Lost!,Carbon Monoxide,lost,pressure,0.16666666666666666
+Lost!,Carbon Monoxide,lost,chief,0.18181818181818182
+Lost!,Carbon Monoxide,viva,carbon,0.26666666666666666
+Lost!,Carbon Monoxide,viva,monoxide,0.2222222222222222
+Lost!,Carbon Monoxide,viva,pressure,0.13333333333333333
+Lost!,Carbon Monoxide,viva,chief,0.14285714285714285
+Lost!,Carbon Monoxide,la,carbon,0.8
+Lost!,Carbon Monoxide,la,monoxide,0.4444444444444444
+Lost!,Carbon Monoxide,la,pressure,0.2857142857142857
+Lost!,Carbon Monoxide,la,chief,0.3076923076923077
+Lost!,Carbon Monoxide,friends,carbon,0.36363636363636365
+Lost!,Carbon Monoxide,friends,monoxide,0.2857142857142857
+Lost!,Carbon Monoxide,friends,pressure,0.3333333333333333
+Lost!,Carbon Monoxide,friends,chief,0.7058823529411765
+Lost!,Carbon Monoxide,death,carbon,0.2857142857142857
+Lost!,Carbon Monoxide,death,monoxide,0.23529411764705882
+Lost!,Carbon Monoxide,death,pressure,0.14285714285714285
+Lost!,Carbon Monoxide,death,chief,0.15384615384615385
+Lost!,Guitar,lost,guitar,0.13333333333333333
+Lost!,Guitar,lost,prolonging,0
+Lost!,Guitar,lost,magic,0.3076923076923077
+Lost!,Guitar,viva,guitar,0.1111111111111111
+Lost!,Guitar,viva,prolonging,0
+Lost!,Guitar,viva,magic,0.375
+Lost!,Guitar,la,guitar,0.23529411764705882
+Lost!,Guitar,la,prolonging,0
+Lost!,Guitar,la,magic,0.25
+Lost!,Guitar,friends,guitar,0.4444444444444444
+Lost!,Guitar,friends,prolonging,0
+Lost!,Guitar,friends,magic,0.15384615384615385
+Lost!,Guitar,death,guitar,0.11764705882352941
+Lost!,Guitar,death,prolonging,0
+Lost!,Guitar,death,magic,0.4
+Lost!,Opera Singer,lost,opera,0.3333333333333333
+Lost!,Opera Singer,lost,singer,0.15384615384615385
+Lost!,Opera Singer,lost,comfort,0.36363636363636365
+Lost!,Opera Singer,lost,eagle,0.11764705882352941
+Lost!,Opera Singer,viva,opera,0.26666666666666666
+Lost!,Opera Singer,viva,singer,0.125
+Lost!,Opera Singer,viva,comfort,0.2857142857142857
+Lost!,Opera Singer,viva,eagle,0.1
+Lost!,Opera Singer,la,opera,0.26666666666666666
+Lost!,Opera Singer,la,singer,0.26666666666666666
+Lost!,Opera Singer,la,comfort,0.2857142857142857
+Lost!,Opera Singer,la,eagle,0.21052631578947367
+Lost!,Opera Singer,friends,opera,0.16666666666666666
+Lost!,Opera Singer,friends,singer,0.631578947368421
+Lost!,Opera Singer,friends,comfort,0.18181818181818182
+Lost!,Opera Singer,friends,eagle,0.6
+Lost!,Opera Singer,death,opera,0.2857142857142857
+Lost!,Opera Singer,death,singer,0.13333333333333333
+Lost!,Opera Singer,death,comfort,0.3076923076923077
+Lost!,Opera Singer,death,eagle,0.10526315789473684
+Lost!,Waiting,lost,waiting,0.3333333333333333
+Lost!,Waiting,lost,pressure,0.16666666666666666
+Lost!,Waiting,lost,chief,0.18181818181818182
+Lost!,Waiting,viva,waiting,0.6666666666666666
+Lost!,Waiting,viva,pressure,0.13333333333333333
+Lost!,Waiting,viva,chief,0.14285714285714285
+Lost!,Waiting,la,waiting,0.26666666666666666
+Lost!,Waiting,la,pressure,0.2857142857142857
+Lost!,Waiting,la,chief,0.3076923076923077
+Lost!,Waiting,friends,waiting,0.16666666666666666
+Lost!,Waiting,friends,pressure,0.3333333333333333
+Lost!,Waiting,friends,chief,0.7058823529411765
+Lost!,Waiting,death,waiting,0.5714285714285714
+Lost!,Waiting,death,pressure,0.14285714285714285
+Lost!,Waiting,death,chief,0.15384615384615385
+Lost!,Alpha Beta Parking Lot,lost,alpha,0.2857142857142857
+Lost!,Alpha Beta Parking Lot,lost,beta,0.2857142857142857
+Lost!,Alpha Beta Parking Lot,lost,parking,0.36363636363636365
+Lost!,Alpha Beta Parking Lot,lost,lot,0.36363636363636365
+Lost!,Alpha Beta Parking Lot,lost,prolonging,0
+Lost!,Alpha Beta Parking Lot,lost,magic,0.3076923076923077
+Lost!,Alpha Beta Parking Lot,viva,alpha,0.23529411764705882
+Lost!,Alpha Beta Parking Lot,viva,beta,0.23529411764705882
+Lost!,Alpha Beta Parking Lot,viva,parking,0.2857142857142857
+Lost!,Alpha Beta Parking Lot,viva,lot,0.2857142857142857
+Lost!,Alpha Beta Parking Lot,viva,prolonging,0
+Lost!,Alpha Beta Parking Lot,viva,magic,0.375
+Lost!,Alpha Beta Parking Lot,la,alpha,0.23529411764705882
+Lost!,Alpha Beta Parking Lot,la,beta,0.23529411764705882
+Lost!,Alpha Beta Parking Lot,la,parking,0.42857142857142855
+Lost!,Alpha Beta Parking Lot,la,lot,0.2857142857142857
+Lost!,Alpha Beta Parking Lot,la,prolonging,0
+Lost!,Alpha Beta Parking Lot,la,magic,0.25
+Lost!,Alpha Beta Parking Lot,friends,alpha,0.14285714285714285
+Lost!,Alpha Beta Parking Lot,friends,beta,0.14285714285714285
+Lost!,Alpha Beta Parking Lot,friends,parking,0.18181818181818182
+Lost!,Alpha Beta Parking Lot,friends,lot,0.18181818181818182
+Lost!,Alpha Beta Parking Lot,friends,prolonging,0
+Lost!,Alpha Beta Parking Lot,friends,magic,0.15384615384615385
+Lost!,Alpha Beta Parking Lot,death,alpha,0.25
+Lost!,Alpha Beta Parking Lot,death,beta,0.25
+Lost!,Alpha Beta Parking Lot,death,parking,0.3076923076923077
+Lost!,Alpha Beta Parking Lot,death,lot,0.3076923076923077
+Lost!,Alpha Beta Parking Lot,death,prolonging,0
+Lost!,Alpha Beta Parking Lot,death,magic,0.4
+Lost!,No Phone,lost,phone,0.14285714285714285
+Lost!,No Phone,lost,pressure,0.16666666666666666
+Lost!,No Phone,lost,chief,0.18181818181818182
+Lost!,No Phone,viva,phone,0.11764705882352941
+Lost!,No Phone,viva,pressure,0.13333333333333333
+Lost!,No Phone,viva,chief,0.14285714285714285
+Lost!,No Phone,la,phone,0.25
+Lost!,No Phone,la,pressure,0.2857142857142857
+Lost!,No Phone,la,chief,0.3076923076923077
+Lost!,No Phone,friends,phone,0.47058823529411764
+Lost!,No Phone,friends,pressure,0.3333333333333333
+Lost!,No Phone,friends,chief,0.7058823529411765
+Lost!,No Phone,death,phone,0.125
+Lost!,No Phone,death,pressure,0.14285714285714285
+Lost!,No Phone,death,chief,0.15384615384615385
+Lost!,Commissioning A Symphony In C,lost,symphony,0.3076923076923077
+Lost!,Commissioning A Symphony In C,lost,commissioning,0.2857142857142857
+Lost!,Commissioning A Symphony In C,lost,c,0.3076923076923077
+Lost!,Commissioning A Symphony In C,lost,comfort,0.36363636363636365
+Lost!,Commissioning A Symphony In C,lost,eagle,0.11764705882352941
+Lost!,Commissioning A Symphony In C,viva,symphony,0.25
+Lost!,Commissioning A Symphony In C,viva,commissioning,0.5555555555555556
+Lost!,Commissioning A Symphony In C,viva,c,0.25
+Lost!,Commissioning A Symphony In C,viva,comfort,0.2857142857142857
+Lost!,Commissioning A Symphony In C,viva,eagle,0.1
+Lost!,Commissioning A Symphony In C,la,symphony,0.25
+Lost!,Commissioning A Symphony In C,la,commissioning,0.23529411764705882
+Lost!,Commissioning A Symphony In C,la,c,0.25
+Lost!,Commissioning A Symphony In C,la,comfort,0.2857142857142857
+Lost!,Commissioning A Symphony In C,la,eagle,0.21052631578947367
+Lost!,Commissioning A Symphony In C,friends,symphony,0.15384615384615385
+Lost!,Commissioning A Symphony In C,friends,commissioning,0.14285714285714285
+Lost!,Commissioning A Symphony In C,friends,c,0.15384615384615385
+Lost!,Commissioning A Symphony In C,friends,comfort,0.18181818181818182
+Lost!,Commissioning A Symphony In C,friends,eagle,0.6
+Lost!,Commissioning A Symphony In C,death,symphony,0.26666666666666666
+Lost!,Commissioning A Symphony In C,death,commissioning,0.5
+Lost!,Commissioning A Symphony In C,death,c,0.26666666666666666
+Lost!,Commissioning A Symphony In C,death,comfort,0.3076923076923077
+Lost!,Commissioning A Symphony In C,death,eagle,0.10526315789473684
+Lost!,Mexico,lost,mexico,0.13333333333333333
+Lost!,Mexico,lost,prolonging,0
+Lost!,Mexico,lost,magic,0.3076923076923077
+Lost!,Mexico,viva,mexico,0.1111111111111111
+Lost!,Mexico,viva,prolonging,0
+Lost!,Mexico,viva,magic,0.375
+Lost!,Mexico,la,mexico,0.23529411764705882
+Lost!,Mexico,la,prolonging,0
+Lost!,Mexico,la,magic,0.25
+Lost!,Mexico,friends,mexico,0.35294117647058826
+Lost!,Mexico,friends,prolonging,0
+Lost!,Mexico,friends,magic,0.15384615384615385
+Lost!,Mexico,death,mexico,0.11764705882352941
+Lost!,Mexico,death,prolonging,0
+Lost!,Mexico,death,magic,0.4
+Lost!,Mahna_ Mahna,lost,sides,0.18181818181818182
+Lost!,Mahna_ Mahna,lost,rarities,0.2857142857142857
+Lost!,Mahna_ Mahna,lost,b,0.13333333333333333
+Lost!,Mahna_ Mahna,viva,sides,0.14285714285714285
+Lost!,Mahna_ Mahna,viva,rarities,0.23529411764705882
+Lost!,Mahna_ Mahna,viva,b,0.1111111111111111
+Lost!,Mahna_ Mahna,la,sides,0.3076923076923077
+Lost!,Mahna_ Mahna,la,rarities,0.23529411764705882
+Lost!,Mahna_ Mahna,la,b,0.23529411764705882
+Lost!,Mahna_ Mahna,friends,sides,0.46153846153846156
+Lost!,Mahna_ Mahna,friends,rarities,0.14285714285714285
+Lost!,Mahna_ Mahna,friends,b,0.6666666666666666
+Lost!,Mahna_ Mahna,death,sides,0.15384615384615385
+Lost!,Mahna_ Mahna,death,rarities,0.25
+Lost!,Mahna_ Mahna,death,b,0.11764705882352941
+Lost!,Hey Mama,lost,mama,0.125
+Lost!,Hey Mama,viva,mama,0.10526315789473684
+Lost!,Hey Mama,la,mama,0.2222222222222222
+Lost!,Hey Mama,friends,mama,0.5454545454545454
+Lost!,Hey Mama,death,mama,0.1111111111111111
+Lost!,Pretty Pink Ribbon,lost,pretty,0
+Lost!,Pretty Pink Ribbon,lost,pink,0.3076923076923077
+Lost!,Pretty Pink Ribbon,lost,ribbon,0.2222222222222222
+Lost!,Pretty Pink Ribbon,lost,comfort,0.36363636363636365
+Lost!,Pretty Pink Ribbon,lost,eagle,0.11764705882352941
+Lost!,Pretty Pink Ribbon,viva,pretty,0
+Lost!,Pretty Pink Ribbon,viva,pink,0.25
+Lost!,Pretty Pink Ribbon,viva,ribbon,0.16666666666666666
+Lost!,Pretty Pink Ribbon,viva,comfort,0.2857142857142857
+Lost!,Pretty Pink Ribbon,viva,eagle,0.1
+Lost!,Pretty Pink Ribbon,la,pretty,0
+Lost!,Pretty Pink Ribbon,la,pink,0.25
+Lost!,Pretty Pink Ribbon,la,ribbon,0.36363636363636365
+Lost!,Pretty Pink Ribbon,la,comfort,0.2857142857142857
+Lost!,Pretty Pink Ribbon,la,eagle,0.21052631578947367
+Lost!,Pretty Pink Ribbon,friends,pretty,0
+Lost!,Pretty Pink Ribbon,friends,pink,0.15384615384615385
+Lost!,Pretty Pink Ribbon,friends,ribbon,0.5454545454545454
+Lost!,Pretty Pink Ribbon,friends,comfort,0.18181818181818182
+Lost!,Pretty Pink Ribbon,friends,eagle,0.6
+Lost!,Pretty Pink Ribbon,death,pretty,0
+Lost!,Pretty Pink Ribbon,death,pink,0.26666666666666666
+Lost!,Pretty Pink Ribbon,death,ribbon,0.18181818181818182
+Lost!,Pretty Pink Ribbon,death,comfort,0.3076923076923077
+Lost!,Pretty Pink Ribbon,death,eagle,0.10526315789473684
+Lost!,Pop Champagne,lost,pop,0.125
+Lost!,Pop Champagne,lost,champagne,0.23529411764705882
+Lost!,Pop Champagne,lost,pray,0
+Lost!,Pop Champagne,lost,iv,0.3076923076923077
+Lost!,Pop Champagne,lost,reign,0.36363636363636365
+Lost!,Pop Champagne,viva,pop,0.10526315789473684
+Lost!,Pop Champagne,viva,champagne,0.2
+Lost!,Pop Champagne,viva,pray,0
+Lost!,Pop Champagne,viva,iv,0.25
+Lost!,Pop Champagne,viva,reign,0.2857142857142857
+Lost!,Pop Champagne,la,pop,0.2222222222222222
+Lost!,Pop Champagne,la,champagne,0.4
+Lost!,Pop Champagne,la,pray,0
+Lost!,Pop Champagne,la,iv,0.25
+Lost!,Pop Champagne,la,reign,0.2857142857142857
+Lost!,Pop Champagne,friends,pop,0.5454545454545454
+Lost!,Pop Champagne,friends,champagne,0.4
+Lost!,Pop Champagne,friends,pray,0
+Lost!,Pop Champagne,friends,iv,0.15384615384615385
+Lost!,Pop Champagne,friends,reign,0.18181818181818182
+Lost!,Pop Champagne,death,pop,0.1111111111111111
+Lost!,Pop Champagne,death,champagne,0.21052631578947367
+Lost!,Pop Champagne,death,pray,0
+Lost!,Pop Champagne,death,iv,0.26666666666666666
+Lost!,Pop Champagne,death,reign,0.3076923076923077
+Lost!,Frank Sinatra,lost,frank,0.16666666666666666
+Lost!,Frank Sinatra,lost,sinatra,0.15384615384615385
+Lost!,Frank Sinatra,lost,fashion,0.4
+Lost!,Frank Sinatra,lost,nugget,0.18181818181818182
+Lost!,Frank Sinatra,viva,frank,0.13333333333333333
+Lost!,Frank Sinatra,viva,sinatra,0.125
+Lost!,Frank Sinatra,viva,fashion,0.3076923076923077
+Lost!,Frank Sinatra,viva,nugget,0.14285714285714285
+Lost!,Frank Sinatra,la,frank,0.2857142857142857
+Lost!,Frank Sinatra,la,sinatra,0.26666666666666666
+Lost!,Frank Sinatra,la,fashion,0.3076923076923077
+Lost!,Frank Sinatra,la,nugget,0.3076923076923077
+Lost!,Frank Sinatra,friends,frank,0.6666666666666666
+Lost!,Frank Sinatra,friends,sinatra,0.631578947368421
+Lost!,Frank Sinatra,friends,fashion,0.2
+Lost!,Frank Sinatra,friends,nugget,0.36363636363636365
+Lost!,Frank Sinatra,death,frank,0.14285714285714285
+Lost!,Frank Sinatra,death,sinatra,0.13333333333333333
+Lost!,Frank Sinatra,death,fashion,0.3333333333333333
+Lost!,Frank Sinatra,death,nugget,0.15384615384615385
+Lost!,Long Line Of Cars,lost,long,0
+Lost!,Long Line Of Cars,lost,line,0.5454545454545454
+Lost!,Long Line Of Cars,lost,cars,0.125
+Lost!,Long Line Of Cars,lost,comfort,0.36363636363636365
+Lost!,Long Line Of Cars,lost,eagle,0.11764705882352941
+Lost!,Long Line Of Cars,viva,long,0
+Lost!,Long Line Of Cars,viva,line,0.2857142857142857
+Lost!,Long Line Of Cars,viva,cars,0.10526315789473684
+Lost!,Long Line Of Cars,viva,comfort,0.2857142857142857
+Lost!,Long Line Of Cars,viva,eagle,0.1
+Lost!,Long Line Of Cars,la,long,0
+Lost!,Long Line Of Cars,la,line,0.2857142857142857
+Lost!,Long Line Of Cars,la,cars,0.2222222222222222
+Lost!,Long Line Of Cars,la,comfort,0.2857142857142857
+Lost!,Long Line Of Cars,la,eagle,0.21052631578947367
+Lost!,Long Line Of Cars,friends,long,0
+Lost!,Long Line Of Cars,friends,line,0.18181818181818182
+Lost!,Long Line Of Cars,friends,cars,0.42105263157894735
+Lost!,Long Line Of Cars,friends,comfort,0.18181818181818182
+Lost!,Long Line Of Cars,friends,eagle,0.6
+Lost!,Long Line Of Cars,death,long,0
+Lost!,Long Line Of Cars,death,line,0.3076923076923077
+Lost!,Long Line Of Cars,death,cars,0.1111111111111111
+Lost!,Long Line Of Cars,death,comfort,0.3076923076923077
+Lost!,Long Line Of Cars,death,eagle,0.10526315789473684
+Lost!,W,lost,free,0.8
+Lost!,W,lost,cloud,0.16666666666666666
+Lost!,W,viva,free,0.3076923076923077
+Lost!,W,viva,cloud,0.13333333333333333
+Lost!,W,la,free,0.3076923076923077
+Lost!,W,la,cloud,0.2857142857142857
+Lost!,W,friends,free,0.2
+Lost!,W,friends,cloud,0.3333333333333333
+Lost!,W,death,free,0.3333333333333333
+Lost!,W,death,cloud,0.14285714285714285
+Lost!,Let Me Go,lost,let,0.46153846153846156
+Lost!,Let Me Go,lost,go,0.2857142857142857
+Lost!,Let Me Go,lost,prolonging,0
+Lost!,Let Me Go,lost,magic,0.3076923076923077
+Lost!,Let Me Go,viva,let,0.25
+Lost!,Let Me Go,viva,go,0.23529411764705882
+Lost!,Let Me Go,viva,prolonging,0
+Lost!,Let Me Go,viva,magic,0.375
+Lost!,Let Me Go,la,let,0.25
+Lost!,Let Me Go,la,go,0.23529411764705882
+Lost!,Let Me Go,la,prolonging,0
+Lost!,Let Me Go,la,magic,0.25
+Lost!,Let Me Go,friends,let,0.15384615384615385
+Lost!,Let Me Go,friends,go,0.14285714285714285
+Lost!,Let Me Go,friends,prolonging,0
+Lost!,Let Me Go,friends,magic,0.15384615384615385
+Lost!,Let Me Go,death,let,0.26666666666666666
+Lost!,Let Me Go,death,go,0.25
+Lost!,Let Me Go,death,prolonging,0
+Lost!,Let Me Go,death,magic,0.4
+Lost!,Cool Blue Reason,lost,cool,0.3333333333333333
+Lost!,Cool Blue Reason,lost,blue,0.3076923076923077
+Lost!,Cool Blue Reason,lost,reason,0.36363636363636365
+Lost!,Cool Blue Reason,lost,prolonging,0
+Lost!,Cool Blue Reason,lost,magic,0.3076923076923077
+Lost!,Cool Blue Reason,viva,cool,0.26666666666666666
+Lost!,Cool Blue Reason,viva,blue,0.25
+Lost!,Cool Blue Reason,viva,reason,0.42857142857142855
+Lost!,Cool Blue Reason,viva,prolonging,0
+Lost!,Cool Blue Reason,viva,magic,0.375
+Lost!,Cool Blue Reason,la,cool,0.26666666666666666
+Lost!,Cool Blue Reason,la,blue,0.25
+Lost!,Cool Blue Reason,la,reason,0.2857142857142857
+Lost!,Cool Blue Reason,la,prolonging,0
+Lost!,Cool Blue Reason,la,magic,0.25
+Lost!,Cool Blue Reason,friends,cool,0.5
+Lost!,Cool Blue Reason,friends,blue,0.15384615384615385
+Lost!,Cool Blue Reason,friends,reason,0.18181818181818182
+Lost!,Cool Blue Reason,friends,prolonging,0
+Lost!,Cool Blue Reason,friends,magic,0.15384615384615385
+Lost!,Cool Blue Reason,death,cool,0.2857142857142857
+Lost!,Cool Blue Reason,death,blue,0.26666666666666666
+Lost!,Cool Blue Reason,death,reason,0.46153846153846156
+Lost!,Cool Blue Reason,death,prolonging,0
+Lost!,Cool Blue Reason,death,magic,0.4
+Yellow,Where Would I Be?,yellow,prolonging,0
+Yellow,Where Would I Be?,yellow,magic,0.25
+Yellow,Where Would I Be?,yellow,prolonging,0
+Yellow,Where Would I Be?,yellow,magic,0.25
+Yellow,Comfort Eagle,yellow,comfort,0.42857142857142855
+Yellow,Comfort Eagle,yellow,eagle,0.1
+Yellow,Comfort Eagle,yellow,comfort,0.42857142857142855
+Yellow,Comfort Eagle,yellow,eagle,0.1
+Yellow,Comfort Eagle,yellow,comfort,0.42857142857142855
+Yellow,Comfort Eagle,yellow,eagle,0.1
+Yellow,Comfort Eagle,yellow,comfort,0.42857142857142855
+Yellow,Comfort Eagle,yellow,eagle,0.1
+Yellow,Never There,yellow,never,0
+Yellow,Never There,yellow,prolonging,0
+Yellow,Never There,yellow,magic,0.25
+Yellow,Never There,yellow,never,0
+Yellow,Never There,yellow,prolonging,0
+Yellow,Never There,yellow,magic,0.25
+Yellow,Beautiful,yellow,beautiful,0
+Yellow,Beautiful,yellow,hotel,0.125
+Yellow,Beautiful,yellow,beautiful,0
+Yellow,Beautiful,yellow,hotel,0.125
+Yellow,Carbon Monoxide,yellow,carbon,0.26666666666666666
+Yellow,Carbon Monoxide,yellow,monoxide,0.2222222222222222
+Yellow,Carbon Monoxide,yellow,pressure,0.13333333333333333
+Yellow,Carbon Monoxide,yellow,chief,0.14285714285714285
+Yellow,Carbon Monoxide,yellow,carbon,0.26666666666666666
+Yellow,Carbon Monoxide,yellow,monoxide,0.2222222222222222
+Yellow,Carbon Monoxide,yellow,pressure,0.13333333333333333
+Yellow,Carbon Monoxide,yellow,chief,0.14285714285714285
+Yellow,Guitar,yellow,guitar,0.1111111111111111
+Yellow,Guitar,yellow,prolonging,0
+Yellow,Guitar,yellow,magic,0.25
+Yellow,Guitar,yellow,guitar,0.1111111111111111
+Yellow,Guitar,yellow,prolonging,0
+Yellow,Guitar,yellow,magic,0.25
+Yellow,Opera Singer,yellow,opera,0.26666666666666666
+Yellow,Opera Singer,yellow,singer,0.125
+Yellow,Opera Singer,yellow,comfort,0.42857142857142855
+Yellow,Opera Singer,yellow,eagle,0.1
+Yellow,Opera Singer,yellow,opera,0.26666666666666666
+Yellow,Opera Singer,yellow,singer,0.125
+Yellow,Opera Singer,yellow,comfort,0.42857142857142855
+Yellow,Opera Singer,yellow,eagle,0.1
+Yellow,Waiting,yellow,waiting,0.26666666666666666
+Yellow,Waiting,yellow,pressure,0.13333333333333333
+Yellow,Waiting,yellow,chief,0.14285714285714285
+Yellow,Waiting,yellow,waiting,0.26666666666666666
+Yellow,Waiting,yellow,pressure,0.13333333333333333
+Yellow,Waiting,yellow,chief,0.14285714285714285
+Yellow,Alpha Beta Parking Lot,yellow,alpha,0.23529411764705882
+Yellow,Alpha Beta Parking Lot,yellow,beta,0.23529411764705882
+Yellow,Alpha Beta Parking Lot,yellow,parking,0.2857142857142857
+Yellow,Alpha Beta Parking Lot,yellow,lot,0.2857142857142857
+Yellow,Alpha Beta Parking Lot,yellow,prolonging,0
+Yellow,Alpha Beta Parking Lot,yellow,magic,0.25
+Yellow,Alpha Beta Parking Lot,yellow,alpha,0.23529411764705882
+Yellow,Alpha Beta Parking Lot,yellow,beta,0.23529411764705882
+Yellow,Alpha Beta Parking Lot,yellow,parking,0.2857142857142857
+Yellow,Alpha Beta Parking Lot,yellow,lot,0.2857142857142857
+Yellow,Alpha Beta Parking Lot,yellow,prolonging,0
+Yellow,Alpha Beta Parking Lot,yellow,magic,0.25
+Yellow,No Phone,yellow,phone,0.11764705882352941
+Yellow,No Phone,yellow,pressure,0.13333333333333333
+Yellow,No Phone,yellow,chief,0.14285714285714285
+Yellow,No Phone,yellow,phone,0.11764705882352941
+Yellow,No Phone,yellow,pressure,0.13333333333333333
+Yellow,No Phone,yellow,chief,0.14285714285714285
+Yellow,Commissioning A Symphony In C,yellow,symphony,0.25
+Yellow,Commissioning A Symphony In C,yellow,commissioning,0.23529411764705882
+Yellow,Commissioning A Symphony In C,yellow,c,0.25
+Yellow,Commissioning A Symphony In C,yellow,comfort,0.42857142857142855
+Yellow,Commissioning A Symphony In C,yellow,eagle,0.1
+Yellow,Commissioning A Symphony In C,yellow,symphony,0.25
+Yellow,Commissioning A Symphony In C,yellow,commissioning,0.23529411764705882
+Yellow,Commissioning A Symphony In C,yellow,c,0.25
+Yellow,Commissioning A Symphony In C,yellow,comfort,0.42857142857142855
+Yellow,Commissioning A Symphony In C,yellow,eagle,0.1
+Yellow,Mexico,yellow,mexico,0.1111111111111111
+Yellow,Mexico,yellow,prolonging,0
+Yellow,Mexico,yellow,magic,0.25
+Yellow,Mexico,yellow,mexico,0.1111111111111111
+Yellow,Mexico,yellow,prolonging,0
+Yellow,Mexico,yellow,magic,0.25
+Yellow,Mahna_ Mahna,yellow,sides,0.14285714285714285
+Yellow,Mahna_ Mahna,yellow,rarities,0.47058823529411764
+Yellow,Mahna_ Mahna,yellow,b,0.1111111111111111
+Yellow,Mahna_ Mahna,yellow,sides,0.14285714285714285
+Yellow,Mahna_ Mahna,yellow,rarities,0.47058823529411764
+Yellow,Mahna_ Mahna,yellow,b,0.1111111111111111
+Yellow,Hey Mama,yellow,mama,0.10526315789473684
+Yellow,Hey Mama,yellow,mama,0.10526315789473684
+Yellow,Pretty Pink Ribbon,yellow,pretty,0
+Yellow,Pretty Pink Ribbon,yellow,pink,0.875
+Yellow,Pretty Pink Ribbon,yellow,ribbon,0.16666666666666666
+Yellow,Pretty Pink Ribbon,yellow,comfort,0.42857142857142855
+Yellow,Pretty Pink Ribbon,yellow,eagle,0.1
+Yellow,Pretty Pink Ribbon,yellow,pretty,0
+Yellow,Pretty Pink Ribbon,yellow,pink,0.875
+Yellow,Pretty Pink Ribbon,yellow,ribbon,0.16666666666666666
+Yellow,Pretty Pink Ribbon,yellow,comfort,0.42857142857142855
+Yellow,Pretty Pink Ribbon,yellow,eagle,0.1
+Yellow,Pop Champagne,yellow,pop,0.10526315789473684
+Yellow,Pop Champagne,yellow,champagne,0.2
+Yellow,Pop Champagne,yellow,pray,0
+Yellow,Pop Champagne,yellow,iv,0.25
+Yellow,Pop Champagne,yellow,reign,0.2857142857142857
+Yellow,Pop Champagne,yellow,pop,0.10526315789473684
+Yellow,Pop Champagne,yellow,champagne,0.2
+Yellow,Pop Champagne,yellow,pray,0
+Yellow,Pop Champagne,yellow,iv,0.25
+Yellow,Pop Champagne,yellow,reign,0.2857142857142857
+Yellow,Frank Sinatra,yellow,frank,0.13333333333333333
+Yellow,Frank Sinatra,yellow,sinatra,0.125
+Yellow,Frank Sinatra,yellow,fashion,0.6153846153846154
+Yellow,Frank Sinatra,yellow,nugget,0.14285714285714285
+Yellow,Frank Sinatra,yellow,frank,0.13333333333333333
+Yellow,Frank Sinatra,yellow,sinatra,0.125
+Yellow,Frank Sinatra,yellow,fashion,0.6153846153846154
+Yellow,Frank Sinatra,yellow,nugget,0.14285714285714285
+Yellow,Long Line Of Cars,yellow,long,0
+Yellow,Long Line Of Cars,yellow,line,0.2857142857142857
+Yellow,Long Line Of Cars,yellow,cars,0.10526315789473684
+Yellow,Long Line Of Cars,yellow,comfort,0.42857142857142855
+Yellow,Long Line Of Cars,yellow,eagle,0.1
+Yellow,Long Line Of Cars,yellow,long,0
+Yellow,Long Line Of Cars,yellow,line,0.2857142857142857
+Yellow,Long Line Of Cars,yellow,cars,0.10526315789473684
+Yellow,Long Line Of Cars,yellow,comfort,0.42857142857142855
+Yellow,Long Line Of Cars,yellow,eagle,0.1
+Yellow,W,yellow,free,0.3076923076923077
+Yellow,W,yellow,cloud,0.13333333333333333
+Yellow,W,yellow,free,0.3076923076923077
+Yellow,W,yellow,cloud,0.13333333333333333
+Yellow,Let Me Go,yellow,let,0.25
+Yellow,Let Me Go,yellow,go,0.23529411764705882
+Yellow,Let Me Go,yellow,prolonging,0
+Yellow,Let Me Go,yellow,magic,0.25
+Yellow,Let Me Go,yellow,let,0.25
+Yellow,Let Me Go,yellow,go,0.23529411764705882
+Yellow,Let Me Go,yellow,prolonging,0
+Yellow,Let Me Go,yellow,magic,0.25
+Yellow,Cool Blue Reason,yellow,cool,0.5
+Yellow,Cool Blue Reason,yellow,blue,0.875
+Yellow,Cool Blue Reason,yellow,reason,0.2857142857142857
+Yellow,Cool Blue Reason,yellow,prolonging,0
+Yellow,Cool Blue Reason,yellow,magic,0.25
+Yellow,Cool Blue Reason,yellow,cool,0.5
+Yellow,Cool Blue Reason,yellow,blue,0.875
+Yellow,Cool Blue Reason,yellow,reason,0.2857142857142857
+Yellow,Cool Blue Reason,yellow,prolonging,0
+Yellow,Cool Blue Reason,yellow,magic,0.25
+Yellow,Where Would I Be?,yellow,prolonging,0
+Yellow,Where Would I Be?,yellow,magic,0.25
+Yellow,Comfort Eagle,yellow,comfort,0.42857142857142855
+Yellow,Comfort Eagle,yellow,eagle,0.1
+Yellow,Comfort Eagle,yellow,comfort,0.42857142857142855
+Yellow,Comfort Eagle,yellow,eagle,0.1
+Yellow,Never There,yellow,never,0
+Yellow,Never There,yellow,prolonging,0
+Yellow,Never There,yellow,magic,0.25
+Yellow,Beautiful,yellow,beautiful,0
+Yellow,Beautiful,yellow,hotel,0.125
+Yellow,Carbon Monoxide,yellow,carbon,0.26666666666666666
+Yellow,Carbon Monoxide,yellow,monoxide,0.2222222222222222
+Yellow,Carbon Monoxide,yellow,pressure,0.13333333333333333
+Yellow,Carbon Monoxide,yellow,chief,0.14285714285714285
+Yellow,Guitar,yellow,guitar,0.1111111111111111
+Yellow,Guitar,yellow,prolonging,0
+Yellow,Guitar,yellow,magic,0.25
+Yellow,Opera Singer,yellow,opera,0.26666666666666666
+Yellow,Opera Singer,yellow,singer,0.125
+Yellow,Opera Singer,yellow,comfort,0.42857142857142855
+Yellow,Opera Singer,yellow,eagle,0.1
+Yellow,Waiting,yellow,waiting,0.26666666666666666
+Yellow,Waiting,yellow,pressure,0.13333333333333333
+Yellow,Waiting,yellow,chief,0.14285714285714285
+Yellow,Alpha Beta Parking Lot,yellow,alpha,0.23529411764705882
+Yellow,Alpha Beta Parking Lot,yellow,beta,0.23529411764705882
+Yellow,Alpha Beta Parking Lot,yellow,parking,0.2857142857142857
+Yellow,Alpha Beta Parking Lot,yellow,lot,0.2857142857142857
+Yellow,Alpha Beta Parking Lot,yellow,prolonging,0
+Yellow,Alpha Beta Parking Lot,yellow,magic,0.25
+Yellow,No Phone,yellow,phone,0.11764705882352941
+Yellow,No Phone,yellow,pressure,0.13333333333333333
+Yellow,No Phone,yellow,chief,0.14285714285714285
+Yellow,Commissioning A Symphony In C,yellow,symphony,0.25
+Yellow,Commissioning A Symphony In C,yellow,commissioning,0.23529411764705882
+Yellow,Commissioning A Symphony In C,yellow,c,0.25
+Yellow,Commissioning A Symphony In C,yellow,comfort,0.42857142857142855
+Yellow,Commissioning A Symphony In C,yellow,eagle,0.1
+Yellow,Mexico,yellow,mexico,0.1111111111111111
+Yellow,Mexico,yellow,prolonging,0
+Yellow,Mexico,yellow,magic,0.25
+Yellow,Mahna_ Mahna,yellow,sides,0.14285714285714285
+Yellow,Mahna_ Mahna,yellow,rarities,0.47058823529411764
+Yellow,Mahna_ Mahna,yellow,b,0.1111111111111111
+Yellow,Hey Mama,yellow,mama,0.10526315789473684
+Yellow,Pretty Pink Ribbon,yellow,pretty,0
+Yellow,Pretty Pink Ribbon,yellow,pink,0.875
+Yellow,Pretty Pink Ribbon,yellow,ribbon,0.16666666666666666
+Yellow,Pretty Pink Ribbon,yellow,comfort,0.42857142857142855
+Yellow,Pretty Pink Ribbon,yellow,eagle,0.1
+Yellow,Pop Champagne,yellow,pop,0.10526315789473684
+Yellow,Pop Champagne,yellow,champagne,0.2
+Yellow,Pop Champagne,yellow,pray,0
+Yellow,Pop Champagne,yellow,iv,0.25
+Yellow,Pop Champagne,yellow,reign,0.2857142857142857
+Yellow,Frank Sinatra,yellow,frank,0.13333333333333333
+Yellow,Frank Sinatra,yellow,sinatra,0.125
+Yellow,Frank Sinatra,yellow,fashion,0.6153846153846154
+Yellow,Frank Sinatra,yellow,nugget,0.14285714285714285
+Yellow,Long Line Of Cars,yellow,long,0
+Yellow,Long Line Of Cars,yellow,line,0.2857142857142857
+Yellow,Long Line Of Cars,yellow,cars,0.10526315789473684
+Yellow,Long Line Of Cars,yellow,comfort,0.42857142857142855
+Yellow,Long Line Of Cars,yellow,eagle,0.1
+Yellow,W,yellow,free,0.3076923076923077
+Yellow,W,yellow,cloud,0.13333333333333333
+Yellow,Let Me Go,yellow,let,0.25
+Yellow,Let Me Go,yellow,go,0.23529411764705882
+Yellow,Let Me Go,yellow,prolonging,0
+Yellow,Let Me Go,yellow,magic,0.25
+Yellow,Cool Blue Reason,yellow,cool,0.5
+Yellow,Cool Blue Reason,yellow,blue,0.875
+Yellow,Cool Blue Reason,yellow,reason,0.2857142857142857
+Yellow,Cool Blue Reason,yellow,prolonging,0
+Yellow,Cool Blue Reason,yellow,magic,0.25
+Speed Of Sound,Where Would I Be?,speed,prolonging,0
+Speed Of Sound,Where Would I Be?,speed,magic,0.2857142857142857
+Speed Of Sound,Where Would I Be?,sound,prolonging,0
+Speed Of Sound,Where Would I Be?,sound,magic,0.2857142857142857
+Speed Of Sound,Where Would I Be?,speed,prolonging,0
+Speed Of Sound,Where Would I Be?,speed,magic,0.2857142857142857
+Speed Of Sound,Where Would I Be?,sound,prolonging,0
+Speed Of Sound,Where Would I Be?,sound,magic,0.2857142857142857
+Speed Of Sound,Comfort Eagle,speed,comfort,0.3333333333333333
+Speed Of Sound,Comfort Eagle,speed,eagle,0.1111111111111111
+Speed Of Sound,Comfort Eagle,speed,comfort,0.3333333333333333
+Speed Of Sound,Comfort Eagle,speed,eagle,0.1111111111111111
+Speed Of Sound,Comfort Eagle,sound,comfort,0.5
+Speed Of Sound,Comfort Eagle,sound,eagle,0.1111111111111111
+Speed Of Sound,Comfort Eagle,sound,comfort,0.5
+Speed Of Sound,Comfort Eagle,sound,eagle,0.1111111111111111
+Speed Of Sound,Comfort Eagle,speed,comfort,0.3333333333333333
+Speed Of Sound,Comfort Eagle,speed,eagle,0.1111111111111111
+Speed Of Sound,Comfort Eagle,speed,comfort,0.3333333333333333
+Speed Of Sound,Comfort Eagle,speed,eagle,0.1111111111111111
+Speed Of Sound,Comfort Eagle,sound,comfort,0.5
+Speed Of Sound,Comfort Eagle,sound,eagle,0.1111111111111111
+Speed Of Sound,Comfort Eagle,sound,comfort,0.5
+Speed Of Sound,Comfort Eagle,sound,eagle,0.1111111111111111
+Speed Of Sound,Never There,speed,never,0
+Speed Of Sound,Never There,speed,prolonging,0
+Speed Of Sound,Never There,speed,magic,0.2857142857142857
+Speed Of Sound,Never There,sound,never,0
+Speed Of Sound,Never There,sound,prolonging,0
+Speed Of Sound,Never There,sound,magic,0.2857142857142857
+Speed Of Sound,Never There,speed,never,0
+Speed Of Sound,Never There,speed,prolonging,0
+Speed Of Sound,Never There,speed,magic,0.2857142857142857
+Speed Of Sound,Never There,sound,never,0
+Speed Of Sound,Never There,sound,prolonging,0
+Speed Of Sound,Never There,sound,magic,0.2857142857142857
+Speed Of Sound,Beautiful,speed,beautiful,0
+Speed Of Sound,Beautiful,speed,hotel,0.14285714285714285
+Speed Of Sound,Beautiful,sound,beautiful,0
+Speed Of Sound,Beautiful,sound,hotel,0.14285714285714285
+Speed Of Sound,Beautiful,speed,beautiful,0
+Speed Of Sound,Beautiful,speed,hotel,0.14285714285714285
+Speed Of Sound,Beautiful,sound,beautiful,0
+Speed Of Sound,Beautiful,sound,hotel,0.14285714285714285
+Speed Of Sound,Carbon Monoxide,speed,carbon,0.46153846153846156
+Speed Of Sound,Carbon Monoxide,speed,monoxide,0.375
+Speed Of Sound,Carbon Monoxide,speed,pressure,0.15384615384615385
+Speed Of Sound,Carbon Monoxide,speed,chief,0.16666666666666666
+Speed Of Sound,Carbon Monoxide,sound,carbon,0.3076923076923077
+Speed Of Sound,Carbon Monoxide,sound,monoxide,0.25
+Speed Of Sound,Carbon Monoxide,sound,pressure,0.15384615384615385
+Speed Of Sound,Carbon Monoxide,sound,chief,0.16666666666666666
+Speed Of Sound,Carbon Monoxide,speed,carbon,0.46153846153846156
+Speed Of Sound,Carbon Monoxide,speed,monoxide,0.375
+Speed Of Sound,Carbon Monoxide,speed,pressure,0.15384615384615385
+Speed Of Sound,Carbon Monoxide,speed,chief,0.16666666666666666
+Speed Of Sound,Carbon Monoxide,sound,carbon,0.3076923076923077
+Speed Of Sound,Carbon Monoxide,sound,monoxide,0.25
+Speed Of Sound,Carbon Monoxide,sound,pressure,0.15384615384615385
+Speed Of Sound,Carbon Monoxide,sound,chief,0.16666666666666666
+Speed Of Sound,Guitar,speed,guitar,0.125
+Speed Of Sound,Guitar,speed,prolonging,0
+Speed Of Sound,Guitar,speed,magic,0.2857142857142857
+Speed Of Sound,Guitar,sound,guitar,0.125
+Speed Of Sound,Guitar,sound,prolonging,0
+Speed Of Sound,Guitar,sound,magic,0.2857142857142857
+Speed Of Sound,Guitar,speed,guitar,0.125
+Speed Of Sound,Guitar,speed,prolonging,0
+Speed Of Sound,Guitar,speed,magic,0.2857142857142857
+Speed Of Sound,Guitar,sound,guitar,0.125
+Speed Of Sound,Guitar,sound,prolonging,0
+Speed Of Sound,Guitar,sound,magic,0.2857142857142857
+Speed Of Sound,Opera Singer,speed,opera,0.3076923076923077
+Speed Of Sound,Opera Singer,speed,singer,0.14285714285714285
+Speed Of Sound,Opera Singer,speed,comfort,0.3333333333333333
+Speed Of Sound,Opera Singer,speed,eagle,0.1111111111111111
+Speed Of Sound,Opera Singer,sound,opera,0.3076923076923077
+Speed Of Sound,Opera Singer,sound,singer,0.14285714285714285
+Speed Of Sound,Opera Singer,sound,comfort,0.5
+Speed Of Sound,Opera Singer,sound,eagle,0.1111111111111111
+Speed Of Sound,Opera Singer,speed,opera,0.3076923076923077
+Speed Of Sound,Opera Singer,speed,singer,0.14285714285714285
+Speed Of Sound,Opera Singer,speed,comfort,0.3333333333333333
+Speed Of Sound,Opera Singer,speed,eagle,0.1111111111111111
+Speed Of Sound,Opera Singer,sound,opera,0.3076923076923077
+Speed Of Sound,Opera Singer,sound,singer,0.14285714285714285
+Speed Of Sound,Opera Singer,sound,comfort,0.5
+Speed Of Sound,Opera Singer,sound,eagle,0.1111111111111111
+Speed Of Sound,Waiting,speed,waiting,0.3076923076923077
+Speed Of Sound,Waiting,speed,pressure,0.15384615384615385
+Speed Of Sound,Waiting,speed,chief,0.16666666666666666
+Speed Of Sound,Waiting,sound,waiting,0.3076923076923077
+Speed Of Sound,Waiting,sound,pressure,0.15384615384615385
+Speed Of Sound,Waiting,sound,chief,0.16666666666666666
+Speed Of Sound,Waiting,speed,waiting,0.3076923076923077
+Speed Of Sound,Waiting,speed,pressure,0.15384615384615385
+Speed Of Sound,Waiting,speed,chief,0.16666666666666666
+Speed Of Sound,Waiting,sound,waiting,0.3076923076923077
+Speed Of Sound,Waiting,sound,pressure,0.15384615384615385
+Speed Of Sound,Waiting,sound,chief,0.16666666666666666
+Speed Of Sound,Alpha Beta Parking Lot,speed,alpha,0.26666666666666666
+Speed Of Sound,Alpha Beta Parking Lot,speed,beta,0.26666666666666666
+Speed Of Sound,Alpha Beta Parking Lot,speed,parking,0.5
+Speed Of Sound,Alpha Beta Parking Lot,speed,lot,0.3333333333333333
+Speed Of Sound,Alpha Beta Parking Lot,speed,prolonging,0
+Speed Of Sound,Alpha Beta Parking Lot,speed,magic,0.2857142857142857
+Speed Of Sound,Alpha Beta Parking Lot,sound,alpha,0.26666666666666666
+Speed Of Sound,Alpha Beta Parking Lot,sound,beta,0.26666666666666666
+Speed Of Sound,Alpha Beta Parking Lot,sound,parking,0.3333333333333333
+Speed Of Sound,Alpha Beta Parking Lot,sound,lot,0.3333333333333333
+Speed Of Sound,Alpha Beta Parking Lot,sound,prolonging,0
+Speed Of Sound,Alpha Beta Parking Lot,sound,magic,0.2857142857142857
+Speed Of Sound,Alpha Beta Parking Lot,speed,alpha,0.26666666666666666
+Speed Of Sound,Alpha Beta Parking Lot,speed,beta,0.26666666666666666
+Speed Of Sound,Alpha Beta Parking Lot,speed,parking,0.5
+Speed Of Sound,Alpha Beta Parking Lot,speed,lot,0.3333333333333333
+Speed Of Sound,Alpha Beta Parking Lot,speed,prolonging,0
+Speed Of Sound,Alpha Beta Parking Lot,speed,magic,0.2857142857142857
+Speed Of Sound,Alpha Beta Parking Lot,sound,alpha,0.26666666666666666
+Speed Of Sound,Alpha Beta Parking Lot,sound,beta,0.26666666666666666
+Speed Of Sound,Alpha Beta Parking Lot,sound,parking,0.3333333333333333
+Speed Of Sound,Alpha Beta Parking Lot,sound,lot,0.3333333333333333
+Speed Of Sound,Alpha Beta Parking Lot,sound,prolonging,0
+Speed Of Sound,Alpha Beta Parking Lot,sound,magic,0.2857142857142857
+Speed Of Sound,No Phone,speed,phone,0.13333333333333333
+Speed Of Sound,No Phone,speed,pressure,0.15384615384615385
+Speed Of Sound,No Phone,speed,chief,0.16666666666666666
+Speed Of Sound,No Phone,sound,phone,0.13333333333333333
+Speed Of Sound,No Phone,sound,pressure,0.15384615384615385
+Speed Of Sound,No Phone,sound,chief,0.16666666666666666
+Speed Of Sound,No Phone,speed,phone,0.13333333333333333
+Speed Of Sound,No Phone,speed,pressure,0.15384615384615385
+Speed Of Sound,No Phone,speed,chief,0.16666666666666666
+Speed Of Sound,No Phone,sound,phone,0.13333333333333333
+Speed Of Sound,No Phone,sound,pressure,0.15384615384615385
+Speed Of Sound,No Phone,sound,chief,0.16666666666666666
+Speed Of Sound,Commissioning A Symphony In C,speed,symphony,0.2857142857142857
+Speed Of Sound,Commissioning A Symphony In C,speed,commissioning,0.26666666666666666
+Speed Of Sound,Commissioning A Symphony In C,speed,c,0.2857142857142857
+Speed Of Sound,Commissioning A Symphony In C,speed,comfort,0.3333333333333333
+Speed Of Sound,Commissioning A Symphony In C,speed,eagle,0.1111111111111111
+Speed Of Sound,Commissioning A Symphony In C,sound,symphony,0.2857142857142857
+Speed Of Sound,Commissioning A Symphony In C,sound,commissioning,0.26666666666666666
+Speed Of Sound,Commissioning A Symphony In C,sound,c,0.2857142857142857
+Speed Of Sound,Commissioning A Symphony In C,sound,comfort,0.5
+Speed Of Sound,Commissioning A Symphony In C,sound,eagle,0.1111111111111111
+Speed Of Sound,Commissioning A Symphony In C,speed,symphony,0.2857142857142857
+Speed Of Sound,Commissioning A Symphony In C,speed,commissioning,0.26666666666666666
+Speed Of Sound,Commissioning A Symphony In C,speed,c,0.2857142857142857
+Speed Of Sound,Commissioning A Symphony In C,speed,comfort,0.3333333333333333
+Speed Of Sound,Commissioning A Symphony In C,speed,eagle,0.1111111111111111
+Speed Of Sound,Commissioning A Symphony In C,sound,symphony,0.2857142857142857
+Speed Of Sound,Commissioning A Symphony In C,sound,commissioning,0.26666666666666666
+Speed Of Sound,Commissioning A Symphony In C,sound,c,0.2857142857142857
+Speed Of Sound,Commissioning A Symphony In C,sound,comfort,0.5
+Speed Of Sound,Commissioning A Symphony In C,sound,eagle,0.1111111111111111
+Speed Of Sound,Mexico,speed,mexico,0.125
+Speed Of Sound,Mexico,speed,prolonging,0
+Speed Of Sound,Mexico,speed,magic,0.2857142857142857
+Speed Of Sound,Mexico,sound,mexico,0.125
+Speed Of Sound,Mexico,sound,prolonging,0
+Speed Of Sound,Mexico,sound,magic,0.2857142857142857
+Speed Of Sound,Mexico,speed,mexico,0.125
+Speed Of Sound,Mexico,speed,prolonging,0
+Speed Of Sound,Mexico,speed,magic,0.2857142857142857
+Speed Of Sound,Mexico,sound,mexico,0.125
+Speed Of Sound,Mexico,sound,prolonging,0
+Speed Of Sound,Mexico,sound,magic,0.2857142857142857
+Speed Of Sound,Mahna_ Mahna,speed,sides,0.16666666666666666
+Speed Of Sound,Mahna_ Mahna,speed,rarities,0.26666666666666666
+Speed Of Sound,Mahna_ Mahna,speed,b,0.125
+Speed Of Sound,Mahna_ Mahna,sound,sides,0.16666666666666666
+Speed Of Sound,Mahna_ Mahna,sound,rarities,0.5333333333333333
+Speed Of Sound,Mahna_ Mahna,sound,b,0.125
+Speed Of Sound,Mahna_ Mahna,speed,sides,0.16666666666666666
+Speed Of Sound,Mahna_ Mahna,speed,rarities,0.26666666666666666
+Speed Of Sound,Mahna_ Mahna,speed,b,0.125
+Speed Of Sound,Mahna_ Mahna,sound,sides,0.16666666666666666
+Speed Of Sound,Mahna_ Mahna,sound,rarities,0.5333333333333333
+Speed Of Sound,Mahna_ Mahna,sound,b,0.125
+Speed Of Sound,Hey Mama,speed,mama,0.11764705882352941
+Speed Of Sound,Hey Mama,sound,mama,0.11764705882352941
+Speed Of Sound,Hey Mama,speed,mama,0.11764705882352941
+Speed Of Sound,Hey Mama,sound,mama,0.11764705882352941
+Speed Of Sound,Pretty Pink Ribbon,speed,pretty,0
+Speed Of Sound,Pretty Pink Ribbon,speed,pink,0.2857142857142857
+Speed Of Sound,Pretty Pink Ribbon,speed,ribbon,0.2
+Speed Of Sound,Pretty Pink Ribbon,speed,comfort,0.3333333333333333
+Speed Of Sound,Pretty Pink Ribbon,speed,eagle,0.1111111111111111
+Speed Of Sound,Pretty Pink Ribbon,sound,pretty,0
+Speed Of Sound,Pretty Pink Ribbon,sound,pink,0.5714285714285714
+Speed Of Sound,Pretty Pink Ribbon,sound,ribbon,0.2
+Speed Of Sound,Pretty Pink Ribbon,sound,comfort,0.5
+Speed Of Sound,Pretty Pink Ribbon,sound,eagle,0.1111111111111111
+Speed Of Sound,Pretty Pink Ribbon,speed,pretty,0
+Speed Of Sound,Pretty Pink Ribbon,speed,pink,0.2857142857142857
+Speed Of Sound,Pretty Pink Ribbon,speed,ribbon,0.2
+Speed Of Sound,Pretty Pink Ribbon,speed,comfort,0.3333333333333333
+Speed Of Sound,Pretty Pink Ribbon,speed,eagle,0.1111111111111111
+Speed Of Sound,Pretty Pink Ribbon,sound,pretty,0
+Speed Of Sound,Pretty Pink Ribbon,sound,pink,0.5714285714285714
+Speed Of Sound,Pretty Pink Ribbon,sound,ribbon,0.2
+Speed Of Sound,Pretty Pink Ribbon,sound,comfort,0.5
+Speed Of Sound,Pretty Pink Ribbon,sound,eagle,0.1111111111111111
+Speed Of Sound,Pop Champagne,speed,pop,0.11764705882352941
+Speed Of Sound,Pop Champagne,speed,champagne,0.3333333333333333
+Speed Of Sound,Pop Champagne,speed,pray,0
+Speed Of Sound,Pop Champagne,speed,iv,0.2857142857142857
+Speed Of Sound,Pop Champagne,speed,reign,0.3333333333333333
+Speed Of Sound,Pop Champagne,sound,pop,0.11764705882352941
+Speed Of Sound,Pop Champagne,sound,champagne,0.2222222222222222
+Speed Of Sound,Pop Champagne,sound,pray,0
+Speed Of Sound,Pop Champagne,sound,iv,0.2857142857142857
+Speed Of Sound,Pop Champagne,sound,reign,0.3333333333333333
+Speed Of Sound,Pop Champagne,speed,pop,0.11764705882352941
+Speed Of Sound,Pop Champagne,speed,champagne,0.3333333333333333
+Speed Of Sound,Pop Champagne,speed,pray,0
+Speed Of Sound,Pop Champagne,speed,iv,0.2857142857142857
+Speed Of Sound,Pop Champagne,speed,reign,0.3333333333333333
+Speed Of Sound,Pop Champagne,sound,pop,0.11764705882352941
+Speed Of Sound,Pop Champagne,sound,champagne,0.2222222222222222
+Speed Of Sound,Pop Champagne,sound,pray,0
+Speed Of Sound,Pop Champagne,sound,iv,0.2857142857142857
+Speed Of Sound,Pop Champagne,sound,reign,0.3333333333333333
+Speed Of Sound,Frank Sinatra,speed,frank,0.15384615384615385
+Speed Of Sound,Frank Sinatra,speed,sinatra,0.14285714285714285
+Speed Of Sound,Frank Sinatra,speed,fashion,0.36363636363636365
+Speed Of Sound,Frank Sinatra,speed,nugget,0.16666666666666666
+Speed Of Sound,Frank Sinatra,sound,frank,0.15384615384615385
+Speed Of Sound,Frank Sinatra,sound,sinatra,0.14285714285714285
+Speed Of Sound,Frank Sinatra,sound,fashion,0.7272727272727273
+Speed Of Sound,Frank Sinatra,sound,nugget,0.16666666666666666
+Speed Of Sound,Frank Sinatra,speed,frank,0.15384615384615385
+Speed Of Sound,Frank Sinatra,speed,sinatra,0.14285714285714285
+Speed Of Sound,Frank Sinatra,speed,fashion,0.36363636363636365
+Speed Of Sound,Frank Sinatra,speed,nugget,0.16666666666666666
+Speed Of Sound,Frank Sinatra,sound,frank,0.15384615384615385
+Speed Of Sound,Frank Sinatra,sound,sinatra,0.14285714285714285
+Speed Of Sound,Frank Sinatra,sound,fashion,0.7272727272727273
+Speed Of Sound,Frank Sinatra,sound,nugget,0.16666666666666666
+Speed Of Sound,Long Line Of Cars,speed,long,0
+Speed Of Sound,Long Line Of Cars,speed,line,0.3333333333333333
+Speed Of Sound,Long Line Of Cars,speed,cars,0.11764705882352941
+Speed Of Sound,Long Line Of Cars,speed,comfort,0.3333333333333333
+Speed Of Sound,Long Line Of Cars,speed,eagle,0.1111111111111111
+Speed Of Sound,Long Line Of Cars,sound,long,0
+Speed Of Sound,Long Line Of Cars,sound,line,0.3333333333333333
+Speed Of Sound,Long Line Of Cars,sound,cars,0.11764705882352941
+Speed Of Sound,Long Line Of Cars,sound,comfort,0.5
+Speed Of Sound,Long Line Of Cars,sound,eagle,0.1111111111111111
+Speed Of Sound,Long Line Of Cars,speed,long,0
+Speed Of Sound,Long Line Of Cars,speed,line,0.3333333333333333
+Speed Of Sound,Long Line Of Cars,speed,cars,0.11764705882352941
+Speed Of Sound,Long Line Of Cars,speed,comfort,0.3333333333333333
+Speed Of Sound,Long Line Of Cars,speed,eagle,0.1111111111111111
+Speed Of Sound,Long Line Of Cars,sound,long,0
+Speed Of Sound,Long Line Of Cars,sound,line,0.3333333333333333
+Speed Of Sound,Long Line Of Cars,sound,cars,0.11764705882352941
+Speed Of Sound,Long Line Of Cars,sound,comfort,0.5
+Speed Of Sound,Long Line Of Cars,sound,eagle,0.1111111111111111
+Speed Of Sound,W,speed,free,0.36363636363636365
+Speed Of Sound,W,speed,cloud,0.15384615384615385
+Speed Of Sound,W,sound,free,0.36363636363636365
+Speed Of Sound,W,sound,cloud,0.15384615384615385
+Speed Of Sound,W,speed,free,0.36363636363636365
+Speed Of Sound,W,speed,cloud,0.15384615384615385
+Speed Of Sound,W,sound,free,0.36363636363636365
+Speed Of Sound,W,sound,cloud,0.15384615384615385
+Speed Of Sound,Let Me Go,speed,let,0.2857142857142857
+Speed Of Sound,Let Me Go,speed,go,0.26666666666666666
+Speed Of Sound,Let Me Go,speed,prolonging,0
+Speed Of Sound,Let Me Go,speed,magic,0.2857142857142857
+Speed Of Sound,Let Me Go,sound,let,0.2857142857142857
+Speed Of Sound,Let Me Go,sound,go,0.26666666666666666
+Speed Of Sound,Let Me Go,sound,prolonging,0
+Speed Of Sound,Let Me Go,sound,magic,0.2857142857142857
+Speed Of Sound,Let Me Go,speed,let,0.2857142857142857
+Speed Of Sound,Let Me Go,speed,go,0.26666666666666666
+Speed Of Sound,Let Me Go,speed,prolonging,0
+Speed Of Sound,Let Me Go,speed,magic,0.2857142857142857
+Speed Of Sound,Let Me Go,sound,let,0.2857142857142857
+Speed Of Sound,Let Me Go,sound,go,0.26666666666666666
+Speed Of Sound,Let Me Go,sound,prolonging,0
+Speed Of Sound,Let Me Go,sound,magic,0.2857142857142857
+Speed Of Sound,Cool Blue Reason,speed,cool,0.3076923076923077
+Speed Of Sound,Cool Blue Reason,speed,blue,0.2857142857142857
+Speed Of Sound,Cool Blue Reason,speed,reason,0.3333333333333333
+Speed Of Sound,Cool Blue Reason,speed,prolonging,0
+Speed Of Sound,Cool Blue Reason,speed,magic,0.2857142857142857
+Speed Of Sound,Cool Blue Reason,sound,cool,0.5714285714285714
+Speed Of Sound,Cool Blue Reason,sound,blue,0.5714285714285714
+Speed Of Sound,Cool Blue Reason,sound,reason,0.3333333333333333
+Speed Of Sound,Cool Blue Reason,sound,prolonging,0
+Speed Of Sound,Cool Blue Reason,sound,magic,0.2857142857142857
+Speed Of Sound,Cool Blue Reason,speed,cool,0.3076923076923077
+Speed Of Sound,Cool Blue Reason,speed,blue,0.2857142857142857
+Speed Of Sound,Cool Blue Reason,speed,reason,0.3333333333333333
+Speed Of Sound,Cool Blue Reason,speed,prolonging,0
+Speed Of Sound,Cool Blue Reason,speed,magic,0.2857142857142857
+Speed Of Sound,Cool Blue Reason,sound,cool,0.5714285714285714
+Speed Of Sound,Cool Blue Reason,sound,blue,0.5714285714285714
+Speed Of Sound,Cool Blue Reason,sound,reason,0.3333333333333333
+Speed Of Sound,Cool Blue Reason,sound,prolonging,0
+Speed Of Sound,Cool Blue Reason,sound,magic,0.2857142857142857

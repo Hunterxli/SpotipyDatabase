@@ -1,0 +1,2369 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,O Hosanna,sun,hosanna,0.13333333333333333
+Sun Hands,O Hosanna,sun,volume,0.16666666666666666
+Sun Hands,O Hosanna,sun,songs,0.13333333333333333
+Sun Hands,O Hosanna,hands,hosanna,0.25
+Sun Hands,O Hosanna,hands,volume,0.3076923076923077
+Sun Hands,O Hosanna,hands,songs,0.25
+Sun Hands,O Hosanna,gorilla,hosanna,0.08695652173913043
+Sun Hands,O Hosanna,gorilla,volume,0.1
+Sun Hands,O Hosanna,gorilla,songs,0.08695652173913043
+Sun Hands,O Hosanna,manor,hosanna,0.11764705882352941
+Sun Hands,O Hosanna,manor,volume,0.14285714285714285
+Sun Hands,O Hosanna,manor,songs,0.11764705882352941
+Sun Hands,Les derniers aventuriers,sun,last,0.14285714285714285
+Sun Hands,Les derniers aventuriers,sun,adventurers,0.5
+Sun Hands,Les derniers aventuriers,sun,direction,0.4
+Sun Hands,Les derniers aventuriers,hands,last,0.26666666666666666
+Sun Hands,Les derniers aventuriers,hands,adventurers,0.14285714285714285
+Sun Hands,Les derniers aventuriers,hands,direction,0.125
+Sun Hands,Les derniers aventuriers,gorilla,last,0.09090909090909091
+Sun Hands,Les derniers aventuriers,gorilla,adventurers,0.5
+Sun Hands,Les derniers aventuriers,gorilla,direction,0.2608695652173913
+Sun Hands,Les derniers aventuriers,manor,last,0.125
+Sun Hands,Les derniers aventuriers,manor,adventurers,0.4444444444444444
+Sun Hands,Les derniers aventuriers,manor,direction,0.35294117647058826
+Sun Hands,Love Comes Tumbling,sun,love,0.13333333333333333
+Sun Hands,Love Comes Tumbling,sun,comes,0.26666666666666666
+Sun Hands,Love Comes Tumbling,sun,tumbling,0.1111111111111111
+Sun Hands,Love Comes Tumbling,sun,wide,0
+Sun Hands,Love Comes Tumbling,sun,awake,0
+Sun Hands,Love Comes Tumbling,sun,america,0.3333333333333333
+Sun Hands,Love Comes Tumbling,hands,love,0.25
+Sun Hands,Love Comes Tumbling,hands,comes,0.23529411764705882
+Sun Hands,Love Comes Tumbling,hands,tumbling,0.5
+Sun Hands,Love Comes Tumbling,hands,wide,0
+Sun Hands,Love Comes Tumbling,hands,awake,0
+Sun Hands,Love Comes Tumbling,hands,america,0.10526315789473684
+Sun Hands,Love Comes Tumbling,gorilla,love,0.08695652173913043
+Sun Hands,Love Comes Tumbling,gorilla,comes,0.17391304347826086
+Sun Hands,Love Comes Tumbling,gorilla,tumbling,0.07692307692307693
+Sun Hands,Love Comes Tumbling,gorilla,wide,0
+Sun Hands,Love Comes Tumbling,gorilla,awake,0
+Sun Hands,Love Comes Tumbling,gorilla,america,0.23076923076923078
+Sun Hands,Love Comes Tumbling,manor,love,0.11764705882352941
+Sun Hands,Love Comes Tumbling,manor,comes,0.23529411764705882
+Sun Hands,Love Comes Tumbling,manor,tumbling,0.1
+Sun Hands,Love Comes Tumbling,manor,wide,0
+Sun Hands,Love Comes Tumbling,manor,awake,0
+Sun Hands,Love Comes Tumbling,manor,america,0.3
+Sun Hands,Witch Doctor,sun,witch,0.47058823529411764
+Sun Hands,Witch Doctor,sun,doctor,0.4
+Sun Hands,Witch Doctor,sun,chipmunks,0.36363636363636365
+Sun Hands,Witch Doctor,hands,witch,0.13333333333333333
+Sun Hands,Witch Doctor,hands,doctor,0.1111111111111111
+Sun Hands,Witch Doctor,hands,chipmunks,0.08695652173913043
+Sun Hands,Witch Doctor,gorilla,witch,0.48
+Sun Hands,Witch Doctor,gorilla,doctor,0.42857142857142855
+Sun Hands,Witch Doctor,gorilla,chipmunks,0.7333333333333333
+Sun Hands,Witch Doctor,manor,witch,0.42105263157894735
+Sun Hands,Witch Doctor,manor,doctor,0.36363636363636365
+Sun Hands,Witch Doctor,manor,chipmunks,0.3333333333333333
+Sun Hands,Sehr kosmisch,sun,cosmic,0
+Sun Hands,Sehr kosmisch,sun,music,0.15384615384615385
+Sun Hands,Sehr kosmisch,hands,cosmic,0
+Sun Hands,Sehr kosmisch,hands,music,0.2857142857142857
+Sun Hands,Sehr kosmisch,gorilla,cosmic,0
+Sun Hands,Sehr kosmisch,gorilla,music,0.09523809523809523
+Sun Hands,Sehr kosmisch,manor,cosmic,0
+Sun Hands,Sehr kosmisch,manor,music,0.13333333333333333
+Sun Hands,I Salute,sun,salute,0.13333333333333333
+Sun Hands,I Salute,sun,another,0
+Sun Hands,I Salute,sun,self,0.11764705882352941
+Sun Hands,I Salute,hands,salute,0.25
+Sun Hands,I Salute,hands,another,0
+Sun Hands,I Salute,hands,self,0.2222222222222222
+Sun Hands,I Salute,gorilla,salute,0.08695652173913043
+Sun Hands,I Salute,gorilla,another,0
+Sun Hands,I Salute,gorilla,self,0.08
+Sun Hands,I Salute,manor,salute,0.11764705882352941
+Sun Hands,I Salute,manor,another,0
+Sun Hands,I Salute,manor,self,0.10526315789473684
+Sun Hands,He Could Be The One (Sing-Along Instrumental),sun,along,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),sun,instrumental,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),sun,sing,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),sun,one,0.125
+Sun Hands,He Could Be The One (Sing-Along Instrumental),sun,montana,0.3333333333333333
+Sun Hands,He Could Be The One (Sing-Along Instrumental),sun,disney,0.42105263157894735
+Sun Hands,He Could Be The One (Sing-Along Instrumental),sun,singalong,0.1111111111111111
+Sun Hands,He Could Be The One (Sing-Along Instrumental),hands,along,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),hands,instrumental,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),hands,sing,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),hands,one,0.23529411764705882
+Sun Hands,He Could Be The One (Sing-Along Instrumental),hands,montana,0.10526315789473684
+Sun Hands,He Could Be The One (Sing-Along Instrumental),hands,disney,0.11764705882352941
+Sun Hands,He Could Be The One (Sing-Along Instrumental),hands,singalong,0.5
+Sun Hands,He Could Be The One (Sing-Along Instrumental),gorilla,along,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),gorilla,instrumental,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),gorilla,sing,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),gorilla,one,0.08333333333333333
+Sun Hands,He Could Be The One (Sing-Along Instrumental),gorilla,montana,0.23076923076923078
+Sun Hands,He Could Be The One (Sing-Along Instrumental),gorilla,disney,0.4444444444444444
+Sun Hands,He Could Be The One (Sing-Along Instrumental),gorilla,singalong,0.07692307692307693
+Sun Hands,He Could Be The One (Sing-Along Instrumental),manor,along,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),manor,instrumental,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),manor,sing,0
+Sun Hands,He Could Be The One (Sing-Along Instrumental),manor,one,0.1111111111111111
+Sun Hands,He Could Be The One (Sing-Along Instrumental),manor,montana,0.3
+Sun Hands,He Could Be The One (Sing-Along Instrumental),manor,disney,0.38095238095238093
+Sun Hands,He Could Be The One (Sing-Along Instrumental),manor,singalong,0.1
+Sun Hands,Live And Love,sun,love,0.13333333333333333
+Sun Hands,Live And Love,sun,live,0
+Sun Hands,Live And Love,sun,horace,0.42105263157894735
+Sun Hands,Live And Love,sun,meets,0.125
+Sun Hands,Live And Love,sun,morris,0.4444444444444444
+Sun Hands,Live And Love,sun,wayne,0.42105263157894735
+Sun Hands,Live And Love,sun,mini,0.4444444444444444
+Sun Hands,Live And Love,sun,showcase,0.125
+Sun Hands,Live And Love,hands,love,0.25
+Sun Hands,Live And Love,hands,live,0
+Sun Hands,Live And Love,hands,horace,0.11764705882352941
+Sun Hands,Live And Love,hands,meets,0.47058823529411764
+Sun Hands,Live And Love,hands,morris,0.125
+Sun Hands,Live And Love,hands,wayne,0.11764705882352941
+Sun Hands,Live And Love,hands,mini,0.10526315789473684
+Sun Hands,Live And Love,hands,showcase,0.23529411764705882
+Sun Hands,Live And Love,gorilla,love,0.08695652173913043
+Sun Hands,Live And Love,gorilla,live,0
+Sun Hands,Live And Love,gorilla,horace,0.4444444444444444
+Sun Hands,Live And Love,gorilla,meets,0.08333333333333333
+Sun Hands,Live And Love,gorilla,morris,0.46153846153846156
+Sun Hands,Live And Love,gorilla,wayne,0.4444444444444444
+Sun Hands,Live And Love,gorilla,mini,0.3076923076923077
+Sun Hands,Live And Love,gorilla,showcase,0.08333333333333333
+Sun Hands,Live And Love,manor,love,0.11764705882352941
+Sun Hands,Live And Love,manor,live,0
+Sun Hands,Live And Love,manor,horace,0.38095238095238093
+Sun Hands,Live And Love,manor,meets,0.1111111111111111
+Sun Hands,Live And Love,manor,morris,0.4
+Sun Hands,Live And Love,manor,wayne,0.38095238095238093
+Sun Hands,Live And Love,manor,mini,0.5
+Sun Hands,Live And Love,manor,showcase,0.1111111111111111
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),sun,chipmunk,0.36363636363636365
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),sun,song,0.13333333333333333
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),sun,late,0
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),sun,christmas,0.13333333333333333
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),sun,chipmunks,0.36363636363636365
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),hands,chipmunk,0.08695652173913043
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),hands,song,0.25
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),hands,late,0
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),hands,christmas,0.25
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),hands,chipmunks,0.08695652173913043
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),gorilla,chipmunk,0.7333333333333333
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),gorilla,song,0.08695652173913043
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),gorilla,late,0
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),gorilla,christmas,0.08695652173913043
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),gorilla,chipmunks,0.7333333333333333
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),manor,chipmunk,0.3333333333333333
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),manor,song,0.11764705882352941
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),manor,late,0
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),manor,christmas,0.11764705882352941
+Sun Hands,The Chipmunk Song (Christmas Don't Be Late),manor,chipmunks,0.3333333333333333
+Sun Hands,Perdiendo El Tiempo,sun,wasting,0.10526315789473684
+Sun Hands,Perdiendo El Tiempo,sun,time,0.13333333333333333
+Sun Hands,Perdiendo El Tiempo,sun,great,0.47058823529411764
+Sun Hands,Perdiendo El Tiempo,sun,successes,0.14285714285714285
+Sun Hands,Perdiendo El Tiempo,hands,wasting,0.2
+Sun Hands,Perdiendo El Tiempo,hands,time,0.5
+Sun Hands,Perdiendo El Tiempo,hands,great,0.13333333333333333
+Sun Hands,Perdiendo El Tiempo,hands,successes,0.5333333333333333
+Sun Hands,Perdiendo El Tiempo,gorilla,wasting,0.07407407407407407
+Sun Hands,Perdiendo El Tiempo,gorilla,time,0.08695652173913043
+Sun Hands,Perdiendo El Tiempo,gorilla,great,0.48
+Sun Hands,Perdiendo El Tiempo,gorilla,successes,0.09090909090909091
+Sun Hands,Perdiendo El Tiempo,manor,wasting,0.09523809523809523
+Sun Hands,Perdiendo El Tiempo,manor,time,0.11764705882352941
+Sun Hands,Perdiendo El Tiempo,manor,great,0.42105263157894735
+Sun Hands,Perdiendo El Tiempo,manor,successes,0.125
+Sun Hands,Battleship Chains (LP Version),sun,lp,0.4
+Sun Hands,Battleship Chains (LP Version),sun,version,0.125
+Sun Hands,Battleship Chains (LP Version),sun,battleship,0.42105263157894735
+Sun Hands,Battleship Chains (LP Version),sun,chains,0.4444444444444444
+Sun Hands,Battleship Chains (LP Version),sun,rock,0.7142857142857143
+Sun Hands,Battleship Chains (LP Version),sun,best,0.125
+Sun Hands,Battleship Chains (LP Version),sun,georgia,0.3333333333333333
+Sun Hands,Battleship Chains (LP Version),sun,satellites,0.5
+Sun Hands,Battleship Chains (LP Version),sun,let,0.125
+Sun Hands,Battleship Chains (LP Version),hands,lp,0.09523809523809523
+Sun Hands,Battleship Chains (LP Version),hands,version,0.23529411764705882
+Sun Hands,Battleship Chains (LP Version),hands,battleship,0.1
+Sun Hands,Battleship Chains (LP Version),hands,chains,0.10526315789473684
+Sun Hands,Battleship Chains (LP Version),hands,rock,0.13333333333333333
+Sun Hands,Battleship Chains (LP Version),hands,best,0.5555555555555556
+Sun Hands,Battleship Chains (LP Version),hands,georgia,0.10526315789473684
+Sun Hands,Battleship Chains (LP Version),hands,satellites,0.11764705882352941
+Sun Hands,Battleship Chains (LP Version),hands,let,0.23529411764705882
+Sun Hands,Battleship Chains (LP Version),gorilla,lp,0.2857142857142857
+Sun Hands,Battleship Chains (LP Version),gorilla,version,0.08333333333333333
+Sun Hands,Battleship Chains (LP Version),gorilla,battleship,0.2962962962962963
+Sun Hands,Battleship Chains (LP Version),gorilla,chains,0.3076923076923077
+Sun Hands,Battleship Chains (LP Version),gorilla,rock,0.36363636363636365
+Sun Hands,Battleship Chains (LP Version),gorilla,best,0.08333333333333333
+Sun Hands,Battleship Chains (LP Version),gorilla,georgia,0.23076923076923078
+Sun Hands,Battleship Chains (LP Version),gorilla,satellites,0.3333333333333333
+Sun Hands,Battleship Chains (LP Version),gorilla,let,0.08333333333333333
+Sun Hands,Battleship Chains (LP Version),manor,lp,0.45454545454545453
+Sun Hands,Battleship Chains (LP Version),manor,version,0.1111111111111111
+Sun Hands,Battleship Chains (LP Version),manor,battleship,0.47619047619047616
+Sun Hands,Battleship Chains (LP Version),manor,chains,0.5
+Sun Hands,Battleship Chains (LP Version),manor,rock,0.5
+Sun Hands,Battleship Chains (LP Version),manor,best,0.1111111111111111
+Sun Hands,Battleship Chains (LP Version),manor,georgia,0.3
+Sun Hands,Battleship Chains (LP Version),manor,satellites,0.5555555555555556
+Sun Hands,Battleship Chains (LP Version),manor,let,0.1111111111111111
+Sun Hands,The Sky's Ablaze,sun,sky,0.26666666666666666
+Sun Hands,The Sky's Ablaze,sun,ablaze,0
+Sun Hands,The Sky's Ablaze,sun,freaks,0.5
+Sun Hands,The Sky's Ablaze,sun,come,0.26666666666666666
+Sun Hands,The Sky's Ablaze,hands,sky,0.125
+Sun Hands,The Sky's Ablaze,hands,ablaze,0
+Sun Hands,The Sky's Ablaze,hands,freaks,0.11764705882352941
+Sun Hands,The Sky's Ablaze,hands,come,0.23529411764705882
+Sun Hands,The Sky's Ablaze,gorilla,sky,0.17391304347826086
+Sun Hands,The Sky's Ablaze,gorilla,ablaze,0
+Sun Hands,The Sky's Ablaze,gorilla,freaks,0.5
+Sun Hands,The Sky's Ablaze,gorilla,come,0.17391304347826086
+Sun Hands,The Sky's Ablaze,manor,sky,0.23529411764705882
+Sun Hands,The Sky's Ablaze,manor,ablaze,0
+Sun Hands,The Sky's Ablaze,manor,freaks,0.4444444444444444
+Sun Hands,The Sky's Ablaze,manor,come,0.23529411764705882
+Sun Hands,Funkytown,sun,chipmunks,0.36363636363636365
+Sun Hands,Funkytown,hands,chipmunks,0.08695652173913043
+Sun Hands,Funkytown,gorilla,chipmunks,0.7333333333333333
+Sun Hands,Funkytown,manor,chipmunks,0.3333333333333333
+Sun Hands,How We Roll,sun,roll,0.11764705882352941
+Sun Hands,How We Roll,sun,original,0.5333333333333333
+Sun Hands,How We Roll,sun,motion,0.15384615384615385
+Sun Hands,How We Roll,sun,picture,0.5
+Sun Hands,How We Roll,sun,soundtrack,0.42105263157894735
+Sun Hands,How We Roll,sun,chipmunks,0.36363636363636365
+Sun Hands,How We Roll,hands,roll,0.4444444444444444
+Sun Hands,How We Roll,hands,original,0.125
+Sun Hands,How We Roll,hands,motion,0.2857142857142857
+Sun Hands,How We Roll,hands,picture,0.11764705882352941
+Sun Hands,How We Roll,hands,soundtrack,0.1
+Sun Hands,How We Roll,hands,chipmunks,0.08695652173913043
+Sun Hands,How We Roll,gorilla,roll,0.08
+Sun Hands,How We Roll,gorilla,original,0.34782608695652173
+Sun Hands,How We Roll,gorilla,motion,0.09523809523809523
+Sun Hands,How We Roll,gorilla,picture,0.3333333333333333
+Sun Hands,How We Roll,gorilla,soundtrack,0.2962962962962963
+Sun Hands,How We Roll,gorilla,chipmunks,0.7333333333333333
+Sun Hands,How We Roll,manor,roll,0.10526315789473684
+Sun Hands,How We Roll,manor,original,0.5882352941176471
+Sun Hands,How We Roll,manor,motion,0.13333333333333333
+Sun Hands,How We Roll,manor,picture,0.5555555555555556
+Sun Hands,How We Roll,manor,soundtrack,0.47619047619047616
+Sun Hands,How We Roll,manor,chipmunks,0.3333333333333333
+Camera Talk,O Hosanna,camera,hosanna,0.125
+Camera Talk,O Hosanna,camera,volume,0.15384615384615385
+Camera Talk,O Hosanna,camera,songs,0.125
+Camera Talk,O Hosanna,talk,hosanna,0.5714285714285714
+Camera Talk,O Hosanna,talk,volume,0.36363636363636365
+Camera Talk,O Hosanna,talk,songs,0.5714285714285714
+Camera Talk,O Hosanna,camera,hosanna,0.125
+Camera Talk,O Hosanna,camera,volume,0.15384615384615385
+Camera Talk,O Hosanna,camera,songs,0.125
+Camera Talk,O Hosanna,talk,hosanna,0.5714285714285714
+Camera Talk,O Hosanna,talk,volume,0.36363636363636365
+Camera Talk,O Hosanna,talk,songs,0.5714285714285714
+Camera Talk,Les derniers aventuriers,camera,last,0.13333333333333333
+Camera Talk,Les derniers aventuriers,camera,adventurers,0.47058823529411764
+Camera Talk,Les derniers aventuriers,camera,direction,0.375
+Camera Talk,Les derniers aventuriers,talk,last,0.3076923076923077
+Camera Talk,Les derniers aventuriers,talk,adventurers,0.16666666666666666
+Camera Talk,Les derniers aventuriers,talk,direction,0.14285714285714285
+Camera Talk,Les derniers aventuriers,camera,last,0.13333333333333333
+Camera Talk,Les derniers aventuriers,camera,adventurers,0.47058823529411764
+Camera Talk,Les derniers aventuriers,camera,direction,0.375
+Camera Talk,Les derniers aventuriers,talk,last,0.3076923076923077
+Camera Talk,Les derniers aventuriers,talk,adventurers,0.16666666666666666
+Camera Talk,Les derniers aventuriers,talk,direction,0.14285714285714285
+Camera Talk,Love Comes Tumbling,camera,love,0.125
+Camera Talk,Love Comes Tumbling,camera,comes,0.25
+Camera Talk,Love Comes Tumbling,camera,tumbling,0.10526315789473684
+Camera Talk,Love Comes Tumbling,camera,wide,0
+Camera Talk,Love Comes Tumbling,camera,awake,0
+Camera Talk,Love Comes Tumbling,camera,america,0.3157894736842105
+Camera Talk,Love Comes Tumbling,talk,love,0.2857142857142857
+Camera Talk,Love Comes Tumbling,talk,comes,0.26666666666666666
+Camera Talk,Love Comes Tumbling,talk,tumbling,0.23529411764705882
+Camera Talk,Love Comes Tumbling,talk,wide,0
+Camera Talk,Love Comes Tumbling,talk,awake,0
+Camera Talk,Love Comes Tumbling,talk,america,0.11764705882352941
+Camera Talk,Love Comes Tumbling,camera,love,0.125
+Camera Talk,Love Comes Tumbling,camera,comes,0.25
+Camera Talk,Love Comes Tumbling,camera,tumbling,0.10526315789473684
+Camera Talk,Love Comes Tumbling,camera,wide,0
+Camera Talk,Love Comes Tumbling,camera,awake,0
+Camera Talk,Love Comes Tumbling,camera,america,0.3157894736842105
+Camera Talk,Love Comes Tumbling,talk,love,0.2857142857142857
+Camera Talk,Love Comes Tumbling,talk,comes,0.26666666666666666
+Camera Talk,Love Comes Tumbling,talk,tumbling,0.23529411764705882
+Camera Talk,Love Comes Tumbling,talk,wide,0
+Camera Talk,Love Comes Tumbling,talk,awake,0
+Camera Talk,Love Comes Tumbling,talk,america,0.11764705882352941
+Camera Talk,Witch Doctor,camera,witch,0.4444444444444444
+Camera Talk,Witch Doctor,camera,doctor,0.38095238095238093
+Camera Talk,Witch Doctor,camera,chipmunks,0.34782608695652173
+Camera Talk,Witch Doctor,talk,witch,0.15384615384615385
+Camera Talk,Witch Doctor,talk,doctor,0.125
+Camera Talk,Witch Doctor,talk,chipmunks,0.09523809523809523
+Camera Talk,Witch Doctor,camera,witch,0.4444444444444444
+Camera Talk,Witch Doctor,camera,doctor,0.38095238095238093
+Camera Talk,Witch Doctor,camera,chipmunks,0.34782608695652173
+Camera Talk,Witch Doctor,talk,witch,0.15384615384615385
+Camera Talk,Witch Doctor,talk,doctor,0.125
+Camera Talk,Witch Doctor,talk,chipmunks,0.09523809523809523
+Camera Talk,Sehr kosmisch,camera,cosmic,0
+Camera Talk,Sehr kosmisch,camera,music,0.14285714285714285
+Camera Talk,Sehr kosmisch,talk,cosmic,0
+Camera Talk,Sehr kosmisch,talk,music,0.6666666666666666
+Camera Talk,Sehr kosmisch,camera,cosmic,0
+Camera Talk,Sehr kosmisch,camera,music,0.14285714285714285
+Camera Talk,Sehr kosmisch,talk,cosmic,0
+Camera Talk,Sehr kosmisch,talk,music,0.6666666666666666
+Camera Talk,I Salute,camera,salute,0.125
+Camera Talk,I Salute,camera,another,0
+Camera Talk,I Salute,camera,self,0.1111111111111111
+Camera Talk,I Salute,talk,salute,0.42857142857142855
+Camera Talk,I Salute,talk,another,0
+Camera Talk,I Salute,talk,self,0.25
+Camera Talk,I Salute,camera,salute,0.125
+Camera Talk,I Salute,camera,another,0
+Camera Talk,I Salute,camera,self,0.1111111111111111
+Camera Talk,I Salute,talk,salute,0.42857142857142855
+Camera Talk,I Salute,talk,another,0
+Camera Talk,I Salute,talk,self,0.25
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,along,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,instrumental,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,sing,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,one,0.11764705882352941
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,montana,0.3157894736842105
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,disney,0.4
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,singalong,0.10526315789473684
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,along,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,instrumental,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,sing,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,one,0.26666666666666666
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,montana,0.11764705882352941
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,disney,0.13333333333333333
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,singalong,0.23529411764705882
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,along,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,instrumental,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,sing,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,one,0.11764705882352941
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,montana,0.3157894736842105
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,disney,0.4
+Camera Talk,He Could Be The One (Sing-Along Instrumental),camera,singalong,0.10526315789473684
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,along,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,instrumental,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,sing,0
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,one,0.26666666666666666
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,montana,0.11764705882352941
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,disney,0.13333333333333333
+Camera Talk,He Could Be The One (Sing-Along Instrumental),talk,singalong,0.23529411764705882
+Camera Talk,Live And Love,camera,love,0.125
+Camera Talk,Live And Love,camera,live,0
+Camera Talk,Live And Love,camera,horace,0.4
+Camera Talk,Live And Love,camera,meets,0.11764705882352941
+Camera Talk,Live And Love,camera,morris,0.42105263157894735
+Camera Talk,Live And Love,camera,wayne,0.4
+Camera Talk,Live And Love,camera,mini,0.5263157894736842
+Camera Talk,Live And Love,camera,showcase,0.11764705882352941
+Camera Talk,Live And Love,talk,love,0.2857142857142857
+Camera Talk,Live And Love,talk,live,0
+Camera Talk,Live And Love,talk,horace,0.13333333333333333
+Camera Talk,Live And Love,talk,meets,0.26666666666666666
+Camera Talk,Live And Love,talk,morris,0.14285714285714285
+Camera Talk,Live And Love,talk,wayne,0.13333333333333333
+Camera Talk,Live And Love,talk,mini,0.11764705882352941
+Camera Talk,Live And Love,talk,showcase,0.26666666666666666
+Camera Talk,Live And Love,camera,love,0.125
+Camera Talk,Live And Love,camera,live,0
+Camera Talk,Live And Love,camera,horace,0.4
+Camera Talk,Live And Love,camera,meets,0.11764705882352941
+Camera Talk,Live And Love,camera,morris,0.42105263157894735
+Camera Talk,Live And Love,camera,wayne,0.4
+Camera Talk,Live And Love,camera,mini,0.5263157894736842
+Camera Talk,Live And Love,camera,showcase,0.11764705882352941
+Camera Talk,Live And Love,talk,love,0.2857142857142857
+Camera Talk,Live And Love,talk,live,0
+Camera Talk,Live And Love,talk,horace,0.13333333333333333
+Camera Talk,Live And Love,talk,meets,0.26666666666666666
+Camera Talk,Live And Love,talk,morris,0.14285714285714285
+Camera Talk,Live And Love,talk,wayne,0.13333333333333333
+Camera Talk,Live And Love,talk,mini,0.11764705882352941
+Camera Talk,Live And Love,talk,showcase,0.26666666666666666
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,chipmunk,0.34782608695652173
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,song,0.125
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,late,0
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,christmas,0.125
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,chipmunks,0.34782608695652173
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,chipmunk,0.09523809523809523
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,song,0.5714285714285714
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,late,0
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,christmas,0.2857142857142857
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,chipmunks,0.09523809523809523
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,chipmunk,0.34782608695652173
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,song,0.125
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,late,0
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,christmas,0.125
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),camera,chipmunks,0.34782608695652173
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,chipmunk,0.09523809523809523
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,song,0.5714285714285714
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,late,0
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,christmas,0.2857142857142857
+Camera Talk,The Chipmunk Song (Christmas Don't Be Late),talk,chipmunks,0.09523809523809523
+Camera Talk,Perdiendo El Tiempo,camera,wasting,0.1
+Camera Talk,Perdiendo El Tiempo,camera,time,0.125
+Camera Talk,Perdiendo El Tiempo,camera,great,0.4444444444444444
+Camera Talk,Perdiendo El Tiempo,camera,successes,0.13333333333333333
+Camera Talk,Perdiendo El Tiempo,talk,wasting,0.2222222222222222
+Camera Talk,Perdiendo El Tiempo,talk,time,0.2857142857142857
+Camera Talk,Perdiendo El Tiempo,talk,great,0.15384615384615385
+Camera Talk,Perdiendo El Tiempo,talk,successes,0.3076923076923077
+Camera Talk,Perdiendo El Tiempo,camera,wasting,0.1
+Camera Talk,Perdiendo El Tiempo,camera,time,0.125
+Camera Talk,Perdiendo El Tiempo,camera,great,0.4444444444444444
+Camera Talk,Perdiendo El Tiempo,camera,successes,0.13333333333333333
+Camera Talk,Perdiendo El Tiempo,talk,wasting,0.2222222222222222
+Camera Talk,Perdiendo El Tiempo,talk,time,0.2857142857142857
+Camera Talk,Perdiendo El Tiempo,talk,great,0.15384615384615385
+Camera Talk,Perdiendo El Tiempo,talk,successes,0.3076923076923077
+Camera Talk,Battleship Chains (LP Version),camera,lp,0.5714285714285714
+Camera Talk,Battleship Chains (LP Version),camera,version,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),camera,battleship,0.6
+Camera Talk,Battleship Chains (LP Version),camera,chains,0.631578947368421
+Camera Talk,Battleship Chains (LP Version),camera,rock,0.5333333333333333
+Camera Talk,Battleship Chains (LP Version),camera,best,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),camera,georgia,0.3157894736842105
+Camera Talk,Battleship Chains (LP Version),camera,satellites,0.8235294117647058
+Camera Talk,Battleship Chains (LP Version),camera,let,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),talk,lp,0.10526315789473684
+Camera Talk,Battleship Chains (LP Version),talk,version,0.4
+Camera Talk,Battleship Chains (LP Version),talk,battleship,0.1111111111111111
+Camera Talk,Battleship Chains (LP Version),talk,chains,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),talk,rock,0.15384615384615385
+Camera Talk,Battleship Chains (LP Version),talk,best,0.26666666666666666
+Camera Talk,Battleship Chains (LP Version),talk,georgia,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),talk,satellites,0.13333333333333333
+Camera Talk,Battleship Chains (LP Version),talk,let,0.26666666666666666
+Camera Talk,Battleship Chains (LP Version),camera,lp,0.5714285714285714
+Camera Talk,Battleship Chains (LP Version),camera,version,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),camera,battleship,0.6
+Camera Talk,Battleship Chains (LP Version),camera,chains,0.631578947368421
+Camera Talk,Battleship Chains (LP Version),camera,rock,0.5333333333333333
+Camera Talk,Battleship Chains (LP Version),camera,best,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),camera,georgia,0.3157894736842105
+Camera Talk,Battleship Chains (LP Version),camera,satellites,0.8235294117647058
+Camera Talk,Battleship Chains (LP Version),camera,let,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),talk,lp,0.10526315789473684
+Camera Talk,Battleship Chains (LP Version),talk,version,0.4
+Camera Talk,Battleship Chains (LP Version),talk,battleship,0.1111111111111111
+Camera Talk,Battleship Chains (LP Version),talk,chains,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),talk,rock,0.15384615384615385
+Camera Talk,Battleship Chains (LP Version),talk,best,0.26666666666666666
+Camera Talk,Battleship Chains (LP Version),talk,georgia,0.11764705882352941
+Camera Talk,Battleship Chains (LP Version),talk,satellites,0.13333333333333333
+Camera Talk,Battleship Chains (LP Version),talk,let,0.26666666666666666
+Camera Talk,The Sky's Ablaze,camera,sky,0.25
+Camera Talk,The Sky's Ablaze,camera,ablaze,0
+Camera Talk,The Sky's Ablaze,camera,freaks,0.47058823529411764
+Camera Talk,The Sky's Ablaze,camera,come,0.25
+Camera Talk,The Sky's Ablaze,talk,sky,0.14285714285714285
+Camera Talk,The Sky's Ablaze,talk,ablaze,0
+Camera Talk,The Sky's Ablaze,talk,freaks,0.13333333333333333
+Camera Talk,The Sky's Ablaze,talk,come,0.26666666666666666
+Camera Talk,The Sky's Ablaze,camera,sky,0.25
+Camera Talk,The Sky's Ablaze,camera,ablaze,0
+Camera Talk,The Sky's Ablaze,camera,freaks,0.47058823529411764
+Camera Talk,The Sky's Ablaze,camera,come,0.25
+Camera Talk,The Sky's Ablaze,talk,sky,0.14285714285714285
+Camera Talk,The Sky's Ablaze,talk,ablaze,0
+Camera Talk,The Sky's Ablaze,talk,freaks,0.13333333333333333
+Camera Talk,The Sky's Ablaze,talk,come,0.26666666666666666
+Camera Talk,Funkytown,camera,chipmunks,0.34782608695652173
+Camera Talk,Funkytown,talk,chipmunks,0.09523809523809523
+Camera Talk,Funkytown,camera,chipmunks,0.34782608695652173
+Camera Talk,Funkytown,talk,chipmunks,0.09523809523809523
+Camera Talk,How We Roll,camera,roll,0.1111111111111111
+Camera Talk,How We Roll,camera,original,0.625
+Camera Talk,How We Roll,camera,motion,0.14285714285714285
+Camera Talk,How We Roll,camera,picture,0.5882352941176471
+Camera Talk,How We Roll,camera,soundtrack,0.6
+Camera Talk,How We Roll,camera,chipmunks,0.34782608695652173
+Camera Talk,How We Roll,talk,roll,0.25
+Camera Talk,How We Roll,talk,original,0.14285714285714285
+Camera Talk,How We Roll,talk,motion,0.5
+Camera Talk,How We Roll,talk,picture,0.13333333333333333
+Camera Talk,How We Roll,talk,soundtrack,0.1111111111111111
+Camera Talk,How We Roll,talk,chipmunks,0.09523809523809523
+Camera Talk,How We Roll,camera,roll,0.1111111111111111
+Camera Talk,How We Roll,camera,original,0.625
+Camera Talk,How We Roll,camera,motion,0.14285714285714285
+Camera Talk,How We Roll,camera,picture,0.5882352941176471
+Camera Talk,How We Roll,camera,soundtrack,0.6
+Camera Talk,How We Roll,camera,chipmunks,0.34782608695652173
+Camera Talk,How We Roll,talk,roll,0.25
+Camera Talk,How We Roll,talk,original,0.14285714285714285
+Camera Talk,How We Roll,talk,motion,0.5
+Camera Talk,How We Roll,talk,picture,0.13333333333333333
+Camera Talk,How We Roll,talk,soundtrack,0.1111111111111111
+Camera Talk,How We Roll,talk,chipmunks,0.09523809523809523
+Belle,O Hosanna,beautiful,hosanna,0
+Belle,O Hosanna,beautiful,volume,0
+Belle,O Hosanna,beautiful,songs,0
+Belle,O Hosanna,dreams,hosanna,0.25
+Belle,O Hosanna,dreams,volume,0.3076923076923077
+Belle,O Hosanna,dreams,songs,0.25
+Belle,Les derniers aventuriers,beautiful,last,0
+Belle,Les derniers aventuriers,beautiful,adventurers,0
+Belle,Les derniers aventuriers,beautiful,direction,0
+Belle,Les derniers aventuriers,dreams,last,0.26666666666666666
+Belle,Les derniers aventuriers,dreams,adventurers,0.14285714285714285
+Belle,Les derniers aventuriers,dreams,direction,0.125
+Belle,Love Comes Tumbling,beautiful,love,0
+Belle,Love Comes Tumbling,beautiful,comes,0
+Belle,Love Comes Tumbling,beautiful,tumbling,0
+Belle,Love Comes Tumbling,beautiful,wide,0
+Belle,Love Comes Tumbling,beautiful,awake,0
+Belle,Love Comes Tumbling,beautiful,america,0
+Belle,Love Comes Tumbling,dreams,love,0.25
+Belle,Love Comes Tumbling,dreams,comes,0.23529411764705882
+Belle,Love Comes Tumbling,dreams,tumbling,0.3157894736842105
+Belle,Love Comes Tumbling,dreams,wide,0
+Belle,Love Comes Tumbling,dreams,awake,0
+Belle,Love Comes Tumbling,dreams,america,0.10526315789473684
+Belle,Witch Doctor,beautiful,witch,0
+Belle,Witch Doctor,beautiful,doctor,0
+Belle,Witch Doctor,beautiful,chipmunks,0
+Belle,Witch Doctor,dreams,witch,0.13333333333333333
+Belle,Witch Doctor,dreams,doctor,0.1111111111111111
+Belle,Witch Doctor,dreams,chipmunks,0.08695652173913043
+Belle,Sehr kosmisch,beautiful,cosmic,0
+Belle,Sehr kosmisch,beautiful,music,0
+Belle,Sehr kosmisch,dreams,cosmic,0
+Belle,Sehr kosmisch,dreams,music,0.2857142857142857
+Belle,I Salute,beautiful,salute,0
+Belle,I Salute,beautiful,another,0
+Belle,I Salute,beautiful,self,0
+Belle,I Salute,dreams,salute,0.25
+Belle,I Salute,dreams,another,0
+Belle,I Salute,dreams,self,0.2222222222222222
+Belle,He Could Be The One (Sing-Along Instrumental),beautiful,along,0
+Belle,He Could Be The One (Sing-Along Instrumental),beautiful,instrumental,0
+Belle,He Could Be The One (Sing-Along Instrumental),beautiful,sing,0
+Belle,He Could Be The One (Sing-Along Instrumental),beautiful,one,0
+Belle,He Could Be The One (Sing-Along Instrumental),beautiful,montana,0
+Belle,He Could Be The One (Sing-Along Instrumental),beautiful,disney,0
+Belle,He Could Be The One (Sing-Along Instrumental),beautiful,singalong,0
+Belle,He Could Be The One (Sing-Along Instrumental),dreams,along,0
+Belle,He Could Be The One (Sing-Along Instrumental),dreams,instrumental,0
+Belle,He Could Be The One (Sing-Along Instrumental),dreams,sing,0
+Belle,He Could Be The One (Sing-Along Instrumental),dreams,one,0.23529411764705882
+Belle,He Could Be The One (Sing-Along Instrumental),dreams,montana,0.10526315789473684
+Belle,He Could Be The One (Sing-Along Instrumental),dreams,disney,0.11764705882352941
+Belle,He Could Be The One (Sing-Along Instrumental),dreams,singalong,0.38095238095238093
+Belle,Live And Love,beautiful,love,0
+Belle,Live And Love,beautiful,live,0
+Belle,Live And Love,beautiful,horace,0
+Belle,Live And Love,beautiful,meets,0
+Belle,Live And Love,beautiful,morris,0
+Belle,Live And Love,beautiful,wayne,0
+Belle,Live And Love,beautiful,mini,0
+Belle,Live And Love,beautiful,showcase,0
+Belle,Live And Love,dreams,love,0.25
+Belle,Live And Love,dreams,live,0
+Belle,Live And Love,dreams,horace,0.11764705882352941
+Belle,Live And Love,dreams,meets,0.35294117647058826
+Belle,Live And Love,dreams,morris,0.125
+Belle,Live And Love,dreams,wayne,0.11764705882352941
+Belle,Live And Love,dreams,mini,0.10526315789473684
+Belle,Live And Love,dreams,showcase,0.23529411764705882
+Belle,The Chipmunk Song (Christmas Don't Be Late),beautiful,chipmunk,0
+Belle,The Chipmunk Song (Christmas Don't Be Late),beautiful,song,0
+Belle,The Chipmunk Song (Christmas Don't Be Late),beautiful,late,0
+Belle,The Chipmunk Song (Christmas Don't Be Late),beautiful,christmas,0
+Belle,The Chipmunk Song (Christmas Don't Be Late),beautiful,chipmunks,0
+Belle,The Chipmunk Song (Christmas Don't Be Late),dreams,chipmunk,0.08695652173913043
+Belle,The Chipmunk Song (Christmas Don't Be Late),dreams,song,0.25
+Belle,The Chipmunk Song (Christmas Don't Be Late),dreams,late,0
+Belle,The Chipmunk Song (Christmas Don't Be Late),dreams,christmas,0.25
+Belle,The Chipmunk Song (Christmas Don't Be Late),dreams,chipmunks,0.08695652173913043
+Belle,Perdiendo El Tiempo,beautiful,wasting,0
+Belle,Perdiendo El Tiempo,beautiful,time,0
+Belle,Perdiendo El Tiempo,beautiful,great,0
+Belle,Perdiendo El Tiempo,beautiful,successes,0
+Belle,Perdiendo El Tiempo,dreams,wasting,0.2
+Belle,Perdiendo El Tiempo,dreams,time,0.375
+Belle,Perdiendo El Tiempo,dreams,great,0.13333333333333333
+Belle,Perdiendo El Tiempo,dreams,successes,0.4
+Belle,Battleship Chains (LP Version),beautiful,lp,0
+Belle,Battleship Chains (LP Version),beautiful,version,0
+Belle,Battleship Chains (LP Version),beautiful,battleship,0
+Belle,Battleship Chains (LP Version),beautiful,chains,0
+Belle,Battleship Chains (LP Version),beautiful,rock,0
+Belle,Battleship Chains (LP Version),beautiful,best,0
+Belle,Battleship Chains (LP Version),beautiful,georgia,0
+Belle,Battleship Chains (LP Version),beautiful,satellites,0
+Belle,Battleship Chains (LP Version),beautiful,let,0
+Belle,Battleship Chains (LP Version),dreams,lp,0.09523809523809523
+Belle,Battleship Chains (LP Version),dreams,version,0.23529411764705882
+Belle,Battleship Chains (LP Version),dreams,battleship,0.1
+Belle,Battleship Chains (LP Version),dreams,chains,0.10526315789473684
+Belle,Battleship Chains (LP Version),dreams,rock,0.13333333333333333
+Belle,Battleship Chains (LP Version),dreams,best,0.35294117647058826
+Belle,Battleship Chains (LP Version),dreams,georgia,0.10526315789473684
+Belle,Battleship Chains (LP Version),dreams,satellites,0.11764705882352941
+Belle,Battleship Chains (LP Version),dreams,let,0.23529411764705882
+Belle,The Sky's Ablaze,beautiful,sky,0
+Belle,The Sky's Ablaze,beautiful,ablaze,0
+Belle,The Sky's Ablaze,beautiful,freaks,0
+Belle,The Sky's Ablaze,beautiful,come,0
+Belle,The Sky's Ablaze,dreams,sky,0.125
+Belle,The Sky's Ablaze,dreams,ablaze,0
+Belle,The Sky's Ablaze,dreams,freaks,0.11764705882352941
+Belle,The Sky's Ablaze,dreams,come,0.23529411764705882
+Belle,Funkytown,beautiful,chipmunks,0
+Belle,Funkytown,dreams,chipmunks,0.08695652173913043
+Belle,How We Roll,beautiful,roll,0
+Belle,How We Roll,beautiful,original,0
+Belle,How We Roll,beautiful,motion,0
+Belle,How We Roll,beautiful,picture,0
+Belle,How We Roll,beautiful,soundtrack,0
+Belle,How We Roll,beautiful,chipmunks,0
+Belle,How We Roll,dreams,roll,0.3333333333333333
+Belle,How We Roll,dreams,original,0.125
+Belle,How We Roll,dreams,motion,0.2857142857142857
+Belle,How We Roll,dreams,picture,0.11764705882352941
+Belle,How We Roll,dreams,soundtrack,0.1
+Belle,How We Roll,dreams,chipmunks,0.08695652173913043
+Auto Rock,O Hosanna,auto,hosanna,0.1111111111111111
+Auto Rock,O Hosanna,auto,volume,0.13333333333333333
+Auto Rock,O Hosanna,auto,songs,0.1111111111111111
+Auto Rock,O Hosanna,rock,hosanna,0.15384615384615385
+Auto Rock,O Hosanna,rock,volume,0.2
+Auto Rock,O Hosanna,rock,songs,0.15384615384615385
+Auto Rock,O Hosanna,mr,hosanna,0.25
+Auto Rock,O Hosanna,mr,volume,0.3076923076923077
+Auto Rock,O Hosanna,mr,songs,0.25
+Auto Rock,O Hosanna,beast,hosanna,0.14285714285714285
+Auto Rock,O Hosanna,beast,volume,0.18181818181818182
+Auto Rock,O Hosanna,beast,songs,0.14285714285714285
+Auto Rock,Les derniers aventuriers,auto,last,0.11764705882352941
+Auto Rock,Les derniers aventuriers,auto,adventurers,0.42105263157894735
+Auto Rock,Les derniers aventuriers,auto,direction,0.3333333333333333
+Auto Rock,Les derniers aventuriers,rock,last,0.16666666666666666
+Auto Rock,Les derniers aventuriers,rock,adventurers,0.5714285714285714
+Auto Rock,Les derniers aventuriers,rock,direction,0.46153846153846156
+Auto Rock,Les derniers aventuriers,mr,last,0.26666666666666666
+Auto Rock,Les derniers aventuriers,mr,adventurers,0.14285714285714285
+Auto Rock,Les derniers aventuriers,mr,direction,0.125
+Auto Rock,Les derniers aventuriers,beast,last,0.15384615384615385
+Auto Rock,Les derniers aventuriers,beast,adventurers,0.8
+Auto Rock,Les derniers aventuriers,beast,direction,0.42857142857142855
+Auto Rock,Love Comes Tumbling,auto,love,0.1111111111111111
+Auto Rock,Love Comes Tumbling,auto,comes,0.2222222222222222
+Auto Rock,Love Comes Tumbling,auto,tumbling,0.09523809523809523
+Auto Rock,Love Comes Tumbling,auto,wide,0
+Auto Rock,Love Comes Tumbling,auto,awake,0
+Auto Rock,Love Comes Tumbling,auto,america,0.2857142857142857
+Auto Rock,Love Comes Tumbling,rock,love,0.15384615384615385
+Auto Rock,Love Comes Tumbling,rock,comes,0.3076923076923077
+Auto Rock,Love Comes Tumbling,rock,tumbling,0.125
+Auto Rock,Love Comes Tumbling,rock,wide,0
+Auto Rock,Love Comes Tumbling,rock,awake,0
+Auto Rock,Love Comes Tumbling,rock,america,0.375
+Auto Rock,Love Comes Tumbling,mr,love,0.25
+Auto Rock,Love Comes Tumbling,mr,comes,0.47058823529411764
+Auto Rock,Love Comes Tumbling,mr,tumbling,0.21052631578947367
+Auto Rock,Love Comes Tumbling,mr,wide,0
+Auto Rock,Love Comes Tumbling,mr,awake,0
+Auto Rock,Love Comes Tumbling,mr,america,0.10526315789473684
+Auto Rock,Love Comes Tumbling,beast,love,0.14285714285714285
+Auto Rock,Love Comes Tumbling,beast,comes,0.2857142857142857
+Auto Rock,Love Comes Tumbling,beast,tumbling,0.11764705882352941
+Auto Rock,Love Comes Tumbling,beast,wide,0
+Auto Rock,Love Comes Tumbling,beast,awake,0
+Auto Rock,Love Comes Tumbling,beast,america,0.35294117647058826
+Auto Rock,Witch Doctor,auto,witch,0.4
+Auto Rock,Witch Doctor,auto,doctor,0.34782608695652173
+Auto Rock,Witch Doctor,auto,chipmunks,0.32
+Auto Rock,Witch Doctor,rock,witch,0.5333333333333333
+Auto Rock,Witch Doctor,rock,doctor,0.4444444444444444
+Auto Rock,Witch Doctor,rock,chipmunks,0.4
+Auto Rock,Witch Doctor,mr,witch,0.13333333333333333
+Auto Rock,Witch Doctor,mr,doctor,0.1111111111111111
+Auto Rock,Witch Doctor,mr,chipmunks,0.08695652173913043
+Auto Rock,Witch Doctor,beast,witch,0.75
+Auto Rock,Witch Doctor,beast,doctor,0.631578947368421
+Auto Rock,Witch Doctor,beast,chipmunks,0.6666666666666666
+Auto Rock,Sehr kosmisch,auto,cosmic,0
+Auto Rock,Sehr kosmisch,auto,music,0.125
+Auto Rock,Sehr kosmisch,rock,cosmic,0
+Auto Rock,Sehr kosmisch,rock,music,0.18181818181818182
+Auto Rock,Sehr kosmisch,mr,cosmic,0
+Auto Rock,Sehr kosmisch,mr,music,0.2857142857142857
+Auto Rock,Sehr kosmisch,beast,cosmic,0
+Auto Rock,Sehr kosmisch,beast,music,0.16666666666666666
+Auto Rock,I Salute,auto,salute,0.1111111111111111
+Auto Rock,I Salute,auto,another,0
+Auto Rock,I Salute,auto,self,0.1
+Auto Rock,I Salute,rock,salute,0.15384615384615385
+Auto Rock,I Salute,rock,another,0
+Auto Rock,I Salute,rock,self,0.13333333333333333
+Auto Rock,I Salute,mr,salute,0.25
+Auto Rock,I Salute,mr,another,0
+Auto Rock,I Salute,mr,self,0.2222222222222222
+Auto Rock,I Salute,beast,salute,0.14285714285714285
+Auto Rock,I Salute,beast,another,0
+Auto Rock,I Salute,beast,self,0.125
+Auto Rock,He Could Be The One (Sing-Along Instrumental),auto,along,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),auto,instrumental,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),auto,sing,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),auto,one,0.10526315789473684
+Auto Rock,He Could Be The One (Sing-Along Instrumental),auto,montana,0.2857142857142857
+Auto Rock,He Could Be The One (Sing-Along Instrumental),auto,disney,0.36363636363636365
+Auto Rock,He Could Be The One (Sing-Along Instrumental),auto,singalong,0.09523809523809523
+Auto Rock,He Could Be The One (Sing-Along Instrumental),rock,along,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),rock,instrumental,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),rock,sing,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),rock,one,0.14285714285714285
+Auto Rock,He Could Be The One (Sing-Along Instrumental),rock,montana,0.375
+Auto Rock,He Could Be The One (Sing-Along Instrumental),rock,disney,0.47058823529411764
+Auto Rock,He Could Be The One (Sing-Along Instrumental),rock,singalong,0.125
+Auto Rock,He Could Be The One (Sing-Along Instrumental),mr,along,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),mr,instrumental,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),mr,sing,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),mr,one,0.23529411764705882
+Auto Rock,He Could Be The One (Sing-Along Instrumental),mr,montana,0.10526315789473684
+Auto Rock,He Could Be The One (Sing-Along Instrumental),mr,disney,0.11764705882352941
+Auto Rock,He Could Be The One (Sing-Along Instrumental),mr,singalong,0.21052631578947367
+Auto Rock,He Could Be The One (Sing-Along Instrumental),beast,along,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),beast,instrumental,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),beast,sing,0
+Auto Rock,He Could Be The One (Sing-Along Instrumental),beast,one,0.13333333333333333
+Auto Rock,He Could Be The One (Sing-Along Instrumental),beast,montana,0.35294117647058826
+Auto Rock,He Could Be The One (Sing-Along Instrumental),beast,disney,0.6666666666666666
+Auto Rock,He Could Be The One (Sing-Along Instrumental),beast,singalong,0.11764705882352941
+Auto Rock,Live And Love,auto,love,0.1111111111111111
+Auto Rock,Live And Love,auto,live,0
+Auto Rock,Live And Love,auto,horace,0.36363636363636365
+Auto Rock,Live And Love,auto,meets,0.10526315789473684
+Auto Rock,Live And Love,auto,morris,0.38095238095238093
+Auto Rock,Live And Love,auto,wayne,0.36363636363636365
+Auto Rock,Live And Love,auto,mini,0.47619047619047616
+Auto Rock,Live And Love,auto,showcase,0.10526315789473684
+Auto Rock,Live And Love,rock,love,0.15384615384615385
+Auto Rock,Live And Love,rock,live,0
+Auto Rock,Live And Love,rock,horace,0.47058823529411764
+Auto Rock,Live And Love,rock,meets,0.14285714285714285
+Auto Rock,Live And Love,rock,morris,0.5
+Auto Rock,Live And Love,rock,wayne,0.47058823529411764
+Auto Rock,Live And Love,rock,mini,0.5
+Auto Rock,Live And Love,rock,showcase,0.14285714285714285
+Auto Rock,Live And Love,mr,love,0.25
+Auto Rock,Live And Love,mr,live,0
+Auto Rock,Live And Love,mr,horace,0.11764705882352941
+Auto Rock,Live And Love,mr,meets,0.23529411764705882
+Auto Rock,Live And Love,mr,morris,0.125
+Auto Rock,Live And Love,mr,wayne,0.11764705882352941
+Auto Rock,Live And Love,mr,mini,0.10526315789473684
+Auto Rock,Live And Love,mr,showcase,0.23529411764705882
+Auto Rock,Live And Love,beast,love,0.14285714285714285
+Auto Rock,Live And Love,beast,live,0
+Auto Rock,Live And Love,beast,horace,0.6666666666666666
+Auto Rock,Live And Love,beast,meets,0.13333333333333333
+Auto Rock,Live And Love,beast,morris,0.7058823529411765
+Auto Rock,Live And Love,beast,wayne,0.6666666666666666
+Auto Rock,Live And Love,beast,mini,0.47058823529411764
+Auto Rock,Live And Love,beast,showcase,0.13333333333333333
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),auto,chipmunk,0.32
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),auto,song,0.1111111111111111
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),auto,late,0
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),auto,christmas,0.1111111111111111
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),auto,chipmunks,0.32
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),rock,chipmunk,0.4
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),rock,song,0.15384615384615385
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),rock,late,0
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),rock,christmas,0.15384615384615385
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),rock,chipmunks,0.4
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),mr,chipmunk,0.08695652173913043
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),mr,song,0.25
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),mr,late,0
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),mr,christmas,0.25
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),mr,chipmunks,0.08695652173913043
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),beast,chipmunk,0.6666666666666666
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),beast,song,0.14285714285714285
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),beast,late,0
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),beast,christmas,0.14285714285714285
+Auto Rock,The Chipmunk Song (Christmas Don't Be Late),beast,chipmunks,0.6666666666666666
+Auto Rock,Perdiendo El Tiempo,auto,wasting,0.09090909090909091
+Auto Rock,Perdiendo El Tiempo,auto,time,0.1111111111111111
+Auto Rock,Perdiendo El Tiempo,auto,great,0.4
+Auto Rock,Perdiendo El Tiempo,auto,successes,0.11764705882352941
+Auto Rock,Perdiendo El Tiempo,rock,wasting,0.11764705882352941
+Auto Rock,Perdiendo El Tiempo,rock,time,0.15384615384615385
+Auto Rock,Perdiendo El Tiempo,rock,great,0.5333333333333333
+Auto Rock,Perdiendo El Tiempo,rock,successes,0.16666666666666666
+Auto Rock,Perdiendo El Tiempo,mr,wasting,0.2
+Auto Rock,Perdiendo El Tiempo,mr,time,0.25
+Auto Rock,Perdiendo El Tiempo,mr,great,0.13333333333333333
+Auto Rock,Perdiendo El Tiempo,mr,successes,0.26666666666666666
+Auto Rock,Perdiendo El Tiempo,beast,wasting,0.1111111111111111
+Auto Rock,Perdiendo El Tiempo,beast,time,0.14285714285714285
+Auto Rock,Perdiendo El Tiempo,beast,great,0.75
+Auto Rock,Perdiendo El Tiempo,beast,successes,0.15384615384615385
+Auto Rock,Battleship Chains (LP Version),auto,lp,0.5217391304347826
+Auto Rock,Battleship Chains (LP Version),auto,version,0.10526315789473684
+Auto Rock,Battleship Chains (LP Version),auto,battleship,0.6956521739130435
+Auto Rock,Battleship Chains (LP Version),auto,chains,0.5714285714285714
+Auto Rock,Battleship Chains (LP Version),auto,rock,0.47058823529411764
+Auto Rock,Battleship Chains (LP Version),auto,best,0.10526315789473684
+Auto Rock,Battleship Chains (LP Version),auto,georgia,0.2857142857142857
+Auto Rock,Battleship Chains (LP Version),auto,satellites,0.631578947368421
+Auto Rock,Battleship Chains (LP Version),auto,let,0.10526315789473684
+Auto Rock,Battleship Chains (LP Version),rock,lp,0.4444444444444444
+Auto Rock,Battleship Chains (LP Version),rock,version,0.14285714285714285
+Auto Rock,Battleship Chains (LP Version),rock,battleship,0.47058823529411764
+Auto Rock,Battleship Chains (LP Version),rock,chains,0.5
+Auto Rock,Battleship Chains (LP Version),rock,rock,1.0
+Auto Rock,Battleship Chains (LP Version),rock,best,0.14285714285714285
+Auto Rock,Battleship Chains (LP Version),rock,georgia,0.375
+Auto Rock,Battleship Chains (LP Version),rock,satellites,0.5714285714285714
+Auto Rock,Battleship Chains (LP Version),rock,let,0.14285714285714285
+Auto Rock,Battleship Chains (LP Version),mr,lp,0.09523809523809523
+Auto Rock,Battleship Chains (LP Version),mr,version,0.23529411764705882
+Auto Rock,Battleship Chains (LP Version),mr,battleship,0.1
+Auto Rock,Battleship Chains (LP Version),mr,chains,0.10526315789473684
+Auto Rock,Battleship Chains (LP Version),mr,rock,0.13333333333333333
+Auto Rock,Battleship Chains (LP Version),mr,best,0.23529411764705882
+Auto Rock,Battleship Chains (LP Version),mr,georgia,0.10526315789473684
+Auto Rock,Battleship Chains (LP Version),mr,satellites,0.11764705882352941
+Auto Rock,Battleship Chains (LP Version),mr,let,0.23529411764705882
+Auto Rock,Battleship Chains (LP Version),beast,lp,0.42105263157894735
+Auto Rock,Battleship Chains (LP Version),beast,version,0.13333333333333333
+Auto Rock,Battleship Chains (LP Version),beast,battleship,0.4444444444444444
+Auto Rock,Battleship Chains (LP Version),beast,chains,0.47058823529411764
+Auto Rock,Battleship Chains (LP Version),beast,rock,0.6153846153846154
+Auto Rock,Battleship Chains (LP Version),beast,best,0.13333333333333333
+Auto Rock,Battleship Chains (LP Version),beast,georgia,0.35294117647058826
+Auto Rock,Battleship Chains (LP Version),beast,satellites,0.5333333333333333
+Auto Rock,Battleship Chains (LP Version),beast,let,0.13333333333333333
+Auto Rock,The Sky's Ablaze,auto,sky,0.2222222222222222
+Auto Rock,The Sky's Ablaze,auto,ablaze,0
+Auto Rock,The Sky's Ablaze,auto,freaks,0.42105263157894735
+Auto Rock,The Sky's Ablaze,auto,come,0.2222222222222222
+Auto Rock,The Sky's Ablaze,rock,sky,0.3076923076923077
+Auto Rock,The Sky's Ablaze,rock,ablaze,0
+Auto Rock,The Sky's Ablaze,rock,freaks,0.5714285714285714
+Auto Rock,The Sky's Ablaze,rock,come,0.3076923076923077
+Auto Rock,The Sky's Ablaze,mr,sky,0.125
+Auto Rock,The Sky's Ablaze,mr,ablaze,0
+Auto Rock,The Sky's Ablaze,mr,freaks,0.11764705882352941
+Auto Rock,The Sky's Ablaze,mr,come,0.47058823529411764
+Auto Rock,The Sky's Ablaze,beast,sky,0.2857142857142857
+Auto Rock,The Sky's Ablaze,beast,ablaze,0
+Auto Rock,The Sky's Ablaze,beast,freaks,0.8
+Auto Rock,The Sky's Ablaze,beast,come,0.2857142857142857
+Auto Rock,Funkytown,auto,chipmunks,0.32
+Auto Rock,Funkytown,rock,chipmunks,0.4
+Auto Rock,Funkytown,mr,chipmunks,0.08695652173913043
+Auto Rock,Funkytown,beast,chipmunks,0.6666666666666666
+Auto Rock,How We Roll,auto,roll,0.1
+Auto Rock,How We Roll,auto,original,0.5555555555555556
+Auto Rock,How We Roll,auto,motion,0.125
+Auto Rock,How We Roll,auto,picture,0.5263157894736842
+Auto Rock,How We Roll,auto,soundtrack,0.5454545454545454
+Auto Rock,How We Roll,auto,chipmunks,0.32
+Auto Rock,How We Roll,rock,roll,0.13333333333333333
+Auto Rock,How We Roll,rock,original,0.6153846153846154
+Auto Rock,How We Roll,rock,motion,0.18181818181818182
+Auto Rock,How We Roll,rock,picture,0.5714285714285714
+Auto Rock,How We Roll,rock,soundtrack,0.47058823529411764
+Auto Rock,How We Roll,rock,chipmunks,0.4
+Auto Rock,How We Roll,mr,roll,0.2222222222222222
+Auto Rock,How We Roll,mr,original,0.125
+Auto Rock,How We Roll,mr,motion,0.2857142857142857
+Auto Rock,How We Roll,mr,picture,0.11764705882352941
+Auto Rock,How We Roll,mr,soundtrack,0.1
+Auto Rock,How We Roll,mr,chipmunks,0.08695652173913043
+Auto Rock,How We Roll,beast,roll,0.125
+Auto Rock,How We Roll,beast,original,0.5714285714285714
+Auto Rock,How We Roll,beast,motion,0.16666666666666666
+Auto Rock,How We Roll,beast,picture,0.5333333333333333
+Auto Rock,How We Roll,beast,soundtrack,0.4444444444444444
+Auto Rock,How We Roll,beast,chipmunks,0.6666666666666666
+Who Knows Who Cares,O Hosanna,knows,hosanna,0.26666666666666666
+Who Knows Who Cares,O Hosanna,knows,volume,0.3333333333333333
+Who Knows Who Cares,O Hosanna,knows,songs,0.26666666666666666
+Who Knows Who Cares,O Hosanna,cares,hosanna,0.26666666666666666
+Who Knows Who Cares,O Hosanna,cares,volume,0.3333333333333333
+Who Knows Who Cares,O Hosanna,cares,songs,0.26666666666666666
+Who Knows Who Cares,O Hosanna,gorilla,hosanna,0.08695652173913043
+Who Knows Who Cares,O Hosanna,gorilla,volume,0.1
+Who Knows Who Cares,O Hosanna,gorilla,songs,0.08695652173913043
+Who Knows Who Cares,O Hosanna,manor,hosanna,0.11764705882352941
+Who Knows Who Cares,O Hosanna,manor,volume,0.14285714285714285
+Who Knows Who Cares,O Hosanna,manor,songs,0.11764705882352941
+Who Knows Who Cares,Les derniers aventuriers,knows,last,0.2857142857142857
+Who Knows Who Cares,Les derniers aventuriers,knows,adventurers,0.15384615384615385
+Who Knows Who Cares,Les derniers aventuriers,knows,direction,0.13333333333333333
+Who Knows Who Cares,Les derniers aventuriers,cares,last,0.2857142857142857
+Who Knows Who Cares,Les derniers aventuriers,cares,adventurers,0.15384615384615385
+Who Knows Who Cares,Les derniers aventuriers,cares,direction,0.13333333333333333
+Who Knows Who Cares,Les derniers aventuriers,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Les derniers aventuriers,gorilla,adventurers,0.5
+Who Knows Who Cares,Les derniers aventuriers,gorilla,direction,0.2608695652173913
+Who Knows Who Cares,Les derniers aventuriers,manor,last,0.125
+Who Knows Who Cares,Les derniers aventuriers,manor,adventurers,0.4444444444444444
+Who Knows Who Cares,Les derniers aventuriers,manor,direction,0.35294117647058826
+Who Knows Who Cares,Love Comes Tumbling,knows,love,0.26666666666666666
+Who Knows Who Cares,Love Comes Tumbling,knows,comes,0.25
+Who Knows Who Cares,Love Comes Tumbling,knows,tumbling,0.3333333333333333
+Who Knows Who Cares,Love Comes Tumbling,knows,wide,0
+Who Knows Who Cares,Love Comes Tumbling,knows,awake,0
+Who Knows Who Cares,Love Comes Tumbling,knows,america,0.1111111111111111
+Who Knows Who Cares,Love Comes Tumbling,cares,love,0.26666666666666666
+Who Knows Who Cares,Love Comes Tumbling,cares,comes,0.25
+Who Knows Who Cares,Love Comes Tumbling,cares,tumbling,0.6666666666666666
+Who Knows Who Cares,Love Comes Tumbling,cares,wide,0
+Who Knows Who Cares,Love Comes Tumbling,cares,awake,0
+Who Knows Who Cares,Love Comes Tumbling,cares,america,0.1111111111111111
+Who Knows Who Cares,Love Comes Tumbling,gorilla,love,0.08695652173913043
+Who Knows Who Cares,Love Comes Tumbling,gorilla,comes,0.17391304347826086
+Who Knows Who Cares,Love Comes Tumbling,gorilla,tumbling,0.07692307692307693
+Who Knows Who Cares,Love Comes Tumbling,gorilla,wide,0
+Who Knows Who Cares,Love Comes Tumbling,gorilla,awake,0
+Who Knows Who Cares,Love Comes Tumbling,gorilla,america,0.23076923076923078
+Who Knows Who Cares,Love Comes Tumbling,manor,love,0.11764705882352941
+Who Knows Who Cares,Love Comes Tumbling,manor,comes,0.23529411764705882
+Who Knows Who Cares,Love Comes Tumbling,manor,tumbling,0.1
+Who Knows Who Cares,Love Comes Tumbling,manor,wide,0
+Who Knows Who Cares,Love Comes Tumbling,manor,awake,0
+Who Knows Who Cares,Love Comes Tumbling,manor,america,0.3
+Who Knows Who Cares,Witch Doctor,knows,witch,0.14285714285714285
+Who Knows Who Cares,Witch Doctor,knows,doctor,0.11764705882352941
+Who Knows Who Cares,Witch Doctor,knows,chipmunks,0.09090909090909091
+Who Knows Who Cares,Witch Doctor,cares,witch,0.14285714285714285
+Who Knows Who Cares,Witch Doctor,cares,doctor,0.11764705882352941
+Who Knows Who Cares,Witch Doctor,cares,chipmunks,0.09090909090909091
+Who Knows Who Cares,Witch Doctor,gorilla,witch,0.48
+Who Knows Who Cares,Witch Doctor,gorilla,doctor,0.42857142857142855
+Who Knows Who Cares,Witch Doctor,gorilla,chipmunks,0.7333333333333333
+Who Knows Who Cares,Witch Doctor,manor,witch,0.42105263157894735
+Who Knows Who Cares,Witch Doctor,manor,doctor,0.36363636363636365
+Who Knows Who Cares,Witch Doctor,manor,chipmunks,0.3333333333333333
+Who Knows Who Cares,Sehr kosmisch,knows,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,knows,music,0.3076923076923077
+Who Knows Who Cares,Sehr kosmisch,cares,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,cares,music,0.3076923076923077
+Who Knows Who Cares,Sehr kosmisch,gorilla,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,gorilla,music,0.09523809523809523
+Who Knows Who Cares,Sehr kosmisch,manor,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,manor,music,0.13333333333333333
+Who Knows Who Cares,I Salute,knows,salute,0.26666666666666666
+Who Knows Who Cares,I Salute,knows,another,0
+Who Knows Who Cares,I Salute,knows,self,0.23529411764705882
+Who Knows Who Cares,I Salute,cares,salute,0.26666666666666666
+Who Knows Who Cares,I Salute,cares,another,0
+Who Knows Who Cares,I Salute,cares,self,0.23529411764705882
+Who Knows Who Cares,I Salute,gorilla,salute,0.08695652173913043
+Who Knows Who Cares,I Salute,gorilla,another,0
+Who Knows Who Cares,I Salute,gorilla,self,0.08
+Who Knows Who Cares,I Salute,manor,salute,0.11764705882352941
+Who Knows Who Cares,I Salute,manor,another,0
+Who Knows Who Cares,I Salute,manor,self,0.10526315789473684
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),knows,along,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),knows,instrumental,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),knows,sing,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),knows,one,0.25
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),knows,montana,0.1111111111111111
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),knows,disney,0.125
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),knows,singalong,0.4
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),cares,along,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),cares,instrumental,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),cares,sing,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),cares,one,0.25
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),cares,montana,0.1111111111111111
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),cares,disney,0.125
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),cares,singalong,0.6666666666666666
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),gorilla,along,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),gorilla,instrumental,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),gorilla,sing,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),gorilla,one,0.08333333333333333
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),gorilla,montana,0.23076923076923078
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),gorilla,disney,0.4444444444444444
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),gorilla,singalong,0.07692307692307693
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),manor,along,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),manor,instrumental,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),manor,sing,0
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),manor,one,0.1111111111111111
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),manor,montana,0.3
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),manor,disney,0.38095238095238093
+Who Knows Who Cares,He Could Be The One (Sing-Along Instrumental),manor,singalong,0.1
+Who Knows Who Cares,Live And Love,knows,love,0.26666666666666666
+Who Knows Who Cares,Live And Love,knows,live,0
+Who Knows Who Cares,Live And Love,knows,horace,0.125
+Who Knows Who Cares,Live And Love,knows,meets,0.375
+Who Knows Who Cares,Live And Love,knows,morris,0.13333333333333333
+Who Knows Who Cares,Live And Love,knows,wayne,0.125
+Who Knows Who Cares,Live And Love,knows,mini,0.1111111111111111
+Who Knows Who Cares,Live And Love,knows,showcase,0.25
+Who Knows Who Cares,Live And Love,cares,love,0.26666666666666666
+Who Knows Who Cares,Live And Love,cares,live,0
+Who Knows Who Cares,Live And Love,cares,horace,0.125
+Who Knows Who Cares,Live And Love,cares,meets,0.5
+Who Knows Who Cares,Live And Love,cares,morris,0.13333333333333333
+Who Knows Who Cares,Live And Love,cares,wayne,0.125
+Who Knows Who Cares,Live And Love,cares,mini,0.1111111111111111
+Who Knows Who Cares,Live And Love,cares,showcase,0.25
+Who Knows Who Cares,Live And Love,gorilla,love,0.08695652173913043
+Who Knows Who Cares,Live And Love,gorilla,live,0
+Who Knows Who Cares,Live And Love,gorilla,horace,0.4444444444444444
+Who Knows Who Cares,Live And Love,gorilla,meets,0.08333333333333333
+Who Knows Who Cares,Live And Love,gorilla,morris,0.46153846153846156
+Who Knows Who Cares,Live And Love,gorilla,wayne,0.4444444444444444
+Who Knows Who Cares,Live And Love,gorilla,mini,0.3076923076923077
+Who Knows Who Cares,Live And Love,gorilla,showcase,0.08333333333333333
+Who Knows Who Cares,Live And Love,manor,love,0.11764705882352941
+Who Knows Who Cares,Live And Love,manor,live,0
+Who Knows Who Cares,Live And Love,manor,horace,0.38095238095238093
+Who Knows Who Cares,Live And Love,manor,meets,0.1111111111111111
+Who Knows Who Cares,Live And Love,manor,morris,0.4
+Who Knows Who Cares,Live And Love,manor,wayne,0.38095238095238093
+Who Knows Who Cares,Live And Love,manor,mini,0.5
+Who Knows Who Cares,Live And Love,manor,showcase,0.1111111111111111
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),knows,chipmunk,0.09090909090909091
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),knows,song,0.26666666666666666
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),knows,late,0
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),knows,christmas,0.26666666666666666
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),knows,chipmunks,0.09090909090909091
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),cares,chipmunk,0.09090909090909091
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),cares,song,0.26666666666666666
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),cares,late,0
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),cares,christmas,0.26666666666666666
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),cares,chipmunks,0.09090909090909091
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),gorilla,chipmunk,0.7333333333333333
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),gorilla,song,0.08695652173913043
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),gorilla,late,0
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),gorilla,christmas,0.08695652173913043
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),gorilla,chipmunks,0.7333333333333333
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),manor,chipmunk,0.3333333333333333
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),manor,song,0.11764705882352941
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),manor,late,0
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),manor,christmas,0.11764705882352941
+Who Knows Who Cares,The Chipmunk Song (Christmas Don't Be Late),manor,chipmunks,0.3333333333333333
+Who Knows Who Cares,Perdiendo El Tiempo,knows,wasting,0.21052631578947367
+Who Knows Who Cares,Perdiendo El Tiempo,knows,time,0.4
+Who Knows Who Cares,Perdiendo El Tiempo,knows,great,0.14285714285714285
+Who Knows Who Cares,Perdiendo El Tiempo,knows,successes,0.42857142857142855
+Who Knows Who Cares,Perdiendo El Tiempo,cares,wasting,0.21052631578947367
+Who Knows Who Cares,Perdiendo El Tiempo,cares,time,0.5333333333333333
+Who Knows Who Cares,Perdiendo El Tiempo,cares,great,0.14285714285714285
+Who Knows Who Cares,Perdiendo El Tiempo,cares,successes,0.5714285714285714
+Who Knows Who Cares,Perdiendo El Tiempo,gorilla,wasting,0.07407407407407407
+Who Knows Who Cares,Perdiendo El Tiempo,gorilla,time,0.08695652173913043
+Who Knows Who Cares,Perdiendo El Tiempo,gorilla,great,0.48
+Who Knows Who Cares,Perdiendo El Tiempo,gorilla,successes,0.09090909090909091
+Who Knows Who Cares,Perdiendo El Tiempo,manor,wasting,0.09523809523809523
+Who Knows Who Cares,Perdiendo El Tiempo,manor,time,0.11764705882352941
+Who Knows Who Cares,Perdiendo El Tiempo,manor,great,0.42105263157894735
+Who Knows Who Cares,Perdiendo El Tiempo,manor,successes,0.125
+Who Knows Who Cares,Battleship Chains (LP Version),knows,lp,0.1
+Who Knows Who Cares,Battleship Chains (LP Version),knows,version,0.25
+Who Knows Who Cares,Battleship Chains (LP Version),knows,battleship,0.10526315789473684
+Who Knows Who Cares,Battleship Chains (LP Version),knows,chains,0.1111111111111111
+Who Knows Who Cares,Battleship Chains (LP Version),knows,rock,0.14285714285714285
+Who Knows Who Cares,Battleship Chains (LP Version),knows,best,0.375
+Who Knows Who Cares,Battleship Chains (LP Version),knows,georgia,0.1111111111111111
+Who Knows Who Cares,Battleship Chains (LP Version),knows,satellites,0.125
+Who Knows Who Cares,Battleship Chains (LP Version),knows,let,0.25
+Who Knows Who Cares,Battleship Chains (LP Version),cares,lp,0.1
+Who Knows Who Cares,Battleship Chains (LP Version),cares,version,0.25
+Who Knows Who Cares,Battleship Chains (LP Version),cares,battleship,0.10526315789473684
+Who Knows Who Cares,Battleship Chains (LP Version),cares,chains,0.1111111111111111
+Who Knows Who Cares,Battleship Chains (LP Version),cares,rock,0.14285714285714285
+Who Knows Who Cares,Battleship Chains (LP Version),cares,best,0.75
+Who Knows Who Cares,Battleship Chains (LP Version),cares,georgia,0.1111111111111111
+Who Knows Who Cares,Battleship Chains (LP Version),cares,satellites,0.125
+Who Knows Who Cares,Battleship Chains (LP Version),cares,let,0.25
+Who Knows Who Cares,Battleship Chains (LP Version),gorilla,lp,0.2857142857142857
+Who Knows Who Cares,Battleship Chains (LP Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Battleship Chains (LP Version),gorilla,battleship,0.2962962962962963
+Who Knows Who Cares,Battleship Chains (LP Version),gorilla,chains,0.3076923076923077
+Who Knows Who Cares,Battleship Chains (LP Version),gorilla,rock,0.36363636363636365
+Who Knows Who Cares,Battleship Chains (LP Version),gorilla,best,0.08333333333333333
+Who Knows Who Cares,Battleship Chains (LP Version),gorilla,georgia,0.23076923076923078
+Who Knows Who Cares,Battleship Chains (LP Version),gorilla,satellites,0.3333333333333333
+Who Knows Who Cares,Battleship Chains (LP Version),gorilla,let,0.08333333333333333
+Who Knows Who Cares,Battleship Chains (LP Version),manor,lp,0.45454545454545453
+Who Knows Who Cares,Battleship Chains (LP Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Battleship Chains (LP Version),manor,battleship,0.47619047619047616
+Who Knows Who Cares,Battleship Chains (LP Version),manor,chains,0.5
+Who Knows Who Cares,Battleship Chains (LP Version),manor,rock,0.5
+Who Knows Who Cares,Battleship Chains (LP Version),manor,best,0.1111111111111111
+Who Knows Who Cares,Battleship Chains (LP Version),manor,georgia,0.3
+Who Knows Who Cares,Battleship Chains (LP Version),manor,satellites,0.5555555555555556
+Who Knows Who Cares,Battleship Chains (LP Version),manor,let,0.1111111111111111
+Who Knows Who Cares,The Sky's Ablaze,knows,sky,0.13333333333333333
+Who Knows Who Cares,The Sky's Ablaze,knows,ablaze,0
+Who Knows Who Cares,The Sky's Ablaze,knows,freaks,0.125
+Who Knows Who Cares,The Sky's Ablaze,knows,come,0.25
+Who Knows Who Cares,The Sky's Ablaze,cares,sky,0.13333333333333333
+Who Knows Who Cares,The Sky's Ablaze,cares,ablaze,0
+Who Knows Who Cares,The Sky's Ablaze,cares,freaks,0.125
+Who Knows Who Cares,The Sky's Ablaze,cares,come,0.25
+Who Knows Who Cares,The Sky's Ablaze,gorilla,sky,0.17391304347826086
+Who Knows Who Cares,The Sky's Ablaze,gorilla,ablaze,0
+Who Knows Who Cares,The Sky's Ablaze,gorilla,freaks,0.5
+Who Knows Who Cares,The Sky's Ablaze,gorilla,come,0.17391304347826086
+Who Knows Who Cares,The Sky's Ablaze,manor,sky,0.23529411764705882
+Who Knows Who Cares,The Sky's Ablaze,manor,ablaze,0
+Who Knows Who Cares,The Sky's Ablaze,manor,freaks,0.4444444444444444
+Who Knows Who Cares,The Sky's Ablaze,manor,come,0.23529411764705882
+Who Knows Who Cares,Funkytown,knows,chipmunks,0.09090909090909091
+Who Knows Who Cares,Funkytown,cares,chipmunks,0.09090909090909091
+Who Knows Who Cares,Funkytown,gorilla,chipmunks,0.7333333333333333
+Who Knows Who Cares,Funkytown,manor,chipmunks,0.3333333333333333
+Who Knows Who Cares,How We Roll,knows,roll,0.35294117647058826
+Who Knows Who Cares,How We Roll,knows,original,0.13333333333333333
+Who Knows Who Cares,How We Roll,knows,motion,0.3076923076923077
+Who Knows Who Cares,How We Roll,knows,picture,0.125
+Who Knows Who Cares,How We Roll,knows,soundtrack,0.10526315789473684
+Who Knows Who Cares,How We Roll,knows,chipmunks,0.09090909090909091
+Who Knows Who Cares,How We Roll,cares,roll,0.47058823529411764
+Who Knows Who Cares,How We Roll,cares,original,0.13333333333333333
+Who Knows Who Cares,How We Roll,cares,motion,0.3076923076923077
+Who Knows Who Cares,How We Roll,cares,picture,0.125
+Who Knows Who Cares,How We Roll,cares,soundtrack,0.10526315789473684
+Who Knows Who Cares,How We Roll,cares,chipmunks,0.09090909090909091
+Who Knows Who Cares,How We Roll,gorilla,roll,0.08
+Who Knows Who Cares,How We Roll,gorilla,original,0.34782608695652173
+Who Knows Who Cares,How We Roll,gorilla,motion,0.09523809523809523
+Who Knows Who Cares,How We Roll,gorilla,picture,0.3333333333333333
+Who Knows Who Cares,How We Roll,gorilla,soundtrack,0.2962962962962963
+Who Knows Who Cares,How We Roll,gorilla,chipmunks,0.7333333333333333
+Who Knows Who Cares,How We Roll,manor,roll,0.10526315789473684
+Who Knows Who Cares,How We Roll,manor,original,0.5882352941176471
+Who Knows Who Cares,How We Roll,manor,motion,0.13333333333333333
+Who Knows Who Cares,How We Roll,manor,picture,0.5555555555555556
+Who Knows Who Cares,How We Roll,manor,soundtrack,0.47619047619047616
+Who Knows Who Cares,How We Roll,manor,chipmunks,0.3333333333333333
+Quiet,O Hosanna,quiet,hosanna,0.1111111111111111
+Quiet,O Hosanna,quiet,volume,0.13333333333333333
+Quiet,O Hosanna,quiet,songs,0.1111111111111111
+Quiet,O Hosanna,young,hosanna,0.13333333333333333
+Quiet,O Hosanna,young,volume,0.16666666666666666
+Quiet,O Hosanna,young,songs,0.13333333333333333
+Quiet,O Hosanna,mountain,hosanna,0.15384615384615385
+Quiet,O Hosanna,mountain,volume,0.2
+Quiet,O Hosanna,mountain,songs,0.15384615384615385
+Quiet,Les derniers aventuriers,quiet,last,0.11764705882352941
+Quiet,Les derniers aventuriers,quiet,adventurers,0.25
+Quiet,Les derniers aventuriers,quiet,direction,0.2222222222222222
+Quiet,Les derniers aventuriers,young,last,0.14285714285714285
+Quiet,Les derniers aventuriers,young,adventurers,0.75
+Quiet,Les derniers aventuriers,young,direction,0.4
+Quiet,Les derniers aventuriers,mountain,last,0.16666666666666666
+Quiet,Les derniers aventuriers,mountain,adventurers,0.46153846153846156
+Quiet,Les derniers aventuriers,mountain,direction,0.46153846153846156
+Quiet,Love Comes Tumbling,quiet,love,0.1111111111111111
+Quiet,Love Comes Tumbling,quiet,comes,0.2222222222222222
+Quiet,Love Comes Tumbling,quiet,tumbling,0.09523809523809523
+Quiet,Love Comes Tumbling,quiet,wide,0
+Quiet,Love Comes Tumbling,quiet,awake,0
+Quiet,Love Comes Tumbling,quiet,america,0.19047619047619047
+Quiet,Love Comes Tumbling,young,love,0.13333333333333333
+Quiet,Love Comes Tumbling,young,comes,0.26666666666666666
+Quiet,Love Comes Tumbling,young,tumbling,0.1111111111111111
+Quiet,Love Comes Tumbling,young,wide,0
+Quiet,Love Comes Tumbling,young,awake,0
+Quiet,Love Comes Tumbling,young,america,0.3333333333333333
+Quiet,Love Comes Tumbling,mountain,love,0.15384615384615385
+Quiet,Love Comes Tumbling,mountain,comes,0.3076923076923077
+Quiet,Love Comes Tumbling,mountain,tumbling,0.125
+Quiet,Love Comes Tumbling,mountain,wide,0
+Quiet,Love Comes Tumbling,mountain,awake,0
+Quiet,Love Comes Tumbling,mountain,america,0.375
+Quiet,Witch Doctor,quiet,witch,0.23529411764705882
+Quiet,Witch Doctor,quiet,doctor,0.2
+Quiet,Witch Doctor,quiet,chipmunks,0.16
+Quiet,Witch Doctor,young,witch,0.7058823529411765
+Quiet,Witch Doctor,young,doctor,0.6
+Quiet,Witch Doctor,young,chipmunks,0.6363636363636364
+Quiet,Witch Doctor,mountain,witch,0.42857142857142855
+Quiet,Witch Doctor,mountain,doctor,0.35294117647058826
+Quiet,Witch Doctor,mountain,chipmunks,0.3
+Quiet,Sehr kosmisch,quiet,cosmic,0
+Quiet,Sehr kosmisch,quiet,music,0.125
+Quiet,Sehr kosmisch,young,cosmic,0
+Quiet,Sehr kosmisch,young,music,0.15384615384615385
+Quiet,Sehr kosmisch,mountain,cosmic,0
+Quiet,Sehr kosmisch,mountain,music,0.18181818181818182
+Quiet,I Salute,quiet,salute,0.1111111111111111
+Quiet,I Salute,quiet,another,0
+Quiet,I Salute,quiet,self,0.1
+Quiet,I Salute,young,salute,0.13333333333333333
+Quiet,I Salute,young,another,0
+Quiet,I Salute,young,self,0.11764705882352941
+Quiet,I Salute,mountain,salute,0.15384615384615385
+Quiet,I Salute,mountain,another,0
+Quiet,I Salute,mountain,self,0.13333333333333333
+Quiet,He Could Be The One (Sing-Along Instrumental),quiet,along,0
+Quiet,He Could Be The One (Sing-Along Instrumental),quiet,instrumental,0
+Quiet,He Could Be The One (Sing-Along Instrumental),quiet,sing,0
+Quiet,He Could Be The One (Sing-Along Instrumental),quiet,one,0.10526315789473684
+Quiet,He Could Be The One (Sing-Along Instrumental),quiet,montana,0.19047619047619047
+Quiet,He Could Be The One (Sing-Along Instrumental),quiet,disney,0.21052631578947367
+Quiet,He Could Be The One (Sing-Along Instrumental),quiet,singalong,0.09523809523809523
+Quiet,He Could Be The One (Sing-Along Instrumental),young,along,0
+Quiet,He Could Be The One (Sing-Along Instrumental),young,instrumental,0
+Quiet,He Could Be The One (Sing-Along Instrumental),young,sing,0
+Quiet,He Could Be The One (Sing-Along Instrumental),young,one,0.125
+Quiet,He Could Be The One (Sing-Along Instrumental),young,montana,0.3333333333333333
+Quiet,He Could Be The One (Sing-Along Instrumental),young,disney,0.631578947368421
+Quiet,He Could Be The One (Sing-Along Instrumental),young,singalong,0.1111111111111111
+Quiet,He Could Be The One (Sing-Along Instrumental),mountain,along,0
+Quiet,He Could Be The One (Sing-Along Instrumental),mountain,instrumental,0
+Quiet,He Could Be The One (Sing-Along Instrumental),mountain,sing,0
+Quiet,He Could Be The One (Sing-Along Instrumental),mountain,one,0.14285714285714285
+Quiet,He Could Be The One (Sing-Along Instrumental),mountain,montana,0.375
+Quiet,He Could Be The One (Sing-Along Instrumental),mountain,disney,0.375
+Quiet,He Could Be The One (Sing-Along Instrumental),mountain,singalong,0.125
+Quiet,Live And Love,quiet,love,0.1111111111111111
+Quiet,Live And Love,quiet,live,0
+Quiet,Live And Love,quiet,horace,0.21052631578947367
+Quiet,Live And Love,quiet,meets,0.10526315789473684
+Quiet,Live And Love,quiet,morris,0.2222222222222222
+Quiet,Live And Love,quiet,wayne,0.21052631578947367
+Quiet,Live And Love,quiet,mini,0.19047619047619047
+Quiet,Live And Love,quiet,showcase,0.10526315789473684
+Quiet,Live And Love,young,love,0.13333333333333333
+Quiet,Live And Love,young,live,0
+Quiet,Live And Love,young,horace,0.631578947368421
+Quiet,Live And Love,young,meets,0.125
+Quiet,Live And Love,young,morris,0.6666666666666666
+Quiet,Live And Love,young,wayne,0.631578947368421
+Quiet,Live And Love,young,mini,0.4444444444444444
+Quiet,Live And Love,young,showcase,0.125
+Quiet,Live And Love,mountain,love,0.15384615384615385
+Quiet,Live And Love,mountain,live,0
+Quiet,Live And Love,mountain,horace,0.375
+Quiet,Live And Love,mountain,meets,0.14285714285714285
+Quiet,Live And Love,mountain,morris,0.4
+Quiet,Live And Love,mountain,wayne,0.375
+Quiet,Live And Love,mountain,mini,0.375
+Quiet,Live And Love,mountain,showcase,0.14285714285714285
+Quiet,The Chipmunk Song (Christmas Don't Be Late),quiet,chipmunk,0.16
+Quiet,The Chipmunk Song (Christmas Don't Be Late),quiet,song,0.1111111111111111
+Quiet,The Chipmunk Song (Christmas Don't Be Late),quiet,late,0
+Quiet,The Chipmunk Song (Christmas Don't Be Late),quiet,christmas,0.1111111111111111
+Quiet,The Chipmunk Song (Christmas Don't Be Late),quiet,chipmunks,0.16
+Quiet,The Chipmunk Song (Christmas Don't Be Late),young,chipmunk,0.6363636363636364
+Quiet,The Chipmunk Song (Christmas Don't Be Late),young,song,0.13333333333333333
+Quiet,The Chipmunk Song (Christmas Don't Be Late),young,late,0
+Quiet,The Chipmunk Song (Christmas Don't Be Late),young,christmas,0.13333333333333333
+Quiet,The Chipmunk Song (Christmas Don't Be Late),young,chipmunks,0.6363636363636364
+Quiet,The Chipmunk Song (Christmas Don't Be Late),mountain,chipmunk,0.3
+Quiet,The Chipmunk Song (Christmas Don't Be Late),mountain,song,0.15384615384615385
+Quiet,The Chipmunk Song (Christmas Don't Be Late),mountain,late,0
+Quiet,The Chipmunk Song (Christmas Don't Be Late),mountain,christmas,0.15384615384615385
+Quiet,The Chipmunk Song (Christmas Don't Be Late),mountain,chipmunks,0.3
+Quiet,Perdiendo El Tiempo,quiet,wasting,0.09090909090909091
+Quiet,Perdiendo El Tiempo,quiet,time,0.1111111111111111
+Quiet,Perdiendo El Tiempo,quiet,great,0.23529411764705882
+Quiet,Perdiendo El Tiempo,quiet,successes,0.11764705882352941
+Quiet,Perdiendo El Tiempo,young,wasting,0.10526315789473684
+Quiet,Perdiendo El Tiempo,young,time,0.13333333333333333
+Quiet,Perdiendo El Tiempo,young,great,0.7058823529411765
+Quiet,Perdiendo El Tiempo,young,successes,0.14285714285714285
+Quiet,Perdiendo El Tiempo,mountain,wasting,0.11764705882352941
+Quiet,Perdiendo El Tiempo,mountain,time,0.15384615384615385
+Quiet,Perdiendo El Tiempo,mountain,great,0.42857142857142855
+Quiet,Perdiendo El Tiempo,mountain,successes,0.16666666666666666
+Quiet,Battleship Chains (LP Version),quiet,lp,0.17391304347826086
+Quiet,Battleship Chains (LP Version),quiet,version,0.10526315789473684
+Quiet,Battleship Chains (LP Version),quiet,battleship,0.18181818181818182
+Quiet,Battleship Chains (LP Version),quiet,chains,0.19047619047619047
+Quiet,Battleship Chains (LP Version),quiet,rock,0.23529411764705882
+Quiet,Battleship Chains (LP Version),quiet,best,0.10526315789473684
+Quiet,Battleship Chains (LP Version),quiet,georgia,0.19047619047619047
+Quiet,Battleship Chains (LP Version),quiet,satellites,0.21052631578947367
+Quiet,Battleship Chains (LP Version),quiet,let,0.10526315789473684
+Quiet,Battleship Chains (LP Version),young,lp,0.4
+Quiet,Battleship Chains (LP Version),young,version,0.125
+Quiet,Battleship Chains (LP Version),young,battleship,0.42105263157894735
+Quiet,Battleship Chains (LP Version),young,chains,0.4444444444444444
+Quiet,Battleship Chains (LP Version),young,rock,0.5714285714285714
+Quiet,Battleship Chains (LP Version),young,best,0.125
+Quiet,Battleship Chains (LP Version),young,georgia,0.3333333333333333
+Quiet,Battleship Chains (LP Version),young,satellites,0.5
+Quiet,Battleship Chains (LP Version),young,let,0.125
+Quiet,Battleship Chains (LP Version),mountain,lp,0.3333333333333333
+Quiet,Battleship Chains (LP Version),mountain,version,0.14285714285714285
+Quiet,Battleship Chains (LP Version),mountain,battleship,0.35294117647058826
+Quiet,Battleship Chains (LP Version),mountain,chains,0.375
+Quiet,Battleship Chains (LP Version),mountain,rock,0.5
+Quiet,Battleship Chains (LP Version),mountain,best,0.14285714285714285
+Quiet,Battleship Chains (LP Version),mountain,georgia,0.375
+Quiet,Battleship Chains (LP Version),mountain,satellites,0.42857142857142855
+Quiet,Battleship Chains (LP Version),mountain,let,0.14285714285714285
+Quiet,The Sky's Ablaze,quiet,sky,0.2222222222222222
+Quiet,The Sky's Ablaze,quiet,ablaze,0
+Quiet,The Sky's Ablaze,quiet,freaks,0.21052631578947367
+Quiet,The Sky's Ablaze,quiet,come,0.2222222222222222
+Quiet,The Sky's Ablaze,young,sky,0.26666666666666666
+Quiet,The Sky's Ablaze,young,ablaze,0
+Quiet,The Sky's Ablaze,young,freaks,0.75
+Quiet,The Sky's Ablaze,young,come,0.26666666666666666
+Quiet,The Sky's Ablaze,mountain,sky,0.3076923076923077
+Quiet,The Sky's Ablaze,mountain,ablaze,0
+Quiet,The Sky's Ablaze,mountain,freaks,0.42857142857142855
+Quiet,The Sky's Ablaze,mountain,come,0.3076923076923077
+Quiet,Funkytown,quiet,chipmunks,0.16
+Quiet,Funkytown,young,chipmunks,0.6363636363636364
+Quiet,Funkytown,mountain,chipmunks,0.3
+Quiet,How We Roll,quiet,roll,0.1
+Quiet,How We Roll,quiet,original,0.2222222222222222
+Quiet,How We Roll,quiet,motion,0.125
+Quiet,How We Roll,quiet,picture,0.21052631578947367
+Quiet,How We Roll,quiet,soundtrack,0.18181818181818182
+Quiet,How We Roll,quiet,chipmunks,0.16
+Quiet,How We Roll,young,roll,0.11764705882352941
+Quiet,How We Roll,young,original,0.5333333333333333
+Quiet,How We Roll,young,motion,0.15384615384615385
+Quiet,How We Roll,young,picture,0.5
+Quiet,How We Roll,young,soundtrack,0.42105263157894735
+Quiet,How We Roll,young,chipmunks,0.6363636363636364
+Quiet,How We Roll,mountain,roll,0.13333333333333333
+Quiet,How We Roll,mountain,original,0.46153846153846156
+Quiet,How We Roll,mountain,motion,0.18181818181818182
+Quiet,How We Roll,mountain,picture,0.42857142857142855
+Quiet,How We Roll,mountain,soundtrack,0.35294117647058826
+Quiet,How We Roll,mountain,chipmunks,0.3
+Girlfriend,O Hosanna,girlfriend,hosanna,0.15384615384615385
+Girlfriend,O Hosanna,girlfriend,volume,0.2
+Girlfriend,O Hosanna,girlfriend,songs,0.15384615384615385
+Girlfriend,O Hosanna,phoenix,hosanna,0.1111111111111111
+Girlfriend,O Hosanna,phoenix,volume,0.13333333333333333
+Girlfriend,O Hosanna,phoenix,songs,0.1111111111111111
+Girlfriend,Les derniers aventuriers,girlfriend,last,0.16666666666666666
+Girlfriend,Les derniers aventuriers,girlfriend,adventurers,0.7058823529411765
+Girlfriend,Les derniers aventuriers,girlfriend,direction,0.4
+Girlfriend,Les derniers aventuriers,phoenix,last,0.11764705882352941
+Girlfriend,Les derniers aventuriers,phoenix,adventurers,0.3333333333333333
+Girlfriend,Les derniers aventuriers,phoenix,direction,0.4444444444444444
+Girlfriend,Love Comes Tumbling,girlfriend,love,0.15384615384615385
+Girlfriend,Love Comes Tumbling,girlfriend,comes,0.3076923076923077
+Girlfriend,Love Comes Tumbling,girlfriend,tumbling,0.125
+Girlfriend,Love Comes Tumbling,girlfriend,wide,0
+Girlfriend,Love Comes Tumbling,girlfriend,awake,0
+Girlfriend,Love Comes Tumbling,girlfriend,america,0.3333333333333333
+Girlfriend,Love Comes Tumbling,phoenix,love,0.1111111111111111
+Girlfriend,Love Comes Tumbling,phoenix,comes,0.2222222222222222
+Girlfriend,Love Comes Tumbling,phoenix,tumbling,0.09523809523809523
+Girlfriend,Love Comes Tumbling,phoenix,wide,0
+Girlfriend,Love Comes Tumbling,phoenix,awake,0
+Girlfriend,Love Comes Tumbling,phoenix,america,0.6666666666666666
+Girlfriend,Witch Doctor,girlfriend,witch,0.6666666666666666
+Girlfriend,Witch Doctor,girlfriend,doctor,0.5714285714285714
+Girlfriend,Witch Doctor,girlfriend,chipmunks,0.5217391304347826
+Girlfriend,Witch Doctor,phoenix,witch,0.3157894736842105
+Girlfriend,Witch Doctor,phoenix,doctor,0.2727272727272727
+Girlfriend,Witch Doctor,phoenix,chipmunks,0.24
+Girlfriend,Sehr kosmisch,girlfriend,cosmic,0
+Girlfriend,Sehr kosmisch,girlfriend,music,0.18181818181818182
+Girlfriend,Sehr kosmisch,phoenix,cosmic,0
+Girlfriend,Sehr kosmisch,phoenix,music,0.125
+Girlfriend,I Salute,girlfriend,salute,0.15384615384615385
+Girlfriend,I Salute,girlfriend,another,0
+Girlfriend,I Salute,girlfriend,self,0.13333333333333333
+Girlfriend,I Salute,phoenix,salute,0.1111111111111111
+Girlfriend,I Salute,phoenix,another,0
+Girlfriend,I Salute,phoenix,self,0.1
+Girlfriend,He Could Be The One (Sing-Along Instrumental),girlfriend,along,0
+Girlfriend,He Could Be The One (Sing-Along Instrumental),girlfriend,instrumental,0
+Girlfriend,He Could Be The One (Sing-Along Instrumental),girlfriend,sing,0
+Girlfriend,He Could Be The One (Sing-Along Instrumental),girlfriend,one,0.14285714285714285
+Girlfriend,He Could Be The One (Sing-Along Instrumental),girlfriend,montana,0.3333333333333333
+Girlfriend,He Could Be The One (Sing-Along Instrumental),girlfriend,disney,0.6
+Girlfriend,He Could Be The One (Sing-Along Instrumental),girlfriend,singalong,0.125
+Girlfriend,He Could Be The One (Sing-Along Instrumental),phoenix,along,0
+Girlfriend,He Could Be The One (Sing-Along Instrumental),phoenix,instrumental,0
+Girlfriend,He Could Be The One (Sing-Along Instrumental),phoenix,sing,0
+Girlfriend,He Could Be The One (Sing-Along Instrumental),phoenix,one,0.10526315789473684
+Girlfriend,He Could Be The One (Sing-Along Instrumental),phoenix,montana,0.6666666666666666
+Girlfriend,He Could Be The One (Sing-Along Instrumental),phoenix,disney,0.2857142857142857
+Girlfriend,He Could Be The One (Sing-Along Instrumental),phoenix,singalong,0.09523809523809523
+Girlfriend,Live And Love,girlfriend,love,0.15384615384615385
+Girlfriend,Live And Love,girlfriend,live,0
+Girlfriend,Live And Love,girlfriend,horace,0.6
+Girlfriend,Live And Love,girlfriend,meets,0.14285714285714285
+Girlfriend,Live And Love,girlfriend,morris,0.631578947368421
+Girlfriend,Live And Love,girlfriend,wayne,0.6
+Girlfriend,Live And Love,girlfriend,mini,0.42105263157894735
+Girlfriend,Live And Love,girlfriend,showcase,0.14285714285714285
+Girlfriend,Live And Love,phoenix,love,0.1111111111111111
+Girlfriend,Live And Love,phoenix,live,0
+Girlfriend,Live And Love,phoenix,horace,0.2857142857142857
+Girlfriend,Live And Love,phoenix,meets,0.10526315789473684
+Girlfriend,Live And Love,phoenix,morris,0.3
+Girlfriend,Live And Love,phoenix,wayne,0.2857142857142857
+Girlfriend,Live And Love,phoenix,mini,0.2857142857142857
+Girlfriend,Live And Love,phoenix,showcase,0.10526315789473684
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),girlfriend,chipmunk,0.5217391304347826
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),girlfriend,song,0.15384615384615385
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),girlfriend,late,0
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),girlfriend,christmas,0.15384615384615385
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),girlfriend,chipmunks,0.5217391304347826
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),phoenix,chipmunk,0.24
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),phoenix,song,0.1111111111111111
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),phoenix,late,0
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),phoenix,christmas,0.1111111111111111
+Girlfriend,The Chipmunk Song (Christmas Don't Be Late),phoenix,chipmunks,0.24
+Girlfriend,Perdiendo El Tiempo,girlfriend,wasting,0.11764705882352941
+Girlfriend,Perdiendo El Tiempo,girlfriend,time,0.15384615384615385
+Girlfriend,Perdiendo El Tiempo,girlfriend,great,0.6666666666666666
+Girlfriend,Perdiendo El Tiempo,girlfriend,successes,0.16666666666666666
+Girlfriend,Perdiendo El Tiempo,phoenix,wasting,0.09090909090909091
+Girlfriend,Perdiendo El Tiempo,phoenix,time,0.1111111111111111
+Girlfriend,Perdiendo El Tiempo,phoenix,great,0.3157894736842105
+Girlfriend,Perdiendo El Tiempo,phoenix,successes,0.11764705882352941
+Girlfriend,Battleship Chains (LP Version),girlfriend,lp,0.38095238095238093
+Girlfriend,Battleship Chains (LP Version),girlfriend,version,0.14285714285714285
+Girlfriend,Battleship Chains (LP Version),girlfriend,battleship,0.4
+Girlfriend,Battleship Chains (LP Version),girlfriend,chains,0.42105263157894735
+Girlfriend,Battleship Chains (LP Version),girlfriend,rock,0.5333333333333333
+Girlfriend,Battleship Chains (LP Version),girlfriend,best,0.14285714285714285
+Girlfriend,Battleship Chains (LP Version),girlfriend,georgia,0.3333333333333333
+Girlfriend,Battleship Chains (LP Version),girlfriend,satellites,0.47058823529411764
+Girlfriend,Battleship Chains (LP Version),girlfriend,let,0.14285714285714285
+Girlfriend,Battleship Chains (LP Version),phoenix,lp,0.2608695652173913
+Girlfriend,Battleship Chains (LP Version),phoenix,version,0.10526315789473684
+Girlfriend,Battleship Chains (LP Version),phoenix,battleship,0.2727272727272727
+Girlfriend,Battleship Chains (LP Version),phoenix,chains,0.2857142857142857
+Girlfriend,Battleship Chains (LP Version),phoenix,rock,0.35294117647058826
+Girlfriend,Battleship Chains (LP Version),phoenix,best,0.10526315789473684
+Girlfriend,Battleship Chains (LP Version),phoenix,georgia,0.6666666666666666
+Girlfriend,Battleship Chains (LP Version),phoenix,satellites,0.3157894736842105
+Girlfriend,Battleship Chains (LP Version),phoenix,let,0.10526315789473684
+Girlfriend,The Sky's Ablaze,girlfriend,sky,0.3076923076923077
+Girlfriend,The Sky's Ablaze,girlfriend,ablaze,0
+Girlfriend,The Sky's Ablaze,girlfriend,freaks,0.7058823529411765
+Girlfriend,The Sky's Ablaze,girlfriend,come,0.3076923076923077
+Girlfriend,The Sky's Ablaze,phoenix,sky,0.2222222222222222
+Girlfriend,The Sky's Ablaze,phoenix,ablaze,0
+Girlfriend,The Sky's Ablaze,phoenix,freaks,0.3157894736842105
+Girlfriend,The Sky's Ablaze,phoenix,come,0.2222222222222222
+Girlfriend,Funkytown,girlfriend,chipmunks,0.5217391304347826
+Girlfriend,Funkytown,phoenix,chipmunks,0.24
+Girlfriend,How We Roll,girlfriend,roll,0.13333333333333333
+Girlfriend,How We Roll,girlfriend,original,0.5
+Girlfriend,How We Roll,girlfriend,motion,0.18181818181818182
+Girlfriend,How We Roll,girlfriend,picture,0.47058823529411764
+Girlfriend,How We Roll,girlfriend,soundtrack,0.4
+Girlfriend,How We Roll,girlfriend,chipmunks,0.5217391304347826
+Girlfriend,How We Roll,phoenix,roll,0.1
+Girlfriend,How We Roll,phoenix,original,0.3333333333333333
+Girlfriend,How We Roll,phoenix,motion,0.125
+Girlfriend,How We Roll,phoenix,picture,0.3157894736842105
+Girlfriend,How We Roll,phoenix,soundtrack,0.2727272727272727
+Girlfriend,How We Roll,phoenix,chipmunks,0.24
+Happiness: We're All In It Together,O Hosanna,together,hosanna,0
+Happiness: We're All In It Together,O Hosanna,together,volume,0
+Happiness: We're All In It Together,O Hosanna,together,songs,0
+Happiness: We're All In It Together,O Hosanna,happiness,hosanna,0.26666666666666666
+Happiness: We're All In It Together,O Hosanna,happiness,volume,0.3333333333333333
+Happiness: We're All In It Together,O Hosanna,happiness,songs,0.26666666666666666
+Happiness: We're All In It Together,O Hosanna,young,hosanna,0.13333333333333333
+Happiness: We're All In It Together,O Hosanna,young,volume,0.16666666666666666
+Happiness: We're All In It Together,O Hosanna,young,songs,0.13333333333333333
+Happiness: We're All In It Together,O Hosanna,mountain,hosanna,0.15384615384615385
+Happiness: We're All In It Together,O Hosanna,mountain,volume,0.2
+Happiness: We're All In It Together,O Hosanna,mountain,songs,0.15384615384615385
+Happiness: We're All In It Together,Les derniers aventuriers,together,last,0
+Happiness: We're All In It Together,Les derniers aventuriers,together,adventurers,0
+Happiness: We're All In It Together,Les derniers aventuriers,together,direction,0
+Happiness: We're All In It Together,Les derniers aventuriers,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Les derniers aventuriers,happiness,adventurers,0.15384615384615385
+Happiness: We're All In It Together,Les derniers aventuriers,happiness,direction,0.13333333333333333
+Happiness: We're All In It Together,Les derniers aventuriers,young,last,0.14285714285714285
+Happiness: We're All In It Together,Les derniers aventuriers,young,adventurers,0.75
+Happiness: We're All In It Together,Les derniers aventuriers,young,direction,0.4
+Happiness: We're All In It Together,Les derniers aventuriers,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Les derniers aventuriers,mountain,adventurers,0.46153846153846156
+Happiness: We're All In It Together,Les derniers aventuriers,mountain,direction,0.46153846153846156
+Happiness: We're All In It Together,Love Comes Tumbling,together,love,0
+Happiness: We're All In It Together,Love Comes Tumbling,together,comes,0
+Happiness: We're All In It Together,Love Comes Tumbling,together,tumbling,0
+Happiness: We're All In It Together,Love Comes Tumbling,together,wide,0
+Happiness: We're All In It Together,Love Comes Tumbling,together,awake,0
+Happiness: We're All In It Together,Love Comes Tumbling,together,america,0
+Happiness: We're All In It Together,Love Comes Tumbling,happiness,love,0.8
+Happiness: We're All In It Together,Love Comes Tumbling,happiness,comes,0.25
+Happiness: We're All In It Together,Love Comes Tumbling,happiness,tumbling,0.2222222222222222
+Happiness: We're All In It Together,Love Comes Tumbling,happiness,wide,0
+Happiness: We're All In It Together,Love Comes Tumbling,happiness,awake,0
+Happiness: We're All In It Together,Love Comes Tumbling,happiness,america,0.1111111111111111
+Happiness: We're All In It Together,Love Comes Tumbling,young,love,0.13333333333333333
+Happiness: We're All In It Together,Love Comes Tumbling,young,comes,0.26666666666666666
+Happiness: We're All In It Together,Love Comes Tumbling,young,tumbling,0.1111111111111111
+Happiness: We're All In It Together,Love Comes Tumbling,young,wide,0
+Happiness: We're All In It Together,Love Comes Tumbling,young,awake,0
+Happiness: We're All In It Together,Love Comes Tumbling,young,america,0.3333333333333333
+Happiness: We're All In It Together,Love Comes Tumbling,mountain,love,0.15384615384615385
+Happiness: We're All In It Together,Love Comes Tumbling,mountain,comes,0.3076923076923077
+Happiness: We're All In It Together,Love Comes Tumbling,mountain,tumbling,0.125
+Happiness: We're All In It Together,Love Comes Tumbling,mountain,wide,0
+Happiness: We're All In It Together,Love Comes Tumbling,mountain,awake,0
+Happiness: We're All In It Together,Love Comes Tumbling,mountain,america,0.375
+Happiness: We're All In It Together,Witch Doctor,together,witch,0
+Happiness: We're All In It Together,Witch Doctor,together,doctor,0
+Happiness: We're All In It Together,Witch Doctor,together,chipmunks,0
+Happiness: We're All In It Together,Witch Doctor,happiness,witch,0.14285714285714285
+Happiness: We're All In It Together,Witch Doctor,happiness,doctor,0.11764705882352941
+Happiness: We're All In It Together,Witch Doctor,happiness,chipmunks,0.09090909090909091
+Happiness: We're All In It Together,Witch Doctor,young,witch,0.7058823529411765
+Happiness: We're All In It Together,Witch Doctor,young,doctor,0.6
+Happiness: We're All In It Together,Witch Doctor,young,chipmunks,0.6363636363636364
+Happiness: We're All In It Together,Witch Doctor,mountain,witch,0.42857142857142855
+Happiness: We're All In It Together,Witch Doctor,mountain,doctor,0.35294117647058826
+Happiness: We're All In It Together,Witch Doctor,mountain,chipmunks,0.3
+Happiness: We're All In It Together,Sehr kosmisch,together,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,together,music,0
+Happiness: We're All In It Together,Sehr kosmisch,happiness,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,happiness,music,0.3076923076923077
+Happiness: We're All In It Together,Sehr kosmisch,young,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,young,music,0.15384615384615385
+Happiness: We're All In It Together,Sehr kosmisch,mountain,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,mountain,music,0.18181818181818182
+Happiness: We're All In It Together,I Salute,together,salute,0
+Happiness: We're All In It Together,I Salute,together,another,0
+Happiness: We're All In It Together,I Salute,together,self,0
+Happiness: We're All In It Together,I Salute,happiness,salute,0.26666666666666666
+Happiness: We're All In It Together,I Salute,happiness,another,0
+Happiness: We're All In It Together,I Salute,happiness,self,0.47058823529411764
+Happiness: We're All In It Together,I Salute,young,salute,0.13333333333333333
+Happiness: We're All In It Together,I Salute,young,another,0
+Happiness: We're All In It Together,I Salute,young,self,0.11764705882352941
+Happiness: We're All In It Together,I Salute,mountain,salute,0.15384615384615385
+Happiness: We're All In It Together,I Salute,mountain,another,0
+Happiness: We're All In It Together,I Salute,mountain,self,0.13333333333333333
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),together,along,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),together,instrumental,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),together,sing,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),together,one,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),together,montana,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),together,disney,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),together,singalong,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),happiness,along,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),happiness,instrumental,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),happiness,sing,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),happiness,one,0.25
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),happiness,montana,0.1111111111111111
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),happiness,disney,0.125
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),happiness,singalong,0.2222222222222222
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),young,along,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),young,instrumental,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),young,sing,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),young,one,0.125
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),young,montana,0.3333333333333333
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),young,disney,0.631578947368421
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),young,singalong,0.1111111111111111
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),mountain,along,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),mountain,instrumental,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),mountain,sing,0
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),mountain,one,0.14285714285714285
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),mountain,montana,0.375
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),mountain,disney,0.375
+Happiness: We're All In It Together,He Could Be The One (Sing-Along Instrumental),mountain,singalong,0.125
+Happiness: We're All In It Together,Live And Love,together,love,0
+Happiness: We're All In It Together,Live And Love,together,live,0
+Happiness: We're All In It Together,Live And Love,together,horace,0
+Happiness: We're All In It Together,Live And Love,together,meets,0
+Happiness: We're All In It Together,Live And Love,together,morris,0
+Happiness: We're All In It Together,Live And Love,together,wayne,0
+Happiness: We're All In It Together,Live And Love,together,mini,0
+Happiness: We're All In It Together,Live And Love,together,showcase,0
+Happiness: We're All In It Together,Live And Love,happiness,love,0.8
+Happiness: We're All In It Together,Live And Love,happiness,live,0
+Happiness: We're All In It Together,Live And Love,happiness,horace,0.125
+Happiness: We're All In It Together,Live And Love,happiness,meets,0.25
+Happiness: We're All In It Together,Live And Love,happiness,morris,0.13333333333333333
+Happiness: We're All In It Together,Live And Love,happiness,wayne,0.125
+Happiness: We're All In It Together,Live And Love,happiness,mini,0.1111111111111111
+Happiness: We're All In It Together,Live And Love,happiness,showcase,0.5
+Happiness: We're All In It Together,Live And Love,young,love,0.13333333333333333
+Happiness: We're All In It Together,Live And Love,young,live,0
+Happiness: We're All In It Together,Live And Love,young,horace,0.631578947368421
+Happiness: We're All In It Together,Live And Love,young,meets,0.125
+Happiness: We're All In It Together,Live And Love,young,morris,0.6666666666666666
+Happiness: We're All In It Together,Live And Love,young,wayne,0.631578947368421
+Happiness: We're All In It Together,Live And Love,young,mini,0.4444444444444444
+Happiness: We're All In It Together,Live And Love,young,showcase,0.125
+Happiness: We're All In It Together,Live And Love,mountain,love,0.15384615384615385
+Happiness: We're All In It Together,Live And Love,mountain,live,0
+Happiness: We're All In It Together,Live And Love,mountain,horace,0.375
+Happiness: We're All In It Together,Live And Love,mountain,meets,0.14285714285714285
+Happiness: We're All In It Together,Live And Love,mountain,morris,0.4
+Happiness: We're All In It Together,Live And Love,mountain,wayne,0.375
+Happiness: We're All In It Together,Live And Love,mountain,mini,0.375
+Happiness: We're All In It Together,Live And Love,mountain,showcase,0.14285714285714285
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),together,chipmunk,0
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),together,song,0
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),together,late,0
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),together,christmas,0
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),together,chipmunks,0
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),happiness,chipmunk,0.09090909090909091
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),happiness,song,0.26666666666666666
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),happiness,late,0
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),happiness,christmas,0.26666666666666666
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),happiness,chipmunks,0.09090909090909091
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),young,chipmunk,0.6363636363636364
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),young,song,0.13333333333333333
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),young,late,0
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),young,christmas,0.13333333333333333
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),young,chipmunks,0.6363636363636364
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),mountain,chipmunk,0.3
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),mountain,song,0.15384615384615385
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),mountain,late,0
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),mountain,christmas,0.15384615384615385
+Happiness: We're All In It Together,The Chipmunk Song (Christmas Don't Be Late),mountain,chipmunks,0.3
+Happiness: We're All In It Together,Perdiendo El Tiempo,together,wasting,0
+Happiness: We're All In It Together,Perdiendo El Tiempo,together,time,0
+Happiness: We're All In It Together,Perdiendo El Tiempo,together,great,0
+Happiness: We're All In It Together,Perdiendo El Tiempo,together,successes,0
+Happiness: We're All In It Together,Perdiendo El Tiempo,happiness,wasting,0.42105263157894735
+Happiness: We're All In It Together,Perdiendo El Tiempo,happiness,time,0.26666666666666666
+Happiness: We're All In It Together,Perdiendo El Tiempo,happiness,great,0.14285714285714285
+Happiness: We're All In It Together,Perdiendo El Tiempo,happiness,successes,0.2857142857142857
+Happiness: We're All In It Together,Perdiendo El Tiempo,young,wasting,0.10526315789473684
+Happiness: We're All In It Together,Perdiendo El Tiempo,young,time,0.13333333333333333
+Happiness: We're All In It Together,Perdiendo El Tiempo,young,great,0.7058823529411765
+Happiness: We're All In It Together,Perdiendo El Tiempo,young,successes,0.14285714285714285
+Happiness: We're All In It Together,Perdiendo El Tiempo,mountain,wasting,0.11764705882352941
+Happiness: We're All In It Together,Perdiendo El Tiempo,mountain,time,0.15384615384615385
+Happiness: We're All In It Together,Perdiendo El Tiempo,mountain,great,0.42857142857142855
+Happiness: We're All In It Together,Perdiendo El Tiempo,mountain,successes,0.16666666666666666
+Happiness: We're All In It Together,Battleship Chains (LP Version),together,lp,0
+Happiness: We're All In It Together,Battleship Chains (LP Version),together,version,0
+Happiness: We're All In It Together,Battleship Chains (LP Version),together,battleship,0
+Happiness: We're All In It Together,Battleship Chains (LP Version),together,chains,0
+Happiness: We're All In It Together,Battleship Chains (LP Version),together,rock,0
+Happiness: We're All In It Together,Battleship Chains (LP Version),together,best,0
+Happiness: We're All In It Together,Battleship Chains (LP Version),together,georgia,0
+Happiness: We're All In It Together,Battleship Chains (LP Version),together,satellites,0
+Happiness: We're All In It Together,Battleship Chains (LP Version),together,let,0
+Happiness: We're All In It Together,Battleship Chains (LP Version),happiness,lp,0.1
+Happiness: We're All In It Together,Battleship Chains (LP Version),happiness,version,0.25
+Happiness: We're All In It Together,Battleship Chains (LP Version),happiness,battleship,0.10526315789473684
+Happiness: We're All In It Together,Battleship Chains (LP Version),happiness,chains,0.1111111111111111
+Happiness: We're All In It Together,Battleship Chains (LP Version),happiness,rock,0.14285714285714285
+Happiness: We're All In It Together,Battleship Chains (LP Version),happiness,best,0.25
+Happiness: We're All In It Together,Battleship Chains (LP Version),happiness,georgia,0.1111111111111111
+Happiness: We're All In It Together,Battleship Chains (LP Version),happiness,satellites,0.125
+Happiness: We're All In It Together,Battleship Chains (LP Version),happiness,let,0.25
+Happiness: We're All In It Together,Battleship Chains (LP Version),young,lp,0.4
+Happiness: We're All In It Together,Battleship Chains (LP Version),young,version,0.125
+Happiness: We're All In It Together,Battleship Chains (LP Version),young,battleship,0.42105263157894735
+Happiness: We're All In It Together,Battleship Chains (LP Version),young,chains,0.4444444444444444
+Happiness: We're All In It Together,Battleship Chains (LP Version),young,rock,0.5714285714285714
+Happiness: We're All In It Together,Battleship Chains (LP Version),young,best,0.125
+Happiness: We're All In It Together,Battleship Chains (LP Version),young,georgia,0.3333333333333333
+Happiness: We're All In It Together,Battleship Chains (LP Version),young,satellites,0.5
+Happiness: We're All In It Together,Battleship Chains (LP Version),young,let,0.125
+Happiness: We're All In It Together,Battleship Chains (LP Version),mountain,lp,0.3333333333333333
+Happiness: We're All In It Together,Battleship Chains (LP Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Battleship Chains (LP Version),mountain,battleship,0.35294117647058826
+Happiness: We're All In It Together,Battleship Chains (LP Version),mountain,chains,0.375
+Happiness: We're All In It Together,Battleship Chains (LP Version),mountain,rock,0.5
+Happiness: We're All In It Together,Battleship Chains (LP Version),mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Battleship Chains (LP Version),mountain,georgia,0.375
+Happiness: We're All In It Together,Battleship Chains (LP Version),mountain,satellites,0.42857142857142855
+Happiness: We're All In It Together,Battleship Chains (LP Version),mountain,let,0.14285714285714285
+Happiness: We're All In It Together,The Sky's Ablaze,together,sky,0
+Happiness: We're All In It Together,The Sky's Ablaze,together,ablaze,0
+Happiness: We're All In It Together,The Sky's Ablaze,together,freaks,0
+Happiness: We're All In It Together,The Sky's Ablaze,together,come,0
+Happiness: We're All In It Together,The Sky's Ablaze,happiness,sky,0.13333333333333333
+Happiness: We're All In It Together,The Sky's Ablaze,happiness,ablaze,0
+Happiness: We're All In It Together,The Sky's Ablaze,happiness,freaks,0.125
+Happiness: We're All In It Together,The Sky's Ablaze,happiness,come,0.25
+Happiness: We're All In It Together,The Sky's Ablaze,young,sky,0.26666666666666666
+Happiness: We're All In It Together,The Sky's Ablaze,young,ablaze,0
+Happiness: We're All In It Together,The Sky's Ablaze,young,freaks,0.75
+Happiness: We're All In It Together,The Sky's Ablaze,young,come,0.26666666666666666
+Happiness: We're All In It Together,The Sky's Ablaze,mountain,sky,0.3076923076923077
+Happiness: We're All In It Together,The Sky's Ablaze,mountain,ablaze,0
+Happiness: We're All In It Together,The Sky's Ablaze,mountain,freaks,0.42857142857142855
+Happiness: We're All In It Together,The Sky's Ablaze,mountain,come,0.3076923076923077
+Happiness: We're All In It Together,Funkytown,together,chipmunks,0
+Happiness: We're All In It Together,Funkytown,happiness,chipmunks,0.09090909090909091
+Happiness: We're All In It Together,Funkytown,young,chipmunks,0.6363636363636364
+Happiness: We're All In It Together,Funkytown,mountain,chipmunks,0.3
+Happiness: We're All In It Together,How We Roll,together,roll,0
+Happiness: We're All In It Together,How We Roll,together,original,0
+Happiness: We're All In It Together,How We Roll,together,motion,0
+Happiness: We're All In It Together,How We Roll,together,picture,0
+Happiness: We're All In It Together,How We Roll,together,soundtrack,0
+Happiness: We're All In It Together,How We Roll,together,chipmunks,0
+Happiness: We're All In It Together,How We Roll,happiness,roll,0.23529411764705882
+Happiness: We're All In It Together,How We Roll,happiness,original,0.13333333333333333
+Happiness: We're All In It Together,How We Roll,happiness,motion,0.3076923076923077
+Happiness: We're All In It Together,How We Roll,happiness,picture,0.125
+Happiness: We're All In It Together,How We Roll,happiness,soundtrack,0.10526315789473684
+Happiness: We're All In It Together,How We Roll,happiness,chipmunks,0.09090909090909091
+Happiness: We're All In It Together,How We Roll,young,roll,0.11764705882352941
+Happiness: We're All In It Together,How We Roll,young,original,0.5333333333333333
+Happiness: We're All In It Together,How We Roll,young,motion,0.15384615384615385
+Happiness: We're All In It Together,How We Roll,young,picture,0.5
+Happiness: We're All In It Together,How We Roll,young,soundtrack,0.42105263157894735
+Happiness: We're All In It Together,How We Roll,young,chipmunks,0.6363636363636364
+Happiness: We're All In It Together,How We Roll,mountain,roll,0.13333333333333333
+Happiness: We're All In It Together,How We Roll,mountain,original,0.46153846153846156
+Happiness: We're All In It Together,How We Roll,mountain,motion,0.18181818181818182
+Happiness: We're All In It Together,How We Roll,mountain,picture,0.42857142857142855
+Happiness: We're All In It Together,How We Roll,mountain,soundtrack,0.35294117647058826
+Happiness: We're All In It Together,How We Roll,mountain,chipmunks,0.3
+Armistice,O Hosanna,armistice,hosanna,0.2857142857142857
+Armistice,O Hosanna,armistice,volume,0.36363636363636365
+Armistice,O Hosanna,armistice,songs,0.2857142857142857
+Armistice,O Hosanna,phoenix,hosanna,0.1111111111111111
+Armistice,O Hosanna,phoenix,volume,0.13333333333333333
+Armistice,O Hosanna,phoenix,songs,0.1111111111111111
+Armistice,Les derniers aventuriers,armistice,last,0.3076923076923077
+Armistice,Les derniers aventuriers,armistice,adventurers,0.16666666666666666
+Armistice,Les derniers aventuriers,armistice,direction,0.14285714285714285
+Armistice,Les derniers aventuriers,phoenix,last,0.11764705882352941
+Armistice,Les derniers aventuriers,phoenix,adventurers,0.3333333333333333
+Armistice,Les derniers aventuriers,phoenix,direction,0.4444444444444444
+Armistice,Love Comes Tumbling,armistice,love,0.5714285714285714
+Armistice,Love Comes Tumbling,armistice,comes,0.26666666666666666
+Armistice,Love Comes Tumbling,armistice,tumbling,0.23529411764705882
+Armistice,Love Comes Tumbling,armistice,wide,0
+Armistice,Love Comes Tumbling,armistice,awake,0
+Armistice,Love Comes Tumbling,armistice,america,0.11764705882352941
+Armistice,Love Comes Tumbling,phoenix,love,0.1111111111111111
+Armistice,Love Comes Tumbling,phoenix,comes,0.2222222222222222
+Armistice,Love Comes Tumbling,phoenix,tumbling,0.09523809523809523
+Armistice,Love Comes Tumbling,phoenix,wide,0
+Armistice,Love Comes Tumbling,phoenix,awake,0
+Armistice,Love Comes Tumbling,phoenix,america,0.6666666666666666
+Armistice,Witch Doctor,armistice,witch,0.15384615384615385
+Armistice,Witch Doctor,armistice,doctor,0.125
+Armistice,Witch Doctor,armistice,chipmunks,0.09523809523809523
+Armistice,Witch Doctor,phoenix,witch,0.3157894736842105
+Armistice,Witch Doctor,phoenix,doctor,0.2727272727272727
+Armistice,Witch Doctor,phoenix,chipmunks,0.24
+Armistice,Sehr kosmisch,armistice,cosmic,0
+Armistice,Sehr kosmisch,armistice,music,0.3333333333333333
+Armistice,Sehr kosmisch,phoenix,cosmic,0
+Armistice,Sehr kosmisch,phoenix,music,0.125
+Armistice,I Salute,armistice,salute,0.2857142857142857
+Armistice,I Salute,armistice,another,0
+Armistice,I Salute,armistice,self,0.5
+Armistice,I Salute,phoenix,salute,0.1111111111111111
+Armistice,I Salute,phoenix,another,0
+Armistice,I Salute,phoenix,self,0.1
+Armistice,He Could Be The One (Sing-Along Instrumental),armistice,along,0
+Armistice,He Could Be The One (Sing-Along Instrumental),armistice,instrumental,0
+Armistice,He Could Be The One (Sing-Along Instrumental),armistice,sing,0
+Armistice,He Could Be The One (Sing-Along Instrumental),armistice,one,0.26666666666666666
+Armistice,He Could Be The One (Sing-Along Instrumental),armistice,montana,0.11764705882352941
+Armistice,He Could Be The One (Sing-Along Instrumental),armistice,disney,0.13333333333333333
+Armistice,He Could Be The One (Sing-Along Instrumental),armistice,singalong,0.23529411764705882
+Armistice,He Could Be The One (Sing-Along Instrumental),phoenix,along,0
+Armistice,He Could Be The One (Sing-Along Instrumental),phoenix,instrumental,0
+Armistice,He Could Be The One (Sing-Along Instrumental),phoenix,sing,0
+Armistice,He Could Be The One (Sing-Along Instrumental),phoenix,one,0.10526315789473684
+Armistice,He Could Be The One (Sing-Along Instrumental),phoenix,montana,0.6666666666666666
+Armistice,He Could Be The One (Sing-Along Instrumental),phoenix,disney,0.2857142857142857
+Armistice,He Could Be The One (Sing-Along Instrumental),phoenix,singalong,0.09523809523809523
+Armistice,Live And Love,armistice,love,0.5714285714285714
+Armistice,Live And Love,armistice,live,0
+Armistice,Live And Love,armistice,horace,0.13333333333333333
+Armistice,Live And Love,armistice,meets,0.26666666666666666
+Armistice,Live And Love,armistice,morris,0.14285714285714285
+Armistice,Live And Love,armistice,wayne,0.13333333333333333
+Armistice,Live And Love,armistice,mini,0.11764705882352941
+Armistice,Live And Love,armistice,showcase,0.5333333333333333
+Armistice,Live And Love,phoenix,love,0.1111111111111111
+Armistice,Live And Love,phoenix,live,0
+Armistice,Live And Love,phoenix,horace,0.2857142857142857
+Armistice,Live And Love,phoenix,meets,0.10526315789473684
+Armistice,Live And Love,phoenix,morris,0.3
+Armistice,Live And Love,phoenix,wayne,0.2857142857142857
+Armistice,Live And Love,phoenix,mini,0.2857142857142857
+Armistice,Live And Love,phoenix,showcase,0.10526315789473684
+Armistice,The Chipmunk Song (Christmas Don't Be Late),armistice,chipmunk,0.09523809523809523
+Armistice,The Chipmunk Song (Christmas Don't Be Late),armistice,song,0.2857142857142857
+Armistice,The Chipmunk Song (Christmas Don't Be Late),armistice,late,0
+Armistice,The Chipmunk Song (Christmas Don't Be Late),armistice,christmas,0.2857142857142857
+Armistice,The Chipmunk Song (Christmas Don't Be Late),armistice,chipmunks,0.09523809523809523
+Armistice,The Chipmunk Song (Christmas Don't Be Late),phoenix,chipmunk,0.24
+Armistice,The Chipmunk Song (Christmas Don't Be Late),phoenix,song,0.1111111111111111
+Armistice,The Chipmunk Song (Christmas Don't Be Late),phoenix,late,0
+Armistice,The Chipmunk Song (Christmas Don't Be Late),phoenix,christmas,0.1111111111111111
+Armistice,The Chipmunk Song (Christmas Don't Be Late),phoenix,chipmunks,0.24
+Armistice,Perdiendo El Tiempo,armistice,wasting,0.4444444444444444
+Armistice,Perdiendo El Tiempo,armistice,time,0.2857142857142857
+Armistice,Perdiendo El Tiempo,armistice,great,0.15384615384615385
+Armistice,Perdiendo El Tiempo,armistice,successes,0.3076923076923077
+Armistice,Perdiendo El Tiempo,phoenix,wasting,0.09090909090909091
+Armistice,Perdiendo El Tiempo,phoenix,time,0.1111111111111111
+Armistice,Perdiendo El Tiempo,phoenix,great,0.3157894736842105
+Armistice,Perdiendo El Tiempo,phoenix,successes,0.11764705882352941
+Armistice,Battleship Chains (LP Version),armistice,lp,0.10526315789473684
+Armistice,Battleship Chains (LP Version),armistice,version,0.26666666666666666
+Armistice,Battleship Chains (LP Version),armistice,battleship,0.1111111111111111
+Armistice,Battleship Chains (LP Version),armistice,chains,0.11764705882352941
+Armistice,Battleship Chains (LP Version),armistice,rock,0.15384615384615385
+Armistice,Battleship Chains (LP Version),armistice,best,0.26666666666666666
+Armistice,Battleship Chains (LP Version),armistice,georgia,0.11764705882352941
+Armistice,Battleship Chains (LP Version),armistice,satellites,0.13333333333333333
+Armistice,Battleship Chains (LP Version),armistice,let,0.26666666666666666
+Armistice,Battleship Chains (LP Version),phoenix,lp,0.2608695652173913
+Armistice,Battleship Chains (LP Version),phoenix,version,0.10526315789473684
+Armistice,Battleship Chains (LP Version),phoenix,battleship,0.2727272727272727
+Armistice,Battleship Chains (LP Version),phoenix,chains,0.2857142857142857
+Armistice,Battleship Chains (LP Version),phoenix,rock,0.35294117647058826
+Armistice,Battleship Chains (LP Version),phoenix,best,0.10526315789473684
+Armistice,Battleship Chains (LP Version),phoenix,georgia,0.6666666666666666
+Armistice,Battleship Chains (LP Version),phoenix,satellites,0.3157894736842105
+Armistice,Battleship Chains (LP Version),phoenix,let,0.10526315789473684
+Armistice,The Sky's Ablaze,armistice,sky,0.14285714285714285
+Armistice,The Sky's Ablaze,armistice,ablaze,0
+Armistice,The Sky's Ablaze,armistice,freaks,0.13333333333333333
+Armistice,The Sky's Ablaze,armistice,come,0.26666666666666666
+Armistice,The Sky's Ablaze,phoenix,sky,0.2222222222222222
+Armistice,The Sky's Ablaze,phoenix,ablaze,0
+Armistice,The Sky's Ablaze,phoenix,freaks,0.3157894736842105
+Armistice,The Sky's Ablaze,phoenix,come,0.2222222222222222
+Armistice,Funkytown,armistice,chipmunks,0.09523809523809523
+Armistice,Funkytown,phoenix,chipmunks,0.24
+Armistice,How We Roll,armistice,roll,0.25
+Armistice,How We Roll,armistice,original,0.14285714285714285
+Armistice,How We Roll,armistice,motion,0.3333333333333333
+Armistice,How We Roll,armistice,picture,0.13333333333333333
+Armistice,How We Roll,armistice,soundtrack,0.1111111111111111
+Armistice,How We Roll,armistice,chipmunks,0.09523809523809523
+Armistice,How We Roll,phoenix,roll,0.1
+Armistice,How We Roll,phoenix,original,0.3333333333333333
+Armistice,How We Roll,phoenix,motion,0.125
+Armistice,How We Roll,phoenix,picture,0.3157894736842105
+Armistice,How We Roll,phoenix,soundtrack,0.2727272727272727
+Armistice,How We Roll,phoenix,chipmunks,0.24
+There Are Some Remedies Worse Than The Disease,O Hosanna,remedies,hosanna,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,O Hosanna,remedies,volume,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,O Hosanna,remedies,songs,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,O Hosanna,worse,hosanna,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,O Hosanna,worse,volume,0.4
+There Are Some Remedies Worse Than The Disease,O Hosanna,worse,songs,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,O Hosanna,disease,hosanna,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,O Hosanna,disease,volume,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,O Hosanna,disease,songs,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,O Hosanna,young,hosanna,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,O Hosanna,young,volume,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,O Hosanna,young,songs,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,O Hosanna,mountain,hosanna,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,O Hosanna,mountain,volume,0.2
+There Are Some Remedies Worse Than The Disease,O Hosanna,mountain,songs,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,remedies,adventurers,0.125
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,remedies,direction,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,worse,adventurers,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,worse,direction,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,disease,adventurers,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,disease,direction,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,young,adventurers,0.75
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,young,direction,0.4
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,mountain,adventurers,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Les derniers aventuriers,mountain,direction,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,remedies,love,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,remedies,comes,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,remedies,tumbling,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,remedies,wide,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,remedies,awake,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,remedies,america,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,worse,love,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,worse,comes,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,worse,tumbling,0.25
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,worse,wide,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,worse,awake,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,worse,america,0.125
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,disease,love,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,disease,comes,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,disease,tumbling,0.2
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,disease,wide,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,disease,awake,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,disease,america,0.1
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,young,love,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,young,comes,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,young,tumbling,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,young,wide,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,young,awake,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,young,america,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,mountain,love,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,mountain,comes,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,mountain,tumbling,0.125
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,mountain,wide,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,mountain,awake,0
+There Are Some Remedies Worse Than The Disease,Love Comes Tumbling,mountain,america,0.375
+There Are Some Remedies Worse Than The Disease,Witch Doctor,remedies,witch,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Witch Doctor,remedies,doctor,0.1
+There Are Some Remedies Worse Than The Disease,Witch Doctor,remedies,chipmunks,0.08
+There Are Some Remedies Worse Than The Disease,Witch Doctor,worse,witch,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Witch Doctor,worse,doctor,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Witch Doctor,worse,chipmunks,0.1
+There Are Some Remedies Worse Than The Disease,Witch Doctor,disease,witch,0.125
+There Are Some Remedies Worse Than The Disease,Witch Doctor,disease,doctor,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Witch Doctor,disease,chipmunks,0.08333333333333333
+There Are Some Remedies Worse Than The Disease,Witch Doctor,young,witch,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Witch Doctor,young,doctor,0.6
+There Are Some Remedies Worse Than The Disease,Witch Doctor,young,chipmunks,0.6363636363636364
+There Are Some Remedies Worse Than The Disease,Witch Doctor,mountain,witch,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Witch Doctor,mountain,doctor,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Witch Doctor,mountain,chipmunks,0.3
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,remedies,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,remedies,music,0.25
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,worse,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,worse,music,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,disease,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,disease,music,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,young,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,young,music,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,mountain,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,mountain,music,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,I Salute,remedies,salute,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,I Salute,remedies,another,0
+There Are Some Remedies Worse Than The Disease,I Salute,remedies,self,0.2
+There Are Some Remedies Worse Than The Disease,I Salute,worse,salute,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,I Salute,worse,another,0
+There Are Some Remedies Worse Than The Disease,I Salute,worse,self,0.4
+There Are Some Remedies Worse Than The Disease,I Salute,disease,salute,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,I Salute,disease,another,0
+There Are Some Remedies Worse Than The Disease,I Salute,disease,self,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,I Salute,young,salute,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,I Salute,young,another,0
+There Are Some Remedies Worse Than The Disease,I Salute,young,self,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I Salute,mountain,salute,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,I Salute,mountain,another,0
+There Are Some Remedies Worse Than The Disease,I Salute,mountain,self,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),remedies,along,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),remedies,instrumental,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),remedies,sing,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),remedies,one,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),remedies,montana,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),remedies,disney,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),remedies,singalong,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),worse,along,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),worse,instrumental,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),worse,sing,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),worse,one,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),worse,montana,0.125
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),worse,disney,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),worse,singalong,0.25
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),disease,along,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),disease,instrumental,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),disease,sing,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),disease,one,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),disease,montana,0.1
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),disease,disney,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),disease,singalong,0.2
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),young,along,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),young,instrumental,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),young,sing,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),young,one,0.125
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),young,montana,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),young,disney,0.631578947368421
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),young,singalong,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),mountain,along,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),mountain,instrumental,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),mountain,sing,0
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),mountain,one,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),mountain,montana,0.375
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),mountain,disney,0.375
+There Are Some Remedies Worse Than The Disease,He Could Be The One (Sing-Along Instrumental),mountain,singalong,0.125
+There Are Some Remedies Worse Than The Disease,Live And Love,remedies,love,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Live And Love,remedies,live,0
+There Are Some Remedies Worse Than The Disease,Live And Love,remedies,horace,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Live And Love,remedies,meets,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Live And Love,remedies,morris,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Live And Love,remedies,wayne,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Live And Love,remedies,mini,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Live And Love,remedies,showcase,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Live And Love,worse,love,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Live And Love,worse,live,0
+There Are Some Remedies Worse Than The Disease,Live And Love,worse,horace,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Live And Love,worse,meets,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Live And Love,worse,morris,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Live And Love,worse,wayne,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Live And Love,worse,mini,0.125
+There Are Some Remedies Worse Than The Disease,Live And Love,worse,showcase,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Live And Love,disease,love,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Live And Love,disease,live,0
+There Are Some Remedies Worse Than The Disease,Live And Love,disease,horace,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Live And Love,disease,meets,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Live And Love,disease,morris,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Live And Love,disease,wayne,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Live And Love,disease,mini,0.1
+There Are Some Remedies Worse Than The Disease,Live And Love,disease,showcase,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Live And Love,young,love,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Live And Love,young,live,0
+There Are Some Remedies Worse Than The Disease,Live And Love,young,horace,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Live And Love,young,meets,0.125
+There Are Some Remedies Worse Than The Disease,Live And Love,young,morris,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Live And Love,young,wayne,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Live And Love,young,mini,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Live And Love,young,showcase,0.125
+There Are Some Remedies Worse Than The Disease,Live And Love,mountain,love,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Live And Love,mountain,live,0
+There Are Some Remedies Worse Than The Disease,Live And Love,mountain,horace,0.375
+There Are Some Remedies Worse Than The Disease,Live And Love,mountain,meets,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Live And Love,mountain,morris,0.4
+There Are Some Remedies Worse Than The Disease,Live And Love,mountain,wayne,0.375
+There Are Some Remedies Worse Than The Disease,Live And Love,mountain,mini,0.375
+There Are Some Remedies Worse Than The Disease,Live And Love,mountain,showcase,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),remedies,chipmunk,0.08
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),remedies,song,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),remedies,late,0
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),remedies,christmas,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),remedies,chipmunks,0.08
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),worse,chipmunk,0.1
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),worse,song,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),worse,late,0
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),worse,christmas,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),worse,chipmunks,0.1
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),disease,chipmunk,0.08333333333333333
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),disease,song,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),disease,late,0
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),disease,christmas,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),disease,chipmunks,0.08333333333333333
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),young,chipmunk,0.6363636363636364
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),young,song,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),young,late,0
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),young,christmas,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),young,chipmunks,0.6363636363636364
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),mountain,chipmunk,0.3
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),mountain,song,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),mountain,late,0
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),mountain,christmas,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The Chipmunk Song (Christmas Don't Be Late),mountain,chipmunks,0.3
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,remedies,wasting,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,remedies,time,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,remedies,great,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,remedies,successes,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,worse,wasting,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,worse,time,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,worse,great,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,worse,successes,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,disease,wasting,0.7619047619047619
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,disease,time,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,disease,great,0.125
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,disease,successes,0.25
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,young,wasting,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,young,time,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,young,great,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,young,successes,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,mountain,wasting,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,mountain,time,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,mountain,great,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Perdiendo El Tiempo,mountain,successes,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),remedies,lp,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),remedies,battleship,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),remedies,chains,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),remedies,rock,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),remedies,georgia,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),remedies,satellites,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),remedies,let,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),worse,lp,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),worse,battleship,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),worse,chains,0.125
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),worse,rock,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),worse,georgia,0.125
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),worse,satellites,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),worse,let,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),disease,lp,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),disease,battleship,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),disease,chains,0.1
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),disease,rock,0.125
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),disease,georgia,0.1
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),disease,satellites,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),disease,let,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),young,lp,0.4
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),young,battleship,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),young,chains,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),young,rock,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),young,best,0.125
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),young,georgia,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),young,satellites,0.5
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),young,let,0.125
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),mountain,lp,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),mountain,battleship,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),mountain,chains,0.375
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),mountain,rock,0.5
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),mountain,georgia,0.375
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),mountain,satellites,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Battleship Chains (LP Version),mountain,let,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,remedies,sky,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,remedies,ablaze,0
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,remedies,freaks,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,remedies,come,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,worse,sky,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,worse,ablaze,0
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,worse,freaks,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,worse,come,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,disease,sky,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,disease,ablaze,0
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,disease,freaks,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,disease,come,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,young,sky,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,young,ablaze,0
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,young,freaks,0.75
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,young,come,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,mountain,sky,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,mountain,ablaze,0
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,mountain,freaks,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,The Sky's Ablaze,mountain,come,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Funkytown,remedies,chipmunks,0.08
+There Are Some Remedies Worse Than The Disease,Funkytown,worse,chipmunks,0.1
+There Are Some Remedies Worse Than The Disease,Funkytown,disease,chipmunks,0.08333333333333333
+There Are Some Remedies Worse Than The Disease,Funkytown,young,chipmunks,0.6363636363636364
+There Are Some Remedies Worse Than The Disease,Funkytown,mountain,chipmunks,0.3
+There Are Some Remedies Worse Than The Disease,How We Roll,remedies,roll,0.4
+There Are Some Remedies Worse Than The Disease,How We Roll,remedies,original,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,How We Roll,remedies,motion,0.25
+There Are Some Remedies Worse Than The Disease,How We Roll,remedies,picture,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,How We Roll,remedies,soundtrack,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,How We Roll,remedies,chipmunks,0.08
+There Are Some Remedies Worse Than The Disease,How We Roll,worse,roll,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,How We Roll,worse,original,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,How We Roll,worse,motion,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,How We Roll,worse,picture,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,How We Roll,worse,soundtrack,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,How We Roll,worse,chipmunks,0.1
+There Are Some Remedies Worse Than The Disease,How We Roll,disease,roll,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,How We Roll,disease,original,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,How We Roll,disease,motion,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,How We Roll,disease,picture,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,How We Roll,disease,soundtrack,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,How We Roll,disease,chipmunks,0.08333333333333333
+There Are Some Remedies Worse Than The Disease,How We Roll,young,roll,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,How We Roll,young,original,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,How We Roll,young,motion,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,How We Roll,young,picture,0.5
+There Are Some Remedies Worse Than The Disease,How We Roll,young,soundtrack,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,How We Roll,young,chipmunks,0.6363636363636364
+There Are Some Remedies Worse Than The Disease,How We Roll,mountain,roll,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,How We Roll,mountain,original,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,How We Roll,mountain,motion,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,How We Roll,mountain,picture,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,How We Roll,mountain,soundtrack,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,How We Roll,mountain,chipmunks,0.3
+Swimming In The Flood,O Hosanna,swimming,hosanna,0.23529411764705882
+Swimming In The Flood,O Hosanna,swimming,volume,0.2857142857142857
+Swimming In The Flood,O Hosanna,swimming,songs,0.23529411764705882
+Swimming In The Flood,O Hosanna,flood,hosanna,0.14285714285714285
+Swimming In The Flood,O Hosanna,flood,volume,0.18181818181818182
+Swimming In The Flood,O Hosanna,flood,songs,0.14285714285714285
+Swimming In The Flood,O Hosanna,manners,hosanna,0.3076923076923077
+Swimming In The Flood,O Hosanna,manners,volume,0.4
+Swimming In The Flood,O Hosanna,manners,songs,0.3076923076923077
+Swimming In The Flood,Les derniers aventuriers,swimming,last,0.25
+Swimming In The Flood,Les derniers aventuriers,swimming,adventurers,0.13333333333333333
+Swimming In The Flood,Les derniers aventuriers,swimming,direction,0.11764705882352941
+Swimming In The Flood,Les derniers aventuriers,flood,last,0.15384615384615385
+Swimming In The Flood,Les derniers aventuriers,flood,adventurers,0.3333333333333333
+Swimming In The Flood,Les derniers aventuriers,flood,direction,0.2857142857142857
+Swimming In The Flood,Les derniers aventuriers,manners,last,0.3333333333333333
+Swimming In The Flood,Les derniers aventuriers,manners,adventurers,0.18181818181818182
+Swimming In The Flood,Les derniers aventuriers,manners,direction,0.15384615384615385
+Swimming In The Flood,Love Comes Tumbling,swimming,love,0.23529411764705882
+Swimming In The Flood,Love Comes Tumbling,swimming,comes,0.2222222222222222
+Swimming In The Flood,Love Comes Tumbling,swimming,tumbling,0.8
+Swimming In The Flood,Love Comes Tumbling,swimming,wide,0
+Swimming In The Flood,Love Comes Tumbling,swimming,awake,0
+Swimming In The Flood,Love Comes Tumbling,swimming,america,0.1
+Swimming In The Flood,Love Comes Tumbling,flood,love,0.14285714285714285
+Swimming In The Flood,Love Comes Tumbling,flood,comes,0.2857142857142857
+Swimming In The Flood,Love Comes Tumbling,flood,tumbling,0.11764705882352941
+Swimming In The Flood,Love Comes Tumbling,flood,wide,0
+Swimming In The Flood,Love Comes Tumbling,flood,awake,0
+Swimming In The Flood,Love Comes Tumbling,flood,america,0.23529411764705882
+Swimming In The Flood,Love Comes Tumbling,manners,love,0.46153846153846156
+Swimming In The Flood,Love Comes Tumbling,manners,comes,0.2857142857142857
+Swimming In The Flood,Love Comes Tumbling,manners,tumbling,0.25
+Swimming In The Flood,Love Comes Tumbling,manners,wide,0
+Swimming In The Flood,Love Comes Tumbling,manners,awake,0
+Swimming In The Flood,Love Comes Tumbling,manners,america,0.125
+Swimming In The Flood,Witch Doctor,swimming,witch,0.125
+Swimming In The Flood,Witch Doctor,swimming,doctor,0.10526315789473684
+Swimming In The Flood,Witch Doctor,swimming,chipmunks,0.08333333333333333
+Swimming In The Flood,Witch Doctor,flood,witch,0.3076923076923077
+Swimming In The Flood,Witch Doctor,flood,doctor,0.25
+Swimming In The Flood,Witch Doctor,flood,chipmunks,0.19047619047619047
+Swimming In The Flood,Witch Doctor,manners,witch,0.16666666666666666
+Swimming In The Flood,Witch Doctor,manners,doctor,0.13333333333333333
+Swimming In The Flood,Witch Doctor,manners,chipmunks,0.1
+Swimming In The Flood,Sehr kosmisch,swimming,cosmic,0
+Swimming In The Flood,Sehr kosmisch,swimming,music,0.26666666666666666
+Swimming In The Flood,Sehr kosmisch,flood,cosmic,0
+Swimming In The Flood,Sehr kosmisch,flood,music,0.16666666666666666
+Swimming In The Flood,Sehr kosmisch,manners,cosmic,0
+Swimming In The Flood,Sehr kosmisch,manners,music,0.36363636363636365
+Swimming In The Flood,I Salute,swimming,salute,0.23529411764705882
+Swimming In The Flood,I Salute,swimming,another,0
+Swimming In The Flood,I Salute,swimming,self,0.21052631578947367
+Swimming In The Flood,I Salute,flood,salute,0.14285714285714285
+Swimming In The Flood,I Salute,flood,another,0
+Swimming In The Flood,I Salute,flood,self,0.125
+Swimming In The Flood,I Salute,manners,salute,0.3076923076923077
+Swimming In The Flood,I Salute,manners,another,0
+Swimming In The Flood,I Salute,manners,self,0.4
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),swimming,along,0
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),swimming,instrumental,0
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),swimming,sing,0
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),swimming,one,0.2222222222222222
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),swimming,montana,0.1
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),swimming,disney,0.1111111111111111
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),swimming,singalong,0.6363636363636364
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),flood,along,0
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),flood,instrumental,0
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),flood,sing,0
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),flood,one,0.13333333333333333
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),flood,montana,0.23529411764705882
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),flood,disney,0.26666666666666666
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),flood,singalong,0.11764705882352941
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),manners,along,0
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),manners,instrumental,0
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),manners,sing,0
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),manners,one,0.2857142857142857
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),manners,montana,0.125
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),manners,disney,0.14285714285714285
+Swimming In The Flood,He Could Be The One (Sing-Along Instrumental),manners,singalong,0.25
+Swimming In The Flood,Live And Love,swimming,love,0.23529411764705882
+Swimming In The Flood,Live And Love,swimming,live,0
+Swimming In The Flood,Live And Love,swimming,horace,0.1111111111111111
+Swimming In The Flood,Live And Love,swimming,meets,0.4444444444444444
+Swimming In The Flood,Live And Love,swimming,morris,0.11764705882352941
+Swimming In The Flood,Live And Love,swimming,wayne,0.1111111111111111
+Swimming In The Flood,Live And Love,swimming,mini,0.1
+Swimming In The Flood,Live And Love,swimming,showcase,0.2222222222222222
+Swimming In The Flood,Live And Love,flood,love,0.14285714285714285
+Swimming In The Flood,Live And Love,flood,live,0
+Swimming In The Flood,Live And Love,flood,horace,0.26666666666666666
+Swimming In The Flood,Live And Love,flood,meets,0.13333333333333333
+Swimming In The Flood,Live And Love,flood,morris,0.2857142857142857
+Swimming In The Flood,Live And Love,flood,wayne,0.26666666666666666
+Swimming In The Flood,Live And Love,flood,mini,0.23529411764705882
+Swimming In The Flood,Live And Love,flood,showcase,0.13333333333333333
+Swimming In The Flood,Live And Love,manners,love,0.46153846153846156
+Swimming In The Flood,Live And Love,manners,live,0
+Swimming In The Flood,Live And Love,manners,horace,0.14285714285714285
+Swimming In The Flood,Live And Love,manners,meets,0.2857142857142857
+Swimming In The Flood,Live And Love,manners,morris,0.15384615384615385
+Swimming In The Flood,Live And Love,manners,wayne,0.14285714285714285
+Swimming In The Flood,Live And Love,manners,mini,0.125
+Swimming In The Flood,Live And Love,manners,showcase,0.42857142857142855
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),swimming,chipmunk,0.08333333333333333
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),swimming,song,0.23529411764705882
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),swimming,late,0
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),swimming,christmas,0.23529411764705882
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),swimming,chipmunks,0.08333333333333333
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),flood,chipmunk,0.19047619047619047
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),flood,song,0.14285714285714285
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),flood,late,0
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),flood,christmas,0.14285714285714285
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),flood,chipmunks,0.19047619047619047
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),manners,chipmunk,0.1
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),manners,song,0.3076923076923077
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),manners,late,0
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),manners,christmas,0.3076923076923077
+Swimming In The Flood,The Chipmunk Song (Christmas Don't Be Late),manners,chipmunks,0.1
+Swimming In The Flood,Perdiendo El Tiempo,swimming,wasting,0.19047619047619047
+Swimming In The Flood,Perdiendo El Tiempo,swimming,time,0.47058823529411764
+Swimming In The Flood,Perdiendo El Tiempo,swimming,great,0.125
+Swimming In The Flood,Perdiendo El Tiempo,swimming,successes,0.5
+Swimming In The Flood,Perdiendo El Tiempo,flood,wasting,0.1111111111111111
+Swimming In The Flood,Perdiendo El Tiempo,flood,time,0.14285714285714285
+Swimming In The Flood,Perdiendo El Tiempo,flood,great,0.3076923076923077
+Swimming In The Flood,Perdiendo El Tiempo,flood,successes,0.15384615384615385
+Swimming In The Flood,Perdiendo El Tiempo,manners,wasting,0.35294117647058826
+Swimming In The Flood,Perdiendo El Tiempo,manners,time,0.3076923076923077
+Swimming In The Flood,Perdiendo El Tiempo,manners,great,0.16666666666666666
+Swimming In The Flood,Perdiendo El Tiempo,manners,successes,0.3333333333333333
+Swimming In The Flood,Battleship Chains (LP Version),swimming,lp,0.09090909090909091
+Swimming In The Flood,Battleship Chains (LP Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Battleship Chains (LP Version),swimming,battleship,0.09523809523809523
+Swimming In The Flood,Battleship Chains (LP Version),swimming,chains,0.1
+Swimming In The Flood,Battleship Chains (LP Version),swimming,rock,0.125
+Swimming In The Flood,Battleship Chains (LP Version),swimming,best,0.6666666666666666
+Swimming In The Flood,Battleship Chains (LP Version),swimming,georgia,0.1
+Swimming In The Flood,Battleship Chains (LP Version),swimming,satellites,0.1111111111111111
+Swimming In The Flood,Battleship Chains (LP Version),swimming,let,0.2222222222222222
+Swimming In The Flood,Battleship Chains (LP Version),flood,lp,0.21052631578947367
+Swimming In The Flood,Battleship Chains (LP Version),flood,version,0.13333333333333333
+Swimming In The Flood,Battleship Chains (LP Version),flood,battleship,0.2222222222222222
+Swimming In The Flood,Battleship Chains (LP Version),flood,chains,0.23529411764705882
+Swimming In The Flood,Battleship Chains (LP Version),flood,rock,0.3076923076923077
+Swimming In The Flood,Battleship Chains (LP Version),flood,best,0.13333333333333333
+Swimming In The Flood,Battleship Chains (LP Version),flood,georgia,0.23529411764705882
+Swimming In The Flood,Battleship Chains (LP Version),flood,satellites,0.26666666666666666
+Swimming In The Flood,Battleship Chains (LP Version),flood,let,0.13333333333333333
+Swimming In The Flood,Battleship Chains (LP Version),manners,lp,0.1111111111111111
+Swimming In The Flood,Battleship Chains (LP Version),manners,version,0.2857142857142857
+Swimming In The Flood,Battleship Chains (LP Version),manners,battleship,0.11764705882352941
+Swimming In The Flood,Battleship Chains (LP Version),manners,chains,0.125
+Swimming In The Flood,Battleship Chains (LP Version),manners,rock,0.16666666666666666
+Swimming In The Flood,Battleship Chains (LP Version),manners,best,0.2857142857142857
+Swimming In The Flood,Battleship Chains (LP Version),manners,georgia,0.125
+Swimming In The Flood,Battleship Chains (LP Version),manners,satellites,0.14285714285714285
+Swimming In The Flood,Battleship Chains (LP Version),manners,let,0.2857142857142857
+Swimming In The Flood,The Sky's Ablaze,swimming,sky,0.11764705882352941
+Swimming In The Flood,The Sky's Ablaze,swimming,ablaze,0
+Swimming In The Flood,The Sky's Ablaze,swimming,freaks,0.1111111111111111
+Swimming In The Flood,The Sky's Ablaze,swimming,come,0.2222222222222222
+Swimming In The Flood,The Sky's Ablaze,flood,sky,0.2857142857142857
+Swimming In The Flood,The Sky's Ablaze,flood,ablaze,0
+Swimming In The Flood,The Sky's Ablaze,flood,freaks,0.26666666666666666
+Swimming In The Flood,The Sky's Ablaze,flood,come,0.2857142857142857
+Swimming In The Flood,The Sky's Ablaze,manners,sky,0.15384615384615385
+Swimming In The Flood,The Sky's Ablaze,manners,ablaze,0
+Swimming In The Flood,The Sky's Ablaze,manners,freaks,0.14285714285714285
+Swimming In The Flood,The Sky's Ablaze,manners,come,0.2857142857142857
+Swimming In The Flood,Funkytown,swimming,chipmunks,0.08333333333333333
+Swimming In The Flood,Funkytown,flood,chipmunks,0.19047619047619047
+Swimming In The Flood,Funkytown,manners,chipmunks,0.1
+Swimming In The Flood,How We Roll,swimming,roll,0.42105263157894735
+Swimming In The Flood,How We Roll,swimming,original,0.11764705882352941
+Swimming In The Flood,How We Roll,swimming,motion,0.26666666666666666
+Swimming In The Flood,How We Roll,swimming,picture,0.1111111111111111
+Swimming In The Flood,How We Roll,swimming,soundtrack,0.09523809523809523
+Swimming In The Flood,How We Roll,swimming,chipmunks,0.08333333333333333
+Swimming In The Flood,How We Roll,flood,roll,0.125
+Swimming In The Flood,How We Roll,flood,original,0.2857142857142857
+Swimming In The Flood,How We Roll,flood,motion,0.16666666666666666
+Swimming In The Flood,How We Roll,flood,picture,0.26666666666666666
+Swimming In The Flood,How We Roll,flood,soundtrack,0.2222222222222222
+Swimming In The Flood,How We Roll,flood,chipmunks,0.19047619047619047
+Swimming In The Flood,How We Roll,manners,roll,0.26666666666666666
+Swimming In The Flood,How We Roll,manners,original,0.15384615384615385
+Swimming In The Flood,How We Roll,manners,motion,0.36363636363636365
+Swimming In The Flood,How We Roll,manners,picture,0.14285714285714285
+Swimming In The Flood,How We Roll,manners,soundtrack,0.11764705882352941
+Swimming In The Flood,How We Roll,manners,chipmunks,0.1

@@ -1,0 +1,1814 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Kathelin Gray,sun,gray,0.125
+Sun Hands,Kathelin Gray,sun,song,0.13333333333333333
+Sun Hands,Kathelin Gray,sun,x,0.125
+Sun Hands,Kathelin Gray,hands,gray,0.23529411764705882
+Sun Hands,Kathelin Gray,hands,song,0.25
+Sun Hands,Kathelin Gray,hands,x,0.23529411764705882
+Sun Hands,Kathelin Gray,gorilla,gray,0.08333333333333333
+Sun Hands,Kathelin Gray,gorilla,song,0.08695652173913043
+Sun Hands,Kathelin Gray,gorilla,x,0.08333333333333333
+Sun Hands,Kathelin Gray,manor,gray,0.1111111111111111
+Sun Hands,Kathelin Gray,manor,song,0.11764705882352941
+Sun Hands,Kathelin Gray,manor,x,0.1111111111111111
+Sun Hands,Heave Ho,sun,heave,0.11764705882352941
+Sun Hands,Heave Ho,sun,ho,0.26666666666666666
+Sun Hands,Heave Ho,sun,cunning,0.125
+Sun Hands,Heave Ho,sun,stunts,0.11764705882352941
+Sun Hands,Heave Ho,hands,heave,0.4444444444444444
+Sun Hands,Heave Ho,hands,ho,0.23529411764705882
+Sun Hands,Heave Ho,hands,cunning,0.35294117647058826
+Sun Hands,Heave Ho,hands,stunts,0.5263157894736842
+Sun Hands,Heave Ho,gorilla,heave,0.08
+Sun Hands,Heave Ho,gorilla,ho,0.17391304347826086
+Sun Hands,Heave Ho,gorilla,cunning,0.08333333333333333
+Sun Hands,Heave Ho,gorilla,stunts,0.08
+Sun Hands,Heave Ho,manor,heave,0.10526315789473684
+Sun Hands,Heave Ho,manor,ho,0.23529411764705882
+Sun Hands,Heave Ho,manor,cunning,0.1111111111111111
+Sun Hands,Heave Ho,manor,stunts,0.10526315789473684
+Sun Hands,Driving Home For Christmas,sun,driving,0.1
+Sun Hands,Driving Home For Christmas,sun,home,0.35294117647058826
+Sun Hands,Driving Home For Christmas,sun,christmas,0.13333333333333333
+Sun Hands,Driving Home For Christmas,sun,hell,0.42857142857142855
+Sun Hands,Driving Home For Christmas,sun,part,0.16666666666666666
+Sun Hands,Driving Home For Christmas,sun,road,0.5333333333333333
+Sun Hands,Driving Home For Christmas,hands,driving,0.45454545454545453
+Sun Hands,Driving Home For Christmas,hands,home,0.1111111111111111
+Sun Hands,Driving Home For Christmas,hands,christmas,0.25
+Sun Hands,Driving Home For Christmas,hands,hell,0.13333333333333333
+Sun Hands,Driving Home For Christmas,hands,part,0.3076923076923077
+Sun Hands,Driving Home For Christmas,hands,road,0.125
+Sun Hands,Driving Home For Christmas,gorilla,driving,0.07142857142857142
+Sun Hands,Driving Home For Christmas,gorilla,home,0.24
+Sun Hands,Driving Home For Christmas,gorilla,christmas,0.08695652173913043
+Sun Hands,Driving Home For Christmas,gorilla,hell,0.2727272727272727
+Sun Hands,Driving Home For Christmas,gorilla,part,0.1
+Sun Hands,Driving Home For Christmas,gorilla,road,0.34782608695652173
+Sun Hands,Driving Home For Christmas,manor,driving,0.09090909090909091
+Sun Hands,Driving Home For Christmas,manor,home,0.3157894736842105
+Sun Hands,Driving Home For Christmas,manor,christmas,0.11764705882352941
+Sun Hands,Driving Home For Christmas,manor,hell,0.375
+Sun Hands,Driving Home For Christmas,manor,part,0.14285714285714285
+Sun Hands,Driving Home For Christmas,manor,road,0.5882352941176471
+Sun Hands,I Want You Back,sun,want,0.125
+Sun Hands,I Want You Back,sun,back,0.2857142857142857
+Sun Hands,I Want You Back,sun,sweet,0.42105263157894735
+Sun Hands,I Want You Back,sun,children,0.47058823529411764
+Sun Hands,I Want You Back,sun,mine,0.5333333333333333
+Sun Hands,I Want You Back,hands,want,0.23529411764705882
+Sun Hands,I Want You Back,hands,back,0.13333333333333333
+Sun Hands,I Want You Back,hands,sweet,0.11764705882352941
+Sun Hands,I Want You Back,hands,children,0.13333333333333333
+Sun Hands,I Want You Back,hands,mine,0.125
+Sun Hands,I Want You Back,gorilla,want,0.08333333333333333
+Sun Hands,I Want You Back,gorilla,back,0.18181818181818182
+Sun Hands,I Want You Back,gorilla,sweet,0.4444444444444444
+Sun Hands,I Want You Back,gorilla,children,0.48
+Sun Hands,I Want You Back,gorilla,mine,0.34782608695652173
+Sun Hands,I Want You Back,manor,want,0.1111111111111111
+Sun Hands,I Want You Back,manor,back,0.25
+Sun Hands,I Want You Back,manor,sweet,0.38095238095238093
+Sun Hands,I Want You Back,manor,children,0.42105263157894735
+Sun Hands,I Want You Back,manor,mine,0.5882352941176471
+Sun Hands,Ort,sun,place,0.42857142857142855
+Sun Hands,Ort,sun,cunning,0.125
+Sun Hands,Ort,sun,stunts,0.11764705882352941
+Sun Hands,Ort,hands,place,0.13333333333333333
+Sun Hands,Ort,hands,cunning,0.35294117647058826
+Sun Hands,Ort,hands,stunts,0.5263157894736842
+Sun Hands,Ort,gorilla,place,0.2727272727272727
+Sun Hands,Ort,gorilla,cunning,0.08333333333333333
+Sun Hands,Ort,gorilla,stunts,0.08
+Sun Hands,Ort,manor,place,0.375
+Sun Hands,Ort,manor,cunning,0.1111111111111111
+Sun Hands,Ort,manor,stunts,0.10526315789473684
+Sun Hands,Don't Leave,sun,leave,0.13333333333333333
+Sun Hands,Don't Leave,sun,insomnia,0.11764705882352941
+Sun Hands,Don't Leave,sun,best,0.125
+Sun Hands,Don't Leave,hands,leave,0.25
+Sun Hands,Don't Leave,hands,insomnia,0.2222222222222222
+Sun Hands,Don't Leave,hands,best,0.5555555555555556
+Sun Hands,Don't Leave,gorilla,leave,0.08695652173913043
+Sun Hands,Don't Leave,gorilla,insomnia,0.08
+Sun Hands,Don't Leave,gorilla,best,0.08333333333333333
+Sun Hands,Don't Leave,manor,leave,0.11764705882352941
+Sun Hands,Don't Leave,manor,insomnia,0.10526315789473684
+Sun Hands,Don't Leave,manor,best,0.1111111111111111
+Sun Hands,Sting Of The Bumblebee (LP Version),sun,lp,0.4
+Sun Hands,Sting Of The Bumblebee (LP Version),sun,version,0.125
+Sun Hands,Sting Of The Bumblebee (LP Version),sun,sting,0.11764705882352941
+Sun Hands,Sting Of The Bumblebee (LP Version),sun,bumblebee,0.38095238095238093
+Sun Hands,Sting Of The Bumblebee (LP Version),sun,metal,0.2857142857142857
+Sun Hands,Sting Of The Bumblebee (LP Version),sun,kings,0.4444444444444444
+Sun Hands,Sting Of The Bumblebee (LP Version),hands,lp,0.09523809523809523
+Sun Hands,Sting Of The Bumblebee (LP Version),hands,version,0.23529411764705882
+Sun Hands,Sting Of The Bumblebee (LP Version),hands,sting,0.3333333333333333
+Sun Hands,Sting Of The Bumblebee (LP Version),hands,bumblebee,0.09090909090909091
+Sun Hands,Sting Of The Bumblebee (LP Version),hands,metal,0.25
+Sun Hands,Sting Of The Bumblebee (LP Version),hands,kings,0.125
+Sun Hands,Sting Of The Bumblebee (LP Version),gorilla,lp,0.2857142857142857
+Sun Hands,Sting Of The Bumblebee (LP Version),gorilla,version,0.08333333333333333
+Sun Hands,Sting Of The Bumblebee (LP Version),gorilla,sting,0.08
+Sun Hands,Sting Of The Bumblebee (LP Version),gorilla,bumblebee,0.4827586206896552
+Sun Hands,Sting Of The Bumblebee (LP Version),gorilla,metal,0.18181818181818182
+Sun Hands,Sting Of The Bumblebee (LP Version),gorilla,kings,0.46153846153846156
+Sun Hands,Sting Of The Bumblebee (LP Version),manor,lp,0.45454545454545453
+Sun Hands,Sting Of The Bumblebee (LP Version),manor,version,0.1111111111111111
+Sun Hands,Sting Of The Bumblebee (LP Version),manor,sting,0.10526315789473684
+Sun Hands,Sting Of The Bumblebee (LP Version),manor,bumblebee,0.34782608695652173
+Sun Hands,Sting Of The Bumblebee (LP Version),manor,metal,0.25
+Sun Hands,Sting Of The Bumblebee (LP Version),manor,kings,0.4
+Sun Hands,Nervous Breakdown,sun,nervous,0
+Sun Hands,Nervous Breakdown,sun,breakdown,0.10526315789473684
+Sun Hands,Nervous Breakdown,sun,lords,0.11764705882352941
+Sun Hands,Nervous Breakdown,hands,nervous,0
+Sun Hands,Nervous Breakdown,hands,breakdown,0.47619047619047616
+Sun Hands,Nervous Breakdown,hands,lords,0.3333333333333333
+Sun Hands,Nervous Breakdown,gorilla,nervous,0
+Sun Hands,Nervous Breakdown,gorilla,breakdown,0.07407407407407407
+Sun Hands,Nervous Breakdown,gorilla,lords,0.08
+Sun Hands,Nervous Breakdown,manor,nervous,0
+Sun Hands,Nervous Breakdown,manor,breakdown,0.09523809523809523
+Sun Hands,Nervous Breakdown,manor,lords,0.10526315789473684
+Sun Hands,Question And Answer (Live) (Album Version),sun,album,0.5
+Sun Hands,Question And Answer (Live) (Album Version),sun,version,0.125
+Sun Hands,Question And Answer (Live) (Album Version),sun,question,0.11764705882352941
+Sun Hands,Question And Answer (Live) (Album Version),sun,live,0
+Sun Hands,Question And Answer (Live) (Album Version),sun,answer,0.14285714285714285
+Sun Hands,Question And Answer (Live) (Album Version),sun,trio,0.125
+Sun Hands,Question And Answer (Live) (Album Version),sun,live,0
+Sun Hands,Question And Answer (Live) (Album Version),hands,album,0.11764705882352941
+Sun Hands,Question And Answer (Live) (Album Version),hands,version,0.23529411764705882
+Sun Hands,Question And Answer (Live) (Album Version),hands,question,0.5263157894736842
+Sun Hands,Question And Answer (Live) (Album Version),hands,live,0
+Sun Hands,Question And Answer (Live) (Album Version),hands,answer,0.26666666666666666
+Sun Hands,Question And Answer (Live) (Album Version),hands,trio,0.23529411764705882
+Sun Hands,Question And Answer (Live) (Album Version),hands,live,0
+Sun Hands,Question And Answer (Live) (Album Version),gorilla,album,0.3333333333333333
+Sun Hands,Question And Answer (Live) (Album Version),gorilla,version,0.08333333333333333
+Sun Hands,Question And Answer (Live) (Album Version),gorilla,question,0.08
+Sun Hands,Question And Answer (Live) (Album Version),gorilla,live,0
+Sun Hands,Question And Answer (Live) (Album Version),gorilla,answer,0.09090909090909091
+Sun Hands,Question And Answer (Live) (Album Version),gorilla,trio,0.08333333333333333
+Sun Hands,Question And Answer (Live) (Album Version),gorilla,live,0
+Sun Hands,Question And Answer (Live) (Album Version),manor,album,0.5555555555555556
+Sun Hands,Question And Answer (Live) (Album Version),manor,version,0.1111111111111111
+Sun Hands,Question And Answer (Live) (Album Version),manor,question,0.10526315789473684
+Sun Hands,Question And Answer (Live) (Album Version),manor,live,0
+Sun Hands,Question And Answer (Live) (Album Version),manor,answer,0.125
+Sun Hands,Question And Answer (Live) (Album Version),manor,trio,0.1111111111111111
+Sun Hands,Question And Answer (Live) (Album Version),manor,live,0
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),sun,rubber,0.23529411764705882
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),sun,band,0.15384615384615385
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),sun,lp,0.4
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),sun,version,0.125
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),sun,rubber,0.23529411764705882
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),sun,band,0.15384615384615385
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),hands,rubber,0.21052631578947367
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),hands,band,0.2857142857142857
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),hands,lp,0.09523809523809523
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),hands,version,0.23529411764705882
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),hands,rubber,0.21052631578947367
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),hands,band,0.2857142857142857
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,rubber,0.16
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,band,0.09523809523809523
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,lp,0.2857142857142857
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,version,0.08333333333333333
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,rubber,0.16
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,band,0.09523809523809523
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),manor,rubber,0.21052631578947367
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),manor,band,0.13333333333333333
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),manor,lp,0.45454545454545453
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),manor,version,0.1111111111111111
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),manor,rubber,0.21052631578947367
+Sun Hands,Stretchin' Out (In A Rubber Band) (LP Version),manor,band,0.13333333333333333
+Sun Hands,Ahora soy feliz,sun,happy,0
+Sun Hands,Ahora soy feliz,sun,federal,0.42105263157894735
+Sun Hands,Ahora soy feliz,sun,airlines,0.42105263157894735
+Sun Hands,Ahora soy feliz,hands,happy,0
+Sun Hands,Ahora soy feliz,hands,federal,0.11764705882352941
+Sun Hands,Ahora soy feliz,hands,airlines,0.1
+Sun Hands,Ahora soy feliz,gorilla,happy,0
+Sun Hands,Ahora soy feliz,gorilla,federal,0.4444444444444444
+Sun Hands,Ahora soy feliz,gorilla,airlines,0.2962962962962963
+Sun Hands,Ahora soy feliz,manor,happy,0
+Sun Hands,Ahora soy feliz,manor,federal,0.38095238095238093
+Sun Hands,Ahora soy feliz,manor,airlines,0.47619047619047616
+Camera Talk,Kathelin Gray,camera,gray,0.11764705882352941
+Camera Talk,Kathelin Gray,camera,song,0.125
+Camera Talk,Kathelin Gray,camera,x,0.11764705882352941
+Camera Talk,Kathelin Gray,talk,gray,0.26666666666666666
+Camera Talk,Kathelin Gray,talk,song,0.5714285714285714
+Camera Talk,Kathelin Gray,talk,x,0.26666666666666666
+Camera Talk,Kathelin Gray,camera,gray,0.11764705882352941
+Camera Talk,Kathelin Gray,camera,song,0.125
+Camera Talk,Kathelin Gray,camera,x,0.11764705882352941
+Camera Talk,Kathelin Gray,talk,gray,0.26666666666666666
+Camera Talk,Kathelin Gray,talk,song,0.5714285714285714
+Camera Talk,Kathelin Gray,talk,x,0.26666666666666666
+Camera Talk,Heave Ho,camera,heave,0.1111111111111111
+Camera Talk,Heave Ho,camera,ho,0.25
+Camera Talk,Heave Ho,camera,cunning,0.11764705882352941
+Camera Talk,Heave Ho,camera,stunts,0.1111111111111111
+Camera Talk,Heave Ho,talk,heave,0.25
+Camera Talk,Heave Ho,talk,ho,0.26666666666666666
+Camera Talk,Heave Ho,talk,cunning,0.26666666666666666
+Camera Talk,Heave Ho,talk,stunts,0.25
+Camera Talk,Heave Ho,camera,heave,0.1111111111111111
+Camera Talk,Heave Ho,camera,ho,0.25
+Camera Talk,Heave Ho,camera,cunning,0.11764705882352941
+Camera Talk,Heave Ho,camera,stunts,0.1111111111111111
+Camera Talk,Heave Ho,talk,heave,0.25
+Camera Talk,Heave Ho,talk,ho,0.26666666666666666
+Camera Talk,Heave Ho,talk,cunning,0.26666666666666666
+Camera Talk,Heave Ho,talk,stunts,0.25
+Camera Talk,Driving Home For Christmas,camera,driving,0.09523809523809523
+Camera Talk,Driving Home For Christmas,camera,home,0.3333333333333333
+Camera Talk,Driving Home For Christmas,camera,christmas,0.125
+Camera Talk,Driving Home For Christmas,camera,hell,0.4
+Camera Talk,Driving Home For Christmas,camera,part,0.15384615384615385
+Camera Talk,Driving Home For Christmas,camera,road,0.625
+Camera Talk,Driving Home For Christmas,talk,driving,0.21052631578947367
+Camera Talk,Driving Home For Christmas,talk,home,0.125
+Camera Talk,Driving Home For Christmas,talk,christmas,0.2857142857142857
+Camera Talk,Driving Home For Christmas,talk,hell,0.15384615384615385
+Camera Talk,Driving Home For Christmas,talk,part,0.36363636363636365
+Camera Talk,Driving Home For Christmas,talk,road,0.14285714285714285
+Camera Talk,Driving Home For Christmas,camera,driving,0.09523809523809523
+Camera Talk,Driving Home For Christmas,camera,home,0.3333333333333333
+Camera Talk,Driving Home For Christmas,camera,christmas,0.125
+Camera Talk,Driving Home For Christmas,camera,hell,0.4
+Camera Talk,Driving Home For Christmas,camera,part,0.15384615384615385
+Camera Talk,Driving Home For Christmas,camera,road,0.625
+Camera Talk,Driving Home For Christmas,talk,driving,0.21052631578947367
+Camera Talk,Driving Home For Christmas,talk,home,0.125
+Camera Talk,Driving Home For Christmas,talk,christmas,0.2857142857142857
+Camera Talk,Driving Home For Christmas,talk,hell,0.15384615384615385
+Camera Talk,Driving Home For Christmas,talk,part,0.36363636363636365
+Camera Talk,Driving Home For Christmas,talk,road,0.14285714285714285
+Camera Talk,I Want You Back,camera,want,0.11764705882352941
+Camera Talk,I Want You Back,camera,back,0.26666666666666666
+Camera Talk,I Want You Back,camera,sweet,0.4
+Camera Talk,I Want You Back,camera,children,0.4444444444444444
+Camera Talk,I Want You Back,camera,mine,0.625
+Camera Talk,I Want You Back,talk,want,0.26666666666666666
+Camera Talk,I Want You Back,talk,back,0.15384615384615385
+Camera Talk,I Want You Back,talk,sweet,0.13333333333333333
+Camera Talk,I Want You Back,talk,children,0.15384615384615385
+Camera Talk,I Want You Back,talk,mine,0.14285714285714285
+Camera Talk,I Want You Back,camera,want,0.11764705882352941
+Camera Talk,I Want You Back,camera,back,0.26666666666666666
+Camera Talk,I Want You Back,camera,sweet,0.4
+Camera Talk,I Want You Back,camera,children,0.4444444444444444
+Camera Talk,I Want You Back,camera,mine,0.625
+Camera Talk,I Want You Back,talk,want,0.26666666666666666
+Camera Talk,I Want You Back,talk,back,0.15384615384615385
+Camera Talk,I Want You Back,talk,sweet,0.13333333333333333
+Camera Talk,I Want You Back,talk,children,0.15384615384615385
+Camera Talk,I Want You Back,talk,mine,0.14285714285714285
+Camera Talk,Ort,camera,place,0.4
+Camera Talk,Ort,camera,cunning,0.11764705882352941
+Camera Talk,Ort,camera,stunts,0.1111111111111111
+Camera Talk,Ort,talk,place,0.15384615384615385
+Camera Talk,Ort,talk,cunning,0.26666666666666666
+Camera Talk,Ort,talk,stunts,0.25
+Camera Talk,Ort,camera,place,0.4
+Camera Talk,Ort,camera,cunning,0.11764705882352941
+Camera Talk,Ort,camera,stunts,0.1111111111111111
+Camera Talk,Ort,talk,place,0.15384615384615385
+Camera Talk,Ort,talk,cunning,0.26666666666666666
+Camera Talk,Ort,talk,stunts,0.25
+Camera Talk,Don't Leave,camera,leave,0.125
+Camera Talk,Don't Leave,camera,insomnia,0.1111111111111111
+Camera Talk,Don't Leave,camera,best,0.11764705882352941
+Camera Talk,Don't Leave,talk,leave,0.2857142857142857
+Camera Talk,Don't Leave,talk,insomnia,0.25
+Camera Talk,Don't Leave,talk,best,0.26666666666666666
+Camera Talk,Don't Leave,camera,leave,0.125
+Camera Talk,Don't Leave,camera,insomnia,0.1111111111111111
+Camera Talk,Don't Leave,camera,best,0.11764705882352941
+Camera Talk,Don't Leave,talk,leave,0.2857142857142857
+Camera Talk,Don't Leave,talk,insomnia,0.25
+Camera Talk,Don't Leave,talk,best,0.26666666666666666
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,lp,0.5714285714285714
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,version,0.11764705882352941
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,sting,0.1111111111111111
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,bumblebee,0.36363636363636365
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,metal,0.26666666666666666
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,kings,0.42105263157894735
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,lp,0.10526315789473684
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,version,0.4
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,sting,0.25
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,bumblebee,0.1
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,metal,0.2857142857142857
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,kings,0.14285714285714285
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,lp,0.5714285714285714
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,version,0.11764705882352941
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,sting,0.1111111111111111
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,bumblebee,0.36363636363636365
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,metal,0.26666666666666666
+Camera Talk,Sting Of The Bumblebee (LP Version),camera,kings,0.42105263157894735
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,lp,0.10526315789473684
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,version,0.4
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,sting,0.25
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,bumblebee,0.1
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,metal,0.2857142857142857
+Camera Talk,Sting Of The Bumblebee (LP Version),talk,kings,0.14285714285714285
+Camera Talk,Nervous Breakdown,camera,nervous,0
+Camera Talk,Nervous Breakdown,camera,breakdown,0.1
+Camera Talk,Nervous Breakdown,camera,lords,0.1111111111111111
+Camera Talk,Nervous Breakdown,talk,nervous,0
+Camera Talk,Nervous Breakdown,talk,breakdown,0.2222222222222222
+Camera Talk,Nervous Breakdown,talk,lords,0.25
+Camera Talk,Nervous Breakdown,camera,nervous,0
+Camera Talk,Nervous Breakdown,camera,breakdown,0.1
+Camera Talk,Nervous Breakdown,camera,lords,0.1111111111111111
+Camera Talk,Nervous Breakdown,talk,nervous,0
+Camera Talk,Nervous Breakdown,talk,breakdown,0.2222222222222222
+Camera Talk,Nervous Breakdown,talk,lords,0.25
+Camera Talk,Question And Answer (Live) (Album Version),camera,album,0.7058823529411765
+Camera Talk,Question And Answer (Live) (Album Version),camera,version,0.11764705882352941
+Camera Talk,Question And Answer (Live) (Album Version),camera,question,0.1111111111111111
+Camera Talk,Question And Answer (Live) (Album Version),camera,live,0
+Camera Talk,Question And Answer (Live) (Album Version),camera,answer,0.13333333333333333
+Camera Talk,Question And Answer (Live) (Album Version),camera,trio,0.11764705882352941
+Camera Talk,Question And Answer (Live) (Album Version),camera,live,0
+Camera Talk,Question And Answer (Live) (Album Version),talk,album,0.13333333333333333
+Camera Talk,Question And Answer (Live) (Album Version),talk,version,0.4
+Camera Talk,Question And Answer (Live) (Album Version),talk,question,0.25
+Camera Talk,Question And Answer (Live) (Album Version),talk,live,0
+Camera Talk,Question And Answer (Live) (Album Version),talk,answer,0.46153846153846156
+Camera Talk,Question And Answer (Live) (Album Version),talk,trio,0.26666666666666666
+Camera Talk,Question And Answer (Live) (Album Version),talk,live,0
+Camera Talk,Question And Answer (Live) (Album Version),camera,album,0.7058823529411765
+Camera Talk,Question And Answer (Live) (Album Version),camera,version,0.11764705882352941
+Camera Talk,Question And Answer (Live) (Album Version),camera,question,0.1111111111111111
+Camera Talk,Question And Answer (Live) (Album Version),camera,live,0
+Camera Talk,Question And Answer (Live) (Album Version),camera,answer,0.13333333333333333
+Camera Talk,Question And Answer (Live) (Album Version),camera,trio,0.11764705882352941
+Camera Talk,Question And Answer (Live) (Album Version),camera,live,0
+Camera Talk,Question And Answer (Live) (Album Version),talk,album,0.13333333333333333
+Camera Talk,Question And Answer (Live) (Album Version),talk,version,0.4
+Camera Talk,Question And Answer (Live) (Album Version),talk,question,0.25
+Camera Talk,Question And Answer (Live) (Album Version),talk,live,0
+Camera Talk,Question And Answer (Live) (Album Version),talk,answer,0.46153846153846156
+Camera Talk,Question And Answer (Live) (Album Version),talk,trio,0.26666666666666666
+Camera Talk,Question And Answer (Live) (Album Version),talk,live,0
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,rubber,0.2222222222222222
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,band,0.14285714285714285
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,lp,0.5714285714285714
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,version,0.11764705882352941
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,rubber,0.2222222222222222
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,band,0.14285714285714285
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,rubber,0.23529411764705882
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,band,0.3333333333333333
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,lp,0.10526315789473684
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,version,0.4
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,rubber,0.23529411764705882
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,band,0.3333333333333333
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,rubber,0.2222222222222222
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,band,0.14285714285714285
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,lp,0.5714285714285714
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,version,0.11764705882352941
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,rubber,0.2222222222222222
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),camera,band,0.14285714285714285
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,rubber,0.23529411764705882
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,band,0.3333333333333333
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,lp,0.10526315789473684
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,version,0.4
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,rubber,0.23529411764705882
+Camera Talk,Stretchin' Out (In A Rubber Band) (LP Version),talk,band,0.3333333333333333
+Camera Talk,Ahora soy feliz,camera,happy,0
+Camera Talk,Ahora soy feliz,camera,federal,0.4
+Camera Talk,Ahora soy feliz,camera,airlines,0.5
+Camera Talk,Ahora soy feliz,talk,happy,0
+Camera Talk,Ahora soy feliz,talk,federal,0.13333333333333333
+Camera Talk,Ahora soy feliz,talk,airlines,0.1111111111111111
+Camera Talk,Ahora soy feliz,camera,happy,0
+Camera Talk,Ahora soy feliz,camera,federal,0.4
+Camera Talk,Ahora soy feliz,camera,airlines,0.5
+Camera Talk,Ahora soy feliz,talk,happy,0
+Camera Talk,Ahora soy feliz,talk,federal,0.13333333333333333
+Camera Talk,Ahora soy feliz,talk,airlines,0.1111111111111111
+Belle,Kathelin Gray,beautiful,gray,0
+Belle,Kathelin Gray,beautiful,song,0
+Belle,Kathelin Gray,beautiful,x,0
+Belle,Kathelin Gray,dreams,gray,0.23529411764705882
+Belle,Kathelin Gray,dreams,song,0.25
+Belle,Kathelin Gray,dreams,x,0.23529411764705882
+Belle,Heave Ho,beautiful,heave,0
+Belle,Heave Ho,beautiful,ho,0
+Belle,Heave Ho,beautiful,cunning,0
+Belle,Heave Ho,beautiful,stunts,0
+Belle,Heave Ho,dreams,heave,0.3333333333333333
+Belle,Heave Ho,dreams,ho,0.23529411764705882
+Belle,Heave Ho,dreams,cunning,0.47058823529411764
+Belle,Heave Ho,dreams,stunts,0.3333333333333333
+Belle,Driving Home For Christmas,beautiful,driving,0
+Belle,Driving Home For Christmas,beautiful,home,0
+Belle,Driving Home For Christmas,beautiful,christmas,0
+Belle,Driving Home For Christmas,beautiful,hell,0
+Belle,Driving Home For Christmas,beautiful,part,0
+Belle,Driving Home For Christmas,beautiful,road,0
+Belle,Driving Home For Christmas,dreams,driving,0.2857142857142857
+Belle,Driving Home For Christmas,dreams,home,0.1111111111111111
+Belle,Driving Home For Christmas,dreams,christmas,0.25
+Belle,Driving Home For Christmas,dreams,hell,0.13333333333333333
+Belle,Driving Home For Christmas,dreams,part,0.3076923076923077
+Belle,Driving Home For Christmas,dreams,road,0.125
+Belle,I Want You Back,beautiful,want,0
+Belle,I Want You Back,beautiful,back,0
+Belle,I Want You Back,beautiful,sweet,0
+Belle,I Want You Back,beautiful,children,0
+Belle,I Want You Back,beautiful,mine,0
+Belle,I Want You Back,dreams,want,0.23529411764705882
+Belle,I Want You Back,dreams,back,0.13333333333333333
+Belle,I Want You Back,dreams,sweet,0.11764705882352941
+Belle,I Want You Back,dreams,children,0.13333333333333333
+Belle,I Want You Back,dreams,mine,0.125
+Belle,Ort,beautiful,place,0
+Belle,Ort,beautiful,cunning,0
+Belle,Ort,beautiful,stunts,0
+Belle,Ort,dreams,place,0.13333333333333333
+Belle,Ort,dreams,cunning,0.47058823529411764
+Belle,Ort,dreams,stunts,0.3333333333333333
+Belle,Don't Leave,beautiful,leave,0
+Belle,Don't Leave,beautiful,insomnia,0
+Belle,Don't Leave,beautiful,best,0
+Belle,Don't Leave,dreams,leave,0.25
+Belle,Don't Leave,dreams,insomnia,0.2222222222222222
+Belle,Don't Leave,dreams,best,0.35294117647058826
+Belle,Sting Of The Bumblebee (LP Version),beautiful,lp,0
+Belle,Sting Of The Bumblebee (LP Version),beautiful,version,0
+Belle,Sting Of The Bumblebee (LP Version),beautiful,sting,0
+Belle,Sting Of The Bumblebee (LP Version),beautiful,bumblebee,0
+Belle,Sting Of The Bumblebee (LP Version),beautiful,metal,0
+Belle,Sting Of The Bumblebee (LP Version),beautiful,kings,0
+Belle,Sting Of The Bumblebee (LP Version),dreams,lp,0.09523809523809523
+Belle,Sting Of The Bumblebee (LP Version),dreams,version,0.23529411764705882
+Belle,Sting Of The Bumblebee (LP Version),dreams,sting,0.4444444444444444
+Belle,Sting Of The Bumblebee (LP Version),dreams,bumblebee,0.09090909090909091
+Belle,Sting Of The Bumblebee (LP Version),dreams,metal,0.25
+Belle,Sting Of The Bumblebee (LP Version),dreams,kings,0.125
+Belle,Nervous Breakdown,beautiful,nervous,0
+Belle,Nervous Breakdown,beautiful,breakdown,0
+Belle,Nervous Breakdown,beautiful,lords,0
+Belle,Nervous Breakdown,dreams,nervous,0
+Belle,Nervous Breakdown,dreams,breakdown,0.3
+Belle,Nervous Breakdown,dreams,lords,0.4444444444444444
+Belle,Question And Answer (Live) (Album Version),beautiful,album,0
+Belle,Question And Answer (Live) (Album Version),beautiful,version,0
+Belle,Question And Answer (Live) (Album Version),beautiful,question,0
+Belle,Question And Answer (Live) (Album Version),beautiful,live,0
+Belle,Question And Answer (Live) (Album Version),beautiful,answer,0
+Belle,Question And Answer (Live) (Album Version),beautiful,trio,0
+Belle,Question And Answer (Live) (Album Version),beautiful,live,0
+Belle,Question And Answer (Live) (Album Version),dreams,album,0.11764705882352941
+Belle,Question And Answer (Live) (Album Version),dreams,version,0.23529411764705882
+Belle,Question And Answer (Live) (Album Version),dreams,question,0.3333333333333333
+Belle,Question And Answer (Live) (Album Version),dreams,live,0
+Belle,Question And Answer (Live) (Album Version),dreams,answer,0.26666666666666666
+Belle,Question And Answer (Live) (Album Version),dreams,trio,0.23529411764705882
+Belle,Question And Answer (Live) (Album Version),dreams,live,0
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),beautiful,rubber,0
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),beautiful,band,0
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),beautiful,lp,0
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),beautiful,version,0
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),beautiful,rubber,0
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),beautiful,band,0
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),dreams,rubber,0.21052631578947367
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),dreams,band,0.2857142857142857
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),dreams,lp,0.09523809523809523
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),dreams,version,0.23529411764705882
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),dreams,rubber,0.21052631578947367
+Belle,Stretchin' Out (In A Rubber Band) (LP Version),dreams,band,0.2857142857142857
+Belle,Ahora soy feliz,beautiful,happy,0
+Belle,Ahora soy feliz,beautiful,federal,0
+Belle,Ahora soy feliz,beautiful,airlines,0
+Belle,Ahora soy feliz,dreams,happy,0
+Belle,Ahora soy feliz,dreams,federal,0.11764705882352941
+Belle,Ahora soy feliz,dreams,airlines,0.1
+Auto Rock,Kathelin Gray,auto,gray,0.10526315789473684
+Auto Rock,Kathelin Gray,auto,song,0.1111111111111111
+Auto Rock,Kathelin Gray,auto,x,0.10526315789473684
+Auto Rock,Kathelin Gray,rock,gray,0.14285714285714285
+Auto Rock,Kathelin Gray,rock,song,0.15384615384615385
+Auto Rock,Kathelin Gray,rock,x,0.14285714285714285
+Auto Rock,Kathelin Gray,mr,gray,0.23529411764705882
+Auto Rock,Kathelin Gray,mr,song,0.25
+Auto Rock,Kathelin Gray,mr,x,0.23529411764705882
+Auto Rock,Kathelin Gray,beast,gray,0.13333333333333333
+Auto Rock,Kathelin Gray,beast,song,0.14285714285714285
+Auto Rock,Kathelin Gray,beast,x,0.13333333333333333
+Auto Rock,Heave Ho,auto,heave,0.1
+Auto Rock,Heave Ho,auto,ho,0.2222222222222222
+Auto Rock,Heave Ho,auto,cunning,0.10526315789473684
+Auto Rock,Heave Ho,auto,stunts,0.1
+Auto Rock,Heave Ho,rock,heave,0.13333333333333333
+Auto Rock,Heave Ho,rock,ho,0.3076923076923077
+Auto Rock,Heave Ho,rock,cunning,0.14285714285714285
+Auto Rock,Heave Ho,rock,stunts,0.13333333333333333
+Auto Rock,Heave Ho,mr,heave,0.2222222222222222
+Auto Rock,Heave Ho,mr,ho,0.47058823529411764
+Auto Rock,Heave Ho,mr,cunning,0.23529411764705882
+Auto Rock,Heave Ho,mr,stunts,0.2222222222222222
+Auto Rock,Heave Ho,beast,heave,0.125
+Auto Rock,Heave Ho,beast,ho,0.2857142857142857
+Auto Rock,Heave Ho,beast,cunning,0.13333333333333333
+Auto Rock,Heave Ho,beast,stunts,0.125
+Auto Rock,Driving Home For Christmas,auto,driving,0.08695652173913043
+Auto Rock,Driving Home For Christmas,auto,home,0.3
+Auto Rock,Driving Home For Christmas,auto,christmas,0.1111111111111111
+Auto Rock,Driving Home For Christmas,auto,hell,0.35294117647058826
+Auto Rock,Driving Home For Christmas,auto,part,0.13333333333333333
+Auto Rock,Driving Home For Christmas,auto,road,0.5555555555555556
+Auto Rock,Driving Home For Christmas,rock,driving,0.1111111111111111
+Auto Rock,Driving Home For Christmas,rock,home,0.4
+Auto Rock,Driving Home For Christmas,rock,christmas,0.15384615384615385
+Auto Rock,Driving Home For Christmas,rock,hell,0.5
+Auto Rock,Driving Home For Christmas,rock,part,0.2
+Auto Rock,Driving Home For Christmas,rock,road,0.6153846153846154
+Auto Rock,Driving Home For Christmas,mr,driving,0.19047619047619047
+Auto Rock,Driving Home For Christmas,mr,home,0.1111111111111111
+Auto Rock,Driving Home For Christmas,mr,christmas,0.25
+Auto Rock,Driving Home For Christmas,mr,hell,0.13333333333333333
+Auto Rock,Driving Home For Christmas,mr,part,0.6153846153846154
+Auto Rock,Driving Home For Christmas,mr,road,0.125
+Auto Rock,Driving Home For Christmas,beast,driving,0.10526315789473684
+Auto Rock,Driving Home For Christmas,beast,home,0.375
+Auto Rock,Driving Home For Christmas,beast,christmas,0.14285714285714285
+Auto Rock,Driving Home For Christmas,beast,hell,0.46153846153846156
+Auto Rock,Driving Home For Christmas,beast,part,0.18181818181818182
+Auto Rock,Driving Home For Christmas,beast,road,0.5714285714285714
+Auto Rock,I Want You Back,auto,want,0.10526315789473684
+Auto Rock,I Want You Back,auto,back,0.23529411764705882
+Auto Rock,I Want You Back,auto,sweet,0.36363636363636365
+Auto Rock,I Want You Back,auto,children,0.4
+Auto Rock,I Want You Back,auto,mine,0.5555555555555556
+Auto Rock,I Want You Back,rock,want,0.14285714285714285
+Auto Rock,I Want You Back,rock,back,0.3333333333333333
+Auto Rock,I Want You Back,rock,sweet,0.47058823529411764
+Auto Rock,I Want You Back,rock,children,0.5333333333333333
+Auto Rock,I Want You Back,rock,mine,0.6153846153846154
+Auto Rock,I Want You Back,mr,want,0.23529411764705882
+Auto Rock,I Want You Back,mr,back,0.13333333333333333
+Auto Rock,I Want You Back,mr,sweet,0.11764705882352941
+Auto Rock,I Want You Back,mr,children,0.13333333333333333
+Auto Rock,I Want You Back,mr,mine,0.125
+Auto Rock,I Want You Back,beast,want,0.13333333333333333
+Auto Rock,I Want You Back,beast,back,0.3076923076923077
+Auto Rock,I Want You Back,beast,sweet,0.6666666666666666
+Auto Rock,I Want You Back,beast,children,0.75
+Auto Rock,I Want You Back,beast,mine,0.5714285714285714
+Auto Rock,Ort,auto,place,0.35294117647058826
+Auto Rock,Ort,auto,cunning,0.10526315789473684
+Auto Rock,Ort,auto,stunts,0.1
+Auto Rock,Ort,rock,place,0.5
+Auto Rock,Ort,rock,cunning,0.14285714285714285
+Auto Rock,Ort,rock,stunts,0.13333333333333333
+Auto Rock,Ort,mr,place,0.13333333333333333
+Auto Rock,Ort,mr,cunning,0.23529411764705882
+Auto Rock,Ort,mr,stunts,0.2222222222222222
+Auto Rock,Ort,beast,place,0.46153846153846156
+Auto Rock,Ort,beast,cunning,0.13333333333333333
+Auto Rock,Ort,beast,stunts,0.125
+Auto Rock,Don't Leave,auto,leave,0.1111111111111111
+Auto Rock,Don't Leave,auto,insomnia,0.1
+Auto Rock,Don't Leave,auto,best,0.10526315789473684
+Auto Rock,Don't Leave,rock,leave,0.15384615384615385
+Auto Rock,Don't Leave,rock,insomnia,0.13333333333333333
+Auto Rock,Don't Leave,rock,best,0.14285714285714285
+Auto Rock,Don't Leave,mr,leave,0.25
+Auto Rock,Don't Leave,mr,insomnia,0.2222222222222222
+Auto Rock,Don't Leave,mr,best,0.23529411764705882
+Auto Rock,Don't Leave,beast,leave,0.14285714285714285
+Auto Rock,Don't Leave,beast,insomnia,0.125
+Auto Rock,Don't Leave,beast,best,0.13333333333333333
+Auto Rock,Sting Of The Bumblebee (LP Version),auto,lp,0.5217391304347826
+Auto Rock,Sting Of The Bumblebee (LP Version),auto,version,0.10526315789473684
+Auto Rock,Sting Of The Bumblebee (LP Version),auto,sting,0.1
+Auto Rock,Sting Of The Bumblebee (LP Version),auto,bumblebee,0.3333333333333333
+Auto Rock,Sting Of The Bumblebee (LP Version),auto,metal,0.23529411764705882
+Auto Rock,Sting Of The Bumblebee (LP Version),auto,kings,0.38095238095238093
+Auto Rock,Sting Of The Bumblebee (LP Version),rock,lp,0.4444444444444444
+Auto Rock,Sting Of The Bumblebee (LP Version),rock,version,0.14285714285714285
+Auto Rock,Sting Of The Bumblebee (LP Version),rock,sting,0.13333333333333333
+Auto Rock,Sting Of The Bumblebee (LP Version),rock,bumblebee,0.42105263157894735
+Auto Rock,Sting Of The Bumblebee (LP Version),rock,metal,0.3333333333333333
+Auto Rock,Sting Of The Bumblebee (LP Version),rock,kings,0.5
+Auto Rock,Sting Of The Bumblebee (LP Version),mr,lp,0.09523809523809523
+Auto Rock,Sting Of The Bumblebee (LP Version),mr,version,0.23529411764705882
+Auto Rock,Sting Of The Bumblebee (LP Version),mr,sting,0.2222222222222222
+Auto Rock,Sting Of The Bumblebee (LP Version),mr,bumblebee,0.09090909090909091
+Auto Rock,Sting Of The Bumblebee (LP Version),mr,metal,0.5
+Auto Rock,Sting Of The Bumblebee (LP Version),mr,kings,0.125
+Auto Rock,Sting Of The Bumblebee (LP Version),beast,lp,0.42105263157894735
+Auto Rock,Sting Of The Bumblebee (LP Version),beast,version,0.13333333333333333
+Auto Rock,Sting Of The Bumblebee (LP Version),beast,sting,0.125
+Auto Rock,Sting Of The Bumblebee (LP Version),beast,bumblebee,0.7
+Auto Rock,Sting Of The Bumblebee (LP Version),beast,metal,0.3076923076923077
+Auto Rock,Sting Of The Bumblebee (LP Version),beast,kings,0.7058823529411765
+Auto Rock,Nervous Breakdown,auto,nervous,0
+Auto Rock,Nervous Breakdown,auto,breakdown,0.09090909090909091
+Auto Rock,Nervous Breakdown,auto,lords,0.1
+Auto Rock,Nervous Breakdown,rock,nervous,0
+Auto Rock,Nervous Breakdown,rock,breakdown,0.11764705882352941
+Auto Rock,Nervous Breakdown,rock,lords,0.13333333333333333
+Auto Rock,Nervous Breakdown,mr,nervous,0
+Auto Rock,Nervous Breakdown,mr,breakdown,0.2
+Auto Rock,Nervous Breakdown,mr,lords,0.2222222222222222
+Auto Rock,Nervous Breakdown,beast,nervous,0
+Auto Rock,Nervous Breakdown,beast,breakdown,0.1111111111111111
+Auto Rock,Nervous Breakdown,beast,lords,0.125
+Auto Rock,Question And Answer (Live) (Album Version),auto,album,0.631578947368421
+Auto Rock,Question And Answer (Live) (Album Version),auto,version,0.10526315789473684
+Auto Rock,Question And Answer (Live) (Album Version),auto,question,0.1
+Auto Rock,Question And Answer (Live) (Album Version),auto,live,0
+Auto Rock,Question And Answer (Live) (Album Version),auto,answer,0.11764705882352941
+Auto Rock,Question And Answer (Live) (Album Version),auto,trio,0.10526315789473684
+Auto Rock,Question And Answer (Live) (Album Version),auto,live,0
+Auto Rock,Question And Answer (Live) (Album Version),rock,album,0.5714285714285714
+Auto Rock,Question And Answer (Live) (Album Version),rock,version,0.14285714285714285
+Auto Rock,Question And Answer (Live) (Album Version),rock,question,0.13333333333333333
+Auto Rock,Question And Answer (Live) (Album Version),rock,live,0
+Auto Rock,Question And Answer (Live) (Album Version),rock,answer,0.16666666666666666
+Auto Rock,Question And Answer (Live) (Album Version),rock,trio,0.14285714285714285
+Auto Rock,Question And Answer (Live) (Album Version),rock,live,0
+Auto Rock,Question And Answer (Live) (Album Version),mr,album,0.11764705882352941
+Auto Rock,Question And Answer (Live) (Album Version),mr,version,0.23529411764705882
+Auto Rock,Question And Answer (Live) (Album Version),mr,question,0.2222222222222222
+Auto Rock,Question And Answer (Live) (Album Version),mr,live,0
+Auto Rock,Question And Answer (Live) (Album Version),mr,answer,0.26666666666666666
+Auto Rock,Question And Answer (Live) (Album Version),mr,trio,0.23529411764705882
+Auto Rock,Question And Answer (Live) (Album Version),mr,live,0
+Auto Rock,Question And Answer (Live) (Album Version),beast,album,0.5333333333333333
+Auto Rock,Question And Answer (Live) (Album Version),beast,version,0.13333333333333333
+Auto Rock,Question And Answer (Live) (Album Version),beast,question,0.125
+Auto Rock,Question And Answer (Live) (Album Version),beast,live,0
+Auto Rock,Question And Answer (Live) (Album Version),beast,answer,0.15384615384615385
+Auto Rock,Question And Answer (Live) (Album Version),beast,trio,0.13333333333333333
+Auto Rock,Question And Answer (Live) (Album Version),beast,live,0
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),auto,rubber,0.2
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),auto,band,0.125
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),auto,lp,0.5217391304347826
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),auto,version,0.10526315789473684
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),auto,rubber,0.2
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),auto,band,0.125
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),rock,rubber,0.26666666666666666
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),rock,band,0.18181818181818182
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),rock,lp,0.4444444444444444
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),rock,version,0.14285714285714285
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),rock,rubber,0.26666666666666666
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),rock,band,0.18181818181818182
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),mr,rubber,0.42105263157894735
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),mr,band,0.2857142857142857
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),mr,lp,0.09523809523809523
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),mr,version,0.23529411764705882
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),mr,rubber,0.42105263157894735
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),mr,band,0.2857142857142857
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),beast,rubber,0.25
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),beast,band,0.16666666666666666
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),beast,lp,0.42105263157894735
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),beast,version,0.13333333333333333
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),beast,rubber,0.25
+Auto Rock,Stretchin' Out (In A Rubber Band) (LP Version),beast,band,0.16666666666666666
+Auto Rock,Ahora soy feliz,auto,happy,0
+Auto Rock,Ahora soy feliz,auto,federal,0.36363636363636365
+Auto Rock,Ahora soy feliz,auto,airlines,0.45454545454545453
+Auto Rock,Ahora soy feliz,rock,happy,0
+Auto Rock,Ahora soy feliz,rock,federal,0.47058823529411764
+Auto Rock,Ahora soy feliz,rock,airlines,0.47058823529411764
+Auto Rock,Ahora soy feliz,mr,happy,0
+Auto Rock,Ahora soy feliz,mr,federal,0.11764705882352941
+Auto Rock,Ahora soy feliz,mr,airlines,0.1
+Auto Rock,Ahora soy feliz,beast,happy,0
+Auto Rock,Ahora soy feliz,beast,federal,0.6666666666666666
+Auto Rock,Ahora soy feliz,beast,airlines,0.4444444444444444
+Who Knows Who Cares,Kathelin Gray,knows,gray,0.25
+Who Knows Who Cares,Kathelin Gray,knows,song,0.26666666666666666
+Who Knows Who Cares,Kathelin Gray,knows,x,0.25
+Who Knows Who Cares,Kathelin Gray,cares,gray,0.25
+Who Knows Who Cares,Kathelin Gray,cares,song,0.26666666666666666
+Who Knows Who Cares,Kathelin Gray,cares,x,0.25
+Who Knows Who Cares,Kathelin Gray,gorilla,gray,0.08333333333333333
+Who Knows Who Cares,Kathelin Gray,gorilla,song,0.08695652173913043
+Who Knows Who Cares,Kathelin Gray,gorilla,x,0.08333333333333333
+Who Knows Who Cares,Kathelin Gray,manor,gray,0.1111111111111111
+Who Knows Who Cares,Kathelin Gray,manor,song,0.11764705882352941
+Who Knows Who Cares,Kathelin Gray,manor,x,0.1111111111111111
+Who Knows Who Cares,Heave Ho,knows,heave,0.35294117647058826
+Who Knows Who Cares,Heave Ho,knows,ho,0.25
+Who Knows Who Cares,Heave Ho,knows,cunning,0.5
+Who Knows Who Cares,Heave Ho,knows,stunts,0.35294117647058826
+Who Knows Who Cares,Heave Ho,cares,heave,0.47058823529411764
+Who Knows Who Cares,Heave Ho,cares,ho,0.25
+Who Knows Who Cares,Heave Ho,cares,cunning,0.375
+Who Knows Who Cares,Heave Ho,cares,stunts,0.5882352941176471
+Who Knows Who Cares,Heave Ho,gorilla,heave,0.08
+Who Knows Who Cares,Heave Ho,gorilla,ho,0.17391304347826086
+Who Knows Who Cares,Heave Ho,gorilla,cunning,0.08333333333333333
+Who Knows Who Cares,Heave Ho,gorilla,stunts,0.08
+Who Knows Who Cares,Heave Ho,manor,heave,0.10526315789473684
+Who Knows Who Cares,Heave Ho,manor,ho,0.23529411764705882
+Who Knows Who Cares,Heave Ho,manor,cunning,0.1111111111111111
+Who Knows Who Cares,Heave Ho,manor,stunts,0.10526315789473684
+Who Knows Who Cares,Driving Home For Christmas,knows,driving,0.3
+Who Knows Who Cares,Driving Home For Christmas,knows,home,0.11764705882352941
+Who Knows Who Cares,Driving Home For Christmas,knows,christmas,0.26666666666666666
+Who Knows Who Cares,Driving Home For Christmas,knows,hell,0.14285714285714285
+Who Knows Who Cares,Driving Home For Christmas,knows,part,0.3333333333333333
+Who Knows Who Cares,Driving Home For Christmas,knows,road,0.13333333333333333
+Who Knows Who Cares,Driving Home For Christmas,cares,driving,0.5
+Who Knows Who Cares,Driving Home For Christmas,cares,home,0.11764705882352941
+Who Knows Who Cares,Driving Home For Christmas,cares,christmas,0.26666666666666666
+Who Knows Who Cares,Driving Home For Christmas,cares,hell,0.14285714285714285
+Who Knows Who Cares,Driving Home For Christmas,cares,part,0.3333333333333333
+Who Knows Who Cares,Driving Home For Christmas,cares,road,0.13333333333333333
+Who Knows Who Cares,Driving Home For Christmas,gorilla,driving,0.07142857142857142
+Who Knows Who Cares,Driving Home For Christmas,gorilla,home,0.24
+Who Knows Who Cares,Driving Home For Christmas,gorilla,christmas,0.08695652173913043
+Who Knows Who Cares,Driving Home For Christmas,gorilla,hell,0.2727272727272727
+Who Knows Who Cares,Driving Home For Christmas,gorilla,part,0.1
+Who Knows Who Cares,Driving Home For Christmas,gorilla,road,0.34782608695652173
+Who Knows Who Cares,Driving Home For Christmas,manor,driving,0.09090909090909091
+Who Knows Who Cares,Driving Home For Christmas,manor,home,0.3157894736842105
+Who Knows Who Cares,Driving Home For Christmas,manor,christmas,0.11764705882352941
+Who Knows Who Cares,Driving Home For Christmas,manor,hell,0.375
+Who Knows Who Cares,Driving Home For Christmas,manor,part,0.14285714285714285
+Who Knows Who Cares,Driving Home For Christmas,manor,road,0.5882352941176471
+Who Knows Who Cares,I Want You Back,knows,want,0.25
+Who Knows Who Cares,I Want You Back,knows,back,0.14285714285714285
+Who Knows Who Cares,I Want You Back,knows,sweet,0.125
+Who Knows Who Cares,I Want You Back,knows,children,0.14285714285714285
+Who Knows Who Cares,I Want You Back,knows,mine,0.13333333333333333
+Who Knows Who Cares,I Want You Back,cares,want,0.25
+Who Knows Who Cares,I Want You Back,cares,back,0.14285714285714285
+Who Knows Who Cares,I Want You Back,cares,sweet,0.125
+Who Knows Who Cares,I Want You Back,cares,children,0.14285714285714285
+Who Knows Who Cares,I Want You Back,cares,mine,0.13333333333333333
+Who Knows Who Cares,I Want You Back,gorilla,want,0.08333333333333333
+Who Knows Who Cares,I Want You Back,gorilla,back,0.18181818181818182
+Who Knows Who Cares,I Want You Back,gorilla,sweet,0.4444444444444444
+Who Knows Who Cares,I Want You Back,gorilla,children,0.48
+Who Knows Who Cares,I Want You Back,gorilla,mine,0.34782608695652173
+Who Knows Who Cares,I Want You Back,manor,want,0.1111111111111111
+Who Knows Who Cares,I Want You Back,manor,back,0.25
+Who Knows Who Cares,I Want You Back,manor,sweet,0.38095238095238093
+Who Knows Who Cares,I Want You Back,manor,children,0.42105263157894735
+Who Knows Who Cares,I Want You Back,manor,mine,0.5882352941176471
+Who Knows Who Cares,Ort,knows,place,0.14285714285714285
+Who Knows Who Cares,Ort,knows,cunning,0.5
+Who Knows Who Cares,Ort,knows,stunts,0.35294117647058826
+Who Knows Who Cares,Ort,cares,place,0.14285714285714285
+Who Knows Who Cares,Ort,cares,cunning,0.375
+Who Knows Who Cares,Ort,cares,stunts,0.5882352941176471
+Who Knows Who Cares,Ort,gorilla,place,0.2727272727272727
+Who Knows Who Cares,Ort,gorilla,cunning,0.08333333333333333
+Who Knows Who Cares,Ort,gorilla,stunts,0.08
+Who Knows Who Cares,Ort,manor,place,0.375
+Who Knows Who Cares,Ort,manor,cunning,0.1111111111111111
+Who Knows Who Cares,Ort,manor,stunts,0.10526315789473684
+Who Knows Who Cares,Don't Leave,knows,leave,0.26666666666666666
+Who Knows Who Cares,Don't Leave,knows,insomnia,0.23529411764705882
+Who Knows Who Cares,Don't Leave,knows,best,0.375
+Who Knows Who Cares,Don't Leave,cares,leave,0.26666666666666666
+Who Knows Who Cares,Don't Leave,cares,insomnia,0.23529411764705882
+Who Knows Who Cares,Don't Leave,cares,best,0.75
+Who Knows Who Cares,Don't Leave,gorilla,leave,0.08695652173913043
+Who Knows Who Cares,Don't Leave,gorilla,insomnia,0.08
+Who Knows Who Cares,Don't Leave,gorilla,best,0.08333333333333333
+Who Knows Who Cares,Don't Leave,manor,leave,0.11764705882352941
+Who Knows Who Cares,Don't Leave,manor,insomnia,0.10526315789473684
+Who Knows Who Cares,Don't Leave,manor,best,0.1111111111111111
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),knows,lp,0.1
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),knows,version,0.25
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),knows,sting,0.47058823529411764
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),knows,bumblebee,0.09523809523809523
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),knows,metal,0.26666666666666666
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),knows,kings,0.13333333333333333
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),cares,lp,0.1
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),cares,version,0.25
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),cares,sting,0.35294117647058826
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),cares,bumblebee,0.09523809523809523
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),cares,metal,0.26666666666666666
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),cares,kings,0.13333333333333333
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),gorilla,lp,0.2857142857142857
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),gorilla,sting,0.08
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),gorilla,bumblebee,0.4827586206896552
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),gorilla,metal,0.18181818181818182
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),gorilla,kings,0.46153846153846156
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),manor,lp,0.45454545454545453
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),manor,sting,0.10526315789473684
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),manor,bumblebee,0.34782608695652173
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),manor,metal,0.25
+Who Knows Who Cares,Sting Of The Bumblebee (LP Version),manor,kings,0.4
+Who Knows Who Cares,Nervous Breakdown,knows,nervous,0
+Who Knows Who Cares,Nervous Breakdown,knows,breakdown,0.3157894736842105
+Who Knows Who Cares,Nervous Breakdown,knows,lords,0.47058823529411764
+Who Knows Who Cares,Nervous Breakdown,cares,nervous,0
+Who Knows Who Cares,Nervous Breakdown,cares,breakdown,0.5263157894736842
+Who Knows Who Cares,Nervous Breakdown,cares,lords,0.35294117647058826
+Who Knows Who Cares,Nervous Breakdown,gorilla,nervous,0
+Who Knows Who Cares,Nervous Breakdown,gorilla,breakdown,0.07407407407407407
+Who Knows Who Cares,Nervous Breakdown,gorilla,lords,0.08
+Who Knows Who Cares,Nervous Breakdown,manor,nervous,0
+Who Knows Who Cares,Nervous Breakdown,manor,breakdown,0.09523809523809523
+Who Knows Who Cares,Nervous Breakdown,manor,lords,0.10526315789473684
+Who Knows Who Cares,Question And Answer (Live) (Album Version),knows,album,0.125
+Who Knows Who Cares,Question And Answer (Live) (Album Version),knows,version,0.25
+Who Knows Who Cares,Question And Answer (Live) (Album Version),knows,question,0.35294117647058826
+Who Knows Who Cares,Question And Answer (Live) (Album Version),knows,live,0
+Who Knows Who Cares,Question And Answer (Live) (Album Version),knows,answer,0.2857142857142857
+Who Knows Who Cares,Question And Answer (Live) (Album Version),knows,trio,0.25
+Who Knows Who Cares,Question And Answer (Live) (Album Version),knows,live,0
+Who Knows Who Cares,Question And Answer (Live) (Album Version),cares,album,0.125
+Who Knows Who Cares,Question And Answer (Live) (Album Version),cares,version,0.25
+Who Knows Who Cares,Question And Answer (Live) (Album Version),cares,question,0.5882352941176471
+Who Knows Who Cares,Question And Answer (Live) (Album Version),cares,live,0
+Who Knows Who Cares,Question And Answer (Live) (Album Version),cares,answer,0.2857142857142857
+Who Knows Who Cares,Question And Answer (Live) (Album Version),cares,trio,0.25
+Who Knows Who Cares,Question And Answer (Live) (Album Version),cares,live,0
+Who Knows Who Cares,Question And Answer (Live) (Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,Question And Answer (Live) (Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Question And Answer (Live) (Album Version),gorilla,question,0.08
+Who Knows Who Cares,Question And Answer (Live) (Album Version),gorilla,live,0
+Who Knows Who Cares,Question And Answer (Live) (Album Version),gorilla,answer,0.09090909090909091
+Who Knows Who Cares,Question And Answer (Live) (Album Version),gorilla,trio,0.08333333333333333
+Who Knows Who Cares,Question And Answer (Live) (Album Version),gorilla,live,0
+Who Knows Who Cares,Question And Answer (Live) (Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,Question And Answer (Live) (Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Question And Answer (Live) (Album Version),manor,question,0.10526315789473684
+Who Knows Who Cares,Question And Answer (Live) (Album Version),manor,live,0
+Who Knows Who Cares,Question And Answer (Live) (Album Version),manor,answer,0.125
+Who Knows Who Cares,Question And Answer (Live) (Album Version),manor,trio,0.1111111111111111
+Who Knows Who Cares,Question And Answer (Live) (Album Version),manor,live,0
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),knows,rubber,0.2222222222222222
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),knows,band,0.3076923076923077
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),knows,lp,0.1
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),knows,version,0.25
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),knows,rubber,0.2222222222222222
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),knows,band,0.3076923076923077
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),cares,rubber,0.2222222222222222
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),cares,band,0.3076923076923077
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),cares,lp,0.1
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),cares,version,0.25
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),cares,rubber,0.2222222222222222
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),cares,band,0.3076923076923077
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,rubber,0.16
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,band,0.09523809523809523
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,lp,0.2857142857142857
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,rubber,0.16
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),gorilla,band,0.09523809523809523
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),manor,rubber,0.21052631578947367
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),manor,band,0.13333333333333333
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),manor,lp,0.45454545454545453
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),manor,rubber,0.21052631578947367
+Who Knows Who Cares,Stretchin' Out (In A Rubber Band) (LP Version),manor,band,0.13333333333333333
+Who Knows Who Cares,Ahora soy feliz,knows,happy,0
+Who Knows Who Cares,Ahora soy feliz,knows,federal,0.125
+Who Knows Who Cares,Ahora soy feliz,knows,airlines,0.10526315789473684
+Who Knows Who Cares,Ahora soy feliz,cares,happy,0
+Who Knows Who Cares,Ahora soy feliz,cares,federal,0.125
+Who Knows Who Cares,Ahora soy feliz,cares,airlines,0.10526315789473684
+Who Knows Who Cares,Ahora soy feliz,gorilla,happy,0
+Who Knows Who Cares,Ahora soy feliz,gorilla,federal,0.4444444444444444
+Who Knows Who Cares,Ahora soy feliz,gorilla,airlines,0.2962962962962963
+Who Knows Who Cares,Ahora soy feliz,manor,happy,0
+Who Knows Who Cares,Ahora soy feliz,manor,federal,0.38095238095238093
+Who Knows Who Cares,Ahora soy feliz,manor,airlines,0.47619047619047616
+Quiet,Kathelin Gray,quiet,gray,0.10526315789473684
+Quiet,Kathelin Gray,quiet,song,0.1111111111111111
+Quiet,Kathelin Gray,quiet,x,0.10526315789473684
+Quiet,Kathelin Gray,young,gray,0.125
+Quiet,Kathelin Gray,young,song,0.13333333333333333
+Quiet,Kathelin Gray,young,x,0.125
+Quiet,Kathelin Gray,mountain,gray,0.14285714285714285
+Quiet,Kathelin Gray,mountain,song,0.15384615384615385
+Quiet,Kathelin Gray,mountain,x,0.14285714285714285
+Quiet,Heave Ho,quiet,heave,0.1
+Quiet,Heave Ho,quiet,ho,0.2222222222222222
+Quiet,Heave Ho,quiet,cunning,0.10526315789473684
+Quiet,Heave Ho,quiet,stunts,0.1
+Quiet,Heave Ho,young,heave,0.11764705882352941
+Quiet,Heave Ho,young,ho,0.26666666666666666
+Quiet,Heave Ho,young,cunning,0.125
+Quiet,Heave Ho,young,stunts,0.11764705882352941
+Quiet,Heave Ho,mountain,heave,0.13333333333333333
+Quiet,Heave Ho,mountain,ho,0.3076923076923077
+Quiet,Heave Ho,mountain,cunning,0.14285714285714285
+Quiet,Heave Ho,mountain,stunts,0.13333333333333333
+Quiet,Driving Home For Christmas,quiet,driving,0.08695652173913043
+Quiet,Driving Home For Christmas,quiet,home,0.2
+Quiet,Driving Home For Christmas,quiet,christmas,0.1111111111111111
+Quiet,Driving Home For Christmas,quiet,hell,0.23529411764705882
+Quiet,Driving Home For Christmas,quiet,part,0.13333333333333333
+Quiet,Driving Home For Christmas,quiet,road,0.2222222222222222
+Quiet,Driving Home For Christmas,young,driving,0.1
+Quiet,Driving Home For Christmas,young,home,0.35294117647058826
+Quiet,Driving Home For Christmas,young,christmas,0.13333333333333333
+Quiet,Driving Home For Christmas,young,hell,0.42857142857142855
+Quiet,Driving Home For Christmas,young,part,0.16666666666666666
+Quiet,Driving Home For Christmas,young,road,0.5333333333333333
+Quiet,Driving Home For Christmas,mountain,driving,0.1111111111111111
+Quiet,Driving Home For Christmas,mountain,home,0.4
+Quiet,Driving Home For Christmas,mountain,christmas,0.15384615384615385
+Quiet,Driving Home For Christmas,mountain,hell,0.5
+Quiet,Driving Home For Christmas,mountain,part,0.2
+Quiet,Driving Home For Christmas,mountain,road,0.46153846153846156
+Quiet,I Want You Back,quiet,want,0.10526315789473684
+Quiet,I Want You Back,quiet,back,0.23529411764705882
+Quiet,I Want You Back,quiet,sweet,0.21052631578947367
+Quiet,I Want You Back,quiet,children,0.23529411764705882
+Quiet,I Want You Back,quiet,mine,0.2222222222222222
+Quiet,I Want You Back,young,want,0.125
+Quiet,I Want You Back,young,back,0.2857142857142857
+Quiet,I Want You Back,young,sweet,0.631578947368421
+Quiet,I Want You Back,young,children,0.7058823529411765
+Quiet,I Want You Back,young,mine,0.5333333333333333
+Quiet,I Want You Back,mountain,want,0.14285714285714285
+Quiet,I Want You Back,mountain,back,0.3333333333333333
+Quiet,I Want You Back,mountain,sweet,0.375
+Quiet,I Want You Back,mountain,children,0.42857142857142855
+Quiet,I Want You Back,mountain,mine,0.46153846153846156
+Quiet,Ort,quiet,place,0.23529411764705882
+Quiet,Ort,quiet,cunning,0.10526315789473684
+Quiet,Ort,quiet,stunts,0.1
+Quiet,Ort,young,place,0.42857142857142855
+Quiet,Ort,young,cunning,0.125
+Quiet,Ort,young,stunts,0.11764705882352941
+Quiet,Ort,mountain,place,0.5
+Quiet,Ort,mountain,cunning,0.14285714285714285
+Quiet,Ort,mountain,stunts,0.13333333333333333
+Quiet,Don't Leave,quiet,leave,0.1111111111111111
+Quiet,Don't Leave,quiet,insomnia,0.1
+Quiet,Don't Leave,quiet,best,0.10526315789473684
+Quiet,Don't Leave,young,leave,0.13333333333333333
+Quiet,Don't Leave,young,insomnia,0.11764705882352941
+Quiet,Don't Leave,young,best,0.125
+Quiet,Don't Leave,mountain,leave,0.15384615384615385
+Quiet,Don't Leave,mountain,insomnia,0.13333333333333333
+Quiet,Don't Leave,mountain,best,0.14285714285714285
+Quiet,Sting Of The Bumblebee (LP Version),quiet,lp,0.17391304347826086
+Quiet,Sting Of The Bumblebee (LP Version),quiet,version,0.10526315789473684
+Quiet,Sting Of The Bumblebee (LP Version),quiet,sting,0.1
+Quiet,Sting Of The Bumblebee (LP Version),quiet,bumblebee,0.16666666666666666
+Quiet,Sting Of The Bumblebee (LP Version),quiet,metal,0.23529411764705882
+Quiet,Sting Of The Bumblebee (LP Version),quiet,kings,0.2222222222222222
+Quiet,Sting Of The Bumblebee (LP Version),young,lp,0.4
+Quiet,Sting Of The Bumblebee (LP Version),young,version,0.125
+Quiet,Sting Of The Bumblebee (LP Version),young,sting,0.11764705882352941
+Quiet,Sting Of The Bumblebee (LP Version),young,bumblebee,0.6666666666666666
+Quiet,Sting Of The Bumblebee (LP Version),young,metal,0.2857142857142857
+Quiet,Sting Of The Bumblebee (LP Version),young,kings,0.6666666666666666
+Quiet,Sting Of The Bumblebee (LP Version),mountain,lp,0.3333333333333333
+Quiet,Sting Of The Bumblebee (LP Version),mountain,version,0.14285714285714285
+Quiet,Sting Of The Bumblebee (LP Version),mountain,sting,0.13333333333333333
+Quiet,Sting Of The Bumblebee (LP Version),mountain,bumblebee,0.3157894736842105
+Quiet,Sting Of The Bumblebee (LP Version),mountain,metal,0.3333333333333333
+Quiet,Sting Of The Bumblebee (LP Version),mountain,kings,0.4
+Quiet,Nervous Breakdown,quiet,nervous,0
+Quiet,Nervous Breakdown,quiet,breakdown,0.09090909090909091
+Quiet,Nervous Breakdown,quiet,lords,0.1
+Quiet,Nervous Breakdown,young,nervous,0
+Quiet,Nervous Breakdown,young,breakdown,0.10526315789473684
+Quiet,Nervous Breakdown,young,lords,0.11764705882352941
+Quiet,Nervous Breakdown,mountain,nervous,0
+Quiet,Nervous Breakdown,mountain,breakdown,0.11764705882352941
+Quiet,Nervous Breakdown,mountain,lords,0.13333333333333333
+Quiet,Question And Answer (Live) (Album Version),quiet,album,0.21052631578947367
+Quiet,Question And Answer (Live) (Album Version),quiet,version,0.10526315789473684
+Quiet,Question And Answer (Live) (Album Version),quiet,question,0.1
+Quiet,Question And Answer (Live) (Album Version),quiet,live,0
+Quiet,Question And Answer (Live) (Album Version),quiet,answer,0.11764705882352941
+Quiet,Question And Answer (Live) (Album Version),quiet,trio,0.10526315789473684
+Quiet,Question And Answer (Live) (Album Version),quiet,live,0
+Quiet,Question And Answer (Live) (Album Version),young,album,0.5
+Quiet,Question And Answer (Live) (Album Version),young,version,0.125
+Quiet,Question And Answer (Live) (Album Version),young,question,0.11764705882352941
+Quiet,Question And Answer (Live) (Album Version),young,live,0
+Quiet,Question And Answer (Live) (Album Version),young,answer,0.14285714285714285
+Quiet,Question And Answer (Live) (Album Version),young,trio,0.125
+Quiet,Question And Answer (Live) (Album Version),young,live,0
+Quiet,Question And Answer (Live) (Album Version),mountain,album,0.42857142857142855
+Quiet,Question And Answer (Live) (Album Version),mountain,version,0.14285714285714285
+Quiet,Question And Answer (Live) (Album Version),mountain,question,0.13333333333333333
+Quiet,Question And Answer (Live) (Album Version),mountain,live,0
+Quiet,Question And Answer (Live) (Album Version),mountain,answer,0.16666666666666666
+Quiet,Question And Answer (Live) (Album Version),mountain,trio,0.14285714285714285
+Quiet,Question And Answer (Live) (Album Version),mountain,live,0
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),quiet,rubber,0.2
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),quiet,band,0.125
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),quiet,lp,0.17391304347826086
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),quiet,version,0.10526315789473684
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),quiet,rubber,0.2
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),quiet,band,0.125
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),young,rubber,0.23529411764705882
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),young,band,0.15384615384615385
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),young,lp,0.4
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),young,version,0.125
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),young,rubber,0.23529411764705882
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),young,band,0.15384615384615385
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),mountain,rubber,0.26666666666666666
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),mountain,band,0.18181818181818182
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),mountain,lp,0.3333333333333333
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),mountain,version,0.14285714285714285
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),mountain,rubber,0.26666666666666666
+Quiet,Stretchin' Out (In A Rubber Band) (LP Version),mountain,band,0.18181818181818182
+Quiet,Ahora soy feliz,quiet,happy,0
+Quiet,Ahora soy feliz,quiet,federal,0.21052631578947367
+Quiet,Ahora soy feliz,quiet,airlines,0.18181818181818182
+Quiet,Ahora soy feliz,young,happy,0
+Quiet,Ahora soy feliz,young,federal,0.631578947368421
+Quiet,Ahora soy feliz,young,airlines,0.42105263157894735
+Quiet,Ahora soy feliz,mountain,happy,0
+Quiet,Ahora soy feliz,mountain,federal,0.375
+Quiet,Ahora soy feliz,mountain,airlines,0.35294117647058826
+Girlfriend,Kathelin Gray,girlfriend,gray,0.14285714285714285
+Girlfriend,Kathelin Gray,girlfriend,song,0.15384615384615385
+Girlfriend,Kathelin Gray,girlfriend,x,0.14285714285714285
+Girlfriend,Kathelin Gray,phoenix,gray,0.10526315789473684
+Girlfriend,Kathelin Gray,phoenix,song,0.1111111111111111
+Girlfriend,Kathelin Gray,phoenix,x,0.10526315789473684
+Girlfriend,Heave Ho,girlfriend,heave,0.13333333333333333
+Girlfriend,Heave Ho,girlfriend,ho,0.3076923076923077
+Girlfriend,Heave Ho,girlfriend,cunning,0.14285714285714285
+Girlfriend,Heave Ho,girlfriend,stunts,0.13333333333333333
+Girlfriend,Heave Ho,phoenix,heave,0.1
+Girlfriend,Heave Ho,phoenix,ho,0.2222222222222222
+Girlfriend,Heave Ho,phoenix,cunning,0.10526315789473684
+Girlfriend,Heave Ho,phoenix,stunts,0.1
+Girlfriend,Driving Home For Christmas,girlfriend,driving,0.1111111111111111
+Girlfriend,Driving Home For Christmas,girlfriend,home,0.35294117647058826
+Girlfriend,Driving Home For Christmas,girlfriend,christmas,0.15384615384615385
+Girlfriend,Driving Home For Christmas,girlfriend,hell,0.42857142857142855
+Girlfriend,Driving Home For Christmas,girlfriend,part,0.2
+Girlfriend,Driving Home For Christmas,girlfriend,road,0.5
+Girlfriend,Driving Home For Christmas,phoenix,driving,0.08695652173913043
+Girlfriend,Driving Home For Christmas,phoenix,home,0.4
+Girlfriend,Driving Home For Christmas,phoenix,christmas,0.1111111111111111
+Girlfriend,Driving Home For Christmas,phoenix,hell,0.47058823529411764
+Girlfriend,Driving Home For Christmas,phoenix,part,0.13333333333333333
+Girlfriend,Driving Home For Christmas,phoenix,road,0.3333333333333333
+Girlfriend,I Want You Back,girlfriend,want,0.14285714285714285
+Girlfriend,I Want You Back,girlfriend,back,0.3333333333333333
+Girlfriend,I Want You Back,girlfriend,sweet,0.6
+Girlfriend,I Want You Back,girlfriend,children,0.6666666666666666
+Girlfriend,I Want You Back,girlfriend,mine,0.5
+Girlfriend,I Want You Back,phoenix,want,0.10526315789473684
+Girlfriend,I Want You Back,phoenix,back,0.23529411764705882
+Girlfriend,I Want You Back,phoenix,sweet,0.2857142857142857
+Girlfriend,I Want You Back,phoenix,children,0.3157894736842105
+Girlfriend,I Want You Back,phoenix,mine,0.3333333333333333
+Girlfriend,Ort,girlfriend,place,0.42857142857142855
+Girlfriend,Ort,girlfriend,cunning,0.14285714285714285
+Girlfriend,Ort,girlfriend,stunts,0.13333333333333333
+Girlfriend,Ort,phoenix,place,0.47058823529411764
+Girlfriend,Ort,phoenix,cunning,0.10526315789473684
+Girlfriend,Ort,phoenix,stunts,0.1
+Girlfriend,Don't Leave,girlfriend,leave,0.15384615384615385
+Girlfriend,Don't Leave,girlfriend,insomnia,0.13333333333333333
+Girlfriend,Don't Leave,girlfriend,best,0.14285714285714285
+Girlfriend,Don't Leave,phoenix,leave,0.1111111111111111
+Girlfriend,Don't Leave,phoenix,insomnia,0.1
+Girlfriend,Don't Leave,phoenix,best,0.10526315789473684
+Girlfriend,Sting Of The Bumblebee (LP Version),girlfriend,lp,0.38095238095238093
+Girlfriend,Sting Of The Bumblebee (LP Version),girlfriend,version,0.14285714285714285
+Girlfriend,Sting Of The Bumblebee (LP Version),girlfriend,sting,0.13333333333333333
+Girlfriend,Sting Of The Bumblebee (LP Version),girlfriend,bumblebee,0.5454545454545454
+Girlfriend,Sting Of The Bumblebee (LP Version),girlfriend,metal,0.3333333333333333
+Girlfriend,Sting Of The Bumblebee (LP Version),girlfriend,kings,0.631578947368421
+Girlfriend,Sting Of The Bumblebee (LP Version),phoenix,lp,0.2608695652173913
+Girlfriend,Sting Of The Bumblebee (LP Version),phoenix,version,0.10526315789473684
+Girlfriend,Sting Of The Bumblebee (LP Version),phoenix,sting,0.1
+Girlfriend,Sting Of The Bumblebee (LP Version),phoenix,bumblebee,0.25
+Girlfriend,Sting Of The Bumblebee (LP Version),phoenix,metal,0.23529411764705882
+Girlfriend,Sting Of The Bumblebee (LP Version),phoenix,kings,0.3
+Girlfriend,Nervous Breakdown,girlfriend,nervous,0
+Girlfriend,Nervous Breakdown,girlfriend,breakdown,0.11764705882352941
+Girlfriend,Nervous Breakdown,girlfriend,lords,0.13333333333333333
+Girlfriend,Nervous Breakdown,phoenix,nervous,0
+Girlfriend,Nervous Breakdown,phoenix,breakdown,0.09090909090909091
+Girlfriend,Nervous Breakdown,phoenix,lords,0.1
+Girlfriend,Question And Answer (Live) (Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,Question And Answer (Live) (Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,Question And Answer (Live) (Album Version),girlfriend,question,0.13333333333333333
+Girlfriend,Question And Answer (Live) (Album Version),girlfriend,live,0
+Girlfriend,Question And Answer (Live) (Album Version),girlfriend,answer,0.16666666666666666
+Girlfriend,Question And Answer (Live) (Album Version),girlfriend,trio,0.14285714285714285
+Girlfriend,Question And Answer (Live) (Album Version),girlfriend,live,0
+Girlfriend,Question And Answer (Live) (Album Version),phoenix,album,0.3157894736842105
+Girlfriend,Question And Answer (Live) (Album Version),phoenix,version,0.10526315789473684
+Girlfriend,Question And Answer (Live) (Album Version),phoenix,question,0.1
+Girlfriend,Question And Answer (Live) (Album Version),phoenix,live,0
+Girlfriend,Question And Answer (Live) (Album Version),phoenix,answer,0.11764705882352941
+Girlfriend,Question And Answer (Live) (Album Version),phoenix,trio,0.10526315789473684
+Girlfriend,Question And Answer (Live) (Album Version),phoenix,live,0
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),girlfriend,rubber,0.26666666666666666
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),girlfriend,band,0.18181818181818182
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),girlfriend,lp,0.38095238095238093
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),girlfriend,version,0.14285714285714285
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),girlfriend,rubber,0.26666666666666666
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),girlfriend,band,0.18181818181818182
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,rubber,0.2
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,band,0.125
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,lp,0.2608695652173913
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,version,0.10526315789473684
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,rubber,0.2
+Girlfriend,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,band,0.125
+Girlfriend,Ahora soy feliz,girlfriend,happy,0
+Girlfriend,Ahora soy feliz,girlfriend,federal,0.6
+Girlfriend,Ahora soy feliz,girlfriend,airlines,0.4
+Girlfriend,Ahora soy feliz,phoenix,happy,0
+Girlfriend,Ahora soy feliz,phoenix,federal,0.2857142857142857
+Girlfriend,Ahora soy feliz,phoenix,airlines,0.2727272727272727
+Happiness: We're All In It Together,Kathelin Gray,together,gray,0
+Happiness: We're All In It Together,Kathelin Gray,together,song,0
+Happiness: We're All In It Together,Kathelin Gray,together,x,0
+Happiness: We're All In It Together,Kathelin Gray,happiness,gray,0.375
+Happiness: We're All In It Together,Kathelin Gray,happiness,song,0.26666666666666666
+Happiness: We're All In It Together,Kathelin Gray,happiness,x,0.25
+Happiness: We're All In It Together,Kathelin Gray,young,gray,0.125
+Happiness: We're All In It Together,Kathelin Gray,young,song,0.13333333333333333
+Happiness: We're All In It Together,Kathelin Gray,young,x,0.125
+Happiness: We're All In It Together,Kathelin Gray,mountain,gray,0.14285714285714285
+Happiness: We're All In It Together,Kathelin Gray,mountain,song,0.15384615384615385
+Happiness: We're All In It Together,Kathelin Gray,mountain,x,0.14285714285714285
+Happiness: We're All In It Together,Heave Ho,together,heave,0
+Happiness: We're All In It Together,Heave Ho,together,ho,0
+Happiness: We're All In It Together,Heave Ho,together,cunning,0
+Happiness: We're All In It Together,Heave Ho,together,stunts,0
+Happiness: We're All In It Together,Heave Ho,happiness,heave,0.23529411764705882
+Happiness: We're All In It Together,Heave Ho,happiness,ho,0.25
+Happiness: We're All In It Together,Heave Ho,happiness,cunning,0.25
+Happiness: We're All In It Together,Heave Ho,happiness,stunts,0.23529411764705882
+Happiness: We're All In It Together,Heave Ho,young,heave,0.11764705882352941
+Happiness: We're All In It Together,Heave Ho,young,ho,0.26666666666666666
+Happiness: We're All In It Together,Heave Ho,young,cunning,0.125
+Happiness: We're All In It Together,Heave Ho,young,stunts,0.11764705882352941
+Happiness: We're All In It Together,Heave Ho,mountain,heave,0.13333333333333333
+Happiness: We're All In It Together,Heave Ho,mountain,ho,0.3076923076923077
+Happiness: We're All In It Together,Heave Ho,mountain,cunning,0.14285714285714285
+Happiness: We're All In It Together,Heave Ho,mountain,stunts,0.13333333333333333
+Happiness: We're All In It Together,Driving Home For Christmas,together,driving,0
+Happiness: We're All In It Together,Driving Home For Christmas,together,home,0
+Happiness: We're All In It Together,Driving Home For Christmas,together,christmas,0
+Happiness: We're All In It Together,Driving Home For Christmas,together,hell,0
+Happiness: We're All In It Together,Driving Home For Christmas,together,part,0
+Happiness: We're All In It Together,Driving Home For Christmas,together,road,0
+Happiness: We're All In It Together,Driving Home For Christmas,happiness,driving,0.2
+Happiness: We're All In It Together,Driving Home For Christmas,happiness,home,0.11764705882352941
+Happiness: We're All In It Together,Driving Home For Christmas,happiness,christmas,0.26666666666666666
+Happiness: We're All In It Together,Driving Home For Christmas,happiness,hell,0.14285714285714285
+Happiness: We're All In It Together,Driving Home For Christmas,happiness,part,0.3333333333333333
+Happiness: We're All In It Together,Driving Home For Christmas,happiness,road,0.13333333333333333
+Happiness: We're All In It Together,Driving Home For Christmas,young,driving,0.1
+Happiness: We're All In It Together,Driving Home For Christmas,young,home,0.35294117647058826
+Happiness: We're All In It Together,Driving Home For Christmas,young,christmas,0.13333333333333333
+Happiness: We're All In It Together,Driving Home For Christmas,young,hell,0.42857142857142855
+Happiness: We're All In It Together,Driving Home For Christmas,young,part,0.16666666666666666
+Happiness: We're All In It Together,Driving Home For Christmas,young,road,0.5333333333333333
+Happiness: We're All In It Together,Driving Home For Christmas,mountain,driving,0.1111111111111111
+Happiness: We're All In It Together,Driving Home For Christmas,mountain,home,0.4
+Happiness: We're All In It Together,Driving Home For Christmas,mountain,christmas,0.15384615384615385
+Happiness: We're All In It Together,Driving Home For Christmas,mountain,hell,0.5
+Happiness: We're All In It Together,Driving Home For Christmas,mountain,part,0.2
+Happiness: We're All In It Together,Driving Home For Christmas,mountain,road,0.46153846153846156
+Happiness: We're All In It Together,I Want You Back,together,want,0
+Happiness: We're All In It Together,I Want You Back,together,back,0
+Happiness: We're All In It Together,I Want You Back,together,sweet,0
+Happiness: We're All In It Together,I Want You Back,together,children,0
+Happiness: We're All In It Together,I Want You Back,together,mine,0
+Happiness: We're All In It Together,I Want You Back,happiness,want,0.5
+Happiness: We're All In It Together,I Want You Back,happiness,back,0.14285714285714285
+Happiness: We're All In It Together,I Want You Back,happiness,sweet,0.125
+Happiness: We're All In It Together,I Want You Back,happiness,children,0.14285714285714285
+Happiness: We're All In It Together,I Want You Back,happiness,mine,0.13333333333333333
+Happiness: We're All In It Together,I Want You Back,young,want,0.125
+Happiness: We're All In It Together,I Want You Back,young,back,0.2857142857142857
+Happiness: We're All In It Together,I Want You Back,young,sweet,0.631578947368421
+Happiness: We're All In It Together,I Want You Back,young,children,0.7058823529411765
+Happiness: We're All In It Together,I Want You Back,young,mine,0.5333333333333333
+Happiness: We're All In It Together,I Want You Back,mountain,want,0.14285714285714285
+Happiness: We're All In It Together,I Want You Back,mountain,back,0.3333333333333333
+Happiness: We're All In It Together,I Want You Back,mountain,sweet,0.375
+Happiness: We're All In It Together,I Want You Back,mountain,children,0.42857142857142855
+Happiness: We're All In It Together,I Want You Back,mountain,mine,0.46153846153846156
+Happiness: We're All In It Together,Ort,together,place,0
+Happiness: We're All In It Together,Ort,together,cunning,0
+Happiness: We're All In It Together,Ort,together,stunts,0
+Happiness: We're All In It Together,Ort,happiness,place,0.14285714285714285
+Happiness: We're All In It Together,Ort,happiness,cunning,0.25
+Happiness: We're All In It Together,Ort,happiness,stunts,0.23529411764705882
+Happiness: We're All In It Together,Ort,young,place,0.42857142857142855
+Happiness: We're All In It Together,Ort,young,cunning,0.125
+Happiness: We're All In It Together,Ort,young,stunts,0.11764705882352941
+Happiness: We're All In It Together,Ort,mountain,place,0.5
+Happiness: We're All In It Together,Ort,mountain,cunning,0.14285714285714285
+Happiness: We're All In It Together,Ort,mountain,stunts,0.13333333333333333
+Happiness: We're All In It Together,Don't Leave,together,leave,0
+Happiness: We're All In It Together,Don't Leave,together,insomnia,0
+Happiness: We're All In It Together,Don't Leave,together,best,0
+Happiness: We're All In It Together,Don't Leave,happiness,leave,0.26666666666666666
+Happiness: We're All In It Together,Don't Leave,happiness,insomnia,0.47058823529411764
+Happiness: We're All In It Together,Don't Leave,happiness,best,0.25
+Happiness: We're All In It Together,Don't Leave,young,leave,0.13333333333333333
+Happiness: We're All In It Together,Don't Leave,young,insomnia,0.11764705882352941
+Happiness: We're All In It Together,Don't Leave,young,best,0.125
+Happiness: We're All In It Together,Don't Leave,mountain,leave,0.15384615384615385
+Happiness: We're All In It Together,Don't Leave,mountain,insomnia,0.13333333333333333
+Happiness: We're All In It Together,Don't Leave,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),together,lp,0
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),together,version,0
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),together,sting,0
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),together,bumblebee,0
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),together,metal,0
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),together,kings,0
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),happiness,lp,0.1
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),happiness,version,0.25
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),happiness,sting,0.23529411764705882
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),happiness,bumblebee,0.09523809523809523
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),happiness,metal,0.26666666666666666
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),happiness,kings,0.13333333333333333
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),young,lp,0.4
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),young,version,0.125
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),young,sting,0.11764705882352941
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),young,bumblebee,0.6666666666666666
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),young,metal,0.2857142857142857
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),young,kings,0.6666666666666666
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),mountain,lp,0.3333333333333333
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),mountain,sting,0.13333333333333333
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),mountain,bumblebee,0.3157894736842105
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),mountain,metal,0.3333333333333333
+Happiness: We're All In It Together,Sting Of The Bumblebee (LP Version),mountain,kings,0.4
+Happiness: We're All In It Together,Nervous Breakdown,together,nervous,0
+Happiness: We're All In It Together,Nervous Breakdown,together,breakdown,0
+Happiness: We're All In It Together,Nervous Breakdown,together,lords,0
+Happiness: We're All In It Together,Nervous Breakdown,happiness,nervous,0
+Happiness: We're All In It Together,Nervous Breakdown,happiness,breakdown,0.21052631578947367
+Happiness: We're All In It Together,Nervous Breakdown,happiness,lords,0.23529411764705882
+Happiness: We're All In It Together,Nervous Breakdown,young,nervous,0
+Happiness: We're All In It Together,Nervous Breakdown,young,breakdown,0.10526315789473684
+Happiness: We're All In It Together,Nervous Breakdown,young,lords,0.11764705882352941
+Happiness: We're All In It Together,Nervous Breakdown,mountain,nervous,0
+Happiness: We're All In It Together,Nervous Breakdown,mountain,breakdown,0.11764705882352941
+Happiness: We're All In It Together,Nervous Breakdown,mountain,lords,0.13333333333333333
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),together,album,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),together,version,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),together,question,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),together,live,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),together,answer,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),together,trio,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),together,live,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),happiness,album,0.125
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),happiness,version,0.25
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),happiness,question,0.23529411764705882
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),happiness,live,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),happiness,answer,0.2857142857142857
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),happiness,trio,0.25
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),happiness,live,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),young,album,0.5
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),young,version,0.125
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),young,question,0.11764705882352941
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),young,live,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),young,answer,0.14285714285714285
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),young,trio,0.125
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),young,live,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),mountain,question,0.13333333333333333
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),mountain,live,0
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),mountain,answer,0.16666666666666666
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),mountain,trio,0.14285714285714285
+Happiness: We're All In It Together,Question And Answer (Live) (Album Version),mountain,live,0
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),together,rubber,0
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),together,band,0
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),together,lp,0
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),together,version,0
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),together,rubber,0
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),together,band,0
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),happiness,rubber,0.2222222222222222
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),happiness,band,0.3076923076923077
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),happiness,lp,0.1
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),happiness,version,0.25
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),happiness,rubber,0.2222222222222222
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),happiness,band,0.3076923076923077
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),young,rubber,0.23529411764705882
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),young,band,0.15384615384615385
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),young,lp,0.4
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),young,version,0.125
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),young,rubber,0.23529411764705882
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),young,band,0.15384615384615385
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),mountain,rubber,0.26666666666666666
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),mountain,band,0.18181818181818182
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),mountain,lp,0.3333333333333333
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),mountain,rubber,0.26666666666666666
+Happiness: We're All In It Together,Stretchin' Out (In A Rubber Band) (LP Version),mountain,band,0.18181818181818182
+Happiness: We're All In It Together,Ahora soy feliz,together,happy,0
+Happiness: We're All In It Together,Ahora soy feliz,together,federal,0
+Happiness: We're All In It Together,Ahora soy feliz,together,airlines,0
+Happiness: We're All In It Together,Ahora soy feliz,happiness,happy,0
+Happiness: We're All In It Together,Ahora soy feliz,happiness,federal,0.125
+Happiness: We're All In It Together,Ahora soy feliz,happiness,airlines,0.10526315789473684
+Happiness: We're All In It Together,Ahora soy feliz,young,happy,0
+Happiness: We're All In It Together,Ahora soy feliz,young,federal,0.631578947368421
+Happiness: We're All In It Together,Ahora soy feliz,young,airlines,0.42105263157894735
+Happiness: We're All In It Together,Ahora soy feliz,mountain,happy,0
+Happiness: We're All In It Together,Ahora soy feliz,mountain,federal,0.375
+Happiness: We're All In It Together,Ahora soy feliz,mountain,airlines,0.35294117647058826
+Armistice,Kathelin Gray,armistice,gray,0.4
+Armistice,Kathelin Gray,armistice,song,0.2857142857142857
+Armistice,Kathelin Gray,armistice,x,0.26666666666666666
+Armistice,Kathelin Gray,phoenix,gray,0.10526315789473684
+Armistice,Kathelin Gray,phoenix,song,0.1111111111111111
+Armistice,Kathelin Gray,phoenix,x,0.10526315789473684
+Armistice,Heave Ho,armistice,heave,0.25
+Armistice,Heave Ho,armistice,ho,0.26666666666666666
+Armistice,Heave Ho,armistice,cunning,0.26666666666666666
+Armistice,Heave Ho,armistice,stunts,0.25
+Armistice,Heave Ho,phoenix,heave,0.1
+Armistice,Heave Ho,phoenix,ho,0.2222222222222222
+Armistice,Heave Ho,phoenix,cunning,0.10526315789473684
+Armistice,Heave Ho,phoenix,stunts,0.1
+Armistice,Driving Home For Christmas,armistice,driving,0.21052631578947367
+Armistice,Driving Home For Christmas,armistice,home,0.125
+Armistice,Driving Home For Christmas,armistice,christmas,0.2857142857142857
+Armistice,Driving Home For Christmas,armistice,hell,0.15384615384615385
+Armistice,Driving Home For Christmas,armistice,part,0.36363636363636365
+Armistice,Driving Home For Christmas,armistice,road,0.14285714285714285
+Armistice,Driving Home For Christmas,phoenix,driving,0.08695652173913043
+Armistice,Driving Home For Christmas,phoenix,home,0.4
+Armistice,Driving Home For Christmas,phoenix,christmas,0.1111111111111111
+Armistice,Driving Home For Christmas,phoenix,hell,0.47058823529411764
+Armistice,Driving Home For Christmas,phoenix,part,0.13333333333333333
+Armistice,Driving Home For Christmas,phoenix,road,0.3333333333333333
+Armistice,I Want You Back,armistice,want,0.5333333333333333
+Armistice,I Want You Back,armistice,back,0.15384615384615385
+Armistice,I Want You Back,armistice,sweet,0.13333333333333333
+Armistice,I Want You Back,armistice,children,0.15384615384615385
+Armistice,I Want You Back,armistice,mine,0.14285714285714285
+Armistice,I Want You Back,phoenix,want,0.10526315789473684
+Armistice,I Want You Back,phoenix,back,0.23529411764705882
+Armistice,I Want You Back,phoenix,sweet,0.2857142857142857
+Armistice,I Want You Back,phoenix,children,0.3157894736842105
+Armistice,I Want You Back,phoenix,mine,0.3333333333333333
+Armistice,Ort,armistice,place,0.15384615384615385
+Armistice,Ort,armistice,cunning,0.26666666666666666
+Armistice,Ort,armistice,stunts,0.25
+Armistice,Ort,phoenix,place,0.47058823529411764
+Armistice,Ort,phoenix,cunning,0.10526315789473684
+Armistice,Ort,phoenix,stunts,0.1
+Armistice,Don't Leave,armistice,leave,0.2857142857142857
+Armistice,Don't Leave,armistice,insomnia,0.5
+Armistice,Don't Leave,armistice,best,0.26666666666666666
+Armistice,Don't Leave,phoenix,leave,0.1111111111111111
+Armistice,Don't Leave,phoenix,insomnia,0.1
+Armistice,Don't Leave,phoenix,best,0.10526315789473684
+Armistice,Sting Of The Bumblebee (LP Version),armistice,lp,0.10526315789473684
+Armistice,Sting Of The Bumblebee (LP Version),armistice,version,0.26666666666666666
+Armistice,Sting Of The Bumblebee (LP Version),armistice,sting,0.25
+Armistice,Sting Of The Bumblebee (LP Version),armistice,bumblebee,0.1
+Armistice,Sting Of The Bumblebee (LP Version),armistice,metal,0.2857142857142857
+Armistice,Sting Of The Bumblebee (LP Version),armistice,kings,0.14285714285714285
+Armistice,Sting Of The Bumblebee (LP Version),phoenix,lp,0.2608695652173913
+Armistice,Sting Of The Bumblebee (LP Version),phoenix,version,0.10526315789473684
+Armistice,Sting Of The Bumblebee (LP Version),phoenix,sting,0.1
+Armistice,Sting Of The Bumblebee (LP Version),phoenix,bumblebee,0.25
+Armistice,Sting Of The Bumblebee (LP Version),phoenix,metal,0.23529411764705882
+Armistice,Sting Of The Bumblebee (LP Version),phoenix,kings,0.3
+Armistice,Nervous Breakdown,armistice,nervous,0
+Armistice,Nervous Breakdown,armistice,breakdown,0.2222222222222222
+Armistice,Nervous Breakdown,armistice,lords,0.25
+Armistice,Nervous Breakdown,phoenix,nervous,0
+Armistice,Nervous Breakdown,phoenix,breakdown,0.09090909090909091
+Armistice,Nervous Breakdown,phoenix,lords,0.1
+Armistice,Question And Answer (Live) (Album Version),armistice,album,0.13333333333333333
+Armistice,Question And Answer (Live) (Album Version),armistice,version,0.26666666666666666
+Armistice,Question And Answer (Live) (Album Version),armistice,question,0.25
+Armistice,Question And Answer (Live) (Album Version),armistice,live,0
+Armistice,Question And Answer (Live) (Album Version),armistice,answer,0.3076923076923077
+Armistice,Question And Answer (Live) (Album Version),armistice,trio,0.26666666666666666
+Armistice,Question And Answer (Live) (Album Version),armistice,live,0
+Armistice,Question And Answer (Live) (Album Version),phoenix,album,0.3157894736842105
+Armistice,Question And Answer (Live) (Album Version),phoenix,version,0.10526315789473684
+Armistice,Question And Answer (Live) (Album Version),phoenix,question,0.1
+Armistice,Question And Answer (Live) (Album Version),phoenix,live,0
+Armistice,Question And Answer (Live) (Album Version),phoenix,answer,0.11764705882352941
+Armistice,Question And Answer (Live) (Album Version),phoenix,trio,0.10526315789473684
+Armistice,Question And Answer (Live) (Album Version),phoenix,live,0
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),armistice,rubber,0.23529411764705882
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),armistice,band,0.3333333333333333
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),armistice,lp,0.10526315789473684
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),armistice,version,0.26666666666666666
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),armistice,rubber,0.23529411764705882
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),armistice,band,0.3333333333333333
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,rubber,0.2
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,band,0.125
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,lp,0.2608695652173913
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,version,0.10526315789473684
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,rubber,0.2
+Armistice,Stretchin' Out (In A Rubber Band) (LP Version),phoenix,band,0.125
+Armistice,Ahora soy feliz,armistice,happy,0
+Armistice,Ahora soy feliz,armistice,federal,0.13333333333333333
+Armistice,Ahora soy feliz,armistice,airlines,0.1111111111111111
+Armistice,Ahora soy feliz,phoenix,happy,0
+Armistice,Ahora soy feliz,phoenix,federal,0.2857142857142857
+Armistice,Ahora soy feliz,phoenix,airlines,0.2727272727272727
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,remedies,gray,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,remedies,song,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,remedies,x,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,worse,gray,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,worse,song,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,worse,x,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,disease,gray,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,disease,song,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,disease,x,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,young,gray,0.125
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,young,song,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,young,x,0.125
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,mountain,gray,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,mountain,song,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Kathelin Gray,mountain,x,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Heave Ho,remedies,heave,0.4
+There Are Some Remedies Worse Than The Disease,Heave Ho,remedies,ho,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Heave Ho,remedies,cunning,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Heave Ho,remedies,stunts,0.6
+There Are Some Remedies Worse Than The Disease,Heave Ho,worse,heave,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Heave Ho,worse,ho,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Heave Ho,worse,cunning,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Heave Ho,worse,stunts,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Heave Ho,disease,heave,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Heave Ho,disease,ho,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Heave Ho,disease,cunning,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Heave Ho,disease,stunts,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Heave Ho,young,heave,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Heave Ho,young,ho,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Heave Ho,young,cunning,0.125
+There Are Some Remedies Worse Than The Disease,Heave Ho,young,stunts,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Heave Ho,mountain,heave,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Heave Ho,mountain,ho,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Heave Ho,mountain,cunning,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Heave Ho,mountain,stunts,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,remedies,driving,0.6086956521739131
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,remedies,home,0.1
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,remedies,christmas,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,remedies,hell,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,remedies,part,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,remedies,road,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,worse,driving,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,worse,home,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,worse,christmas,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,worse,hell,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,worse,part,0.4
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,worse,road,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,disease,driving,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,disease,home,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,disease,christmas,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,disease,hell,0.125
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,disease,part,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,disease,road,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,young,driving,0.1
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,young,home,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,young,christmas,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,young,hell,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,young,part,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,young,road,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,mountain,driving,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,mountain,home,0.4
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,mountain,christmas,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,mountain,hell,0.5
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,mountain,part,0.2
+There Are Some Remedies Worse Than The Disease,Driving Home For Christmas,mountain,road,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,I Want You Back,remedies,want,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,I Want You Back,remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I Want You Back,remedies,sweet,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,I Want You Back,remedies,children,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I Want You Back,remedies,mine,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,I Want You Back,worse,want,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,I Want You Back,worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,I Want You Back,worse,sweet,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I Want You Back,worse,children,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,I Want You Back,worse,mine,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,I Want You Back,disease,want,0.5555555555555556
+There Are Some Remedies Worse Than The Disease,I Want You Back,disease,back,0.125
+There Are Some Remedies Worse Than The Disease,I Want You Back,disease,sweet,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,I Want You Back,disease,children,0.125
+There Are Some Remedies Worse Than The Disease,I Want You Back,disease,mine,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I Want You Back,young,want,0.125
+There Are Some Remedies Worse Than The Disease,I Want You Back,young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,I Want You Back,young,sweet,0.631578947368421
+There Are Some Remedies Worse Than The Disease,I Want You Back,young,children,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,I Want You Back,young,mine,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,I Want You Back,mountain,want,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I Want You Back,mountain,back,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,I Want You Back,mountain,sweet,0.375
+There Are Some Remedies Worse Than The Disease,I Want You Back,mountain,children,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,I Want You Back,mountain,mine,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Ort,remedies,place,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Ort,remedies,cunning,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Ort,remedies,stunts,0.6
+There Are Some Remedies Worse Than The Disease,Ort,worse,place,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Ort,worse,cunning,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Ort,worse,stunts,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Ort,disease,place,0.125
+There Are Some Remedies Worse Than The Disease,Ort,disease,cunning,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Ort,disease,stunts,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Ort,young,place,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Ort,young,cunning,0.125
+There Are Some Remedies Worse Than The Disease,Ort,young,stunts,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Ort,mountain,place,0.5
+There Are Some Remedies Worse Than The Disease,Ort,mountain,cunning,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Ort,mountain,stunts,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Don't Leave,remedies,leave,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Don't Leave,remedies,insomnia,0.2
+There Are Some Remedies Worse Than The Disease,Don't Leave,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Don't Leave,worse,leave,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Don't Leave,worse,insomnia,0.4
+There Are Some Remedies Worse Than The Disease,Don't Leave,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Don't Leave,disease,leave,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Don't Leave,disease,insomnia,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Don't Leave,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Don't Leave,young,leave,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Don't Leave,young,insomnia,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Don't Leave,young,best,0.125
+There Are Some Remedies Worse Than The Disease,Don't Leave,mountain,leave,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Don't Leave,mountain,insomnia,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Don't Leave,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),remedies,lp,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),remedies,sting,0.3
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),remedies,bumblebee,0.08333333333333333
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),remedies,metal,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),remedies,kings,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),worse,lp,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),worse,sting,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),worse,bumblebee,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),worse,metal,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),worse,kings,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),disease,lp,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),disease,sting,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),disease,bumblebee,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),disease,metal,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),disease,kings,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),young,lp,0.4
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),young,sting,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),young,bumblebee,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),young,metal,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),young,kings,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),mountain,lp,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),mountain,sting,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),mountain,bumblebee,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),mountain,metal,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Sting Of The Bumblebee (LP Version),mountain,kings,0.4
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,remedies,nervous,0
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,remedies,breakdown,0.6363636363636364
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,remedies,lords,0.3
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,worse,nervous,0
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,worse,breakdown,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,worse,lords,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,disease,nervous,0
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,disease,breakdown,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,disease,lords,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,young,nervous,0
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,young,breakdown,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,young,lords,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,mountain,nervous,0
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,mountain,breakdown,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Nervous Breakdown,mountain,lords,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),remedies,question,0.5
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),remedies,live,0
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),remedies,answer,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),remedies,trio,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),remedies,live,0
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),worse,question,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),worse,live,0
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),worse,answer,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),worse,trio,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),worse,live,0
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),disease,question,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),disease,live,0
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),disease,answer,0.25
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),disease,trio,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),disease,live,0
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),young,question,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),young,live,0
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),young,answer,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),young,trio,0.125
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),young,live,0
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),mountain,question,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),mountain,live,0
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),mountain,answer,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),mountain,trio,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Question And Answer (Live) (Album Version),mountain,live,0
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),remedies,rubber,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),remedies,band,0.25
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),remedies,lp,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),remedies,rubber,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),remedies,band,0.25
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),worse,rubber,0.25
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),worse,band,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),worse,lp,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),worse,rubber,0.25
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),worse,band,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),disease,rubber,0.2
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),disease,band,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),disease,lp,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),disease,rubber,0.2
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),disease,band,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),young,rubber,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),young,band,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),young,lp,0.4
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),young,rubber,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),young,band,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),mountain,rubber,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),mountain,band,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),mountain,lp,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),mountain,rubber,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Stretchin' Out (In A Rubber Band) (LP Version),mountain,band,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,remedies,happy,0
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,remedies,federal,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,remedies,airlines,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,worse,happy,0
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,worse,federal,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,worse,airlines,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,disease,happy,0
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,disease,federal,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,disease,airlines,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,young,happy,0
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,young,federal,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,young,airlines,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,mountain,happy,0
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,mountain,federal,0.375
+There Are Some Remedies Worse Than The Disease,Ahora soy feliz,mountain,airlines,0.35294117647058826
+Swimming In The Flood,Kathelin Gray,swimming,gray,0.2222222222222222
+Swimming In The Flood,Kathelin Gray,swimming,song,0.23529411764705882
+Swimming In The Flood,Kathelin Gray,swimming,x,0.2222222222222222
+Swimming In The Flood,Kathelin Gray,flood,gray,0.13333333333333333
+Swimming In The Flood,Kathelin Gray,flood,song,0.14285714285714285
+Swimming In The Flood,Kathelin Gray,flood,x,0.13333333333333333
+Swimming In The Flood,Kathelin Gray,manners,gray,0.42857142857142855
+Swimming In The Flood,Kathelin Gray,manners,song,0.3076923076923077
+Swimming In The Flood,Kathelin Gray,manners,x,0.2857142857142857
+Swimming In The Flood,Heave Ho,swimming,heave,0.42105263157894735
+Swimming In The Flood,Heave Ho,swimming,ho,0.2222222222222222
+Swimming In The Flood,Heave Ho,swimming,cunning,0.3333333333333333
+Swimming In The Flood,Heave Ho,swimming,stunts,0.5263157894736842
+Swimming In The Flood,Heave Ho,flood,heave,0.125
+Swimming In The Flood,Heave Ho,flood,ho,0.2857142857142857
+Swimming In The Flood,Heave Ho,flood,cunning,0.13333333333333333
+Swimming In The Flood,Heave Ho,flood,stunts,0.125
+Swimming In The Flood,Heave Ho,manners,heave,0.26666666666666666
+Swimming In The Flood,Heave Ho,manners,ho,0.2857142857142857
+Swimming In The Flood,Heave Ho,manners,cunning,0.2857142857142857
+Swimming In The Flood,Heave Ho,manners,stunts,0.26666666666666666
+Swimming In The Flood,Driving Home For Christmas,swimming,driving,0.45454545454545453
+Swimming In The Flood,Driving Home For Christmas,swimming,home,0.10526315789473684
+Swimming In The Flood,Driving Home For Christmas,swimming,christmas,0.23529411764705882
+Swimming In The Flood,Driving Home For Christmas,swimming,hell,0.125
+Swimming In The Flood,Driving Home For Christmas,swimming,part,0.2857142857142857
+Swimming In The Flood,Driving Home For Christmas,swimming,road,0.11764705882352941
+Swimming In The Flood,Driving Home For Christmas,flood,driving,0.10526315789473684
+Swimming In The Flood,Driving Home For Christmas,flood,home,0.25
+Swimming In The Flood,Driving Home For Christmas,flood,christmas,0.14285714285714285
+Swimming In The Flood,Driving Home For Christmas,flood,hell,0.3076923076923077
+Swimming In The Flood,Driving Home For Christmas,flood,part,0.18181818181818182
+Swimming In The Flood,Driving Home For Christmas,flood,road,0.2857142857142857
+Swimming In The Flood,Driving Home For Christmas,manners,driving,0.2222222222222222
+Swimming In The Flood,Driving Home For Christmas,manners,home,0.13333333333333333
+Swimming In The Flood,Driving Home For Christmas,manners,christmas,0.3076923076923077
+Swimming In The Flood,Driving Home For Christmas,manners,hell,0.16666666666666666
+Swimming In The Flood,Driving Home For Christmas,manners,part,0.4
+Swimming In The Flood,Driving Home For Christmas,manners,road,0.15384615384615385
+Swimming In The Flood,I Want You Back,swimming,want,0.2222222222222222
+Swimming In The Flood,I Want You Back,swimming,back,0.125
+Swimming In The Flood,I Want You Back,swimming,sweet,0.1111111111111111
+Swimming In The Flood,I Want You Back,swimming,children,0.125
+Swimming In The Flood,I Want You Back,swimming,mine,0.11764705882352941
+Swimming In The Flood,I Want You Back,flood,want,0.13333333333333333
+Swimming In The Flood,I Want You Back,flood,back,0.3076923076923077
+Swimming In The Flood,I Want You Back,flood,sweet,0.26666666666666666
+Swimming In The Flood,I Want You Back,flood,children,0.3076923076923077
+Swimming In The Flood,I Want You Back,flood,mine,0.2857142857142857
+Swimming In The Flood,I Want You Back,manners,want,0.42857142857142855
+Swimming In The Flood,I Want You Back,manners,back,0.16666666666666666
+Swimming In The Flood,I Want You Back,manners,sweet,0.14285714285714285
+Swimming In The Flood,I Want You Back,manners,children,0.16666666666666666
+Swimming In The Flood,I Want You Back,manners,mine,0.15384615384615385
+Swimming In The Flood,Ort,swimming,place,0.125
+Swimming In The Flood,Ort,swimming,cunning,0.3333333333333333
+Swimming In The Flood,Ort,swimming,stunts,0.5263157894736842
+Swimming In The Flood,Ort,flood,place,0.3076923076923077
+Swimming In The Flood,Ort,flood,cunning,0.13333333333333333
+Swimming In The Flood,Ort,flood,stunts,0.125
+Swimming In The Flood,Ort,manners,place,0.16666666666666666
+Swimming In The Flood,Ort,manners,cunning,0.2857142857142857
+Swimming In The Flood,Ort,manners,stunts,0.26666666666666666
+Swimming In The Flood,Don't Leave,swimming,leave,0.23529411764705882
+Swimming In The Flood,Don't Leave,swimming,insomnia,0.21052631578947367
+Swimming In The Flood,Don't Leave,swimming,best,0.6666666666666666
+Swimming In The Flood,Don't Leave,flood,leave,0.14285714285714285
+Swimming In The Flood,Don't Leave,flood,insomnia,0.125
+Swimming In The Flood,Don't Leave,flood,best,0.13333333333333333
+Swimming In The Flood,Don't Leave,manners,leave,0.3076923076923077
+Swimming In The Flood,Don't Leave,manners,insomnia,0.4
+Swimming In The Flood,Don't Leave,manners,best,0.2857142857142857
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),swimming,lp,0.09090909090909091
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),swimming,sting,0.3157894736842105
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),swimming,bumblebee,0.08695652173913043
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),swimming,metal,0.23529411764705882
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),swimming,kings,0.11764705882352941
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),flood,lp,0.21052631578947367
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),flood,version,0.13333333333333333
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),flood,sting,0.125
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),flood,bumblebee,0.2
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),flood,metal,0.3076923076923077
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),flood,kings,0.2857142857142857
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),manners,lp,0.1111111111111111
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),manners,version,0.2857142857142857
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),manners,sting,0.26666666666666666
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),manners,bumblebee,0.10526315789473684
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),manners,metal,0.3076923076923077
+Swimming In The Flood,Sting Of The Bumblebee (LP Version),manners,kings,0.15384615384615385
+Swimming In The Flood,Nervous Breakdown,swimming,nervous,0
+Swimming In The Flood,Nervous Breakdown,swimming,breakdown,0.47619047619047616
+Swimming In The Flood,Nervous Breakdown,swimming,lords,0.3157894736842105
+Swimming In The Flood,Nervous Breakdown,flood,nervous,0
+Swimming In The Flood,Nervous Breakdown,flood,breakdown,0.1111111111111111
+Swimming In The Flood,Nervous Breakdown,flood,lords,0.125
+Swimming In The Flood,Nervous Breakdown,manners,nervous,0
+Swimming In The Flood,Nervous Breakdown,manners,breakdown,0.23529411764705882
+Swimming In The Flood,Nervous Breakdown,manners,lords,0.26666666666666666
+Swimming In The Flood,Question And Answer (Live) (Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,Question And Answer (Live) (Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Question And Answer (Live) (Album Version),swimming,question,0.5263157894736842
+Swimming In The Flood,Question And Answer (Live) (Album Version),swimming,live,0
+Swimming In The Flood,Question And Answer (Live) (Album Version),swimming,answer,0.25
+Swimming In The Flood,Question And Answer (Live) (Album Version),swimming,trio,0.2222222222222222
+Swimming In The Flood,Question And Answer (Live) (Album Version),swimming,live,0
+Swimming In The Flood,Question And Answer (Live) (Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,Question And Answer (Live) (Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,Question And Answer (Live) (Album Version),flood,question,0.125
+Swimming In The Flood,Question And Answer (Live) (Album Version),flood,live,0
+Swimming In The Flood,Question And Answer (Live) (Album Version),flood,answer,0.15384615384615385
+Swimming In The Flood,Question And Answer (Live) (Album Version),flood,trio,0.13333333333333333
+Swimming In The Flood,Question And Answer (Live) (Album Version),flood,live,0
+Swimming In The Flood,Question And Answer (Live) (Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,Question And Answer (Live) (Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,Question And Answer (Live) (Album Version),manners,question,0.26666666666666666
+Swimming In The Flood,Question And Answer (Live) (Album Version),manners,live,0
+Swimming In The Flood,Question And Answer (Live) (Album Version),manners,answer,0.3333333333333333
+Swimming In The Flood,Question And Answer (Live) (Album Version),manners,trio,0.2857142857142857
+Swimming In The Flood,Question And Answer (Live) (Album Version),manners,live,0
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),swimming,rubber,0.2
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),swimming,band,0.26666666666666666
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),swimming,lp,0.09090909090909091
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),swimming,rubber,0.2
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),swimming,band,0.26666666666666666
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),flood,rubber,0.25
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),flood,band,0.16666666666666666
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),flood,lp,0.21052631578947367
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),flood,version,0.13333333333333333
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),flood,rubber,0.25
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),flood,band,0.16666666666666666
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),manners,rubber,0.25
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),manners,band,0.36363636363636365
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),manners,lp,0.1111111111111111
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),manners,version,0.2857142857142857
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),manners,rubber,0.25
+Swimming In The Flood,Stretchin' Out (In A Rubber Band) (LP Version),manners,band,0.36363636363636365
+Swimming In The Flood,Ahora soy feliz,swimming,happy,0
+Swimming In The Flood,Ahora soy feliz,swimming,federal,0.1111111111111111
+Swimming In The Flood,Ahora soy feliz,swimming,airlines,0.09523809523809523
+Swimming In The Flood,Ahora soy feliz,flood,happy,0
+Swimming In The Flood,Ahora soy feliz,flood,federal,0.26666666666666666
+Swimming In The Flood,Ahora soy feliz,flood,airlines,0.2222222222222222
+Swimming In The Flood,Ahora soy feliz,manners,happy,0
+Swimming In The Flood,Ahora soy feliz,manners,federal,0.14285714285714285
+Swimming In The Flood,Ahora soy feliz,manners,airlines,0.11764705882352941

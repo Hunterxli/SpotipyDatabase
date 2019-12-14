@@ -50,8 +50,8 @@ def Calavg():
 			final = calculation + cal2 + cal3
 			#print("final result: {}".format(final))
 			print("'{}' and '{}': {}".format(song1, song2, final))
-			print(word2)
-			#print("\n")
+			#print(word2)
+			print("\n")
 			song1list.append(song1)
 			song2list.append(song2)
 			cal1list.append(calculation)

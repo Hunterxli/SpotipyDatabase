@@ -1,0 +1,1518 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,I'm Your Boogie Man,sun,boogie,0.125
+Sun Hands,I'm Your Boogie Man,sun,man,0.47058823529411764
+Sun Hands,I'm Your Boogie Man,sun,best,0.125
+Sun Hands,I'm Your Boogie Man,hands,boogie,0.23529411764705882
+Sun Hands,I'm Your Boogie Man,hands,man,0.13333333333333333
+Sun Hands,I'm Your Boogie Man,hands,best,0.5555555555555556
+Sun Hands,I'm Your Boogie Man,gorilla,boogie,0.08333333333333333
+Sun Hands,I'm Your Boogie Man,gorilla,man,0.48
+Sun Hands,I'm Your Boogie Man,gorilla,best,0.08333333333333333
+Sun Hands,I'm Your Boogie Man,manor,boogie,0.1111111111111111
+Sun Hands,I'm Your Boogie Man,manor,man,0.42105263157894735
+Sun Hands,I'm Your Boogie Man,manor,best,0.1111111111111111
+Sun Hands,Shook Me All Night Long,sun,night,0.14285714285714285
+Sun Hands,Shook Me All Night Long,sun,long,0
+Sun Hands,Shook Me All Night Long,sun,shook,0.4444444444444444
+Sun Hands,Shook Me All Night Long,sun,stubbs,0.42105263157894735
+Sun Hands,Shook Me All Night Long,sun,live,0
+Sun Hands,Shook Me All Night Long,hands,night,0.26666666666666666
+Sun Hands,Shook Me All Night Long,hands,long,0
+Sun Hands,Shook Me All Night Long,hands,shook,0.10526315789473684
+Sun Hands,Shook Me All Night Long,hands,stubbs,0.11764705882352941
+Sun Hands,Shook Me All Night Long,hands,live,0
+Sun Hands,Shook Me All Night Long,gorilla,night,0.09090909090909091
+Sun Hands,Shook Me All Night Long,gorilla,long,0
+Sun Hands,Shook Me All Night Long,gorilla,shook,0.3076923076923077
+Sun Hands,Shook Me All Night Long,gorilla,stubbs,0.4444444444444444
+Sun Hands,Shook Me All Night Long,gorilla,live,0
+Sun Hands,Shook Me All Night Long,manor,night,0.125
+Sun Hands,Shook Me All Night Long,manor,long,0
+Sun Hands,Shook Me All Night Long,manor,shook,0.5
+Sun Hands,Shook Me All Night Long,manor,stubbs,0.38095238095238093
+Sun Hands,Shook Me All Night Long,manor,live,0
+Sun Hands,Wishing For This,sun,wishing,0.13333333333333333
+Sun Hands,Wishing For This,sun,wishing,0.13333333333333333
+Sun Hands,Wishing For This,hands,wishing,0.25
+Sun Hands,Wishing For This,hands,wishing,0.25
+Sun Hands,Wishing For This,gorilla,wishing,0.08695652173913043
+Sun Hands,Wishing For This,gorilla,wishing,0.08695652173913043
+Sun Hands,Wishing For This,manor,wishing,0.11764705882352941
+Sun Hands,Wishing For This,manor,wishing,0.11764705882352941
+Sun Hands,Rocks Off,sun,rocks,0.7142857142857143
+Sun Hands,Rocks Off,sun,main,0.3076923076923077
+Sun Hands,Rocks Off,sun,exile,0.4444444444444444
+Sun Hands,Rocks Off,hands,rocks,0.13333333333333333
+Sun Hands,Rocks Off,hands,main,0.14285714285714285
+Sun Hands,Rocks Off,hands,exile,0.125
+Sun Hands,Rocks Off,gorilla,rocks,0.36363636363636365
+Sun Hands,Rocks Off,gorilla,main,0.19047619047619047
+Sun Hands,Rocks Off,gorilla,exile,0.46153846153846156
+Sun Hands,Rocks Off,manor,rocks,0.5
+Sun Hands,Rocks Off,manor,main,0.26666666666666666
+Sun Hands,Rocks Off,manor,exile,0.4
+Sun Hands,Save The Best For Last,sun,save,0.125
+Sun Hands,Save The Best For Last,sun,last,0.14285714285714285
+Sun Hands,Save The Best For Last,sun,best,0.125
+Sun Hands,Save The Best For Last,sun,comfort,0.14285714285714285
+Sun Hands,Save The Best For Last,sun,zone,0.4
+Sun Hands,Save The Best For Last,hands,save,0.5555555555555556
+Sun Hands,Save The Best For Last,hands,last,0.26666666666666666
+Sun Hands,Save The Best For Last,hands,best,0.5555555555555556
+Sun Hands,Save The Best For Last,hands,comfort,0.26666666666666666
+Sun Hands,Save The Best For Last,hands,zone,0.125
+Sun Hands,Save The Best For Last,gorilla,save,0.08333333333333333
+Sun Hands,Save The Best For Last,gorilla,last,0.09090909090909091
+Sun Hands,Save The Best For Last,gorilla,best,0.08333333333333333
+Sun Hands,Save The Best For Last,gorilla,comfort,0.09090909090909091
+Sun Hands,Save The Best For Last,gorilla,zone,0.2608695652173913
+Sun Hands,Save The Best For Last,manor,save,0.1111111111111111
+Sun Hands,Save The Best For Last,manor,last,0.125
+Sun Hands,Save The Best For Last,manor,best,0.1111111111111111
+Sun Hands,Save The Best For Last,manor,comfort,0.125
+Sun Hands,Save The Best For Last,manor,zone,0.35294117647058826
+Sun Hands,Secret Lovers,sun,secret,0.14285714285714285
+Sun Hands,Secret Lovers,sun,lovers,0.5
+Sun Hands,Secret Lovers,sun,true,0.13333333333333333
+Sun Hands,Secret Lovers,sun,school,0.125
+Sun Hands,Secret Lovers,sun,party,0.14285714285714285
+Sun Hands,Secret Lovers,hands,secret,0.26666666666666666
+Sun Hands,Secret Lovers,hands,lovers,0.14285714285714285
+Sun Hands,Secret Lovers,hands,true,0.25
+Sun Hands,Secret Lovers,hands,school,0.23529411764705882
+Sun Hands,Secret Lovers,hands,party,0.26666666666666666
+Sun Hands,Secret Lovers,gorilla,secret,0.09090909090909091
+Sun Hands,Secret Lovers,gorilla,lovers,0.5
+Sun Hands,Secret Lovers,gorilla,true,0.08695652173913043
+Sun Hands,Secret Lovers,gorilla,school,0.08333333333333333
+Sun Hands,Secret Lovers,gorilla,party,0.09090909090909091
+Sun Hands,Secret Lovers,manor,secret,0.125
+Sun Hands,Secret Lovers,manor,lovers,0.4444444444444444
+Sun Hands,Secret Lovers,manor,true,0.11764705882352941
+Sun Hands,Secret Lovers,manor,school,0.1111111111111111
+Sun Hands,Secret Lovers,manor,party,0.125
+Sun Hands,Back & Forth,sun,forth,0.26666666666666666
+Sun Hands,Back & Forth,sun,back,0.2857142857142857
+Sun Hands,Back & Forth,sun,number,0.13333333333333333
+Sun Hands,Back & Forth,sun,nothing,0.15384615384615385
+Sun Hands,Back & Forth,sun,age,0.15384615384615385
+Sun Hands,Back & Forth,hands,forth,0.125
+Sun Hands,Back & Forth,hands,back,0.13333333333333333
+Sun Hands,Back & Forth,hands,number,0.25
+Sun Hands,Back & Forth,hands,nothing,0.2857142857142857
+Sun Hands,Back & Forth,hands,age,0.2857142857142857
+Sun Hands,Back & Forth,gorilla,forth,0.17391304347826086
+Sun Hands,Back & Forth,gorilla,back,0.18181818181818182
+Sun Hands,Back & Forth,gorilla,number,0.08695652173913043
+Sun Hands,Back & Forth,gorilla,nothing,0.09523809523809523
+Sun Hands,Back & Forth,gorilla,age,0.09523809523809523
+Sun Hands,Back & Forth,manor,forth,0.23529411764705882
+Sun Hands,Back & Forth,manor,back,0.25
+Sun Hands,Back & Forth,manor,number,0.11764705882352941
+Sun Hands,Back & Forth,manor,nothing,0.13333333333333333
+Sun Hands,Back & Forth,manor,age,0.13333333333333333
+Sun Hands,O Sanctissima,sun,oh,0.3333333333333333
+Sun Hands,O Sanctissima,sun,god,0.125
+Sun Hands,O Sanctissima,sun,hymns,0.125
+Sun Hands,O Sanctissima,hands,oh,0.10526315789473684
+Sun Hands,O Sanctissima,hands,god,0.35294117647058826
+Sun Hands,O Sanctissima,hands,hymns,0.23529411764705882
+Sun Hands,O Sanctissima,gorilla,oh,0.23076923076923078
+Sun Hands,O Sanctissima,gorilla,god,0.08333333333333333
+Sun Hands,O Sanctissima,gorilla,hymns,0.08333333333333333
+Sun Hands,O Sanctissima,manor,oh,0.3
+Sun Hands,O Sanctissima,manor,god,0.1111111111111111
+Sun Hands,O Sanctissima,manor,hymns,0.1111111111111111
+Sun Hands,A Voice Calling Out,sun,voice,0.13333333333333333
+Sun Hands,A Voice Calling Out,sun,calling,0.125
+Sun Hands,A Voice Calling Out,hands,voice,0.25
+Sun Hands,A Voice Calling Out,hands,calling,0.5555555555555556
+Sun Hands,A Voice Calling Out,gorilla,voice,0.08695652173913043
+Sun Hands,A Voice Calling Out,gorilla,calling,0.08333333333333333
+Sun Hands,A Voice Calling Out,manor,voice,0.11764705882352941
+Sun Hands,A Voice Calling Out,manor,calling,0.1111111111111111
+Sun Hands,Heaven must have send you,sun,heaven,0.42857142857142855
+Sun Hands,Heaven must have send you,sun,must,0.3076923076923077
+Sun Hands,Heaven must have send you,sun,send,0
+Sun Hands,Heaven must have send you,sun,detroit,0.375
+Sun Hands,Heaven must have send you,sun,best,0.125
+Sun Hands,Heaven must have send you,hands,heaven,0.13333333333333333
+Sun Hands,Heaven must have send you,hands,must,0.14285714285714285
+Sun Hands,Heaven must have send you,hands,send,0
+Sun Hands,Heaven must have send you,hands,detroit,0.11764705882352941
+Sun Hands,Heaven must have send you,hands,best,0.5555555555555556
+Sun Hands,Heaven must have send you,gorilla,heaven,0.2727272727272727
+Sun Hands,Heaven must have send you,gorilla,must,0.19047619047619047
+Sun Hands,Heaven must have send you,gorilla,send,0
+Sun Hands,Heaven must have send you,gorilla,detroit,0.25
+Sun Hands,Heaven must have send you,gorilla,best,0.08333333333333333
+Sun Hands,Heaven must have send you,manor,heaven,0.375
+Sun Hands,Heaven must have send you,manor,must,0.26666666666666666
+Sun Hands,Heaven must have send you,manor,send,0
+Sun Hands,Heaven must have send you,manor,detroit,0.3333333333333333
+Sun Hands,Heaven must have send you,manor,best,0.1111111111111111
+Sun Hands,Summer,sun,summer,0.13333333333333333
+Sun Hands,Summer,sun,crucial,0
+Sun Hands,Summer,sun,conspiracy,0.13333333333333333
+Sun Hands,Summer,hands,summer,0.25
+Sun Hands,Summer,hands,crucial,0
+Sun Hands,Summer,hands,conspiracy,0.25
+Sun Hands,Summer,gorilla,summer,0.08695652173913043
+Sun Hands,Summer,gorilla,crucial,0
+Sun Hands,Summer,gorilla,conspiracy,0.08695652173913043
+Sun Hands,Summer,manor,summer,0.11764705882352941
+Sun Hands,Summer,manor,crucial,0
+Sun Hands,Summer,manor,conspiracy,0.11764705882352941
+Camera Talk,I'm Your Boogie Man,camera,boogie,0.11764705882352941
+Camera Talk,I'm Your Boogie Man,camera,man,0.4444444444444444
+Camera Talk,I'm Your Boogie Man,camera,best,0.11764705882352941
+Camera Talk,I'm Your Boogie Man,talk,boogie,0.5
+Camera Talk,I'm Your Boogie Man,talk,man,0.15384615384615385
+Camera Talk,I'm Your Boogie Man,talk,best,0.26666666666666666
+Camera Talk,I'm Your Boogie Man,camera,boogie,0.11764705882352941
+Camera Talk,I'm Your Boogie Man,camera,man,0.4444444444444444
+Camera Talk,I'm Your Boogie Man,camera,best,0.11764705882352941
+Camera Talk,I'm Your Boogie Man,talk,boogie,0.5
+Camera Talk,I'm Your Boogie Man,talk,man,0.15384615384615385
+Camera Talk,I'm Your Boogie Man,talk,best,0.26666666666666666
+Camera Talk,Shook Me All Night Long,camera,night,0.13333333333333333
+Camera Talk,Shook Me All Night Long,camera,long,0
+Camera Talk,Shook Me All Night Long,camera,shook,0.631578947368421
+Camera Talk,Shook Me All Night Long,camera,stubbs,0.4
+Camera Talk,Shook Me All Night Long,camera,live,0
+Camera Talk,Shook Me All Night Long,talk,night,0.3076923076923077
+Camera Talk,Shook Me All Night Long,talk,long,0
+Camera Talk,Shook Me All Night Long,talk,shook,0.11764705882352941
+Camera Talk,Shook Me All Night Long,talk,stubbs,0.13333333333333333
+Camera Talk,Shook Me All Night Long,talk,live,0
+Camera Talk,Shook Me All Night Long,camera,night,0.13333333333333333
+Camera Talk,Shook Me All Night Long,camera,long,0
+Camera Talk,Shook Me All Night Long,camera,shook,0.631578947368421
+Camera Talk,Shook Me All Night Long,camera,stubbs,0.4
+Camera Talk,Shook Me All Night Long,camera,live,0
+Camera Talk,Shook Me All Night Long,talk,night,0.3076923076923077
+Camera Talk,Shook Me All Night Long,talk,long,0
+Camera Talk,Shook Me All Night Long,talk,shook,0.11764705882352941
+Camera Talk,Shook Me All Night Long,talk,stubbs,0.13333333333333333
+Camera Talk,Shook Me All Night Long,talk,live,0
+Camera Talk,Wishing For This,camera,wishing,0.125
+Camera Talk,Wishing For This,camera,wishing,0.125
+Camera Talk,Wishing For This,talk,wishing,0.2857142857142857
+Camera Talk,Wishing For This,talk,wishing,0.2857142857142857
+Camera Talk,Wishing For This,camera,wishing,0.125
+Camera Talk,Wishing For This,camera,wishing,0.125
+Camera Talk,Wishing For This,talk,wishing,0.2857142857142857
+Camera Talk,Wishing For This,talk,wishing,0.2857142857142857
+Camera Talk,Rocks Off,camera,rocks,0.5333333333333333
+Camera Talk,Rocks Off,camera,main,0.2857142857142857
+Camera Talk,Rocks Off,camera,exile,0.42105263157894735
+Camera Talk,Rocks Off,talk,rocks,0.15384615384615385
+Camera Talk,Rocks Off,talk,main,0.16666666666666666
+Camera Talk,Rocks Off,talk,exile,0.14285714285714285
+Camera Talk,Rocks Off,camera,rocks,0.5333333333333333
+Camera Talk,Rocks Off,camera,main,0.2857142857142857
+Camera Talk,Rocks Off,camera,exile,0.42105263157894735
+Camera Talk,Rocks Off,talk,rocks,0.15384615384615385
+Camera Talk,Rocks Off,talk,main,0.16666666666666666
+Camera Talk,Rocks Off,talk,exile,0.14285714285714285
+Camera Talk,Save The Best For Last,camera,save,0.11764705882352941
+Camera Talk,Save The Best For Last,camera,last,0.13333333333333333
+Camera Talk,Save The Best For Last,camera,best,0.11764705882352941
+Camera Talk,Save The Best For Last,camera,comfort,0.13333333333333333
+Camera Talk,Save The Best For Last,camera,zone,0.375
+Camera Talk,Save The Best For Last,talk,save,0.26666666666666666
+Camera Talk,Save The Best For Last,talk,last,0.3076923076923077
+Camera Talk,Save The Best For Last,talk,best,0.26666666666666666
+Camera Talk,Save The Best For Last,talk,comfort,0.3076923076923077
+Camera Talk,Save The Best For Last,talk,zone,0.14285714285714285
+Camera Talk,Save The Best For Last,camera,save,0.11764705882352941
+Camera Talk,Save The Best For Last,camera,last,0.13333333333333333
+Camera Talk,Save The Best For Last,camera,best,0.11764705882352941
+Camera Talk,Save The Best For Last,camera,comfort,0.13333333333333333
+Camera Talk,Save The Best For Last,camera,zone,0.375
+Camera Talk,Save The Best For Last,talk,save,0.26666666666666666
+Camera Talk,Save The Best For Last,talk,last,0.3076923076923077
+Camera Talk,Save The Best For Last,talk,best,0.26666666666666666
+Camera Talk,Save The Best For Last,talk,comfort,0.3076923076923077
+Camera Talk,Save The Best For Last,talk,zone,0.14285714285714285
+Camera Talk,Secret Lovers,camera,secret,0.13333333333333333
+Camera Talk,Secret Lovers,camera,lovers,0.47058823529411764
+Camera Talk,Secret Lovers,camera,true,0.125
+Camera Talk,Secret Lovers,camera,school,0.11764705882352941
+Camera Talk,Secret Lovers,camera,party,0.13333333333333333
+Camera Talk,Secret Lovers,talk,secret,0.46153846153846156
+Camera Talk,Secret Lovers,talk,lovers,0.16666666666666666
+Camera Talk,Secret Lovers,talk,true,0.2857142857142857
+Camera Talk,Secret Lovers,talk,school,0.26666666666666666
+Camera Talk,Secret Lovers,talk,party,0.3076923076923077
+Camera Talk,Secret Lovers,camera,secret,0.13333333333333333
+Camera Talk,Secret Lovers,camera,lovers,0.47058823529411764
+Camera Talk,Secret Lovers,camera,true,0.125
+Camera Talk,Secret Lovers,camera,school,0.11764705882352941
+Camera Talk,Secret Lovers,camera,party,0.13333333333333333
+Camera Talk,Secret Lovers,talk,secret,0.46153846153846156
+Camera Talk,Secret Lovers,talk,lovers,0.16666666666666666
+Camera Talk,Secret Lovers,talk,true,0.2857142857142857
+Camera Talk,Secret Lovers,talk,school,0.26666666666666666
+Camera Talk,Secret Lovers,talk,party,0.3076923076923077
+Camera Talk,Back & Forth,camera,forth,0.25
+Camera Talk,Back & Forth,camera,back,0.26666666666666666
+Camera Talk,Back & Forth,camera,number,0.125
+Camera Talk,Back & Forth,camera,nothing,0.14285714285714285
+Camera Talk,Back & Forth,camera,age,0.14285714285714285
+Camera Talk,Back & Forth,talk,forth,0.14285714285714285
+Camera Talk,Back & Forth,talk,back,0.15384615384615385
+Camera Talk,Back & Forth,talk,number,0.2857142857142857
+Camera Talk,Back & Forth,talk,nothing,0.3333333333333333
+Camera Talk,Back & Forth,talk,age,0.3333333333333333
+Camera Talk,Back & Forth,camera,forth,0.25
+Camera Talk,Back & Forth,camera,back,0.26666666666666666
+Camera Talk,Back & Forth,camera,number,0.125
+Camera Talk,Back & Forth,camera,nothing,0.14285714285714285
+Camera Talk,Back & Forth,camera,age,0.14285714285714285
+Camera Talk,Back & Forth,talk,forth,0.14285714285714285
+Camera Talk,Back & Forth,talk,back,0.15384615384615385
+Camera Talk,Back & Forth,talk,number,0.2857142857142857
+Camera Talk,Back & Forth,talk,nothing,0.3333333333333333
+Camera Talk,Back & Forth,talk,age,0.3333333333333333
+Camera Talk,O Sanctissima,camera,oh,0.3157894736842105
+Camera Talk,O Sanctissima,camera,god,0.11764705882352941
+Camera Talk,O Sanctissima,camera,hymns,0.11764705882352941
+Camera Talk,O Sanctissima,talk,oh,0.11764705882352941
+Camera Talk,O Sanctissima,talk,god,0.26666666666666666
+Camera Talk,O Sanctissima,talk,hymns,0.5
+Camera Talk,O Sanctissima,camera,oh,0.3157894736842105
+Camera Talk,O Sanctissima,camera,god,0.11764705882352941
+Camera Talk,O Sanctissima,camera,hymns,0.11764705882352941
+Camera Talk,O Sanctissima,talk,oh,0.11764705882352941
+Camera Talk,O Sanctissima,talk,god,0.26666666666666666
+Camera Talk,O Sanctissima,talk,hymns,0.5
+Camera Talk,A Voice Calling Out,camera,voice,0.125
+Camera Talk,A Voice Calling Out,camera,calling,0.11764705882352941
+Camera Talk,A Voice Calling Out,talk,voice,0.2857142857142857
+Camera Talk,A Voice Calling Out,talk,calling,0.26666666666666666
+Camera Talk,A Voice Calling Out,camera,voice,0.125
+Camera Talk,A Voice Calling Out,camera,calling,0.11764705882352941
+Camera Talk,A Voice Calling Out,talk,voice,0.2857142857142857
+Camera Talk,A Voice Calling Out,talk,calling,0.26666666666666666
+Camera Talk,Heaven must have send you,camera,heaven,0.4
+Camera Talk,Heaven must have send you,camera,must,0.2857142857142857
+Camera Talk,Heaven must have send you,camera,send,0
+Camera Talk,Heaven must have send you,camera,detroit,0.35294117647058826
+Camera Talk,Heaven must have send you,camera,best,0.11764705882352941
+Camera Talk,Heaven must have send you,talk,heaven,0.15384615384615385
+Camera Talk,Heaven must have send you,talk,must,0.16666666666666666
+Camera Talk,Heaven must have send you,talk,send,0
+Camera Talk,Heaven must have send you,talk,detroit,0.13333333333333333
+Camera Talk,Heaven must have send you,talk,best,0.26666666666666666
+Camera Talk,Heaven must have send you,camera,heaven,0.4
+Camera Talk,Heaven must have send you,camera,must,0.2857142857142857
+Camera Talk,Heaven must have send you,camera,send,0
+Camera Talk,Heaven must have send you,camera,detroit,0.35294117647058826
+Camera Talk,Heaven must have send you,camera,best,0.11764705882352941
+Camera Talk,Heaven must have send you,talk,heaven,0.15384615384615385
+Camera Talk,Heaven must have send you,talk,must,0.16666666666666666
+Camera Talk,Heaven must have send you,talk,send,0
+Camera Talk,Heaven must have send you,talk,detroit,0.13333333333333333
+Camera Talk,Heaven must have send you,talk,best,0.26666666666666666
+Camera Talk,Summer,camera,summer,0.125
+Camera Talk,Summer,camera,crucial,0
+Camera Talk,Summer,camera,conspiracy,0.125
+Camera Talk,Summer,talk,summer,0.2857142857142857
+Camera Talk,Summer,talk,crucial,0
+Camera Talk,Summer,talk,conspiracy,0.42857142857142855
+Camera Talk,Summer,camera,summer,0.125
+Camera Talk,Summer,camera,crucial,0
+Camera Talk,Summer,camera,conspiracy,0.125
+Camera Talk,Summer,talk,summer,0.2857142857142857
+Camera Talk,Summer,talk,crucial,0
+Camera Talk,Summer,talk,conspiracy,0.42857142857142855
+Belle,I'm Your Boogie Man,beautiful,boogie,0
+Belle,I'm Your Boogie Man,beautiful,man,0
+Belle,I'm Your Boogie Man,beautiful,best,0
+Belle,I'm Your Boogie Man,dreams,boogie,0.23529411764705882
+Belle,I'm Your Boogie Man,dreams,man,0.13333333333333333
+Belle,I'm Your Boogie Man,dreams,best,0.35294117647058826
+Belle,Shook Me All Night Long,beautiful,night,0
+Belle,Shook Me All Night Long,beautiful,long,0
+Belle,Shook Me All Night Long,beautiful,shook,0
+Belle,Shook Me All Night Long,beautiful,stubbs,0
+Belle,Shook Me All Night Long,beautiful,live,0
+Belle,Shook Me All Night Long,dreams,night,0.26666666666666666
+Belle,Shook Me All Night Long,dreams,long,0
+Belle,Shook Me All Night Long,dreams,shook,0.10526315789473684
+Belle,Shook Me All Night Long,dreams,stubbs,0.11764705882352941
+Belle,Shook Me All Night Long,dreams,live,0
+Belle,Wishing For This,beautiful,wishing,0
+Belle,Wishing For This,beautiful,wishing,0
+Belle,Wishing For This,dreams,wishing,0.25
+Belle,Wishing For This,dreams,wishing,0.25
+Belle,Rocks Off,beautiful,rocks,0
+Belle,Rocks Off,beautiful,main,0
+Belle,Rocks Off,beautiful,exile,0
+Belle,Rocks Off,dreams,rocks,0.13333333333333333
+Belle,Rocks Off,dreams,main,0.14285714285714285
+Belle,Rocks Off,dreams,exile,0.125
+Belle,Save The Best For Last,beautiful,save,0
+Belle,Save The Best For Last,beautiful,last,0
+Belle,Save The Best For Last,beautiful,best,0
+Belle,Save The Best For Last,beautiful,comfort,0
+Belle,Save The Best For Last,beautiful,zone,0
+Belle,Save The Best For Last,dreams,save,0.35294117647058826
+Belle,Save The Best For Last,dreams,last,0.26666666666666666
+Belle,Save The Best For Last,dreams,best,0.35294117647058826
+Belle,Save The Best For Last,dreams,comfort,0.26666666666666666
+Belle,Save The Best For Last,dreams,zone,0.125
+Belle,Secret Lovers,beautiful,secret,0
+Belle,Secret Lovers,beautiful,lovers,0
+Belle,Secret Lovers,beautiful,true,0
+Belle,Secret Lovers,beautiful,school,0
+Belle,Secret Lovers,beautiful,party,0
+Belle,Secret Lovers,dreams,secret,0.26666666666666666
+Belle,Secret Lovers,dreams,lovers,0.14285714285714285
+Belle,Secret Lovers,dreams,true,0.25
+Belle,Secret Lovers,dreams,school,0.23529411764705882
+Belle,Secret Lovers,dreams,party,0.26666666666666666
+Belle,Back & Forth,beautiful,forth,0
+Belle,Back & Forth,beautiful,back,0
+Belle,Back & Forth,beautiful,number,0
+Belle,Back & Forth,beautiful,nothing,0
+Belle,Back & Forth,beautiful,age,0
+Belle,Back & Forth,dreams,forth,0.125
+Belle,Back & Forth,dreams,back,0.13333333333333333
+Belle,Back & Forth,dreams,number,0.25
+Belle,Back & Forth,dreams,nothing,0.2857142857142857
+Belle,Back & Forth,dreams,age,0.2857142857142857
+Belle,O Sanctissima,beautiful,oh,0
+Belle,O Sanctissima,beautiful,god,0
+Belle,O Sanctissima,beautiful,hymns,0
+Belle,O Sanctissima,dreams,oh,0.10526315789473684
+Belle,O Sanctissima,dreams,god,0.47058823529411764
+Belle,O Sanctissima,dreams,hymns,0.23529411764705882
+Belle,A Voice Calling Out,beautiful,voice,0
+Belle,A Voice Calling Out,beautiful,calling,0
+Belle,A Voice Calling Out,dreams,voice,0.25
+Belle,A Voice Calling Out,dreams,calling,0.35294117647058826
+Belle,Heaven must have send you,beautiful,heaven,0
+Belle,Heaven must have send you,beautiful,must,0
+Belle,Heaven must have send you,beautiful,send,0
+Belle,Heaven must have send you,beautiful,detroit,0
+Belle,Heaven must have send you,beautiful,best,0
+Belle,Heaven must have send you,dreams,heaven,0.13333333333333333
+Belle,Heaven must have send you,dreams,must,0.14285714285714285
+Belle,Heaven must have send you,dreams,send,0
+Belle,Heaven must have send you,dreams,detroit,0.11764705882352941
+Belle,Heaven must have send you,dreams,best,0.35294117647058826
+Belle,Summer,beautiful,summer,0
+Belle,Summer,beautiful,crucial,0
+Belle,Summer,beautiful,conspiracy,0
+Belle,Summer,dreams,summer,0.25
+Belle,Summer,dreams,crucial,0
+Belle,Summer,dreams,conspiracy,0.25
+Auto Rock,I'm Your Boogie Man,auto,boogie,0.10526315789473684
+Auto Rock,I'm Your Boogie Man,auto,man,0.4
+Auto Rock,I'm Your Boogie Man,auto,best,0.10526315789473684
+Auto Rock,I'm Your Boogie Man,rock,boogie,0.14285714285714285
+Auto Rock,I'm Your Boogie Man,rock,man,0.5333333333333333
+Auto Rock,I'm Your Boogie Man,rock,best,0.14285714285714285
+Auto Rock,I'm Your Boogie Man,mr,boogie,0.23529411764705882
+Auto Rock,I'm Your Boogie Man,mr,man,0.13333333333333333
+Auto Rock,I'm Your Boogie Man,mr,best,0.23529411764705882
+Auto Rock,I'm Your Boogie Man,beast,boogie,0.13333333333333333
+Auto Rock,I'm Your Boogie Man,beast,man,0.75
+Auto Rock,I'm Your Boogie Man,beast,best,0.13333333333333333
+Auto Rock,Shook Me All Night Long,auto,night,0.11764705882352941
+Auto Rock,Shook Me All Night Long,auto,long,0
+Auto Rock,Shook Me All Night Long,auto,shook,0.6666666666666666
+Auto Rock,Shook Me All Night Long,auto,stubbs,0.36363636363636365
+Auto Rock,Shook Me All Night Long,auto,live,0
+Auto Rock,Shook Me All Night Long,rock,night,0.16666666666666666
+Auto Rock,Shook Me All Night Long,rock,long,0
+Auto Rock,Shook Me All Night Long,rock,shook,0.5
+Auto Rock,Shook Me All Night Long,rock,stubbs,0.47058823529411764
+Auto Rock,Shook Me All Night Long,rock,live,0
+Auto Rock,Shook Me All Night Long,mr,night,0.26666666666666666
+Auto Rock,Shook Me All Night Long,mr,long,0
+Auto Rock,Shook Me All Night Long,mr,shook,0.10526315789473684
+Auto Rock,Shook Me All Night Long,mr,stubbs,0.11764705882352941
+Auto Rock,Shook Me All Night Long,mr,live,0
+Auto Rock,Shook Me All Night Long,beast,night,0.15384615384615385
+Auto Rock,Shook Me All Night Long,beast,long,0
+Auto Rock,Shook Me All Night Long,beast,shook,0.47058823529411764
+Auto Rock,Shook Me All Night Long,beast,stubbs,0.6666666666666666
+Auto Rock,Shook Me All Night Long,beast,live,0
+Auto Rock,Wishing For This,auto,wishing,0.1111111111111111
+Auto Rock,Wishing For This,auto,wishing,0.1111111111111111
+Auto Rock,Wishing For This,rock,wishing,0.15384615384615385
+Auto Rock,Wishing For This,rock,wishing,0.15384615384615385
+Auto Rock,Wishing For This,mr,wishing,0.25
+Auto Rock,Wishing For This,mr,wishing,0.25
+Auto Rock,Wishing For This,beast,wishing,0.14285714285714285
+Auto Rock,Wishing For This,beast,wishing,0.14285714285714285
+Auto Rock,Rocks Off,auto,rocks,0.47058823529411764
+Auto Rock,Rocks Off,auto,main,0.25
+Auto Rock,Rocks Off,auto,exile,0.38095238095238093
+Auto Rock,Rocks Off,rock,rocks,1.0
+Auto Rock,Rocks Off,rock,main,0.36363636363636365
+Auto Rock,Rocks Off,rock,exile,0.5
+Auto Rock,Rocks Off,mr,rocks,0.13333333333333333
+Auto Rock,Rocks Off,mr,main,0.14285714285714285
+Auto Rock,Rocks Off,mr,exile,0.125
+Auto Rock,Rocks Off,beast,rocks,0.6153846153846154
+Auto Rock,Rocks Off,beast,main,0.3333333333333333
+Auto Rock,Rocks Off,beast,exile,0.7058823529411765
+Auto Rock,Save The Best For Last,auto,save,0.10526315789473684
+Auto Rock,Save The Best For Last,auto,last,0.11764705882352941
+Auto Rock,Save The Best For Last,auto,best,0.10526315789473684
+Auto Rock,Save The Best For Last,auto,comfort,0.11764705882352941
+Auto Rock,Save The Best For Last,auto,zone,0.3333333333333333
+Auto Rock,Save The Best For Last,rock,save,0.14285714285714285
+Auto Rock,Save The Best For Last,rock,last,0.16666666666666666
+Auto Rock,Save The Best For Last,rock,best,0.14285714285714285
+Auto Rock,Save The Best For Last,rock,comfort,0.16666666666666666
+Auto Rock,Save The Best For Last,rock,zone,0.46153846153846156
+Auto Rock,Save The Best For Last,mr,save,0.23529411764705882
+Auto Rock,Save The Best For Last,mr,last,0.26666666666666666
+Auto Rock,Save The Best For Last,mr,best,0.23529411764705882
+Auto Rock,Save The Best For Last,mr,comfort,0.26666666666666666
+Auto Rock,Save The Best For Last,mr,zone,0.125
+Auto Rock,Save The Best For Last,beast,save,0.13333333333333333
+Auto Rock,Save The Best For Last,beast,last,0.15384615384615385
+Auto Rock,Save The Best For Last,beast,best,0.13333333333333333
+Auto Rock,Save The Best For Last,beast,comfort,0.15384615384615385
+Auto Rock,Save The Best For Last,beast,zone,0.42857142857142855
+Auto Rock,Secret Lovers,auto,secret,0.11764705882352941
+Auto Rock,Secret Lovers,auto,lovers,0.42105263157894735
+Auto Rock,Secret Lovers,auto,true,0.1111111111111111
+Auto Rock,Secret Lovers,auto,school,0.10526315789473684
+Auto Rock,Secret Lovers,auto,party,0.11764705882352941
+Auto Rock,Secret Lovers,rock,secret,0.16666666666666666
+Auto Rock,Secret Lovers,rock,lovers,0.5714285714285714
+Auto Rock,Secret Lovers,rock,true,0.15384615384615385
+Auto Rock,Secret Lovers,rock,school,0.14285714285714285
+Auto Rock,Secret Lovers,rock,party,0.16666666666666666
+Auto Rock,Secret Lovers,mr,secret,0.26666666666666666
+Auto Rock,Secret Lovers,mr,lovers,0.14285714285714285
+Auto Rock,Secret Lovers,mr,true,0.375
+Auto Rock,Secret Lovers,mr,school,0.23529411764705882
+Auto Rock,Secret Lovers,mr,party,0.26666666666666666
+Auto Rock,Secret Lovers,beast,secret,0.15384615384615385
+Auto Rock,Secret Lovers,beast,lovers,0.8
+Auto Rock,Secret Lovers,beast,true,0.14285714285714285
+Auto Rock,Secret Lovers,beast,school,0.13333333333333333
+Auto Rock,Secret Lovers,beast,party,0.15384615384615385
+Auto Rock,Back & Forth,auto,forth,0.2222222222222222
+Auto Rock,Back & Forth,auto,back,0.23529411764705882
+Auto Rock,Back & Forth,auto,number,0.1111111111111111
+Auto Rock,Back & Forth,auto,nothing,0.125
+Auto Rock,Back & Forth,auto,age,0.125
+Auto Rock,Back & Forth,rock,forth,0.3076923076923077
+Auto Rock,Back & Forth,rock,back,0.3333333333333333
+Auto Rock,Back & Forth,rock,number,0.15384615384615385
+Auto Rock,Back & Forth,rock,nothing,0.18181818181818182
+Auto Rock,Back & Forth,rock,age,0.18181818181818182
+Auto Rock,Back & Forth,mr,forth,0.125
+Auto Rock,Back & Forth,mr,back,0.13333333333333333
+Auto Rock,Back & Forth,mr,number,0.25
+Auto Rock,Back & Forth,mr,nothing,0.2857142857142857
+Auto Rock,Back & Forth,mr,age,0.2857142857142857
+Auto Rock,Back & Forth,beast,forth,0.2857142857142857
+Auto Rock,Back & Forth,beast,back,0.3076923076923077
+Auto Rock,Back & Forth,beast,number,0.14285714285714285
+Auto Rock,Back & Forth,beast,nothing,0.16666666666666666
+Auto Rock,Back & Forth,beast,age,0.16666666666666666
+Auto Rock,O Sanctissima,auto,oh,0.2857142857142857
+Auto Rock,O Sanctissima,auto,god,0.10526315789473684
+Auto Rock,O Sanctissima,auto,hymns,0.10526315789473684
+Auto Rock,O Sanctissima,rock,oh,0.375
+Auto Rock,O Sanctissima,rock,god,0.14285714285714285
+Auto Rock,O Sanctissima,rock,hymns,0.14285714285714285
+Auto Rock,O Sanctissima,mr,oh,0.10526315789473684
+Auto Rock,O Sanctissima,mr,god,0.23529411764705882
+Auto Rock,O Sanctissima,mr,hymns,0.23529411764705882
+Auto Rock,O Sanctissima,beast,oh,0.35294117647058826
+Auto Rock,O Sanctissima,beast,god,0.13333333333333333
+Auto Rock,O Sanctissima,beast,hymns,0.13333333333333333
+Auto Rock,A Voice Calling Out,auto,voice,0.1111111111111111
+Auto Rock,A Voice Calling Out,auto,calling,0.10526315789473684
+Auto Rock,A Voice Calling Out,rock,voice,0.15384615384615385
+Auto Rock,A Voice Calling Out,rock,calling,0.14285714285714285
+Auto Rock,A Voice Calling Out,mr,voice,0.25
+Auto Rock,A Voice Calling Out,mr,calling,0.23529411764705882
+Auto Rock,A Voice Calling Out,beast,voice,0.14285714285714285
+Auto Rock,A Voice Calling Out,beast,calling,0.13333333333333333
+Auto Rock,Heaven must have send you,auto,heaven,0.35294117647058826
+Auto Rock,Heaven must have send you,auto,must,0.25
+Auto Rock,Heaven must have send you,auto,send,0
+Auto Rock,Heaven must have send you,auto,detroit,0.3157894736842105
+Auto Rock,Heaven must have send you,auto,best,0.10526315789473684
+Auto Rock,Heaven must have send you,rock,heaven,0.5
+Auto Rock,Heaven must have send you,rock,must,0.36363636363636365
+Auto Rock,Heaven must have send you,rock,send,0
+Auto Rock,Heaven must have send you,rock,detroit,0.42857142857142855
+Auto Rock,Heaven must have send you,rock,best,0.14285714285714285
+Auto Rock,Heaven must have send you,mr,heaven,0.13333333333333333
+Auto Rock,Heaven must have send you,mr,must,0.14285714285714285
+Auto Rock,Heaven must have send you,mr,send,0
+Auto Rock,Heaven must have send you,mr,detroit,0.11764705882352941
+Auto Rock,Heaven must have send you,mr,best,0.23529411764705882
+Auto Rock,Heaven must have send you,beast,heaven,0.46153846153846156
+Auto Rock,Heaven must have send you,beast,must,0.3333333333333333
+Auto Rock,Heaven must have send you,beast,send,0
+Auto Rock,Heaven must have send you,beast,detroit,0.4
+Auto Rock,Heaven must have send you,beast,best,0.13333333333333333
+Auto Rock,Summer,auto,summer,0.1111111111111111
+Auto Rock,Summer,auto,crucial,0
+Auto Rock,Summer,auto,conspiracy,0.1111111111111111
+Auto Rock,Summer,rock,summer,0.15384615384615385
+Auto Rock,Summer,rock,crucial,0
+Auto Rock,Summer,rock,conspiracy,0.15384615384615385
+Auto Rock,Summer,mr,summer,0.25
+Auto Rock,Summer,mr,crucial,0
+Auto Rock,Summer,mr,conspiracy,0.25
+Auto Rock,Summer,beast,summer,0.14285714285714285
+Auto Rock,Summer,beast,crucial,0
+Auto Rock,Summer,beast,conspiracy,0.14285714285714285
+Who Knows Who Cares,I'm Your Boogie Man,knows,boogie,0.25
+Who Knows Who Cares,I'm Your Boogie Man,knows,man,0.14285714285714285
+Who Knows Who Cares,I'm Your Boogie Man,knows,best,0.375
+Who Knows Who Cares,I'm Your Boogie Man,cares,boogie,0.25
+Who Knows Who Cares,I'm Your Boogie Man,cares,man,0.14285714285714285
+Who Knows Who Cares,I'm Your Boogie Man,cares,best,0.75
+Who Knows Who Cares,I'm Your Boogie Man,gorilla,boogie,0.08333333333333333
+Who Knows Who Cares,I'm Your Boogie Man,gorilla,man,0.48
+Who Knows Who Cares,I'm Your Boogie Man,gorilla,best,0.08333333333333333
+Who Knows Who Cares,I'm Your Boogie Man,manor,boogie,0.1111111111111111
+Who Knows Who Cares,I'm Your Boogie Man,manor,man,0.42105263157894735
+Who Knows Who Cares,I'm Your Boogie Man,manor,best,0.1111111111111111
+Who Knows Who Cares,Shook Me All Night Long,knows,night,0.2857142857142857
+Who Knows Who Cares,Shook Me All Night Long,knows,long,0
+Who Knows Who Cares,Shook Me All Night Long,knows,shook,0.1111111111111111
+Who Knows Who Cares,Shook Me All Night Long,knows,stubbs,0.125
+Who Knows Who Cares,Shook Me All Night Long,knows,live,0
+Who Knows Who Cares,Shook Me All Night Long,cares,night,0.2857142857142857
+Who Knows Who Cares,Shook Me All Night Long,cares,long,0
+Who Knows Who Cares,Shook Me All Night Long,cares,shook,0.1111111111111111
+Who Knows Who Cares,Shook Me All Night Long,cares,stubbs,0.125
+Who Knows Who Cares,Shook Me All Night Long,cares,live,0
+Who Knows Who Cares,Shook Me All Night Long,gorilla,night,0.09090909090909091
+Who Knows Who Cares,Shook Me All Night Long,gorilla,long,0
+Who Knows Who Cares,Shook Me All Night Long,gorilla,shook,0.3076923076923077
+Who Knows Who Cares,Shook Me All Night Long,gorilla,stubbs,0.4444444444444444
+Who Knows Who Cares,Shook Me All Night Long,gorilla,live,0
+Who Knows Who Cares,Shook Me All Night Long,manor,night,0.125
+Who Knows Who Cares,Shook Me All Night Long,manor,long,0
+Who Knows Who Cares,Shook Me All Night Long,manor,shook,0.5
+Who Knows Who Cares,Shook Me All Night Long,manor,stubbs,0.38095238095238093
+Who Knows Who Cares,Shook Me All Night Long,manor,live,0
+Who Knows Who Cares,Wishing For This,knows,wishing,0.26666666666666666
+Who Knows Who Cares,Wishing For This,knows,wishing,0.26666666666666666
+Who Knows Who Cares,Wishing For This,cares,wishing,0.26666666666666666
+Who Knows Who Cares,Wishing For This,cares,wishing,0.26666666666666666
+Who Knows Who Cares,Wishing For This,gorilla,wishing,0.08695652173913043
+Who Knows Who Cares,Wishing For This,gorilla,wishing,0.08695652173913043
+Who Knows Who Cares,Wishing For This,manor,wishing,0.11764705882352941
+Who Knows Who Cares,Wishing For This,manor,wishing,0.11764705882352941
+Who Knows Who Cares,Rocks Off,knows,rocks,0.14285714285714285
+Who Knows Who Cares,Rocks Off,knows,main,0.15384615384615385
+Who Knows Who Cares,Rocks Off,knows,exile,0.13333333333333333
+Who Knows Who Cares,Rocks Off,cares,rocks,0.14285714285714285
+Who Knows Who Cares,Rocks Off,cares,main,0.15384615384615385
+Who Knows Who Cares,Rocks Off,cares,exile,0.13333333333333333
+Who Knows Who Cares,Rocks Off,gorilla,rocks,0.36363636363636365
+Who Knows Who Cares,Rocks Off,gorilla,main,0.19047619047619047
+Who Knows Who Cares,Rocks Off,gorilla,exile,0.46153846153846156
+Who Knows Who Cares,Rocks Off,manor,rocks,0.5
+Who Knows Who Cares,Rocks Off,manor,main,0.26666666666666666
+Who Knows Who Cares,Rocks Off,manor,exile,0.4
+Who Knows Who Cares,Save The Best For Last,knows,save,0.375
+Who Knows Who Cares,Save The Best For Last,knows,last,0.2857142857142857
+Who Knows Who Cares,Save The Best For Last,knows,best,0.375
+Who Knows Who Cares,Save The Best For Last,knows,comfort,0.2857142857142857
+Who Knows Who Cares,Save The Best For Last,knows,zone,0.13333333333333333
+Who Knows Who Cares,Save The Best For Last,cares,save,0.625
+Who Knows Who Cares,Save The Best For Last,cares,last,0.2857142857142857
+Who Knows Who Cares,Save The Best For Last,cares,best,0.75
+Who Knows Who Cares,Save The Best For Last,cares,comfort,0.2857142857142857
+Who Knows Who Cares,Save The Best For Last,cares,zone,0.13333333333333333
+Who Knows Who Cares,Save The Best For Last,gorilla,save,0.08333333333333333
+Who Knows Who Cares,Save The Best For Last,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Save The Best For Last,gorilla,best,0.08333333333333333
+Who Knows Who Cares,Save The Best For Last,gorilla,comfort,0.09090909090909091
+Who Knows Who Cares,Save The Best For Last,gorilla,zone,0.2608695652173913
+Who Knows Who Cares,Save The Best For Last,manor,save,0.1111111111111111
+Who Knows Who Cares,Save The Best For Last,manor,last,0.125
+Who Knows Who Cares,Save The Best For Last,manor,best,0.1111111111111111
+Who Knows Who Cares,Save The Best For Last,manor,comfort,0.125
+Who Knows Who Cares,Save The Best For Last,manor,zone,0.35294117647058826
+Who Knows Who Cares,Secret Lovers,knows,secret,0.2857142857142857
+Who Knows Who Cares,Secret Lovers,knows,lovers,0.15384615384615385
+Who Knows Who Cares,Secret Lovers,knows,true,0.26666666666666666
+Who Knows Who Cares,Secret Lovers,knows,school,0.25
+Who Knows Who Cares,Secret Lovers,knows,party,0.2857142857142857
+Who Knows Who Cares,Secret Lovers,cares,secret,0.2857142857142857
+Who Knows Who Cares,Secret Lovers,cares,lovers,0.15384615384615385
+Who Knows Who Cares,Secret Lovers,cares,true,0.26666666666666666
+Who Knows Who Cares,Secret Lovers,cares,school,0.25
+Who Knows Who Cares,Secret Lovers,cares,party,0.2857142857142857
+Who Knows Who Cares,Secret Lovers,gorilla,secret,0.09090909090909091
+Who Knows Who Cares,Secret Lovers,gorilla,lovers,0.5
+Who Knows Who Cares,Secret Lovers,gorilla,true,0.08695652173913043
+Who Knows Who Cares,Secret Lovers,gorilla,school,0.08333333333333333
+Who Knows Who Cares,Secret Lovers,gorilla,party,0.09090909090909091
+Who Knows Who Cares,Secret Lovers,manor,secret,0.125
+Who Knows Who Cares,Secret Lovers,manor,lovers,0.4444444444444444
+Who Knows Who Cares,Secret Lovers,manor,true,0.11764705882352941
+Who Knows Who Cares,Secret Lovers,manor,school,0.1111111111111111
+Who Knows Who Cares,Secret Lovers,manor,party,0.125
+Who Knows Who Cares,Back & Forth,knows,forth,0.13333333333333333
+Who Knows Who Cares,Back & Forth,knows,back,0.14285714285714285
+Who Knows Who Cares,Back & Forth,knows,number,0.26666666666666666
+Who Knows Who Cares,Back & Forth,knows,nothing,0.3076923076923077
+Who Knows Who Cares,Back & Forth,knows,age,0.3076923076923077
+Who Knows Who Cares,Back & Forth,cares,forth,0.13333333333333333
+Who Knows Who Cares,Back & Forth,cares,back,0.14285714285714285
+Who Knows Who Cares,Back & Forth,cares,number,0.26666666666666666
+Who Knows Who Cares,Back & Forth,cares,nothing,0.3076923076923077
+Who Knows Who Cares,Back & Forth,cares,age,0.3076923076923077
+Who Knows Who Cares,Back & Forth,gorilla,forth,0.17391304347826086
+Who Knows Who Cares,Back & Forth,gorilla,back,0.18181818181818182
+Who Knows Who Cares,Back & Forth,gorilla,number,0.08695652173913043
+Who Knows Who Cares,Back & Forth,gorilla,nothing,0.09523809523809523
+Who Knows Who Cares,Back & Forth,gorilla,age,0.09523809523809523
+Who Knows Who Cares,Back & Forth,manor,forth,0.23529411764705882
+Who Knows Who Cares,Back & Forth,manor,back,0.25
+Who Knows Who Cares,Back & Forth,manor,number,0.11764705882352941
+Who Knows Who Cares,Back & Forth,manor,nothing,0.13333333333333333
+Who Knows Who Cares,Back & Forth,manor,age,0.13333333333333333
+Who Knows Who Cares,O Sanctissima,knows,oh,0.1111111111111111
+Who Knows Who Cares,O Sanctissima,knows,god,0.5
+Who Knows Who Cares,O Sanctissima,knows,hymns,0.25
+Who Knows Who Cares,O Sanctissima,cares,oh,0.1111111111111111
+Who Knows Who Cares,O Sanctissima,cares,god,0.375
+Who Knows Who Cares,O Sanctissima,cares,hymns,0.25
+Who Knows Who Cares,O Sanctissima,gorilla,oh,0.23076923076923078
+Who Knows Who Cares,O Sanctissima,gorilla,god,0.08333333333333333
+Who Knows Who Cares,O Sanctissima,gorilla,hymns,0.08333333333333333
+Who Knows Who Cares,O Sanctissima,manor,oh,0.3
+Who Knows Who Cares,O Sanctissima,manor,god,0.1111111111111111
+Who Knows Who Cares,O Sanctissima,manor,hymns,0.1111111111111111
+Who Knows Who Cares,A Voice Calling Out,knows,voice,0.26666666666666666
+Who Knows Who Cares,A Voice Calling Out,knows,calling,0.375
+Who Knows Who Cares,A Voice Calling Out,cares,voice,0.26666666666666666
+Who Knows Who Cares,A Voice Calling Out,cares,calling,0.75
+Who Knows Who Cares,A Voice Calling Out,gorilla,voice,0.08695652173913043
+Who Knows Who Cares,A Voice Calling Out,gorilla,calling,0.08333333333333333
+Who Knows Who Cares,A Voice Calling Out,manor,voice,0.11764705882352941
+Who Knows Who Cares,A Voice Calling Out,manor,calling,0.1111111111111111
+Who Knows Who Cares,Heaven must have send you,knows,heaven,0.14285714285714285
+Who Knows Who Cares,Heaven must have send you,knows,must,0.15384615384615385
+Who Knows Who Cares,Heaven must have send you,knows,send,0
+Who Knows Who Cares,Heaven must have send you,knows,detroit,0.125
+Who Knows Who Cares,Heaven must have send you,knows,best,0.375
+Who Knows Who Cares,Heaven must have send you,cares,heaven,0.14285714285714285
+Who Knows Who Cares,Heaven must have send you,cares,must,0.15384615384615385
+Who Knows Who Cares,Heaven must have send you,cares,send,0
+Who Knows Who Cares,Heaven must have send you,cares,detroit,0.125
+Who Knows Who Cares,Heaven must have send you,cares,best,0.75
+Who Knows Who Cares,Heaven must have send you,gorilla,heaven,0.2727272727272727
+Who Knows Who Cares,Heaven must have send you,gorilla,must,0.19047619047619047
+Who Knows Who Cares,Heaven must have send you,gorilla,send,0
+Who Knows Who Cares,Heaven must have send you,gorilla,detroit,0.25
+Who Knows Who Cares,Heaven must have send you,gorilla,best,0.08333333333333333
+Who Knows Who Cares,Heaven must have send you,manor,heaven,0.375
+Who Knows Who Cares,Heaven must have send you,manor,must,0.26666666666666666
+Who Knows Who Cares,Heaven must have send you,manor,send,0
+Who Knows Who Cares,Heaven must have send you,manor,detroit,0.3333333333333333
+Who Knows Who Cares,Heaven must have send you,manor,best,0.1111111111111111
+Who Knows Who Cares,Summer,knows,summer,0.26666666666666666
+Who Knows Who Cares,Summer,knows,crucial,0
+Who Knows Who Cares,Summer,knows,conspiracy,0.26666666666666666
+Who Knows Who Cares,Summer,cares,summer,0.26666666666666666
+Who Knows Who Cares,Summer,cares,crucial,0
+Who Knows Who Cares,Summer,cares,conspiracy,0.26666666666666666
+Who Knows Who Cares,Summer,gorilla,summer,0.08695652173913043
+Who Knows Who Cares,Summer,gorilla,crucial,0
+Who Knows Who Cares,Summer,gorilla,conspiracy,0.08695652173913043
+Who Knows Who Cares,Summer,manor,summer,0.11764705882352941
+Who Knows Who Cares,Summer,manor,crucial,0
+Who Knows Who Cares,Summer,manor,conspiracy,0.11764705882352941
+Quiet,I'm Your Boogie Man,quiet,boogie,0.10526315789473684
+Quiet,I'm Your Boogie Man,quiet,man,0.23529411764705882
+Quiet,I'm Your Boogie Man,quiet,best,0.10526315789473684
+Quiet,I'm Your Boogie Man,young,boogie,0.125
+Quiet,I'm Your Boogie Man,young,man,0.7058823529411765
+Quiet,I'm Your Boogie Man,young,best,0.125
+Quiet,I'm Your Boogie Man,mountain,boogie,0.14285714285714285
+Quiet,I'm Your Boogie Man,mountain,man,0.42857142857142855
+Quiet,I'm Your Boogie Man,mountain,best,0.14285714285714285
+Quiet,Shook Me All Night Long,quiet,night,0.11764705882352941
+Quiet,Shook Me All Night Long,quiet,long,0
+Quiet,Shook Me All Night Long,quiet,shook,0.19047619047619047
+Quiet,Shook Me All Night Long,quiet,stubbs,0.21052631578947367
+Quiet,Shook Me All Night Long,quiet,live,0
+Quiet,Shook Me All Night Long,young,night,0.14285714285714285
+Quiet,Shook Me All Night Long,young,long,0
+Quiet,Shook Me All Night Long,young,shook,0.4444444444444444
+Quiet,Shook Me All Night Long,young,stubbs,0.631578947368421
+Quiet,Shook Me All Night Long,young,live,0
+Quiet,Shook Me All Night Long,mountain,night,0.16666666666666666
+Quiet,Shook Me All Night Long,mountain,long,0
+Quiet,Shook Me All Night Long,mountain,shook,0.375
+Quiet,Shook Me All Night Long,mountain,stubbs,0.375
+Quiet,Shook Me All Night Long,mountain,live,0
+Quiet,Wishing For This,quiet,wishing,0.1111111111111111
+Quiet,Wishing For This,quiet,wishing,0.1111111111111111
+Quiet,Wishing For This,young,wishing,0.13333333333333333
+Quiet,Wishing For This,young,wishing,0.13333333333333333
+Quiet,Wishing For This,mountain,wishing,0.15384615384615385
+Quiet,Wishing For This,mountain,wishing,0.15384615384615385
+Quiet,Rocks Off,quiet,rocks,0.23529411764705882
+Quiet,Rocks Off,quiet,main,0.25
+Quiet,Rocks Off,quiet,exile,0.2222222222222222
+Quiet,Rocks Off,young,rocks,0.5714285714285714
+Quiet,Rocks Off,young,main,0.3076923076923077
+Quiet,Rocks Off,young,exile,0.6666666666666666
+Quiet,Rocks Off,mountain,rocks,0.5
+Quiet,Rocks Off,mountain,main,0.36363636363636365
+Quiet,Rocks Off,mountain,exile,0.4
+Quiet,Save The Best For Last,quiet,save,0.10526315789473684
+Quiet,Save The Best For Last,quiet,last,0.11764705882352941
+Quiet,Save The Best For Last,quiet,best,0.10526315789473684
+Quiet,Save The Best For Last,quiet,comfort,0.11764705882352941
+Quiet,Save The Best For Last,quiet,zone,0.2222222222222222
+Quiet,Save The Best For Last,young,save,0.125
+Quiet,Save The Best For Last,young,last,0.14285714285714285
+Quiet,Save The Best For Last,young,best,0.125
+Quiet,Save The Best For Last,young,comfort,0.14285714285714285
+Quiet,Save The Best For Last,young,zone,0.4
+Quiet,Save The Best For Last,mountain,save,0.14285714285714285
+Quiet,Save The Best For Last,mountain,last,0.16666666666666666
+Quiet,Save The Best For Last,mountain,best,0.14285714285714285
+Quiet,Save The Best For Last,mountain,comfort,0.16666666666666666
+Quiet,Save The Best For Last,mountain,zone,0.46153846153846156
+Quiet,Secret Lovers,quiet,secret,0.11764705882352941
+Quiet,Secret Lovers,quiet,lovers,0.25
+Quiet,Secret Lovers,quiet,true,0.1111111111111111
+Quiet,Secret Lovers,quiet,school,0.10526315789473684
+Quiet,Secret Lovers,quiet,party,0.11764705882352941
+Quiet,Secret Lovers,young,secret,0.14285714285714285
+Quiet,Secret Lovers,young,lovers,0.75
+Quiet,Secret Lovers,young,true,0.13333333333333333
+Quiet,Secret Lovers,young,school,0.125
+Quiet,Secret Lovers,young,party,0.14285714285714285
+Quiet,Secret Lovers,mountain,secret,0.16666666666666666
+Quiet,Secret Lovers,mountain,lovers,0.46153846153846156
+Quiet,Secret Lovers,mountain,true,0.15384615384615385
+Quiet,Secret Lovers,mountain,school,0.14285714285714285
+Quiet,Secret Lovers,mountain,party,0.16666666666666666
+Quiet,Back & Forth,quiet,forth,0.2222222222222222
+Quiet,Back & Forth,quiet,back,0.23529411764705882
+Quiet,Back & Forth,quiet,number,0.1111111111111111
+Quiet,Back & Forth,quiet,nothing,0.125
+Quiet,Back & Forth,quiet,age,0.125
+Quiet,Back & Forth,young,forth,0.26666666666666666
+Quiet,Back & Forth,young,back,0.2857142857142857
+Quiet,Back & Forth,young,number,0.13333333333333333
+Quiet,Back & Forth,young,nothing,0.15384615384615385
+Quiet,Back & Forth,young,age,0.15384615384615385
+Quiet,Back & Forth,mountain,forth,0.3076923076923077
+Quiet,Back & Forth,mountain,back,0.3333333333333333
+Quiet,Back & Forth,mountain,number,0.15384615384615385
+Quiet,Back & Forth,mountain,nothing,0.18181818181818182
+Quiet,Back & Forth,mountain,age,0.18181818181818182
+Quiet,O Sanctissima,quiet,oh,0.19047619047619047
+Quiet,O Sanctissima,quiet,god,0.10526315789473684
+Quiet,O Sanctissima,quiet,hymns,0.10526315789473684
+Quiet,O Sanctissima,young,oh,0.3333333333333333
+Quiet,O Sanctissima,young,god,0.125
+Quiet,O Sanctissima,young,hymns,0.125
+Quiet,O Sanctissima,mountain,oh,0.375
+Quiet,O Sanctissima,mountain,god,0.14285714285714285
+Quiet,O Sanctissima,mountain,hymns,0.14285714285714285
+Quiet,A Voice Calling Out,quiet,voice,0.1111111111111111
+Quiet,A Voice Calling Out,quiet,calling,0.10526315789473684
+Quiet,A Voice Calling Out,young,voice,0.13333333333333333
+Quiet,A Voice Calling Out,young,calling,0.125
+Quiet,A Voice Calling Out,mountain,voice,0.15384615384615385
+Quiet,A Voice Calling Out,mountain,calling,0.14285714285714285
+Quiet,Heaven must have send you,quiet,heaven,0.23529411764705882
+Quiet,Heaven must have send you,quiet,must,0.25
+Quiet,Heaven must have send you,quiet,send,0
+Quiet,Heaven must have send you,quiet,detroit,0.21052631578947367
+Quiet,Heaven must have send you,quiet,best,0.10526315789473684
+Quiet,Heaven must have send you,young,heaven,0.42857142857142855
+Quiet,Heaven must have send you,young,must,0.3076923076923077
+Quiet,Heaven must have send you,young,send,0
+Quiet,Heaven must have send you,young,detroit,0.375
+Quiet,Heaven must have send you,young,best,0.125
+Quiet,Heaven must have send you,mountain,heaven,0.5
+Quiet,Heaven must have send you,mountain,must,0.36363636363636365
+Quiet,Heaven must have send you,mountain,send,0
+Quiet,Heaven must have send you,mountain,detroit,0.42857142857142855
+Quiet,Heaven must have send you,mountain,best,0.14285714285714285
+Quiet,Summer,quiet,summer,0.1111111111111111
+Quiet,Summer,quiet,crucial,0
+Quiet,Summer,quiet,conspiracy,0.1111111111111111
+Quiet,Summer,young,summer,0.13333333333333333
+Quiet,Summer,young,crucial,0
+Quiet,Summer,young,conspiracy,0.13333333333333333
+Quiet,Summer,mountain,summer,0.15384615384615385
+Quiet,Summer,mountain,crucial,0
+Quiet,Summer,mountain,conspiracy,0.15384615384615385
+Girlfriend,I'm Your Boogie Man,girlfriend,boogie,0.14285714285714285
+Girlfriend,I'm Your Boogie Man,girlfriend,man,0.6666666666666666
+Girlfriend,I'm Your Boogie Man,girlfriend,best,0.14285714285714285
+Girlfriend,I'm Your Boogie Man,phoenix,boogie,0.10526315789473684
+Girlfriend,I'm Your Boogie Man,phoenix,man,0.3157894736842105
+Girlfriend,I'm Your Boogie Man,phoenix,best,0.10526315789473684
+Girlfriend,Shook Me All Night Long,girlfriend,night,0.16666666666666666
+Girlfriend,Shook Me All Night Long,girlfriend,long,0
+Girlfriend,Shook Me All Night Long,girlfriend,shook,0.42105263157894735
+Girlfriend,Shook Me All Night Long,girlfriend,stubbs,0.6
+Girlfriend,Shook Me All Night Long,girlfriend,live,0
+Girlfriend,Shook Me All Night Long,phoenix,night,0.11764705882352941
+Girlfriend,Shook Me All Night Long,phoenix,long,0
+Girlfriend,Shook Me All Night Long,phoenix,shook,0.2857142857142857
+Girlfriend,Shook Me All Night Long,phoenix,stubbs,0.2857142857142857
+Girlfriend,Shook Me All Night Long,phoenix,live,0
+Girlfriend,Wishing For This,girlfriend,wishing,0.15384615384615385
+Girlfriend,Wishing For This,girlfriend,wishing,0.15384615384615385
+Girlfriend,Wishing For This,phoenix,wishing,0.1111111111111111
+Girlfriend,Wishing For This,phoenix,wishing,0.1111111111111111
+Girlfriend,Rocks Off,girlfriend,rocks,0.5333333333333333
+Girlfriend,Rocks Off,girlfriend,main,0.36363636363636365
+Girlfriend,Rocks Off,girlfriend,exile,0.631578947368421
+Girlfriend,Rocks Off,phoenix,rocks,0.35294117647058826
+Girlfriend,Rocks Off,phoenix,main,0.25
+Girlfriend,Rocks Off,phoenix,exile,0.3
+Girlfriend,Save The Best For Last,girlfriend,save,0.14285714285714285
+Girlfriend,Save The Best For Last,girlfriend,last,0.16666666666666666
+Girlfriend,Save The Best For Last,girlfriend,best,0.14285714285714285
+Girlfriend,Save The Best For Last,girlfriend,comfort,0.16666666666666666
+Girlfriend,Save The Best For Last,girlfriend,zone,0.4
+Girlfriend,Save The Best For Last,phoenix,save,0.10526315789473684
+Girlfriend,Save The Best For Last,phoenix,last,0.11764705882352941
+Girlfriend,Save The Best For Last,phoenix,best,0.10526315789473684
+Girlfriend,Save The Best For Last,phoenix,comfort,0.11764705882352941
+Girlfriend,Save The Best For Last,phoenix,zone,0.4444444444444444
+Girlfriend,Secret Lovers,girlfriend,secret,0.16666666666666666
+Girlfriend,Secret Lovers,girlfriend,lovers,0.7058823529411765
+Girlfriend,Secret Lovers,girlfriend,true,0.15384615384615385
+Girlfriend,Secret Lovers,girlfriend,school,0.14285714285714285
+Girlfriend,Secret Lovers,girlfriend,party,0.16666666666666666
+Girlfriend,Secret Lovers,phoenix,secret,0.11764705882352941
+Girlfriend,Secret Lovers,phoenix,lovers,0.3333333333333333
+Girlfriend,Secret Lovers,phoenix,true,0.1111111111111111
+Girlfriend,Secret Lovers,phoenix,school,0.10526315789473684
+Girlfriend,Secret Lovers,phoenix,party,0.11764705882352941
+Girlfriend,Back & Forth,girlfriend,forth,0.3076923076923077
+Girlfriend,Back & Forth,girlfriend,back,0.3333333333333333
+Girlfriend,Back & Forth,girlfriend,number,0.15384615384615385
+Girlfriend,Back & Forth,girlfriend,nothing,0.18181818181818182
+Girlfriend,Back & Forth,girlfriend,age,0.18181818181818182
+Girlfriend,Back & Forth,phoenix,forth,0.2222222222222222
+Girlfriend,Back & Forth,phoenix,back,0.23529411764705882
+Girlfriend,Back & Forth,phoenix,number,0.1111111111111111
+Girlfriend,Back & Forth,phoenix,nothing,0.125
+Girlfriend,Back & Forth,phoenix,age,0.125
+Girlfriend,O Sanctissima,girlfriend,oh,0.3333333333333333
+Girlfriend,O Sanctissima,girlfriend,god,0.14285714285714285
+Girlfriend,O Sanctissima,girlfriend,hymns,0.14285714285714285
+Girlfriend,O Sanctissima,phoenix,oh,0.6666666666666666
+Girlfriend,O Sanctissima,phoenix,god,0.10526315789473684
+Girlfriend,O Sanctissima,phoenix,hymns,0.10526315789473684
+Girlfriend,A Voice Calling Out,girlfriend,voice,0.15384615384615385
+Girlfriend,A Voice Calling Out,girlfriend,calling,0.14285714285714285
+Girlfriend,A Voice Calling Out,phoenix,voice,0.1111111111111111
+Girlfriend,A Voice Calling Out,phoenix,calling,0.10526315789473684
+Girlfriend,Heaven must have send you,girlfriend,heaven,0.42857142857142855
+Girlfriend,Heaven must have send you,girlfriend,must,0.36363636363636365
+Girlfriend,Heaven must have send you,girlfriend,send,0
+Girlfriend,Heaven must have send you,girlfriend,detroit,0.375
+Girlfriend,Heaven must have send you,girlfriend,best,0.14285714285714285
+Girlfriend,Heaven must have send you,phoenix,heaven,0.47058823529411764
+Girlfriend,Heaven must have send you,phoenix,must,0.25
+Girlfriend,Heaven must have send you,phoenix,send,0
+Girlfriend,Heaven must have send you,phoenix,detroit,0.8571428571428571
+Girlfriend,Heaven must have send you,phoenix,best,0.10526315789473684
+Girlfriend,Summer,girlfriend,summer,0.15384615384615385
+Girlfriend,Summer,girlfriend,crucial,0
+Girlfriend,Summer,girlfriend,conspiracy,0.15384615384615385
+Girlfriend,Summer,phoenix,summer,0.1111111111111111
+Girlfriend,Summer,phoenix,crucial,0
+Girlfriend,Summer,phoenix,conspiracy,0.1111111111111111
+Happiness: We're All In It Together,I'm Your Boogie Man,together,boogie,0
+Happiness: We're All In It Together,I'm Your Boogie Man,together,man,0
+Happiness: We're All In It Together,I'm Your Boogie Man,together,best,0
+Happiness: We're All In It Together,I'm Your Boogie Man,happiness,boogie,0.25
+Happiness: We're All In It Together,I'm Your Boogie Man,happiness,man,0.14285714285714285
+Happiness: We're All In It Together,I'm Your Boogie Man,happiness,best,0.25
+Happiness: We're All In It Together,I'm Your Boogie Man,young,boogie,0.125
+Happiness: We're All In It Together,I'm Your Boogie Man,young,man,0.7058823529411765
+Happiness: We're All In It Together,I'm Your Boogie Man,young,best,0.125
+Happiness: We're All In It Together,I'm Your Boogie Man,mountain,boogie,0.14285714285714285
+Happiness: We're All In It Together,I'm Your Boogie Man,mountain,man,0.42857142857142855
+Happiness: We're All In It Together,I'm Your Boogie Man,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Shook Me All Night Long,together,night,0
+Happiness: We're All In It Together,Shook Me All Night Long,together,long,0
+Happiness: We're All In It Together,Shook Me All Night Long,together,shook,0
+Happiness: We're All In It Together,Shook Me All Night Long,together,stubbs,0
+Happiness: We're All In It Together,Shook Me All Night Long,together,live,0
+Happiness: We're All In It Together,Shook Me All Night Long,happiness,night,0.2857142857142857
+Happiness: We're All In It Together,Shook Me All Night Long,happiness,long,0
+Happiness: We're All In It Together,Shook Me All Night Long,happiness,shook,0.1111111111111111
+Happiness: We're All In It Together,Shook Me All Night Long,happiness,stubbs,0.125
+Happiness: We're All In It Together,Shook Me All Night Long,happiness,live,0
+Happiness: We're All In It Together,Shook Me All Night Long,young,night,0.14285714285714285
+Happiness: We're All In It Together,Shook Me All Night Long,young,long,0
+Happiness: We're All In It Together,Shook Me All Night Long,young,shook,0.4444444444444444
+Happiness: We're All In It Together,Shook Me All Night Long,young,stubbs,0.631578947368421
+Happiness: We're All In It Together,Shook Me All Night Long,young,live,0
+Happiness: We're All In It Together,Shook Me All Night Long,mountain,night,0.16666666666666666
+Happiness: We're All In It Together,Shook Me All Night Long,mountain,long,0
+Happiness: We're All In It Together,Shook Me All Night Long,mountain,shook,0.375
+Happiness: We're All In It Together,Shook Me All Night Long,mountain,stubbs,0.375
+Happiness: We're All In It Together,Shook Me All Night Long,mountain,live,0
+Happiness: We're All In It Together,Wishing For This,together,wishing,0
+Happiness: We're All In It Together,Wishing For This,together,wishing,0
+Happiness: We're All In It Together,Wishing For This,happiness,wishing,0.6666666666666666
+Happiness: We're All In It Together,Wishing For This,happiness,wishing,0.6666666666666666
+Happiness: We're All In It Together,Wishing For This,young,wishing,0.13333333333333333
+Happiness: We're All In It Together,Wishing For This,young,wishing,0.13333333333333333
+Happiness: We're All In It Together,Wishing For This,mountain,wishing,0.15384615384615385
+Happiness: We're All In It Together,Wishing For This,mountain,wishing,0.15384615384615385
+Happiness: We're All In It Together,Rocks Off,together,rocks,0
+Happiness: We're All In It Together,Rocks Off,together,main,0
+Happiness: We're All In It Together,Rocks Off,together,exile,0
+Happiness: We're All In It Together,Rocks Off,happiness,rocks,0.14285714285714285
+Happiness: We're All In It Together,Rocks Off,happiness,main,0.15384615384615385
+Happiness: We're All In It Together,Rocks Off,happiness,exile,0.13333333333333333
+Happiness: We're All In It Together,Rocks Off,young,rocks,0.5714285714285714
+Happiness: We're All In It Together,Rocks Off,young,main,0.3076923076923077
+Happiness: We're All In It Together,Rocks Off,young,exile,0.6666666666666666
+Happiness: We're All In It Together,Rocks Off,mountain,rocks,0.5
+Happiness: We're All In It Together,Rocks Off,mountain,main,0.36363636363636365
+Happiness: We're All In It Together,Rocks Off,mountain,exile,0.4
+Happiness: We're All In It Together,Save The Best For Last,together,save,0
+Happiness: We're All In It Together,Save The Best For Last,together,last,0
+Happiness: We're All In It Together,Save The Best For Last,together,best,0
+Happiness: We're All In It Together,Save The Best For Last,together,comfort,0
+Happiness: We're All In It Together,Save The Best For Last,together,zone,0
+Happiness: We're All In It Together,Save The Best For Last,happiness,save,0.25
+Happiness: We're All In It Together,Save The Best For Last,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Save The Best For Last,happiness,best,0.25
+Happiness: We're All In It Together,Save The Best For Last,happiness,comfort,0.5714285714285714
+Happiness: We're All In It Together,Save The Best For Last,happiness,zone,0.13333333333333333
+Happiness: We're All In It Together,Save The Best For Last,young,save,0.125
+Happiness: We're All In It Together,Save The Best For Last,young,last,0.14285714285714285
+Happiness: We're All In It Together,Save The Best For Last,young,best,0.125
+Happiness: We're All In It Together,Save The Best For Last,young,comfort,0.14285714285714285
+Happiness: We're All In It Together,Save The Best For Last,young,zone,0.4
+Happiness: We're All In It Together,Save The Best For Last,mountain,save,0.14285714285714285
+Happiness: We're All In It Together,Save The Best For Last,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Save The Best For Last,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Save The Best For Last,mountain,comfort,0.16666666666666666
+Happiness: We're All In It Together,Save The Best For Last,mountain,zone,0.46153846153846156
+Happiness: We're All In It Together,Secret Lovers,together,secret,0
+Happiness: We're All In It Together,Secret Lovers,together,lovers,0
+Happiness: We're All In It Together,Secret Lovers,together,true,0
+Happiness: We're All In It Together,Secret Lovers,together,school,0
+Happiness: We're All In It Together,Secret Lovers,together,party,0
+Happiness: We're All In It Together,Secret Lovers,happiness,secret,0.2857142857142857
+Happiness: We're All In It Together,Secret Lovers,happiness,lovers,0.15384615384615385
+Happiness: We're All In It Together,Secret Lovers,happiness,true,0.26666666666666666
+Happiness: We're All In It Together,Secret Lovers,happiness,school,0.25
+Happiness: We're All In It Together,Secret Lovers,happiness,party,0.2857142857142857
+Happiness: We're All In It Together,Secret Lovers,young,secret,0.14285714285714285
+Happiness: We're All In It Together,Secret Lovers,young,lovers,0.75
+Happiness: We're All In It Together,Secret Lovers,young,true,0.13333333333333333
+Happiness: We're All In It Together,Secret Lovers,young,school,0.125
+Happiness: We're All In It Together,Secret Lovers,young,party,0.14285714285714285
+Happiness: We're All In It Together,Secret Lovers,mountain,secret,0.16666666666666666
+Happiness: We're All In It Together,Secret Lovers,mountain,lovers,0.46153846153846156
+Happiness: We're All In It Together,Secret Lovers,mountain,true,0.15384615384615385
+Happiness: We're All In It Together,Secret Lovers,mountain,school,0.14285714285714285
+Happiness: We're All In It Together,Secret Lovers,mountain,party,0.16666666666666666
+Happiness: We're All In It Together,Back & Forth,together,forth,0
+Happiness: We're All In It Together,Back & Forth,together,back,0
+Happiness: We're All In It Together,Back & Forth,together,number,0
+Happiness: We're All In It Together,Back & Forth,together,nothing,0
+Happiness: We're All In It Together,Back & Forth,together,age,0
+Happiness: We're All In It Together,Back & Forth,happiness,forth,0.13333333333333333
+Happiness: We're All In It Together,Back & Forth,happiness,back,0.14285714285714285
+Happiness: We're All In It Together,Back & Forth,happiness,number,0.4
+Happiness: We're All In It Together,Back & Forth,happiness,nothing,0.3076923076923077
+Happiness: We're All In It Together,Back & Forth,happiness,age,0.46153846153846156
+Happiness: We're All In It Together,Back & Forth,young,forth,0.26666666666666666
+Happiness: We're All In It Together,Back & Forth,young,back,0.2857142857142857
+Happiness: We're All In It Together,Back & Forth,young,number,0.13333333333333333
+Happiness: We're All In It Together,Back & Forth,young,nothing,0.15384615384615385
+Happiness: We're All In It Together,Back & Forth,young,age,0.15384615384615385
+Happiness: We're All In It Together,Back & Forth,mountain,forth,0.3076923076923077
+Happiness: We're All In It Together,Back & Forth,mountain,back,0.3333333333333333
+Happiness: We're All In It Together,Back & Forth,mountain,number,0.15384615384615385
+Happiness: We're All In It Together,Back & Forth,mountain,nothing,0.18181818181818182
+Happiness: We're All In It Together,Back & Forth,mountain,age,0.18181818181818182
+Happiness: We're All In It Together,O Sanctissima,together,oh,0
+Happiness: We're All In It Together,O Sanctissima,together,god,0
+Happiness: We're All In It Together,O Sanctissima,together,hymns,0
+Happiness: We're All In It Together,O Sanctissima,happiness,oh,0.1111111111111111
+Happiness: We're All In It Together,O Sanctissima,happiness,god,0.25
+Happiness: We're All In It Together,O Sanctissima,happiness,hymns,0.25
+Happiness: We're All In It Together,O Sanctissima,young,oh,0.3333333333333333
+Happiness: We're All In It Together,O Sanctissima,young,god,0.125
+Happiness: We're All In It Together,O Sanctissima,young,hymns,0.125
+Happiness: We're All In It Together,O Sanctissima,mountain,oh,0.375
+Happiness: We're All In It Together,O Sanctissima,mountain,god,0.14285714285714285
+Happiness: We're All In It Together,O Sanctissima,mountain,hymns,0.14285714285714285
+Happiness: We're All In It Together,A Voice Calling Out,together,voice,0
+Happiness: We're All In It Together,A Voice Calling Out,together,calling,0
+Happiness: We're All In It Together,A Voice Calling Out,happiness,voice,0.4
+Happiness: We're All In It Together,A Voice Calling Out,happiness,calling,0.25
+Happiness: We're All In It Together,A Voice Calling Out,young,voice,0.13333333333333333
+Happiness: We're All In It Together,A Voice Calling Out,young,calling,0.125
+Happiness: We're All In It Together,A Voice Calling Out,mountain,voice,0.15384615384615385
+Happiness: We're All In It Together,A Voice Calling Out,mountain,calling,0.14285714285714285
+Happiness: We're All In It Together,Heaven must have send you,together,heaven,0
+Happiness: We're All In It Together,Heaven must have send you,together,must,0
+Happiness: We're All In It Together,Heaven must have send you,together,send,0
+Happiness: We're All In It Together,Heaven must have send you,together,detroit,0
+Happiness: We're All In It Together,Heaven must have send you,together,best,0
+Happiness: We're All In It Together,Heaven must have send you,happiness,heaven,0.14285714285714285
+Happiness: We're All In It Together,Heaven must have send you,happiness,must,0.15384615384615385
+Happiness: We're All In It Together,Heaven must have send you,happiness,send,0
+Happiness: We're All In It Together,Heaven must have send you,happiness,detroit,0.125
+Happiness: We're All In It Together,Heaven must have send you,happiness,best,0.25
+Happiness: We're All In It Together,Heaven must have send you,young,heaven,0.42857142857142855
+Happiness: We're All In It Together,Heaven must have send you,young,must,0.3076923076923077
+Happiness: We're All In It Together,Heaven must have send you,young,send,0
+Happiness: We're All In It Together,Heaven must have send you,young,detroit,0.375
+Happiness: We're All In It Together,Heaven must have send you,young,best,0.125
+Happiness: We're All In It Together,Heaven must have send you,mountain,heaven,0.5
+Happiness: We're All In It Together,Heaven must have send you,mountain,must,0.36363636363636365
+Happiness: We're All In It Together,Heaven must have send you,mountain,send,0
+Happiness: We're All In It Together,Heaven must have send you,mountain,detroit,0.42857142857142855
+Happiness: We're All In It Together,Heaven must have send you,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Summer,together,summer,0
+Happiness: We're All In It Together,Summer,together,crucial,0
+Happiness: We're All In It Together,Summer,together,conspiracy,0
+Happiness: We're All In It Together,Summer,happiness,summer,0.26666666666666666
+Happiness: We're All In It Together,Summer,happiness,crucial,0
+Happiness: We're All In It Together,Summer,happiness,conspiracy,0.26666666666666666
+Happiness: We're All In It Together,Summer,young,summer,0.13333333333333333
+Happiness: We're All In It Together,Summer,young,crucial,0
+Happiness: We're All In It Together,Summer,young,conspiracy,0.13333333333333333
+Happiness: We're All In It Together,Summer,mountain,summer,0.15384615384615385
+Happiness: We're All In It Together,Summer,mountain,crucial,0
+Happiness: We're All In It Together,Summer,mountain,conspiracy,0.15384615384615385
+Armistice,I'm Your Boogie Man,armistice,boogie,0.26666666666666666
+Armistice,I'm Your Boogie Man,armistice,man,0.15384615384615385
+Armistice,I'm Your Boogie Man,armistice,best,0.26666666666666666
+Armistice,I'm Your Boogie Man,phoenix,boogie,0.10526315789473684
+Armistice,I'm Your Boogie Man,phoenix,man,0.3157894736842105
+Armistice,I'm Your Boogie Man,phoenix,best,0.10526315789473684
+Armistice,Shook Me All Night Long,armistice,night,0.3076923076923077
+Armistice,Shook Me All Night Long,armistice,long,0
+Armistice,Shook Me All Night Long,armistice,shook,0.11764705882352941
+Armistice,Shook Me All Night Long,armistice,stubbs,0.13333333333333333
+Armistice,Shook Me All Night Long,armistice,live,0
+Armistice,Shook Me All Night Long,phoenix,night,0.11764705882352941
+Armistice,Shook Me All Night Long,phoenix,long,0
+Armistice,Shook Me All Night Long,phoenix,shook,0.2857142857142857
+Armistice,Shook Me All Night Long,phoenix,stubbs,0.2857142857142857
+Armistice,Shook Me All Night Long,phoenix,live,0
+Armistice,Wishing For This,armistice,wishing,0.5714285714285714
+Armistice,Wishing For This,armistice,wishing,0.5714285714285714
+Armistice,Wishing For This,phoenix,wishing,0.1111111111111111
+Armistice,Wishing For This,phoenix,wishing,0.1111111111111111
+Armistice,Rocks Off,armistice,rocks,0.15384615384615385
+Armistice,Rocks Off,armistice,main,0.16666666666666666
+Armistice,Rocks Off,armistice,exile,0.14285714285714285
+Armistice,Rocks Off,phoenix,rocks,0.35294117647058826
+Armistice,Rocks Off,phoenix,main,0.25
+Armistice,Rocks Off,phoenix,exile,0.3
+Armistice,Save The Best For Last,armistice,save,0.26666666666666666
+Armistice,Save The Best For Last,armistice,last,0.3076923076923077
+Armistice,Save The Best For Last,armistice,best,0.26666666666666666
+Armistice,Save The Best For Last,armistice,comfort,0.6153846153846154
+Armistice,Save The Best For Last,armistice,zone,0.14285714285714285
+Armistice,Save The Best For Last,phoenix,save,0.10526315789473684
+Armistice,Save The Best For Last,phoenix,last,0.11764705882352941
+Armistice,Save The Best For Last,phoenix,best,0.10526315789473684
+Armistice,Save The Best For Last,phoenix,comfort,0.11764705882352941
+Armistice,Save The Best For Last,phoenix,zone,0.4444444444444444
+Armistice,Secret Lovers,armistice,secret,0.3076923076923077
+Armistice,Secret Lovers,armistice,lovers,0.16666666666666666
+Armistice,Secret Lovers,armistice,true,0.2857142857142857
+Armistice,Secret Lovers,armistice,school,0.26666666666666666
+Armistice,Secret Lovers,armistice,party,0.3076923076923077
+Armistice,Secret Lovers,phoenix,secret,0.11764705882352941
+Armistice,Secret Lovers,phoenix,lovers,0.3333333333333333
+Armistice,Secret Lovers,phoenix,true,0.1111111111111111
+Armistice,Secret Lovers,phoenix,school,0.10526315789473684
+Armistice,Secret Lovers,phoenix,party,0.11764705882352941
+Armistice,Back & Forth,armistice,forth,0.14285714285714285
+Armistice,Back & Forth,armistice,back,0.15384615384615385
+Armistice,Back & Forth,armistice,number,0.42857142857142855
+Armistice,Back & Forth,armistice,nothing,0.3333333333333333
+Armistice,Back & Forth,armistice,age,0.5
+Armistice,Back & Forth,phoenix,forth,0.2222222222222222
+Armistice,Back & Forth,phoenix,back,0.23529411764705882
+Armistice,Back & Forth,phoenix,number,0.1111111111111111
+Armistice,Back & Forth,phoenix,nothing,0.125
+Armistice,Back & Forth,phoenix,age,0.125
+Armistice,O Sanctissima,armistice,oh,0.11764705882352941
+Armistice,O Sanctissima,armistice,god,0.26666666666666666
+Armistice,O Sanctissima,armistice,hymns,0.26666666666666666
+Armistice,O Sanctissima,phoenix,oh,0.6666666666666666
+Armistice,O Sanctissima,phoenix,god,0.10526315789473684
+Armistice,O Sanctissima,phoenix,hymns,0.10526315789473684
+Armistice,A Voice Calling Out,armistice,voice,0.42857142857142855
+Armistice,A Voice Calling Out,armistice,calling,0.26666666666666666
+Armistice,A Voice Calling Out,phoenix,voice,0.1111111111111111
+Armistice,A Voice Calling Out,phoenix,calling,0.10526315789473684
+Armistice,Heaven must have send you,armistice,heaven,0.15384615384615385
+Armistice,Heaven must have send you,armistice,must,0.16666666666666666
+Armistice,Heaven must have send you,armistice,send,0
+Armistice,Heaven must have send you,armistice,detroit,0.13333333333333333
+Armistice,Heaven must have send you,armistice,best,0.26666666666666666
+Armistice,Heaven must have send you,phoenix,heaven,0.47058823529411764
+Armistice,Heaven must have send you,phoenix,must,0.25
+Armistice,Heaven must have send you,phoenix,send,0
+Armistice,Heaven must have send you,phoenix,detroit,0.8571428571428571
+Armistice,Heaven must have send you,phoenix,best,0.10526315789473684
+Armistice,Summer,armistice,summer,0.2857142857142857
+Armistice,Summer,armistice,crucial,0
+Armistice,Summer,armistice,conspiracy,0.2857142857142857
+Armistice,Summer,phoenix,summer,0.1111111111111111
+Armistice,Summer,phoenix,crucial,0
+Armistice,Summer,phoenix,conspiracy,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,remedies,boogie,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,remedies,man,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,worse,boogie,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,worse,man,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,disease,boogie,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,disease,man,0.125
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,young,boogie,0.125
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,young,man,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,young,best,0.125
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,mountain,boogie,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,mountain,man,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,I'm Your Boogie Man,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,remedies,night,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,remedies,long,0
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,remedies,shook,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,remedies,stubbs,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,remedies,live,0
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,worse,night,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,worse,long,0
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,worse,shook,0.125
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,worse,stubbs,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,worse,live,0
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,disease,night,0.25
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,disease,long,0
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,disease,shook,0.1
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,disease,stubbs,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,disease,live,0
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,young,night,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,young,long,0
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,young,shook,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,young,stubbs,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,young,live,0
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,mountain,night,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,mountain,long,0
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,mountain,shook,0.375
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,mountain,stubbs,0.375
+There Are Some Remedies Worse Than The Disease,Shook Me All Night Long,mountain,live,0
+There Are Some Remedies Worse Than The Disease,Wishing For This,remedies,wishing,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Wishing For This,remedies,wishing,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Wishing For This,worse,wishing,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Wishing For This,worse,wishing,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Wishing For This,disease,wishing,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Wishing For This,disease,wishing,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Wishing For This,young,wishing,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Wishing For This,young,wishing,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Wishing For This,mountain,wishing,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Wishing For This,mountain,wishing,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Rocks Off,remedies,rocks,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Rocks Off,remedies,main,0.125
+There Are Some Remedies Worse Than The Disease,Rocks Off,remedies,exile,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Rocks Off,worse,rocks,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Rocks Off,worse,main,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Rocks Off,worse,exile,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Rocks Off,disease,rocks,0.125
+There Are Some Remedies Worse Than The Disease,Rocks Off,disease,main,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Rocks Off,disease,exile,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Rocks Off,young,rocks,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,Rocks Off,young,main,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Rocks Off,young,exile,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Rocks Off,mountain,rocks,0.5
+There Are Some Remedies Worse Than The Disease,Rocks Off,mountain,main,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Rocks Off,mountain,exile,0.4
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,remedies,save,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,remedies,comfort,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,remedies,zone,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,worse,save,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,worse,comfort,0.5
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,worse,zone,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,disease,save,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,disease,comfort,0.625
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,disease,zone,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,young,save,0.125
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,young,best,0.125
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,young,comfort,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,young,zone,0.4
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,mountain,save,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,mountain,comfort,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Save The Best For Last,mountain,zone,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Secret Lovers,remedies,secret,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Secret Lovers,remedies,lovers,0.125
+There Are Some Remedies Worse Than The Disease,Secret Lovers,remedies,true,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Secret Lovers,remedies,school,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Secret Lovers,remedies,party,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Secret Lovers,worse,secret,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Secret Lovers,worse,lovers,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Secret Lovers,worse,true,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Secret Lovers,worse,school,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Secret Lovers,worse,party,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Secret Lovers,disease,secret,0.25
+There Are Some Remedies Worse Than The Disease,Secret Lovers,disease,lovers,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Secret Lovers,disease,true,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Secret Lovers,disease,school,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Secret Lovers,disease,party,0.25
+There Are Some Remedies Worse Than The Disease,Secret Lovers,young,secret,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Secret Lovers,young,lovers,0.75
+There Are Some Remedies Worse Than The Disease,Secret Lovers,young,true,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Secret Lovers,young,school,0.125
+There Are Some Remedies Worse Than The Disease,Secret Lovers,young,party,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Secret Lovers,mountain,secret,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Secret Lovers,mountain,lovers,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Secret Lovers,mountain,true,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Secret Lovers,mountain,school,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Secret Lovers,mountain,party,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Back & Forth,remedies,forth,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Back & Forth,remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Back & Forth,remedies,number,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Back & Forth,remedies,nothing,0.25
+There Are Some Remedies Worse Than The Disease,Back & Forth,remedies,age,0.25
+There Are Some Remedies Worse Than The Disease,Back & Forth,worse,forth,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Back & Forth,worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Back & Forth,worse,number,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Back & Forth,worse,nothing,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Back & Forth,worse,age,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Back & Forth,disease,forth,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Back & Forth,disease,back,0.125
+There Are Some Remedies Worse Than The Disease,Back & Forth,disease,number,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Back & Forth,disease,nothing,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Back & Forth,disease,age,0.4
+There Are Some Remedies Worse Than The Disease,Back & Forth,young,forth,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Back & Forth,young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Back & Forth,young,number,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Back & Forth,young,nothing,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Back & Forth,young,age,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Back & Forth,mountain,forth,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Back & Forth,mountain,back,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Back & Forth,mountain,number,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Back & Forth,mountain,nothing,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Back & Forth,mountain,age,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,O Sanctissima,remedies,oh,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,O Sanctissima,remedies,god,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,O Sanctissima,remedies,hymns,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,O Sanctissima,worse,oh,0.125
+There Are Some Remedies Worse Than The Disease,O Sanctissima,worse,god,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,O Sanctissima,worse,hymns,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,O Sanctissima,disease,oh,0.1
+There Are Some Remedies Worse Than The Disease,O Sanctissima,disease,god,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,O Sanctissima,disease,hymns,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,O Sanctissima,young,oh,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,O Sanctissima,young,god,0.125
+There Are Some Remedies Worse Than The Disease,O Sanctissima,young,hymns,0.125
+There Are Some Remedies Worse Than The Disease,O Sanctissima,mountain,oh,0.375
+There Are Some Remedies Worse Than The Disease,O Sanctissima,mountain,god,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,O Sanctissima,mountain,hymns,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,remedies,voice,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,remedies,calling,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,worse,voice,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,worse,calling,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,disease,voice,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,disease,calling,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,young,voice,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,young,calling,0.125
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,mountain,voice,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,A Voice Calling Out,mountain,calling,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,remedies,heaven,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,remedies,must,0.125
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,remedies,send,0
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,remedies,detroit,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,worse,heaven,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,worse,must,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,worse,send,0
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,worse,detroit,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,disease,heaven,0.125
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,disease,must,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,disease,send,0
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,disease,detroit,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,young,heaven,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,young,must,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,young,send,0
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,young,detroit,0.375
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,young,best,0.125
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,mountain,heaven,0.5
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,mountain,must,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,mountain,send,0
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,mountain,detroit,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Heaven must have send you,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Summer,remedies,summer,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Summer,remedies,crucial,0
+There Are Some Remedies Worse Than The Disease,Summer,remedies,conspiracy,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Summer,worse,summer,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Summer,worse,crucial,0
+There Are Some Remedies Worse Than The Disease,Summer,worse,conspiracy,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Summer,disease,summer,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Summer,disease,crucial,0
+There Are Some Remedies Worse Than The Disease,Summer,disease,conspiracy,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Summer,young,summer,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Summer,young,crucial,0
+There Are Some Remedies Worse Than The Disease,Summer,young,conspiracy,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Summer,mountain,summer,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Summer,mountain,crucial,0
+There Are Some Remedies Worse Than The Disease,Summer,mountain,conspiracy,0.15384615384615385
+Swimming In The Flood,I'm Your Boogie Man,swimming,boogie,0.2222222222222222
+Swimming In The Flood,I'm Your Boogie Man,swimming,man,0.125
+Swimming In The Flood,I'm Your Boogie Man,swimming,best,0.6666666666666666
+Swimming In The Flood,I'm Your Boogie Man,flood,boogie,0.13333333333333333
+Swimming In The Flood,I'm Your Boogie Man,flood,man,0.3076923076923077
+Swimming In The Flood,I'm Your Boogie Man,flood,best,0.13333333333333333
+Swimming In The Flood,I'm Your Boogie Man,manners,boogie,0.2857142857142857
+Swimming In The Flood,I'm Your Boogie Man,manners,man,0.16666666666666666
+Swimming In The Flood,I'm Your Boogie Man,manners,best,0.2857142857142857
+Swimming In The Flood,Shook Me All Night Long,swimming,night,0.25
+Swimming In The Flood,Shook Me All Night Long,swimming,long,0
+Swimming In The Flood,Shook Me All Night Long,swimming,shook,0.1
+Swimming In The Flood,Shook Me All Night Long,swimming,stubbs,0.1111111111111111
+Swimming In The Flood,Shook Me All Night Long,swimming,live,0
+Swimming In The Flood,Shook Me All Night Long,flood,night,0.15384615384615385
+Swimming In The Flood,Shook Me All Night Long,flood,long,0
+Swimming In The Flood,Shook Me All Night Long,flood,shook,0.23529411764705882
+Swimming In The Flood,Shook Me All Night Long,flood,stubbs,0.26666666666666666
+Swimming In The Flood,Shook Me All Night Long,flood,live,0
+Swimming In The Flood,Shook Me All Night Long,manners,night,0.3333333333333333
+Swimming In The Flood,Shook Me All Night Long,manners,long,0
+Swimming In The Flood,Shook Me All Night Long,manners,shook,0.125
+Swimming In The Flood,Shook Me All Night Long,manners,stubbs,0.14285714285714285
+Swimming In The Flood,Shook Me All Night Long,manners,live,0
+Swimming In The Flood,Wishing For This,swimming,wishing,0.23529411764705882
+Swimming In The Flood,Wishing For This,swimming,wishing,0.23529411764705882
+Swimming In The Flood,Wishing For This,flood,wishing,0.14285714285714285
+Swimming In The Flood,Wishing For This,flood,wishing,0.14285714285714285
+Swimming In The Flood,Wishing For This,manners,wishing,0.46153846153846156
+Swimming In The Flood,Wishing For This,manners,wishing,0.46153846153846156
+Swimming In The Flood,Rocks Off,swimming,rocks,0.125
+Swimming In The Flood,Rocks Off,swimming,main,0.13333333333333333
+Swimming In The Flood,Rocks Off,swimming,exile,0.11764705882352941
+Swimming In The Flood,Rocks Off,flood,rocks,0.3076923076923077
+Swimming In The Flood,Rocks Off,flood,main,0.3333333333333333
+Swimming In The Flood,Rocks Off,flood,exile,0.2857142857142857
+Swimming In The Flood,Rocks Off,manners,rocks,0.16666666666666666
+Swimming In The Flood,Rocks Off,manners,main,0.18181818181818182
+Swimming In The Flood,Rocks Off,manners,exile,0.15384615384615385
+Swimming In The Flood,Save The Best For Last,swimming,save,0.5555555555555556
+Swimming In The Flood,Save The Best For Last,swimming,last,0.25
+Swimming In The Flood,Save The Best For Last,swimming,best,0.6666666666666666
+Swimming In The Flood,Save The Best For Last,swimming,comfort,0.25
+Swimming In The Flood,Save The Best For Last,swimming,zone,0.11764705882352941
+Swimming In The Flood,Save The Best For Last,flood,save,0.13333333333333333
+Swimming In The Flood,Save The Best For Last,flood,last,0.15384615384615385
+Swimming In The Flood,Save The Best For Last,flood,best,0.13333333333333333
+Swimming In The Flood,Save The Best For Last,flood,comfort,0.15384615384615385
+Swimming In The Flood,Save The Best For Last,flood,zone,0.2857142857142857
+Swimming In The Flood,Save The Best For Last,manners,save,0.2857142857142857
+Swimming In The Flood,Save The Best For Last,manners,last,0.3333333333333333
+Swimming In The Flood,Save The Best For Last,manners,best,0.2857142857142857
+Swimming In The Flood,Save The Best For Last,manners,comfort,0.5
+Swimming In The Flood,Save The Best For Last,manners,zone,0.15384615384615385
+Swimming In The Flood,Secret Lovers,swimming,secret,0.25
+Swimming In The Flood,Secret Lovers,swimming,lovers,0.13333333333333333
+Swimming In The Flood,Secret Lovers,swimming,true,0.23529411764705882
+Swimming In The Flood,Secret Lovers,swimming,school,0.2222222222222222
+Swimming In The Flood,Secret Lovers,swimming,party,0.25
+Swimming In The Flood,Secret Lovers,flood,secret,0.15384615384615385
+Swimming In The Flood,Secret Lovers,flood,lovers,0.3333333333333333
+Swimming In The Flood,Secret Lovers,flood,true,0.14285714285714285
+Swimming In The Flood,Secret Lovers,flood,school,0.13333333333333333
+Swimming In The Flood,Secret Lovers,flood,party,0.15384615384615385
+Swimming In The Flood,Secret Lovers,manners,secret,0.3333333333333333
+Swimming In The Flood,Secret Lovers,manners,lovers,0.18181818181818182
+Swimming In The Flood,Secret Lovers,manners,true,0.3076923076923077
+Swimming In The Flood,Secret Lovers,manners,school,0.2857142857142857
+Swimming In The Flood,Secret Lovers,manners,party,0.3333333333333333
+Swimming In The Flood,Back & Forth,swimming,forth,0.11764705882352941
+Swimming In The Flood,Back & Forth,swimming,back,0.125
+Swimming In The Flood,Back & Forth,swimming,number,0.23529411764705882
+Swimming In The Flood,Back & Forth,swimming,nothing,0.26666666666666666
+Swimming In The Flood,Back & Forth,swimming,age,0.26666666666666666
+Swimming In The Flood,Back & Forth,flood,forth,0.2857142857142857
+Swimming In The Flood,Back & Forth,flood,back,0.3076923076923077
+Swimming In The Flood,Back & Forth,flood,number,0.14285714285714285
+Swimming In The Flood,Back & Forth,flood,nothing,0.16666666666666666
+Swimming In The Flood,Back & Forth,flood,age,0.16666666666666666
+Swimming In The Flood,Back & Forth,manners,forth,0.15384615384615385
+Swimming In The Flood,Back & Forth,manners,back,0.16666666666666666
+Swimming In The Flood,Back & Forth,manners,number,0.46153846153846156
+Swimming In The Flood,Back & Forth,manners,nothing,0.36363636363636365
+Swimming In The Flood,Back & Forth,manners,age,0.5454545454545454
+Swimming In The Flood,O Sanctissima,swimming,oh,0.1
+Swimming In The Flood,O Sanctissima,swimming,god,0.3333333333333333
+Swimming In The Flood,O Sanctissima,swimming,hymns,0.2222222222222222
+Swimming In The Flood,O Sanctissima,flood,oh,0.23529411764705882
+Swimming In The Flood,O Sanctissima,flood,god,0.13333333333333333
+Swimming In The Flood,O Sanctissima,flood,hymns,0.13333333333333333
+Swimming In The Flood,O Sanctissima,manners,oh,0.125
+Swimming In The Flood,O Sanctissima,manners,god,0.2857142857142857
+Swimming In The Flood,O Sanctissima,manners,hymns,0.2857142857142857
+Swimming In The Flood,A Voice Calling Out,swimming,voice,0.23529411764705882
+Swimming In The Flood,A Voice Calling Out,swimming,calling,0.6666666666666666
+Swimming In The Flood,A Voice Calling Out,flood,voice,0.14285714285714285
+Swimming In The Flood,A Voice Calling Out,flood,calling,0.13333333333333333
+Swimming In The Flood,A Voice Calling Out,manners,voice,0.46153846153846156
+Swimming In The Flood,A Voice Calling Out,manners,calling,0.2857142857142857
+Swimming In The Flood,Heaven must have send you,swimming,heaven,0.125
+Swimming In The Flood,Heaven must have send you,swimming,must,0.13333333333333333
+Swimming In The Flood,Heaven must have send you,swimming,send,0
+Swimming In The Flood,Heaven must have send you,swimming,detroit,0.1111111111111111
+Swimming In The Flood,Heaven must have send you,swimming,best,0.6666666666666666
+Swimming In The Flood,Heaven must have send you,flood,heaven,0.3076923076923077
+Swimming In The Flood,Heaven must have send you,flood,must,0.3333333333333333
+Swimming In The Flood,Heaven must have send you,flood,send,0
+Swimming In The Flood,Heaven must have send you,flood,detroit,0.26666666666666666
+Swimming In The Flood,Heaven must have send you,flood,best,0.13333333333333333
+Swimming In The Flood,Heaven must have send you,manners,heaven,0.16666666666666666
+Swimming In The Flood,Heaven must have send you,manners,must,0.18181818181818182
+Swimming In The Flood,Heaven must have send you,manners,send,0
+Swimming In The Flood,Heaven must have send you,manners,detroit,0.14285714285714285
+Swimming In The Flood,Heaven must have send you,manners,best,0.2857142857142857
+Swimming In The Flood,Summer,swimming,summer,0.23529411764705882
+Swimming In The Flood,Summer,swimming,crucial,0
+Swimming In The Flood,Summer,swimming,conspiracy,0.23529411764705882
+Swimming In The Flood,Summer,flood,summer,0.14285714285714285
+Swimming In The Flood,Summer,flood,crucial,0
+Swimming In The Flood,Summer,flood,conspiracy,0.14285714285714285
+Swimming In The Flood,Summer,manners,summer,0.3076923076923077
+Swimming In The Flood,Summer,manners,crucial,0
+Swimming In The Flood,Summer,manners,conspiracy,0.3076923076923077

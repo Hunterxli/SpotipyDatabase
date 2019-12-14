@@ -1,0 +1,2245 @@
+the_first_song,the_second_song,word1,word2,result
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),swallowed,time,0.18181818181818182
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),swallowed,album,0.16666666666666666
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),swallowed,version,0.16666666666666666
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),swallowed,dear,0.18181818181818182
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),swallowed,friend,0.2
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),swallowed,secret,0.2
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),swallowed,time,0.18181818181818182
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),swallowed,secret,0.2
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),sea,time,0.16666666666666666
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),sea,album,0.3076923076923077
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),sea,version,0.15384615384615385
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),sea,dear,0.36363636363636365
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),sea,friend,0.4
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),sea,secret,0.18181818181818182
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),sea,time,0.16666666666666666
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),sea,secret,0.18181818181818182
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),x,time,0.26666666666666666
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),x,album,0.125
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),x,version,0.25
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),x,dear,0.14285714285714285
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),x,friend,0.15384615384615385
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),x,secret,0.2857142857142857
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),x,time,0.26666666666666666
+Swallowed In The Sea,Dear Friend (The Secret Of Time Album Version),x,secret,0.2857142857142857
+Swallowed In The Sea,Just The Way You Are,swallowed,way,0.2222222222222222
+Swallowed In The Sea,Just The Way You Are,swallowed,n,0.2
+Swallowed In The Sea,Just The Way You Are,swallowed,heartbreakers,0.18181818181818182
+Swallowed In The Sea,Just The Way You Are,sea,way,0.2
+Swallowed In The Sea,Just The Way You Are,sea,n,0.36363636363636365
+Swallowed In The Sea,Just The Way You Are,sea,heartbreakers,0.36363636363636365
+Swallowed In The Sea,Just The Way You Are,x,way,0.3076923076923077
+Swallowed In The Sea,Just The Way You Are,x,n,0.26666666666666666
+Swallowed In The Sea,Just The Way You Are,x,heartbreakers,0.14285714285714285
+Swallowed In The Sea,Miss Your Touch (Album Version),swallowed,album,0.16666666666666666
+Swallowed In The Sea,Miss Your Touch (Album Version),swallowed,version,0.16666666666666666
+Swallowed In The Sea,Miss Your Touch (Album Version),swallowed,touch,0.18181818181818182
+Swallowed In The Sea,Miss Your Touch (Album Version),swallowed,miss,0.16666666666666666
+Swallowed In The Sea,Miss Your Touch (Album Version),swallowed,cassie,0.125
+Swallowed In The Sea,Miss Your Touch (Album Version),sea,album,0.3076923076923077
+Swallowed In The Sea,Miss Your Touch (Album Version),sea,version,0.15384615384615385
+Swallowed In The Sea,Miss Your Touch (Album Version),sea,touch,0.16666666666666666
+Swallowed In The Sea,Miss Your Touch (Album Version),sea,miss,0.3333333333333333
+Swallowed In The Sea,Miss Your Touch (Album Version),sea,cassie,0.23529411764705882
+Swallowed In The Sea,Miss Your Touch (Album Version),x,album,0.125
+Swallowed In The Sea,Miss Your Touch (Album Version),x,version,0.25
+Swallowed In The Sea,Miss Your Touch (Album Version),x,touch,0.26666666666666666
+Swallowed In The Sea,Miss Your Touch (Album Version),x,miss,0.13333333333333333
+Swallowed In The Sea,Miss Your Touch (Album Version),x,cassie,0.1
+Swallowed In The Sea,Green,swallowed,green,0.16666666666666666
+Swallowed In The Sea,Green,swallowed,abnormal,0.4
+Swallowed In The Sea,Green,sea,green,0.15384615384615385
+Swallowed In The Sea,Green,sea,abnormal,0
+Swallowed In The Sea,Green,x,green,0.25
+Swallowed In The Sea,Green,x,abnormal,0
+Swallowed In The Sea,Make Music,swallowed,make,0.14285714285714285
+Swallowed In The Sea,Make Music,swallowed,music,0.2222222222222222
+Swallowed In The Sea,Make Music,swallowed,waiting,0.18181818181818182
+Swallowed In The Sea,Make Music,swallowed,room,0.16666666666666666
+Swallowed In The Sea,Make Music,sea,make,0.13333333333333333
+Swallowed In The Sea,Make Music,sea,music,0.2
+Swallowed In The Sea,Make Music,sea,waiting,0.16666666666666666
+Swallowed In The Sea,Make Music,sea,room,0.3076923076923077
+Swallowed In The Sea,Make Music,x,make,0.2222222222222222
+Swallowed In The Sea,Make Music,x,music,0.3076923076923077
+Swallowed In The Sea,Make Music,x,waiting,0.26666666666666666
+Swallowed In The Sea,Make Music,x,room,0.125
+Swallowed In The Sea,Stay,swallowed,stay,0.2
+Swallowed In The Sea,Stay,swallowed,essential,0.25
+Swallowed In The Sea,Stay,swallowed,eternal,0.4
+Swallowed In The Sea,Stay,sea,stay,0.18181818181818182
+Swallowed In The Sea,Stay,sea,essential,0.6666666666666666
+Swallowed In The Sea,Stay,sea,eternal,0
+Swallowed In The Sea,Stay,x,stay,0.2857142857142857
+Swallowed In The Sea,Stay,x,essential,0.16666666666666666
+Swallowed In The Sea,Stay,x,eternal,0
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),swallowed,digital,0.4
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),swallowed,girls,0.16666666666666666
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),swallowed,version,0.16666666666666666
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),swallowed,alley,0.14285714285714285
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),swallowed,greenhouse,0.16666666666666666
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),swallowed,granny,0.14285714285714285
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),swallowed,doughnut,0.18181818181818182
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),sea,digital,0
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),sea,girls,0.3333333333333333
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),sea,version,0.15384615384615385
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),sea,alley,0.26666666666666666
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),sea,greenhouse,0.3076923076923077
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),sea,granny,0.2857142857142857
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),sea,doughnut,0.16666666666666666
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),x,digital,0
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),x,girls,0.13333333333333333
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),x,version,0.25
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),x,alley,0.1111111111111111
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),x,greenhouse,0.125
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),x,granny,0.11764705882352941
+Swallowed In The Sea,Alley Oop (Girls Version) (2007 Digital Remaster),x,doughnut,0.26666666666666666
+Swallowed In The Sea,Cups,swallowed,cups,0.16666666666666666
+Swallowed In The Sea,Cups,swallowed,chilled,0.2857142857142857
+Swallowed In The Sea,Cups,swallowed,house,0.16666666666666666
+Swallowed In The Sea,Cups,swallowed,session,0.16666666666666666
+Swallowed In The Sea,Cups,sea,cups,0.3076923076923077
+Swallowed In The Sea,Cups,sea,chilled,0
+Swallowed In The Sea,Cups,sea,house,0.3076923076923077
+Swallowed In The Sea,Cups,sea,session,0.15384615384615385
+Swallowed In The Sea,Cups,x,cups,0.125
+Swallowed In The Sea,Cups,x,chilled,0
+Swallowed In The Sea,Cups,x,house,0.125
+Swallowed In The Sea,Cups,x,session,0.25
+Swallowed In The Sea,Still Take You Home,swallowed,still,0.15384615384615385
+Swallowed In The Sea,Still Take You Home,swallowed,take,0.14285714285714285
+Swallowed In The Sea,Still Take You Home,swallowed,home,0.15384615384615385
+Swallowed In The Sea,Still Take You Home,swallowed,people,0.25
+Swallowed In The Sea,Still Take You Home,swallowed,say,0.16666666666666666
+Swallowed In The Sea,Still Take You Home,swallowed,digital,0.4
+Swallowed In The Sea,Still Take You Home,sea,still,0.2857142857142857
+Swallowed In The Sea,Still Take You Home,sea,take,0.13333333333333333
+Swallowed In The Sea,Still Take You Home,sea,home,0.2857142857142857
+Swallowed In The Sea,Still Take You Home,sea,people,0.2222222222222222
+Swallowed In The Sea,Still Take You Home,sea,say,0.15384615384615385
+Swallowed In The Sea,Still Take You Home,sea,digital,0
+Swallowed In The Sea,Still Take You Home,x,still,0.11764705882352941
+Swallowed In The Sea,Still Take You Home,x,take,0.2222222222222222
+Swallowed In The Sea,Still Take You Home,x,home,0.11764705882352941
+Swallowed In The Sea,Still Take You Home,x,people,0.3333333333333333
+Swallowed In The Sea,Still Take You Home,x,say,0.25
+Swallowed In The Sea,Still Take You Home,x,digital,0
+Swallowed In The Sea,Milkshake,swallowed,milkshake,0.16666666666666666
+Swallowed In The Sea,Milkshake,swallowed,original,0.18181818181818182
+Swallowed In The Sea,Milkshake,swallowed,hits,0.15384615384615385
+Swallowed In The Sea,Milkshake,swallowed,soul,0.2
+Swallowed In The Sea,Milkshake,swallowed,rap,0.15384615384615385
+Swallowed In The Sea,Milkshake,sea,milkshake,0.15384615384615385
+Swallowed In The Sea,Milkshake,sea,original,0.3333333333333333
+Swallowed In The Sea,Milkshake,sea,hits,0.14285714285714285
+Swallowed In The Sea,Milkshake,sea,soul,0.36363636363636365
+Swallowed In The Sea,Milkshake,sea,rap,0.14285714285714285
+Swallowed In The Sea,Milkshake,x,milkshake,0.375
+Swallowed In The Sea,Milkshake,x,original,0.13333333333333333
+Swallowed In The Sea,Milkshake,x,hits,0.23529411764705882
+Swallowed In The Sea,Milkshake,x,soul,0.14285714285714285
+Swallowed In The Sea,Milkshake,x,rap,0.23529411764705882
+Swallowed In The Sea,The Way She Moves,swallowed,way,0.2222222222222222
+Swallowed In The Sea,The Way She Moves,swallowed,moves,0.15384615384615385
+Swallowed In The Sea,The Way She Moves,swallowed,perfect,0.16666666666666666
+Swallowed In The Sea,The Way She Moves,swallowed,melody,0.2
+Swallowed In The Sea,The Way She Moves,sea,way,0.2
+Swallowed In The Sea,The Way She Moves,sea,moves,0.14285714285714285
+Swallowed In The Sea,The Way She Moves,sea,perfect,0.15384615384615385
+Swallowed In The Sea,The Way She Moves,sea,melody,0.18181818181818182
+Swallowed In The Sea,The Way She Moves,x,way,0.3076923076923077
+Swallowed In The Sea,The Way She Moves,x,moves,0.23529411764705882
+Swallowed In The Sea,The Way She Moves,x,perfect,0.25
+Swallowed In The Sea,The Way She Moves,x,melody,0.2857142857142857
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),technicolor,time,0.4
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),technicolor,album,0.125
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),technicolor,version,0.25
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),technicolor,dear,0.14285714285714285
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),technicolor,friend,0.15384615384615385
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),technicolor,secret,0.2857142857142857
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),technicolor,time,0.4
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),technicolor,secret,0.2857142857142857
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),life,time,0.3076923076923077
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),life,album,0.14285714285714285
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),life,version,0.2857142857142857
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),life,dear,0.16666666666666666
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),life,friend,0.18181818181818182
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),life,secret,0.3333333333333333
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),life,time,0.3076923076923077
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),life,secret,0.3333333333333333
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),viva,time,0.5333333333333333
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),viva,album,0.125
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),viva,version,0.25
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),viva,dear,0.14285714285714285
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),viva,friend,0.15384615384615385
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),viva,secret,0.2857142857142857
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),viva,time,0.5333333333333333
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),viva,secret,0.2857142857142857
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),la,time,0.26666666666666666
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),la,album,0.26666666666666666
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),la,version,0.25
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),la,dear,0.3076923076923077
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),la,friend,0.3333333333333333
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),la,secret,0.2857142857142857
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),la,time,0.26666666666666666
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),la,secret,0.2857142857142857
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),friends,time,0.16666666666666666
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),friends,album,0.5
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),friends,version,0.15384615384615385
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),friends,dear,0.7058823529411765
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),friends,friend,0.75
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),friends,secret,0.18181818181818182
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),friends,time,0.16666666666666666
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),friends,secret,0.18181818181818182
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),death,time,0.7142857142857143
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),death,album,0.13333333333333333
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),death,version,0.26666666666666666
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),death,dear,0.15384615384615385
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),death,friend,0.16666666666666666
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),death,secret,0.3076923076923077
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),death,time,0.7142857142857143
+Life In Technicolor,Dear Friend (The Secret Of Time Album Version),death,secret,0.3076923076923077
+Life In Technicolor,Just The Way You Are,technicolor,way,0.3076923076923077
+Life In Technicolor,Just The Way You Are,technicolor,n,0.26666666666666666
+Life In Technicolor,Just The Way You Are,technicolor,heartbreakers,0.14285714285714285
+Life In Technicolor,Just The Way You Are,life,way,0.5454545454545454
+Life In Technicolor,Just The Way You Are,life,n,0.3076923076923077
+Life In Technicolor,Just The Way You Are,life,heartbreakers,0.16666666666666666
+Life In Technicolor,Just The Way You Are,viva,way,0.3076923076923077
+Life In Technicolor,Just The Way You Are,viva,n,0.26666666666666666
+Life In Technicolor,Just The Way You Are,viva,heartbreakers,0.14285714285714285
+Life In Technicolor,Just The Way You Are,la,way,0.3076923076923077
+Life In Technicolor,Just The Way You Are,la,n,0.8
+Life In Technicolor,Just The Way You Are,la,heartbreakers,0.3076923076923077
+Life In Technicolor,Just The Way You Are,friends,way,0.2
+Life In Technicolor,Just The Way You Are,friends,n,0.36363636363636365
+Life In Technicolor,Just The Way You Are,friends,heartbreakers,0.7058823529411765
+Life In Technicolor,Just The Way You Are,death,way,0.3333333333333333
+Life In Technicolor,Just The Way You Are,death,n,0.2857142857142857
+Life In Technicolor,Just The Way You Are,death,heartbreakers,0.15384615384615385
+Life In Technicolor,Miss Your Touch (Album Version),technicolor,album,0.125
+Life In Technicolor,Miss Your Touch (Album Version),technicolor,version,0.25
+Life In Technicolor,Miss Your Touch (Album Version),technicolor,touch,0.4
+Life In Technicolor,Miss Your Touch (Album Version),technicolor,miss,0.13333333333333333
+Life In Technicolor,Miss Your Touch (Album Version),technicolor,cassie,0.1
+Life In Technicolor,Miss Your Touch (Album Version),life,album,0.14285714285714285
+Life In Technicolor,Miss Your Touch (Album Version),life,version,0.2857142857142857
+Life In Technicolor,Miss Your Touch (Album Version),life,touch,0.3076923076923077
+Life In Technicolor,Miss Your Touch (Album Version),life,miss,0.15384615384615385
+Life In Technicolor,Miss Your Touch (Album Version),life,cassie,0.1111111111111111
+Life In Technicolor,Miss Your Touch (Album Version),viva,album,0.125
+Life In Technicolor,Miss Your Touch (Album Version),viva,version,0.25
+Life In Technicolor,Miss Your Touch (Album Version),viva,touch,0.5333333333333333
+Life In Technicolor,Miss Your Touch (Album Version),viva,miss,0.13333333333333333
+Life In Technicolor,Miss Your Touch (Album Version),viva,cassie,0.1
+Life In Technicolor,Miss Your Touch (Album Version),la,album,0.26666666666666666
+Life In Technicolor,Miss Your Touch (Album Version),la,version,0.25
+Life In Technicolor,Miss Your Touch (Album Version),la,touch,0.26666666666666666
+Life In Technicolor,Miss Your Touch (Album Version),la,miss,0.2857142857142857
+Life In Technicolor,Miss Your Touch (Album Version),la,cassie,0.21052631578947367
+Life In Technicolor,Miss Your Touch (Album Version),friends,album,0.5
+Life In Technicolor,Miss Your Touch (Album Version),friends,version,0.15384615384615385
+Life In Technicolor,Miss Your Touch (Album Version),friends,touch,0.16666666666666666
+Life In Technicolor,Miss Your Touch (Album Version),friends,miss,0.6666666666666666
+Life In Technicolor,Miss Your Touch (Album Version),friends,cassie,0.6
+Life In Technicolor,Miss Your Touch (Album Version),death,album,0.13333333333333333
+Life In Technicolor,Miss Your Touch (Album Version),death,version,0.26666666666666666
+Life In Technicolor,Miss Your Touch (Album Version),death,touch,0.7142857142857143
+Life In Technicolor,Miss Your Touch (Album Version),death,miss,0.14285714285714285
+Life In Technicolor,Miss Your Touch (Album Version),death,cassie,0.10526315789473684
+Life In Technicolor,Green,technicolor,green,0.25
+Life In Technicolor,Green,technicolor,abnormal,0
+Life In Technicolor,Green,life,green,0.42857142857142855
+Life In Technicolor,Green,life,abnormal,0
+Life In Technicolor,Green,viva,green,0.25
+Life In Technicolor,Green,viva,abnormal,0
+Life In Technicolor,Green,la,green,0.25
+Life In Technicolor,Green,la,abnormal,0
+Life In Technicolor,Green,friends,green,0.15384615384615385
+Life In Technicolor,Green,friends,abnormal,0
+Life In Technicolor,Green,death,green,0.26666666666666666
+Life In Technicolor,Green,death,abnormal,0
+Life In Technicolor,Make Music,technicolor,make,0.4444444444444444
+Life In Technicolor,Make Music,technicolor,music,0.3076923076923077
+Life In Technicolor,Make Music,technicolor,waiting,0.4
+Life In Technicolor,Make Music,technicolor,room,0.125
+Life In Technicolor,Make Music,life,make,0.25
+Life In Technicolor,Make Music,life,music,0.36363636363636365
+Life In Technicolor,Make Music,life,waiting,0.3076923076923077
+Life In Technicolor,Make Music,life,room,0.14285714285714285
+Life In Technicolor,Make Music,viva,make,0.3333333333333333
+Life In Technicolor,Make Music,viva,music,0.3076923076923077
+Life In Technicolor,Make Music,viva,waiting,0.6666666666666666
+Life In Technicolor,Make Music,viva,room,0.125
+Life In Technicolor,Make Music,la,make,0.2222222222222222
+Life In Technicolor,Make Music,la,music,0.3076923076923077
+Life In Technicolor,Make Music,la,waiting,0.26666666666666666
+Life In Technicolor,Make Music,la,room,0.26666666666666666
+Life In Technicolor,Make Music,friends,make,0.13333333333333333
+Life In Technicolor,Make Music,friends,music,0.2
+Life In Technicolor,Make Music,friends,waiting,0.16666666666666666
+Life In Technicolor,Make Music,friends,room,0.5
+Life In Technicolor,Make Music,death,make,0.35294117647058826
+Life In Technicolor,Make Music,death,music,0.3333333333333333
+Life In Technicolor,Make Music,death,waiting,0.5714285714285714
+Life In Technicolor,Make Music,death,room,0.13333333333333333
+Life In Technicolor,Stay,technicolor,stay,0.42857142857142855
+Life In Technicolor,Stay,technicolor,essential,0.16666666666666666
+Life In Technicolor,Stay,technicolor,eternal,0
+Life In Technicolor,Stay,life,stay,0.3333333333333333
+Life In Technicolor,Stay,life,essential,0.2
+Life In Technicolor,Stay,life,eternal,0
+Life In Technicolor,Stay,viva,stay,0.7142857142857143
+Life In Technicolor,Stay,viva,essential,0.16666666666666666
+Life In Technicolor,Stay,viva,eternal,0
+Life In Technicolor,Stay,la,stay,0.2857142857142857
+Life In Technicolor,Stay,la,essential,0.36363636363636365
+Life In Technicolor,Stay,la,eternal,0
+Life In Technicolor,Stay,friends,stay,0.18181818181818182
+Life In Technicolor,Stay,friends,essential,0.4444444444444444
+Life In Technicolor,Stay,friends,eternal,0
+Life In Technicolor,Stay,death,stay,0.6153846153846154
+Life In Technicolor,Stay,death,essential,0.18181818181818182
+Life In Technicolor,Stay,death,eternal,0
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,digital,0
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,girls,0.13333333333333333
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,version,0.25
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,alley,0.1111111111111111
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,greenhouse,0.125
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,granny,0.11764705882352941
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,doughnut,0.26666666666666666
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),life,digital,0
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),life,girls,0.15384615384615385
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),life,version,0.2857142857142857
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),life,alley,0.125
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),life,greenhouse,0.14285714285714285
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),life,granny,0.13333333333333333
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),life,doughnut,0.46153846153846156
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),viva,digital,0
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),viva,girls,0.13333333333333333
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),viva,version,0.25
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),viva,alley,0.1111111111111111
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),viva,greenhouse,0.125
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),viva,granny,0.11764705882352941
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),viva,doughnut,0.26666666666666666
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),la,digital,0
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),la,girls,0.2857142857142857
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),la,version,0.25
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),la,alley,0.23529411764705882
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),la,greenhouse,0.26666666666666666
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),la,granny,0.25
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),la,doughnut,0.26666666666666666
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),friends,digital,0
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),friends,girls,0.6666666666666666
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),friends,version,0.15384615384615385
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),friends,alley,0.4444444444444444
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),friends,greenhouse,0.5
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),friends,granny,0.6
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),friends,doughnut,0.16666666666666666
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),death,digital,0
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),death,girls,0.14285714285714285
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),death,version,0.26666666666666666
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),death,alley,0.11764705882352941
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),death,greenhouse,0.13333333333333333
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),death,granny,0.125
+Life In Technicolor,Alley Oop (Girls Version) (2007 Digital Remaster),death,doughnut,0.2857142857142857
+Life In Technicolor,Cups,technicolor,cups,0.125
+Life In Technicolor,Cups,technicolor,chilled,0
+Life In Technicolor,Cups,technicolor,house,0.125
+Life In Technicolor,Cups,technicolor,session,0.25
+Life In Technicolor,Cups,life,cups,0.14285714285714285
+Life In Technicolor,Cups,life,chilled,0
+Life In Technicolor,Cups,life,house,0.14285714285714285
+Life In Technicolor,Cups,life,session,0.2857142857142857
+Life In Technicolor,Cups,viva,cups,0.125
+Life In Technicolor,Cups,viva,chilled,0
+Life In Technicolor,Cups,viva,house,0.125
+Life In Technicolor,Cups,viva,session,0.25
+Life In Technicolor,Cups,la,cups,0.26666666666666666
+Life In Technicolor,Cups,la,chilled,0
+Life In Technicolor,Cups,la,house,0.26666666666666666
+Life In Technicolor,Cups,la,session,0.25
+Life In Technicolor,Cups,friends,cups,0.5
+Life In Technicolor,Cups,friends,chilled,0
+Life In Technicolor,Cups,friends,house,0.5
+Life In Technicolor,Cups,friends,session,0.15384615384615385
+Life In Technicolor,Cups,death,cups,0.13333333333333333
+Life In Technicolor,Cups,death,chilled,0
+Life In Technicolor,Cups,death,house,0.13333333333333333
+Life In Technicolor,Cups,death,session,0.26666666666666666
+Life In Technicolor,Still Take You Home,technicolor,still,0.11764705882352941
+Life In Technicolor,Still Take You Home,technicolor,take,0.2222222222222222
+Life In Technicolor,Still Take You Home,technicolor,home,0.11764705882352941
+Life In Technicolor,Still Take You Home,technicolor,people,0.3333333333333333
+Life In Technicolor,Still Take You Home,technicolor,say,0.25
+Life In Technicolor,Still Take You Home,technicolor,digital,0
+Life In Technicolor,Still Take You Home,life,still,0.13333333333333333
+Life In Technicolor,Still Take You Home,life,take,0.25
+Life In Technicolor,Still Take You Home,life,home,0.13333333333333333
+Life In Technicolor,Still Take You Home,life,people,0.4
+Life In Technicolor,Still Take You Home,life,say,0.7142857142857143
+Life In Technicolor,Still Take You Home,life,digital,0
+Life In Technicolor,Still Take You Home,viva,still,0.11764705882352941
+Life In Technicolor,Still Take You Home,viva,take,0.2222222222222222
+Life In Technicolor,Still Take You Home,viva,home,0.11764705882352941
+Life In Technicolor,Still Take You Home,viva,people,0.3333333333333333
+Life In Technicolor,Still Take You Home,viva,say,0.25
+Life In Technicolor,Still Take You Home,viva,digital,0
+Life In Technicolor,Still Take You Home,la,still,0.25
+Life In Technicolor,Still Take You Home,la,take,0.3333333333333333
+Life In Technicolor,Still Take You Home,la,home,0.25
+Life In Technicolor,Still Take You Home,la,people,0.3333333333333333
+Life In Technicolor,Still Take You Home,la,say,0.25
+Life In Technicolor,Still Take You Home,la,digital,0
+Life In Technicolor,Still Take You Home,friends,still,0.47058823529411764
+Life In Technicolor,Still Take You Home,friends,take,0.13333333333333333
+Life In Technicolor,Still Take You Home,friends,home,0.375
+Life In Technicolor,Still Take You Home,friends,people,0.2222222222222222
+Life In Technicolor,Still Take You Home,friends,say,0.15384615384615385
+Life In Technicolor,Still Take You Home,friends,digital,0
+Life In Technicolor,Still Take You Home,death,still,0.125
+Life In Technicolor,Still Take You Home,death,take,0.23529411764705882
+Life In Technicolor,Still Take You Home,death,home,0.125
+Life In Technicolor,Still Take You Home,death,people,0.36363636363636365
+Life In Technicolor,Still Take You Home,death,say,0.26666666666666666
+Life In Technicolor,Still Take You Home,death,digital,0
+Life In Technicolor,Milkshake,technicolor,milkshake,0.25
+Life In Technicolor,Milkshake,technicolor,original,0.13333333333333333
+Life In Technicolor,Milkshake,technicolor,hits,0.35294117647058826
+Life In Technicolor,Milkshake,technicolor,soul,0.14285714285714285
+Life In Technicolor,Milkshake,technicolor,rap,0.23529411764705882
+Life In Technicolor,Milkshake,life,milkshake,0.2857142857142857
+Life In Technicolor,Milkshake,life,original,0.15384615384615385
+Life In Technicolor,Milkshake,life,hits,0.26666666666666666
+Life In Technicolor,Milkshake,life,soul,0.16666666666666666
+Life In Technicolor,Milkshake,life,rap,0.26666666666666666
+Life In Technicolor,Milkshake,viva,milkshake,0.25
+Life In Technicolor,Milkshake,viva,original,0.13333333333333333
+Life In Technicolor,Milkshake,viva,hits,0.5882352941176471
+Life In Technicolor,Milkshake,viva,soul,0.14285714285714285
+Life In Technicolor,Milkshake,viva,rap,0.23529411764705882
+Life In Technicolor,Milkshake,la,milkshake,0.25
+Life In Technicolor,Milkshake,la,original,0.2857142857142857
+Life In Technicolor,Milkshake,la,hits,0.23529411764705882
+Life In Technicolor,Milkshake,la,soul,0.3076923076923077
+Life In Technicolor,Milkshake,la,rap,0.23529411764705882
+Life In Technicolor,Milkshake,friends,milkshake,0.15384615384615385
+Life In Technicolor,Milkshake,friends,original,0.5333333333333333
+Life In Technicolor,Milkshake,friends,hits,0.14285714285714285
+Life In Technicolor,Milkshake,friends,soul,0.5454545454545454
+Life In Technicolor,Milkshake,friends,rap,0.14285714285714285
+Life In Technicolor,Milkshake,death,milkshake,0.26666666666666666
+Life In Technicolor,Milkshake,death,original,0.14285714285714285
+Life In Technicolor,Milkshake,death,hits,0.5
+Life In Technicolor,Milkshake,death,soul,0.15384615384615385
+Life In Technicolor,Milkshake,death,rap,0.25
+Life In Technicolor,The Way She Moves,technicolor,way,0.3076923076923077
+Life In Technicolor,The Way She Moves,technicolor,moves,0.35294117647058826
+Life In Technicolor,The Way She Moves,technicolor,perfect,0.25
+Life In Technicolor,The Way She Moves,technicolor,melody,0.2857142857142857
+Life In Technicolor,The Way She Moves,life,way,0.5454545454545454
+Life In Technicolor,The Way She Moves,life,moves,0.26666666666666666
+Life In Technicolor,The Way She Moves,life,perfect,0.2857142857142857
+Life In Technicolor,The Way She Moves,life,melody,0.3333333333333333
+Life In Technicolor,The Way She Moves,viva,way,0.3076923076923077
+Life In Technicolor,The Way She Moves,viva,moves,0.5882352941176471
+Life In Technicolor,The Way She Moves,viva,perfect,0.25
+Life In Technicolor,The Way She Moves,viva,melody,0.2857142857142857
+Life In Technicolor,The Way She Moves,la,way,0.3076923076923077
+Life In Technicolor,The Way She Moves,la,moves,0.23529411764705882
+Life In Technicolor,The Way She Moves,la,perfect,0.25
+Life In Technicolor,The Way She Moves,la,melody,0.2857142857142857
+Life In Technicolor,The Way She Moves,friends,way,0.2
+Life In Technicolor,The Way She Moves,friends,moves,0.14285714285714285
+Life In Technicolor,The Way She Moves,friends,perfect,0.15384615384615385
+Life In Technicolor,The Way She Moves,friends,melody,0.18181818181818182
+Life In Technicolor,The Way She Moves,death,way,0.3333333333333333
+Life In Technicolor,The Way She Moves,death,moves,0.5
+Life In Technicolor,The Way She Moves,death,perfect,0.26666666666666666
+Life In Technicolor,The Way She Moves,death,melody,0.3076923076923077
+Clocks,Dear Friend (The Secret Of Time Album Version),clocks,time,0.10526315789473684
+Clocks,Dear Friend (The Secret Of Time Album Version),clocks,album,0.4
+Clocks,Dear Friend (The Secret Of Time Album Version),clocks,version,0.1
+Clocks,Dear Friend (The Secret Of Time Album Version),clocks,dear,0.5714285714285714
+Clocks,Dear Friend (The Secret Of Time Album Version),clocks,friend,0.6
+Clocks,Dear Friend (The Secret Of Time Album Version),clocks,secret,0.1111111111111111
+Clocks,Dear Friend (The Secret Of Time Album Version),clocks,time,0.10526315789473684
+Clocks,Dear Friend (The Secret Of Time Album Version),clocks,secret,0.1111111111111111
+Clocks,Dear Friend (The Secret Of Time Album Version),rush,time,0.5
+Clocks,Dear Friend (The Secret Of Time Album Version),rush,album,0.11764705882352941
+Clocks,Dear Friend (The Secret Of Time Album Version),rush,version,0.23529411764705882
+Clocks,Dear Friend (The Secret Of Time Album Version),rush,dear,0.13333333333333333
+Clocks,Dear Friend (The Secret Of Time Album Version),rush,friend,0.14285714285714285
+Clocks,Dear Friend (The Secret Of Time Album Version),rush,secret,0.26666666666666666
+Clocks,Dear Friend (The Secret Of Time Album Version),rush,time,0.5
+Clocks,Dear Friend (The Secret Of Time Album Version),rush,secret,0.26666666666666666
+Clocks,Dear Friend (The Secret Of Time Album Version),head,time,0.14285714285714285
+Clocks,Dear Friend (The Secret Of Time Album Version),head,album,0.26666666666666666
+Clocks,Dear Friend (The Secret Of Time Album Version),head,version,0.13333333333333333
+Clocks,Dear Friend (The Secret Of Time Album Version),head,dear,0.3076923076923077
+Clocks,Dear Friend (The Secret Of Time Album Version),head,friend,0.3333333333333333
+Clocks,Dear Friend (The Secret Of Time Album Version),head,secret,0.15384615384615385
+Clocks,Dear Friend (The Secret Of Time Album Version),head,time,0.14285714285714285
+Clocks,Dear Friend (The Secret Of Time Album Version),head,secret,0.15384615384615385
+Clocks,Dear Friend (The Secret Of Time Album Version),blood,time,0.26666666666666666
+Clocks,Dear Friend (The Secret Of Time Album Version),blood,album,0.26666666666666666
+Clocks,Dear Friend (The Secret Of Time Album Version),blood,version,0.25
+Clocks,Dear Friend (The Secret Of Time Album Version),blood,dear,0.3076923076923077
+Clocks,Dear Friend (The Secret Of Time Album Version),blood,friend,0.3333333333333333
+Clocks,Dear Friend (The Secret Of Time Album Version),blood,secret,0.2857142857142857
+Clocks,Dear Friend (The Secret Of Time Album Version),blood,time,0.26666666666666666
+Clocks,Dear Friend (The Secret Of Time Album Version),blood,secret,0.2857142857142857
+Clocks,Just The Way You Are,clocks,way,0.11764705882352941
+Clocks,Just The Way You Are,clocks,n,0.2222222222222222
+Clocks,Just The Way You Are,clocks,heartbreakers,0.5714285714285714
+Clocks,Just The Way You Are,rush,way,0.2857142857142857
+Clocks,Just The Way You Are,rush,n,0.25
+Clocks,Just The Way You Are,rush,heartbreakers,0.13333333333333333
+Clocks,Just The Way You Are,head,way,0.16666666666666666
+Clocks,Just The Way You Are,head,n,0.3076923076923077
+Clocks,Just The Way You Are,head,heartbreakers,0.3076923076923077
+Clocks,Just The Way You Are,blood,way,0.3076923076923077
+Clocks,Just The Way You Are,blood,n,0.5333333333333333
+Clocks,Just The Way You Are,blood,heartbreakers,0.3076923076923077
+Clocks,Miss Your Touch (Album Version),clocks,album,0.4
+Clocks,Miss Your Touch (Album Version),clocks,version,0.1
+Clocks,Miss Your Touch (Album Version),clocks,touch,0.10526315789473684
+Clocks,Miss Your Touch (Album Version),clocks,miss,0.5454545454545454
+Clocks,Miss Your Touch (Album Version),clocks,cassie,0.6666666666666666
+Clocks,Miss Your Touch (Album Version),rush,album,0.11764705882352941
+Clocks,Miss Your Touch (Album Version),rush,version,0.23529411764705882
+Clocks,Miss Your Touch (Album Version),rush,touch,0.5
+Clocks,Miss Your Touch (Album Version),rush,miss,0.125
+Clocks,Miss Your Touch (Album Version),rush,cassie,0.09523809523809523
+Clocks,Miss Your Touch (Album Version),head,album,0.26666666666666666
+Clocks,Miss Your Touch (Album Version),head,version,0.13333333333333333
+Clocks,Miss Your Touch (Album Version),head,touch,0.14285714285714285
+Clocks,Miss Your Touch (Album Version),head,miss,0.2857142857142857
+Clocks,Miss Your Touch (Album Version),head,cassie,0.21052631578947367
+Clocks,Miss Your Touch (Album Version),blood,album,0.26666666666666666
+Clocks,Miss Your Touch (Album Version),blood,version,0.25
+Clocks,Miss Your Touch (Album Version),blood,touch,0.26666666666666666
+Clocks,Miss Your Touch (Album Version),blood,miss,0.2857142857142857
+Clocks,Miss Your Touch (Album Version),blood,cassie,0.21052631578947367
+Clocks,Green,clocks,green,0.1
+Clocks,Green,clocks,abnormal,0
+Clocks,Green,rush,green,0.23529411764705882
+Clocks,Green,rush,abnormal,0
+Clocks,Green,head,green,0.13333333333333333
+Clocks,Green,head,abnormal,0
+Clocks,Green,blood,green,0.25
+Clocks,Green,blood,abnormal,0
+Clocks,Make Music,clocks,make,0.09090909090909091
+Clocks,Make Music,clocks,music,0.11764705882352941
+Clocks,Make Music,clocks,waiting,0.10526315789473684
+Clocks,Make Music,clocks,room,0.4
+Clocks,Make Music,rush,make,0.3157894736842105
+Clocks,Make Music,rush,music,0.2857142857142857
+Clocks,Make Music,rush,waiting,0.625
+Clocks,Make Music,rush,room,0.11764705882352941
+Clocks,Make Music,head,make,0.11764705882352941
+Clocks,Make Music,head,music,0.16666666666666666
+Clocks,Make Music,head,waiting,0.14285714285714285
+Clocks,Make Music,head,room,0.26666666666666666
+Clocks,Make Music,blood,make,0.2222222222222222
+Clocks,Make Music,blood,music,0.3076923076923077
+Clocks,Make Music,blood,waiting,0.26666666666666666
+Clocks,Make Music,blood,room,0.26666666666666666
+Clocks,Stay,clocks,stay,0.1111111111111111
+Clocks,Stay,clocks,essential,0.25
+Clocks,Stay,clocks,eternal,0
+Clocks,Stay,rush,stay,0.6666666666666666
+Clocks,Stay,rush,essential,0.15384615384615385
+Clocks,Stay,rush,eternal,0
+Clocks,Stay,head,stay,0.15384615384615385
+Clocks,Stay,head,essential,0.5454545454545454
+Clocks,Stay,head,eternal,0
+Clocks,Stay,blood,stay,0.2857142857142857
+Clocks,Stay,blood,essential,0.36363636363636365
+Clocks,Stay,blood,eternal,0
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),clocks,digital,0
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),clocks,girls,0.5454545454545454
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),clocks,version,0.1
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),clocks,alley,0.36363636363636365
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),clocks,greenhouse,0.4
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),clocks,granny,0.5
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),clocks,doughnut,0.10526315789473684
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),rush,digital,0
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),rush,girls,0.125
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),rush,version,0.23529411764705882
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),rush,alley,0.10526315789473684
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),rush,greenhouse,0.11764705882352941
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),rush,granny,0.1111111111111111
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),rush,doughnut,0.25
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),head,digital,0
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),head,girls,0.2857142857142857
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),head,version,0.13333333333333333
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),head,alley,0.23529411764705882
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),head,greenhouse,0.26666666666666666
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),head,granny,0.25
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),head,doughnut,0.14285714285714285
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),blood,digital,0
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),blood,girls,0.2857142857142857
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),blood,version,0.25
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),blood,alley,0.23529411764705882
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),blood,greenhouse,0.26666666666666666
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),blood,granny,0.25
+Clocks,Alley Oop (Girls Version) (2007 Digital Remaster),blood,doughnut,0.26666666666666666
+Clocks,Cups,clocks,cups,0.4
+Clocks,Cups,clocks,chilled,0
+Clocks,Cups,clocks,house,0.4
+Clocks,Cups,clocks,session,0.1
+Clocks,Cups,rush,cups,0.11764705882352941
+Clocks,Cups,rush,chilled,0
+Clocks,Cups,rush,house,0.11764705882352941
+Clocks,Cups,rush,session,0.23529411764705882
+Clocks,Cups,head,cups,0.26666666666666666
+Clocks,Cups,head,chilled,0
+Clocks,Cups,head,house,0.26666666666666666
+Clocks,Cups,head,session,0.13333333333333333
+Clocks,Cups,blood,cups,0.26666666666666666
+Clocks,Cups,blood,chilled,0
+Clocks,Cups,blood,house,0.26666666666666666
+Clocks,Cups,blood,session,0.25
+Clocks,Still Take You Home,clocks,still,0.38095238095238093
+Clocks,Still Take You Home,clocks,take,0.09090909090909091
+Clocks,Still Take You Home,clocks,home,0.2857142857142857
+Clocks,Still Take You Home,clocks,people,0.125
+Clocks,Still Take You Home,clocks,say,0.1
+Clocks,Still Take You Home,clocks,digital,0
+Clocks,Still Take You Home,rush,still,0.1111111111111111
+Clocks,Still Take You Home,rush,take,0.21052631578947367
+Clocks,Still Take You Home,rush,home,0.1111111111111111
+Clocks,Still Take You Home,rush,people,0.3076923076923077
+Clocks,Still Take You Home,rush,say,0.23529411764705882
+Clocks,Still Take You Home,rush,digital,0
+Clocks,Still Take You Home,head,still,0.25
+Clocks,Still Take You Home,head,take,0.11764705882352941
+Clocks,Still Take You Home,head,home,0.25
+Clocks,Still Take You Home,head,people,0.18181818181818182
+Clocks,Still Take You Home,head,say,0.13333333333333333
+Clocks,Still Take You Home,head,digital,0
+Clocks,Still Take You Home,blood,still,0.25
+Clocks,Still Take You Home,blood,take,0.3333333333333333
+Clocks,Still Take You Home,blood,home,0.25
+Clocks,Still Take You Home,blood,people,0.3333333333333333
+Clocks,Still Take You Home,blood,say,0.25
+Clocks,Still Take You Home,blood,digital,0
+Clocks,Milkshake,clocks,milkshake,0.1
+Clocks,Milkshake,clocks,original,0.42105263157894735
+Clocks,Milkshake,clocks,hits,0.09523809523809523
+Clocks,Milkshake,clocks,soul,0.2222222222222222
+Clocks,Milkshake,clocks,rap,0.09523809523809523
+Clocks,Milkshake,rush,milkshake,0.23529411764705882
+Clocks,Milkshake,rush,original,0.125
+Clocks,Milkshake,rush,hits,0.6666666666666666
+Clocks,Milkshake,rush,soul,0.13333333333333333
+Clocks,Milkshake,rush,rap,0.2222222222222222
+Clocks,Milkshake,head,milkshake,0.13333333333333333
+Clocks,Milkshake,head,original,0.2857142857142857
+Clocks,Milkshake,head,hits,0.125
+Clocks,Milkshake,head,soul,0.3076923076923077
+Clocks,Milkshake,head,rap,0.125
+Clocks,Milkshake,blood,milkshake,0.25
+Clocks,Milkshake,blood,original,0.2857142857142857
+Clocks,Milkshake,blood,hits,0.23529411764705882
+Clocks,Milkshake,blood,soul,0.3076923076923077
+Clocks,Milkshake,blood,rap,0.23529411764705882
+Clocks,The Way She Moves,clocks,way,0.11764705882352941
+Clocks,The Way She Moves,clocks,moves,0.09523809523809523
+Clocks,The Way She Moves,clocks,perfect,0.1
+Clocks,The Way She Moves,clocks,melody,0.1111111111111111
+Clocks,The Way She Moves,rush,way,0.2857142857142857
+Clocks,The Way She Moves,rush,moves,0.6666666666666666
+Clocks,The Way She Moves,rush,perfect,0.23529411764705882
+Clocks,The Way She Moves,rush,melody,0.26666666666666666
+Clocks,The Way She Moves,head,way,0.16666666666666666
+Clocks,The Way She Moves,head,moves,0.125
+Clocks,The Way She Moves,head,perfect,0.13333333333333333
+Clocks,The Way She Moves,head,melody,0.15384615384615385
+Clocks,The Way She Moves,blood,way,0.3076923076923077
+Clocks,The Way She Moves,blood,moves,0.23529411764705882
+Clocks,The Way She Moves,blood,perfect,0.25
+Clocks,The Way She Moves,blood,melody,0.2857142857142857
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),strawberry,time,0.125
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),strawberry,album,0.4
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),strawberry,version,0.11764705882352941
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),strawberry,dear,0.38095238095238093
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),strawberry,friend,0.4
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),strawberry,secret,0.13333333333333333
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),strawberry,time,0.125
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),strawberry,secret,0.13333333333333333
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),swing,time,0.3076923076923077
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),swing,album,0.14285714285714285
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),swing,version,0.2857142857142857
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),swing,dear,0.16666666666666666
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),swing,friend,0.18181818181818182
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),swing,secret,0.3333333333333333
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),swing,time,0.3076923076923077
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),swing,secret,0.3333333333333333
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),viva,time,0.5333333333333333
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),viva,album,0.125
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),viva,version,0.25
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),viva,dear,0.14285714285714285
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),viva,friend,0.15384615384615385
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),viva,secret,0.2857142857142857
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),viva,time,0.5333333333333333
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),viva,secret,0.2857142857142857
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),la,time,0.26666666666666666
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),la,album,0.26666666666666666
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),la,version,0.25
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),la,dear,0.3076923076923077
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),la,friend,0.3333333333333333
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),la,secret,0.2857142857142857
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),la,time,0.26666666666666666
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),la,secret,0.2857142857142857
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),march,time,0.26666666666666666
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),march,album,0.125
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),march,version,0.25
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),march,dear,0.14285714285714285
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),march,friend,0.15384615384615385
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),march,secret,0.2857142857142857
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),march,time,0.26666666666666666
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),march,secret,0.2857142857142857
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),edition,time,0.1111111111111111
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),edition,album,0.5263157894736842
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),edition,version,0.10526315789473684
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),edition,dear,0.4
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),edition,friend,0.42105263157894735
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),edition,secret,0.11764705882352941
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),edition,time,0.1111111111111111
+Strawberry Swing,Dear Friend (The Secret Of Time Album Version),edition,secret,0.11764705882352941
+Strawberry Swing,Just The Way You Are,strawberry,way,0.14285714285714285
+Strawberry Swing,Just The Way You Are,strawberry,n,0.4
+Strawberry Swing,Just The Way You Are,strawberry,heartbreakers,0.38095238095238093
+Strawberry Swing,Just The Way You Are,swing,way,0.5454545454545454
+Strawberry Swing,Just The Way You Are,swing,n,0.3076923076923077
+Strawberry Swing,Just The Way You Are,swing,heartbreakers,0.16666666666666666
+Strawberry Swing,Just The Way You Are,viva,way,0.3076923076923077
+Strawberry Swing,Just The Way You Are,viva,n,0.26666666666666666
+Strawberry Swing,Just The Way You Are,viva,heartbreakers,0.14285714285714285
+Strawberry Swing,Just The Way You Are,la,way,0.3076923076923077
+Strawberry Swing,Just The Way You Are,la,n,0.8
+Strawberry Swing,Just The Way You Are,la,heartbreakers,0.3076923076923077
+Strawberry Swing,Just The Way You Are,march,way,0.3076923076923077
+Strawberry Swing,Just The Way You Are,march,n,0.26666666666666666
+Strawberry Swing,Just The Way You Are,march,heartbreakers,0.14285714285714285
+Strawberry Swing,Just The Way You Are,edition,way,0.125
+Strawberry Swing,Just The Way You Are,edition,n,0.23529411764705882
+Strawberry Swing,Just The Way You Are,edition,heartbreakers,0.4
+Strawberry Swing,Miss Your Touch (Album Version),strawberry,album,0.4
+Strawberry Swing,Miss Your Touch (Album Version),strawberry,version,0.11764705882352941
+Strawberry Swing,Miss Your Touch (Album Version),strawberry,touch,0.125
+Strawberry Swing,Miss Your Touch (Album Version),strawberry,miss,0.36363636363636365
+Strawberry Swing,Miss Your Touch (Album Version),strawberry,cassie,0.3333333333333333
+Strawberry Swing,Miss Your Touch (Album Version),swing,album,0.14285714285714285
+Strawberry Swing,Miss Your Touch (Album Version),swing,version,0.2857142857142857
+Strawberry Swing,Miss Your Touch (Album Version),swing,touch,0.3076923076923077
+Strawberry Swing,Miss Your Touch (Album Version),swing,miss,0.15384615384615385
+Strawberry Swing,Miss Your Touch (Album Version),swing,cassie,0.1111111111111111
+Strawberry Swing,Miss Your Touch (Album Version),viva,album,0.125
+Strawberry Swing,Miss Your Touch (Album Version),viva,version,0.25
+Strawberry Swing,Miss Your Touch (Album Version),viva,touch,0.5333333333333333
+Strawberry Swing,Miss Your Touch (Album Version),viva,miss,0.13333333333333333
+Strawberry Swing,Miss Your Touch (Album Version),viva,cassie,0.1
+Strawberry Swing,Miss Your Touch (Album Version),la,album,0.26666666666666666
+Strawberry Swing,Miss Your Touch (Album Version),la,version,0.25
+Strawberry Swing,Miss Your Touch (Album Version),la,touch,0.26666666666666666
+Strawberry Swing,Miss Your Touch (Album Version),la,miss,0.2857142857142857
+Strawberry Swing,Miss Your Touch (Album Version),la,cassie,0.21052631578947367
+Strawberry Swing,Miss Your Touch (Album Version),march,album,0.125
+Strawberry Swing,Miss Your Touch (Album Version),march,version,0.25
+Strawberry Swing,Miss Your Touch (Album Version),march,touch,0.26666666666666666
+Strawberry Swing,Miss Your Touch (Album Version),march,miss,0.13333333333333333
+Strawberry Swing,Miss Your Touch (Album Version),march,cassie,0.1
+Strawberry Swing,Miss Your Touch (Album Version),edition,album,0.5263157894736842
+Strawberry Swing,Miss Your Touch (Album Version),edition,version,0.10526315789473684
+Strawberry Swing,Miss Your Touch (Album Version),edition,touch,0.1111111111111111
+Strawberry Swing,Miss Your Touch (Album Version),edition,miss,0.38095238095238093
+Strawberry Swing,Miss Your Touch (Album Version),edition,cassie,0.34782608695652173
+Strawberry Swing,Green,strawberry,green,0.11764705882352941
+Strawberry Swing,Green,strawberry,abnormal,0
+Strawberry Swing,Green,swing,green,0.42857142857142855
+Strawberry Swing,Green,swing,abnormal,0
+Strawberry Swing,Green,viva,green,0.25
+Strawberry Swing,Green,viva,abnormal,0
+Strawberry Swing,Green,la,green,0.25
+Strawberry Swing,Green,la,abnormal,0
+Strawberry Swing,Green,march,green,0.25
+Strawberry Swing,Green,march,abnormal,0
+Strawberry Swing,Green,edition,green,0.10526315789473684
+Strawberry Swing,Green,edition,abnormal,0
+Strawberry Swing,Make Music,strawberry,make,0.10526315789473684
+Strawberry Swing,Make Music,strawberry,music,0.14285714285714285
+Strawberry Swing,Make Music,strawberry,waiting,0.125
+Strawberry Swing,Make Music,strawberry,room,0.4
+Strawberry Swing,Make Music,swing,make,0.25
+Strawberry Swing,Make Music,swing,music,0.36363636363636365
+Strawberry Swing,Make Music,swing,waiting,0.3076923076923077
+Strawberry Swing,Make Music,swing,room,0.14285714285714285
+Strawberry Swing,Make Music,viva,make,0.3333333333333333
+Strawberry Swing,Make Music,viva,music,0.3076923076923077
+Strawberry Swing,Make Music,viva,waiting,0.6666666666666666
+Strawberry Swing,Make Music,viva,room,0.125
+Strawberry Swing,Make Music,la,make,0.2222222222222222
+Strawberry Swing,Make Music,la,music,0.3076923076923077
+Strawberry Swing,Make Music,la,waiting,0.26666666666666666
+Strawberry Swing,Make Music,la,room,0.26666666666666666
+Strawberry Swing,Make Music,march,make,0.2222222222222222
+Strawberry Swing,Make Music,march,music,0.3076923076923077
+Strawberry Swing,Make Music,march,waiting,0.26666666666666666
+Strawberry Swing,Make Music,march,room,0.125
+Strawberry Swing,Make Music,edition,make,0.09523809523809523
+Strawberry Swing,Make Music,edition,music,0.125
+Strawberry Swing,Make Music,edition,waiting,0.1111111111111111
+Strawberry Swing,Make Music,edition,room,0.5263157894736842
+Strawberry Swing,Stay,strawberry,stay,0.13333333333333333
+Strawberry Swing,Stay,strawberry,essential,0.3076923076923077
+Strawberry Swing,Stay,strawberry,eternal,0
+Strawberry Swing,Stay,swing,stay,0.3333333333333333
+Strawberry Swing,Stay,swing,essential,0.2
+Strawberry Swing,Stay,swing,eternal,0
+Strawberry Swing,Stay,viva,stay,0.7142857142857143
+Strawberry Swing,Stay,viva,essential,0.16666666666666666
+Strawberry Swing,Stay,viva,eternal,0
+Strawberry Swing,Stay,la,stay,0.2857142857142857
+Strawberry Swing,Stay,la,essential,0.36363636363636365
+Strawberry Swing,Stay,la,eternal,0
+Strawberry Swing,Stay,march,stay,0.2857142857142857
+Strawberry Swing,Stay,march,essential,0.16666666666666666
+Strawberry Swing,Stay,march,eternal,0
+Strawberry Swing,Stay,edition,stay,0.11764705882352941
+Strawberry Swing,Stay,edition,essential,0.26666666666666666
+Strawberry Swing,Stay,edition,eternal,0
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),strawberry,digital,0
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),strawberry,girls,0.36363636363636365
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),strawberry,version,0.11764705882352941
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),strawberry,alley,0.36363636363636365
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),strawberry,greenhouse,0.4
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),strawberry,granny,0.3333333333333333
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),strawberry,doughnut,0.125
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),swing,digital,0
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),swing,girls,0.15384615384615385
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),swing,version,0.2857142857142857
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),swing,alley,0.125
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),swing,greenhouse,0.14285714285714285
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),swing,granny,0.13333333333333333
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),swing,doughnut,0.46153846153846156
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),viva,digital,0
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),viva,girls,0.13333333333333333
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),viva,version,0.25
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),viva,alley,0.1111111111111111
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),viva,greenhouse,0.125
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),viva,granny,0.11764705882352941
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),viva,doughnut,0.26666666666666666
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),la,digital,0
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),la,girls,0.2857142857142857
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),la,version,0.25
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),la,alley,0.23529411764705882
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),la,greenhouse,0.26666666666666666
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),la,granny,0.25
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),la,doughnut,0.26666666666666666
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),march,digital,0
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),march,girls,0.13333333333333333
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),march,version,0.25
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),march,alley,0.1111111111111111
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),march,greenhouse,0.125
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),march,granny,0.11764705882352941
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),march,doughnut,0.26666666666666666
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),edition,digital,0
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),edition,girls,0.38095238095238093
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),edition,version,0.10526315789473684
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),edition,alley,0.47619047619047616
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),edition,greenhouse,0.5263157894736842
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),edition,granny,0.34782608695652173
+Strawberry Swing,Alley Oop (Girls Version) (2007 Digital Remaster),edition,doughnut,0.1111111111111111
+Strawberry Swing,Cups,strawberry,cups,0.4
+Strawberry Swing,Cups,strawberry,chilled,0
+Strawberry Swing,Cups,strawberry,house,0.4
+Strawberry Swing,Cups,strawberry,session,0.11764705882352941
+Strawberry Swing,Cups,swing,cups,0.14285714285714285
+Strawberry Swing,Cups,swing,chilled,0
+Strawberry Swing,Cups,swing,house,0.14285714285714285
+Strawberry Swing,Cups,swing,session,0.2857142857142857
+Strawberry Swing,Cups,viva,cups,0.125
+Strawberry Swing,Cups,viva,chilled,0
+Strawberry Swing,Cups,viva,house,0.125
+Strawberry Swing,Cups,viva,session,0.25
+Strawberry Swing,Cups,la,cups,0.26666666666666666
+Strawberry Swing,Cups,la,chilled,0
+Strawberry Swing,Cups,la,house,0.26666666666666666
+Strawberry Swing,Cups,la,session,0.25
+Strawberry Swing,Cups,march,cups,0.125
+Strawberry Swing,Cups,march,chilled,0
+Strawberry Swing,Cups,march,house,0.125
+Strawberry Swing,Cups,march,session,0.25
+Strawberry Swing,Cups,edition,cups,0.5263157894736842
+Strawberry Swing,Cups,edition,chilled,0
+Strawberry Swing,Cups,edition,house,0.5263157894736842
+Strawberry Swing,Cups,edition,session,0.10526315789473684
+Strawberry Swing,Still Take You Home,strawberry,still,0.38095238095238093
+Strawberry Swing,Still Take You Home,strawberry,take,0.10526315789473684
+Strawberry Swing,Still Take You Home,strawberry,home,0.3
+Strawberry Swing,Still Take You Home,strawberry,people,0.15384615384615385
+Strawberry Swing,Still Take You Home,strawberry,say,0.11764705882352941
+Strawberry Swing,Still Take You Home,strawberry,digital,0
+Strawberry Swing,Still Take You Home,swing,still,0.13333333333333333
+Strawberry Swing,Still Take You Home,swing,take,0.25
+Strawberry Swing,Still Take You Home,swing,home,0.13333333333333333
+Strawberry Swing,Still Take You Home,swing,people,0.4
+Strawberry Swing,Still Take You Home,swing,say,0.5714285714285714
+Strawberry Swing,Still Take You Home,swing,digital,0
+Strawberry Swing,Still Take You Home,viva,still,0.11764705882352941
+Strawberry Swing,Still Take You Home,viva,take,0.2222222222222222
+Strawberry Swing,Still Take You Home,viva,home,0.11764705882352941
+Strawberry Swing,Still Take You Home,viva,people,0.3333333333333333
+Strawberry Swing,Still Take You Home,viva,say,0.25
+Strawberry Swing,Still Take You Home,viva,digital,0
+Strawberry Swing,Still Take You Home,la,still,0.25
+Strawberry Swing,Still Take You Home,la,take,0.3333333333333333
+Strawberry Swing,Still Take You Home,la,home,0.25
+Strawberry Swing,Still Take You Home,la,people,0.3333333333333333
+Strawberry Swing,Still Take You Home,la,say,0.25
+Strawberry Swing,Still Take You Home,la,digital,0
+Strawberry Swing,Still Take You Home,march,still,0.11764705882352941
+Strawberry Swing,Still Take You Home,march,take,0.2222222222222222
+Strawberry Swing,Still Take You Home,march,home,0.11764705882352941
+Strawberry Swing,Still Take You Home,march,people,0.3333333333333333
+Strawberry Swing,Still Take You Home,march,say,0.25
+Strawberry Swing,Still Take You Home,march,digital,0
+Strawberry Swing,Still Take You Home,edition,still,0.6
+Strawberry Swing,Still Take You Home,edition,take,0.09523809523809523
+Strawberry Swing,Still Take You Home,edition,home,0.3
+Strawberry Swing,Still Take You Home,edition,people,0.13333333333333333
+Strawberry Swing,Still Take You Home,edition,say,0.10526315789473684
+Strawberry Swing,Still Take You Home,edition,digital,0
+Strawberry Swing,Milkshake,strawberry,milkshake,0.11764705882352941
+Strawberry Swing,Milkshake,strawberry,original,0.42105263157894735
+Strawberry Swing,Milkshake,strawberry,hits,0.1111111111111111
+Strawberry Swing,Milkshake,strawberry,soul,0.26666666666666666
+Strawberry Swing,Milkshake,strawberry,rap,0.1111111111111111
+Strawberry Swing,Milkshake,swing,milkshake,0.2857142857142857
+Strawberry Swing,Milkshake,swing,original,0.15384615384615385
+Strawberry Swing,Milkshake,swing,hits,0.26666666666666666
+Strawberry Swing,Milkshake,swing,soul,0.16666666666666666
+Strawberry Swing,Milkshake,swing,rap,0.26666666666666666
+Strawberry Swing,Milkshake,viva,milkshake,0.25
+Strawberry Swing,Milkshake,viva,original,0.13333333333333333
+Strawberry Swing,Milkshake,viva,hits,0.5882352941176471
+Strawberry Swing,Milkshake,viva,soul,0.14285714285714285
+Strawberry Swing,Milkshake,viva,rap,0.23529411764705882
+Strawberry Swing,Milkshake,la,milkshake,0.25
+Strawberry Swing,Milkshake,la,original,0.2857142857142857
+Strawberry Swing,Milkshake,la,hits,0.23529411764705882
+Strawberry Swing,Milkshake,la,soul,0.3076923076923077
+Strawberry Swing,Milkshake,la,rap,0.23529411764705882
+Strawberry Swing,Milkshake,march,milkshake,0.375
+Strawberry Swing,Milkshake,march,original,0.13333333333333333
+Strawberry Swing,Milkshake,march,hits,0.23529411764705882
+Strawberry Swing,Milkshake,march,soul,0.14285714285714285
+Strawberry Swing,Milkshake,march,rap,0.23529411764705882
+Strawberry Swing,Milkshake,edition,milkshake,0.10526315789473684
+Strawberry Swing,Milkshake,edition,original,0.6666666666666666
+Strawberry Swing,Milkshake,edition,hits,0.1
+Strawberry Swing,Milkshake,edition,soul,0.23529411764705882
+Strawberry Swing,Milkshake,edition,rap,0.1
+Strawberry Swing,The Way She Moves,strawberry,way,0.14285714285714285
+Strawberry Swing,The Way She Moves,strawberry,moves,0.1111111111111111
+Strawberry Swing,The Way She Moves,strawberry,perfect,0.11764705882352941
+Strawberry Swing,The Way She Moves,strawberry,melody,0.13333333333333333
+Strawberry Swing,The Way She Moves,swing,way,0.5454545454545454
+Strawberry Swing,The Way She Moves,swing,moves,0.26666666666666666
+Strawberry Swing,The Way She Moves,swing,perfect,0.2857142857142857
+Strawberry Swing,The Way She Moves,swing,melody,0.3333333333333333
+Strawberry Swing,The Way She Moves,viva,way,0.3076923076923077
+Strawberry Swing,The Way She Moves,viva,moves,0.5882352941176471
+Strawberry Swing,The Way She Moves,viva,perfect,0.25
+Strawberry Swing,The Way She Moves,viva,melody,0.2857142857142857
+Strawberry Swing,The Way She Moves,la,way,0.3076923076923077
+Strawberry Swing,The Way She Moves,la,moves,0.23529411764705882
+Strawberry Swing,The Way She Moves,la,perfect,0.25
+Strawberry Swing,The Way She Moves,la,melody,0.2857142857142857
+Strawberry Swing,The Way She Moves,march,way,0.3076923076923077
+Strawberry Swing,The Way She Moves,march,moves,0.23529411764705882
+Strawberry Swing,The Way She Moves,march,perfect,0.25
+Strawberry Swing,The Way She Moves,march,melody,0.2857142857142857
+Strawberry Swing,The Way She Moves,edition,way,0.125
+Strawberry Swing,The Way She Moves,edition,moves,0.1
+Strawberry Swing,The Way She Moves,edition,perfect,0.10526315789473684
+Strawberry Swing,The Way She Moves,edition,melody,0.11764705882352941
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),technicolor,time,0.4
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),technicolor,album,0.125
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),technicolor,version,0.25
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),technicolor,dear,0.14285714285714285
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),technicolor,friend,0.15384615384615385
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),technicolor,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),technicolor,time,0.4
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),technicolor,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),ii,time,0.26666666666666666
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),ii,album,0.125
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),ii,version,0.25
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),ii,dear,0.14285714285714285
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),ii,friend,0.15384615384615385
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),ii,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),ii,time,0.26666666666666666
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),ii,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),life,time,0.3076923076923077
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),life,album,0.14285714285714285
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),life,version,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),life,dear,0.16666666666666666
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),life,friend,0.18181818181818182
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),life,secret,0.3333333333333333
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),life,time,0.3076923076923077
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),life,secret,0.3333333333333333
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),viva,time,0.5333333333333333
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),viva,album,0.125
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),viva,version,0.25
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),viva,dear,0.14285714285714285
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),viva,friend,0.15384615384615385
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),viva,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),viva,time,0.5333333333333333
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),viva,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),la,time,0.26666666666666666
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),la,album,0.26666666666666666
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),la,version,0.25
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),la,dear,0.3076923076923077
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),la,friend,0.3333333333333333
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),la,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),la,time,0.26666666666666666
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),la,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),march,time,0.26666666666666666
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),march,album,0.125
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),march,version,0.25
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),march,dear,0.14285714285714285
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),march,friend,0.15384615384615385
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),march,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),march,time,0.26666666666666666
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),march,secret,0.2857142857142857
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),edition,time,0.1111111111111111
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),edition,album,0.5263157894736842
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),edition,version,0.10526315789473684
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),edition,dear,0.4
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),edition,friend,0.42105263157894735
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),edition,secret,0.11764705882352941
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),edition,time,0.1111111111111111
+Life In Technicolor ii,Dear Friend (The Secret Of Time Album Version),edition,secret,0.11764705882352941
+Life In Technicolor ii,Just The Way You Are,technicolor,way,0.3076923076923077
+Life In Technicolor ii,Just The Way You Are,technicolor,n,0.26666666666666666
+Life In Technicolor ii,Just The Way You Are,technicolor,heartbreakers,0.14285714285714285
+Life In Technicolor ii,Just The Way You Are,ii,way,0.3076923076923077
+Life In Technicolor ii,Just The Way You Are,ii,n,0.26666666666666666
+Life In Technicolor ii,Just The Way You Are,ii,heartbreakers,0.14285714285714285
+Life In Technicolor ii,Just The Way You Are,life,way,0.5454545454545454
+Life In Technicolor ii,Just The Way You Are,life,n,0.3076923076923077
+Life In Technicolor ii,Just The Way You Are,life,heartbreakers,0.16666666666666666
+Life In Technicolor ii,Just The Way You Are,viva,way,0.3076923076923077
+Life In Technicolor ii,Just The Way You Are,viva,n,0.26666666666666666
+Life In Technicolor ii,Just The Way You Are,viva,heartbreakers,0.14285714285714285
+Life In Technicolor ii,Just The Way You Are,la,way,0.3076923076923077
+Life In Technicolor ii,Just The Way You Are,la,n,0.8
+Life In Technicolor ii,Just The Way You Are,la,heartbreakers,0.3076923076923077
+Life In Technicolor ii,Just The Way You Are,march,way,0.3076923076923077
+Life In Technicolor ii,Just The Way You Are,march,n,0.26666666666666666
+Life In Technicolor ii,Just The Way You Are,march,heartbreakers,0.14285714285714285
+Life In Technicolor ii,Just The Way You Are,edition,way,0.125
+Life In Technicolor ii,Just The Way You Are,edition,n,0.23529411764705882
+Life In Technicolor ii,Just The Way You Are,edition,heartbreakers,0.4
+Life In Technicolor ii,Miss Your Touch (Album Version),technicolor,album,0.125
+Life In Technicolor ii,Miss Your Touch (Album Version),technicolor,version,0.25
+Life In Technicolor ii,Miss Your Touch (Album Version),technicolor,touch,0.4
+Life In Technicolor ii,Miss Your Touch (Album Version),technicolor,miss,0.13333333333333333
+Life In Technicolor ii,Miss Your Touch (Album Version),technicolor,cassie,0.1
+Life In Technicolor ii,Miss Your Touch (Album Version),ii,album,0.125
+Life In Technicolor ii,Miss Your Touch (Album Version),ii,version,0.25
+Life In Technicolor ii,Miss Your Touch (Album Version),ii,touch,0.26666666666666666
+Life In Technicolor ii,Miss Your Touch (Album Version),ii,miss,0.13333333333333333
+Life In Technicolor ii,Miss Your Touch (Album Version),ii,cassie,0.1
+Life In Technicolor ii,Miss Your Touch (Album Version),life,album,0.14285714285714285
+Life In Technicolor ii,Miss Your Touch (Album Version),life,version,0.2857142857142857
+Life In Technicolor ii,Miss Your Touch (Album Version),life,touch,0.3076923076923077
+Life In Technicolor ii,Miss Your Touch (Album Version),life,miss,0.15384615384615385
+Life In Technicolor ii,Miss Your Touch (Album Version),life,cassie,0.1111111111111111
+Life In Technicolor ii,Miss Your Touch (Album Version),viva,album,0.125
+Life In Technicolor ii,Miss Your Touch (Album Version),viva,version,0.25
+Life In Technicolor ii,Miss Your Touch (Album Version),viva,touch,0.5333333333333333
+Life In Technicolor ii,Miss Your Touch (Album Version),viva,miss,0.13333333333333333
+Life In Technicolor ii,Miss Your Touch (Album Version),viva,cassie,0.1
+Life In Technicolor ii,Miss Your Touch (Album Version),la,album,0.26666666666666666
+Life In Technicolor ii,Miss Your Touch (Album Version),la,version,0.25
+Life In Technicolor ii,Miss Your Touch (Album Version),la,touch,0.26666666666666666
+Life In Technicolor ii,Miss Your Touch (Album Version),la,miss,0.2857142857142857
+Life In Technicolor ii,Miss Your Touch (Album Version),la,cassie,0.21052631578947367
+Life In Technicolor ii,Miss Your Touch (Album Version),march,album,0.125
+Life In Technicolor ii,Miss Your Touch (Album Version),march,version,0.25
+Life In Technicolor ii,Miss Your Touch (Album Version),march,touch,0.26666666666666666
+Life In Technicolor ii,Miss Your Touch (Album Version),march,miss,0.13333333333333333
+Life In Technicolor ii,Miss Your Touch (Album Version),march,cassie,0.1
+Life In Technicolor ii,Miss Your Touch (Album Version),edition,album,0.5263157894736842
+Life In Technicolor ii,Miss Your Touch (Album Version),edition,version,0.10526315789473684
+Life In Technicolor ii,Miss Your Touch (Album Version),edition,touch,0.1111111111111111
+Life In Technicolor ii,Miss Your Touch (Album Version),edition,miss,0.38095238095238093
+Life In Technicolor ii,Miss Your Touch (Album Version),edition,cassie,0.34782608695652173
+Life In Technicolor ii,Green,technicolor,green,0.25
+Life In Technicolor ii,Green,technicolor,abnormal,0
+Life In Technicolor ii,Green,ii,green,0.25
+Life In Technicolor ii,Green,ii,abnormal,0
+Life In Technicolor ii,Green,life,green,0.42857142857142855
+Life In Technicolor ii,Green,life,abnormal,0
+Life In Technicolor ii,Green,viva,green,0.25
+Life In Technicolor ii,Green,viva,abnormal,0
+Life In Technicolor ii,Green,la,green,0.25
+Life In Technicolor ii,Green,la,abnormal,0
+Life In Technicolor ii,Green,march,green,0.25
+Life In Technicolor ii,Green,march,abnormal,0
+Life In Technicolor ii,Green,edition,green,0.10526315789473684
+Life In Technicolor ii,Green,edition,abnormal,0
+Life In Technicolor ii,Make Music,technicolor,make,0.4444444444444444
+Life In Technicolor ii,Make Music,technicolor,music,0.3076923076923077
+Life In Technicolor ii,Make Music,technicolor,waiting,0.4
+Life In Technicolor ii,Make Music,technicolor,room,0.125
+Life In Technicolor ii,Make Music,ii,make,0.2222222222222222
+Life In Technicolor ii,Make Music,ii,music,0.3076923076923077
+Life In Technicolor ii,Make Music,ii,waiting,0.26666666666666666
+Life In Technicolor ii,Make Music,ii,room,0.125
+Life In Technicolor ii,Make Music,life,make,0.25
+Life In Technicolor ii,Make Music,life,music,0.36363636363636365
+Life In Technicolor ii,Make Music,life,waiting,0.3076923076923077
+Life In Technicolor ii,Make Music,life,room,0.14285714285714285
+Life In Technicolor ii,Make Music,viva,make,0.3333333333333333
+Life In Technicolor ii,Make Music,viva,music,0.3076923076923077
+Life In Technicolor ii,Make Music,viva,waiting,0.6666666666666666
+Life In Technicolor ii,Make Music,viva,room,0.125
+Life In Technicolor ii,Make Music,la,make,0.2222222222222222
+Life In Technicolor ii,Make Music,la,music,0.3076923076923077
+Life In Technicolor ii,Make Music,la,waiting,0.26666666666666666
+Life In Technicolor ii,Make Music,la,room,0.26666666666666666
+Life In Technicolor ii,Make Music,march,make,0.2222222222222222
+Life In Technicolor ii,Make Music,march,music,0.3076923076923077
+Life In Technicolor ii,Make Music,march,waiting,0.26666666666666666
+Life In Technicolor ii,Make Music,march,room,0.125
+Life In Technicolor ii,Make Music,edition,make,0.09523809523809523
+Life In Technicolor ii,Make Music,edition,music,0.125
+Life In Technicolor ii,Make Music,edition,waiting,0.1111111111111111
+Life In Technicolor ii,Make Music,edition,room,0.5263157894736842
+Life In Technicolor ii,Stay,technicolor,stay,0.42857142857142855
+Life In Technicolor ii,Stay,technicolor,essential,0.16666666666666666
+Life In Technicolor ii,Stay,technicolor,eternal,0
+Life In Technicolor ii,Stay,ii,stay,0.2857142857142857
+Life In Technicolor ii,Stay,ii,essential,0.16666666666666666
+Life In Technicolor ii,Stay,ii,eternal,0
+Life In Technicolor ii,Stay,life,stay,0.3333333333333333
+Life In Technicolor ii,Stay,life,essential,0.2
+Life In Technicolor ii,Stay,life,eternal,0
+Life In Technicolor ii,Stay,viva,stay,0.7142857142857143
+Life In Technicolor ii,Stay,viva,essential,0.16666666666666666
+Life In Technicolor ii,Stay,viva,eternal,0
+Life In Technicolor ii,Stay,la,stay,0.2857142857142857
+Life In Technicolor ii,Stay,la,essential,0.36363636363636365
+Life In Technicolor ii,Stay,la,eternal,0
+Life In Technicolor ii,Stay,march,stay,0.2857142857142857
+Life In Technicolor ii,Stay,march,essential,0.16666666666666666
+Life In Technicolor ii,Stay,march,eternal,0
+Life In Technicolor ii,Stay,edition,stay,0.11764705882352941
+Life In Technicolor ii,Stay,edition,essential,0.26666666666666666
+Life In Technicolor ii,Stay,edition,eternal,0
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,digital,0
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,girls,0.13333333333333333
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,version,0.25
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,alley,0.1111111111111111
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,greenhouse,0.125
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,granny,0.11764705882352941
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),technicolor,doughnut,0.26666666666666666
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),ii,digital,0
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),ii,girls,0.13333333333333333
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),ii,version,0.25
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),ii,alley,0.1111111111111111
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),ii,greenhouse,0.125
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),ii,granny,0.11764705882352941
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),ii,doughnut,0.26666666666666666
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),life,digital,0
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),life,girls,0.15384615384615385
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),life,version,0.2857142857142857
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),life,alley,0.125
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),life,greenhouse,0.14285714285714285
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),life,granny,0.13333333333333333
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),life,doughnut,0.46153846153846156
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),viva,digital,0
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),viva,girls,0.13333333333333333
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),viva,version,0.25
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),viva,alley,0.1111111111111111
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),viva,greenhouse,0.125
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),viva,granny,0.11764705882352941
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),viva,doughnut,0.26666666666666666
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),la,digital,0
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),la,girls,0.2857142857142857
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),la,version,0.25
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),la,alley,0.23529411764705882
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),la,greenhouse,0.26666666666666666
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),la,granny,0.25
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),la,doughnut,0.26666666666666666
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),march,digital,0
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),march,girls,0.13333333333333333
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),march,version,0.25
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),march,alley,0.1111111111111111
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),march,greenhouse,0.125
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),march,granny,0.11764705882352941
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),march,doughnut,0.26666666666666666
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),edition,digital,0
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),edition,girls,0.38095238095238093
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),edition,version,0.10526315789473684
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),edition,alley,0.47619047619047616
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),edition,greenhouse,0.5263157894736842
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),edition,granny,0.34782608695652173
+Life In Technicolor ii,Alley Oop (Girls Version) (2007 Digital Remaster),edition,doughnut,0.1111111111111111
+Life In Technicolor ii,Cups,technicolor,cups,0.125
+Life In Technicolor ii,Cups,technicolor,chilled,0
+Life In Technicolor ii,Cups,technicolor,house,0.125
+Life In Technicolor ii,Cups,technicolor,session,0.25
+Life In Technicolor ii,Cups,ii,cups,0.125
+Life In Technicolor ii,Cups,ii,chilled,0
+Life In Technicolor ii,Cups,ii,house,0.125
+Life In Technicolor ii,Cups,ii,session,0.25
+Life In Technicolor ii,Cups,life,cups,0.14285714285714285
+Life In Technicolor ii,Cups,life,chilled,0
+Life In Technicolor ii,Cups,life,house,0.14285714285714285
+Life In Technicolor ii,Cups,life,session,0.2857142857142857
+Life In Technicolor ii,Cups,viva,cups,0.125
+Life In Technicolor ii,Cups,viva,chilled,0
+Life In Technicolor ii,Cups,viva,house,0.125
+Life In Technicolor ii,Cups,viva,session,0.25
+Life In Technicolor ii,Cups,la,cups,0.26666666666666666
+Life In Technicolor ii,Cups,la,chilled,0
+Life In Technicolor ii,Cups,la,house,0.26666666666666666
+Life In Technicolor ii,Cups,la,session,0.25
+Life In Technicolor ii,Cups,march,cups,0.125
+Life In Technicolor ii,Cups,march,chilled,0
+Life In Technicolor ii,Cups,march,house,0.125
+Life In Technicolor ii,Cups,march,session,0.25
+Life In Technicolor ii,Cups,edition,cups,0.5263157894736842
+Life In Technicolor ii,Cups,edition,chilled,0
+Life In Technicolor ii,Cups,edition,house,0.5263157894736842
+Life In Technicolor ii,Cups,edition,session,0.10526315789473684
+Life In Technicolor ii,Still Take You Home,technicolor,still,0.11764705882352941
+Life In Technicolor ii,Still Take You Home,technicolor,take,0.2222222222222222
+Life In Technicolor ii,Still Take You Home,technicolor,home,0.11764705882352941
+Life In Technicolor ii,Still Take You Home,technicolor,people,0.3333333333333333
+Life In Technicolor ii,Still Take You Home,technicolor,say,0.25
+Life In Technicolor ii,Still Take You Home,technicolor,digital,0
+Life In Technicolor ii,Still Take You Home,ii,still,0.11764705882352941
+Life In Technicolor ii,Still Take You Home,ii,take,0.2222222222222222
+Life In Technicolor ii,Still Take You Home,ii,home,0.11764705882352941
+Life In Technicolor ii,Still Take You Home,ii,people,0.3333333333333333
+Life In Technicolor ii,Still Take You Home,ii,say,0.25
+Life In Technicolor ii,Still Take You Home,ii,digital,0
+Life In Technicolor ii,Still Take You Home,life,still,0.13333333333333333
+Life In Technicolor ii,Still Take You Home,life,take,0.25
+Life In Technicolor ii,Still Take You Home,life,home,0.13333333333333333
+Life In Technicolor ii,Still Take You Home,life,people,0.4
+Life In Technicolor ii,Still Take You Home,life,say,0.7142857142857143
+Life In Technicolor ii,Still Take You Home,life,digital,0
+Life In Technicolor ii,Still Take You Home,viva,still,0.11764705882352941
+Life In Technicolor ii,Still Take You Home,viva,take,0.2222222222222222
+Life In Technicolor ii,Still Take You Home,viva,home,0.11764705882352941
+Life In Technicolor ii,Still Take You Home,viva,people,0.3333333333333333
+Life In Technicolor ii,Still Take You Home,viva,say,0.25
+Life In Technicolor ii,Still Take You Home,viva,digital,0
+Life In Technicolor ii,Still Take You Home,la,still,0.25
+Life In Technicolor ii,Still Take You Home,la,take,0.3333333333333333
+Life In Technicolor ii,Still Take You Home,la,home,0.25
+Life In Technicolor ii,Still Take You Home,la,people,0.3333333333333333
+Life In Technicolor ii,Still Take You Home,la,say,0.25
+Life In Technicolor ii,Still Take You Home,la,digital,0
+Life In Technicolor ii,Still Take You Home,march,still,0.11764705882352941
+Life In Technicolor ii,Still Take You Home,march,take,0.2222222222222222
+Life In Technicolor ii,Still Take You Home,march,home,0.11764705882352941
+Life In Technicolor ii,Still Take You Home,march,people,0.3333333333333333
+Life In Technicolor ii,Still Take You Home,march,say,0.25
+Life In Technicolor ii,Still Take You Home,march,digital,0
+Life In Technicolor ii,Still Take You Home,edition,still,0.6
+Life In Technicolor ii,Still Take You Home,edition,take,0.09523809523809523
+Life In Technicolor ii,Still Take You Home,edition,home,0.3
+Life In Technicolor ii,Still Take You Home,edition,people,0.13333333333333333
+Life In Technicolor ii,Still Take You Home,edition,say,0.10526315789473684
+Life In Technicolor ii,Still Take You Home,edition,digital,0
+Life In Technicolor ii,Milkshake,technicolor,milkshake,0.25
+Life In Technicolor ii,Milkshake,technicolor,original,0.13333333333333333
+Life In Technicolor ii,Milkshake,technicolor,hits,0.35294117647058826
+Life In Technicolor ii,Milkshake,technicolor,soul,0.14285714285714285
+Life In Technicolor ii,Milkshake,technicolor,rap,0.23529411764705882
+Life In Technicolor ii,Milkshake,ii,milkshake,0.375
+Life In Technicolor ii,Milkshake,ii,original,0.13333333333333333
+Life In Technicolor ii,Milkshake,ii,hits,0.23529411764705882
+Life In Technicolor ii,Milkshake,ii,soul,0.14285714285714285
+Life In Technicolor ii,Milkshake,ii,rap,0.23529411764705882
+Life In Technicolor ii,Milkshake,life,milkshake,0.2857142857142857
+Life In Technicolor ii,Milkshake,life,original,0.15384615384615385
+Life In Technicolor ii,Milkshake,life,hits,0.26666666666666666
+Life In Technicolor ii,Milkshake,life,soul,0.16666666666666666
+Life In Technicolor ii,Milkshake,life,rap,0.26666666666666666
+Life In Technicolor ii,Milkshake,viva,milkshake,0.25
+Life In Technicolor ii,Milkshake,viva,original,0.13333333333333333
+Life In Technicolor ii,Milkshake,viva,hits,0.5882352941176471
+Life In Technicolor ii,Milkshake,viva,soul,0.14285714285714285
+Life In Technicolor ii,Milkshake,viva,rap,0.23529411764705882
+Life In Technicolor ii,Milkshake,la,milkshake,0.25
+Life In Technicolor ii,Milkshake,la,original,0.2857142857142857
+Life In Technicolor ii,Milkshake,la,hits,0.23529411764705882
+Life In Technicolor ii,Milkshake,la,soul,0.3076923076923077
+Life In Technicolor ii,Milkshake,la,rap,0.23529411764705882
+Life In Technicolor ii,Milkshake,march,milkshake,0.375
+Life In Technicolor ii,Milkshake,march,original,0.13333333333333333
+Life In Technicolor ii,Milkshake,march,hits,0.23529411764705882
+Life In Technicolor ii,Milkshake,march,soul,0.14285714285714285
+Life In Technicolor ii,Milkshake,march,rap,0.23529411764705882
+Life In Technicolor ii,Milkshake,edition,milkshake,0.10526315789473684
+Life In Technicolor ii,Milkshake,edition,original,0.6666666666666666
+Life In Technicolor ii,Milkshake,edition,hits,0.1
+Life In Technicolor ii,Milkshake,edition,soul,0.23529411764705882
+Life In Technicolor ii,Milkshake,edition,rap,0.1
+Life In Technicolor ii,The Way She Moves,technicolor,way,0.3076923076923077
+Life In Technicolor ii,The Way She Moves,technicolor,moves,0.35294117647058826
+Life In Technicolor ii,The Way She Moves,technicolor,perfect,0.25
+Life In Technicolor ii,The Way She Moves,technicolor,melody,0.2857142857142857
+Life In Technicolor ii,The Way She Moves,ii,way,0.3076923076923077
+Life In Technicolor ii,The Way She Moves,ii,moves,0.23529411764705882
+Life In Technicolor ii,The Way She Moves,ii,perfect,0.25
+Life In Technicolor ii,The Way She Moves,ii,melody,0.2857142857142857
+Life In Technicolor ii,The Way She Moves,life,way,0.5454545454545454
+Life In Technicolor ii,The Way She Moves,life,moves,0.26666666666666666
+Life In Technicolor ii,The Way She Moves,life,perfect,0.2857142857142857
+Life In Technicolor ii,The Way She Moves,life,melody,0.3333333333333333
+Life In Technicolor ii,The Way She Moves,viva,way,0.3076923076923077
+Life In Technicolor ii,The Way She Moves,viva,moves,0.5882352941176471
+Life In Technicolor ii,The Way She Moves,viva,perfect,0.25
+Life In Technicolor ii,The Way She Moves,viva,melody,0.2857142857142857
+Life In Technicolor ii,The Way She Moves,la,way,0.3076923076923077
+Life In Technicolor ii,The Way She Moves,la,moves,0.23529411764705882
+Life In Technicolor ii,The Way She Moves,la,perfect,0.25
+Life In Technicolor ii,The Way She Moves,la,melody,0.2857142857142857
+Life In Technicolor ii,The Way She Moves,march,way,0.3076923076923077
+Life In Technicolor ii,The Way She Moves,march,moves,0.23529411764705882
+Life In Technicolor ii,The Way She Moves,march,perfect,0.25
+Life In Technicolor ii,The Way She Moves,march,melody,0.2857142857142857
+Life In Technicolor ii,The Way She Moves,edition,way,0.125
+Life In Technicolor ii,The Way She Moves,edition,moves,0.1
+Life In Technicolor ii,The Way She Moves,edition,perfect,0.10526315789473684
+Life In Technicolor ii,The Way She Moves,edition,melody,0.11764705882352941
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,time,0.16666666666666666
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,album,0.5
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,version,0.15384615384615385
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,dear,0.7058823529411765
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,friend,0.75
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,secret,0.18181818181818182
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,time,0.16666666666666666
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,secret,0.18181818181818182
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,time,0.16666666666666666
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,album,0.5
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,version,0.15384615384615385
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,dear,0.7058823529411765
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,friend,0.75
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,secret,0.18181818181818182
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,time,0.16666666666666666
+The Scientist,Dear Friend (The Secret Of Time Album Version),scientist,secret,0.18181818181818182
+The Scientist,Just The Way You Are,scientist,way,0.2
+The Scientist,Just The Way You Are,scientist,n,0.36363636363636365
+The Scientist,Just The Way You Are,scientist,heartbreakers,0.7058823529411765
+The Scientist,Just The Way You Are,scientist,way,0.2
+The Scientist,Just The Way You Are,scientist,n,0.36363636363636365
+The Scientist,Just The Way You Are,scientist,heartbreakers,0.7058823529411765
+The Scientist,Miss Your Touch (Album Version),scientist,album,0.5
+The Scientist,Miss Your Touch (Album Version),scientist,version,0.15384615384615385
+The Scientist,Miss Your Touch (Album Version),scientist,touch,0.16666666666666666
+The Scientist,Miss Your Touch (Album Version),scientist,miss,0.6666666666666666
+The Scientist,Miss Your Touch (Album Version),scientist,cassie,0.6
+The Scientist,Miss Your Touch (Album Version),scientist,album,0.5
+The Scientist,Miss Your Touch (Album Version),scientist,version,0.15384615384615385
+The Scientist,Miss Your Touch (Album Version),scientist,touch,0.16666666666666666
+The Scientist,Miss Your Touch (Album Version),scientist,miss,0.6666666666666666
+The Scientist,Miss Your Touch (Album Version),scientist,cassie,0.6
+The Scientist,Green,scientist,green,0.15384615384615385
+The Scientist,Green,scientist,abnormal,0
+The Scientist,Green,scientist,green,0.15384615384615385
+The Scientist,Green,scientist,abnormal,0
+The Scientist,Make Music,scientist,make,0.13333333333333333
+The Scientist,Make Music,scientist,music,0.2
+The Scientist,Make Music,scientist,waiting,0.16666666666666666
+The Scientist,Make Music,scientist,room,0.5
+The Scientist,Make Music,scientist,make,0.13333333333333333
+The Scientist,Make Music,scientist,music,0.2
+The Scientist,Make Music,scientist,waiting,0.16666666666666666
+The Scientist,Make Music,scientist,room,0.5
+The Scientist,Stay,scientist,stay,0.18181818181818182
+The Scientist,Stay,scientist,essential,0.4444444444444444
+The Scientist,Stay,scientist,eternal,0
+The Scientist,Stay,scientist,stay,0.18181818181818182
+The Scientist,Stay,scientist,essential,0.4444444444444444
+The Scientist,Stay,scientist,eternal,0
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,digital,0
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,girls,0.6666666666666666
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,version,0.15384615384615385
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,alley,0.4444444444444444
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,greenhouse,0.5
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,granny,0.6
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,doughnut,0.16666666666666666
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,digital,0
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,girls,0.6666666666666666
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,version,0.15384615384615385
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,alley,0.4444444444444444
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,greenhouse,0.5
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,granny,0.6
+The Scientist,Alley Oop (Girls Version) (2007 Digital Remaster),scientist,doughnut,0.16666666666666666
+The Scientist,Cups,scientist,cups,0.5
+The Scientist,Cups,scientist,chilled,0
+The Scientist,Cups,scientist,house,0.5
+The Scientist,Cups,scientist,session,0.15384615384615385
+The Scientist,Cups,scientist,cups,0.5
+The Scientist,Cups,scientist,chilled,0
+The Scientist,Cups,scientist,house,0.5
+The Scientist,Cups,scientist,session,0.15384615384615385
+The Scientist,Still Take You Home,scientist,still,0.47058823529411764
+The Scientist,Still Take You Home,scientist,take,0.13333333333333333
+The Scientist,Still Take You Home,scientist,home,0.375
+The Scientist,Still Take You Home,scientist,people,0.2222222222222222
+The Scientist,Still Take You Home,scientist,say,0.15384615384615385
+The Scientist,Still Take You Home,scientist,digital,0
+The Scientist,Still Take You Home,scientist,still,0.47058823529411764
+The Scientist,Still Take You Home,scientist,take,0.13333333333333333
+The Scientist,Still Take You Home,scientist,home,0.375
+The Scientist,Still Take You Home,scientist,people,0.2222222222222222
+The Scientist,Still Take You Home,scientist,say,0.15384615384615385
+The Scientist,Still Take You Home,scientist,digital,0
+The Scientist,Milkshake,scientist,milkshake,0.15384615384615385
+The Scientist,Milkshake,scientist,original,0.5333333333333333
+The Scientist,Milkshake,scientist,hits,0.14285714285714285
+The Scientist,Milkshake,scientist,soul,0.5454545454545454
+The Scientist,Milkshake,scientist,rap,0.14285714285714285
+The Scientist,Milkshake,scientist,milkshake,0.15384615384615385
+The Scientist,Milkshake,scientist,original,0.5333333333333333
+The Scientist,Milkshake,scientist,hits,0.14285714285714285
+The Scientist,Milkshake,scientist,soul,0.5454545454545454
+The Scientist,Milkshake,scientist,rap,0.14285714285714285
+The Scientist,The Way She Moves,scientist,way,0.2
+The Scientist,The Way She Moves,scientist,moves,0.14285714285714285
+The Scientist,The Way She Moves,scientist,perfect,0.15384615384615385
+The Scientist,The Way She Moves,scientist,melody,0.18181818181818182
+The Scientist,The Way She Moves,scientist,way,0.2
+The Scientist,The Way She Moves,scientist,moves,0.14285714285714285
+The Scientist,The Way She Moves,scientist,perfect,0.15384615384615385
+The Scientist,The Way She Moves,scientist,melody,0.18181818181818182
+In My Place,Dear Friend (The Secret Of Time Album Version),place,time,0.15384615384615385
+In My Place,Dear Friend (The Secret Of Time Album Version),place,album,0.42857142857142855
+In My Place,Dear Friend (The Secret Of Time Album Version),place,version,0.14285714285714285
+In My Place,Dear Friend (The Secret Of Time Album Version),place,dear,0.42857142857142855
+In My Place,Dear Friend (The Secret Of Time Album Version),place,friend,0.46153846153846156
+In My Place,Dear Friend (The Secret Of Time Album Version),place,secret,0.16666666666666666
+In My Place,Dear Friend (The Secret Of Time Album Version),place,time,0.15384615384615385
+In My Place,Dear Friend (The Secret Of Time Album Version),place,secret,0.16666666666666666
+In My Place,Dear Friend (The Secret Of Time Album Version),rush,time,0.5
+In My Place,Dear Friend (The Secret Of Time Album Version),rush,album,0.11764705882352941
+In My Place,Dear Friend (The Secret Of Time Album Version),rush,version,0.23529411764705882
+In My Place,Dear Friend (The Secret Of Time Album Version),rush,dear,0.13333333333333333
+In My Place,Dear Friend (The Secret Of Time Album Version),rush,friend,0.14285714285714285
+In My Place,Dear Friend (The Secret Of Time Album Version),rush,secret,0.26666666666666666
+In My Place,Dear Friend (The Secret Of Time Album Version),rush,time,0.5
+In My Place,Dear Friend (The Secret Of Time Album Version),rush,secret,0.26666666666666666
+In My Place,Dear Friend (The Secret Of Time Album Version),head,time,0.14285714285714285
+In My Place,Dear Friend (The Secret Of Time Album Version),head,album,0.26666666666666666
+In My Place,Dear Friend (The Secret Of Time Album Version),head,version,0.13333333333333333
+In My Place,Dear Friend (The Secret Of Time Album Version),head,dear,0.3076923076923077
+In My Place,Dear Friend (The Secret Of Time Album Version),head,friend,0.3333333333333333
+In My Place,Dear Friend (The Secret Of Time Album Version),head,secret,0.15384615384615385
+In My Place,Dear Friend (The Secret Of Time Album Version),head,time,0.14285714285714285
+In My Place,Dear Friend (The Secret Of Time Album Version),head,secret,0.15384615384615385
+In My Place,Dear Friend (The Secret Of Time Album Version),blood,time,0.26666666666666666
+In My Place,Dear Friend (The Secret Of Time Album Version),blood,album,0.26666666666666666
+In My Place,Dear Friend (The Secret Of Time Album Version),blood,version,0.25
+In My Place,Dear Friend (The Secret Of Time Album Version),blood,dear,0.3076923076923077
+In My Place,Dear Friend (The Secret Of Time Album Version),blood,friend,0.3333333333333333
+In My Place,Dear Friend (The Secret Of Time Album Version),blood,secret,0.2857142857142857
+In My Place,Dear Friend (The Secret Of Time Album Version),blood,time,0.26666666666666666
+In My Place,Dear Friend (The Secret Of Time Album Version),blood,secret,0.2857142857142857
+In My Place,Just The Way You Are,place,way,0.18181818181818182
+In My Place,Just The Way You Are,place,n,0.3333333333333333
+In My Place,Just The Way You Are,place,heartbreakers,0.42857142857142855
+In My Place,Just The Way You Are,rush,way,0.2857142857142857
+In My Place,Just The Way You Are,rush,n,0.25
+In My Place,Just The Way You Are,rush,heartbreakers,0.13333333333333333
+In My Place,Just The Way You Are,head,way,0.16666666666666666
+In My Place,Just The Way You Are,head,n,0.3076923076923077
+In My Place,Just The Way You Are,head,heartbreakers,0.3076923076923077
+In My Place,Just The Way You Are,blood,way,0.3076923076923077
+In My Place,Just The Way You Are,blood,n,0.5333333333333333
+In My Place,Just The Way You Are,blood,heartbreakers,0.3076923076923077
+In My Place,Miss Your Touch (Album Version),place,album,0.42857142857142855
+In My Place,Miss Your Touch (Album Version),place,version,0.14285714285714285
+In My Place,Miss Your Touch (Album Version),place,touch,0.15384615384615385
+In My Place,Miss Your Touch (Album Version),place,miss,0.4
+In My Place,Miss Your Touch (Album Version),place,cassie,0.3333333333333333
+In My Place,Miss Your Touch (Album Version),rush,album,0.11764705882352941
+In My Place,Miss Your Touch (Album Version),rush,version,0.23529411764705882
+In My Place,Miss Your Touch (Album Version),rush,touch,0.5
+In My Place,Miss Your Touch (Album Version),rush,miss,0.125
+In My Place,Miss Your Touch (Album Version),rush,cassie,0.09523809523809523
+In My Place,Miss Your Touch (Album Version),head,album,0.26666666666666666
+In My Place,Miss Your Touch (Album Version),head,version,0.13333333333333333
+In My Place,Miss Your Touch (Album Version),head,touch,0.14285714285714285
+In My Place,Miss Your Touch (Album Version),head,miss,0.2857142857142857
+In My Place,Miss Your Touch (Album Version),head,cassie,0.21052631578947367
+In My Place,Miss Your Touch (Album Version),blood,album,0.26666666666666666
+In My Place,Miss Your Touch (Album Version),blood,version,0.25
+In My Place,Miss Your Touch (Album Version),blood,touch,0.26666666666666666
+In My Place,Miss Your Touch (Album Version),blood,miss,0.2857142857142857
+In My Place,Miss Your Touch (Album Version),blood,cassie,0.21052631578947367
+In My Place,Green,place,green,0.14285714285714285
+In My Place,Green,place,abnormal,0
+In My Place,Green,rush,green,0.23529411764705882
+In My Place,Green,rush,abnormal,0
+In My Place,Green,head,green,0.13333333333333333
+In My Place,Green,head,abnormal,0
+In My Place,Green,blood,green,0.25
+In My Place,Green,blood,abnormal,0
+In My Place,Make Music,place,make,0.125
+In My Place,Make Music,place,music,0.18181818181818182
+In My Place,Make Music,place,waiting,0.15384615384615385
+In My Place,Make Music,place,room,0.42857142857142855
+In My Place,Make Music,rush,make,0.3157894736842105
+In My Place,Make Music,rush,music,0.2857142857142857
+In My Place,Make Music,rush,waiting,0.625
+In My Place,Make Music,rush,room,0.11764705882352941
+In My Place,Make Music,head,make,0.11764705882352941
+In My Place,Make Music,head,music,0.16666666666666666
+In My Place,Make Music,head,waiting,0.14285714285714285
+In My Place,Make Music,head,room,0.26666666666666666
+In My Place,Make Music,blood,make,0.2222222222222222
+In My Place,Make Music,blood,music,0.3076923076923077
+In My Place,Make Music,blood,waiting,0.26666666666666666
+In My Place,Make Music,blood,room,0.26666666666666666
+In My Place,Stay,place,stay,0.16666666666666666
+In My Place,Stay,place,essential,0.4
+In My Place,Stay,place,eternal,0
+In My Place,Stay,rush,stay,0.6666666666666666
+In My Place,Stay,rush,essential,0.15384615384615385
+In My Place,Stay,rush,eternal,0
+In My Place,Stay,head,stay,0.15384615384615385
+In My Place,Stay,head,essential,0.5454545454545454
+In My Place,Stay,head,eternal,0
+In My Place,Stay,blood,stay,0.2857142857142857
+In My Place,Stay,blood,essential,0.36363636363636365
+In My Place,Stay,blood,eternal,0
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),place,digital,0
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),place,girls,0.4
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),place,version,0.14285714285714285
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),place,alley,0.375
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),place,greenhouse,0.42857142857142855
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),place,granny,0.35294117647058826
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),place,doughnut,0.15384615384615385
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),rush,digital,0
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),rush,girls,0.125
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),rush,version,0.23529411764705882
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),rush,alley,0.10526315789473684
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),rush,greenhouse,0.11764705882352941
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),rush,granny,0.1111111111111111
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),rush,doughnut,0.25
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),head,digital,0
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),head,girls,0.2857142857142857
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),head,version,0.13333333333333333
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),head,alley,0.23529411764705882
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),head,greenhouse,0.26666666666666666
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),head,granny,0.25
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),head,doughnut,0.14285714285714285
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),blood,digital,0
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),blood,girls,0.2857142857142857
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),blood,version,0.25
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),blood,alley,0.23529411764705882
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),blood,greenhouse,0.26666666666666666
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),blood,granny,0.25
+In My Place,Alley Oop (Girls Version) (2007 Digital Remaster),blood,doughnut,0.26666666666666666
+In My Place,Cups,place,cups,0.42857142857142855
+In My Place,Cups,place,chilled,0
+In My Place,Cups,place,house,0.42857142857142855
+In My Place,Cups,place,session,0.14285714285714285
+In My Place,Cups,rush,cups,0.11764705882352941
+In My Place,Cups,rush,chilled,0
+In My Place,Cups,rush,house,0.11764705882352941
+In My Place,Cups,rush,session,0.23529411764705882
+In My Place,Cups,head,cups,0.26666666666666666
+In My Place,Cups,head,chilled,0
+In My Place,Cups,head,house,0.26666666666666666
+In My Place,Cups,head,session,0.13333333333333333
+In My Place,Cups,blood,cups,0.26666666666666666
+In My Place,Cups,blood,chilled,0
+In My Place,Cups,blood,house,0.26666666666666666
+In My Place,Cups,blood,session,0.25
+In My Place,Still Take You Home,place,still,0.4
+In My Place,Still Take You Home,place,take,0.125
+In My Place,Still Take You Home,place,home,0.6666666666666666
+In My Place,Still Take You Home,place,people,0.2
+In My Place,Still Take You Home,place,say,0.14285714285714285
+In My Place,Still Take You Home,place,digital,0
+In My Place,Still Take You Home,rush,still,0.1111111111111111
+In My Place,Still Take You Home,rush,take,0.21052631578947367
+In My Place,Still Take You Home,rush,home,0.1111111111111111
+In My Place,Still Take You Home,rush,people,0.3076923076923077
+In My Place,Still Take You Home,rush,say,0.23529411764705882
+In My Place,Still Take You Home,rush,digital,0
+In My Place,Still Take You Home,head,still,0.25
+In My Place,Still Take You Home,head,take,0.11764705882352941
+In My Place,Still Take You Home,head,home,0.25
+In My Place,Still Take You Home,head,people,0.18181818181818182
+In My Place,Still Take You Home,head,say,0.13333333333333333
+In My Place,Still Take You Home,head,digital,0
+In My Place,Still Take You Home,blood,still,0.25
+In My Place,Still Take You Home,blood,take,0.3333333333333333
+In My Place,Still Take You Home,blood,home,0.25
+In My Place,Still Take You Home,blood,people,0.3333333333333333
+In My Place,Still Take You Home,blood,say,0.25
+In My Place,Still Take You Home,blood,digital,0
+In My Place,Milkshake,place,milkshake,0.14285714285714285
+In My Place,Milkshake,place,original,0.46153846153846156
+In My Place,Milkshake,place,hits,0.13333333333333333
+In My Place,Milkshake,place,soul,0.3333333333333333
+In My Place,Milkshake,place,rap,0.13333333333333333
+In My Place,Milkshake,rush,milkshake,0.23529411764705882
+In My Place,Milkshake,rush,original,0.125
+In My Place,Milkshake,rush,hits,0.6666666666666666
+In My Place,Milkshake,rush,soul,0.13333333333333333
+In My Place,Milkshake,rush,rap,0.2222222222222222
+In My Place,Milkshake,head,milkshake,0.13333333333333333
+In My Place,Milkshake,head,original,0.2857142857142857
+In My Place,Milkshake,head,hits,0.125
+In My Place,Milkshake,head,soul,0.3076923076923077
+In My Place,Milkshake,head,rap,0.125
+In My Place,Milkshake,blood,milkshake,0.25
+In My Place,Milkshake,blood,original,0.2857142857142857
+In My Place,Milkshake,blood,hits,0.23529411764705882
+In My Place,Milkshake,blood,soul,0.3076923076923077
+In My Place,Milkshake,blood,rap,0.23529411764705882
+In My Place,The Way She Moves,place,way,0.18181818181818182
+In My Place,The Way She Moves,place,moves,0.13333333333333333
+In My Place,The Way She Moves,place,perfect,0.14285714285714285
+In My Place,The Way She Moves,place,melody,0.16666666666666666
+In My Place,The Way She Moves,rush,way,0.2857142857142857
+In My Place,The Way She Moves,rush,moves,0.6666666666666666
+In My Place,The Way She Moves,rush,perfect,0.23529411764705882
+In My Place,The Way She Moves,rush,melody,0.26666666666666666
+In My Place,The Way She Moves,head,way,0.16666666666666666
+In My Place,The Way She Moves,head,moves,0.125
+In My Place,The Way She Moves,head,perfect,0.13333333333333333
+In My Place,The Way She Moves,head,melody,0.15384615384615385
+In My Place,The Way She Moves,blood,way,0.3076923076923077
+In My Place,The Way She Moves,blood,moves,0.23529411764705882
+In My Place,The Way She Moves,blood,perfect,0.25
+In My Place,The Way She Moves,blood,melody,0.2857142857142857
+Lost!,Dear Friend (The Secret Of Time Album Version),lost,time,0.3333333333333333
+Lost!,Dear Friend (The Secret Of Time Album Version),lost,album,0.15384615384615385
+Lost!,Dear Friend (The Secret Of Time Album Version),lost,version,0.3076923076923077
+Lost!,Dear Friend (The Secret Of Time Album Version),lost,dear,0.18181818181818182
+Lost!,Dear Friend (The Secret Of Time Album Version),lost,friend,0.2
+Lost!,Dear Friend (The Secret Of Time Album Version),lost,secret,0.36363636363636365
+Lost!,Dear Friend (The Secret Of Time Album Version),lost,time,0.3333333333333333
+Lost!,Dear Friend (The Secret Of Time Album Version),lost,secret,0.36363636363636365
+Lost!,Dear Friend (The Secret Of Time Album Version),viva,time,0.5333333333333333
+Lost!,Dear Friend (The Secret Of Time Album Version),viva,album,0.125
+Lost!,Dear Friend (The Secret Of Time Album Version),viva,version,0.25
+Lost!,Dear Friend (The Secret Of Time Album Version),viva,dear,0.14285714285714285
+Lost!,Dear Friend (The Secret Of Time Album Version),viva,friend,0.15384615384615385
+Lost!,Dear Friend (The Secret Of Time Album Version),viva,secret,0.2857142857142857
+Lost!,Dear Friend (The Secret Of Time Album Version),viva,time,0.5333333333333333
+Lost!,Dear Friend (The Secret Of Time Album Version),viva,secret,0.2857142857142857
+Lost!,Dear Friend (The Secret Of Time Album Version),la,time,0.26666666666666666
+Lost!,Dear Friend (The Secret Of Time Album Version),la,album,0.26666666666666666
+Lost!,Dear Friend (The Secret Of Time Album Version),la,version,0.25
+Lost!,Dear Friend (The Secret Of Time Album Version),la,dear,0.3076923076923077
+Lost!,Dear Friend (The Secret Of Time Album Version),la,friend,0.3333333333333333
+Lost!,Dear Friend (The Secret Of Time Album Version),la,secret,0.2857142857142857
+Lost!,Dear Friend (The Secret Of Time Album Version),la,time,0.26666666666666666
+Lost!,Dear Friend (The Secret Of Time Album Version),la,secret,0.2857142857142857
+Lost!,Dear Friend (The Secret Of Time Album Version),friends,time,0.16666666666666666
+Lost!,Dear Friend (The Secret Of Time Album Version),friends,album,0.5
+Lost!,Dear Friend (The Secret Of Time Album Version),friends,version,0.15384615384615385
+Lost!,Dear Friend (The Secret Of Time Album Version),friends,dear,0.7058823529411765
+Lost!,Dear Friend (The Secret Of Time Album Version),friends,friend,0.75
+Lost!,Dear Friend (The Secret Of Time Album Version),friends,secret,0.18181818181818182
+Lost!,Dear Friend (The Secret Of Time Album Version),friends,time,0.16666666666666666
+Lost!,Dear Friend (The Secret Of Time Album Version),friends,secret,0.18181818181818182
+Lost!,Dear Friend (The Secret Of Time Album Version),death,time,0.7142857142857143
+Lost!,Dear Friend (The Secret Of Time Album Version),death,album,0.13333333333333333
+Lost!,Dear Friend (The Secret Of Time Album Version),death,version,0.26666666666666666
+Lost!,Dear Friend (The Secret Of Time Album Version),death,dear,0.15384615384615385
+Lost!,Dear Friend (The Secret Of Time Album Version),death,friend,0.16666666666666666
+Lost!,Dear Friend (The Secret Of Time Album Version),death,secret,0.3076923076923077
+Lost!,Dear Friend (The Secret Of Time Album Version),death,time,0.7142857142857143
+Lost!,Dear Friend (The Secret Of Time Album Version),death,secret,0.3076923076923077
+Lost!,Just The Way You Are,lost,way,0.4
+Lost!,Just The Way You Are,lost,n,0.3333333333333333
+Lost!,Just The Way You Are,lost,heartbreakers,0.18181818181818182
+Lost!,Just The Way You Are,viva,way,0.3076923076923077
+Lost!,Just The Way You Are,viva,n,0.26666666666666666
+Lost!,Just The Way You Are,viva,heartbreakers,0.14285714285714285
+Lost!,Just The Way You Are,la,way,0.3076923076923077
+Lost!,Just The Way You Are,la,n,0.8
+Lost!,Just The Way You Are,la,heartbreakers,0.3076923076923077
+Lost!,Just The Way You Are,friends,way,0.2
+Lost!,Just The Way You Are,friends,n,0.36363636363636365
+Lost!,Just The Way You Are,friends,heartbreakers,0.7058823529411765
+Lost!,Just The Way You Are,death,way,0.3333333333333333
+Lost!,Just The Way You Are,death,n,0.2857142857142857
+Lost!,Just The Way You Are,death,heartbreakers,0.15384615384615385
+Lost!,Miss Your Touch (Album Version),lost,album,0.15384615384615385
+Lost!,Miss Your Touch (Album Version),lost,version,0.3076923076923077
+Lost!,Miss Your Touch (Album Version),lost,touch,0.3333333333333333
+Lost!,Miss Your Touch (Album Version),lost,miss,0.16666666666666666
+Lost!,Miss Your Touch (Album Version),lost,cassie,0.11764705882352941
+Lost!,Miss Your Touch (Album Version),viva,album,0.125
+Lost!,Miss Your Touch (Album Version),viva,version,0.25
+Lost!,Miss Your Touch (Album Version),viva,touch,0.5333333333333333
+Lost!,Miss Your Touch (Album Version),viva,miss,0.13333333333333333
+Lost!,Miss Your Touch (Album Version),viva,cassie,0.1
+Lost!,Miss Your Touch (Album Version),la,album,0.26666666666666666
+Lost!,Miss Your Touch (Album Version),la,version,0.25
+Lost!,Miss Your Touch (Album Version),la,touch,0.26666666666666666
+Lost!,Miss Your Touch (Album Version),la,miss,0.2857142857142857
+Lost!,Miss Your Touch (Album Version),la,cassie,0.21052631578947367
+Lost!,Miss Your Touch (Album Version),friends,album,0.5
+Lost!,Miss Your Touch (Album Version),friends,version,0.15384615384615385
+Lost!,Miss Your Touch (Album Version),friends,touch,0.16666666666666666
+Lost!,Miss Your Touch (Album Version),friends,miss,0.6666666666666666
+Lost!,Miss Your Touch (Album Version),friends,cassie,0.6
+Lost!,Miss Your Touch (Album Version),death,album,0.13333333333333333
+Lost!,Miss Your Touch (Album Version),death,version,0.26666666666666666
+Lost!,Miss Your Touch (Album Version),death,touch,0.7142857142857143
+Lost!,Miss Your Touch (Album Version),death,miss,0.14285714285714285
+Lost!,Miss Your Touch (Album Version),death,cassie,0.10526315789473684
+Lost!,Green,lost,green,0.3076923076923077
+Lost!,Green,lost,abnormal,0
+Lost!,Green,viva,green,0.25
+Lost!,Green,viva,abnormal,0
+Lost!,Green,la,green,0.25
+Lost!,Green,la,abnormal,0
+Lost!,Green,friends,green,0.15384615384615385
+Lost!,Green,friends,abnormal,0
+Lost!,Green,death,green,0.26666666666666666
+Lost!,Green,death,abnormal,0
+Lost!,Make Music,lost,make,0.26666666666666666
+Lost!,Make Music,lost,music,0.4
+Lost!,Make Music,lost,waiting,0.3333333333333333
+Lost!,Make Music,lost,room,0.15384615384615385
+Lost!,Make Music,viva,make,0.3333333333333333
+Lost!,Make Music,viva,music,0.3076923076923077
+Lost!,Make Music,viva,waiting,0.6666666666666666
+Lost!,Make Music,viva,room,0.125
+Lost!,Make Music,la,make,0.2222222222222222
+Lost!,Make Music,la,music,0.3076923076923077
+Lost!,Make Music,la,waiting,0.26666666666666666
+Lost!,Make Music,la,room,0.26666666666666666
+Lost!,Make Music,friends,make,0.13333333333333333
+Lost!,Make Music,friends,music,0.2
+Lost!,Make Music,friends,waiting,0.16666666666666666
+Lost!,Make Music,friends,room,0.5
+Lost!,Make Music,death,make,0.35294117647058826
+Lost!,Make Music,death,music,0.3333333333333333
+Lost!,Make Music,death,waiting,0.5714285714285714
+Lost!,Make Music,death,room,0.13333333333333333
+Lost!,Stay,lost,stay,0.36363636363636365
+Lost!,Stay,lost,essential,0.2222222222222222
+Lost!,Stay,lost,eternal,0
+Lost!,Stay,viva,stay,0.7142857142857143
+Lost!,Stay,viva,essential,0.16666666666666666
+Lost!,Stay,viva,eternal,0
+Lost!,Stay,la,stay,0.2857142857142857
+Lost!,Stay,la,essential,0.36363636363636365
+Lost!,Stay,la,eternal,0
+Lost!,Stay,friends,stay,0.18181818181818182
+Lost!,Stay,friends,essential,0.4444444444444444
+Lost!,Stay,friends,eternal,0
+Lost!,Stay,death,stay,0.6153846153846154
+Lost!,Stay,death,essential,0.18181818181818182
+Lost!,Stay,death,eternal,0
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),lost,digital,0
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),lost,girls,0.16666666666666666
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),lost,version,0.3076923076923077
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),lost,alley,0.13333333333333333
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),lost,greenhouse,0.15384615384615385
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),lost,granny,0.14285714285714285
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),lost,doughnut,0.3333333333333333
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),viva,digital,0
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),viva,girls,0.13333333333333333
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),viva,version,0.25
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),viva,alley,0.1111111111111111
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),viva,greenhouse,0.125
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),viva,granny,0.11764705882352941
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),viva,doughnut,0.26666666666666666
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),la,digital,0
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),la,girls,0.2857142857142857
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),la,version,0.25
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),la,alley,0.23529411764705882
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),la,greenhouse,0.26666666666666666
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),la,granny,0.25
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),la,doughnut,0.26666666666666666
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),friends,digital,0
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),friends,girls,0.6666666666666666
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),friends,version,0.15384615384615385
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),friends,alley,0.4444444444444444
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),friends,greenhouse,0.5
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),friends,granny,0.6
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),friends,doughnut,0.16666666666666666
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),death,digital,0
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),death,girls,0.14285714285714285
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),death,version,0.26666666666666666
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),death,alley,0.11764705882352941
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),death,greenhouse,0.13333333333333333
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),death,granny,0.125
+Lost!,Alley Oop (Girls Version) (2007 Digital Remaster),death,doughnut,0.2857142857142857
+Lost!,Cups,lost,cups,0.15384615384615385
+Lost!,Cups,lost,chilled,0
+Lost!,Cups,lost,house,0.15384615384615385
+Lost!,Cups,lost,session,0.3076923076923077
+Lost!,Cups,viva,cups,0.125
+Lost!,Cups,viva,chilled,0
+Lost!,Cups,viva,house,0.125
+Lost!,Cups,viva,session,0.25
+Lost!,Cups,la,cups,0.26666666666666666
+Lost!,Cups,la,chilled,0
+Lost!,Cups,la,house,0.26666666666666666
+Lost!,Cups,la,session,0.25
+Lost!,Cups,friends,cups,0.5
+Lost!,Cups,friends,chilled,0
+Lost!,Cups,friends,house,0.5
+Lost!,Cups,friends,session,0.15384615384615385
+Lost!,Cups,death,cups,0.13333333333333333
+Lost!,Cups,death,chilled,0
+Lost!,Cups,death,house,0.13333333333333333
+Lost!,Cups,death,session,0.26666666666666666
+Lost!,Still Take You Home,lost,still,0.14285714285714285
+Lost!,Still Take You Home,lost,take,0.26666666666666666
+Lost!,Still Take You Home,lost,home,0.14285714285714285
+Lost!,Still Take You Home,lost,people,0.8888888888888888
+Lost!,Still Take You Home,lost,say,0.3076923076923077
+Lost!,Still Take You Home,lost,digital,0
+Lost!,Still Take You Home,viva,still,0.11764705882352941
+Lost!,Still Take You Home,viva,take,0.2222222222222222
+Lost!,Still Take You Home,viva,home,0.11764705882352941
+Lost!,Still Take You Home,viva,people,0.3333333333333333
+Lost!,Still Take You Home,viva,say,0.25
+Lost!,Still Take You Home,viva,digital,0
+Lost!,Still Take You Home,la,still,0.25
+Lost!,Still Take You Home,la,take,0.3333333333333333
+Lost!,Still Take You Home,la,home,0.25
+Lost!,Still Take You Home,la,people,0.3333333333333333
+Lost!,Still Take You Home,la,say,0.25
+Lost!,Still Take You Home,la,digital,0
+Lost!,Still Take You Home,friends,still,0.47058823529411764
+Lost!,Still Take You Home,friends,take,0.13333333333333333
+Lost!,Still Take You Home,friends,home,0.375
+Lost!,Still Take You Home,friends,people,0.2222222222222222
+Lost!,Still Take You Home,friends,say,0.15384615384615385
+Lost!,Still Take You Home,friends,digital,0
+Lost!,Still Take You Home,death,still,0.125
+Lost!,Still Take You Home,death,take,0.23529411764705882
+Lost!,Still Take You Home,death,home,0.125
+Lost!,Still Take You Home,death,people,0.36363636363636365
+Lost!,Still Take You Home,death,say,0.26666666666666666
+Lost!,Still Take You Home,death,digital,0
+Lost!,Milkshake,lost,milkshake,0.3076923076923077
+Lost!,Milkshake,lost,original,0.16666666666666666
+Lost!,Milkshake,lost,hits,0.2857142857142857
+Lost!,Milkshake,lost,soul,0.18181818181818182
+Lost!,Milkshake,lost,rap,0.2857142857142857
+Lost!,Milkshake,viva,milkshake,0.25
+Lost!,Milkshake,viva,original,0.13333333333333333
+Lost!,Milkshake,viva,hits,0.5882352941176471
+Lost!,Milkshake,viva,soul,0.14285714285714285
+Lost!,Milkshake,viva,rap,0.23529411764705882
+Lost!,Milkshake,la,milkshake,0.25
+Lost!,Milkshake,la,original,0.2857142857142857
+Lost!,Milkshake,la,hits,0.23529411764705882
+Lost!,Milkshake,la,soul,0.3076923076923077
+Lost!,Milkshake,la,rap,0.23529411764705882
+Lost!,Milkshake,friends,milkshake,0.15384615384615385
+Lost!,Milkshake,friends,original,0.5333333333333333
+Lost!,Milkshake,friends,hits,0.14285714285714285
+Lost!,Milkshake,friends,soul,0.5454545454545454
+Lost!,Milkshake,friends,rap,0.14285714285714285
+Lost!,Milkshake,death,milkshake,0.26666666666666666
+Lost!,Milkshake,death,original,0.14285714285714285
+Lost!,Milkshake,death,hits,0.5
+Lost!,Milkshake,death,soul,0.15384615384615385
+Lost!,Milkshake,death,rap,0.25
+Lost!,The Way She Moves,lost,way,0.4
+Lost!,The Way She Moves,lost,moves,0.2857142857142857
+Lost!,The Way She Moves,lost,perfect,0.46153846153846156
+Lost!,The Way She Moves,lost,melody,0.36363636363636365
+Lost!,The Way She Moves,viva,way,0.3076923076923077
+Lost!,The Way She Moves,viva,moves,0.5882352941176471
+Lost!,The Way She Moves,viva,perfect,0.25
+Lost!,The Way She Moves,viva,melody,0.2857142857142857
+Lost!,The Way She Moves,la,way,0.3076923076923077
+Lost!,The Way She Moves,la,moves,0.23529411764705882
+Lost!,The Way She Moves,la,perfect,0.25
+Lost!,The Way She Moves,la,melody,0.2857142857142857
+Lost!,The Way She Moves,friends,way,0.2
+Lost!,The Way She Moves,friends,moves,0.14285714285714285
+Lost!,The Way She Moves,friends,perfect,0.15384615384615385
+Lost!,The Way She Moves,friends,melody,0.18181818181818182
+Lost!,The Way She Moves,death,way,0.3333333333333333
+Lost!,The Way She Moves,death,moves,0.5
+Lost!,The Way She Moves,death,perfect,0.26666666666666666
+Lost!,The Way She Moves,death,melody,0.3076923076923077
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,time,0.26666666666666666
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,album,0.125
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,version,0.25
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,dear,0.14285714285714285
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,friend,0.15384615384615385
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,secret,0.2857142857142857
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,time,0.26666666666666666
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,secret,0.2857142857142857
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,time,0.26666666666666666
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,album,0.125
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,version,0.25
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,dear,0.14285714285714285
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,friend,0.15384615384615385
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,secret,0.2857142857142857
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,time,0.26666666666666666
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,secret,0.2857142857142857
+Yellow,Just The Way You Are,yellow,way,0.6153846153846154
+Yellow,Just The Way You Are,yellow,n,0.26666666666666666
+Yellow,Just The Way You Are,yellow,heartbreakers,0.14285714285714285
+Yellow,Just The Way You Are,yellow,way,0.6153846153846154
+Yellow,Just The Way You Are,yellow,n,0.26666666666666666
+Yellow,Just The Way You Are,yellow,heartbreakers,0.14285714285714285
+Yellow,Miss Your Touch (Album Version),yellow,album,0.125
+Yellow,Miss Your Touch (Album Version),yellow,version,0.25
+Yellow,Miss Your Touch (Album Version),yellow,touch,0.26666666666666666
+Yellow,Miss Your Touch (Album Version),yellow,miss,0.13333333333333333
+Yellow,Miss Your Touch (Album Version),yellow,cassie,0.1
+Yellow,Miss Your Touch (Album Version),yellow,album,0.125
+Yellow,Miss Your Touch (Album Version),yellow,version,0.25
+Yellow,Miss Your Touch (Album Version),yellow,touch,0.26666666666666666
+Yellow,Miss Your Touch (Album Version),yellow,miss,0.13333333333333333
+Yellow,Miss Your Touch (Album Version),yellow,cassie,0.1
+Yellow,Green,yellow,green,0.875
+Yellow,Green,yellow,abnormal,0
+Yellow,Green,yellow,green,0.875
+Yellow,Green,yellow,abnormal,0
+Yellow,Make Music,yellow,make,0.2222222222222222
+Yellow,Make Music,yellow,music,0.3076923076923077
+Yellow,Make Music,yellow,waiting,0.26666666666666666
+Yellow,Make Music,yellow,room,0.125
+Yellow,Make Music,yellow,make,0.2222222222222222
+Yellow,Make Music,yellow,music,0.3076923076923077
+Yellow,Make Music,yellow,waiting,0.26666666666666666
+Yellow,Make Music,yellow,room,0.125
+Yellow,Stay,yellow,stay,0.2857142857142857
+Yellow,Stay,yellow,essential,0.16666666666666666
+Yellow,Stay,yellow,eternal,0
+Yellow,Stay,yellow,stay,0.2857142857142857
+Yellow,Stay,yellow,essential,0.16666666666666666
+Yellow,Stay,yellow,eternal,0
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,digital,0
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,girls,0.13333333333333333
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,version,0.25
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,alley,0.1111111111111111
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,greenhouse,0.125
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,granny,0.11764705882352941
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,doughnut,0.4
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,digital,0
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,girls,0.13333333333333333
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,version,0.25
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,alley,0.1111111111111111
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,greenhouse,0.125
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,granny,0.11764705882352941
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,doughnut,0.4
+Yellow,Cups,yellow,cups,0.125
+Yellow,Cups,yellow,chilled,0
+Yellow,Cups,yellow,house,0.125
+Yellow,Cups,yellow,session,0.25
+Yellow,Cups,yellow,cups,0.125
+Yellow,Cups,yellow,chilled,0
+Yellow,Cups,yellow,house,0.125
+Yellow,Cups,yellow,session,0.25
+Yellow,Still Take You Home,yellow,still,0.11764705882352941
+Yellow,Still Take You Home,yellow,take,0.2222222222222222
+Yellow,Still Take You Home,yellow,home,0.11764705882352941
+Yellow,Still Take You Home,yellow,people,0.3333333333333333
+Yellow,Still Take You Home,yellow,say,0.375
+Yellow,Still Take You Home,yellow,digital,0
+Yellow,Still Take You Home,yellow,still,0.11764705882352941
+Yellow,Still Take You Home,yellow,take,0.2222222222222222
+Yellow,Still Take You Home,yellow,home,0.11764705882352941
+Yellow,Still Take You Home,yellow,people,0.3333333333333333
+Yellow,Still Take You Home,yellow,say,0.375
+Yellow,Still Take You Home,yellow,digital,0
+Yellow,Milkshake,yellow,milkshake,0.25
+Yellow,Milkshake,yellow,original,0.13333333333333333
+Yellow,Milkshake,yellow,hits,0.23529411764705882
+Yellow,Milkshake,yellow,soul,0.14285714285714285
+Yellow,Milkshake,yellow,rap,0.23529411764705882
+Yellow,Milkshake,yellow,milkshake,0.25
+Yellow,Milkshake,yellow,original,0.13333333333333333
+Yellow,Milkshake,yellow,hits,0.23529411764705882
+Yellow,Milkshake,yellow,soul,0.14285714285714285
+Yellow,Milkshake,yellow,rap,0.23529411764705882
+Yellow,The Way She Moves,yellow,way,0.6153846153846154
+Yellow,The Way She Moves,yellow,moves,0.23529411764705882
+Yellow,The Way She Moves,yellow,perfect,0.25
+Yellow,The Way She Moves,yellow,melody,0.2857142857142857
+Yellow,The Way She Moves,yellow,way,0.6153846153846154
+Yellow,The Way She Moves,yellow,moves,0.23529411764705882
+Yellow,The Way She Moves,yellow,perfect,0.25
+Yellow,The Way She Moves,yellow,melody,0.2857142857142857
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,time,0.26666666666666666
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,album,0.125
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,version,0.25
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,dear,0.14285714285714285
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,friend,0.15384615384615385
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,secret,0.2857142857142857
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,time,0.26666666666666666
+Yellow,Dear Friend (The Secret Of Time Album Version),yellow,secret,0.2857142857142857
+Yellow,Just The Way You Are,yellow,way,0.6153846153846154
+Yellow,Just The Way You Are,yellow,n,0.26666666666666666
+Yellow,Just The Way You Are,yellow,heartbreakers,0.14285714285714285
+Yellow,Miss Your Touch (Album Version),yellow,album,0.125
+Yellow,Miss Your Touch (Album Version),yellow,version,0.25
+Yellow,Miss Your Touch (Album Version),yellow,touch,0.26666666666666666
+Yellow,Miss Your Touch (Album Version),yellow,miss,0.13333333333333333
+Yellow,Miss Your Touch (Album Version),yellow,cassie,0.1
+Yellow,Green,yellow,green,0.875
+Yellow,Green,yellow,abnormal,0
+Yellow,Make Music,yellow,make,0.2222222222222222
+Yellow,Make Music,yellow,music,0.3076923076923077
+Yellow,Make Music,yellow,waiting,0.26666666666666666
+Yellow,Make Music,yellow,room,0.125
+Yellow,Stay,yellow,stay,0.2857142857142857
+Yellow,Stay,yellow,essential,0.16666666666666666
+Yellow,Stay,yellow,eternal,0
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,digital,0
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,girls,0.13333333333333333
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,version,0.25
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,alley,0.1111111111111111
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,greenhouse,0.125
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,granny,0.11764705882352941
+Yellow,Alley Oop (Girls Version) (2007 Digital Remaster),yellow,doughnut,0.4
+Yellow,Cups,yellow,cups,0.125
+Yellow,Cups,yellow,chilled,0
+Yellow,Cups,yellow,house,0.125
+Yellow,Cups,yellow,session,0.25
+Yellow,Still Take You Home,yellow,still,0.11764705882352941
+Yellow,Still Take You Home,yellow,take,0.2222222222222222
+Yellow,Still Take You Home,yellow,home,0.11764705882352941
+Yellow,Still Take You Home,yellow,people,0.3333333333333333
+Yellow,Still Take You Home,yellow,say,0.375
+Yellow,Still Take You Home,yellow,digital,0
+Yellow,Milkshake,yellow,milkshake,0.25
+Yellow,Milkshake,yellow,original,0.13333333333333333
+Yellow,Milkshake,yellow,hits,0.23529411764705882
+Yellow,Milkshake,yellow,soul,0.14285714285714285
+Yellow,Milkshake,yellow,rap,0.23529411764705882
+Yellow,The Way She Moves,yellow,way,0.6153846153846154
+Yellow,The Way She Moves,yellow,moves,0.23529411764705882
+Yellow,The Way She Moves,yellow,perfect,0.25
+Yellow,The Way She Moves,yellow,melody,0.2857142857142857
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,time,0.3076923076923077
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,album,0.14285714285714285
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,version,0.2857142857142857
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,dear,0.16666666666666666
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,friend,0.18181818181818182
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,secret,0.3333333333333333
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,time,0.3076923076923077
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,secret,0.3333333333333333
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,time,0.3076923076923077
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,album,0.14285714285714285
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,version,0.2857142857142857
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,dear,0.16666666666666666
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,friend,0.18181818181818182
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,secret,0.3333333333333333
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,time,0.3076923076923077
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,secret,0.3333333333333333
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,time,0.3076923076923077
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,album,0.14285714285714285
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,version,0.2857142857142857
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,dear,0.16666666666666666
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,friend,0.18181818181818182
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,secret,0.3333333333333333
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,time,0.3076923076923077
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),speed,secret,0.3333333333333333
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,time,0.3076923076923077
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,album,0.14285714285714285
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,version,0.2857142857142857
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,dear,0.16666666666666666
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,friend,0.18181818181818182
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,secret,0.3333333333333333
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,time,0.3076923076923077
+Speed Of Sound,Dear Friend (The Secret Of Time Album Version),sound,secret,0.3333333333333333
+Speed Of Sound,Just The Way You Are,speed,way,0.36363636363636365
+Speed Of Sound,Just The Way You Are,speed,n,0.46153846153846156
+Speed Of Sound,Just The Way You Are,speed,heartbreakers,0.16666666666666666
+Speed Of Sound,Just The Way You Are,sound,way,0.7272727272727273
+Speed Of Sound,Just The Way You Are,sound,n,0.3076923076923077
+Speed Of Sound,Just The Way You Are,sound,heartbreakers,0.16666666666666666
+Speed Of Sound,Just The Way You Are,speed,way,0.36363636363636365
+Speed Of Sound,Just The Way You Are,speed,n,0.46153846153846156
+Speed Of Sound,Just The Way You Are,speed,heartbreakers,0.16666666666666666
+Speed Of Sound,Just The Way You Are,sound,way,0.7272727272727273
+Speed Of Sound,Just The Way You Are,sound,n,0.3076923076923077
+Speed Of Sound,Just The Way You Are,sound,heartbreakers,0.16666666666666666
+Speed Of Sound,Miss Your Touch (Album Version),speed,album,0.14285714285714285
+Speed Of Sound,Miss Your Touch (Album Version),speed,version,0.2857142857142857
+Speed Of Sound,Miss Your Touch (Album Version),speed,touch,0.3076923076923077
+Speed Of Sound,Miss Your Touch (Album Version),speed,miss,0.15384615384615385
+Speed Of Sound,Miss Your Touch (Album Version),speed,cassie,0.1111111111111111
+Speed Of Sound,Miss Your Touch (Album Version),sound,album,0.14285714285714285
+Speed Of Sound,Miss Your Touch (Album Version),sound,version,0.2857142857142857
+Speed Of Sound,Miss Your Touch (Album Version),sound,touch,0.3076923076923077
+Speed Of Sound,Miss Your Touch (Album Version),sound,miss,0.15384615384615385
+Speed Of Sound,Miss Your Touch (Album Version),sound,cassie,0.1111111111111111
+Speed Of Sound,Miss Your Touch (Album Version),speed,album,0.14285714285714285
+Speed Of Sound,Miss Your Touch (Album Version),speed,version,0.2857142857142857
+Speed Of Sound,Miss Your Touch (Album Version),speed,touch,0.3076923076923077
+Speed Of Sound,Miss Your Touch (Album Version),speed,miss,0.15384615384615385
+Speed Of Sound,Miss Your Touch (Album Version),speed,cassie,0.1111111111111111
+Speed Of Sound,Miss Your Touch (Album Version),sound,album,0.14285714285714285
+Speed Of Sound,Miss Your Touch (Album Version),sound,version,0.2857142857142857
+Speed Of Sound,Miss Your Touch (Album Version),sound,touch,0.3076923076923077
+Speed Of Sound,Miss Your Touch (Album Version),sound,miss,0.15384615384615385
+Speed Of Sound,Miss Your Touch (Album Version),sound,cassie,0.1111111111111111
+Speed Of Sound,Green,speed,green,0.2857142857142857
+Speed Of Sound,Green,speed,abnormal,0
+Speed Of Sound,Green,sound,green,0.5714285714285714
+Speed Of Sound,Green,sound,abnormal,0
+Speed Of Sound,Green,speed,green,0.2857142857142857
+Speed Of Sound,Green,speed,abnormal,0
+Speed Of Sound,Green,sound,green,0.5714285714285714
+Speed Of Sound,Green,sound,abnormal,0
+Speed Of Sound,Make Music,speed,make,0.25
+Speed Of Sound,Make Music,speed,music,0.36363636363636365
+Speed Of Sound,Make Music,speed,waiting,0.3076923076923077
+Speed Of Sound,Make Music,speed,room,0.14285714285714285
+Speed Of Sound,Make Music,sound,make,0.25
+Speed Of Sound,Make Music,sound,music,0.36363636363636365
+Speed Of Sound,Make Music,sound,waiting,0.3076923076923077
+Speed Of Sound,Make Music,sound,room,0.14285714285714285
+Speed Of Sound,Make Music,speed,make,0.25
+Speed Of Sound,Make Music,speed,music,0.36363636363636365
+Speed Of Sound,Make Music,speed,waiting,0.3076923076923077
+Speed Of Sound,Make Music,speed,room,0.14285714285714285
+Speed Of Sound,Make Music,sound,make,0.25
+Speed Of Sound,Make Music,sound,music,0.36363636363636365
+Speed Of Sound,Make Music,sound,waiting,0.3076923076923077
+Speed Of Sound,Make Music,sound,room,0.14285714285714285
+Speed Of Sound,Stay,speed,stay,0.3333333333333333
+Speed Of Sound,Stay,speed,essential,0.2
+Speed Of Sound,Stay,speed,eternal,0
+Speed Of Sound,Stay,sound,stay,0.3333333333333333
+Speed Of Sound,Stay,sound,essential,0.2
+Speed Of Sound,Stay,sound,eternal,0
+Speed Of Sound,Stay,speed,stay,0.3333333333333333
+Speed Of Sound,Stay,speed,essential,0.2
+Speed Of Sound,Stay,speed,eternal,0
+Speed Of Sound,Stay,sound,stay,0.3333333333333333
+Speed Of Sound,Stay,sound,essential,0.2
+Speed Of Sound,Stay,sound,eternal,0
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,digital,0
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,girls,0.15384615384615385
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,version,0.2857142857142857
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,alley,0.125
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,greenhouse,0.14285714285714285
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,granny,0.13333333333333333
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,doughnut,0.3076923076923077
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,digital,0
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,girls,0.15384615384615385
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,version,0.2857142857142857
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,alley,0.125
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,greenhouse,0.14285714285714285
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,granny,0.13333333333333333
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,doughnut,0.46153846153846156
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,digital,0
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,girls,0.15384615384615385
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,version,0.2857142857142857
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,alley,0.125
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,greenhouse,0.14285714285714285
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,granny,0.13333333333333333
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),speed,doughnut,0.3076923076923077
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,digital,0
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,girls,0.15384615384615385
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,version,0.2857142857142857
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,alley,0.125
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,greenhouse,0.14285714285714285
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,granny,0.13333333333333333
+Speed Of Sound,Alley Oop (Girls Version) (2007 Digital Remaster),sound,doughnut,0.46153846153846156
+Speed Of Sound,Cups,speed,cups,0.14285714285714285
+Speed Of Sound,Cups,speed,chilled,0
+Speed Of Sound,Cups,speed,house,0.14285714285714285
+Speed Of Sound,Cups,speed,session,0.2857142857142857
+Speed Of Sound,Cups,sound,cups,0.14285714285714285
+Speed Of Sound,Cups,sound,chilled,0
+Speed Of Sound,Cups,sound,house,0.14285714285714285
+Speed Of Sound,Cups,sound,session,0.2857142857142857
+Speed Of Sound,Cups,speed,cups,0.14285714285714285
+Speed Of Sound,Cups,speed,chilled,0
+Speed Of Sound,Cups,speed,house,0.14285714285714285
+Speed Of Sound,Cups,speed,session,0.2857142857142857
+Speed Of Sound,Cups,sound,cups,0.14285714285714285
+Speed Of Sound,Cups,sound,chilled,0
+Speed Of Sound,Cups,sound,house,0.14285714285714285
+Speed Of Sound,Cups,sound,session,0.2857142857142857
+Speed Of Sound,Still Take You Home,speed,still,0.13333333333333333
+Speed Of Sound,Still Take You Home,speed,take,0.375
+Speed Of Sound,Still Take You Home,speed,home,0.13333333333333333
+Speed Of Sound,Still Take You Home,speed,people,0.4
+Speed Of Sound,Still Take You Home,speed,say,0.2857142857142857
+Speed Of Sound,Still Take You Home,speed,digital,0
+Speed Of Sound,Still Take You Home,sound,still,0.13333333333333333
+Speed Of Sound,Still Take You Home,sound,take,0.25
+Speed Of Sound,Still Take You Home,sound,home,0.13333333333333333
+Speed Of Sound,Still Take You Home,sound,people,0.4
+Speed Of Sound,Still Take You Home,sound,say,0.42857142857142855
+Speed Of Sound,Still Take You Home,sound,digital,0
+Speed Of Sound,Still Take You Home,speed,still,0.13333333333333333
+Speed Of Sound,Still Take You Home,speed,take,0.375
+Speed Of Sound,Still Take You Home,speed,home,0.13333333333333333
+Speed Of Sound,Still Take You Home,speed,people,0.4
+Speed Of Sound,Still Take You Home,speed,say,0.2857142857142857
+Speed Of Sound,Still Take You Home,speed,digital,0
+Speed Of Sound,Still Take You Home,sound,still,0.13333333333333333
+Speed Of Sound,Still Take You Home,sound,take,0.25
+Speed Of Sound,Still Take You Home,sound,home,0.13333333333333333
+Speed Of Sound,Still Take You Home,sound,people,0.4
+Speed Of Sound,Still Take You Home,sound,say,0.42857142857142855
+Speed Of Sound,Still Take You Home,sound,digital,0
+Speed Of Sound,Milkshake,speed,milkshake,0.2857142857142857
+Speed Of Sound,Milkshake,speed,original,0.15384615384615385
+Speed Of Sound,Milkshake,speed,hits,0.26666666666666666
+Speed Of Sound,Milkshake,speed,soul,0.16666666666666666
+Speed Of Sound,Milkshake,speed,rap,0.26666666666666666
+Speed Of Sound,Milkshake,sound,milkshake,0.2857142857142857
+Speed Of Sound,Milkshake,sound,original,0.15384615384615385
+Speed Of Sound,Milkshake,sound,hits,0.26666666666666666
+Speed Of Sound,Milkshake,sound,soul,0.16666666666666666
+Speed Of Sound,Milkshake,sound,rap,0.26666666666666666
+Speed Of Sound,Milkshake,speed,milkshake,0.2857142857142857
+Speed Of Sound,Milkshake,speed,original,0.15384615384615385
+Speed Of Sound,Milkshake,speed,hits,0.26666666666666666
+Speed Of Sound,Milkshake,speed,soul,0.16666666666666666
+Speed Of Sound,Milkshake,speed,rap,0.26666666666666666
+Speed Of Sound,Milkshake,sound,milkshake,0.2857142857142857
+Speed Of Sound,Milkshake,sound,original,0.15384615384615385
+Speed Of Sound,Milkshake,sound,hits,0.26666666666666666
+Speed Of Sound,Milkshake,sound,soul,0.16666666666666666
+Speed Of Sound,Milkshake,sound,rap,0.26666666666666666
+Speed Of Sound,The Way She Moves,speed,way,0.36363636363636365
+Speed Of Sound,The Way She Moves,speed,moves,0.26666666666666666
+Speed Of Sound,The Way She Moves,speed,perfect,0.2857142857142857
+Speed Of Sound,The Way She Moves,speed,melody,0.3333333333333333
+Speed Of Sound,The Way She Moves,sound,way,0.7272727272727273
+Speed Of Sound,The Way She Moves,sound,moves,0.26666666666666666
+Speed Of Sound,The Way She Moves,sound,perfect,0.2857142857142857
+Speed Of Sound,The Way She Moves,sound,melody,0.3333333333333333
+Speed Of Sound,The Way She Moves,speed,way,0.36363636363636365
+Speed Of Sound,The Way She Moves,speed,moves,0.26666666666666666
+Speed Of Sound,The Way She Moves,speed,perfect,0.2857142857142857
+Speed Of Sound,The Way She Moves,speed,melody,0.3333333333333333
+Speed Of Sound,The Way She Moves,sound,way,0.7272727272727273
+Speed Of Sound,The Way She Moves,sound,moves,0.26666666666666666
+Speed Of Sound,The Way She Moves,sound,perfect,0.2857142857142857
+Speed Of Sound,The Way She Moves,sound,melody,0.3333333333333333

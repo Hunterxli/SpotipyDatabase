@@ -1,0 +1,2776 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Cannonball,sun,cannonball,0.42105263157894735
+Sun Hands,Cannonball,sun,cannonball,0.42105263157894735
+Sun Hands,Cannonball,hands,cannonball,0.1
+Sun Hands,Cannonball,hands,cannonball,0.1
+Sun Hands,Cannonball,gorilla,cannonball,0.2962962962962963
+Sun Hands,Cannonball,gorilla,cannonball,0.2962962962962963
+Sun Hands,Cannonball,manor,cannonball,0.47619047619047616
+Sun Hands,Cannonball,manor,cannonball,0.47619047619047616
+Sun Hands,Invisible Man,sun,invisible,0
+Sun Hands,Invisible Man,sun,man,0.47058823529411764
+Sun Hands,Invisible Man,sun,last,0.14285714285714285
+Sun Hands,Invisible Man,sun,splash,0.125
+Sun Hands,Invisible Man,hands,invisible,0
+Sun Hands,Invisible Man,hands,man,0.13333333333333333
+Sun Hands,Invisible Man,hands,last,0.26666666666666666
+Sun Hands,Invisible Man,hands,splash,0.47058823529411764
+Sun Hands,Invisible Man,gorilla,invisible,0
+Sun Hands,Invisible Man,gorilla,man,0.48
+Sun Hands,Invisible Man,gorilla,last,0.09090909090909091
+Sun Hands,Invisible Man,gorilla,splash,0.08333333333333333
+Sun Hands,Invisible Man,manor,invisible,0
+Sun Hands,Invisible Man,manor,man,0.42105263157894735
+Sun Hands,Invisible Man,manor,last,0.125
+Sun Hands,Invisible Man,manor,splash,0.1111111111111111
+Sun Hands,No Aloha,sun,hell,0.42857142857142855
+Sun Hands,No Aloha,sun,aloha,0.14285714285714285
+Sun Hands,No Aloha,sun,last,0.14285714285714285
+Sun Hands,No Aloha,sun,splash,0.125
+Sun Hands,No Aloha,hands,hell,0.13333333333333333
+Sun Hands,No Aloha,hands,aloha,0.26666666666666666
+Sun Hands,No Aloha,hands,last,0.26666666666666666
+Sun Hands,No Aloha,hands,splash,0.47058823529411764
+Sun Hands,No Aloha,gorilla,hell,0.2727272727272727
+Sun Hands,No Aloha,gorilla,aloha,0.09090909090909091
+Sun Hands,No Aloha,gorilla,last,0.09090909090909091
+Sun Hands,No Aloha,gorilla,splash,0.08333333333333333
+Sun Hands,No Aloha,manor,hell,0.375
+Sun Hands,No Aloha,manor,aloha,0.125
+Sun Hands,No Aloha,manor,last,0.125
+Sun Hands,No Aloha,manor,splash,0.1111111111111111
+Sun Hands,Mad Lucas,sun,mad,0
+Sun Hands,Mad Lucas,sun,lucas,0.42105263157894735
+Sun Hands,Mad Lucas,sun,last,0.14285714285714285
+Sun Hands,Mad Lucas,sun,splash,0.125
+Sun Hands,Mad Lucas,hands,mad,0
+Sun Hands,Mad Lucas,hands,lucas,0.11764705882352941
+Sun Hands,Mad Lucas,hands,last,0.26666666666666666
+Sun Hands,Mad Lucas,hands,splash,0.47058823529411764
+Sun Hands,Mad Lucas,gorilla,mad,0
+Sun Hands,Mad Lucas,gorilla,lucas,0.4444444444444444
+Sun Hands,Mad Lucas,gorilla,last,0.09090909090909091
+Sun Hands,Mad Lucas,gorilla,splash,0.08333333333333333
+Sun Hands,Mad Lucas,manor,mad,0
+Sun Hands,Mad Lucas,manor,lucas,0.38095238095238093
+Sun Hands,Mad Lucas,manor,last,0.125
+Sun Hands,Mad Lucas,manor,splash,0.1111111111111111
+Sun Hands,Roi (reprise),sun,recovery,0.11764705882352941
+Sun Hands,Roi (reprise),sun,king,0.4444444444444444
+Sun Hands,Roi (reprise),sun,last,0.14285714285714285
+Sun Hands,Roi (reprise),sun,splash,0.125
+Sun Hands,Roi (reprise),hands,recovery,0.4444444444444444
+Sun Hands,Roi (reprise),hands,king,0.125
+Sun Hands,Roi (reprise),hands,last,0.26666666666666666
+Sun Hands,Roi (reprise),hands,splash,0.47058823529411764
+Sun Hands,Roi (reprise),gorilla,recovery,0.08
+Sun Hands,Roi (reprise),gorilla,king,0.46153846153846156
+Sun Hands,Roi (reprise),gorilla,last,0.09090909090909091
+Sun Hands,Roi (reprise),gorilla,splash,0.08333333333333333
+Sun Hands,Roi (reprise),manor,recovery,0.10526315789473684
+Sun Hands,Roi (reprise),manor,king,0.4
+Sun Hands,Roi (reprise),manor,last,0.125
+Sun Hands,Roi (reprise),manor,splash,0.1111111111111111
+Sun Hands,Gloomy Sunday,sun,gloomy,0
+Sun Hands,Gloomy Sunday,sun,sunday,0.11764705882352941
+Sun Hands,Gloomy Sunday,sun,south,0.4
+Sun Hands,Gloomy Sunday,hands,gloomy,0
+Sun Hands,Gloomy Sunday,hands,sunday,0.2222222222222222
+Sun Hands,Gloomy Sunday,hands,south,0.125
+Sun Hands,Gloomy Sunday,gorilla,gloomy,0
+Sun Hands,Gloomy Sunday,gorilla,sunday,0.08
+Sun Hands,Gloomy Sunday,gorilla,south,0.2608695652173913
+Sun Hands,Gloomy Sunday,manor,gloomy,0
+Sun Hands,Gloomy Sunday,manor,sunday,0.10526315789473684
+Sun Hands,Gloomy Sunday,manor,south,0.35294117647058826
+Sun Hands,Roi,sun,king,0.4444444444444444
+Sun Hands,Roi,sun,last,0.14285714285714285
+Sun Hands,Roi,sun,splash,0.125
+Sun Hands,Roi,hands,king,0.125
+Sun Hands,Roi,hands,last,0.26666666666666666
+Sun Hands,Roi,hands,splash,0.47058823529411764
+Sun Hands,Roi,gorilla,king,0.46153846153846156
+Sun Hands,Roi,gorilla,last,0.09090909090909091
+Sun Hands,Roi,gorilla,splash,0.08333333333333333
+Sun Hands,Roi,manor,king,0.4
+Sun Hands,Roi,manor,last,0.125
+Sun Hands,Roi,manor,splash,0.1111111111111111
+Sun Hands,Do You Love Me Now ?,sun,love,0.13333333333333333
+Sun Hands,Do You Love Me Now ?,sun,last,0.14285714285714285
+Sun Hands,Do You Love Me Now ?,sun,splash,0.125
+Sun Hands,Do You Love Me Now ?,hands,love,0.25
+Sun Hands,Do You Love Me Now ?,hands,last,0.26666666666666666
+Sun Hands,Do You Love Me Now ?,hands,splash,0.47058823529411764
+Sun Hands,Do You Love Me Now ?,gorilla,love,0.08695652173913043
+Sun Hands,Do You Love Me Now ?,gorilla,last,0.09090909090909091
+Sun Hands,Do You Love Me Now ?,gorilla,splash,0.08333333333333333
+Sun Hands,Do You Love Me Now ?,manor,love,0.11764705882352941
+Sun Hands,Do You Love Me Now ?,manor,last,0.125
+Sun Hands,Do You Love Me Now ?,manor,splash,0.1111111111111111
+Sun Hands,Hag,sun,hag,0.42105263157894735
+Sun Hands,Hag,sun,last,0.14285714285714285
+Sun Hands,Hag,sun,splash,0.125
+Sun Hands,Hag,hands,hag,0.11764705882352941
+Sun Hands,Hag,hands,last,0.26666666666666666
+Sun Hands,Hag,hands,splash,0.47058823529411764
+Sun Hands,Hag,gorilla,hag,0.4444444444444444
+Sun Hands,Hag,gorilla,last,0.09090909090909091
+Sun Hands,Hag,gorilla,splash,0.08333333333333333
+Sun Hands,Hag,manor,hag,0.38095238095238093
+Sun Hands,Hag,manor,last,0.125
+Sun Hands,Hag,manor,splash,0.1111111111111111
+Sun Hands,Evidence,sun,evidence,0.14285714285714285
+Sun Hands,Evidence,sun,faith,0.13333333333333333
+Sun Hands,Evidence,sun,best,0.125
+Sun Hands,Evidence,hands,evidence,0.4
+Sun Hands,Evidence,hands,faith,0.375
+Sun Hands,Evidence,hands,best,0.5555555555555556
+Sun Hands,Evidence,gorilla,evidence,0.09090909090909091
+Sun Hands,Evidence,gorilla,faith,0.08695652173913043
+Sun Hands,Evidence,gorilla,best,0.08333333333333333
+Sun Hands,Evidence,manor,evidence,0.125
+Sun Hands,Evidence,manor,faith,0.11764705882352941
+Sun Hands,Evidence,manor,best,0.1111111111111111
+Sun Hands,Saints,sun,saints,0.11764705882352941
+Sun Hands,Saints,sun,last,0.14285714285714285
+Sun Hands,Saints,sun,splash,0.125
+Sun Hands,Saints,hands,saints,0.3333333333333333
+Sun Hands,Saints,hands,last,0.26666666666666666
+Sun Hands,Saints,hands,splash,0.47058823529411764
+Sun Hands,Saints,gorilla,saints,0.08
+Sun Hands,Saints,gorilla,last,0.09090909090909091
+Sun Hands,Saints,gorilla,splash,0.08333333333333333
+Sun Hands,Saints,manor,saints,0.10526315789473684
+Sun Hands,Saints,manor,last,0.125
+Sun Hands,Saints,manor,splash,0.1111111111111111
+Sun Hands,S.O.S.,sun,sos,0.14285714285714285
+Sun Hands,S.O.S.,sun,last,0.14285714285714285
+Sun Hands,S.O.S.,sun,splash,0.125
+Sun Hands,S.O.S.,hands,sos,0.26666666666666666
+Sun Hands,S.O.S.,hands,last,0.26666666666666666
+Sun Hands,S.O.S.,hands,splash,0.47058823529411764
+Sun Hands,S.O.S.,gorilla,sos,0.09090909090909091
+Sun Hands,S.O.S.,gorilla,last,0.09090909090909091
+Sun Hands,S.O.S.,gorilla,splash,0.08333333333333333
+Sun Hands,S.O.S.,manor,sos,0.125
+Sun Hands,S.O.S.,manor,last,0.125
+Sun Hands,S.O.S.,manor,splash,0.1111111111111111
+Sun Hands,Divine Hammer,sun,divine,0.11764705882352941
+Sun Hands,Divine Hammer,sun,hammer,0.42105263157894735
+Sun Hands,Divine Hammer,sun,last,0.14285714285714285
+Sun Hands,Divine Hammer,sun,splash,0.125
+Sun Hands,Divine Hammer,hands,divine,0.3333333333333333
+Sun Hands,Divine Hammer,hands,hammer,0.1
+Sun Hands,Divine Hammer,hands,last,0.26666666666666666
+Sun Hands,Divine Hammer,hands,splash,0.47058823529411764
+Sun Hands,Divine Hammer,gorilla,divine,0.08
+Sun Hands,Divine Hammer,gorilla,hammer,0.2962962962962963
+Sun Hands,Divine Hammer,gorilla,last,0.09090909090909091
+Sun Hands,Divine Hammer,gorilla,splash,0.08333333333333333
+Sun Hands,Divine Hammer,manor,divine,0.10526315789473684
+Sun Hands,Divine Hammer,manor,hammer,0.47619047619047616
+Sun Hands,Divine Hammer,manor,last,0.125
+Sun Hands,Divine Hammer,manor,splash,0.1111111111111111
+Sun Hands,One Step Beyond,sun,one,0.125
+Sun Hands,One Step Beyond,sun,step,0.10526315789473684
+Sun Hands,One Step Beyond,sun,beyond,0
+Sun Hands,One Step Beyond,sun,complete,0
+Sun Hands,One Step Beyond,sun,madness,0.11764705882352941
+Sun Hands,One Step Beyond,hands,one,0.23529411764705882
+Sun Hands,One Step Beyond,hands,step,0.47619047619047616
+Sun Hands,One Step Beyond,hands,beyond,0
+Sun Hands,One Step Beyond,hands,complete,0
+Sun Hands,One Step Beyond,hands,madness,0.2222222222222222
+Sun Hands,One Step Beyond,gorilla,one,0.08333333333333333
+Sun Hands,One Step Beyond,gorilla,step,0.07407407407407407
+Sun Hands,One Step Beyond,gorilla,beyond,0
+Sun Hands,One Step Beyond,gorilla,complete,0
+Sun Hands,One Step Beyond,gorilla,madness,0.08
+Sun Hands,One Step Beyond,manor,one,0.1111111111111111
+Sun Hands,One Step Beyond,manor,step,0.09523809523809523
+Sun Hands,One Step Beyond,manor,beyond,0
+Sun Hands,One Step Beyond,manor,complete,0
+Sun Hands,One Step Beyond,manor,madness,0.10526315789473684
+Sun Hands,Ready For The Floor (Album Version),sun,album,0.5
+Sun Hands,Ready For The Floor (Album Version),sun,version,0.125
+Sun Hands,Ready For The Floor (Album Version),sun,ready,0.14285714285714285
+Sun Hands,Ready For The Floor (Album Version),sun,floor,0.5
+Sun Hands,Ready For The Floor (Album Version),sun,best,0.125
+Sun Hands,Ready For The Floor (Album Version),sun,bands,0.15384615384615385
+Sun Hands,Ready For The Floor (Album Version),hands,album,0.11764705882352941
+Sun Hands,Ready For The Floor (Album Version),hands,version,0.23529411764705882
+Sun Hands,Ready For The Floor (Album Version),hands,ready,0.26666666666666666
+Sun Hands,Ready For The Floor (Album Version),hands,floor,0.11764705882352941
+Sun Hands,Ready For The Floor (Album Version),hands,best,0.5555555555555556
+Sun Hands,Ready For The Floor (Album Version),hands,bands,0.2857142857142857
+Sun Hands,Ready For The Floor (Album Version),gorilla,album,0.3333333333333333
+Sun Hands,Ready For The Floor (Album Version),gorilla,version,0.08333333333333333
+Sun Hands,Ready For The Floor (Album Version),gorilla,ready,0.09090909090909091
+Sun Hands,Ready For The Floor (Album Version),gorilla,floor,0.3333333333333333
+Sun Hands,Ready For The Floor (Album Version),gorilla,best,0.08333333333333333
+Sun Hands,Ready For The Floor (Album Version),gorilla,bands,0.09523809523809523
+Sun Hands,Ready For The Floor (Album Version),manor,album,0.5555555555555556
+Sun Hands,Ready For The Floor (Album Version),manor,version,0.1111111111111111
+Sun Hands,Ready For The Floor (Album Version),manor,ready,0.125
+Sun Hands,Ready For The Floor (Album Version),manor,floor,0.5555555555555556
+Sun Hands,Ready For The Floor (Album Version),manor,best,0.1111111111111111
+Sun Hands,Ready For The Floor (Album Version),manor,bands,0.13333333333333333
+Sun Hands,I Just Wanna Get Along,sun,wan,0.4444444444444444
+Sun Hands,I Just Wanna Get Along,sun,na,0.26666666666666666
+Sun Hands,I Just Wanna Get Along,sun,get,0.09523809523809523
+Sun Hands,I Just Wanna Get Along,sun,along,0
+Sun Hands,I Just Wanna Get Along,sun,last,0.14285714285714285
+Sun Hands,I Just Wanna Get Along,sun,splash,0.125
+Sun Hands,I Just Wanna Get Along,hands,wan,0.10526315789473684
+Sun Hands,I Just Wanna Get Along,hands,na,0.23529411764705882
+Sun Hands,I Just Wanna Get Along,hands,get,0.43478260869565216
+Sun Hands,I Just Wanna Get Along,hands,along,0
+Sun Hands,I Just Wanna Get Along,hands,last,0.26666666666666666
+Sun Hands,I Just Wanna Get Along,hands,splash,0.47058823529411764
+Sun Hands,I Just Wanna Get Along,gorilla,wan,0.3076923076923077
+Sun Hands,I Just Wanna Get Along,gorilla,na,0.17391304347826086
+Sun Hands,I Just Wanna Get Along,gorilla,get,0.06896551724137931
+Sun Hands,I Just Wanna Get Along,gorilla,along,0
+Sun Hands,I Just Wanna Get Along,gorilla,last,0.09090909090909091
+Sun Hands,I Just Wanna Get Along,gorilla,splash,0.08333333333333333
+Sun Hands,I Just Wanna Get Along,manor,wan,0.5
+Sun Hands,I Just Wanna Get Along,manor,na,0.23529411764705882
+Sun Hands,I Just Wanna Get Along,manor,get,0.08695652173913043
+Sun Hands,I Just Wanna Get Along,manor,along,0
+Sun Hands,I Just Wanna Get Along,manor,last,0.125
+Sun Hands,I Just Wanna Get Along,manor,splash,0.1111111111111111
+Sun Hands,New Year,sun,new,0
+Sun Hands,New Year,sun,year,0.14285714285714285
+Sun Hands,New Year,sun,last,0.14285714285714285
+Sun Hands,New Year,sun,splash,0.125
+Sun Hands,New Year,hands,new,0
+Sun Hands,New Year,hands,year,0.26666666666666666
+Sun Hands,New Year,hands,last,0.26666666666666666
+Sun Hands,New Year,hands,splash,0.47058823529411764
+Sun Hands,New Year,gorilla,new,0
+Sun Hands,New Year,gorilla,year,0.09090909090909091
+Sun Hands,New Year,gorilla,last,0.09090909090909091
+Sun Hands,New Year,gorilla,splash,0.08333333333333333
+Sun Hands,New Year,manor,new,0
+Sun Hands,New Year,manor,year,0.125
+Sun Hands,New Year,manor,last,0.125
+Sun Hands,New Year,manor,splash,0.1111111111111111
+Sun Hands,Drivin On 9,sun,last,0.14285714285714285
+Sun Hands,Drivin On 9,sun,splash,0.125
+Sun Hands,Drivin On 9,hands,last,0.26666666666666666
+Sun Hands,Drivin On 9,hands,splash,0.47058823529411764
+Sun Hands,Drivin On 9,gorilla,last,0.09090909090909091
+Sun Hands,Drivin On 9,gorilla,splash,0.08333333333333333
+Sun Hands,Drivin On 9,manor,last,0.125
+Sun Hands,Drivin On 9,manor,splash,0.1111111111111111
+Sun Hands,Talk About The Blues,sun,talk,0.13333333333333333
+Sun Hands,Talk About The Blues,sun,blues,0.13333333333333333
+Sun Hands,Talk About The Blues,sun,matador,0.47058823529411764
+Sun Hands,Talk About The Blues,sun,records,0.14285714285714285
+Sun Hands,Talk About The Blues,sun,anniversary,0.125
+Sun Hands,Talk About The Blues,sun,anthology,0.42105263157894735
+Sun Hands,Talk About The Blues,sun,nice,0.3333333333333333
+Sun Hands,Talk About The Blues,hands,talk,0.25
+Sun Hands,Talk About The Blues,hands,blues,0.25
+Sun Hands,Talk About The Blues,hands,matador,0.13333333333333333
+Sun Hands,Talk About The Blues,hands,records,0.26666666666666666
+Sun Hands,Talk About The Blues,hands,anniversary,0.23529411764705882
+Sun Hands,Talk About The Blues,hands,anthology,0.1
+Sun Hands,Talk About The Blues,hands,nice,0.10526315789473684
+Sun Hands,Talk About The Blues,gorilla,talk,0.08695652173913043
+Sun Hands,Talk About The Blues,gorilla,blues,0.08695652173913043
+Sun Hands,Talk About The Blues,gorilla,matador,0.48
+Sun Hands,Talk About The Blues,gorilla,records,0.09090909090909091
+Sun Hands,Talk About The Blues,gorilla,anniversary,0.08333333333333333
+Sun Hands,Talk About The Blues,gorilla,anthology,0.2962962962962963
+Sun Hands,Talk About The Blues,gorilla,nice,0.23076923076923078
+Sun Hands,Talk About The Blues,manor,talk,0.11764705882352941
+Sun Hands,Talk About The Blues,manor,blues,0.11764705882352941
+Sun Hands,Talk About The Blues,manor,matador,0.42105263157894735
+Sun Hands,Talk About The Blues,manor,records,0.125
+Sun Hands,Talk About The Blues,manor,anniversary,0.1111111111111111
+Sun Hands,Talk About The Blues,manor,anthology,0.47619047619047616
+Sun Hands,Talk About The Blues,manor,nice,0.3
+Sun Hands,Flipside,sun,last,0.14285714285714285
+Sun Hands,Flipside,sun,splash,0.125
+Sun Hands,Flipside,hands,last,0.26666666666666666
+Sun Hands,Flipside,hands,splash,0.47058823529411764
+Sun Hands,Flipside,gorilla,last,0.09090909090909091
+Sun Hands,Flipside,gorilla,splash,0.08333333333333333
+Sun Hands,Flipside,manor,last,0.125
+Sun Hands,Flipside,manor,splash,0.1111111111111111
+Camera Talk,Cannonball,camera,cannonball,0.6
+Camera Talk,Cannonball,camera,cannonball,0.6
+Camera Talk,Cannonball,talk,cannonball,0.1111111111111111
+Camera Talk,Cannonball,talk,cannonball,0.1111111111111111
+Camera Talk,Cannonball,camera,cannonball,0.6
+Camera Talk,Cannonball,camera,cannonball,0.6
+Camera Talk,Cannonball,talk,cannonball,0.1111111111111111
+Camera Talk,Cannonball,talk,cannonball,0.1111111111111111
+Camera Talk,Invisible Man,camera,invisible,0
+Camera Talk,Invisible Man,camera,man,0.4444444444444444
+Camera Talk,Invisible Man,camera,last,0.13333333333333333
+Camera Talk,Invisible Man,camera,splash,0.11764705882352941
+Camera Talk,Invisible Man,talk,invisible,0
+Camera Talk,Invisible Man,talk,man,0.15384615384615385
+Camera Talk,Invisible Man,talk,last,0.3076923076923077
+Camera Talk,Invisible Man,talk,splash,0.26666666666666666
+Camera Talk,Invisible Man,camera,invisible,0
+Camera Talk,Invisible Man,camera,man,0.4444444444444444
+Camera Talk,Invisible Man,camera,last,0.13333333333333333
+Camera Talk,Invisible Man,camera,splash,0.11764705882352941
+Camera Talk,Invisible Man,talk,invisible,0
+Camera Talk,Invisible Man,talk,man,0.15384615384615385
+Camera Talk,Invisible Man,talk,last,0.3076923076923077
+Camera Talk,Invisible Man,talk,splash,0.26666666666666666
+Camera Talk,No Aloha,camera,hell,0.4
+Camera Talk,No Aloha,camera,aloha,0.13333333333333333
+Camera Talk,No Aloha,camera,last,0.13333333333333333
+Camera Talk,No Aloha,camera,splash,0.11764705882352941
+Camera Talk,No Aloha,talk,hell,0.15384615384615385
+Camera Talk,No Aloha,talk,aloha,0.46153846153846156
+Camera Talk,No Aloha,talk,last,0.3076923076923077
+Camera Talk,No Aloha,talk,splash,0.26666666666666666
+Camera Talk,No Aloha,camera,hell,0.4
+Camera Talk,No Aloha,camera,aloha,0.13333333333333333
+Camera Talk,No Aloha,camera,last,0.13333333333333333
+Camera Talk,No Aloha,camera,splash,0.11764705882352941
+Camera Talk,No Aloha,talk,hell,0.15384615384615385
+Camera Talk,No Aloha,talk,aloha,0.46153846153846156
+Camera Talk,No Aloha,talk,last,0.3076923076923077
+Camera Talk,No Aloha,talk,splash,0.26666666666666666
+Camera Talk,Mad Lucas,camera,mad,0
+Camera Talk,Mad Lucas,camera,lucas,0.4
+Camera Talk,Mad Lucas,camera,last,0.13333333333333333
+Camera Talk,Mad Lucas,camera,splash,0.11764705882352941
+Camera Talk,Mad Lucas,talk,mad,0
+Camera Talk,Mad Lucas,talk,lucas,0.13333333333333333
+Camera Talk,Mad Lucas,talk,last,0.3076923076923077
+Camera Talk,Mad Lucas,talk,splash,0.26666666666666666
+Camera Talk,Mad Lucas,camera,mad,0
+Camera Talk,Mad Lucas,camera,lucas,0.4
+Camera Talk,Mad Lucas,camera,last,0.13333333333333333
+Camera Talk,Mad Lucas,camera,splash,0.11764705882352941
+Camera Talk,Mad Lucas,talk,mad,0
+Camera Talk,Mad Lucas,talk,lucas,0.13333333333333333
+Camera Talk,Mad Lucas,talk,last,0.3076923076923077
+Camera Talk,Mad Lucas,talk,splash,0.26666666666666666
+Camera Talk,Roi (reprise),camera,recovery,0.1111111111111111
+Camera Talk,Roi (reprise),camera,king,0.42105263157894735
+Camera Talk,Roi (reprise),camera,last,0.13333333333333333
+Camera Talk,Roi (reprise),camera,splash,0.11764705882352941
+Camera Talk,Roi (reprise),talk,recovery,0.25
+Camera Talk,Roi (reprise),talk,king,0.14285714285714285
+Camera Talk,Roi (reprise),talk,last,0.3076923076923077
+Camera Talk,Roi (reprise),talk,splash,0.26666666666666666
+Camera Talk,Roi (reprise),camera,recovery,0.1111111111111111
+Camera Talk,Roi (reprise),camera,king,0.42105263157894735
+Camera Talk,Roi (reprise),camera,last,0.13333333333333333
+Camera Talk,Roi (reprise),camera,splash,0.11764705882352941
+Camera Talk,Roi (reprise),talk,recovery,0.25
+Camera Talk,Roi (reprise),talk,king,0.14285714285714285
+Camera Talk,Roi (reprise),talk,last,0.3076923076923077
+Camera Talk,Roi (reprise),talk,splash,0.26666666666666666
+Camera Talk,Gloomy Sunday,camera,gloomy,0
+Camera Talk,Gloomy Sunday,camera,sunday,0.1111111111111111
+Camera Talk,Gloomy Sunday,camera,south,0.375
+Camera Talk,Gloomy Sunday,talk,gloomy,0
+Camera Talk,Gloomy Sunday,talk,sunday,0.25
+Camera Talk,Gloomy Sunday,talk,south,0.14285714285714285
+Camera Talk,Gloomy Sunday,camera,gloomy,0
+Camera Talk,Gloomy Sunday,camera,sunday,0.1111111111111111
+Camera Talk,Gloomy Sunday,camera,south,0.375
+Camera Talk,Gloomy Sunday,talk,gloomy,0
+Camera Talk,Gloomy Sunday,talk,sunday,0.25
+Camera Talk,Gloomy Sunday,talk,south,0.14285714285714285
+Camera Talk,Roi,camera,king,0.42105263157894735
+Camera Talk,Roi,camera,last,0.13333333333333333
+Camera Talk,Roi,camera,splash,0.11764705882352941
+Camera Talk,Roi,talk,king,0.14285714285714285
+Camera Talk,Roi,talk,last,0.3076923076923077
+Camera Talk,Roi,talk,splash,0.26666666666666666
+Camera Talk,Roi,camera,king,0.42105263157894735
+Camera Talk,Roi,camera,last,0.13333333333333333
+Camera Talk,Roi,camera,splash,0.11764705882352941
+Camera Talk,Roi,talk,king,0.14285714285714285
+Camera Talk,Roi,talk,last,0.3076923076923077
+Camera Talk,Roi,talk,splash,0.26666666666666666
+Camera Talk,Do You Love Me Now ?,camera,love,0.125
+Camera Talk,Do You Love Me Now ?,camera,last,0.13333333333333333
+Camera Talk,Do You Love Me Now ?,camera,splash,0.11764705882352941
+Camera Talk,Do You Love Me Now ?,talk,love,0.2857142857142857
+Camera Talk,Do You Love Me Now ?,talk,last,0.3076923076923077
+Camera Talk,Do You Love Me Now ?,talk,splash,0.26666666666666666
+Camera Talk,Do You Love Me Now ?,camera,love,0.125
+Camera Talk,Do You Love Me Now ?,camera,last,0.13333333333333333
+Camera Talk,Do You Love Me Now ?,camera,splash,0.11764705882352941
+Camera Talk,Do You Love Me Now ?,talk,love,0.2857142857142857
+Camera Talk,Do You Love Me Now ?,talk,last,0.3076923076923077
+Camera Talk,Do You Love Me Now ?,talk,splash,0.26666666666666666
+Camera Talk,Hag,camera,hag,0.4
+Camera Talk,Hag,camera,last,0.13333333333333333
+Camera Talk,Hag,camera,splash,0.11764705882352941
+Camera Talk,Hag,talk,hag,0.13333333333333333
+Camera Talk,Hag,talk,last,0.3076923076923077
+Camera Talk,Hag,talk,splash,0.26666666666666666
+Camera Talk,Hag,camera,hag,0.4
+Camera Talk,Hag,camera,last,0.13333333333333333
+Camera Talk,Hag,camera,splash,0.11764705882352941
+Camera Talk,Hag,talk,hag,0.13333333333333333
+Camera Talk,Hag,talk,last,0.3076923076923077
+Camera Talk,Hag,talk,splash,0.26666666666666666
+Camera Talk,Evidence,camera,evidence,0.13333333333333333
+Camera Talk,Evidence,camera,faith,0.125
+Camera Talk,Evidence,camera,best,0.11764705882352941
+Camera Talk,Evidence,talk,evidence,0.3076923076923077
+Camera Talk,Evidence,talk,faith,0.2857142857142857
+Camera Talk,Evidence,talk,best,0.26666666666666666
+Camera Talk,Evidence,camera,evidence,0.13333333333333333
+Camera Talk,Evidence,camera,faith,0.125
+Camera Talk,Evidence,camera,best,0.11764705882352941
+Camera Talk,Evidence,talk,evidence,0.3076923076923077
+Camera Talk,Evidence,talk,faith,0.2857142857142857
+Camera Talk,Evidence,talk,best,0.26666666666666666
+Camera Talk,Saints,camera,saints,0.1111111111111111
+Camera Talk,Saints,camera,last,0.13333333333333333
+Camera Talk,Saints,camera,splash,0.11764705882352941
+Camera Talk,Saints,talk,saints,0.25
+Camera Talk,Saints,talk,last,0.3076923076923077
+Camera Talk,Saints,talk,splash,0.26666666666666666
+Camera Talk,Saints,camera,saints,0.1111111111111111
+Camera Talk,Saints,camera,last,0.13333333333333333
+Camera Talk,Saints,camera,splash,0.11764705882352941
+Camera Talk,Saints,talk,saints,0.25
+Camera Talk,Saints,talk,last,0.3076923076923077
+Camera Talk,Saints,talk,splash,0.26666666666666666
+Camera Talk,S.O.S.,camera,sos,0.13333333333333333
+Camera Talk,S.O.S.,camera,last,0.13333333333333333
+Camera Talk,S.O.S.,camera,splash,0.11764705882352941
+Camera Talk,S.O.S.,talk,sos,0.46153846153846156
+Camera Talk,S.O.S.,talk,last,0.3076923076923077
+Camera Talk,S.O.S.,talk,splash,0.26666666666666666
+Camera Talk,S.O.S.,camera,sos,0.13333333333333333
+Camera Talk,S.O.S.,camera,last,0.13333333333333333
+Camera Talk,S.O.S.,camera,splash,0.11764705882352941
+Camera Talk,S.O.S.,talk,sos,0.46153846153846156
+Camera Talk,S.O.S.,talk,last,0.3076923076923077
+Camera Talk,S.O.S.,talk,splash,0.26666666666666666
+Camera Talk,Divine Hammer,camera,divine,0.1111111111111111
+Camera Talk,Divine Hammer,camera,hammer,0.6
+Camera Talk,Divine Hammer,camera,last,0.13333333333333333
+Camera Talk,Divine Hammer,camera,splash,0.11764705882352941
+Camera Talk,Divine Hammer,talk,divine,0.25
+Camera Talk,Divine Hammer,talk,hammer,0.1111111111111111
+Camera Talk,Divine Hammer,talk,last,0.3076923076923077
+Camera Talk,Divine Hammer,talk,splash,0.26666666666666666
+Camera Talk,Divine Hammer,camera,divine,0.1111111111111111
+Camera Talk,Divine Hammer,camera,hammer,0.6
+Camera Talk,Divine Hammer,camera,last,0.13333333333333333
+Camera Talk,Divine Hammer,camera,splash,0.11764705882352941
+Camera Talk,Divine Hammer,talk,divine,0.25
+Camera Talk,Divine Hammer,talk,hammer,0.1111111111111111
+Camera Talk,Divine Hammer,talk,last,0.3076923076923077
+Camera Talk,Divine Hammer,talk,splash,0.26666666666666666
+Camera Talk,One Step Beyond,camera,one,0.11764705882352941
+Camera Talk,One Step Beyond,camera,step,0.1
+Camera Talk,One Step Beyond,camera,beyond,0
+Camera Talk,One Step Beyond,camera,complete,0
+Camera Talk,One Step Beyond,camera,madness,0.1111111111111111
+Camera Talk,One Step Beyond,talk,one,0.26666666666666666
+Camera Talk,One Step Beyond,talk,step,0.2222222222222222
+Camera Talk,One Step Beyond,talk,beyond,0
+Camera Talk,One Step Beyond,talk,complete,0
+Camera Talk,One Step Beyond,talk,madness,0.25
+Camera Talk,One Step Beyond,camera,one,0.11764705882352941
+Camera Talk,One Step Beyond,camera,step,0.1
+Camera Talk,One Step Beyond,camera,beyond,0
+Camera Talk,One Step Beyond,camera,complete,0
+Camera Talk,One Step Beyond,camera,madness,0.1111111111111111
+Camera Talk,One Step Beyond,talk,one,0.26666666666666666
+Camera Talk,One Step Beyond,talk,step,0.2222222222222222
+Camera Talk,One Step Beyond,talk,beyond,0
+Camera Talk,One Step Beyond,talk,complete,0
+Camera Talk,One Step Beyond,talk,madness,0.25
+Camera Talk,Ready For The Floor (Album Version),camera,album,0.7058823529411765
+Camera Talk,Ready For The Floor (Album Version),camera,version,0.11764705882352941
+Camera Talk,Ready For The Floor (Album Version),camera,ready,0.13333333333333333
+Camera Talk,Ready For The Floor (Album Version),camera,floor,0.5882352941176471
+Camera Talk,Ready For The Floor (Album Version),camera,best,0.11764705882352941
+Camera Talk,Ready For The Floor (Album Version),camera,bands,0.14285714285714285
+Camera Talk,Ready For The Floor (Album Version),talk,album,0.13333333333333333
+Camera Talk,Ready For The Floor (Album Version),talk,version,0.4
+Camera Talk,Ready For The Floor (Album Version),talk,ready,0.3076923076923077
+Camera Talk,Ready For The Floor (Album Version),talk,floor,0.13333333333333333
+Camera Talk,Ready For The Floor (Album Version),talk,best,0.26666666666666666
+Camera Talk,Ready For The Floor (Album Version),talk,bands,0.3333333333333333
+Camera Talk,Ready For The Floor (Album Version),camera,album,0.7058823529411765
+Camera Talk,Ready For The Floor (Album Version),camera,version,0.11764705882352941
+Camera Talk,Ready For The Floor (Album Version),camera,ready,0.13333333333333333
+Camera Talk,Ready For The Floor (Album Version),camera,floor,0.5882352941176471
+Camera Talk,Ready For The Floor (Album Version),camera,best,0.11764705882352941
+Camera Talk,Ready For The Floor (Album Version),camera,bands,0.14285714285714285
+Camera Talk,Ready For The Floor (Album Version),talk,album,0.13333333333333333
+Camera Talk,Ready For The Floor (Album Version),talk,version,0.4
+Camera Talk,Ready For The Floor (Album Version),talk,ready,0.3076923076923077
+Camera Talk,Ready For The Floor (Album Version),talk,floor,0.13333333333333333
+Camera Talk,Ready For The Floor (Album Version),talk,best,0.26666666666666666
+Camera Talk,Ready For The Floor (Album Version),talk,bands,0.3333333333333333
+Camera Talk,I Just Wanna Get Along,camera,wan,0.631578947368421
+Camera Talk,I Just Wanna Get Along,camera,na,0.25
+Camera Talk,I Just Wanna Get Along,camera,get,0.09090909090909091
+Camera Talk,I Just Wanna Get Along,camera,along,0
+Camera Talk,I Just Wanna Get Along,camera,last,0.13333333333333333
+Camera Talk,I Just Wanna Get Along,camera,splash,0.11764705882352941
+Camera Talk,I Just Wanna Get Along,talk,wan,0.11764705882352941
+Camera Talk,I Just Wanna Get Along,talk,na,0.26666666666666666
+Camera Talk,I Just Wanna Get Along,talk,get,0.2
+Camera Talk,I Just Wanna Get Along,talk,along,0
+Camera Talk,I Just Wanna Get Along,talk,last,0.3076923076923077
+Camera Talk,I Just Wanna Get Along,talk,splash,0.26666666666666666
+Camera Talk,I Just Wanna Get Along,camera,wan,0.631578947368421
+Camera Talk,I Just Wanna Get Along,camera,na,0.25
+Camera Talk,I Just Wanna Get Along,camera,get,0.09090909090909091
+Camera Talk,I Just Wanna Get Along,camera,along,0
+Camera Talk,I Just Wanna Get Along,camera,last,0.13333333333333333
+Camera Talk,I Just Wanna Get Along,camera,splash,0.11764705882352941
+Camera Talk,I Just Wanna Get Along,talk,wan,0.11764705882352941
+Camera Talk,I Just Wanna Get Along,talk,na,0.26666666666666666
+Camera Talk,I Just Wanna Get Along,talk,get,0.2
+Camera Talk,I Just Wanna Get Along,talk,along,0
+Camera Talk,I Just Wanna Get Along,talk,last,0.3076923076923077
+Camera Talk,I Just Wanna Get Along,talk,splash,0.26666666666666666
+Camera Talk,New Year,camera,new,0
+Camera Talk,New Year,camera,year,0.13333333333333333
+Camera Talk,New Year,camera,last,0.13333333333333333
+Camera Talk,New Year,camera,splash,0.11764705882352941
+Camera Talk,New Year,talk,new,0
+Camera Talk,New Year,talk,year,0.3076923076923077
+Camera Talk,New Year,talk,last,0.3076923076923077
+Camera Talk,New Year,talk,splash,0.26666666666666666
+Camera Talk,New Year,camera,new,0
+Camera Talk,New Year,camera,year,0.13333333333333333
+Camera Talk,New Year,camera,last,0.13333333333333333
+Camera Talk,New Year,camera,splash,0.11764705882352941
+Camera Talk,New Year,talk,new,0
+Camera Talk,New Year,talk,year,0.3076923076923077
+Camera Talk,New Year,talk,last,0.3076923076923077
+Camera Talk,New Year,talk,splash,0.26666666666666666
+Camera Talk,Drivin On 9,camera,last,0.13333333333333333
+Camera Talk,Drivin On 9,camera,splash,0.11764705882352941
+Camera Talk,Drivin On 9,talk,last,0.3076923076923077
+Camera Talk,Drivin On 9,talk,splash,0.26666666666666666
+Camera Talk,Drivin On 9,camera,last,0.13333333333333333
+Camera Talk,Drivin On 9,camera,splash,0.11764705882352941
+Camera Talk,Drivin On 9,talk,last,0.3076923076923077
+Camera Talk,Drivin On 9,talk,splash,0.26666666666666666
+Camera Talk,Talk About The Blues,camera,talk,0.125
+Camera Talk,Talk About The Blues,camera,blues,0.125
+Camera Talk,Talk About The Blues,camera,matador,0.4444444444444444
+Camera Talk,Talk About The Blues,camera,records,0.13333333333333333
+Camera Talk,Talk About The Blues,camera,anniversary,0.11764705882352941
+Camera Talk,Talk About The Blues,camera,anthology,0.5
+Camera Talk,Talk About The Blues,camera,nice,0.3157894736842105
+Camera Talk,Talk About The Blues,talk,talk,1.0
+Camera Talk,Talk About The Blues,talk,blues,0.5333333333333333
+Camera Talk,Talk About The Blues,talk,matador,0.15384615384615385
+Camera Talk,Talk About The Blues,talk,records,0.46153846153846156
+Camera Talk,Talk About The Blues,talk,anniversary,0.26666666666666666
+Camera Talk,Talk About The Blues,talk,anthology,0.1111111111111111
+Camera Talk,Talk About The Blues,talk,nice,0.11764705882352941
+Camera Talk,Talk About The Blues,camera,talk,0.125
+Camera Talk,Talk About The Blues,camera,blues,0.125
+Camera Talk,Talk About The Blues,camera,matador,0.4444444444444444
+Camera Talk,Talk About The Blues,camera,records,0.13333333333333333
+Camera Talk,Talk About The Blues,camera,anniversary,0.11764705882352941
+Camera Talk,Talk About The Blues,camera,anthology,0.5
+Camera Talk,Talk About The Blues,camera,nice,0.3157894736842105
+Camera Talk,Talk About The Blues,talk,talk,1.0
+Camera Talk,Talk About The Blues,talk,blues,0.5333333333333333
+Camera Talk,Talk About The Blues,talk,matador,0.15384615384615385
+Camera Talk,Talk About The Blues,talk,records,0.46153846153846156
+Camera Talk,Talk About The Blues,talk,anniversary,0.26666666666666666
+Camera Talk,Talk About The Blues,talk,anthology,0.1111111111111111
+Camera Talk,Talk About The Blues,talk,nice,0.11764705882352941
+Camera Talk,Flipside,camera,last,0.13333333333333333
+Camera Talk,Flipside,camera,splash,0.11764705882352941
+Camera Talk,Flipside,talk,last,0.3076923076923077
+Camera Talk,Flipside,talk,splash,0.26666666666666666
+Camera Talk,Flipside,camera,last,0.13333333333333333
+Camera Talk,Flipside,camera,splash,0.11764705882352941
+Camera Talk,Flipside,talk,last,0.3076923076923077
+Camera Talk,Flipside,talk,splash,0.26666666666666666
+Belle,Cannonball,beautiful,cannonball,0
+Belle,Cannonball,beautiful,cannonball,0
+Belle,Cannonball,dreams,cannonball,0.1
+Belle,Cannonball,dreams,cannonball,0.1
+Belle,Invisible Man,beautiful,invisible,0
+Belle,Invisible Man,beautiful,man,0
+Belle,Invisible Man,beautiful,last,0
+Belle,Invisible Man,beautiful,splash,0
+Belle,Invisible Man,dreams,invisible,0
+Belle,Invisible Man,dreams,man,0.13333333333333333
+Belle,Invisible Man,dreams,last,0.26666666666666666
+Belle,Invisible Man,dreams,splash,0.35294117647058826
+Belle,No Aloha,beautiful,hell,0
+Belle,No Aloha,beautiful,aloha,0
+Belle,No Aloha,beautiful,last,0
+Belle,No Aloha,beautiful,splash,0
+Belle,No Aloha,dreams,hell,0.13333333333333333
+Belle,No Aloha,dreams,aloha,0.26666666666666666
+Belle,No Aloha,dreams,last,0.26666666666666666
+Belle,No Aloha,dreams,splash,0.35294117647058826
+Belle,Mad Lucas,beautiful,mad,0
+Belle,Mad Lucas,beautiful,lucas,0
+Belle,Mad Lucas,beautiful,last,0
+Belle,Mad Lucas,beautiful,splash,0
+Belle,Mad Lucas,dreams,mad,0
+Belle,Mad Lucas,dreams,lucas,0.11764705882352941
+Belle,Mad Lucas,dreams,last,0.26666666666666666
+Belle,Mad Lucas,dreams,splash,0.35294117647058826
+Belle,Roi (reprise),beautiful,recovery,0
+Belle,Roi (reprise),beautiful,king,0
+Belle,Roi (reprise),beautiful,last,0
+Belle,Roi (reprise),beautiful,splash,0
+Belle,Roi (reprise),dreams,recovery,0.3333333333333333
+Belle,Roi (reprise),dreams,king,0.125
+Belle,Roi (reprise),dreams,last,0.26666666666666666
+Belle,Roi (reprise),dreams,splash,0.35294117647058826
+Belle,Gloomy Sunday,beautiful,gloomy,0
+Belle,Gloomy Sunday,beautiful,sunday,0
+Belle,Gloomy Sunday,beautiful,south,0
+Belle,Gloomy Sunday,dreams,gloomy,0
+Belle,Gloomy Sunday,dreams,sunday,0.2222222222222222
+Belle,Gloomy Sunday,dreams,south,0.125
+Belle,Roi,beautiful,king,0
+Belle,Roi,beautiful,last,0
+Belle,Roi,beautiful,splash,0
+Belle,Roi,dreams,king,0.125
+Belle,Roi,dreams,last,0.26666666666666666
+Belle,Roi,dreams,splash,0.35294117647058826
+Belle,Do You Love Me Now ?,beautiful,love,0
+Belle,Do You Love Me Now ?,beautiful,last,0
+Belle,Do You Love Me Now ?,beautiful,splash,0
+Belle,Do You Love Me Now ?,dreams,love,0.25
+Belle,Do You Love Me Now ?,dreams,last,0.26666666666666666
+Belle,Do You Love Me Now ?,dreams,splash,0.35294117647058826
+Belle,Hag,beautiful,hag,0
+Belle,Hag,beautiful,last,0
+Belle,Hag,beautiful,splash,0
+Belle,Hag,dreams,hag,0.11764705882352941
+Belle,Hag,dreams,last,0.26666666666666666
+Belle,Hag,dreams,splash,0.35294117647058826
+Belle,Evidence,beautiful,evidence,0
+Belle,Evidence,beautiful,faith,0
+Belle,Evidence,beautiful,best,0
+Belle,Evidence,dreams,evidence,0.5333333333333333
+Belle,Evidence,dreams,faith,0.5
+Belle,Evidence,dreams,best,0.35294117647058826
+Belle,Saints,beautiful,saints,0
+Belle,Saints,beautiful,last,0
+Belle,Saints,beautiful,splash,0
+Belle,Saints,dreams,saints,0.4444444444444444
+Belle,Saints,dreams,last,0.26666666666666666
+Belle,Saints,dreams,splash,0.35294117647058826
+Belle,S.O.S.,beautiful,sos,0
+Belle,S.O.S.,beautiful,last,0
+Belle,S.O.S.,beautiful,splash,0
+Belle,S.O.S.,dreams,sos,0.26666666666666666
+Belle,S.O.S.,dreams,last,0.26666666666666666
+Belle,S.O.S.,dreams,splash,0.35294117647058826
+Belle,Divine Hammer,beautiful,divine,0
+Belle,Divine Hammer,beautiful,hammer,0
+Belle,Divine Hammer,beautiful,last,0
+Belle,Divine Hammer,beautiful,splash,0
+Belle,Divine Hammer,dreams,divine,0.4444444444444444
+Belle,Divine Hammer,dreams,hammer,0.1
+Belle,Divine Hammer,dreams,last,0.26666666666666666
+Belle,Divine Hammer,dreams,splash,0.35294117647058826
+Belle,One Step Beyond,beautiful,one,0
+Belle,One Step Beyond,beautiful,step,0
+Belle,One Step Beyond,beautiful,beyond,0
+Belle,One Step Beyond,beautiful,complete,0
+Belle,One Step Beyond,beautiful,madness,0
+Belle,One Step Beyond,dreams,one,0.23529411764705882
+Belle,One Step Beyond,dreams,step,0.3
+Belle,One Step Beyond,dreams,beyond,0
+Belle,One Step Beyond,dreams,complete,0
+Belle,One Step Beyond,dreams,madness,0.2222222222222222
+Belle,Ready For The Floor (Album Version),beautiful,album,0
+Belle,Ready For The Floor (Album Version),beautiful,version,0
+Belle,Ready For The Floor (Album Version),beautiful,ready,0
+Belle,Ready For The Floor (Album Version),beautiful,floor,0
+Belle,Ready For The Floor (Album Version),beautiful,best,0
+Belle,Ready For The Floor (Album Version),beautiful,bands,0
+Belle,Ready For The Floor (Album Version),dreams,album,0.11764705882352941
+Belle,Ready For The Floor (Album Version),dreams,version,0.23529411764705882
+Belle,Ready For The Floor (Album Version),dreams,ready,0.26666666666666666
+Belle,Ready For The Floor (Album Version),dreams,floor,0.11764705882352941
+Belle,Ready For The Floor (Album Version),dreams,best,0.35294117647058826
+Belle,Ready For The Floor (Album Version),dreams,bands,0.2857142857142857
+Belle,I Just Wanna Get Along,beautiful,wan,0
+Belle,I Just Wanna Get Along,beautiful,na,0
+Belle,I Just Wanna Get Along,beautiful,get,0
+Belle,I Just Wanna Get Along,beautiful,along,0
+Belle,I Just Wanna Get Along,beautiful,last,0
+Belle,I Just Wanna Get Along,beautiful,splash,0
+Belle,I Just Wanna Get Along,dreams,wan,0.10526315789473684
+Belle,I Just Wanna Get Along,dreams,na,0.23529411764705882
+Belle,I Just Wanna Get Along,dreams,get,0.2727272727272727
+Belle,I Just Wanna Get Along,dreams,along,0
+Belle,I Just Wanna Get Along,dreams,last,0.26666666666666666
+Belle,I Just Wanna Get Along,dreams,splash,0.35294117647058826
+Belle,New Year,beautiful,new,0
+Belle,New Year,beautiful,year,0
+Belle,New Year,beautiful,last,0
+Belle,New Year,beautiful,splash,0
+Belle,New Year,dreams,new,0
+Belle,New Year,dreams,year,0.26666666666666666
+Belle,New Year,dreams,last,0.26666666666666666
+Belle,New Year,dreams,splash,0.35294117647058826
+Belle,Drivin On 9,beautiful,last,0
+Belle,Drivin On 9,beautiful,splash,0
+Belle,Drivin On 9,dreams,last,0.26666666666666666
+Belle,Drivin On 9,dreams,splash,0.35294117647058826
+Belle,Talk About The Blues,beautiful,talk,0
+Belle,Talk About The Blues,beautiful,blues,0
+Belle,Talk About The Blues,beautiful,matador,0
+Belle,Talk About The Blues,beautiful,records,0
+Belle,Talk About The Blues,beautiful,anniversary,0
+Belle,Talk About The Blues,beautiful,anthology,0
+Belle,Talk About The Blues,beautiful,nice,0
+Belle,Talk About The Blues,dreams,talk,0.25
+Belle,Talk About The Blues,dreams,blues,0.25
+Belle,Talk About The Blues,dreams,matador,0.13333333333333333
+Belle,Talk About The Blues,dreams,records,0.26666666666666666
+Belle,Talk About The Blues,dreams,anniversary,0.23529411764705882
+Belle,Talk About The Blues,dreams,anthology,0.1
+Belle,Talk About The Blues,dreams,nice,0.10526315789473684
+Belle,Flipside,beautiful,last,0
+Belle,Flipside,beautiful,splash,0
+Belle,Flipside,dreams,last,0.26666666666666666
+Belle,Flipside,dreams,splash,0.35294117647058826
+Auto Rock,Cannonball,auto,cannonball,0.5454545454545454
+Auto Rock,Cannonball,auto,cannonball,0.5454545454545454
+Auto Rock,Cannonball,rock,cannonball,0.47058823529411764
+Auto Rock,Cannonball,rock,cannonball,0.47058823529411764
+Auto Rock,Cannonball,mr,cannonball,0.1
+Auto Rock,Cannonball,mr,cannonball,0.1
+Auto Rock,Cannonball,beast,cannonball,0.4444444444444444
+Auto Rock,Cannonball,beast,cannonball,0.4444444444444444
+Auto Rock,Invisible Man,auto,invisible,0
+Auto Rock,Invisible Man,auto,man,0.4
+Auto Rock,Invisible Man,auto,last,0.11764705882352941
+Auto Rock,Invisible Man,auto,splash,0.10526315789473684
+Auto Rock,Invisible Man,rock,invisible,0
+Auto Rock,Invisible Man,rock,man,0.5333333333333333
+Auto Rock,Invisible Man,rock,last,0.16666666666666666
+Auto Rock,Invisible Man,rock,splash,0.14285714285714285
+Auto Rock,Invisible Man,mr,invisible,0
+Auto Rock,Invisible Man,mr,man,0.13333333333333333
+Auto Rock,Invisible Man,mr,last,0.26666666666666666
+Auto Rock,Invisible Man,mr,splash,0.23529411764705882
+Auto Rock,Invisible Man,beast,invisible,0
+Auto Rock,Invisible Man,beast,man,0.75
+Auto Rock,Invisible Man,beast,last,0.15384615384615385
+Auto Rock,Invisible Man,beast,splash,0.13333333333333333
+Auto Rock,No Aloha,auto,hell,0.35294117647058826
+Auto Rock,No Aloha,auto,aloha,0.11764705882352941
+Auto Rock,No Aloha,auto,last,0.11764705882352941
+Auto Rock,No Aloha,auto,splash,0.10526315789473684
+Auto Rock,No Aloha,rock,hell,0.5
+Auto Rock,No Aloha,rock,aloha,0.16666666666666666
+Auto Rock,No Aloha,rock,last,0.16666666666666666
+Auto Rock,No Aloha,rock,splash,0.14285714285714285
+Auto Rock,No Aloha,mr,hell,0.13333333333333333
+Auto Rock,No Aloha,mr,aloha,0.26666666666666666
+Auto Rock,No Aloha,mr,last,0.26666666666666666
+Auto Rock,No Aloha,mr,splash,0.23529411764705882
+Auto Rock,No Aloha,beast,hell,0.46153846153846156
+Auto Rock,No Aloha,beast,aloha,0.15384615384615385
+Auto Rock,No Aloha,beast,last,0.15384615384615385
+Auto Rock,No Aloha,beast,splash,0.13333333333333333
+Auto Rock,Mad Lucas,auto,mad,0
+Auto Rock,Mad Lucas,auto,lucas,0.36363636363636365
+Auto Rock,Mad Lucas,auto,last,0.11764705882352941
+Auto Rock,Mad Lucas,auto,splash,0.10526315789473684
+Auto Rock,Mad Lucas,rock,mad,0
+Auto Rock,Mad Lucas,rock,lucas,0.47058823529411764
+Auto Rock,Mad Lucas,rock,last,0.16666666666666666
+Auto Rock,Mad Lucas,rock,splash,0.14285714285714285
+Auto Rock,Mad Lucas,mr,mad,0
+Auto Rock,Mad Lucas,mr,lucas,0.11764705882352941
+Auto Rock,Mad Lucas,mr,last,0.26666666666666666
+Auto Rock,Mad Lucas,mr,splash,0.23529411764705882
+Auto Rock,Mad Lucas,beast,mad,0
+Auto Rock,Mad Lucas,beast,lucas,0.6666666666666666
+Auto Rock,Mad Lucas,beast,last,0.15384615384615385
+Auto Rock,Mad Lucas,beast,splash,0.13333333333333333
+Auto Rock,Roi (reprise),auto,recovery,0.1
+Auto Rock,Roi (reprise),auto,king,0.38095238095238093
+Auto Rock,Roi (reprise),auto,last,0.11764705882352941
+Auto Rock,Roi (reprise),auto,splash,0.10526315789473684
+Auto Rock,Roi (reprise),rock,recovery,0.13333333333333333
+Auto Rock,Roi (reprise),rock,king,0.5
+Auto Rock,Roi (reprise),rock,last,0.16666666666666666
+Auto Rock,Roi (reprise),rock,splash,0.14285714285714285
+Auto Rock,Roi (reprise),mr,recovery,0.2222222222222222
+Auto Rock,Roi (reprise),mr,king,0.125
+Auto Rock,Roi (reprise),mr,last,0.26666666666666666
+Auto Rock,Roi (reprise),mr,splash,0.23529411764705882
+Auto Rock,Roi (reprise),beast,recovery,0.125
+Auto Rock,Roi (reprise),beast,king,0.7058823529411765
+Auto Rock,Roi (reprise),beast,last,0.15384615384615385
+Auto Rock,Roi (reprise),beast,splash,0.13333333333333333
+Auto Rock,Gloomy Sunday,auto,gloomy,0
+Auto Rock,Gloomy Sunday,auto,sunday,0.1
+Auto Rock,Gloomy Sunday,auto,south,0.3333333333333333
+Auto Rock,Gloomy Sunday,rock,gloomy,0
+Auto Rock,Gloomy Sunday,rock,sunday,0.13333333333333333
+Auto Rock,Gloomy Sunday,rock,south,0.46153846153846156
+Auto Rock,Gloomy Sunday,mr,gloomy,0
+Auto Rock,Gloomy Sunday,mr,sunday,0.2222222222222222
+Auto Rock,Gloomy Sunday,mr,south,0.125
+Auto Rock,Gloomy Sunday,beast,gloomy,0
+Auto Rock,Gloomy Sunday,beast,sunday,0.125
+Auto Rock,Gloomy Sunday,beast,south,0.42857142857142855
+Auto Rock,Roi,auto,king,0.38095238095238093
+Auto Rock,Roi,auto,last,0.11764705882352941
+Auto Rock,Roi,auto,splash,0.10526315789473684
+Auto Rock,Roi,rock,king,0.5
+Auto Rock,Roi,rock,last,0.16666666666666666
+Auto Rock,Roi,rock,splash,0.14285714285714285
+Auto Rock,Roi,mr,king,0.125
+Auto Rock,Roi,mr,last,0.26666666666666666
+Auto Rock,Roi,mr,splash,0.23529411764705882
+Auto Rock,Roi,beast,king,0.7058823529411765
+Auto Rock,Roi,beast,last,0.15384615384615385
+Auto Rock,Roi,beast,splash,0.13333333333333333
+Auto Rock,Do You Love Me Now ?,auto,love,0.1111111111111111
+Auto Rock,Do You Love Me Now ?,auto,last,0.11764705882352941
+Auto Rock,Do You Love Me Now ?,auto,splash,0.10526315789473684
+Auto Rock,Do You Love Me Now ?,rock,love,0.15384615384615385
+Auto Rock,Do You Love Me Now ?,rock,last,0.16666666666666666
+Auto Rock,Do You Love Me Now ?,rock,splash,0.14285714285714285
+Auto Rock,Do You Love Me Now ?,mr,love,0.25
+Auto Rock,Do You Love Me Now ?,mr,last,0.26666666666666666
+Auto Rock,Do You Love Me Now ?,mr,splash,0.23529411764705882
+Auto Rock,Do You Love Me Now ?,beast,love,0.14285714285714285
+Auto Rock,Do You Love Me Now ?,beast,last,0.15384615384615385
+Auto Rock,Do You Love Me Now ?,beast,splash,0.13333333333333333
+Auto Rock,Hag,auto,hag,0.36363636363636365
+Auto Rock,Hag,auto,last,0.11764705882352941
+Auto Rock,Hag,auto,splash,0.10526315789473684
+Auto Rock,Hag,rock,hag,0.47058823529411764
+Auto Rock,Hag,rock,last,0.16666666666666666
+Auto Rock,Hag,rock,splash,0.14285714285714285
+Auto Rock,Hag,mr,hag,0.11764705882352941
+Auto Rock,Hag,mr,last,0.26666666666666666
+Auto Rock,Hag,mr,splash,0.23529411764705882
+Auto Rock,Hag,beast,hag,0.6666666666666666
+Auto Rock,Hag,beast,last,0.15384615384615385
+Auto Rock,Hag,beast,splash,0.13333333333333333
+Auto Rock,Evidence,auto,evidence,0.11764705882352941
+Auto Rock,Evidence,auto,faith,0.1111111111111111
+Auto Rock,Evidence,auto,best,0.10526315789473684
+Auto Rock,Evidence,rock,evidence,0.16666666666666666
+Auto Rock,Evidence,rock,faith,0.15384615384615385
+Auto Rock,Evidence,rock,best,0.14285714285714285
+Auto Rock,Evidence,mr,evidence,0.26666666666666666
+Auto Rock,Evidence,mr,faith,0.25
+Auto Rock,Evidence,mr,best,0.23529411764705882
+Auto Rock,Evidence,beast,evidence,0.15384615384615385
+Auto Rock,Evidence,beast,faith,0.14285714285714285
+Auto Rock,Evidence,beast,best,0.13333333333333333
+Auto Rock,Saints,auto,saints,0.1
+Auto Rock,Saints,auto,last,0.11764705882352941
+Auto Rock,Saints,auto,splash,0.10526315789473684
+Auto Rock,Saints,rock,saints,0.13333333333333333
+Auto Rock,Saints,rock,last,0.16666666666666666
+Auto Rock,Saints,rock,splash,0.14285714285714285
+Auto Rock,Saints,mr,saints,0.2222222222222222
+Auto Rock,Saints,mr,last,0.26666666666666666
+Auto Rock,Saints,mr,splash,0.23529411764705882
+Auto Rock,Saints,beast,saints,0.125
+Auto Rock,Saints,beast,last,0.15384615384615385
+Auto Rock,Saints,beast,splash,0.13333333333333333
+Auto Rock,S.O.S.,auto,sos,0.11764705882352941
+Auto Rock,S.O.S.,auto,last,0.11764705882352941
+Auto Rock,S.O.S.,auto,splash,0.10526315789473684
+Auto Rock,S.O.S.,rock,sos,0.16666666666666666
+Auto Rock,S.O.S.,rock,last,0.16666666666666666
+Auto Rock,S.O.S.,rock,splash,0.14285714285714285
+Auto Rock,S.O.S.,mr,sos,0.26666666666666666
+Auto Rock,S.O.S.,mr,last,0.26666666666666666
+Auto Rock,S.O.S.,mr,splash,0.23529411764705882
+Auto Rock,S.O.S.,beast,sos,0.15384615384615385
+Auto Rock,S.O.S.,beast,last,0.15384615384615385
+Auto Rock,S.O.S.,beast,splash,0.13333333333333333
+Auto Rock,Divine Hammer,auto,divine,0.1
+Auto Rock,Divine Hammer,auto,hammer,0.5454545454545454
+Auto Rock,Divine Hammer,auto,last,0.11764705882352941
+Auto Rock,Divine Hammer,auto,splash,0.10526315789473684
+Auto Rock,Divine Hammer,rock,divine,0.13333333333333333
+Auto Rock,Divine Hammer,rock,hammer,0.47058823529411764
+Auto Rock,Divine Hammer,rock,last,0.16666666666666666
+Auto Rock,Divine Hammer,rock,splash,0.14285714285714285
+Auto Rock,Divine Hammer,mr,divine,0.2222222222222222
+Auto Rock,Divine Hammer,mr,hammer,0.1
+Auto Rock,Divine Hammer,mr,last,0.26666666666666666
+Auto Rock,Divine Hammer,mr,splash,0.23529411764705882
+Auto Rock,Divine Hammer,beast,divine,0.125
+Auto Rock,Divine Hammer,beast,hammer,0.4444444444444444
+Auto Rock,Divine Hammer,beast,last,0.15384615384615385
+Auto Rock,Divine Hammer,beast,splash,0.13333333333333333
+Auto Rock,One Step Beyond,auto,one,0.10526315789473684
+Auto Rock,One Step Beyond,auto,step,0.09090909090909091
+Auto Rock,One Step Beyond,auto,beyond,0
+Auto Rock,One Step Beyond,auto,complete,0
+Auto Rock,One Step Beyond,auto,madness,0.1
+Auto Rock,One Step Beyond,rock,one,0.14285714285714285
+Auto Rock,One Step Beyond,rock,step,0.11764705882352941
+Auto Rock,One Step Beyond,rock,beyond,0
+Auto Rock,One Step Beyond,rock,complete,0
+Auto Rock,One Step Beyond,rock,madness,0.13333333333333333
+Auto Rock,One Step Beyond,mr,one,0.23529411764705882
+Auto Rock,One Step Beyond,mr,step,0.2
+Auto Rock,One Step Beyond,mr,beyond,0
+Auto Rock,One Step Beyond,mr,complete,0
+Auto Rock,One Step Beyond,mr,madness,0.2222222222222222
+Auto Rock,One Step Beyond,beast,one,0.13333333333333333
+Auto Rock,One Step Beyond,beast,step,0.1111111111111111
+Auto Rock,One Step Beyond,beast,beyond,0
+Auto Rock,One Step Beyond,beast,complete,0
+Auto Rock,One Step Beyond,beast,madness,0.125
+Auto Rock,Ready For The Floor (Album Version),auto,album,0.631578947368421
+Auto Rock,Ready For The Floor (Album Version),auto,version,0.10526315789473684
+Auto Rock,Ready For The Floor (Album Version),auto,ready,0.11764705882352941
+Auto Rock,Ready For The Floor (Album Version),auto,floor,0.5263157894736842
+Auto Rock,Ready For The Floor (Album Version),auto,best,0.10526315789473684
+Auto Rock,Ready For The Floor (Album Version),auto,bands,0.125
+Auto Rock,Ready For The Floor (Album Version),rock,album,0.5714285714285714
+Auto Rock,Ready For The Floor (Album Version),rock,version,0.14285714285714285
+Auto Rock,Ready For The Floor (Album Version),rock,ready,0.16666666666666666
+Auto Rock,Ready For The Floor (Album Version),rock,floor,0.5714285714285714
+Auto Rock,Ready For The Floor (Album Version),rock,best,0.14285714285714285
+Auto Rock,Ready For The Floor (Album Version),rock,bands,0.18181818181818182
+Auto Rock,Ready For The Floor (Album Version),mr,album,0.11764705882352941
+Auto Rock,Ready For The Floor (Album Version),mr,version,0.23529411764705882
+Auto Rock,Ready For The Floor (Album Version),mr,ready,0.26666666666666666
+Auto Rock,Ready For The Floor (Album Version),mr,floor,0.11764705882352941
+Auto Rock,Ready For The Floor (Album Version),mr,best,0.23529411764705882
+Auto Rock,Ready For The Floor (Album Version),mr,bands,0.2857142857142857
+Auto Rock,Ready For The Floor (Album Version),beast,album,0.5333333333333333
+Auto Rock,Ready For The Floor (Album Version),beast,version,0.13333333333333333
+Auto Rock,Ready For The Floor (Album Version),beast,ready,0.15384615384615385
+Auto Rock,Ready For The Floor (Album Version),beast,floor,0.5333333333333333
+Auto Rock,Ready For The Floor (Album Version),beast,best,0.13333333333333333
+Auto Rock,Ready For The Floor (Album Version),beast,bands,0.16666666666666666
+Auto Rock,I Just Wanna Get Along,auto,wan,0.5714285714285714
+Auto Rock,I Just Wanna Get Along,auto,na,0.2222222222222222
+Auto Rock,I Just Wanna Get Along,auto,get,0.08333333333333333
+Auto Rock,I Just Wanna Get Along,auto,along,0
+Auto Rock,I Just Wanna Get Along,auto,last,0.11764705882352941
+Auto Rock,I Just Wanna Get Along,auto,splash,0.10526315789473684
+Auto Rock,I Just Wanna Get Along,rock,wan,0.5
+Auto Rock,I Just Wanna Get Along,rock,na,0.3076923076923077
+Auto Rock,I Just Wanna Get Along,rock,get,0.10526315789473684
+Auto Rock,I Just Wanna Get Along,rock,along,0
+Auto Rock,I Just Wanna Get Along,rock,last,0.16666666666666666
+Auto Rock,I Just Wanna Get Along,rock,splash,0.14285714285714285
+Auto Rock,I Just Wanna Get Along,mr,wan,0.10526315789473684
+Auto Rock,I Just Wanna Get Along,mr,na,0.47058823529411764
+Auto Rock,I Just Wanna Get Along,mr,get,0.18181818181818182
+Auto Rock,I Just Wanna Get Along,mr,along,0
+Auto Rock,I Just Wanna Get Along,mr,last,0.26666666666666666
+Auto Rock,I Just Wanna Get Along,mr,splash,0.23529411764705882
+Auto Rock,I Just Wanna Get Along,beast,wan,0.47058823529411764
+Auto Rock,I Just Wanna Get Along,beast,na,0.2857142857142857
+Auto Rock,I Just Wanna Get Along,beast,get,0.1
+Auto Rock,I Just Wanna Get Along,beast,along,0
+Auto Rock,I Just Wanna Get Along,beast,last,0.15384615384615385
+Auto Rock,I Just Wanna Get Along,beast,splash,0.13333333333333333
+Auto Rock,New Year,auto,new,0
+Auto Rock,New Year,auto,year,0.11764705882352941
+Auto Rock,New Year,auto,last,0.11764705882352941
+Auto Rock,New Year,auto,splash,0.10526315789473684
+Auto Rock,New Year,rock,new,0
+Auto Rock,New Year,rock,year,0.16666666666666666
+Auto Rock,New Year,rock,last,0.16666666666666666
+Auto Rock,New Year,rock,splash,0.14285714285714285
+Auto Rock,New Year,mr,new,0
+Auto Rock,New Year,mr,year,0.26666666666666666
+Auto Rock,New Year,mr,last,0.26666666666666666
+Auto Rock,New Year,mr,splash,0.23529411764705882
+Auto Rock,New Year,beast,new,0
+Auto Rock,New Year,beast,year,0.15384615384615385
+Auto Rock,New Year,beast,last,0.15384615384615385
+Auto Rock,New Year,beast,splash,0.13333333333333333
+Auto Rock,Drivin On 9,auto,last,0.11764705882352941
+Auto Rock,Drivin On 9,auto,splash,0.10526315789473684
+Auto Rock,Drivin On 9,rock,last,0.16666666666666666
+Auto Rock,Drivin On 9,rock,splash,0.14285714285714285
+Auto Rock,Drivin On 9,mr,last,0.26666666666666666
+Auto Rock,Drivin On 9,mr,splash,0.23529411764705882
+Auto Rock,Drivin On 9,beast,last,0.15384615384615385
+Auto Rock,Drivin On 9,beast,splash,0.13333333333333333
+Auto Rock,Talk About The Blues,auto,talk,0.1111111111111111
+Auto Rock,Talk About The Blues,auto,blues,0.1111111111111111
+Auto Rock,Talk About The Blues,auto,matador,0.4
+Auto Rock,Talk About The Blues,auto,records,0.11764705882352941
+Auto Rock,Talk About The Blues,auto,anniversary,0.10526315789473684
+Auto Rock,Talk About The Blues,auto,anthology,0.45454545454545453
+Auto Rock,Talk About The Blues,auto,nice,0.2857142857142857
+Auto Rock,Talk About The Blues,rock,talk,0.15384615384615385
+Auto Rock,Talk About The Blues,rock,blues,0.15384615384615385
+Auto Rock,Talk About The Blues,rock,matador,0.5333333333333333
+Auto Rock,Talk About The Blues,rock,records,0.16666666666666666
+Auto Rock,Talk About The Blues,rock,anniversary,0.14285714285714285
+Auto Rock,Talk About The Blues,rock,anthology,0.47058823529411764
+Auto Rock,Talk About The Blues,rock,nice,0.375
+Auto Rock,Talk About The Blues,mr,talk,0.25
+Auto Rock,Talk About The Blues,mr,blues,0.25
+Auto Rock,Talk About The Blues,mr,matador,0.13333333333333333
+Auto Rock,Talk About The Blues,mr,records,0.26666666666666666
+Auto Rock,Talk About The Blues,mr,anniversary,0.23529411764705882
+Auto Rock,Talk About The Blues,mr,anthology,0.1
+Auto Rock,Talk About The Blues,mr,nice,0.10526315789473684
+Auto Rock,Talk About The Blues,beast,talk,0.14285714285714285
+Auto Rock,Talk About The Blues,beast,blues,0.14285714285714285
+Auto Rock,Talk About The Blues,beast,matador,0.75
+Auto Rock,Talk About The Blues,beast,records,0.15384615384615385
+Auto Rock,Talk About The Blues,beast,anniversary,0.13333333333333333
+Auto Rock,Talk About The Blues,beast,anthology,0.4444444444444444
+Auto Rock,Talk About The Blues,beast,nice,0.35294117647058826
+Auto Rock,Flipside,auto,last,0.11764705882352941
+Auto Rock,Flipside,auto,splash,0.10526315789473684
+Auto Rock,Flipside,rock,last,0.16666666666666666
+Auto Rock,Flipside,rock,splash,0.14285714285714285
+Auto Rock,Flipside,mr,last,0.26666666666666666
+Auto Rock,Flipside,mr,splash,0.23529411764705882
+Auto Rock,Flipside,beast,last,0.15384615384615385
+Auto Rock,Flipside,beast,splash,0.13333333333333333
+Who Knows Who Cares,Cannonball,knows,cannonball,0.10526315789473684
+Who Knows Who Cares,Cannonball,knows,cannonball,0.10526315789473684
+Who Knows Who Cares,Cannonball,cares,cannonball,0.10526315789473684
+Who Knows Who Cares,Cannonball,cares,cannonball,0.10526315789473684
+Who Knows Who Cares,Cannonball,gorilla,cannonball,0.2962962962962963
+Who Knows Who Cares,Cannonball,gorilla,cannonball,0.2962962962962963
+Who Knows Who Cares,Cannonball,manor,cannonball,0.47619047619047616
+Who Knows Who Cares,Cannonball,manor,cannonball,0.47619047619047616
+Who Knows Who Cares,Invisible Man,knows,invisible,0
+Who Knows Who Cares,Invisible Man,knows,man,0.14285714285714285
+Who Knows Who Cares,Invisible Man,knows,last,0.2857142857142857
+Who Knows Who Cares,Invisible Man,knows,splash,0.375
+Who Knows Who Cares,Invisible Man,cares,invisible,0
+Who Knows Who Cares,Invisible Man,cares,man,0.14285714285714285
+Who Knows Who Cares,Invisible Man,cares,last,0.2857142857142857
+Who Knows Who Cares,Invisible Man,cares,splash,0.5
+Who Knows Who Cares,Invisible Man,gorilla,invisible,0
+Who Knows Who Cares,Invisible Man,gorilla,man,0.48
+Who Knows Who Cares,Invisible Man,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Invisible Man,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Invisible Man,manor,invisible,0
+Who Knows Who Cares,Invisible Man,manor,man,0.42105263157894735
+Who Knows Who Cares,Invisible Man,manor,last,0.125
+Who Knows Who Cares,Invisible Man,manor,splash,0.1111111111111111
+Who Knows Who Cares,No Aloha,knows,hell,0.14285714285714285
+Who Knows Who Cares,No Aloha,knows,aloha,0.2857142857142857
+Who Knows Who Cares,No Aloha,knows,last,0.2857142857142857
+Who Knows Who Cares,No Aloha,knows,splash,0.375
+Who Knows Who Cares,No Aloha,cares,hell,0.14285714285714285
+Who Knows Who Cares,No Aloha,cares,aloha,0.2857142857142857
+Who Knows Who Cares,No Aloha,cares,last,0.2857142857142857
+Who Knows Who Cares,No Aloha,cares,splash,0.5
+Who Knows Who Cares,No Aloha,gorilla,hell,0.2727272727272727
+Who Knows Who Cares,No Aloha,gorilla,aloha,0.09090909090909091
+Who Knows Who Cares,No Aloha,gorilla,last,0.09090909090909091
+Who Knows Who Cares,No Aloha,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,No Aloha,manor,hell,0.375
+Who Knows Who Cares,No Aloha,manor,aloha,0.125
+Who Knows Who Cares,No Aloha,manor,last,0.125
+Who Knows Who Cares,No Aloha,manor,splash,0.1111111111111111
+Who Knows Who Cares,Mad Lucas,knows,mad,0
+Who Knows Who Cares,Mad Lucas,knows,lucas,0.125
+Who Knows Who Cares,Mad Lucas,knows,last,0.2857142857142857
+Who Knows Who Cares,Mad Lucas,knows,splash,0.375
+Who Knows Who Cares,Mad Lucas,cares,mad,0
+Who Knows Who Cares,Mad Lucas,cares,lucas,0.125
+Who Knows Who Cares,Mad Lucas,cares,last,0.2857142857142857
+Who Knows Who Cares,Mad Lucas,cares,splash,0.5
+Who Knows Who Cares,Mad Lucas,gorilla,mad,0
+Who Knows Who Cares,Mad Lucas,gorilla,lucas,0.4444444444444444
+Who Knows Who Cares,Mad Lucas,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Mad Lucas,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Mad Lucas,manor,mad,0
+Who Knows Who Cares,Mad Lucas,manor,lucas,0.38095238095238093
+Who Knows Who Cares,Mad Lucas,manor,last,0.125
+Who Knows Who Cares,Mad Lucas,manor,splash,0.1111111111111111
+Who Knows Who Cares,Roi (reprise),knows,recovery,0.35294117647058826
+Who Knows Who Cares,Roi (reprise),knows,king,0.13333333333333333
+Who Knows Who Cares,Roi (reprise),knows,last,0.2857142857142857
+Who Knows Who Cares,Roi (reprise),knows,splash,0.375
+Who Knows Who Cares,Roi (reprise),cares,recovery,0.47058823529411764
+Who Knows Who Cares,Roi (reprise),cares,king,0.13333333333333333
+Who Knows Who Cares,Roi (reprise),cares,last,0.2857142857142857
+Who Knows Who Cares,Roi (reprise),cares,splash,0.5
+Who Knows Who Cares,Roi (reprise),gorilla,recovery,0.08
+Who Knows Who Cares,Roi (reprise),gorilla,king,0.46153846153846156
+Who Knows Who Cares,Roi (reprise),gorilla,last,0.09090909090909091
+Who Knows Who Cares,Roi (reprise),gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Roi (reprise),manor,recovery,0.10526315789473684
+Who Knows Who Cares,Roi (reprise),manor,king,0.4
+Who Knows Who Cares,Roi (reprise),manor,last,0.125
+Who Knows Who Cares,Roi (reprise),manor,splash,0.1111111111111111
+Who Knows Who Cares,Gloomy Sunday,knows,gloomy,0
+Who Knows Who Cares,Gloomy Sunday,knows,sunday,0.23529411764705882
+Who Knows Who Cares,Gloomy Sunday,knows,south,0.13333333333333333
+Who Knows Who Cares,Gloomy Sunday,cares,gloomy,0
+Who Knows Who Cares,Gloomy Sunday,cares,sunday,0.23529411764705882
+Who Knows Who Cares,Gloomy Sunday,cares,south,0.13333333333333333
+Who Knows Who Cares,Gloomy Sunday,gorilla,gloomy,0
+Who Knows Who Cares,Gloomy Sunday,gorilla,sunday,0.08
+Who Knows Who Cares,Gloomy Sunday,gorilla,south,0.2608695652173913
+Who Knows Who Cares,Gloomy Sunday,manor,gloomy,0
+Who Knows Who Cares,Gloomy Sunday,manor,sunday,0.10526315789473684
+Who Knows Who Cares,Gloomy Sunday,manor,south,0.35294117647058826
+Who Knows Who Cares,Roi,knows,king,0.13333333333333333
+Who Knows Who Cares,Roi,knows,last,0.2857142857142857
+Who Knows Who Cares,Roi,knows,splash,0.375
+Who Knows Who Cares,Roi,cares,king,0.13333333333333333
+Who Knows Who Cares,Roi,cares,last,0.2857142857142857
+Who Knows Who Cares,Roi,cares,splash,0.5
+Who Knows Who Cares,Roi,gorilla,king,0.46153846153846156
+Who Knows Who Cares,Roi,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Roi,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Roi,manor,king,0.4
+Who Knows Who Cares,Roi,manor,last,0.125
+Who Knows Who Cares,Roi,manor,splash,0.1111111111111111
+Who Knows Who Cares,Do You Love Me Now ?,knows,love,0.26666666666666666
+Who Knows Who Cares,Do You Love Me Now ?,knows,last,0.2857142857142857
+Who Knows Who Cares,Do You Love Me Now ?,knows,splash,0.375
+Who Knows Who Cares,Do You Love Me Now ?,cares,love,0.26666666666666666
+Who Knows Who Cares,Do You Love Me Now ?,cares,last,0.2857142857142857
+Who Knows Who Cares,Do You Love Me Now ?,cares,splash,0.5
+Who Knows Who Cares,Do You Love Me Now ?,gorilla,love,0.08695652173913043
+Who Knows Who Cares,Do You Love Me Now ?,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Do You Love Me Now ?,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Do You Love Me Now ?,manor,love,0.11764705882352941
+Who Knows Who Cares,Do You Love Me Now ?,manor,last,0.125
+Who Knows Who Cares,Do You Love Me Now ?,manor,splash,0.1111111111111111
+Who Knows Who Cares,Hag,knows,hag,0.125
+Who Knows Who Cares,Hag,knows,last,0.2857142857142857
+Who Knows Who Cares,Hag,knows,splash,0.375
+Who Knows Who Cares,Hag,cares,hag,0.125
+Who Knows Who Cares,Hag,cares,last,0.2857142857142857
+Who Knows Who Cares,Hag,cares,splash,0.5
+Who Knows Who Cares,Hag,gorilla,hag,0.4444444444444444
+Who Knows Who Cares,Hag,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Hag,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Hag,manor,hag,0.38095238095238093
+Who Knows Who Cares,Hag,manor,last,0.125
+Who Knows Who Cares,Hag,manor,splash,0.1111111111111111
+Who Knows Who Cares,Evidence,knows,evidence,0.5714285714285714
+Who Knows Who Cares,Evidence,knows,faith,0.5333333333333333
+Who Knows Who Cares,Evidence,knows,best,0.375
+Who Knows Who Cares,Evidence,cares,evidence,0.42857142857142855
+Who Knows Who Cares,Evidence,cares,faith,0.4
+Who Knows Who Cares,Evidence,cares,best,0.75
+Who Knows Who Cares,Evidence,gorilla,evidence,0.09090909090909091
+Who Knows Who Cares,Evidence,gorilla,faith,0.08695652173913043
+Who Knows Who Cares,Evidence,gorilla,best,0.08333333333333333
+Who Knows Who Cares,Evidence,manor,evidence,0.125
+Who Knows Who Cares,Evidence,manor,faith,0.11764705882352941
+Who Knows Who Cares,Evidence,manor,best,0.1111111111111111
+Who Knows Who Cares,Saints,knows,saints,0.47058823529411764
+Who Knows Who Cares,Saints,knows,last,0.2857142857142857
+Who Knows Who Cares,Saints,knows,splash,0.375
+Who Knows Who Cares,Saints,cares,saints,0.35294117647058826
+Who Knows Who Cares,Saints,cares,last,0.2857142857142857
+Who Knows Who Cares,Saints,cares,splash,0.5
+Who Knows Who Cares,Saints,gorilla,saints,0.08
+Who Knows Who Cares,Saints,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Saints,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Saints,manor,saints,0.10526315789473684
+Who Knows Who Cares,Saints,manor,last,0.125
+Who Knows Who Cares,Saints,manor,splash,0.1111111111111111
+Who Knows Who Cares,S.O.S.,knows,sos,0.2857142857142857
+Who Knows Who Cares,S.O.S.,knows,last,0.2857142857142857
+Who Knows Who Cares,S.O.S.,knows,splash,0.375
+Who Knows Who Cares,S.O.S.,cares,sos,0.2857142857142857
+Who Knows Who Cares,S.O.S.,cares,last,0.2857142857142857
+Who Knows Who Cares,S.O.S.,cares,splash,0.5
+Who Knows Who Cares,S.O.S.,gorilla,sos,0.09090909090909091
+Who Knows Who Cares,S.O.S.,gorilla,last,0.09090909090909091
+Who Knows Who Cares,S.O.S.,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,S.O.S.,manor,sos,0.125
+Who Knows Who Cares,S.O.S.,manor,last,0.125
+Who Knows Who Cares,S.O.S.,manor,splash,0.1111111111111111
+Who Knows Who Cares,Divine Hammer,knows,divine,0.47058823529411764
+Who Knows Who Cares,Divine Hammer,knows,hammer,0.10526315789473684
+Who Knows Who Cares,Divine Hammer,knows,last,0.2857142857142857
+Who Knows Who Cares,Divine Hammer,knows,splash,0.375
+Who Knows Who Cares,Divine Hammer,cares,divine,0.35294117647058826
+Who Knows Who Cares,Divine Hammer,cares,hammer,0.10526315789473684
+Who Knows Who Cares,Divine Hammer,cares,last,0.2857142857142857
+Who Knows Who Cares,Divine Hammer,cares,splash,0.5
+Who Knows Who Cares,Divine Hammer,gorilla,divine,0.08
+Who Knows Who Cares,Divine Hammer,gorilla,hammer,0.2962962962962963
+Who Knows Who Cares,Divine Hammer,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Divine Hammer,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Divine Hammer,manor,divine,0.10526315789473684
+Who Knows Who Cares,Divine Hammer,manor,hammer,0.47619047619047616
+Who Knows Who Cares,Divine Hammer,manor,last,0.125
+Who Knows Who Cares,Divine Hammer,manor,splash,0.1111111111111111
+Who Knows Who Cares,One Step Beyond,knows,one,0.25
+Who Knows Who Cares,One Step Beyond,knows,step,0.3157894736842105
+Who Knows Who Cares,One Step Beyond,knows,beyond,0
+Who Knows Who Cares,One Step Beyond,knows,complete,0
+Who Knows Who Cares,One Step Beyond,knows,madness,0.23529411764705882
+Who Knows Who Cares,One Step Beyond,cares,one,0.25
+Who Knows Who Cares,One Step Beyond,cares,step,0.5263157894736842
+Who Knows Who Cares,One Step Beyond,cares,beyond,0
+Who Knows Who Cares,One Step Beyond,cares,complete,0
+Who Knows Who Cares,One Step Beyond,cares,madness,0.23529411764705882
+Who Knows Who Cares,One Step Beyond,gorilla,one,0.08333333333333333
+Who Knows Who Cares,One Step Beyond,gorilla,step,0.07407407407407407
+Who Knows Who Cares,One Step Beyond,gorilla,beyond,0
+Who Knows Who Cares,One Step Beyond,gorilla,complete,0
+Who Knows Who Cares,One Step Beyond,gorilla,madness,0.08
+Who Knows Who Cares,One Step Beyond,manor,one,0.1111111111111111
+Who Knows Who Cares,One Step Beyond,manor,step,0.09523809523809523
+Who Knows Who Cares,One Step Beyond,manor,beyond,0
+Who Knows Who Cares,One Step Beyond,manor,complete,0
+Who Knows Who Cares,One Step Beyond,manor,madness,0.10526315789473684
+Who Knows Who Cares,Ready For The Floor (Album Version),knows,album,0.125
+Who Knows Who Cares,Ready For The Floor (Album Version),knows,version,0.25
+Who Knows Who Cares,Ready For The Floor (Album Version),knows,ready,0.2857142857142857
+Who Knows Who Cares,Ready For The Floor (Album Version),knows,floor,0.125
+Who Knows Who Cares,Ready For The Floor (Album Version),knows,best,0.375
+Who Knows Who Cares,Ready For The Floor (Album Version),knows,bands,0.3076923076923077
+Who Knows Who Cares,Ready For The Floor (Album Version),cares,album,0.125
+Who Knows Who Cares,Ready For The Floor (Album Version),cares,version,0.25
+Who Knows Who Cares,Ready For The Floor (Album Version),cares,ready,0.2857142857142857
+Who Knows Who Cares,Ready For The Floor (Album Version),cares,floor,0.125
+Who Knows Who Cares,Ready For The Floor (Album Version),cares,best,0.75
+Who Knows Who Cares,Ready For The Floor (Album Version),cares,bands,0.3076923076923077
+Who Knows Who Cares,Ready For The Floor (Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,Ready For The Floor (Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Ready For The Floor (Album Version),gorilla,ready,0.09090909090909091
+Who Knows Who Cares,Ready For The Floor (Album Version),gorilla,floor,0.3333333333333333
+Who Knows Who Cares,Ready For The Floor (Album Version),gorilla,best,0.08333333333333333
+Who Knows Who Cares,Ready For The Floor (Album Version),gorilla,bands,0.09523809523809523
+Who Knows Who Cares,Ready For The Floor (Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,Ready For The Floor (Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Ready For The Floor (Album Version),manor,ready,0.125
+Who Knows Who Cares,Ready For The Floor (Album Version),manor,floor,0.5555555555555556
+Who Knows Who Cares,Ready For The Floor (Album Version),manor,best,0.1111111111111111
+Who Knows Who Cares,Ready For The Floor (Album Version),manor,bands,0.13333333333333333
+Who Knows Who Cares,I Just Wanna Get Along,knows,wan,0.1111111111111111
+Who Knows Who Cares,I Just Wanna Get Along,knows,na,0.25
+Who Knows Who Cares,I Just Wanna Get Along,knows,get,0.2857142857142857
+Who Knows Who Cares,I Just Wanna Get Along,knows,along,0
+Who Knows Who Cares,I Just Wanna Get Along,knows,last,0.2857142857142857
+Who Knows Who Cares,I Just Wanna Get Along,knows,splash,0.375
+Who Knows Who Cares,I Just Wanna Get Along,cares,wan,0.1111111111111111
+Who Knows Who Cares,I Just Wanna Get Along,cares,na,0.25
+Who Knows Who Cares,I Just Wanna Get Along,cares,get,0.47619047619047616
+Who Knows Who Cares,I Just Wanna Get Along,cares,along,0
+Who Knows Who Cares,I Just Wanna Get Along,cares,last,0.2857142857142857
+Who Knows Who Cares,I Just Wanna Get Along,cares,splash,0.5
+Who Knows Who Cares,I Just Wanna Get Along,gorilla,wan,0.3076923076923077
+Who Knows Who Cares,I Just Wanna Get Along,gorilla,na,0.17391304347826086
+Who Knows Who Cares,I Just Wanna Get Along,gorilla,get,0.06896551724137931
+Who Knows Who Cares,I Just Wanna Get Along,gorilla,along,0
+Who Knows Who Cares,I Just Wanna Get Along,gorilla,last,0.09090909090909091
+Who Knows Who Cares,I Just Wanna Get Along,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,I Just Wanna Get Along,manor,wan,0.5
+Who Knows Who Cares,I Just Wanna Get Along,manor,na,0.23529411764705882
+Who Knows Who Cares,I Just Wanna Get Along,manor,get,0.08695652173913043
+Who Knows Who Cares,I Just Wanna Get Along,manor,along,0
+Who Knows Who Cares,I Just Wanna Get Along,manor,last,0.125
+Who Knows Who Cares,I Just Wanna Get Along,manor,splash,0.1111111111111111
+Who Knows Who Cares,New Year,knows,new,0
+Who Knows Who Cares,New Year,knows,year,0.2857142857142857
+Who Knows Who Cares,New Year,knows,last,0.2857142857142857
+Who Knows Who Cares,New Year,knows,splash,0.375
+Who Knows Who Cares,New Year,cares,new,0
+Who Knows Who Cares,New Year,cares,year,0.2857142857142857
+Who Knows Who Cares,New Year,cares,last,0.2857142857142857
+Who Knows Who Cares,New Year,cares,splash,0.5
+Who Knows Who Cares,New Year,gorilla,new,0
+Who Knows Who Cares,New Year,gorilla,year,0.09090909090909091
+Who Knows Who Cares,New Year,gorilla,last,0.09090909090909091
+Who Knows Who Cares,New Year,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,New Year,manor,new,0
+Who Knows Who Cares,New Year,manor,year,0.125
+Who Knows Who Cares,New Year,manor,last,0.125
+Who Knows Who Cares,New Year,manor,splash,0.1111111111111111
+Who Knows Who Cares,Drivin On 9,knows,last,0.2857142857142857
+Who Knows Who Cares,Drivin On 9,knows,splash,0.375
+Who Knows Who Cares,Drivin On 9,cares,last,0.2857142857142857
+Who Knows Who Cares,Drivin On 9,cares,splash,0.5
+Who Knows Who Cares,Drivin On 9,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Drivin On 9,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Drivin On 9,manor,last,0.125
+Who Knows Who Cares,Drivin On 9,manor,splash,0.1111111111111111
+Who Knows Who Cares,Talk About The Blues,knows,talk,0.26666666666666666
+Who Knows Who Cares,Talk About The Blues,knows,blues,0.26666666666666666
+Who Knows Who Cares,Talk About The Blues,knows,matador,0.14285714285714285
+Who Knows Who Cares,Talk About The Blues,knows,records,0.2857142857142857
+Who Knows Who Cares,Talk About The Blues,knows,anniversary,0.25
+Who Knows Who Cares,Talk About The Blues,knows,anthology,0.10526315789473684
+Who Knows Who Cares,Talk About The Blues,knows,nice,0.1111111111111111
+Who Knows Who Cares,Talk About The Blues,cares,talk,0.26666666666666666
+Who Knows Who Cares,Talk About The Blues,cares,blues,0.26666666666666666
+Who Knows Who Cares,Talk About The Blues,cares,matador,0.14285714285714285
+Who Knows Who Cares,Talk About The Blues,cares,records,0.2857142857142857
+Who Knows Who Cares,Talk About The Blues,cares,anniversary,0.25
+Who Knows Who Cares,Talk About The Blues,cares,anthology,0.10526315789473684
+Who Knows Who Cares,Talk About The Blues,cares,nice,0.1111111111111111
+Who Knows Who Cares,Talk About The Blues,gorilla,talk,0.08695652173913043
+Who Knows Who Cares,Talk About The Blues,gorilla,blues,0.08695652173913043
+Who Knows Who Cares,Talk About The Blues,gorilla,matador,0.48
+Who Knows Who Cares,Talk About The Blues,gorilla,records,0.09090909090909091
+Who Knows Who Cares,Talk About The Blues,gorilla,anniversary,0.08333333333333333
+Who Knows Who Cares,Talk About The Blues,gorilla,anthology,0.2962962962962963
+Who Knows Who Cares,Talk About The Blues,gorilla,nice,0.23076923076923078
+Who Knows Who Cares,Talk About The Blues,manor,talk,0.11764705882352941
+Who Knows Who Cares,Talk About The Blues,manor,blues,0.11764705882352941
+Who Knows Who Cares,Talk About The Blues,manor,matador,0.42105263157894735
+Who Knows Who Cares,Talk About The Blues,manor,records,0.125
+Who Knows Who Cares,Talk About The Blues,manor,anniversary,0.1111111111111111
+Who Knows Who Cares,Talk About The Blues,manor,anthology,0.47619047619047616
+Who Knows Who Cares,Talk About The Blues,manor,nice,0.3
+Who Knows Who Cares,Flipside,knows,last,0.2857142857142857
+Who Knows Who Cares,Flipside,knows,splash,0.375
+Who Knows Who Cares,Flipside,cares,last,0.2857142857142857
+Who Knows Who Cares,Flipside,cares,splash,0.5
+Who Knows Who Cares,Flipside,gorilla,last,0.09090909090909091
+Who Knows Who Cares,Flipside,gorilla,splash,0.08333333333333333
+Who Knows Who Cares,Flipside,manor,last,0.125
+Who Knows Who Cares,Flipside,manor,splash,0.1111111111111111
+Quiet,Cannonball,quiet,cannonball,0.18181818181818182
+Quiet,Cannonball,quiet,cannonball,0.18181818181818182
+Quiet,Cannonball,young,cannonball,0.42105263157894735
+Quiet,Cannonball,young,cannonball,0.42105263157894735
+Quiet,Cannonball,mountain,cannonball,0.35294117647058826
+Quiet,Cannonball,mountain,cannonball,0.35294117647058826
+Quiet,Invisible Man,quiet,invisible,0
+Quiet,Invisible Man,quiet,man,0.23529411764705882
+Quiet,Invisible Man,quiet,last,0.11764705882352941
+Quiet,Invisible Man,quiet,splash,0.10526315789473684
+Quiet,Invisible Man,young,invisible,0
+Quiet,Invisible Man,young,man,0.7058823529411765
+Quiet,Invisible Man,young,last,0.14285714285714285
+Quiet,Invisible Man,young,splash,0.125
+Quiet,Invisible Man,mountain,invisible,0
+Quiet,Invisible Man,mountain,man,0.42857142857142855
+Quiet,Invisible Man,mountain,last,0.16666666666666666
+Quiet,Invisible Man,mountain,splash,0.14285714285714285
+Quiet,No Aloha,quiet,hell,0.23529411764705882
+Quiet,No Aloha,quiet,aloha,0.11764705882352941
+Quiet,No Aloha,quiet,last,0.11764705882352941
+Quiet,No Aloha,quiet,splash,0.10526315789473684
+Quiet,No Aloha,young,hell,0.42857142857142855
+Quiet,No Aloha,young,aloha,0.14285714285714285
+Quiet,No Aloha,young,last,0.14285714285714285
+Quiet,No Aloha,young,splash,0.125
+Quiet,No Aloha,mountain,hell,0.5
+Quiet,No Aloha,mountain,aloha,0.16666666666666666
+Quiet,No Aloha,mountain,last,0.16666666666666666
+Quiet,No Aloha,mountain,splash,0.14285714285714285
+Quiet,Mad Lucas,quiet,mad,0
+Quiet,Mad Lucas,quiet,lucas,0.21052631578947367
+Quiet,Mad Lucas,quiet,last,0.11764705882352941
+Quiet,Mad Lucas,quiet,splash,0.10526315789473684
+Quiet,Mad Lucas,young,mad,0
+Quiet,Mad Lucas,young,lucas,0.631578947368421
+Quiet,Mad Lucas,young,last,0.14285714285714285
+Quiet,Mad Lucas,young,splash,0.125
+Quiet,Mad Lucas,mountain,mad,0
+Quiet,Mad Lucas,mountain,lucas,0.375
+Quiet,Mad Lucas,mountain,last,0.16666666666666666
+Quiet,Mad Lucas,mountain,splash,0.14285714285714285
+Quiet,Roi (reprise),quiet,recovery,0.1
+Quiet,Roi (reprise),quiet,king,0.2222222222222222
+Quiet,Roi (reprise),quiet,last,0.11764705882352941
+Quiet,Roi (reprise),quiet,splash,0.10526315789473684
+Quiet,Roi (reprise),young,recovery,0.11764705882352941
+Quiet,Roi (reprise),young,king,0.6666666666666666
+Quiet,Roi (reprise),young,last,0.14285714285714285
+Quiet,Roi (reprise),young,splash,0.125
+Quiet,Roi (reprise),mountain,recovery,0.13333333333333333
+Quiet,Roi (reprise),mountain,king,0.4
+Quiet,Roi (reprise),mountain,last,0.16666666666666666
+Quiet,Roi (reprise),mountain,splash,0.14285714285714285
+Quiet,Gloomy Sunday,quiet,gloomy,0
+Quiet,Gloomy Sunday,quiet,sunday,0.1
+Quiet,Gloomy Sunday,quiet,south,0.2222222222222222
+Quiet,Gloomy Sunday,young,gloomy,0
+Quiet,Gloomy Sunday,young,sunday,0.11764705882352941
+Quiet,Gloomy Sunday,young,south,0.4
+Quiet,Gloomy Sunday,mountain,gloomy,0
+Quiet,Gloomy Sunday,mountain,sunday,0.13333333333333333
+Quiet,Gloomy Sunday,mountain,south,0.46153846153846156
+Quiet,Roi,quiet,king,0.2222222222222222
+Quiet,Roi,quiet,last,0.11764705882352941
+Quiet,Roi,quiet,splash,0.10526315789473684
+Quiet,Roi,young,king,0.6666666666666666
+Quiet,Roi,young,last,0.14285714285714285
+Quiet,Roi,young,splash,0.125
+Quiet,Roi,mountain,king,0.4
+Quiet,Roi,mountain,last,0.16666666666666666
+Quiet,Roi,mountain,splash,0.14285714285714285
+Quiet,Do You Love Me Now ?,quiet,love,0.1111111111111111
+Quiet,Do You Love Me Now ?,quiet,last,0.11764705882352941
+Quiet,Do You Love Me Now ?,quiet,splash,0.10526315789473684
+Quiet,Do You Love Me Now ?,young,love,0.13333333333333333
+Quiet,Do You Love Me Now ?,young,last,0.14285714285714285
+Quiet,Do You Love Me Now ?,young,splash,0.125
+Quiet,Do You Love Me Now ?,mountain,love,0.15384615384615385
+Quiet,Do You Love Me Now ?,mountain,last,0.16666666666666666
+Quiet,Do You Love Me Now ?,mountain,splash,0.14285714285714285
+Quiet,Hag,quiet,hag,0.21052631578947367
+Quiet,Hag,quiet,last,0.11764705882352941
+Quiet,Hag,quiet,splash,0.10526315789473684
+Quiet,Hag,young,hag,0.631578947368421
+Quiet,Hag,young,last,0.14285714285714285
+Quiet,Hag,young,splash,0.125
+Quiet,Hag,mountain,hag,0.375
+Quiet,Hag,mountain,last,0.16666666666666666
+Quiet,Hag,mountain,splash,0.14285714285714285
+Quiet,Evidence,quiet,evidence,0.11764705882352941
+Quiet,Evidence,quiet,faith,0.1111111111111111
+Quiet,Evidence,quiet,best,0.10526315789473684
+Quiet,Evidence,young,evidence,0.14285714285714285
+Quiet,Evidence,young,faith,0.13333333333333333
+Quiet,Evidence,young,best,0.125
+Quiet,Evidence,mountain,evidence,0.16666666666666666
+Quiet,Evidence,mountain,faith,0.15384615384615385
+Quiet,Evidence,mountain,best,0.14285714285714285
+Quiet,Saints,quiet,saints,0.1
+Quiet,Saints,quiet,last,0.11764705882352941
+Quiet,Saints,quiet,splash,0.10526315789473684
+Quiet,Saints,young,saints,0.11764705882352941
+Quiet,Saints,young,last,0.14285714285714285
+Quiet,Saints,young,splash,0.125
+Quiet,Saints,mountain,saints,0.13333333333333333
+Quiet,Saints,mountain,last,0.16666666666666666
+Quiet,Saints,mountain,splash,0.14285714285714285
+Quiet,S.O.S.,quiet,sos,0.11764705882352941
+Quiet,S.O.S.,quiet,last,0.11764705882352941
+Quiet,S.O.S.,quiet,splash,0.10526315789473684
+Quiet,S.O.S.,young,sos,0.14285714285714285
+Quiet,S.O.S.,young,last,0.14285714285714285
+Quiet,S.O.S.,young,splash,0.125
+Quiet,S.O.S.,mountain,sos,0.16666666666666666
+Quiet,S.O.S.,mountain,last,0.16666666666666666
+Quiet,S.O.S.,mountain,splash,0.14285714285714285
+Quiet,Divine Hammer,quiet,divine,0.1
+Quiet,Divine Hammer,quiet,hammer,0.18181818181818182
+Quiet,Divine Hammer,quiet,last,0.11764705882352941
+Quiet,Divine Hammer,quiet,splash,0.10526315789473684
+Quiet,Divine Hammer,young,divine,0.11764705882352941
+Quiet,Divine Hammer,young,hammer,0.42105263157894735
+Quiet,Divine Hammer,young,last,0.14285714285714285
+Quiet,Divine Hammer,young,splash,0.125
+Quiet,Divine Hammer,mountain,divine,0.13333333333333333
+Quiet,Divine Hammer,mountain,hammer,0.35294117647058826
+Quiet,Divine Hammer,mountain,last,0.16666666666666666
+Quiet,Divine Hammer,mountain,splash,0.14285714285714285
+Quiet,One Step Beyond,quiet,one,0.10526315789473684
+Quiet,One Step Beyond,quiet,step,0.09090909090909091
+Quiet,One Step Beyond,quiet,beyond,0
+Quiet,One Step Beyond,quiet,complete,0
+Quiet,One Step Beyond,quiet,madness,0.1
+Quiet,One Step Beyond,young,one,0.125
+Quiet,One Step Beyond,young,step,0.10526315789473684
+Quiet,One Step Beyond,young,beyond,0
+Quiet,One Step Beyond,young,complete,0
+Quiet,One Step Beyond,young,madness,0.11764705882352941
+Quiet,One Step Beyond,mountain,one,0.14285714285714285
+Quiet,One Step Beyond,mountain,step,0.11764705882352941
+Quiet,One Step Beyond,mountain,beyond,0
+Quiet,One Step Beyond,mountain,complete,0
+Quiet,One Step Beyond,mountain,madness,0.13333333333333333
+Quiet,Ready For The Floor (Album Version),quiet,album,0.21052631578947367
+Quiet,Ready For The Floor (Album Version),quiet,version,0.10526315789473684
+Quiet,Ready For The Floor (Album Version),quiet,ready,0.11764705882352941
+Quiet,Ready For The Floor (Album Version),quiet,floor,0.21052631578947367
+Quiet,Ready For The Floor (Album Version),quiet,best,0.10526315789473684
+Quiet,Ready For The Floor (Album Version),quiet,bands,0.125
+Quiet,Ready For The Floor (Album Version),young,album,0.5
+Quiet,Ready For The Floor (Album Version),young,version,0.125
+Quiet,Ready For The Floor (Album Version),young,ready,0.14285714285714285
+Quiet,Ready For The Floor (Album Version),young,floor,0.5
+Quiet,Ready For The Floor (Album Version),young,best,0.125
+Quiet,Ready For The Floor (Album Version),young,bands,0.15384615384615385
+Quiet,Ready For The Floor (Album Version),mountain,album,0.42857142857142855
+Quiet,Ready For The Floor (Album Version),mountain,version,0.14285714285714285
+Quiet,Ready For The Floor (Album Version),mountain,ready,0.16666666666666666
+Quiet,Ready For The Floor (Album Version),mountain,floor,0.42857142857142855
+Quiet,Ready For The Floor (Album Version),mountain,best,0.14285714285714285
+Quiet,Ready For The Floor (Album Version),mountain,bands,0.18181818181818182
+Quiet,I Just Wanna Get Along,quiet,wan,0.19047619047619047
+Quiet,I Just Wanna Get Along,quiet,na,0.2222222222222222
+Quiet,I Just Wanna Get Along,quiet,get,0.08333333333333333
+Quiet,I Just Wanna Get Along,quiet,along,0
+Quiet,I Just Wanna Get Along,quiet,last,0.11764705882352941
+Quiet,I Just Wanna Get Along,quiet,splash,0.10526315789473684
+Quiet,I Just Wanna Get Along,young,wan,0.4444444444444444
+Quiet,I Just Wanna Get Along,young,na,0.26666666666666666
+Quiet,I Just Wanna Get Along,young,get,0.09523809523809523
+Quiet,I Just Wanna Get Along,young,along,0
+Quiet,I Just Wanna Get Along,young,last,0.14285714285714285
+Quiet,I Just Wanna Get Along,young,splash,0.125
+Quiet,I Just Wanna Get Along,mountain,wan,0.375
+Quiet,I Just Wanna Get Along,mountain,na,0.3076923076923077
+Quiet,I Just Wanna Get Along,mountain,get,0.10526315789473684
+Quiet,I Just Wanna Get Along,mountain,along,0
+Quiet,I Just Wanna Get Along,mountain,last,0.16666666666666666
+Quiet,I Just Wanna Get Along,mountain,splash,0.14285714285714285
+Quiet,New Year,quiet,new,0
+Quiet,New Year,quiet,year,0.11764705882352941
+Quiet,New Year,quiet,last,0.11764705882352941
+Quiet,New Year,quiet,splash,0.10526315789473684
+Quiet,New Year,young,new,0
+Quiet,New Year,young,year,0.14285714285714285
+Quiet,New Year,young,last,0.14285714285714285
+Quiet,New Year,young,splash,0.125
+Quiet,New Year,mountain,new,0
+Quiet,New Year,mountain,year,0.16666666666666666
+Quiet,New Year,mountain,last,0.16666666666666666
+Quiet,New Year,mountain,splash,0.14285714285714285
+Quiet,Drivin On 9,quiet,last,0.11764705882352941
+Quiet,Drivin On 9,quiet,splash,0.10526315789473684
+Quiet,Drivin On 9,young,last,0.14285714285714285
+Quiet,Drivin On 9,young,splash,0.125
+Quiet,Drivin On 9,mountain,last,0.16666666666666666
+Quiet,Drivin On 9,mountain,splash,0.14285714285714285
+Quiet,Talk About The Blues,quiet,talk,0.1111111111111111
+Quiet,Talk About The Blues,quiet,blues,0.1111111111111111
+Quiet,Talk About The Blues,quiet,matador,0.23529411764705882
+Quiet,Talk About The Blues,quiet,records,0.11764705882352941
+Quiet,Talk About The Blues,quiet,anniversary,0.10526315789473684
+Quiet,Talk About The Blues,quiet,anthology,0.18181818181818182
+Quiet,Talk About The Blues,quiet,nice,0.19047619047619047
+Quiet,Talk About The Blues,young,talk,0.13333333333333333
+Quiet,Talk About The Blues,young,blues,0.13333333333333333
+Quiet,Talk About The Blues,young,matador,0.7058823529411765
+Quiet,Talk About The Blues,young,records,0.14285714285714285
+Quiet,Talk About The Blues,young,anniversary,0.125
+Quiet,Talk About The Blues,young,anthology,0.42105263157894735
+Quiet,Talk About The Blues,young,nice,0.3333333333333333
+Quiet,Talk About The Blues,mountain,talk,0.15384615384615385
+Quiet,Talk About The Blues,mountain,blues,0.15384615384615385
+Quiet,Talk About The Blues,mountain,matador,0.42857142857142855
+Quiet,Talk About The Blues,mountain,records,0.16666666666666666
+Quiet,Talk About The Blues,mountain,anniversary,0.14285714285714285
+Quiet,Talk About The Blues,mountain,anthology,0.35294117647058826
+Quiet,Talk About The Blues,mountain,nice,0.375
+Quiet,Flipside,quiet,last,0.11764705882352941
+Quiet,Flipside,quiet,splash,0.10526315789473684
+Quiet,Flipside,young,last,0.14285714285714285
+Quiet,Flipside,young,splash,0.125
+Quiet,Flipside,mountain,last,0.16666666666666666
+Quiet,Flipside,mountain,splash,0.14285714285714285
+Girlfriend,Cannonball,girlfriend,cannonball,0.4
+Girlfriend,Cannonball,girlfriend,cannonball,0.4
+Girlfriend,Cannonball,phoenix,cannonball,0.2727272727272727
+Girlfriend,Cannonball,phoenix,cannonball,0.2727272727272727
+Girlfriend,Invisible Man,girlfriend,invisible,0
+Girlfriend,Invisible Man,girlfriend,man,0.6666666666666666
+Girlfriend,Invisible Man,girlfriend,last,0.16666666666666666
+Girlfriend,Invisible Man,girlfriend,splash,0.14285714285714285
+Girlfriend,Invisible Man,phoenix,invisible,0
+Girlfriend,Invisible Man,phoenix,man,0.3157894736842105
+Girlfriend,Invisible Man,phoenix,last,0.11764705882352941
+Girlfriend,Invisible Man,phoenix,splash,0.10526315789473684
+Girlfriend,No Aloha,girlfriend,hell,0.42857142857142855
+Girlfriend,No Aloha,girlfriend,aloha,0.16666666666666666
+Girlfriend,No Aloha,girlfriend,last,0.16666666666666666
+Girlfriend,No Aloha,girlfriend,splash,0.14285714285714285
+Girlfriend,No Aloha,phoenix,hell,0.47058823529411764
+Girlfriend,No Aloha,phoenix,aloha,0.11764705882352941
+Girlfriend,No Aloha,phoenix,last,0.11764705882352941
+Girlfriend,No Aloha,phoenix,splash,0.10526315789473684
+Girlfriend,Mad Lucas,girlfriend,mad,0
+Girlfriend,Mad Lucas,girlfriend,lucas,0.6
+Girlfriend,Mad Lucas,girlfriend,last,0.16666666666666666
+Girlfriend,Mad Lucas,girlfriend,splash,0.14285714285714285
+Girlfriend,Mad Lucas,phoenix,mad,0
+Girlfriend,Mad Lucas,phoenix,lucas,0.2857142857142857
+Girlfriend,Mad Lucas,phoenix,last,0.11764705882352941
+Girlfriend,Mad Lucas,phoenix,splash,0.10526315789473684
+Girlfriend,Roi (reprise),girlfriend,recovery,0.13333333333333333
+Girlfriend,Roi (reprise),girlfriend,king,0.631578947368421
+Girlfriend,Roi (reprise),girlfriend,last,0.16666666666666666
+Girlfriend,Roi (reprise),girlfriend,splash,0.14285714285714285
+Girlfriend,Roi (reprise),phoenix,recovery,0.1
+Girlfriend,Roi (reprise),phoenix,king,0.3
+Girlfriend,Roi (reprise),phoenix,last,0.11764705882352941
+Girlfriend,Roi (reprise),phoenix,splash,0.10526315789473684
+Girlfriend,Gloomy Sunday,girlfriend,gloomy,0
+Girlfriend,Gloomy Sunday,girlfriend,sunday,0.13333333333333333
+Girlfriend,Gloomy Sunday,girlfriend,south,0.4
+Girlfriend,Gloomy Sunday,phoenix,gloomy,0
+Girlfriend,Gloomy Sunday,phoenix,sunday,0.1
+Girlfriend,Gloomy Sunday,phoenix,south,0.6666666666666666
+Girlfriend,Roi,girlfriend,king,0.631578947368421
+Girlfriend,Roi,girlfriend,last,0.16666666666666666
+Girlfriend,Roi,girlfriend,splash,0.14285714285714285
+Girlfriend,Roi,phoenix,king,0.3
+Girlfriend,Roi,phoenix,last,0.11764705882352941
+Girlfriend,Roi,phoenix,splash,0.10526315789473684
+Girlfriend,Do You Love Me Now ?,girlfriend,love,0.15384615384615385
+Girlfriend,Do You Love Me Now ?,girlfriend,last,0.16666666666666666
+Girlfriend,Do You Love Me Now ?,girlfriend,splash,0.14285714285714285
+Girlfriend,Do You Love Me Now ?,phoenix,love,0.1111111111111111
+Girlfriend,Do You Love Me Now ?,phoenix,last,0.11764705882352941
+Girlfriend,Do You Love Me Now ?,phoenix,splash,0.10526315789473684
+Girlfriend,Hag,girlfriend,hag,0.6
+Girlfriend,Hag,girlfriend,last,0.16666666666666666
+Girlfriend,Hag,girlfriend,splash,0.14285714285714285
+Girlfriend,Hag,phoenix,hag,0.2857142857142857
+Girlfriend,Hag,phoenix,last,0.11764705882352941
+Girlfriend,Hag,phoenix,splash,0.10526315789473684
+Girlfriend,Evidence,girlfriend,evidence,0.16666666666666666
+Girlfriend,Evidence,girlfriend,faith,0.15384615384615385
+Girlfriend,Evidence,girlfriend,best,0.14285714285714285
+Girlfriend,Evidence,phoenix,evidence,0.11764705882352941
+Girlfriend,Evidence,phoenix,faith,0.1111111111111111
+Girlfriend,Evidence,phoenix,best,0.10526315789473684
+Girlfriend,Saints,girlfriend,saints,0.13333333333333333
+Girlfriend,Saints,girlfriend,last,0.16666666666666666
+Girlfriend,Saints,girlfriend,splash,0.14285714285714285
+Girlfriend,Saints,phoenix,saints,0.1
+Girlfriend,Saints,phoenix,last,0.11764705882352941
+Girlfriend,Saints,phoenix,splash,0.10526315789473684
+Girlfriend,S.O.S.,girlfriend,sos,0.16666666666666666
+Girlfriend,S.O.S.,girlfriend,last,0.16666666666666666
+Girlfriend,S.O.S.,girlfriend,splash,0.14285714285714285
+Girlfriend,S.O.S.,phoenix,sos,0.11764705882352941
+Girlfriend,S.O.S.,phoenix,last,0.11764705882352941
+Girlfriend,S.O.S.,phoenix,splash,0.10526315789473684
+Girlfriend,Divine Hammer,girlfriend,divine,0.13333333333333333
+Girlfriend,Divine Hammer,girlfriend,hammer,0.4
+Girlfriend,Divine Hammer,girlfriend,last,0.16666666666666666
+Girlfriend,Divine Hammer,girlfriend,splash,0.14285714285714285
+Girlfriend,Divine Hammer,phoenix,divine,0.1
+Girlfriend,Divine Hammer,phoenix,hammer,0.2727272727272727
+Girlfriend,Divine Hammer,phoenix,last,0.11764705882352941
+Girlfriend,Divine Hammer,phoenix,splash,0.10526315789473684
+Girlfriend,One Step Beyond,girlfriend,one,0.14285714285714285
+Girlfriend,One Step Beyond,girlfriend,step,0.11764705882352941
+Girlfriend,One Step Beyond,girlfriend,beyond,0
+Girlfriend,One Step Beyond,girlfriend,complete,0
+Girlfriend,One Step Beyond,girlfriend,madness,0.13333333333333333
+Girlfriend,One Step Beyond,phoenix,one,0.10526315789473684
+Girlfriend,One Step Beyond,phoenix,step,0.09090909090909091
+Girlfriend,One Step Beyond,phoenix,beyond,0
+Girlfriend,One Step Beyond,phoenix,complete,0
+Girlfriend,One Step Beyond,phoenix,madness,0.1
+Girlfriend,Ready For The Floor (Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,Ready For The Floor (Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,Ready For The Floor (Album Version),girlfriend,ready,0.16666666666666666
+Girlfriend,Ready For The Floor (Album Version),girlfriend,floor,0.47058823529411764
+Girlfriend,Ready For The Floor (Album Version),girlfriend,best,0.14285714285714285
+Girlfriend,Ready For The Floor (Album Version),girlfriend,bands,0.18181818181818182
+Girlfriend,Ready For The Floor (Album Version),phoenix,album,0.3157894736842105
+Girlfriend,Ready For The Floor (Album Version),phoenix,version,0.10526315789473684
+Girlfriend,Ready For The Floor (Album Version),phoenix,ready,0.11764705882352941
+Girlfriend,Ready For The Floor (Album Version),phoenix,floor,0.3157894736842105
+Girlfriend,Ready For The Floor (Album Version),phoenix,best,0.10526315789473684
+Girlfriend,Ready For The Floor (Album Version),phoenix,bands,0.125
+Girlfriend,I Just Wanna Get Along,girlfriend,wan,0.42105263157894735
+Girlfriend,I Just Wanna Get Along,girlfriend,na,0.3076923076923077
+Girlfriend,I Just Wanna Get Along,girlfriend,get,0.10526315789473684
+Girlfriend,I Just Wanna Get Along,girlfriend,along,0
+Girlfriend,I Just Wanna Get Along,girlfriend,last,0.16666666666666666
+Girlfriend,I Just Wanna Get Along,girlfriend,splash,0.14285714285714285
+Girlfriend,I Just Wanna Get Along,phoenix,wan,0.2857142857142857
+Girlfriend,I Just Wanna Get Along,phoenix,na,0.2222222222222222
+Girlfriend,I Just Wanna Get Along,phoenix,get,0.08333333333333333
+Girlfriend,I Just Wanna Get Along,phoenix,along,0
+Girlfriend,I Just Wanna Get Along,phoenix,last,0.11764705882352941
+Girlfriend,I Just Wanna Get Along,phoenix,splash,0.10526315789473684
+Girlfriend,New Year,girlfriend,new,0
+Girlfriend,New Year,girlfriend,year,0.16666666666666666
+Girlfriend,New Year,girlfriend,last,0.16666666666666666
+Girlfriend,New Year,girlfriend,splash,0.14285714285714285
+Girlfriend,New Year,phoenix,new,0
+Girlfriend,New Year,phoenix,year,0.11764705882352941
+Girlfriend,New Year,phoenix,last,0.11764705882352941
+Girlfriend,New Year,phoenix,splash,0.10526315789473684
+Girlfriend,Drivin On 9,girlfriend,last,0.16666666666666666
+Girlfriend,Drivin On 9,girlfriend,splash,0.14285714285714285
+Girlfriend,Drivin On 9,phoenix,last,0.11764705882352941
+Girlfriend,Drivin On 9,phoenix,splash,0.10526315789473684
+Girlfriend,Talk About The Blues,girlfriend,talk,0.15384615384615385
+Girlfriend,Talk About The Blues,girlfriend,blues,0.15384615384615385
+Girlfriend,Talk About The Blues,girlfriend,matador,0.6666666666666666
+Girlfriend,Talk About The Blues,girlfriend,records,0.16666666666666666
+Girlfriend,Talk About The Blues,girlfriend,anniversary,0.14285714285714285
+Girlfriend,Talk About The Blues,girlfriend,anthology,0.4
+Girlfriend,Talk About The Blues,girlfriend,nice,0.3333333333333333
+Girlfriend,Talk About The Blues,phoenix,talk,0.1111111111111111
+Girlfriend,Talk About The Blues,phoenix,blues,0.1111111111111111
+Girlfriend,Talk About The Blues,phoenix,matador,0.3157894736842105
+Girlfriend,Talk About The Blues,phoenix,records,0.11764705882352941
+Girlfriend,Talk About The Blues,phoenix,anniversary,0.10526315789473684
+Girlfriend,Talk About The Blues,phoenix,anthology,0.2727272727272727
+Girlfriend,Talk About The Blues,phoenix,nice,0.8571428571428571
+Girlfriend,Flipside,girlfriend,last,0.16666666666666666
+Girlfriend,Flipside,girlfriend,splash,0.14285714285714285
+Girlfriend,Flipside,phoenix,last,0.11764705882352941
+Girlfriend,Flipside,phoenix,splash,0.10526315789473684
+Happiness: We're All In It Together,Cannonball,together,cannonball,0
+Happiness: We're All In It Together,Cannonball,together,cannonball,0
+Happiness: We're All In It Together,Cannonball,happiness,cannonball,0.10526315789473684
+Happiness: We're All In It Together,Cannonball,happiness,cannonball,0.10526315789473684
+Happiness: We're All In It Together,Cannonball,young,cannonball,0.42105263157894735
+Happiness: We're All In It Together,Cannonball,young,cannonball,0.42105263157894735
+Happiness: We're All In It Together,Cannonball,mountain,cannonball,0.35294117647058826
+Happiness: We're All In It Together,Cannonball,mountain,cannonball,0.35294117647058826
+Happiness: We're All In It Together,Invisible Man,together,invisible,0
+Happiness: We're All In It Together,Invisible Man,together,man,0
+Happiness: We're All In It Together,Invisible Man,together,last,0
+Happiness: We're All In It Together,Invisible Man,together,splash,0
+Happiness: We're All In It Together,Invisible Man,happiness,invisible,0
+Happiness: We're All In It Together,Invisible Man,happiness,man,0.14285714285714285
+Happiness: We're All In It Together,Invisible Man,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Invisible Man,happiness,splash,0.25
+Happiness: We're All In It Together,Invisible Man,young,invisible,0
+Happiness: We're All In It Together,Invisible Man,young,man,0.7058823529411765
+Happiness: We're All In It Together,Invisible Man,young,last,0.14285714285714285
+Happiness: We're All In It Together,Invisible Man,young,splash,0.125
+Happiness: We're All In It Together,Invisible Man,mountain,invisible,0
+Happiness: We're All In It Together,Invisible Man,mountain,man,0.42857142857142855
+Happiness: We're All In It Together,Invisible Man,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Invisible Man,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,No Aloha,together,hell,0
+Happiness: We're All In It Together,No Aloha,together,aloha,0
+Happiness: We're All In It Together,No Aloha,together,last,0
+Happiness: We're All In It Together,No Aloha,together,splash,0
+Happiness: We're All In It Together,No Aloha,happiness,hell,0.14285714285714285
+Happiness: We're All In It Together,No Aloha,happiness,aloha,0.2857142857142857
+Happiness: We're All In It Together,No Aloha,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,No Aloha,happiness,splash,0.25
+Happiness: We're All In It Together,No Aloha,young,hell,0.42857142857142855
+Happiness: We're All In It Together,No Aloha,young,aloha,0.14285714285714285
+Happiness: We're All In It Together,No Aloha,young,last,0.14285714285714285
+Happiness: We're All In It Together,No Aloha,young,splash,0.125
+Happiness: We're All In It Together,No Aloha,mountain,hell,0.5
+Happiness: We're All In It Together,No Aloha,mountain,aloha,0.16666666666666666
+Happiness: We're All In It Together,No Aloha,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,No Aloha,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,Mad Lucas,together,mad,0
+Happiness: We're All In It Together,Mad Lucas,together,lucas,0
+Happiness: We're All In It Together,Mad Lucas,together,last,0
+Happiness: We're All In It Together,Mad Lucas,together,splash,0
+Happiness: We're All In It Together,Mad Lucas,happiness,mad,0
+Happiness: We're All In It Together,Mad Lucas,happiness,lucas,0.125
+Happiness: We're All In It Together,Mad Lucas,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Mad Lucas,happiness,splash,0.25
+Happiness: We're All In It Together,Mad Lucas,young,mad,0
+Happiness: We're All In It Together,Mad Lucas,young,lucas,0.631578947368421
+Happiness: We're All In It Together,Mad Lucas,young,last,0.14285714285714285
+Happiness: We're All In It Together,Mad Lucas,young,splash,0.125
+Happiness: We're All In It Together,Mad Lucas,mountain,mad,0
+Happiness: We're All In It Together,Mad Lucas,mountain,lucas,0.375
+Happiness: We're All In It Together,Mad Lucas,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Mad Lucas,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,Roi (reprise),together,recovery,0
+Happiness: We're All In It Together,Roi (reprise),together,king,0
+Happiness: We're All In It Together,Roi (reprise),together,last,0
+Happiness: We're All In It Together,Roi (reprise),together,splash,0
+Happiness: We're All In It Together,Roi (reprise),happiness,recovery,0.23529411764705882
+Happiness: We're All In It Together,Roi (reprise),happiness,king,0.13333333333333333
+Happiness: We're All In It Together,Roi (reprise),happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Roi (reprise),happiness,splash,0.25
+Happiness: We're All In It Together,Roi (reprise),young,recovery,0.11764705882352941
+Happiness: We're All In It Together,Roi (reprise),young,king,0.6666666666666666
+Happiness: We're All In It Together,Roi (reprise),young,last,0.14285714285714285
+Happiness: We're All In It Together,Roi (reprise),young,splash,0.125
+Happiness: We're All In It Together,Roi (reprise),mountain,recovery,0.13333333333333333
+Happiness: We're All In It Together,Roi (reprise),mountain,king,0.4
+Happiness: We're All In It Together,Roi (reprise),mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Roi (reprise),mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,Gloomy Sunday,together,gloomy,0
+Happiness: We're All In It Together,Gloomy Sunday,together,sunday,0
+Happiness: We're All In It Together,Gloomy Sunday,together,south,0
+Happiness: We're All In It Together,Gloomy Sunday,happiness,gloomy,0
+Happiness: We're All In It Together,Gloomy Sunday,happiness,sunday,0.23529411764705882
+Happiness: We're All In It Together,Gloomy Sunday,happiness,south,0.13333333333333333
+Happiness: We're All In It Together,Gloomy Sunday,young,gloomy,0
+Happiness: We're All In It Together,Gloomy Sunday,young,sunday,0.11764705882352941
+Happiness: We're All In It Together,Gloomy Sunday,young,south,0.4
+Happiness: We're All In It Together,Gloomy Sunday,mountain,gloomy,0
+Happiness: We're All In It Together,Gloomy Sunday,mountain,sunday,0.13333333333333333
+Happiness: We're All In It Together,Gloomy Sunday,mountain,south,0.46153846153846156
+Happiness: We're All In It Together,Roi,together,king,0
+Happiness: We're All In It Together,Roi,together,last,0
+Happiness: We're All In It Together,Roi,together,splash,0
+Happiness: We're All In It Together,Roi,happiness,king,0.13333333333333333
+Happiness: We're All In It Together,Roi,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Roi,happiness,splash,0.25
+Happiness: We're All In It Together,Roi,young,king,0.6666666666666666
+Happiness: We're All In It Together,Roi,young,last,0.14285714285714285
+Happiness: We're All In It Together,Roi,young,splash,0.125
+Happiness: We're All In It Together,Roi,mountain,king,0.4
+Happiness: We're All In It Together,Roi,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Roi,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,Do You Love Me Now ?,together,love,0
+Happiness: We're All In It Together,Do You Love Me Now ?,together,last,0
+Happiness: We're All In It Together,Do You Love Me Now ?,together,splash,0
+Happiness: We're All In It Together,Do You Love Me Now ?,happiness,love,0.8
+Happiness: We're All In It Together,Do You Love Me Now ?,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Do You Love Me Now ?,happiness,splash,0.25
+Happiness: We're All In It Together,Do You Love Me Now ?,young,love,0.13333333333333333
+Happiness: We're All In It Together,Do You Love Me Now ?,young,last,0.14285714285714285
+Happiness: We're All In It Together,Do You Love Me Now ?,young,splash,0.125
+Happiness: We're All In It Together,Do You Love Me Now ?,mountain,love,0.15384615384615385
+Happiness: We're All In It Together,Do You Love Me Now ?,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Do You Love Me Now ?,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,Hag,together,hag,0
+Happiness: We're All In It Together,Hag,together,last,0
+Happiness: We're All In It Together,Hag,together,splash,0
+Happiness: We're All In It Together,Hag,happiness,hag,0.125
+Happiness: We're All In It Together,Hag,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Hag,happiness,splash,0.25
+Happiness: We're All In It Together,Hag,young,hag,0.631578947368421
+Happiness: We're All In It Together,Hag,young,last,0.14285714285714285
+Happiness: We're All In It Together,Hag,young,splash,0.125
+Happiness: We're All In It Together,Hag,mountain,hag,0.375
+Happiness: We're All In It Together,Hag,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Hag,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,Evidence,together,evidence,0
+Happiness: We're All In It Together,Evidence,together,faith,0
+Happiness: We're All In It Together,Evidence,together,best,0
+Happiness: We're All In It Together,Evidence,happiness,evidence,0.2857142857142857
+Happiness: We're All In It Together,Evidence,happiness,faith,0.35294117647058826
+Happiness: We're All In It Together,Evidence,happiness,best,0.25
+Happiness: We're All In It Together,Evidence,young,evidence,0.14285714285714285
+Happiness: We're All In It Together,Evidence,young,faith,0.13333333333333333
+Happiness: We're All In It Together,Evidence,young,best,0.125
+Happiness: We're All In It Together,Evidence,mountain,evidence,0.16666666666666666
+Happiness: We're All In It Together,Evidence,mountain,faith,0.15384615384615385
+Happiness: We're All In It Together,Evidence,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Saints,together,saints,0
+Happiness: We're All In It Together,Saints,together,last,0
+Happiness: We're All In It Together,Saints,together,splash,0
+Happiness: We're All In It Together,Saints,happiness,saints,0.23529411764705882
+Happiness: We're All In It Together,Saints,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Saints,happiness,splash,0.25
+Happiness: We're All In It Together,Saints,young,saints,0.11764705882352941
+Happiness: We're All In It Together,Saints,young,last,0.14285714285714285
+Happiness: We're All In It Together,Saints,young,splash,0.125
+Happiness: We're All In It Together,Saints,mountain,saints,0.13333333333333333
+Happiness: We're All In It Together,Saints,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Saints,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,S.O.S.,together,sos,0
+Happiness: We're All In It Together,S.O.S.,together,last,0
+Happiness: We're All In It Together,S.O.S.,together,splash,0
+Happiness: We're All In It Together,S.O.S.,happiness,sos,0.2857142857142857
+Happiness: We're All In It Together,S.O.S.,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,S.O.S.,happiness,splash,0.25
+Happiness: We're All In It Together,S.O.S.,young,sos,0.14285714285714285
+Happiness: We're All In It Together,S.O.S.,young,last,0.14285714285714285
+Happiness: We're All In It Together,S.O.S.,young,splash,0.125
+Happiness: We're All In It Together,S.O.S.,mountain,sos,0.16666666666666666
+Happiness: We're All In It Together,S.O.S.,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,S.O.S.,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,Divine Hammer,together,divine,0
+Happiness: We're All In It Together,Divine Hammer,together,hammer,0
+Happiness: We're All In It Together,Divine Hammer,together,last,0
+Happiness: We're All In It Together,Divine Hammer,together,splash,0
+Happiness: We're All In It Together,Divine Hammer,happiness,divine,0.23529411764705882
+Happiness: We're All In It Together,Divine Hammer,happiness,hammer,0.10526315789473684
+Happiness: We're All In It Together,Divine Hammer,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Divine Hammer,happiness,splash,0.25
+Happiness: We're All In It Together,Divine Hammer,young,divine,0.11764705882352941
+Happiness: We're All In It Together,Divine Hammer,young,hammer,0.42105263157894735
+Happiness: We're All In It Together,Divine Hammer,young,last,0.14285714285714285
+Happiness: We're All In It Together,Divine Hammer,young,splash,0.125
+Happiness: We're All In It Together,Divine Hammer,mountain,divine,0.13333333333333333
+Happiness: We're All In It Together,Divine Hammer,mountain,hammer,0.35294117647058826
+Happiness: We're All In It Together,Divine Hammer,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Divine Hammer,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,One Step Beyond,together,one,0
+Happiness: We're All In It Together,One Step Beyond,together,step,0
+Happiness: We're All In It Together,One Step Beyond,together,beyond,0
+Happiness: We're All In It Together,One Step Beyond,together,complete,0
+Happiness: We're All In It Together,One Step Beyond,together,madness,0
+Happiness: We're All In It Together,One Step Beyond,happiness,one,0.25
+Happiness: We're All In It Together,One Step Beyond,happiness,step,0.21052631578947367
+Happiness: We're All In It Together,One Step Beyond,happiness,beyond,0
+Happiness: We're All In It Together,One Step Beyond,happiness,complete,0
+Happiness: We're All In It Together,One Step Beyond,happiness,madness,0.47058823529411764
+Happiness: We're All In It Together,One Step Beyond,young,one,0.125
+Happiness: We're All In It Together,One Step Beyond,young,step,0.10526315789473684
+Happiness: We're All In It Together,One Step Beyond,young,beyond,0
+Happiness: We're All In It Together,One Step Beyond,young,complete,0
+Happiness: We're All In It Together,One Step Beyond,young,madness,0.11764705882352941
+Happiness: We're All In It Together,One Step Beyond,mountain,one,0.14285714285714285
+Happiness: We're All In It Together,One Step Beyond,mountain,step,0.11764705882352941
+Happiness: We're All In It Together,One Step Beyond,mountain,beyond,0
+Happiness: We're All In It Together,One Step Beyond,mountain,complete,0
+Happiness: We're All In It Together,One Step Beyond,mountain,madness,0.13333333333333333
+Happiness: We're All In It Together,Ready For The Floor (Album Version),together,album,0
+Happiness: We're All In It Together,Ready For The Floor (Album Version),together,version,0
+Happiness: We're All In It Together,Ready For The Floor (Album Version),together,ready,0
+Happiness: We're All In It Together,Ready For The Floor (Album Version),together,floor,0
+Happiness: We're All In It Together,Ready For The Floor (Album Version),together,best,0
+Happiness: We're All In It Together,Ready For The Floor (Album Version),together,bands,0
+Happiness: We're All In It Together,Ready For The Floor (Album Version),happiness,album,0.125
+Happiness: We're All In It Together,Ready For The Floor (Album Version),happiness,version,0.25
+Happiness: We're All In It Together,Ready For The Floor (Album Version),happiness,ready,0.5714285714285714
+Happiness: We're All In It Together,Ready For The Floor (Album Version),happiness,floor,0.125
+Happiness: We're All In It Together,Ready For The Floor (Album Version),happiness,best,0.25
+Happiness: We're All In It Together,Ready For The Floor (Album Version),happiness,bands,0.3076923076923077
+Happiness: We're All In It Together,Ready For The Floor (Album Version),young,album,0.5
+Happiness: We're All In It Together,Ready For The Floor (Album Version),young,version,0.125
+Happiness: We're All In It Together,Ready For The Floor (Album Version),young,ready,0.14285714285714285
+Happiness: We're All In It Together,Ready For The Floor (Album Version),young,floor,0.5
+Happiness: We're All In It Together,Ready For The Floor (Album Version),young,best,0.125
+Happiness: We're All In It Together,Ready For The Floor (Album Version),young,bands,0.15384615384615385
+Happiness: We're All In It Together,Ready For The Floor (Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,Ready For The Floor (Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Ready For The Floor (Album Version),mountain,ready,0.16666666666666666
+Happiness: We're All In It Together,Ready For The Floor (Album Version),mountain,floor,0.42857142857142855
+Happiness: We're All In It Together,Ready For The Floor (Album Version),mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Ready For The Floor (Album Version),mountain,bands,0.18181818181818182
+Happiness: We're All In It Together,I Just Wanna Get Along,together,wan,0
+Happiness: We're All In It Together,I Just Wanna Get Along,together,na,0
+Happiness: We're All In It Together,I Just Wanna Get Along,together,get,0
+Happiness: We're All In It Together,I Just Wanna Get Along,together,along,0
+Happiness: We're All In It Together,I Just Wanna Get Along,together,last,0
+Happiness: We're All In It Together,I Just Wanna Get Along,together,splash,0
+Happiness: We're All In It Together,I Just Wanna Get Along,happiness,wan,0.1111111111111111
+Happiness: We're All In It Together,I Just Wanna Get Along,happiness,na,0.25
+Happiness: We're All In It Together,I Just Wanna Get Along,happiness,get,0.19047619047619047
+Happiness: We're All In It Together,I Just Wanna Get Along,happiness,along,0
+Happiness: We're All In It Together,I Just Wanna Get Along,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,I Just Wanna Get Along,happiness,splash,0.25
+Happiness: We're All In It Together,I Just Wanna Get Along,young,wan,0.4444444444444444
+Happiness: We're All In It Together,I Just Wanna Get Along,young,na,0.26666666666666666
+Happiness: We're All In It Together,I Just Wanna Get Along,young,get,0.09523809523809523
+Happiness: We're All In It Together,I Just Wanna Get Along,young,along,0
+Happiness: We're All In It Together,I Just Wanna Get Along,young,last,0.14285714285714285
+Happiness: We're All In It Together,I Just Wanna Get Along,young,splash,0.125
+Happiness: We're All In It Together,I Just Wanna Get Along,mountain,wan,0.375
+Happiness: We're All In It Together,I Just Wanna Get Along,mountain,na,0.3076923076923077
+Happiness: We're All In It Together,I Just Wanna Get Along,mountain,get,0.10526315789473684
+Happiness: We're All In It Together,I Just Wanna Get Along,mountain,along,0
+Happiness: We're All In It Together,I Just Wanna Get Along,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,I Just Wanna Get Along,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,New Year,together,new,0
+Happiness: We're All In It Together,New Year,together,year,0
+Happiness: We're All In It Together,New Year,together,last,0
+Happiness: We're All In It Together,New Year,together,splash,0
+Happiness: We're All In It Together,New Year,happiness,new,0
+Happiness: We're All In It Together,New Year,happiness,year,0.2857142857142857
+Happiness: We're All In It Together,New Year,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,New Year,happiness,splash,0.25
+Happiness: We're All In It Together,New Year,young,new,0
+Happiness: We're All In It Together,New Year,young,year,0.14285714285714285
+Happiness: We're All In It Together,New Year,young,last,0.14285714285714285
+Happiness: We're All In It Together,New Year,young,splash,0.125
+Happiness: We're All In It Together,New Year,mountain,new,0
+Happiness: We're All In It Together,New Year,mountain,year,0.16666666666666666
+Happiness: We're All In It Together,New Year,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,New Year,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,Drivin On 9,together,last,0
+Happiness: We're All In It Together,Drivin On 9,together,splash,0
+Happiness: We're All In It Together,Drivin On 9,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Drivin On 9,happiness,splash,0.25
+Happiness: We're All In It Together,Drivin On 9,young,last,0.14285714285714285
+Happiness: We're All In It Together,Drivin On 9,young,splash,0.125
+Happiness: We're All In It Together,Drivin On 9,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Drivin On 9,mountain,splash,0.14285714285714285
+Happiness: We're All In It Together,Talk About The Blues,together,talk,0
+Happiness: We're All In It Together,Talk About The Blues,together,blues,0
+Happiness: We're All In It Together,Talk About The Blues,together,matador,0
+Happiness: We're All In It Together,Talk About The Blues,together,records,0
+Happiness: We're All In It Together,Talk About The Blues,together,anniversary,0
+Happiness: We're All In It Together,Talk About The Blues,together,anthology,0
+Happiness: We're All In It Together,Talk About The Blues,together,nice,0
+Happiness: We're All In It Together,Talk About The Blues,happiness,talk,0.26666666666666666
+Happiness: We're All In It Together,Talk About The Blues,happiness,blues,0.26666666666666666
+Happiness: We're All In It Together,Talk About The Blues,happiness,matador,0.14285714285714285
+Happiness: We're All In It Together,Talk About The Blues,happiness,records,0.2857142857142857
+Happiness: We're All In It Together,Talk About The Blues,happiness,anniversary,0.25
+Happiness: We're All In It Together,Talk About The Blues,happiness,anthology,0.10526315789473684
+Happiness: We're All In It Together,Talk About The Blues,happiness,nice,0.1111111111111111
+Happiness: We're All In It Together,Talk About The Blues,young,talk,0.13333333333333333
+Happiness: We're All In It Together,Talk About The Blues,young,blues,0.13333333333333333
+Happiness: We're All In It Together,Talk About The Blues,young,matador,0.7058823529411765
+Happiness: We're All In It Together,Talk About The Blues,young,records,0.14285714285714285
+Happiness: We're All In It Together,Talk About The Blues,young,anniversary,0.125
+Happiness: We're All In It Together,Talk About The Blues,young,anthology,0.42105263157894735
+Happiness: We're All In It Together,Talk About The Blues,young,nice,0.3333333333333333
+Happiness: We're All In It Together,Talk About The Blues,mountain,talk,0.15384615384615385
+Happiness: We're All In It Together,Talk About The Blues,mountain,blues,0.15384615384615385
+Happiness: We're All In It Together,Talk About The Blues,mountain,matador,0.42857142857142855
+Happiness: We're All In It Together,Talk About The Blues,mountain,records,0.16666666666666666
+Happiness: We're All In It Together,Talk About The Blues,mountain,anniversary,0.14285714285714285
+Happiness: We're All In It Together,Talk About The Blues,mountain,anthology,0.35294117647058826
+Happiness: We're All In It Together,Talk About The Blues,mountain,nice,0.375
+Happiness: We're All In It Together,Flipside,together,last,0
+Happiness: We're All In It Together,Flipside,together,splash,0
+Happiness: We're All In It Together,Flipside,happiness,last,0.2857142857142857
+Happiness: We're All In It Together,Flipside,happiness,splash,0.25
+Happiness: We're All In It Together,Flipside,young,last,0.14285714285714285
+Happiness: We're All In It Together,Flipside,young,splash,0.125
+Happiness: We're All In It Together,Flipside,mountain,last,0.16666666666666666
+Happiness: We're All In It Together,Flipside,mountain,splash,0.14285714285714285
+Armistice,Cannonball,armistice,cannonball,0.1111111111111111
+Armistice,Cannonball,armistice,cannonball,0.1111111111111111
+Armistice,Cannonball,phoenix,cannonball,0.2727272727272727
+Armistice,Cannonball,phoenix,cannonball,0.2727272727272727
+Armistice,Invisible Man,armistice,invisible,0
+Armistice,Invisible Man,armistice,man,0.15384615384615385
+Armistice,Invisible Man,armistice,last,0.3076923076923077
+Armistice,Invisible Man,armistice,splash,0.26666666666666666
+Armistice,Invisible Man,phoenix,invisible,0
+Armistice,Invisible Man,phoenix,man,0.3157894736842105
+Armistice,Invisible Man,phoenix,last,0.11764705882352941
+Armistice,Invisible Man,phoenix,splash,0.10526315789473684
+Armistice,No Aloha,armistice,hell,0.15384615384615385
+Armistice,No Aloha,armistice,aloha,0.3076923076923077
+Armistice,No Aloha,armistice,last,0.3076923076923077
+Armistice,No Aloha,armistice,splash,0.26666666666666666
+Armistice,No Aloha,phoenix,hell,0.47058823529411764
+Armistice,No Aloha,phoenix,aloha,0.11764705882352941
+Armistice,No Aloha,phoenix,last,0.11764705882352941
+Armistice,No Aloha,phoenix,splash,0.10526315789473684
+Armistice,Mad Lucas,armistice,mad,0
+Armistice,Mad Lucas,armistice,lucas,0.13333333333333333
+Armistice,Mad Lucas,armistice,last,0.3076923076923077
+Armistice,Mad Lucas,armistice,splash,0.26666666666666666
+Armistice,Mad Lucas,phoenix,mad,0
+Armistice,Mad Lucas,phoenix,lucas,0.2857142857142857
+Armistice,Mad Lucas,phoenix,last,0.11764705882352941
+Armistice,Mad Lucas,phoenix,splash,0.10526315789473684
+Armistice,Roi (reprise),armistice,recovery,0.25
+Armistice,Roi (reprise),armistice,king,0.14285714285714285
+Armistice,Roi (reprise),armistice,last,0.3076923076923077
+Armistice,Roi (reprise),armistice,splash,0.26666666666666666
+Armistice,Roi (reprise),phoenix,recovery,0.1
+Armistice,Roi (reprise),phoenix,king,0.3
+Armistice,Roi (reprise),phoenix,last,0.11764705882352941
+Armistice,Roi (reprise),phoenix,splash,0.10526315789473684
+Armistice,Gloomy Sunday,armistice,gloomy,0
+Armistice,Gloomy Sunday,armistice,sunday,0.25
+Armistice,Gloomy Sunday,armistice,south,0.14285714285714285
+Armistice,Gloomy Sunday,phoenix,gloomy,0
+Armistice,Gloomy Sunday,phoenix,sunday,0.1
+Armistice,Gloomy Sunday,phoenix,south,0.6666666666666666
+Armistice,Roi,armistice,king,0.14285714285714285
+Armistice,Roi,armistice,last,0.3076923076923077
+Armistice,Roi,armistice,splash,0.26666666666666666
+Armistice,Roi,phoenix,king,0.3
+Armistice,Roi,phoenix,last,0.11764705882352941
+Armistice,Roi,phoenix,splash,0.10526315789473684
+Armistice,Do You Love Me Now ?,armistice,love,0.5714285714285714
+Armistice,Do You Love Me Now ?,armistice,last,0.3076923076923077
+Armistice,Do You Love Me Now ?,armistice,splash,0.26666666666666666
+Armistice,Do You Love Me Now ?,phoenix,love,0.1111111111111111
+Armistice,Do You Love Me Now ?,phoenix,last,0.11764705882352941
+Armistice,Do You Love Me Now ?,phoenix,splash,0.10526315789473684
+Armistice,Hag,armistice,hag,0.13333333333333333
+Armistice,Hag,armistice,last,0.3076923076923077
+Armistice,Hag,armistice,splash,0.26666666666666666
+Armistice,Hag,phoenix,hag,0.2857142857142857
+Armistice,Hag,phoenix,last,0.11764705882352941
+Armistice,Hag,phoenix,splash,0.10526315789473684
+Armistice,Evidence,armistice,evidence,0.3076923076923077
+Armistice,Evidence,armistice,faith,0.375
+Armistice,Evidence,armistice,best,0.26666666666666666
+Armistice,Evidence,phoenix,evidence,0.11764705882352941
+Armistice,Evidence,phoenix,faith,0.1111111111111111
+Armistice,Evidence,phoenix,best,0.10526315789473684
+Armistice,Saints,armistice,saints,0.25
+Armistice,Saints,armistice,last,0.3076923076923077
+Armistice,Saints,armistice,splash,0.26666666666666666
+Armistice,Saints,phoenix,saints,0.1
+Armistice,Saints,phoenix,last,0.11764705882352941
+Armistice,Saints,phoenix,splash,0.10526315789473684
+Armistice,S.O.S.,armistice,sos,0.3076923076923077
+Armistice,S.O.S.,armistice,last,0.3076923076923077
+Armistice,S.O.S.,armistice,splash,0.26666666666666666
+Armistice,S.O.S.,phoenix,sos,0.11764705882352941
+Armistice,S.O.S.,phoenix,last,0.11764705882352941
+Armistice,S.O.S.,phoenix,splash,0.10526315789473684
+Armistice,Divine Hammer,armistice,divine,0.25
+Armistice,Divine Hammer,armistice,hammer,0.1111111111111111
+Armistice,Divine Hammer,armistice,last,0.3076923076923077
+Armistice,Divine Hammer,armistice,splash,0.26666666666666666
+Armistice,Divine Hammer,phoenix,divine,0.1
+Armistice,Divine Hammer,phoenix,hammer,0.2727272727272727
+Armistice,Divine Hammer,phoenix,last,0.11764705882352941
+Armistice,Divine Hammer,phoenix,splash,0.10526315789473684
+Armistice,One Step Beyond,armistice,one,0.26666666666666666
+Armistice,One Step Beyond,armistice,step,0.2222222222222222
+Armistice,One Step Beyond,armistice,beyond,0
+Armistice,One Step Beyond,armistice,complete,0
+Armistice,One Step Beyond,armistice,madness,0.5
+Armistice,One Step Beyond,phoenix,one,0.10526315789473684
+Armistice,One Step Beyond,phoenix,step,0.09090909090909091
+Armistice,One Step Beyond,phoenix,beyond,0
+Armistice,One Step Beyond,phoenix,complete,0
+Armistice,One Step Beyond,phoenix,madness,0.1
+Armistice,Ready For The Floor (Album Version),armistice,album,0.13333333333333333
+Armistice,Ready For The Floor (Album Version),armistice,version,0.26666666666666666
+Armistice,Ready For The Floor (Album Version),armistice,ready,0.6153846153846154
+Armistice,Ready For The Floor (Album Version),armistice,floor,0.13333333333333333
+Armistice,Ready For The Floor (Album Version),armistice,best,0.26666666666666666
+Armistice,Ready For The Floor (Album Version),armistice,bands,0.3333333333333333
+Armistice,Ready For The Floor (Album Version),phoenix,album,0.3157894736842105
+Armistice,Ready For The Floor (Album Version),phoenix,version,0.10526315789473684
+Armistice,Ready For The Floor (Album Version),phoenix,ready,0.11764705882352941
+Armistice,Ready For The Floor (Album Version),phoenix,floor,0.3157894736842105
+Armistice,Ready For The Floor (Album Version),phoenix,best,0.10526315789473684
+Armistice,Ready For The Floor (Album Version),phoenix,bands,0.125
+Armistice,I Just Wanna Get Along,armistice,wan,0.11764705882352941
+Armistice,I Just Wanna Get Along,armistice,na,0.26666666666666666
+Armistice,I Just Wanna Get Along,armistice,get,0.2
+Armistice,I Just Wanna Get Along,armistice,along,0
+Armistice,I Just Wanna Get Along,armistice,last,0.3076923076923077
+Armistice,I Just Wanna Get Along,armistice,splash,0.26666666666666666
+Armistice,I Just Wanna Get Along,phoenix,wan,0.2857142857142857
+Armistice,I Just Wanna Get Along,phoenix,na,0.2222222222222222
+Armistice,I Just Wanna Get Along,phoenix,get,0.08333333333333333
+Armistice,I Just Wanna Get Along,phoenix,along,0
+Armistice,I Just Wanna Get Along,phoenix,last,0.11764705882352941
+Armistice,I Just Wanna Get Along,phoenix,splash,0.10526315789473684
+Armistice,New Year,armistice,new,0
+Armistice,New Year,armistice,year,0.3076923076923077
+Armistice,New Year,armistice,last,0.3076923076923077
+Armistice,New Year,armistice,splash,0.26666666666666666
+Armistice,New Year,phoenix,new,0
+Armistice,New Year,phoenix,year,0.11764705882352941
+Armistice,New Year,phoenix,last,0.11764705882352941
+Armistice,New Year,phoenix,splash,0.10526315789473684
+Armistice,Drivin On 9,armistice,last,0.3076923076923077
+Armistice,Drivin On 9,armistice,splash,0.26666666666666666
+Armistice,Drivin On 9,phoenix,last,0.11764705882352941
+Armistice,Drivin On 9,phoenix,splash,0.10526315789473684
+Armistice,Talk About The Blues,armistice,talk,0.2857142857142857
+Armistice,Talk About The Blues,armistice,blues,0.2857142857142857
+Armistice,Talk About The Blues,armistice,matador,0.15384615384615385
+Armistice,Talk About The Blues,armistice,records,0.3076923076923077
+Armistice,Talk About The Blues,armistice,anniversary,0.26666666666666666
+Armistice,Talk About The Blues,armistice,anthology,0.1111111111111111
+Armistice,Talk About The Blues,armistice,nice,0.11764705882352941
+Armistice,Talk About The Blues,phoenix,talk,0.1111111111111111
+Armistice,Talk About The Blues,phoenix,blues,0.1111111111111111
+Armistice,Talk About The Blues,phoenix,matador,0.3157894736842105
+Armistice,Talk About The Blues,phoenix,records,0.11764705882352941
+Armistice,Talk About The Blues,phoenix,anniversary,0.10526315789473684
+Armistice,Talk About The Blues,phoenix,anthology,0.2727272727272727
+Armistice,Talk About The Blues,phoenix,nice,0.8571428571428571
+Armistice,Flipside,armistice,last,0.3076923076923077
+Armistice,Flipside,armistice,splash,0.26666666666666666
+Armistice,Flipside,phoenix,last,0.11764705882352941
+Armistice,Flipside,phoenix,splash,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Cannonball,remedies,cannonball,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Cannonball,remedies,cannonball,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Cannonball,worse,cannonball,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Cannonball,worse,cannonball,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Cannonball,disease,cannonball,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Cannonball,disease,cannonball,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Cannonball,young,cannonball,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Cannonball,young,cannonball,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Cannonball,mountain,cannonball,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Cannonball,mountain,cannonball,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Invisible Man,remedies,invisible,0
+There Are Some Remedies Worse Than The Disease,Invisible Man,remedies,man,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Invisible Man,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Invisible Man,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Invisible Man,worse,invisible,0
+There Are Some Remedies Worse Than The Disease,Invisible Man,worse,man,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Invisible Man,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Invisible Man,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Invisible Man,disease,invisible,0
+There Are Some Remedies Worse Than The Disease,Invisible Man,disease,man,0.125
+There Are Some Remedies Worse Than The Disease,Invisible Man,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Invisible Man,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Invisible Man,young,invisible,0
+There Are Some Remedies Worse Than The Disease,Invisible Man,young,man,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Invisible Man,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Invisible Man,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Invisible Man,mountain,invisible,0
+There Are Some Remedies Worse Than The Disease,Invisible Man,mountain,man,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Invisible Man,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Invisible Man,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,No Aloha,remedies,hell,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,No Aloha,remedies,aloha,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,No Aloha,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,No Aloha,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,No Aloha,worse,hell,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,No Aloha,worse,aloha,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,No Aloha,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,No Aloha,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,No Aloha,disease,hell,0.125
+There Are Some Remedies Worse Than The Disease,No Aloha,disease,aloha,0.25
+There Are Some Remedies Worse Than The Disease,No Aloha,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,No Aloha,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,No Aloha,young,hell,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,No Aloha,young,aloha,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,No Aloha,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,No Aloha,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,No Aloha,mountain,hell,0.5
+There Are Some Remedies Worse Than The Disease,No Aloha,mountain,aloha,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,No Aloha,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,No Aloha,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Mad Lucas,remedies,mad,0
+There Are Some Remedies Worse Than The Disease,Mad Lucas,remedies,lucas,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Mad Lucas,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Mad Lucas,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Mad Lucas,worse,mad,0
+There Are Some Remedies Worse Than The Disease,Mad Lucas,worse,lucas,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Mad Lucas,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Mad Lucas,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Mad Lucas,disease,mad,0
+There Are Some Remedies Worse Than The Disease,Mad Lucas,disease,lucas,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Mad Lucas,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Mad Lucas,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Mad Lucas,young,mad,0
+There Are Some Remedies Worse Than The Disease,Mad Lucas,young,lucas,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Mad Lucas,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Mad Lucas,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Mad Lucas,mountain,mad,0
+There Are Some Remedies Worse Than The Disease,Mad Lucas,mountain,lucas,0.375
+There Are Some Remedies Worse Than The Disease,Mad Lucas,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Mad Lucas,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Roi (reprise),remedies,recovery,0.4
+There Are Some Remedies Worse Than The Disease,Roi (reprise),remedies,king,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Roi (reprise),remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Roi (reprise),remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Roi (reprise),worse,recovery,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Roi (reprise),worse,king,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Roi (reprise),worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Roi (reprise),worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Roi (reprise),disease,recovery,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Roi (reprise),disease,king,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Roi (reprise),disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Roi (reprise),disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Roi (reprise),young,recovery,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Roi (reprise),young,king,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Roi (reprise),young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Roi (reprise),young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Roi (reprise),mountain,recovery,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Roi (reprise),mountain,king,0.4
+There Are Some Remedies Worse Than The Disease,Roi (reprise),mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Roi (reprise),mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,remedies,gloomy,0
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,remedies,sunday,0.2
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,remedies,south,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,worse,gloomy,0
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,worse,sunday,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,worse,south,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,disease,gloomy,0
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,disease,sunday,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,disease,south,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,young,gloomy,0
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,young,sunday,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,young,south,0.4
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,mountain,gloomy,0
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,mountain,sunday,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Gloomy Sunday,mountain,south,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Roi,remedies,king,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Roi,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Roi,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Roi,worse,king,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Roi,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Roi,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Roi,disease,king,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Roi,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Roi,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Roi,young,king,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Roi,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Roi,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Roi,mountain,king,0.4
+There Are Some Remedies Worse Than The Disease,Roi,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Roi,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,remedies,love,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,worse,love,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,disease,love,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,young,love,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,mountain,love,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Do You Love Me Now ?,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Hag,remedies,hag,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Hag,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Hag,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Hag,worse,hag,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Hag,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Hag,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Hag,disease,hag,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Hag,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Hag,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Hag,young,hag,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Hag,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Hag,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Hag,mountain,hag,0.375
+There Are Some Remedies Worse Than The Disease,Hag,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Hag,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Evidence,remedies,evidence,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Evidence,remedies,faith,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Evidence,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Evidence,worse,evidence,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Evidence,worse,faith,0.5
+There Are Some Remedies Worse Than The Disease,Evidence,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Evidence,disease,evidence,0.25
+There Are Some Remedies Worse Than The Disease,Evidence,disease,faith,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Evidence,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Evidence,young,evidence,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Evidence,young,faith,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Evidence,young,best,0.125
+There Are Some Remedies Worse Than The Disease,Evidence,mountain,evidence,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Evidence,mountain,faith,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Evidence,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Saints,remedies,saints,0.3
+There Are Some Remedies Worse Than The Disease,Saints,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Saints,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Saints,worse,saints,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Saints,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Saints,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Saints,disease,saints,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Saints,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Saints,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Saints,young,saints,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Saints,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Saints,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Saints,mountain,saints,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Saints,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Saints,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,S.O.S.,remedies,sos,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,S.O.S.,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,S.O.S.,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,S.O.S.,worse,sos,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,S.O.S.,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,S.O.S.,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,S.O.S.,disease,sos,0.25
+There Are Some Remedies Worse Than The Disease,S.O.S.,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,S.O.S.,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,S.O.S.,young,sos,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,S.O.S.,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,S.O.S.,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,S.O.S.,mountain,sos,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,S.O.S.,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,S.O.S.,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Divine Hammer,remedies,divine,0.3
+There Are Some Remedies Worse Than The Disease,Divine Hammer,remedies,hammer,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Divine Hammer,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Divine Hammer,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Divine Hammer,worse,divine,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Divine Hammer,worse,hammer,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Divine Hammer,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Divine Hammer,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Divine Hammer,disease,divine,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Divine Hammer,disease,hammer,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Divine Hammer,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Divine Hammer,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Divine Hammer,young,divine,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Divine Hammer,young,hammer,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Divine Hammer,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Divine Hammer,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Divine Hammer,mountain,divine,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Divine Hammer,mountain,hammer,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Divine Hammer,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Divine Hammer,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,One Step Beyond,remedies,one,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,One Step Beyond,remedies,step,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,One Step Beyond,remedies,beyond,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,remedies,complete,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,remedies,madness,0.2
+There Are Some Remedies Worse Than The Disease,One Step Beyond,worse,one,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,One Step Beyond,worse,step,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,One Step Beyond,worse,beyond,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,worse,complete,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,worse,madness,0.4
+There Are Some Remedies Worse Than The Disease,One Step Beyond,disease,one,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,One Step Beyond,disease,step,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,One Step Beyond,disease,beyond,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,disease,complete,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,disease,madness,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,One Step Beyond,young,one,0.125
+There Are Some Remedies Worse Than The Disease,One Step Beyond,young,step,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,One Step Beyond,young,beyond,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,young,complete,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,young,madness,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,One Step Beyond,mountain,one,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,One Step Beyond,mountain,step,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,One Step Beyond,mountain,beyond,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,mountain,complete,0
+There Are Some Remedies Worse Than The Disease,One Step Beyond,mountain,madness,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),remedies,ready,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),remedies,floor,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),remedies,bands,0.25
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),worse,ready,0.5
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),worse,floor,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),worse,bands,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),disease,ready,0.5
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),disease,floor,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),disease,bands,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),young,ready,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),young,floor,0.5
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),young,best,0.125
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),young,bands,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),mountain,ready,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),mountain,floor,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Ready For The Floor (Album Version),mountain,bands,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,remedies,wan,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,remedies,na,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,remedies,get,0.5833333333333334
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,remedies,along,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,worse,wan,0.125
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,worse,na,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,worse,get,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,worse,along,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,disease,wan,0.1
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,disease,na,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,disease,get,0.17391304347826086
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,disease,along,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,young,wan,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,young,na,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,young,get,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,young,along,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,mountain,wan,0.375
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,mountain,na,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,mountain,get,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,mountain,along,0
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,I Just Wanna Get Along,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,New Year,remedies,new,0
+There Are Some Remedies Worse Than The Disease,New Year,remedies,year,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,New Year,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,New Year,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,New Year,worse,new,0
+There Are Some Remedies Worse Than The Disease,New Year,worse,year,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,New Year,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,New Year,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,New Year,disease,new,0
+There Are Some Remedies Worse Than The Disease,New Year,disease,year,0.25
+There Are Some Remedies Worse Than The Disease,New Year,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,New Year,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,New Year,young,new,0
+There Are Some Remedies Worse Than The Disease,New Year,young,year,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,New Year,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,New Year,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,New Year,mountain,new,0
+There Are Some Remedies Worse Than The Disease,New Year,mountain,year,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,New Year,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,New Year,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Drivin On 9,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Drivin On 9,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Drivin On 9,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Drivin On 9,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Drivin On 9,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Drivin On 9,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Drivin On 9,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Drivin On 9,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Drivin On 9,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Drivin On 9,mountain,splash,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,remedies,talk,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,remedies,blues,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,remedies,matador,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,remedies,records,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,remedies,anniversary,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,remedies,anthology,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,remedies,nice,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,worse,talk,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,worse,blues,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,worse,matador,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,worse,records,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,worse,anniversary,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,worse,anthology,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,worse,nice,0.125
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,disease,talk,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,disease,blues,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,disease,matador,0.125
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,disease,records,0.25
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,disease,anniversary,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,disease,anthology,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,disease,nice,0.1
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,young,talk,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,young,blues,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,young,matador,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,young,records,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,young,anniversary,0.125
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,young,anthology,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,young,nice,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,mountain,talk,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,mountain,blues,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,mountain,matador,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,mountain,records,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,mountain,anniversary,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,mountain,anthology,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Talk About The Blues,mountain,nice,0.375
+There Are Some Remedies Worse Than The Disease,Flipside,remedies,last,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Flipside,remedies,splash,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Flipside,worse,last,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Flipside,worse,splash,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Flipside,disease,last,0.25
+There Are Some Remedies Worse Than The Disease,Flipside,disease,splash,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Flipside,young,last,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Flipside,young,splash,0.125
+There Are Some Remedies Worse Than The Disease,Flipside,mountain,last,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Flipside,mountain,splash,0.14285714285714285
+Swimming In The Flood,Cannonball,swimming,cannonball,0.09523809523809523
+Swimming In The Flood,Cannonball,swimming,cannonball,0.09523809523809523
+Swimming In The Flood,Cannonball,flood,cannonball,0.2222222222222222
+Swimming In The Flood,Cannonball,flood,cannonball,0.2222222222222222
+Swimming In The Flood,Cannonball,manners,cannonball,0.11764705882352941
+Swimming In The Flood,Cannonball,manners,cannonball,0.11764705882352941
+Swimming In The Flood,Invisible Man,swimming,invisible,0
+Swimming In The Flood,Invisible Man,swimming,man,0.125
+Swimming In The Flood,Invisible Man,swimming,last,0.25
+Swimming In The Flood,Invisible Man,swimming,splash,0.4444444444444444
+Swimming In The Flood,Invisible Man,flood,invisible,0
+Swimming In The Flood,Invisible Man,flood,man,0.3076923076923077
+Swimming In The Flood,Invisible Man,flood,last,0.15384615384615385
+Swimming In The Flood,Invisible Man,flood,splash,0.13333333333333333
+Swimming In The Flood,Invisible Man,manners,invisible,0
+Swimming In The Flood,Invisible Man,manners,man,0.16666666666666666
+Swimming In The Flood,Invisible Man,manners,last,0.3333333333333333
+Swimming In The Flood,Invisible Man,manners,splash,0.2857142857142857
+Swimming In The Flood,No Aloha,swimming,hell,0.125
+Swimming In The Flood,No Aloha,swimming,aloha,0.25
+Swimming In The Flood,No Aloha,swimming,last,0.25
+Swimming In The Flood,No Aloha,swimming,splash,0.4444444444444444
+Swimming In The Flood,No Aloha,flood,hell,0.3076923076923077
+Swimming In The Flood,No Aloha,flood,aloha,0.15384615384615385
+Swimming In The Flood,No Aloha,flood,last,0.15384615384615385
+Swimming In The Flood,No Aloha,flood,splash,0.13333333333333333
+Swimming In The Flood,No Aloha,manners,hell,0.16666666666666666
+Swimming In The Flood,No Aloha,manners,aloha,0.3333333333333333
+Swimming In The Flood,No Aloha,manners,last,0.3333333333333333
+Swimming In The Flood,No Aloha,manners,splash,0.2857142857142857
+Swimming In The Flood,Mad Lucas,swimming,mad,0
+Swimming In The Flood,Mad Lucas,swimming,lucas,0.1111111111111111
+Swimming In The Flood,Mad Lucas,swimming,last,0.25
+Swimming In The Flood,Mad Lucas,swimming,splash,0.4444444444444444
+Swimming In The Flood,Mad Lucas,flood,mad,0
+Swimming In The Flood,Mad Lucas,flood,lucas,0.26666666666666666
+Swimming In The Flood,Mad Lucas,flood,last,0.15384615384615385
+Swimming In The Flood,Mad Lucas,flood,splash,0.13333333333333333
+Swimming In The Flood,Mad Lucas,manners,mad,0
+Swimming In The Flood,Mad Lucas,manners,lucas,0.14285714285714285
+Swimming In The Flood,Mad Lucas,manners,last,0.3333333333333333
+Swimming In The Flood,Mad Lucas,manners,splash,0.2857142857142857
+Swimming In The Flood,Roi (reprise),swimming,recovery,0.42105263157894735
+Swimming In The Flood,Roi (reprise),swimming,king,0.11764705882352941
+Swimming In The Flood,Roi (reprise),swimming,last,0.25
+Swimming In The Flood,Roi (reprise),swimming,splash,0.4444444444444444
+Swimming In The Flood,Roi (reprise),flood,recovery,0.125
+Swimming In The Flood,Roi (reprise),flood,king,0.2857142857142857
+Swimming In The Flood,Roi (reprise),flood,last,0.15384615384615385
+Swimming In The Flood,Roi (reprise),flood,splash,0.13333333333333333
+Swimming In The Flood,Roi (reprise),manners,recovery,0.26666666666666666
+Swimming In The Flood,Roi (reprise),manners,king,0.15384615384615385
+Swimming In The Flood,Roi (reprise),manners,last,0.3333333333333333
+Swimming In The Flood,Roi (reprise),manners,splash,0.2857142857142857
+Swimming In The Flood,Gloomy Sunday,swimming,gloomy,0
+Swimming In The Flood,Gloomy Sunday,swimming,sunday,0.21052631578947367
+Swimming In The Flood,Gloomy Sunday,swimming,south,0.11764705882352941
+Swimming In The Flood,Gloomy Sunday,flood,gloomy,0
+Swimming In The Flood,Gloomy Sunday,flood,sunday,0.125
+Swimming In The Flood,Gloomy Sunday,flood,south,0.2857142857142857
+Swimming In The Flood,Gloomy Sunday,manners,gloomy,0
+Swimming In The Flood,Gloomy Sunday,manners,sunday,0.26666666666666666
+Swimming In The Flood,Gloomy Sunday,manners,south,0.15384615384615385
+Swimming In The Flood,Roi,swimming,king,0.11764705882352941
+Swimming In The Flood,Roi,swimming,last,0.25
+Swimming In The Flood,Roi,swimming,splash,0.4444444444444444
+Swimming In The Flood,Roi,flood,king,0.2857142857142857
+Swimming In The Flood,Roi,flood,last,0.15384615384615385
+Swimming In The Flood,Roi,flood,splash,0.13333333333333333
+Swimming In The Flood,Roi,manners,king,0.15384615384615385
+Swimming In The Flood,Roi,manners,last,0.3333333333333333
+Swimming In The Flood,Roi,manners,splash,0.2857142857142857
+Swimming In The Flood,Do You Love Me Now ?,swimming,love,0.23529411764705882
+Swimming In The Flood,Do You Love Me Now ?,swimming,last,0.25
+Swimming In The Flood,Do You Love Me Now ?,swimming,splash,0.4444444444444444
+Swimming In The Flood,Do You Love Me Now ?,flood,love,0.14285714285714285
+Swimming In The Flood,Do You Love Me Now ?,flood,last,0.15384615384615385
+Swimming In The Flood,Do You Love Me Now ?,flood,splash,0.13333333333333333
+Swimming In The Flood,Do You Love Me Now ?,manners,love,0.46153846153846156
+Swimming In The Flood,Do You Love Me Now ?,manners,last,0.3333333333333333
+Swimming In The Flood,Do You Love Me Now ?,manners,splash,0.2857142857142857
+Swimming In The Flood,Hag,swimming,hag,0.1111111111111111
+Swimming In The Flood,Hag,swimming,last,0.25
+Swimming In The Flood,Hag,swimming,splash,0.4444444444444444
+Swimming In The Flood,Hag,flood,hag,0.26666666666666666
+Swimming In The Flood,Hag,flood,last,0.15384615384615385
+Swimming In The Flood,Hag,flood,splash,0.13333333333333333
+Swimming In The Flood,Hag,manners,hag,0.14285714285714285
+Swimming In The Flood,Hag,manners,last,0.3333333333333333
+Swimming In The Flood,Hag,manners,splash,0.2857142857142857
+Swimming In The Flood,Evidence,swimming,evidence,0.375
+Swimming In The Flood,Evidence,swimming,faith,0.35294117647058826
+Swimming In The Flood,Evidence,swimming,best,0.6666666666666666
+Swimming In The Flood,Evidence,flood,evidence,0.15384615384615385
+Swimming In The Flood,Evidence,flood,faith,0.14285714285714285
+Swimming In The Flood,Evidence,flood,best,0.13333333333333333
+Swimming In The Flood,Evidence,manners,evidence,0.3333333333333333
+Swimming In The Flood,Evidence,manners,faith,0.4
+Swimming In The Flood,Evidence,manners,best,0.2857142857142857
+Swimming In The Flood,Saints,swimming,saints,0.3157894736842105
+Swimming In The Flood,Saints,swimming,last,0.25
+Swimming In The Flood,Saints,swimming,splash,0.4444444444444444
+Swimming In The Flood,Saints,flood,saints,0.125
+Swimming In The Flood,Saints,flood,last,0.15384615384615385
+Swimming In The Flood,Saints,flood,splash,0.13333333333333333
+Swimming In The Flood,Saints,manners,saints,0.26666666666666666
+Swimming In The Flood,Saints,manners,last,0.3333333333333333
+Swimming In The Flood,Saints,manners,splash,0.2857142857142857
+Swimming In The Flood,S.O.S.,swimming,sos,0.25
+Swimming In The Flood,S.O.S.,swimming,last,0.25
+Swimming In The Flood,S.O.S.,swimming,splash,0.4444444444444444
+Swimming In The Flood,S.O.S.,flood,sos,0.15384615384615385
+Swimming In The Flood,S.O.S.,flood,last,0.15384615384615385
+Swimming In The Flood,S.O.S.,flood,splash,0.13333333333333333
+Swimming In The Flood,S.O.S.,manners,sos,0.3333333333333333
+Swimming In The Flood,S.O.S.,manners,last,0.3333333333333333
+Swimming In The Flood,S.O.S.,manners,splash,0.2857142857142857
+Swimming In The Flood,Divine Hammer,swimming,divine,0.3157894736842105
+Swimming In The Flood,Divine Hammer,swimming,hammer,0.09523809523809523
+Swimming In The Flood,Divine Hammer,swimming,last,0.25
+Swimming In The Flood,Divine Hammer,swimming,splash,0.4444444444444444
+Swimming In The Flood,Divine Hammer,flood,divine,0.125
+Swimming In The Flood,Divine Hammer,flood,hammer,0.2222222222222222
+Swimming In The Flood,Divine Hammer,flood,last,0.15384615384615385
+Swimming In The Flood,Divine Hammer,flood,splash,0.13333333333333333
+Swimming In The Flood,Divine Hammer,manners,divine,0.26666666666666666
+Swimming In The Flood,Divine Hammer,manners,hammer,0.11764705882352941
+Swimming In The Flood,Divine Hammer,manners,last,0.3333333333333333
+Swimming In The Flood,Divine Hammer,manners,splash,0.2857142857142857
+Swimming In The Flood,One Step Beyond,swimming,one,0.2222222222222222
+Swimming In The Flood,One Step Beyond,swimming,step,0.47619047619047616
+Swimming In The Flood,One Step Beyond,swimming,beyond,0
+Swimming In The Flood,One Step Beyond,swimming,complete,0
+Swimming In The Flood,One Step Beyond,swimming,madness,0.21052631578947367
+Swimming In The Flood,One Step Beyond,flood,one,0.13333333333333333
+Swimming In The Flood,One Step Beyond,flood,step,0.1111111111111111
+Swimming In The Flood,One Step Beyond,flood,beyond,0
+Swimming In The Flood,One Step Beyond,flood,complete,0
+Swimming In The Flood,One Step Beyond,flood,madness,0.125
+Swimming In The Flood,One Step Beyond,manners,one,0.2857142857142857
+Swimming In The Flood,One Step Beyond,manners,step,0.23529411764705882
+Swimming In The Flood,One Step Beyond,manners,beyond,0
+Swimming In The Flood,One Step Beyond,manners,complete,0
+Swimming In The Flood,One Step Beyond,manners,madness,0.4
+Swimming In The Flood,Ready For The Floor (Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,Ready For The Floor (Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Ready For The Floor (Album Version),swimming,ready,0.25
+Swimming In The Flood,Ready For The Floor (Album Version),swimming,floor,0.1111111111111111
+Swimming In The Flood,Ready For The Floor (Album Version),swimming,best,0.6666666666666666
+Swimming In The Flood,Ready For The Floor (Album Version),swimming,bands,0.26666666666666666
+Swimming In The Flood,Ready For The Floor (Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,Ready For The Floor (Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,Ready For The Floor (Album Version),flood,ready,0.15384615384615385
+Swimming In The Flood,Ready For The Floor (Album Version),flood,floor,0.26666666666666666
+Swimming In The Flood,Ready For The Floor (Album Version),flood,best,0.13333333333333333
+Swimming In The Flood,Ready For The Floor (Album Version),flood,bands,0.16666666666666666
+Swimming In The Flood,Ready For The Floor (Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,Ready For The Floor (Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,Ready For The Floor (Album Version),manners,ready,0.5
+Swimming In The Flood,Ready For The Floor (Album Version),manners,floor,0.14285714285714285
+Swimming In The Flood,Ready For The Floor (Album Version),manners,best,0.2857142857142857
+Swimming In The Flood,Ready For The Floor (Album Version),manners,bands,0.36363636363636365
+Swimming In The Flood,I Just Wanna Get Along,swimming,wan,0.1
+Swimming In The Flood,I Just Wanna Get Along,swimming,na,0.2222222222222222
+Swimming In The Flood,I Just Wanna Get Along,swimming,get,0.43478260869565216
+Swimming In The Flood,I Just Wanna Get Along,swimming,along,0
+Swimming In The Flood,I Just Wanna Get Along,swimming,last,0.25
+Swimming In The Flood,I Just Wanna Get Along,swimming,splash,0.4444444444444444
+Swimming In The Flood,I Just Wanna Get Along,flood,wan,0.23529411764705882
+Swimming In The Flood,I Just Wanna Get Along,flood,na,0.2857142857142857
+Swimming In The Flood,I Just Wanna Get Along,flood,get,0.1
+Swimming In The Flood,I Just Wanna Get Along,flood,along,0
+Swimming In The Flood,I Just Wanna Get Along,flood,last,0.15384615384615385
+Swimming In The Flood,I Just Wanna Get Along,flood,splash,0.13333333333333333
+Swimming In The Flood,I Just Wanna Get Along,manners,wan,0.125
+Swimming In The Flood,I Just Wanna Get Along,manners,na,0.2857142857142857
+Swimming In The Flood,I Just Wanna Get Along,manners,get,0.21052631578947367
+Swimming In The Flood,I Just Wanna Get Along,manners,along,0
+Swimming In The Flood,I Just Wanna Get Along,manners,last,0.3333333333333333
+Swimming In The Flood,I Just Wanna Get Along,manners,splash,0.2857142857142857
+Swimming In The Flood,New Year,swimming,new,0
+Swimming In The Flood,New Year,swimming,year,0.25
+Swimming In The Flood,New Year,swimming,last,0.25
+Swimming In The Flood,New Year,swimming,splash,0.4444444444444444
+Swimming In The Flood,New Year,flood,new,0
+Swimming In The Flood,New Year,flood,year,0.15384615384615385
+Swimming In The Flood,New Year,flood,last,0.15384615384615385
+Swimming In The Flood,New Year,flood,splash,0.13333333333333333
+Swimming In The Flood,New Year,manners,new,0
+Swimming In The Flood,New Year,manners,year,0.3333333333333333
+Swimming In The Flood,New Year,manners,last,0.3333333333333333
+Swimming In The Flood,New Year,manners,splash,0.2857142857142857
+Swimming In The Flood,Drivin On 9,swimming,last,0.25
+Swimming In The Flood,Drivin On 9,swimming,splash,0.4444444444444444
+Swimming In The Flood,Drivin On 9,flood,last,0.15384615384615385
+Swimming In The Flood,Drivin On 9,flood,splash,0.13333333333333333
+Swimming In The Flood,Drivin On 9,manners,last,0.3333333333333333
+Swimming In The Flood,Drivin On 9,manners,splash,0.2857142857142857
+Swimming In The Flood,Talk About The Blues,swimming,talk,0.23529411764705882
+Swimming In The Flood,Talk About The Blues,swimming,blues,0.23529411764705882
+Swimming In The Flood,Talk About The Blues,swimming,matador,0.125
+Swimming In The Flood,Talk About The Blues,swimming,records,0.25
+Swimming In The Flood,Talk About The Blues,swimming,anniversary,0.2222222222222222
+Swimming In The Flood,Talk About The Blues,swimming,anthology,0.09523809523809523
+Swimming In The Flood,Talk About The Blues,swimming,nice,0.1
+Swimming In The Flood,Talk About The Blues,flood,talk,0.14285714285714285
+Swimming In The Flood,Talk About The Blues,flood,blues,0.14285714285714285
+Swimming In The Flood,Talk About The Blues,flood,matador,0.3076923076923077
+Swimming In The Flood,Talk About The Blues,flood,records,0.15384615384615385
+Swimming In The Flood,Talk About The Blues,flood,anniversary,0.13333333333333333
+Swimming In The Flood,Talk About The Blues,flood,anthology,0.2222222222222222
+Swimming In The Flood,Talk About The Blues,flood,nice,0.23529411764705882
+Swimming In The Flood,Talk About The Blues,manners,talk,0.3076923076923077
+Swimming In The Flood,Talk About The Blues,manners,blues,0.3076923076923077
+Swimming In The Flood,Talk About The Blues,manners,matador,0.16666666666666666
+Swimming In The Flood,Talk About The Blues,manners,records,0.3333333333333333
+Swimming In The Flood,Talk About The Blues,manners,anniversary,0.2857142857142857
+Swimming In The Flood,Talk About The Blues,manners,anthology,0.11764705882352941
+Swimming In The Flood,Talk About The Blues,manners,nice,0.125
+Swimming In The Flood,Flipside,swimming,last,0.25
+Swimming In The Flood,Flipside,swimming,splash,0.4444444444444444
+Swimming In The Flood,Flipside,flood,last,0.15384615384615385
+Swimming In The Flood,Flipside,flood,splash,0.13333333333333333
+Swimming In The Flood,Flipside,manners,last,0.3333333333333333
+Swimming In The Flood,Flipside,manners,splash,0.2857142857142857

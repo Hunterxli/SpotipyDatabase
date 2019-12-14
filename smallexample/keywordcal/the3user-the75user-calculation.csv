@@ -1,0 +1,2073 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Undo,sun,undo,0
+Sun Hands,Undo,sun,live,0
+Sun Hands,Undo,hands,undo,0
+Sun Hands,Undo,hands,live,0
+Sun Hands,Undo,gorilla,undo,0
+Sun Hands,Undo,gorilla,live,0
+Sun Hands,Undo,manor,undo,0
+Sun Hands,Undo,manor,live,0
+Sun Hands,You're The One,sun,one,0.125
+Sun Hands,You're The One,sun,way,0.15384615384615385
+Sun Hands,You're The One,hands,one,0.23529411764705882
+Sun Hands,You're The One,hands,way,0.2857142857142857
+Sun Hands,You're The One,gorilla,one,0.08333333333333333
+Sun Hands,You're The One,gorilla,way,0.09523809523809523
+Sun Hands,You're The One,manor,one,0.1111111111111111
+Sun Hands,You're The One,manor,way,0.13333333333333333
+Sun Hands,Red October,sun,red,0.125
+Sun Hands,Red October,sun,october,0.125
+Sun Hands,Red October,sun,better,0.14285714285714285
+Sun Hands,Red October,sun,late,0
+Sun Hands,Red October,sun,never,0
+Sun Hands,Red October,hands,red,0.23529411764705882
+Sun Hands,Red October,hands,october,0.23529411764705882
+Sun Hands,Red October,hands,better,0.26666666666666666
+Sun Hands,Red October,hands,late,0
+Sun Hands,Red October,hands,never,0
+Sun Hands,Red October,gorilla,red,0.08333333333333333
+Sun Hands,Red October,gorilla,october,0.08333333333333333
+Sun Hands,Red October,gorilla,better,0.09090909090909091
+Sun Hands,Red October,gorilla,late,0
+Sun Hands,Red October,gorilla,never,0
+Sun Hands,Red October,manor,red,0.1111111111111111
+Sun Hands,Red October,manor,october,0.1111111111111111
+Sun Hands,Red October,manor,better,0.125
+Sun Hands,Red October,manor,late,0
+Sun Hands,Red October,manor,never,0
+Sun Hands,Na Vi,sun,merlin,0.1111111111111111
+Sun Hands,Na Vi,hands,merlin,0.3157894736842105
+Sun Hands,Na Vi,gorilla,merlin,0.07692307692307693
+Sun Hands,Na Vi,manor,merlin,0.1
+Sun Hands,Wind Farm,sun,wind,0.23529411764705882
+Sun Hands,Wind Farm,sun,farm,0.375
+Sun Hands,Wind Farm,sun,better,0.14285714285714285
+Sun Hands,Wind Farm,sun,late,0
+Sun Hands,Wind Farm,sun,never,0
+Sun Hands,Wind Farm,hands,wind,0.1111111111111111
+Sun Hands,Wind Farm,hands,farm,0.11764705882352941
+Sun Hands,Wind Farm,hands,better,0.26666666666666666
+Sun Hands,Wind Farm,hands,late,0
+Sun Hands,Wind Farm,hands,never,0
+Sun Hands,Wind Farm,gorilla,wind,0.16
+Sun Hands,Wind Farm,gorilla,farm,0.25
+Sun Hands,Wind Farm,gorilla,better,0.09090909090909091
+Sun Hands,Wind Farm,gorilla,late,0
+Sun Hands,Wind Farm,gorilla,never,0
+Sun Hands,Wind Farm,manor,wind,0.21052631578947367
+Sun Hands,Wind Farm,manor,farm,0.3333333333333333
+Sun Hands,Wind Farm,manor,better,0.125
+Sun Hands,Wind Farm,manor,late,0
+Sun Hands,Wind Farm,manor,never,0
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,e,0.26666666666666666
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,flat,0.42857142857142855
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,horn,0.47058823529411764
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,concerto,0.13333333333333333
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,andante,0.13333333333333333
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,cantabile,0
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,romance,0.14285714285714285
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,ii,0.125
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,little,0.14285714285714285
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,night,0.14285714285714285
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,music,0.15384615384615385
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),sun,mozart,0.4
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,e,0.125
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,flat,0.13333333333333333
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,horn,0.1111111111111111
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,concerto,0.25
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,andante,0.25
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,cantabile,0
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,romance,0.26666666666666666
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,ii,0.23529411764705882
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,little,0.26666666666666666
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,night,0.26666666666666666
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,music,0.2857142857142857
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),hands,mozart,0.1111111111111111
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,e,0.17391304347826086
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,flat,0.2727272727272727
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,horn,0.32
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,concerto,0.08695652173913043
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,andante,0.08695652173913043
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,cantabile,0
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,romance,0.09090909090909091
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,ii,0.08333333333333333
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,little,0.09090909090909091
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,night,0.09090909090909091
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,music,0.09523809523809523
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,mozart,0.42857142857142855
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,e,0.23529411764705882
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,flat,0.375
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,horn,0.5263157894736842
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,concerto,0.11764705882352941
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,andante,0.11764705882352941
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,cantabile,0
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,romance,0.125
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,ii,0.1111111111111111
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,little,0.125
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,night,0.125
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,music,0.13333333333333333
+Sun Hands,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,mozart,0.36363636363636365
+Sun Hands,Tive Sim,sun,yes,0.1111111111111111
+Sun Hands,Tive Sim,sun,new,0
+Sun Hands,Tive Sim,sun,top,0.42857142857142855
+Sun Hands,Tive Sim,sun,hat,0.47058823529411764
+Sun Hands,Tive Sim,hands,yes,0.21052631578947367
+Sun Hands,Tive Sim,hands,new,0
+Sun Hands,Tive Sim,hands,top,0.13333333333333333
+Sun Hands,Tive Sim,hands,hat,0.1111111111111111
+Sun Hands,Tive Sim,gorilla,yes,0.07692307692307693
+Sun Hands,Tive Sim,gorilla,new,0
+Sun Hands,Tive Sim,gorilla,top,0.2727272727272727
+Sun Hands,Tive Sim,gorilla,hat,0.32
+Sun Hands,Tive Sim,manor,yes,0.1
+Sun Hands,Tive Sim,manor,new,0
+Sun Hands,Tive Sim,manor,top,0.375
+Sun Hands,Tive Sim,manor,hat,0.5263157894736842
+Sun Hands,Firestarter,sun,put,0.1111111111111111
+Sun Hands,Firestarter,sun,hands,0.11764705882352941
+Sun Hands,Firestarter,hands,put,0.21052631578947367
+Sun Hands,Firestarter,hands,hands,1.0
+Sun Hands,Firestarter,gorilla,put,0.07692307692307693
+Sun Hands,Firestarter,gorilla,hands,0.08
+Sun Hands,Firestarter,manor,put,0.1
+Sun Hands,Firestarter,manor,hands,0.10526315789473684
+Sun Hands,Holy Virgin,sun,holy,0.4
+Sun Hands,Holy Virgin,sun,virgin,0.47058823529411764
+Sun Hands,Holy Virgin,sun,holy,0.4
+Sun Hands,Holy Virgin,sun,virgin,0.47058823529411764
+Sun Hands,Holy Virgin,hands,holy,0.125
+Sun Hands,Holy Virgin,hands,virgin,0.13333333333333333
+Sun Hands,Holy Virgin,hands,holy,0.125
+Sun Hands,Holy Virgin,hands,virgin,0.13333333333333333
+Sun Hands,Holy Virgin,gorilla,holy,0.2608695652173913
+Sun Hands,Holy Virgin,gorilla,virgin,0.48
+Sun Hands,Holy Virgin,gorilla,holy,0.2608695652173913
+Sun Hands,Holy Virgin,gorilla,virgin,0.48
+Sun Hands,Holy Virgin,manor,holy,0.35294117647058826
+Sun Hands,Holy Virgin,manor,virgin,0.42105263157894735
+Sun Hands,Holy Virgin,manor,holy,0.35294117647058826
+Sun Hands,Holy Virgin,manor,virgin,0.42105263157894735
+Sun Hands,Almaz,sun,every,0
+Sun Hands,Almaz,sun,kind,0.11764705882352941
+Sun Hands,Almaz,sun,mood,0.14285714285714285
+Sun Hands,Almaz,hands,every,0
+Sun Hands,Almaz,hands,kind,0.3333333333333333
+Sun Hands,Almaz,hands,mood,0.26666666666666666
+Sun Hands,Almaz,gorilla,every,0
+Sun Hands,Almaz,gorilla,kind,0.08
+Sun Hands,Almaz,gorilla,mood,0.09090909090909091
+Sun Hands,Almaz,manor,every,0
+Sun Hands,Almaz,manor,kind,0.10526315789473684
+Sun Hands,Almaz,manor,mood,0.125
+Sun Hands,Footprints In The Sand,sun,sand,0.25
+Sun Hands,Footprints In The Sand,sun,footprints,0.14285714285714285
+Sun Hands,Footprints In The Sand,sun,marcels,0.5555555555555556
+Sun Hands,Footprints In The Sand,sun,best,0.125
+Sun Hands,Footprints In The Sand,hands,sand,0.2222222222222222
+Sun Hands,Footprints In The Sand,hands,footprints,0.26666666666666666
+Sun Hands,Footprints In The Sand,hands,marcels,0.10526315789473684
+Sun Hands,Footprints In The Sand,hands,best,0.5555555555555556
+Sun Hands,Footprints In The Sand,gorilla,sand,0.16666666666666666
+Sun Hands,Footprints In The Sand,gorilla,footprints,0.09090909090909091
+Sun Hands,Footprints In The Sand,gorilla,marcels,0.3076923076923077
+Sun Hands,Footprints In The Sand,gorilla,best,0.08333333333333333
+Sun Hands,Footprints In The Sand,manor,sand,0.2222222222222222
+Sun Hands,Footprints In The Sand,manor,footprints,0.125
+Sun Hands,Footprints In The Sand,manor,marcels,0.4
+Sun Hands,Footprints In The Sand,manor,best,0.1111111111111111
+Sun Hands,Wherever You Go (Album Version),sun,album,0.5
+Sun Hands,Wherever You Go (Album Version),sun,version,0.125
+Sun Hands,Wherever You Go (Album Version),sun,wherever,0
+Sun Hands,Wherever You Go (Album Version),sun,go,0.11764705882352941
+Sun Hands,Wherever You Go (Album Version),sun,reverse,0.15384615384615385
+Sun Hands,Wherever You Go (Album Version),hands,album,0.11764705882352941
+Sun Hands,Wherever You Go (Album Version),hands,version,0.23529411764705882
+Sun Hands,Wherever You Go (Album Version),hands,wherever,0
+Sun Hands,Wherever You Go (Album Version),hands,go,0.2222222222222222
+Sun Hands,Wherever You Go (Album Version),hands,reverse,0.2857142857142857
+Sun Hands,Wherever You Go (Album Version),gorilla,album,0.3333333333333333
+Sun Hands,Wherever You Go (Album Version),gorilla,version,0.08333333333333333
+Sun Hands,Wherever You Go (Album Version),gorilla,wherever,0
+Sun Hands,Wherever You Go (Album Version),gorilla,go,0.08
+Sun Hands,Wherever You Go (Album Version),gorilla,reverse,0.09523809523809523
+Sun Hands,Wherever You Go (Album Version),manor,album,0.5555555555555556
+Sun Hands,Wherever You Go (Album Version),manor,version,0.1111111111111111
+Sun Hands,Wherever You Go (Album Version),manor,wherever,0
+Sun Hands,Wherever You Go (Album Version),manor,go,0.10526315789473684
+Sun Hands,Wherever You Go (Album Version),manor,reverse,0.13333333333333333
+Sun Hands,Café Del Mar,sun,mar,0.125
+Sun Hands,Café Del Mar,sun,mar,0.125
+Sun Hands,Café Del Mar,hands,mar,0.23529411764705882
+Sun Hands,Café Del Mar,hands,mar,0.23529411764705882
+Sun Hands,Café Del Mar,gorilla,mar,0.08333333333333333
+Sun Hands,Café Del Mar,gorilla,mar,0.08333333333333333
+Sun Hands,Café Del Mar,manor,mar,0.1111111111111111
+Sun Hands,Café Del Mar,manor,mar,0.1111111111111111
+Sun Hands,The Bells,sun,bells,0.47058823529411764
+Sun Hands,The Bells,sun,years,0.13333333333333333
+Sun Hands,The Bells,sun,underground,0.11764705882352941
+Sun Hands,The Bells,sun,sub,0.2222222222222222
+Sun Hands,The Bells,sun,club,0.11764705882352941
+Sun Hands,The Bells,hands,bells,0.1111111111111111
+Sun Hands,The Bells,hands,years,0.25
+Sun Hands,The Bells,hands,underground,0.2222222222222222
+Sun Hands,The Bells,hands,sub,0.10526315789473684
+Sun Hands,The Bells,hands,club,0.2222222222222222
+Sun Hands,The Bells,gorilla,bells,0.32
+Sun Hands,The Bells,gorilla,years,0.08695652173913043
+Sun Hands,The Bells,gorilla,underground,0.08
+Sun Hands,The Bells,gorilla,sub,0.15384615384615385
+Sun Hands,The Bells,gorilla,club,0.08
+Sun Hands,The Bells,manor,bells,0.5263157894736842
+Sun Hands,The Bells,manor,years,0.11764705882352941
+Sun Hands,The Bells,manor,underground,0.10526315789473684
+Sun Hands,The Bells,manor,sub,0.2
+Sun Hands,The Bells,manor,club,0.10526315789473684
+Camera Talk,Undo,camera,undo,0
+Camera Talk,Undo,camera,live,0
+Camera Talk,Undo,talk,undo,0
+Camera Talk,Undo,talk,live,0
+Camera Talk,Undo,camera,undo,0
+Camera Talk,Undo,camera,live,0
+Camera Talk,Undo,talk,undo,0
+Camera Talk,Undo,talk,live,0
+Camera Talk,You're The One,camera,one,0.11764705882352941
+Camera Talk,You're The One,camera,way,0.14285714285714285
+Camera Talk,You're The One,talk,one,0.26666666666666666
+Camera Talk,You're The One,talk,way,0.3333333333333333
+Camera Talk,You're The One,camera,one,0.11764705882352941
+Camera Talk,You're The One,camera,way,0.14285714285714285
+Camera Talk,You're The One,talk,one,0.26666666666666666
+Camera Talk,You're The One,talk,way,0.3333333333333333
+Camera Talk,Red October,camera,red,0.11764705882352941
+Camera Talk,Red October,camera,october,0.11764705882352941
+Camera Talk,Red October,camera,better,0.13333333333333333
+Camera Talk,Red October,camera,late,0
+Camera Talk,Red October,camera,never,0
+Camera Talk,Red October,talk,red,0.26666666666666666
+Camera Talk,Red October,talk,october,0.26666666666666666
+Camera Talk,Red October,talk,better,0.3076923076923077
+Camera Talk,Red October,talk,late,0
+Camera Talk,Red October,talk,never,0
+Camera Talk,Red October,camera,red,0.11764705882352941
+Camera Talk,Red October,camera,october,0.11764705882352941
+Camera Talk,Red October,camera,better,0.13333333333333333
+Camera Talk,Red October,camera,late,0
+Camera Talk,Red October,camera,never,0
+Camera Talk,Red October,talk,red,0.26666666666666666
+Camera Talk,Red October,talk,october,0.26666666666666666
+Camera Talk,Red October,talk,better,0.3076923076923077
+Camera Talk,Red October,talk,late,0
+Camera Talk,Red October,talk,never,0
+Camera Talk,Na Vi,camera,merlin,0.10526315789473684
+Camera Talk,Na Vi,talk,merlin,0.23529411764705882
+Camera Talk,Na Vi,camera,merlin,0.10526315789473684
+Camera Talk,Na Vi,talk,merlin,0.23529411764705882
+Camera Talk,Wind Farm,camera,wind,0.2222222222222222
+Camera Talk,Wind Farm,camera,farm,0.35294117647058826
+Camera Talk,Wind Farm,camera,better,0.13333333333333333
+Camera Talk,Wind Farm,camera,late,0
+Camera Talk,Wind Farm,camera,never,0
+Camera Talk,Wind Farm,talk,wind,0.125
+Camera Talk,Wind Farm,talk,farm,0.13333333333333333
+Camera Talk,Wind Farm,talk,better,0.3076923076923077
+Camera Talk,Wind Farm,talk,late,0
+Camera Talk,Wind Farm,talk,never,0
+Camera Talk,Wind Farm,camera,wind,0.2222222222222222
+Camera Talk,Wind Farm,camera,farm,0.35294117647058826
+Camera Talk,Wind Farm,camera,better,0.13333333333333333
+Camera Talk,Wind Farm,camera,late,0
+Camera Talk,Wind Farm,camera,never,0
+Camera Talk,Wind Farm,talk,wind,0.125
+Camera Talk,Wind Farm,talk,farm,0.13333333333333333
+Camera Talk,Wind Farm,talk,better,0.3076923076923077
+Camera Talk,Wind Farm,talk,late,0
+Camera Talk,Wind Farm,talk,never,0
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,e,0.25
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,flat,0.4
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,horn,0.6666666666666666
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,concerto,0.125
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,andante,0.125
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,cantabile,0
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,romance,0.13333333333333333
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,ii,0.11764705882352941
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,little,0.13333333333333333
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,night,0.13333333333333333
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,music,0.14285714285714285
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,mozart,0.38095238095238093
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,e,0.14285714285714285
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,flat,0.15384615384615385
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,horn,0.125
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,concerto,0.5333333333333333
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,andante,0.2857142857142857
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,cantabile,0
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,romance,0.3076923076923077
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,ii,0.26666666666666666
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,little,0.3076923076923077
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,night,0.3076923076923077
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,music,0.6666666666666666
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,mozart,0.125
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,e,0.25
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,flat,0.4
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,horn,0.6666666666666666
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,concerto,0.125
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,andante,0.125
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,cantabile,0
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,romance,0.13333333333333333
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,ii,0.11764705882352941
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,little,0.13333333333333333
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,night,0.13333333333333333
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,music,0.14285714285714285
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),camera,mozart,0.38095238095238093
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,e,0.14285714285714285
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,flat,0.15384615384615385
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,horn,0.125
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,concerto,0.5333333333333333
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,andante,0.2857142857142857
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,cantabile,0
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,romance,0.3076923076923077
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,ii,0.26666666666666666
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,little,0.3076923076923077
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,night,0.3076923076923077
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,music,0.6666666666666666
+Camera Talk,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),talk,mozart,0.125
+Camera Talk,Tive Sim,camera,yes,0.10526315789473684
+Camera Talk,Tive Sim,camera,new,0
+Camera Talk,Tive Sim,camera,top,0.4
+Camera Talk,Tive Sim,camera,hat,0.5555555555555556
+Camera Talk,Tive Sim,talk,yes,0.35294117647058826
+Camera Talk,Tive Sim,talk,new,0
+Camera Talk,Tive Sim,talk,top,0.15384615384615385
+Camera Talk,Tive Sim,talk,hat,0.125
+Camera Talk,Tive Sim,camera,yes,0.10526315789473684
+Camera Talk,Tive Sim,camera,new,0
+Camera Talk,Tive Sim,camera,top,0.4
+Camera Talk,Tive Sim,camera,hat,0.5555555555555556
+Camera Talk,Tive Sim,talk,yes,0.35294117647058826
+Camera Talk,Tive Sim,talk,new,0
+Camera Talk,Tive Sim,talk,top,0.15384615384615385
+Camera Talk,Tive Sim,talk,hat,0.125
+Camera Talk,Firestarter,camera,put,0.10526315789473684
+Camera Talk,Firestarter,camera,hands,0.1111111111111111
+Camera Talk,Firestarter,talk,put,0.35294117647058826
+Camera Talk,Firestarter,talk,hands,0.25
+Camera Talk,Firestarter,camera,put,0.10526315789473684
+Camera Talk,Firestarter,camera,hands,0.1111111111111111
+Camera Talk,Firestarter,talk,put,0.35294117647058826
+Camera Talk,Firestarter,talk,hands,0.25
+Camera Talk,Holy Virgin,camera,holy,0.375
+Camera Talk,Holy Virgin,camera,virgin,0.4444444444444444
+Camera Talk,Holy Virgin,camera,holy,0.375
+Camera Talk,Holy Virgin,camera,virgin,0.4444444444444444
+Camera Talk,Holy Virgin,talk,holy,0.14285714285714285
+Camera Talk,Holy Virgin,talk,virgin,0.15384615384615385
+Camera Talk,Holy Virgin,talk,holy,0.14285714285714285
+Camera Talk,Holy Virgin,talk,virgin,0.15384615384615385
+Camera Talk,Holy Virgin,camera,holy,0.375
+Camera Talk,Holy Virgin,camera,virgin,0.4444444444444444
+Camera Talk,Holy Virgin,camera,holy,0.375
+Camera Talk,Holy Virgin,camera,virgin,0.4444444444444444
+Camera Talk,Holy Virgin,talk,holy,0.14285714285714285
+Camera Talk,Holy Virgin,talk,virgin,0.15384615384615385
+Camera Talk,Holy Virgin,talk,holy,0.14285714285714285
+Camera Talk,Holy Virgin,talk,virgin,0.15384615384615385
+Camera Talk,Almaz,camera,every,0
+Camera Talk,Almaz,camera,kind,0.1111111111111111
+Camera Talk,Almaz,camera,mood,0.13333333333333333
+Camera Talk,Almaz,talk,every,0
+Camera Talk,Almaz,talk,kind,0.25
+Camera Talk,Almaz,talk,mood,0.3076923076923077
+Camera Talk,Almaz,camera,every,0
+Camera Talk,Almaz,camera,kind,0.1111111111111111
+Camera Talk,Almaz,camera,mood,0.13333333333333333
+Camera Talk,Almaz,talk,every,0
+Camera Talk,Almaz,talk,kind,0.25
+Camera Talk,Almaz,talk,mood,0.3076923076923077
+Camera Talk,Footprints In The Sand,camera,sand,0.23529411764705882
+Camera Talk,Footprints In The Sand,camera,footprints,0.13333333333333333
+Camera Talk,Footprints In The Sand,camera,marcels,0.42105263157894735
+Camera Talk,Footprints In The Sand,camera,best,0.11764705882352941
+Camera Talk,Footprints In The Sand,talk,sand,0.25
+Camera Talk,Footprints In The Sand,talk,footprints,0.46153846153846156
+Camera Talk,Footprints In The Sand,talk,marcels,0.11764705882352941
+Camera Talk,Footprints In The Sand,talk,best,0.26666666666666666
+Camera Talk,Footprints In The Sand,camera,sand,0.23529411764705882
+Camera Talk,Footprints In The Sand,camera,footprints,0.13333333333333333
+Camera Talk,Footprints In The Sand,camera,marcels,0.42105263157894735
+Camera Talk,Footprints In The Sand,camera,best,0.11764705882352941
+Camera Talk,Footprints In The Sand,talk,sand,0.25
+Camera Talk,Footprints In The Sand,talk,footprints,0.46153846153846156
+Camera Talk,Footprints In The Sand,talk,marcels,0.11764705882352941
+Camera Talk,Footprints In The Sand,talk,best,0.26666666666666666
+Camera Talk,Wherever You Go (Album Version),camera,album,0.7058823529411765
+Camera Talk,Wherever You Go (Album Version),camera,version,0.11764705882352941
+Camera Talk,Wherever You Go (Album Version),camera,wherever,0
+Camera Talk,Wherever You Go (Album Version),camera,go,0.1111111111111111
+Camera Talk,Wherever You Go (Album Version),camera,reverse,0.14285714285714285
+Camera Talk,Wherever You Go (Album Version),talk,album,0.13333333333333333
+Camera Talk,Wherever You Go (Album Version),talk,version,0.4
+Camera Talk,Wherever You Go (Album Version),talk,wherever,0
+Camera Talk,Wherever You Go (Album Version),talk,go,0.25
+Camera Talk,Wherever You Go (Album Version),talk,reverse,0.3333333333333333
+Camera Talk,Wherever You Go (Album Version),camera,album,0.7058823529411765
+Camera Talk,Wherever You Go (Album Version),camera,version,0.11764705882352941
+Camera Talk,Wherever You Go (Album Version),camera,wherever,0
+Camera Talk,Wherever You Go (Album Version),camera,go,0.1111111111111111
+Camera Talk,Wherever You Go (Album Version),camera,reverse,0.14285714285714285
+Camera Talk,Wherever You Go (Album Version),talk,album,0.13333333333333333
+Camera Talk,Wherever You Go (Album Version),talk,version,0.4
+Camera Talk,Wherever You Go (Album Version),talk,wherever,0
+Camera Talk,Wherever You Go (Album Version),talk,go,0.25
+Camera Talk,Wherever You Go (Album Version),talk,reverse,0.3333333333333333
+Camera Talk,Café Del Mar,camera,mar,0.11764705882352941
+Camera Talk,Café Del Mar,camera,mar,0.11764705882352941
+Camera Talk,Café Del Mar,talk,mar,0.26666666666666666
+Camera Talk,Café Del Mar,talk,mar,0.26666666666666666
+Camera Talk,Café Del Mar,camera,mar,0.11764705882352941
+Camera Talk,Café Del Mar,camera,mar,0.11764705882352941
+Camera Talk,Café Del Mar,talk,mar,0.26666666666666666
+Camera Talk,Café Del Mar,talk,mar,0.26666666666666666
+Camera Talk,The Bells,camera,bells,0.6666666666666666
+Camera Talk,The Bells,camera,years,0.125
+Camera Talk,The Bells,camera,underground,0.1111111111111111
+Camera Talk,The Bells,camera,sub,0.21052631578947367
+Camera Talk,The Bells,camera,club,0.1111111111111111
+Camera Talk,The Bells,talk,bells,0.125
+Camera Talk,The Bells,talk,years,0.2857142857142857
+Camera Talk,The Bells,talk,underground,0.25
+Camera Talk,The Bells,talk,sub,0.11764705882352941
+Camera Talk,The Bells,talk,club,0.25
+Camera Talk,The Bells,camera,bells,0.6666666666666666
+Camera Talk,The Bells,camera,years,0.125
+Camera Talk,The Bells,camera,underground,0.1111111111111111
+Camera Talk,The Bells,camera,sub,0.21052631578947367
+Camera Talk,The Bells,camera,club,0.1111111111111111
+Camera Talk,The Bells,talk,bells,0.125
+Camera Talk,The Bells,talk,years,0.2857142857142857
+Camera Talk,The Bells,talk,underground,0.25
+Camera Talk,The Bells,talk,sub,0.11764705882352941
+Camera Talk,The Bells,talk,club,0.25
+Belle,Undo,beautiful,undo,0
+Belle,Undo,beautiful,live,0
+Belle,Undo,dreams,undo,0
+Belle,Undo,dreams,live,0
+Belle,You're The One,beautiful,one,0
+Belle,You're The One,beautiful,way,0
+Belle,You're The One,dreams,one,0.23529411764705882
+Belle,You're The One,dreams,way,0.2857142857142857
+Belle,Red October,beautiful,red,0
+Belle,Red October,beautiful,october,0
+Belle,Red October,beautiful,better,0
+Belle,Red October,beautiful,late,0
+Belle,Red October,beautiful,never,0
+Belle,Red October,dreams,red,0.23529411764705882
+Belle,Red October,dreams,october,0.23529411764705882
+Belle,Red October,dreams,better,0.26666666666666666
+Belle,Red October,dreams,late,0
+Belle,Red October,dreams,never,0
+Belle,Na Vi,beautiful,merlin,0
+Belle,Na Vi,dreams,merlin,0.42105263157894735
+Belle,Wind Farm,beautiful,wind,0
+Belle,Wind Farm,beautiful,farm,0
+Belle,Wind Farm,beautiful,better,0
+Belle,Wind Farm,beautiful,late,0
+Belle,Wind Farm,beautiful,never,0
+Belle,Wind Farm,dreams,wind,0.1111111111111111
+Belle,Wind Farm,dreams,farm,0.11764705882352941
+Belle,Wind Farm,dreams,better,0.26666666666666666
+Belle,Wind Farm,dreams,late,0
+Belle,Wind Farm,dreams,never,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,e,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,flat,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,horn,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,concerto,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,andante,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,cantabile,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,romance,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,ii,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,little,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,night,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,music,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beautiful,mozart,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,e,0.125
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,flat,0.13333333333333333
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,horn,0.1111111111111111
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,concerto,0.25
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,andante,0.25
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,cantabile,0
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,romance,0.26666666666666666
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,ii,0.23529411764705882
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,little,0.26666666666666666
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,night,0.26666666666666666
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,music,0.2857142857142857
+Belle,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),dreams,mozart,0.1111111111111111
+Belle,Tive Sim,beautiful,yes,0
+Belle,Tive Sim,beautiful,new,0
+Belle,Tive Sim,beautiful,top,0
+Belle,Tive Sim,beautiful,hat,0
+Belle,Tive Sim,dreams,yes,0.21052631578947367
+Belle,Tive Sim,dreams,new,0
+Belle,Tive Sim,dreams,top,0.13333333333333333
+Belle,Tive Sim,dreams,hat,0.1111111111111111
+Belle,Firestarter,beautiful,put,0
+Belle,Firestarter,beautiful,hands,0
+Belle,Firestarter,dreams,put,0.21052631578947367
+Belle,Firestarter,dreams,hands,0.3333333333333333
+Belle,Holy Virgin,beautiful,holy,0
+Belle,Holy Virgin,beautiful,virgin,0
+Belle,Holy Virgin,beautiful,holy,0
+Belle,Holy Virgin,beautiful,virgin,0
+Belle,Holy Virgin,dreams,holy,0.125
+Belle,Holy Virgin,dreams,virgin,0.13333333333333333
+Belle,Holy Virgin,dreams,holy,0.125
+Belle,Holy Virgin,dreams,virgin,0.13333333333333333
+Belle,Almaz,beautiful,every,0
+Belle,Almaz,beautiful,kind,0
+Belle,Almaz,beautiful,mood,0
+Belle,Almaz,dreams,every,0
+Belle,Almaz,dreams,kind,0.4444444444444444
+Belle,Almaz,dreams,mood,0.26666666666666666
+Belle,Footprints In The Sand,beautiful,sand,0
+Belle,Footprints In The Sand,beautiful,footprints,0
+Belle,Footprints In The Sand,beautiful,marcels,0
+Belle,Footprints In The Sand,beautiful,best,0
+Belle,Footprints In The Sand,dreams,sand,0.2222222222222222
+Belle,Footprints In The Sand,dreams,footprints,0.26666666666666666
+Belle,Footprints In The Sand,dreams,marcels,0.10526315789473684
+Belle,Footprints In The Sand,dreams,best,0.35294117647058826
+Belle,Wherever You Go (Album Version),beautiful,album,0
+Belle,Wherever You Go (Album Version),beautiful,version,0
+Belle,Wherever You Go (Album Version),beautiful,wherever,0
+Belle,Wherever You Go (Album Version),beautiful,go,0
+Belle,Wherever You Go (Album Version),beautiful,reverse,0
+Belle,Wherever You Go (Album Version),dreams,album,0.11764705882352941
+Belle,Wherever You Go (Album Version),dreams,version,0.23529411764705882
+Belle,Wherever You Go (Album Version),dreams,wherever,0
+Belle,Wherever You Go (Album Version),dreams,go,0.2222222222222222
+Belle,Wherever You Go (Album Version),dreams,reverse,0.2857142857142857
+Belle,Café Del Mar,beautiful,mar,0
+Belle,Café Del Mar,beautiful,mar,0
+Belle,Café Del Mar,dreams,mar,0.23529411764705882
+Belle,Café Del Mar,dreams,mar,0.23529411764705882
+Belle,The Bells,beautiful,bells,0
+Belle,The Bells,beautiful,years,0
+Belle,The Bells,beautiful,underground,0
+Belle,The Bells,beautiful,sub,0
+Belle,The Bells,beautiful,club,0
+Belle,The Bells,dreams,bells,0.1111111111111111
+Belle,The Bells,dreams,years,0.25
+Belle,The Bells,dreams,underground,0.2222222222222222
+Belle,The Bells,dreams,sub,0.10526315789473684
+Belle,The Bells,dreams,club,0.2222222222222222
+Auto Rock,Undo,auto,undo,0
+Auto Rock,Undo,auto,live,0
+Auto Rock,Undo,rock,undo,0
+Auto Rock,Undo,rock,live,0
+Auto Rock,Undo,mr,undo,0
+Auto Rock,Undo,mr,live,0
+Auto Rock,Undo,beast,undo,0
+Auto Rock,Undo,beast,live,0
+Auto Rock,You're The One,auto,one,0.10526315789473684
+Auto Rock,You're The One,auto,way,0.125
+Auto Rock,You're The One,rock,one,0.14285714285714285
+Auto Rock,You're The One,rock,way,0.18181818181818182
+Auto Rock,You're The One,mr,one,0.23529411764705882
+Auto Rock,You're The One,mr,way,0.2857142857142857
+Auto Rock,You're The One,beast,one,0.13333333333333333
+Auto Rock,You're The One,beast,way,0.16666666666666666
+Auto Rock,Red October,auto,red,0.10526315789473684
+Auto Rock,Red October,auto,october,0.10526315789473684
+Auto Rock,Red October,auto,better,0.11764705882352941
+Auto Rock,Red October,auto,late,0
+Auto Rock,Red October,auto,never,0
+Auto Rock,Red October,rock,red,0.14285714285714285
+Auto Rock,Red October,rock,october,0.14285714285714285
+Auto Rock,Red October,rock,better,0.16666666666666666
+Auto Rock,Red October,rock,late,0
+Auto Rock,Red October,rock,never,0
+Auto Rock,Red October,mr,red,0.23529411764705882
+Auto Rock,Red October,mr,october,0.23529411764705882
+Auto Rock,Red October,mr,better,0.26666666666666666
+Auto Rock,Red October,mr,late,0
+Auto Rock,Red October,mr,never,0
+Auto Rock,Red October,beast,red,0.13333333333333333
+Auto Rock,Red October,beast,october,0.13333333333333333
+Auto Rock,Red October,beast,better,0.15384615384615385
+Auto Rock,Red October,beast,late,0
+Auto Rock,Red October,beast,never,0
+Auto Rock,Na Vi,auto,merlin,0.09523809523809523
+Auto Rock,Na Vi,rock,merlin,0.125
+Auto Rock,Na Vi,mr,merlin,0.21052631578947367
+Auto Rock,Na Vi,beast,merlin,0.11764705882352941
+Auto Rock,Wind Farm,auto,wind,0.2
+Auto Rock,Wind Farm,auto,farm,0.3157894736842105
+Auto Rock,Wind Farm,auto,better,0.11764705882352941
+Auto Rock,Wind Farm,auto,late,0
+Auto Rock,Wind Farm,auto,never,0
+Auto Rock,Wind Farm,rock,wind,0.26666666666666666
+Auto Rock,Wind Farm,rock,farm,0.42857142857142855
+Auto Rock,Wind Farm,rock,better,0.16666666666666666
+Auto Rock,Wind Farm,rock,late,0
+Auto Rock,Wind Farm,rock,never,0
+Auto Rock,Wind Farm,mr,wind,0.1111111111111111
+Auto Rock,Wind Farm,mr,farm,0.11764705882352941
+Auto Rock,Wind Farm,mr,better,0.26666666666666666
+Auto Rock,Wind Farm,mr,late,0
+Auto Rock,Wind Farm,mr,never,0
+Auto Rock,Wind Farm,beast,wind,0.25
+Auto Rock,Wind Farm,beast,farm,0.4
+Auto Rock,Wind Farm,beast,better,0.15384615384615385
+Auto Rock,Wind Farm,beast,late,0
+Auto Rock,Wind Farm,beast,never,0
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,e,0.2222222222222222
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,flat,0.35294117647058826
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,horn,0.6
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,concerto,0.1111111111111111
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,andante,0.1111111111111111
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,cantabile,0
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,romance,0.11764705882352941
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,ii,0.10526315789473684
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,little,0.11764705882352941
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,night,0.11764705882352941
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,music,0.125
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),auto,mozart,0.34782608695652173
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,e,0.3076923076923077
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,flat,0.5
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,horn,0.5333333333333333
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,concerto,0.15384615384615385
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,andante,0.15384615384615385
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,cantabile,0
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,romance,0.16666666666666666
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,ii,0.14285714285714285
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,little,0.16666666666666666
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,night,0.16666666666666666
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,music,0.18181818181818182
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),rock,mozart,0.4444444444444444
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,e,0.125
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,flat,0.13333333333333333
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,horn,0.1111111111111111
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,concerto,0.25
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,andante,0.25
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,cantabile,0
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,romance,0.26666666666666666
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,ii,0.23529411764705882
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,little,0.26666666666666666
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,night,0.26666666666666666
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,music,0.2857142857142857
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mr,mozart,0.1111111111111111
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,e,0.2857142857142857
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,flat,0.46153846153846156
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,horn,0.5
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,concerto,0.14285714285714285
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,andante,0.14285714285714285
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,cantabile,0
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,romance,0.15384615384615385
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,ii,0.13333333333333333
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,little,0.15384615384615385
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,night,0.15384615384615385
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,music,0.16666666666666666
+Auto Rock,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),beast,mozart,0.631578947368421
+Auto Rock,Tive Sim,auto,yes,0.09523809523809523
+Auto Rock,Tive Sim,auto,new,0
+Auto Rock,Tive Sim,auto,top,0.35294117647058826
+Auto Rock,Tive Sim,auto,hat,0.5
+Auto Rock,Tive Sim,rock,yes,0.125
+Auto Rock,Tive Sim,rock,new,0
+Auto Rock,Tive Sim,rock,top,0.5
+Auto Rock,Tive Sim,rock,hat,0.5333333333333333
+Auto Rock,Tive Sim,mr,yes,0.21052631578947367
+Auto Rock,Tive Sim,mr,new,0
+Auto Rock,Tive Sim,mr,top,0.13333333333333333
+Auto Rock,Tive Sim,mr,hat,0.1111111111111111
+Auto Rock,Tive Sim,beast,yes,0.11764705882352941
+Auto Rock,Tive Sim,beast,new,0
+Auto Rock,Tive Sim,beast,top,0.46153846153846156
+Auto Rock,Tive Sim,beast,hat,0.5
+Auto Rock,Firestarter,auto,put,0.09523809523809523
+Auto Rock,Firestarter,auto,hands,0.1
+Auto Rock,Firestarter,rock,put,0.125
+Auto Rock,Firestarter,rock,hands,0.13333333333333333
+Auto Rock,Firestarter,mr,put,0.21052631578947367
+Auto Rock,Firestarter,mr,hands,0.2222222222222222
+Auto Rock,Firestarter,beast,put,0.11764705882352941
+Auto Rock,Firestarter,beast,hands,0.125
+Auto Rock,Holy Virgin,auto,holy,0.3333333333333333
+Auto Rock,Holy Virgin,auto,virgin,0.4
+Auto Rock,Holy Virgin,auto,holy,0.3333333333333333
+Auto Rock,Holy Virgin,auto,virgin,0.4
+Auto Rock,Holy Virgin,rock,holy,0.46153846153846156
+Auto Rock,Holy Virgin,rock,virgin,0.5333333333333333
+Auto Rock,Holy Virgin,rock,holy,0.46153846153846156
+Auto Rock,Holy Virgin,rock,virgin,0.5333333333333333
+Auto Rock,Holy Virgin,mr,holy,0.125
+Auto Rock,Holy Virgin,mr,virgin,0.13333333333333333
+Auto Rock,Holy Virgin,mr,holy,0.125
+Auto Rock,Holy Virgin,mr,virgin,0.13333333333333333
+Auto Rock,Holy Virgin,beast,holy,0.42857142857142855
+Auto Rock,Holy Virgin,beast,virgin,0.75
+Auto Rock,Holy Virgin,beast,holy,0.42857142857142855
+Auto Rock,Holy Virgin,beast,virgin,0.75
+Auto Rock,Almaz,auto,every,0
+Auto Rock,Almaz,auto,kind,0.1
+Auto Rock,Almaz,auto,mood,0.11764705882352941
+Auto Rock,Almaz,rock,every,0
+Auto Rock,Almaz,rock,kind,0.13333333333333333
+Auto Rock,Almaz,rock,mood,0.16666666666666666
+Auto Rock,Almaz,mr,every,0
+Auto Rock,Almaz,mr,kind,0.2222222222222222
+Auto Rock,Almaz,mr,mood,0.26666666666666666
+Auto Rock,Almaz,beast,every,0
+Auto Rock,Almaz,beast,kind,0.125
+Auto Rock,Almaz,beast,mood,0.15384615384615385
+Auto Rock,Footprints In The Sand,auto,sand,0.21052631578947367
+Auto Rock,Footprints In The Sand,auto,footprints,0.11764705882352941
+Auto Rock,Footprints In The Sand,auto,marcels,0.38095238095238093
+Auto Rock,Footprints In The Sand,auto,best,0.10526315789473684
+Auto Rock,Footprints In The Sand,rock,sand,0.2857142857142857
+Auto Rock,Footprints In The Sand,rock,footprints,0.16666666666666666
+Auto Rock,Footprints In The Sand,rock,marcels,0.625
+Auto Rock,Footprints In The Sand,rock,best,0.14285714285714285
+Auto Rock,Footprints In The Sand,mr,sand,0.4444444444444444
+Auto Rock,Footprints In The Sand,mr,footprints,0.26666666666666666
+Auto Rock,Footprints In The Sand,mr,marcels,0.10526315789473684
+Auto Rock,Footprints In The Sand,mr,best,0.23529411764705882
+Auto Rock,Footprints In The Sand,beast,sand,0.26666666666666666
+Auto Rock,Footprints In The Sand,beast,footprints,0.15384615384615385
+Auto Rock,Footprints In The Sand,beast,marcels,0.47058823529411764
+Auto Rock,Footprints In The Sand,beast,best,0.13333333333333333
+Auto Rock,Wherever You Go (Album Version),auto,album,0.631578947368421
+Auto Rock,Wherever You Go (Album Version),auto,version,0.10526315789473684
+Auto Rock,Wherever You Go (Album Version),auto,wherever,0
+Auto Rock,Wherever You Go (Album Version),auto,go,0.1
+Auto Rock,Wherever You Go (Album Version),auto,reverse,0.125
+Auto Rock,Wherever You Go (Album Version),rock,album,0.5714285714285714
+Auto Rock,Wherever You Go (Album Version),rock,version,0.14285714285714285
+Auto Rock,Wherever You Go (Album Version),rock,wherever,0
+Auto Rock,Wherever You Go (Album Version),rock,go,0.13333333333333333
+Auto Rock,Wherever You Go (Album Version),rock,reverse,0.18181818181818182
+Auto Rock,Wherever You Go (Album Version),mr,album,0.11764705882352941
+Auto Rock,Wherever You Go (Album Version),mr,version,0.23529411764705882
+Auto Rock,Wherever You Go (Album Version),mr,wherever,0
+Auto Rock,Wherever You Go (Album Version),mr,go,0.2222222222222222
+Auto Rock,Wherever You Go (Album Version),mr,reverse,0.42857142857142855
+Auto Rock,Wherever You Go (Album Version),beast,album,0.5333333333333333
+Auto Rock,Wherever You Go (Album Version),beast,version,0.13333333333333333
+Auto Rock,Wherever You Go (Album Version),beast,wherever,0
+Auto Rock,Wherever You Go (Album Version),beast,go,0.125
+Auto Rock,Wherever You Go (Album Version),beast,reverse,0.16666666666666666
+Auto Rock,Café Del Mar,auto,mar,0.10526315789473684
+Auto Rock,Café Del Mar,auto,mar,0.10526315789473684
+Auto Rock,Café Del Mar,rock,mar,0.14285714285714285
+Auto Rock,Café Del Mar,rock,mar,0.14285714285714285
+Auto Rock,Café Del Mar,mr,mar,0.23529411764705882
+Auto Rock,Café Del Mar,mr,mar,0.23529411764705882
+Auto Rock,Café Del Mar,beast,mar,0.13333333333333333
+Auto Rock,Café Del Mar,beast,mar,0.13333333333333333
+Auto Rock,The Bells,auto,bells,0.6
+Auto Rock,The Bells,auto,years,0.1111111111111111
+Auto Rock,The Bells,auto,underground,0.1
+Auto Rock,The Bells,auto,sub,0.19047619047619047
+Auto Rock,The Bells,auto,club,0.1
+Auto Rock,The Bells,rock,bells,0.5333333333333333
+Auto Rock,The Bells,rock,years,0.15384615384615385
+Auto Rock,The Bells,rock,underground,0.13333333333333333
+Auto Rock,The Bells,rock,sub,0.25
+Auto Rock,The Bells,rock,club,0.13333333333333333
+Auto Rock,The Bells,mr,bells,0.1111111111111111
+Auto Rock,The Bells,mr,years,0.25
+Auto Rock,The Bells,mr,underground,0.2222222222222222
+Auto Rock,The Bells,mr,sub,0.10526315789473684
+Auto Rock,The Bells,mr,club,0.2222222222222222
+Auto Rock,The Bells,beast,bells,0.5
+Auto Rock,The Bells,beast,years,0.14285714285714285
+Auto Rock,The Bells,beast,underground,0.125
+Auto Rock,The Bells,beast,sub,0.23529411764705882
+Auto Rock,The Bells,beast,club,0.125
+Who Knows Who Cares,Undo,knows,undo,0
+Who Knows Who Cares,Undo,knows,live,0
+Who Knows Who Cares,Undo,cares,undo,0
+Who Knows Who Cares,Undo,cares,live,0
+Who Knows Who Cares,Undo,gorilla,undo,0
+Who Knows Who Cares,Undo,gorilla,live,0
+Who Knows Who Cares,Undo,manor,undo,0
+Who Knows Who Cares,Undo,manor,live,0
+Who Knows Who Cares,You're The One,knows,one,0.25
+Who Knows Who Cares,You're The One,knows,way,0.3076923076923077
+Who Knows Who Cares,You're The One,cares,one,0.25
+Who Knows Who Cares,You're The One,cares,way,0.3076923076923077
+Who Knows Who Cares,You're The One,gorilla,one,0.08333333333333333
+Who Knows Who Cares,You're The One,gorilla,way,0.09523809523809523
+Who Knows Who Cares,You're The One,manor,one,0.1111111111111111
+Who Knows Who Cares,You're The One,manor,way,0.13333333333333333
+Who Knows Who Cares,Red October,knows,red,0.25
+Who Knows Who Cares,Red October,knows,october,0.25
+Who Knows Who Cares,Red October,knows,better,0.2857142857142857
+Who Knows Who Cares,Red October,knows,late,0
+Who Knows Who Cares,Red October,knows,never,0
+Who Knows Who Cares,Red October,cares,red,0.25
+Who Knows Who Cares,Red October,cares,october,0.25
+Who Knows Who Cares,Red October,cares,better,0.2857142857142857
+Who Knows Who Cares,Red October,cares,late,0
+Who Knows Who Cares,Red October,cares,never,0
+Who Knows Who Cares,Red October,gorilla,red,0.08333333333333333
+Who Knows Who Cares,Red October,gorilla,october,0.08333333333333333
+Who Knows Who Cares,Red October,gorilla,better,0.09090909090909091
+Who Knows Who Cares,Red October,gorilla,late,0
+Who Knows Who Cares,Red October,gorilla,never,0
+Who Knows Who Cares,Red October,manor,red,0.1111111111111111
+Who Knows Who Cares,Red October,manor,october,0.1111111111111111
+Who Knows Who Cares,Red October,manor,better,0.125
+Who Knows Who Cares,Red October,manor,late,0
+Who Knows Who Cares,Red October,manor,never,0
+Who Knows Who Cares,Na Vi,knows,merlin,0.4444444444444444
+Who Knows Who Cares,Na Vi,cares,merlin,0.3333333333333333
+Who Knows Who Cares,Na Vi,gorilla,merlin,0.07692307692307693
+Who Knows Who Cares,Na Vi,manor,merlin,0.1
+Who Knows Who Cares,Wind Farm,knows,wind,0.11764705882352941
+Who Knows Who Cares,Wind Farm,knows,farm,0.125
+Who Knows Who Cares,Wind Farm,knows,better,0.2857142857142857
+Who Knows Who Cares,Wind Farm,knows,late,0
+Who Knows Who Cares,Wind Farm,knows,never,0
+Who Knows Who Cares,Wind Farm,cares,wind,0.11764705882352941
+Who Knows Who Cares,Wind Farm,cares,farm,0.125
+Who Knows Who Cares,Wind Farm,cares,better,0.2857142857142857
+Who Knows Who Cares,Wind Farm,cares,late,0
+Who Knows Who Cares,Wind Farm,cares,never,0
+Who Knows Who Cares,Wind Farm,gorilla,wind,0.16
+Who Knows Who Cares,Wind Farm,gorilla,farm,0.25
+Who Knows Who Cares,Wind Farm,gorilla,better,0.09090909090909091
+Who Knows Who Cares,Wind Farm,gorilla,late,0
+Who Knows Who Cares,Wind Farm,gorilla,never,0
+Who Knows Who Cares,Wind Farm,manor,wind,0.21052631578947367
+Who Knows Who Cares,Wind Farm,manor,farm,0.3333333333333333
+Who Knows Who Cares,Wind Farm,manor,better,0.125
+Who Knows Who Cares,Wind Farm,manor,late,0
+Who Knows Who Cares,Wind Farm,manor,never,0
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,e,0.13333333333333333
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,flat,0.14285714285714285
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,horn,0.11764705882352941
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,concerto,0.26666666666666666
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,andante,0.26666666666666666
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,cantabile,0
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,romance,0.2857142857142857
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,ii,0.25
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,little,0.2857142857142857
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,night,0.2857142857142857
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,music,0.3076923076923077
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),knows,mozart,0.11764705882352941
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,e,0.13333333333333333
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,flat,0.14285714285714285
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,horn,0.11764705882352941
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,concerto,0.26666666666666666
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,andante,0.26666666666666666
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,cantabile,0
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,romance,0.2857142857142857
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,ii,0.25
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,little,0.2857142857142857
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,night,0.2857142857142857
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,music,0.3076923076923077
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),cares,mozart,0.11764705882352941
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,e,0.17391304347826086
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,flat,0.2727272727272727
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,horn,0.32
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,concerto,0.08695652173913043
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,andante,0.08695652173913043
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,cantabile,0
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,romance,0.09090909090909091
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,ii,0.08333333333333333
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,little,0.09090909090909091
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,night,0.09090909090909091
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,music,0.09523809523809523
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),gorilla,mozart,0.42857142857142855
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,e,0.23529411764705882
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,flat,0.375
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,horn,0.5263157894736842
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,concerto,0.11764705882352941
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,andante,0.11764705882352941
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,cantabile,0
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,romance,0.125
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,ii,0.1111111111111111
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,little,0.125
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,night,0.125
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,music,0.13333333333333333
+Who Knows Who Cares,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manor,mozart,0.36363636363636365
+Who Knows Who Cares,Tive Sim,knows,yes,0.2222222222222222
+Who Knows Who Cares,Tive Sim,knows,new,0
+Who Knows Who Cares,Tive Sim,knows,top,0.14285714285714285
+Who Knows Who Cares,Tive Sim,knows,hat,0.11764705882352941
+Who Knows Who Cares,Tive Sim,cares,yes,0.2222222222222222
+Who Knows Who Cares,Tive Sim,cares,new,0
+Who Knows Who Cares,Tive Sim,cares,top,0.14285714285714285
+Who Knows Who Cares,Tive Sim,cares,hat,0.11764705882352941
+Who Knows Who Cares,Tive Sim,gorilla,yes,0.07692307692307693
+Who Knows Who Cares,Tive Sim,gorilla,new,0
+Who Knows Who Cares,Tive Sim,gorilla,top,0.2727272727272727
+Who Knows Who Cares,Tive Sim,gorilla,hat,0.32
+Who Knows Who Cares,Tive Sim,manor,yes,0.1
+Who Knows Who Cares,Tive Sim,manor,new,0
+Who Knows Who Cares,Tive Sim,manor,top,0.375
+Who Knows Who Cares,Tive Sim,manor,hat,0.5263157894736842
+Who Knows Who Cares,Firestarter,knows,put,0.2222222222222222
+Who Knows Who Cares,Firestarter,knows,hands,0.35294117647058826
+Who Knows Who Cares,Firestarter,cares,put,0.2222222222222222
+Who Knows Who Cares,Firestarter,cares,hands,0.5555555555555556
+Who Knows Who Cares,Firestarter,gorilla,put,0.07692307692307693
+Who Knows Who Cares,Firestarter,gorilla,hands,0.08
+Who Knows Who Cares,Firestarter,manor,put,0.1
+Who Knows Who Cares,Firestarter,manor,hands,0.10526315789473684
+Who Knows Who Cares,Holy Virgin,knows,holy,0.13333333333333333
+Who Knows Who Cares,Holy Virgin,knows,virgin,0.14285714285714285
+Who Knows Who Cares,Holy Virgin,knows,holy,0.13333333333333333
+Who Knows Who Cares,Holy Virgin,knows,virgin,0.14285714285714285
+Who Knows Who Cares,Holy Virgin,cares,holy,0.13333333333333333
+Who Knows Who Cares,Holy Virgin,cares,virgin,0.14285714285714285
+Who Knows Who Cares,Holy Virgin,cares,holy,0.13333333333333333
+Who Knows Who Cares,Holy Virgin,cares,virgin,0.14285714285714285
+Who Knows Who Cares,Holy Virgin,gorilla,holy,0.2608695652173913
+Who Knows Who Cares,Holy Virgin,gorilla,virgin,0.48
+Who Knows Who Cares,Holy Virgin,gorilla,holy,0.2608695652173913
+Who Knows Who Cares,Holy Virgin,gorilla,virgin,0.48
+Who Knows Who Cares,Holy Virgin,manor,holy,0.35294117647058826
+Who Knows Who Cares,Holy Virgin,manor,virgin,0.42105263157894735
+Who Knows Who Cares,Holy Virgin,manor,holy,0.35294117647058826
+Who Knows Who Cares,Holy Virgin,manor,virgin,0.42105263157894735
+Who Knows Who Cares,Almaz,knows,every,0
+Who Knows Who Cares,Almaz,knows,kind,0.47058823529411764
+Who Knows Who Cares,Almaz,knows,mood,0.2857142857142857
+Who Knows Who Cares,Almaz,cares,every,0
+Who Knows Who Cares,Almaz,cares,kind,0.35294117647058826
+Who Knows Who Cares,Almaz,cares,mood,0.2857142857142857
+Who Knows Who Cares,Almaz,gorilla,every,0
+Who Knows Who Cares,Almaz,gorilla,kind,0.08
+Who Knows Who Cares,Almaz,gorilla,mood,0.09090909090909091
+Who Knows Who Cares,Almaz,manor,every,0
+Who Knows Who Cares,Almaz,manor,kind,0.10526315789473684
+Who Knows Who Cares,Almaz,manor,mood,0.125
+Who Knows Who Cares,Footprints In The Sand,knows,sand,0.23529411764705882
+Who Knows Who Cares,Footprints In The Sand,knows,footprints,0.2857142857142857
+Who Knows Who Cares,Footprints In The Sand,knows,marcels,0.1111111111111111
+Who Knows Who Cares,Footprints In The Sand,knows,best,0.375
+Who Knows Who Cares,Footprints In The Sand,cares,sand,0.23529411764705882
+Who Knows Who Cares,Footprints In The Sand,cares,footprints,0.2857142857142857
+Who Knows Who Cares,Footprints In The Sand,cares,marcels,0.1111111111111111
+Who Knows Who Cares,Footprints In The Sand,cares,best,0.75
+Who Knows Who Cares,Footprints In The Sand,gorilla,sand,0.16666666666666666
+Who Knows Who Cares,Footprints In The Sand,gorilla,footprints,0.09090909090909091
+Who Knows Who Cares,Footprints In The Sand,gorilla,marcels,0.3076923076923077
+Who Knows Who Cares,Footprints In The Sand,gorilla,best,0.08333333333333333
+Who Knows Who Cares,Footprints In The Sand,manor,sand,0.2222222222222222
+Who Knows Who Cares,Footprints In The Sand,manor,footprints,0.125
+Who Knows Who Cares,Footprints In The Sand,manor,marcels,0.4
+Who Knows Who Cares,Footprints In The Sand,manor,best,0.1111111111111111
+Who Knows Who Cares,Wherever You Go (Album Version),knows,album,0.125
+Who Knows Who Cares,Wherever You Go (Album Version),knows,version,0.25
+Who Knows Who Cares,Wherever You Go (Album Version),knows,wherever,0
+Who Knows Who Cares,Wherever You Go (Album Version),knows,go,0.23529411764705882
+Who Knows Who Cares,Wherever You Go (Album Version),knows,reverse,0.3076923076923077
+Who Knows Who Cares,Wherever You Go (Album Version),cares,album,0.125
+Who Knows Who Cares,Wherever You Go (Album Version),cares,version,0.25
+Who Knows Who Cares,Wherever You Go (Album Version),cares,wherever,0
+Who Knows Who Cares,Wherever You Go (Album Version),cares,go,0.23529411764705882
+Who Knows Who Cares,Wherever You Go (Album Version),cares,reverse,0.3076923076923077
+Who Knows Who Cares,Wherever You Go (Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,Wherever You Go (Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Wherever You Go (Album Version),gorilla,wherever,0
+Who Knows Who Cares,Wherever You Go (Album Version),gorilla,go,0.08
+Who Knows Who Cares,Wherever You Go (Album Version),gorilla,reverse,0.09523809523809523
+Who Knows Who Cares,Wherever You Go (Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,Wherever You Go (Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Wherever You Go (Album Version),manor,wherever,0
+Who Knows Who Cares,Wherever You Go (Album Version),manor,go,0.10526315789473684
+Who Knows Who Cares,Wherever You Go (Album Version),manor,reverse,0.13333333333333333
+Who Knows Who Cares,Café Del Mar,knows,mar,0.25
+Who Knows Who Cares,Café Del Mar,knows,mar,0.25
+Who Knows Who Cares,Café Del Mar,cares,mar,0.25
+Who Knows Who Cares,Café Del Mar,cares,mar,0.25
+Who Knows Who Cares,Café Del Mar,gorilla,mar,0.08333333333333333
+Who Knows Who Cares,Café Del Mar,gorilla,mar,0.08333333333333333
+Who Knows Who Cares,Café Del Mar,manor,mar,0.1111111111111111
+Who Knows Who Cares,Café Del Mar,manor,mar,0.1111111111111111
+Who Knows Who Cares,The Bells,knows,bells,0.11764705882352941
+Who Knows Who Cares,The Bells,knows,years,0.26666666666666666
+Who Knows Who Cares,The Bells,knows,underground,0.23529411764705882
+Who Knows Who Cares,The Bells,knows,sub,0.1111111111111111
+Who Knows Who Cares,The Bells,knows,club,0.23529411764705882
+Who Knows Who Cares,The Bells,cares,bells,0.11764705882352941
+Who Knows Who Cares,The Bells,cares,years,0.26666666666666666
+Who Knows Who Cares,The Bells,cares,underground,0.23529411764705882
+Who Knows Who Cares,The Bells,cares,sub,0.1111111111111111
+Who Knows Who Cares,The Bells,cares,club,0.23529411764705882
+Who Knows Who Cares,The Bells,gorilla,bells,0.32
+Who Knows Who Cares,The Bells,gorilla,years,0.08695652173913043
+Who Knows Who Cares,The Bells,gorilla,underground,0.08
+Who Knows Who Cares,The Bells,gorilla,sub,0.15384615384615385
+Who Knows Who Cares,The Bells,gorilla,club,0.08
+Who Knows Who Cares,The Bells,manor,bells,0.5263157894736842
+Who Knows Who Cares,The Bells,manor,years,0.11764705882352941
+Who Knows Who Cares,The Bells,manor,underground,0.10526315789473684
+Who Knows Who Cares,The Bells,manor,sub,0.2
+Who Knows Who Cares,The Bells,manor,club,0.10526315789473684
+Quiet,Undo,quiet,undo,0
+Quiet,Undo,quiet,live,0
+Quiet,Undo,young,undo,0
+Quiet,Undo,young,live,0
+Quiet,Undo,mountain,undo,0
+Quiet,Undo,mountain,live,0
+Quiet,You're The One,quiet,one,0.10526315789473684
+Quiet,You're The One,quiet,way,0.125
+Quiet,You're The One,young,one,0.125
+Quiet,You're The One,young,way,0.15384615384615385
+Quiet,You're The One,mountain,one,0.14285714285714285
+Quiet,You're The One,mountain,way,0.18181818181818182
+Quiet,Red October,quiet,red,0.10526315789473684
+Quiet,Red October,quiet,october,0.10526315789473684
+Quiet,Red October,quiet,better,0.11764705882352941
+Quiet,Red October,quiet,late,0
+Quiet,Red October,quiet,never,0
+Quiet,Red October,young,red,0.125
+Quiet,Red October,young,october,0.125
+Quiet,Red October,young,better,0.14285714285714285
+Quiet,Red October,young,late,0
+Quiet,Red October,young,never,0
+Quiet,Red October,mountain,red,0.14285714285714285
+Quiet,Red October,mountain,october,0.14285714285714285
+Quiet,Red October,mountain,better,0.16666666666666666
+Quiet,Red October,mountain,late,0
+Quiet,Red October,mountain,never,0
+Quiet,Na Vi,quiet,merlin,0.09523809523809523
+Quiet,Na Vi,young,merlin,0.1111111111111111
+Quiet,Na Vi,mountain,merlin,0.125
+Quiet,Wind Farm,quiet,wind,0.8
+Quiet,Wind Farm,quiet,farm,0.21052631578947367
+Quiet,Wind Farm,quiet,better,0.11764705882352941
+Quiet,Wind Farm,quiet,late,0
+Quiet,Wind Farm,quiet,never,0
+Quiet,Wind Farm,young,wind,0.23529411764705882
+Quiet,Wind Farm,young,farm,0.375
+Quiet,Wind Farm,young,better,0.14285714285714285
+Quiet,Wind Farm,young,late,0
+Quiet,Wind Farm,young,never,0
+Quiet,Wind Farm,mountain,wind,0.26666666666666666
+Quiet,Wind Farm,mountain,farm,0.42857142857142855
+Quiet,Wind Farm,mountain,better,0.16666666666666666
+Quiet,Wind Farm,mountain,late,0
+Quiet,Wind Farm,mountain,never,0
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,e,0.2222222222222222
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,flat,0.23529411764705882
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,horn,0.2
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,concerto,0.1111111111111111
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,andante,0.1111111111111111
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,cantabile,0
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,romance,0.11764705882352941
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,ii,0.10526315789473684
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,little,0.11764705882352941
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,night,0.11764705882352941
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,music,0.125
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),quiet,mozart,0.2
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,e,0.26666666666666666
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,flat,0.42857142857142855
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,horn,0.47058823529411764
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,concerto,0.13333333333333333
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,andante,0.13333333333333333
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,cantabile,0
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,romance,0.14285714285714285
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,ii,0.125
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,little,0.14285714285714285
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,night,0.14285714285714285
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,music,0.15384615384615385
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,mozart,0.6
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,e,0.3076923076923077
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,flat,0.5
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,horn,0.4
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,concerto,0.15384615384615385
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,andante,0.15384615384615385
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,cantabile,0
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,romance,0.16666666666666666
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,ii,0.14285714285714285
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,little,0.16666666666666666
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,night,0.16666666666666666
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,music,0.18181818181818182
+Quiet,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,mozart,0.35294117647058826
+Quiet,Tive Sim,quiet,yes,0.09523809523809523
+Quiet,Tive Sim,quiet,new,0
+Quiet,Tive Sim,quiet,top,0.23529411764705882
+Quiet,Tive Sim,quiet,hat,0.2
+Quiet,Tive Sim,young,yes,0.1111111111111111
+Quiet,Tive Sim,young,new,0
+Quiet,Tive Sim,young,top,0.42857142857142855
+Quiet,Tive Sim,young,hat,0.47058823529411764
+Quiet,Tive Sim,mountain,yes,0.125
+Quiet,Tive Sim,mountain,new,0
+Quiet,Tive Sim,mountain,top,0.5
+Quiet,Tive Sim,mountain,hat,0.4
+Quiet,Firestarter,quiet,put,0.09523809523809523
+Quiet,Firestarter,quiet,hands,0.1
+Quiet,Firestarter,young,put,0.1111111111111111
+Quiet,Firestarter,young,hands,0.11764705882352941
+Quiet,Firestarter,mountain,put,0.125
+Quiet,Firestarter,mountain,hands,0.13333333333333333
+Quiet,Holy Virgin,quiet,holy,0.2222222222222222
+Quiet,Holy Virgin,quiet,virgin,0.23529411764705882
+Quiet,Holy Virgin,quiet,holy,0.2222222222222222
+Quiet,Holy Virgin,quiet,virgin,0.23529411764705882
+Quiet,Holy Virgin,young,holy,0.4
+Quiet,Holy Virgin,young,virgin,0.7058823529411765
+Quiet,Holy Virgin,young,holy,0.4
+Quiet,Holy Virgin,young,virgin,0.7058823529411765
+Quiet,Holy Virgin,mountain,holy,0.46153846153846156
+Quiet,Holy Virgin,mountain,virgin,0.42857142857142855
+Quiet,Holy Virgin,mountain,holy,0.46153846153846156
+Quiet,Holy Virgin,mountain,virgin,0.42857142857142855
+Quiet,Almaz,quiet,every,0
+Quiet,Almaz,quiet,kind,0.1
+Quiet,Almaz,quiet,mood,0.11764705882352941
+Quiet,Almaz,young,every,0
+Quiet,Almaz,young,kind,0.11764705882352941
+Quiet,Almaz,young,mood,0.14285714285714285
+Quiet,Almaz,mountain,every,0
+Quiet,Almaz,mountain,kind,0.13333333333333333
+Quiet,Almaz,mountain,mood,0.16666666666666666
+Quiet,Footprints In The Sand,quiet,sand,0.21052631578947367
+Quiet,Footprints In The Sand,quiet,footprints,0.11764705882352941
+Quiet,Footprints In The Sand,quiet,marcels,0.19047619047619047
+Quiet,Footprints In The Sand,quiet,best,0.10526315789473684
+Quiet,Footprints In The Sand,young,sand,0.25
+Quiet,Footprints In The Sand,young,footprints,0.14285714285714285
+Quiet,Footprints In The Sand,young,marcels,0.4444444444444444
+Quiet,Footprints In The Sand,young,best,0.125
+Quiet,Footprints In The Sand,mountain,sand,0.2857142857142857
+Quiet,Footprints In The Sand,mountain,footprints,0.16666666666666666
+Quiet,Footprints In The Sand,mountain,marcels,0.375
+Quiet,Footprints In The Sand,mountain,best,0.14285714285714285
+Quiet,Wherever You Go (Album Version),quiet,album,0.21052631578947367
+Quiet,Wherever You Go (Album Version),quiet,version,0.10526315789473684
+Quiet,Wherever You Go (Album Version),quiet,wherever,0
+Quiet,Wherever You Go (Album Version),quiet,go,0.1
+Quiet,Wherever You Go (Album Version),quiet,reverse,0.125
+Quiet,Wherever You Go (Album Version),young,album,0.5
+Quiet,Wherever You Go (Album Version),young,version,0.125
+Quiet,Wherever You Go (Album Version),young,wherever,0
+Quiet,Wherever You Go (Album Version),young,go,0.11764705882352941
+Quiet,Wherever You Go (Album Version),young,reverse,0.15384615384615385
+Quiet,Wherever You Go (Album Version),mountain,album,0.42857142857142855
+Quiet,Wherever You Go (Album Version),mountain,version,0.14285714285714285
+Quiet,Wherever You Go (Album Version),mountain,wherever,0
+Quiet,Wherever You Go (Album Version),mountain,go,0.13333333333333333
+Quiet,Wherever You Go (Album Version),mountain,reverse,0.18181818181818182
+Quiet,Café Del Mar,quiet,mar,0.10526315789473684
+Quiet,Café Del Mar,quiet,mar,0.10526315789473684
+Quiet,Café Del Mar,young,mar,0.125
+Quiet,Café Del Mar,young,mar,0.125
+Quiet,Café Del Mar,mountain,mar,0.14285714285714285
+Quiet,Café Del Mar,mountain,mar,0.14285714285714285
+Quiet,The Bells,quiet,bells,0.2
+Quiet,The Bells,quiet,years,0.1111111111111111
+Quiet,The Bells,quiet,underground,0.1
+Quiet,The Bells,quiet,sub,0.19047619047619047
+Quiet,The Bells,quiet,club,0.1
+Quiet,The Bells,young,bells,0.47058823529411764
+Quiet,The Bells,young,years,0.13333333333333333
+Quiet,The Bells,young,underground,0.11764705882352941
+Quiet,The Bells,young,sub,0.2222222222222222
+Quiet,The Bells,young,club,0.11764705882352941
+Quiet,The Bells,mountain,bells,0.4
+Quiet,The Bells,mountain,years,0.15384615384615385
+Quiet,The Bells,mountain,underground,0.13333333333333333
+Quiet,The Bells,mountain,sub,0.25
+Quiet,The Bells,mountain,club,0.13333333333333333
+Girlfriend,Undo,girlfriend,undo,0
+Girlfriend,Undo,girlfriend,live,0
+Girlfriend,Undo,phoenix,undo,0
+Girlfriend,Undo,phoenix,live,0
+Girlfriend,You're The One,girlfriend,one,0.14285714285714285
+Girlfriend,You're The One,girlfriend,way,0.18181818181818182
+Girlfriend,You're The One,phoenix,one,0.10526315789473684
+Girlfriend,You're The One,phoenix,way,0.125
+Girlfriend,Red October,girlfriend,red,0.14285714285714285
+Girlfriend,Red October,girlfriend,october,0.14285714285714285
+Girlfriend,Red October,girlfriend,better,0.16666666666666666
+Girlfriend,Red October,girlfriend,late,0
+Girlfriend,Red October,girlfriend,never,0
+Girlfriend,Red October,phoenix,red,0.10526315789473684
+Girlfriend,Red October,phoenix,october,0.10526315789473684
+Girlfriend,Red October,phoenix,better,0.11764705882352941
+Girlfriend,Red October,phoenix,late,0
+Girlfriend,Red October,phoenix,never,0
+Girlfriend,Na Vi,girlfriend,merlin,0.125
+Girlfriend,Na Vi,phoenix,merlin,0.09523809523809523
+Girlfriend,Wind Farm,girlfriend,wind,0.26666666666666666
+Girlfriend,Wind Farm,girlfriend,farm,0.375
+Girlfriend,Wind Farm,girlfriend,better,0.16666666666666666
+Girlfriend,Wind Farm,girlfriend,late,0
+Girlfriend,Wind Farm,girlfriend,never,0
+Girlfriend,Wind Farm,phoenix,wind,0.2
+Girlfriend,Wind Farm,phoenix,farm,0.42105263157894735
+Girlfriend,Wind Farm,phoenix,better,0.11764705882352941
+Girlfriend,Wind Farm,phoenix,late,0
+Girlfriend,Wind Farm,phoenix,never,0
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,e,0.3076923076923077
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,flat,0.42857142857142855
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,horn,0.4444444444444444
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,concerto,0.15384615384615385
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,andante,0.15384615384615385
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,cantabile,0
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,romance,0.16666666666666666
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,ii,0.14285714285714285
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,little,0.16666666666666666
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,night,0.16666666666666666
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,music,0.18181818181818182
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),girlfriend,mozart,0.5714285714285714
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,e,0.2222222222222222
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,flat,0.35294117647058826
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,horn,0.3
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,concerto,0.1111111111111111
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,andante,0.1111111111111111
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,cantabile,0
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,romance,0.11764705882352941
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,ii,0.10526315789473684
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,little,0.11764705882352941
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,night,0.11764705882352941
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,music,0.125
+Girlfriend,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,mozart,0.2727272727272727
+Girlfriend,Tive Sim,girlfriend,yes,0.125
+Girlfriend,Tive Sim,girlfriend,new,0
+Girlfriend,Tive Sim,girlfriend,top,0.42857142857142855
+Girlfriend,Tive Sim,girlfriend,hat,0.4444444444444444
+Girlfriend,Tive Sim,phoenix,yes,0.09523809523809523
+Girlfriend,Tive Sim,phoenix,new,0
+Girlfriend,Tive Sim,phoenix,top,0.47058823529411764
+Girlfriend,Tive Sim,phoenix,hat,0.3
+Girlfriend,Firestarter,girlfriend,put,0.125
+Girlfriend,Firestarter,girlfriend,hands,0.13333333333333333
+Girlfriend,Firestarter,phoenix,put,0.09523809523809523
+Girlfriend,Firestarter,phoenix,hands,0.1
+Girlfriend,Holy Virgin,girlfriend,holy,0.4
+Girlfriend,Holy Virgin,girlfriend,virgin,0.6666666666666666
+Girlfriend,Holy Virgin,girlfriend,holy,0.4
+Girlfriend,Holy Virgin,girlfriend,virgin,0.6666666666666666
+Girlfriend,Holy Virgin,phoenix,holy,0.4444444444444444
+Girlfriend,Holy Virgin,phoenix,virgin,0.3157894736842105
+Girlfriend,Holy Virgin,phoenix,holy,0.4444444444444444
+Girlfriend,Holy Virgin,phoenix,virgin,0.3157894736842105
+Girlfriend,Almaz,girlfriend,every,0
+Girlfriend,Almaz,girlfriend,kind,0.13333333333333333
+Girlfriend,Almaz,girlfriend,mood,0.16666666666666666
+Girlfriend,Almaz,phoenix,every,0
+Girlfriend,Almaz,phoenix,kind,0.1
+Girlfriend,Almaz,phoenix,mood,0.11764705882352941
+Girlfriend,Footprints In The Sand,girlfriend,sand,0.2857142857142857
+Girlfriend,Footprints In The Sand,girlfriend,footprints,0.16666666666666666
+Girlfriend,Footprints In The Sand,girlfriend,marcels,0.42105263157894735
+Girlfriend,Footprints In The Sand,girlfriend,best,0.14285714285714285
+Girlfriend,Footprints In The Sand,phoenix,sand,0.21052631578947367
+Girlfriend,Footprints In The Sand,phoenix,footprints,0.11764705882352941
+Girlfriend,Footprints In The Sand,phoenix,marcels,0.2857142857142857
+Girlfriend,Footprints In The Sand,phoenix,best,0.10526315789473684
+Girlfriend,Wherever You Go (Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,Wherever You Go (Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,Wherever You Go (Album Version),girlfriend,wherever,0
+Girlfriend,Wherever You Go (Album Version),girlfriend,go,0.13333333333333333
+Girlfriend,Wherever You Go (Album Version),girlfriend,reverse,0.18181818181818182
+Girlfriend,Wherever You Go (Album Version),phoenix,album,0.3157894736842105
+Girlfriend,Wherever You Go (Album Version),phoenix,version,0.10526315789473684
+Girlfriend,Wherever You Go (Album Version),phoenix,wherever,0
+Girlfriend,Wherever You Go (Album Version),phoenix,go,0.1
+Girlfriend,Wherever You Go (Album Version),phoenix,reverse,0.125
+Girlfriend,Café Del Mar,girlfriend,mar,0.14285714285714285
+Girlfriend,Café Del Mar,girlfriend,mar,0.14285714285714285
+Girlfriend,Café Del Mar,phoenix,mar,0.10526315789473684
+Girlfriend,Café Del Mar,phoenix,mar,0.10526315789473684
+Girlfriend,The Bells,girlfriend,bells,0.4444444444444444
+Girlfriend,The Bells,girlfriend,years,0.15384615384615385
+Girlfriend,The Bells,girlfriend,underground,0.13333333333333333
+Girlfriend,The Bells,girlfriend,sub,0.25
+Girlfriend,The Bells,girlfriend,club,0.13333333333333333
+Girlfriend,The Bells,phoenix,bells,0.3
+Girlfriend,The Bells,phoenix,years,0.1111111111111111
+Girlfriend,The Bells,phoenix,underground,0.1
+Girlfriend,The Bells,phoenix,sub,0.19047619047619047
+Girlfriend,The Bells,phoenix,club,0.1
+Happiness: We're All In It Together,Undo,together,undo,0
+Happiness: We're All In It Together,Undo,together,live,0
+Happiness: We're All In It Together,Undo,happiness,undo,0
+Happiness: We're All In It Together,Undo,happiness,live,0
+Happiness: We're All In It Together,Undo,young,undo,0
+Happiness: We're All In It Together,Undo,young,live,0
+Happiness: We're All In It Together,Undo,mountain,undo,0
+Happiness: We're All In It Together,Undo,mountain,live,0
+Happiness: We're All In It Together,You're The One,together,one,0
+Happiness: We're All In It Together,You're The One,together,way,0
+Happiness: We're All In It Together,You're The One,happiness,one,0.25
+Happiness: We're All In It Together,You're The One,happiness,way,0.46153846153846156
+Happiness: We're All In It Together,You're The One,young,one,0.125
+Happiness: We're All In It Together,You're The One,young,way,0.15384615384615385
+Happiness: We're All In It Together,You're The One,mountain,one,0.14285714285714285
+Happiness: We're All In It Together,You're The One,mountain,way,0.18181818181818182
+Happiness: We're All In It Together,Red October,together,red,0
+Happiness: We're All In It Together,Red October,together,october,0
+Happiness: We're All In It Together,Red October,together,better,0
+Happiness: We're All In It Together,Red October,together,late,0
+Happiness: We're All In It Together,Red October,together,never,0
+Happiness: We're All In It Together,Red October,happiness,red,0.375
+Happiness: We're All In It Together,Red October,happiness,october,0.25
+Happiness: We're All In It Together,Red October,happiness,better,0.42857142857142855
+Happiness: We're All In It Together,Red October,happiness,late,0
+Happiness: We're All In It Together,Red October,happiness,never,0
+Happiness: We're All In It Together,Red October,young,red,0.125
+Happiness: We're All In It Together,Red October,young,october,0.125
+Happiness: We're All In It Together,Red October,young,better,0.14285714285714285
+Happiness: We're All In It Together,Red October,young,late,0
+Happiness: We're All In It Together,Red October,young,never,0
+Happiness: We're All In It Together,Red October,mountain,red,0.14285714285714285
+Happiness: We're All In It Together,Red October,mountain,october,0.14285714285714285
+Happiness: We're All In It Together,Red October,mountain,better,0.16666666666666666
+Happiness: We're All In It Together,Red October,mountain,late,0
+Happiness: We're All In It Together,Red October,mountain,never,0
+Happiness: We're All In It Together,Na Vi,together,merlin,0
+Happiness: We're All In It Together,Na Vi,happiness,merlin,0.2222222222222222
+Happiness: We're All In It Together,Na Vi,young,merlin,0.1111111111111111
+Happiness: We're All In It Together,Na Vi,mountain,merlin,0.125
+Happiness: We're All In It Together,Wind Farm,together,wind,0
+Happiness: We're All In It Together,Wind Farm,together,farm,0
+Happiness: We're All In It Together,Wind Farm,together,better,0
+Happiness: We're All In It Together,Wind Farm,together,late,0
+Happiness: We're All In It Together,Wind Farm,together,never,0
+Happiness: We're All In It Together,Wind Farm,happiness,wind,0.11764705882352941
+Happiness: We're All In It Together,Wind Farm,happiness,farm,0.125
+Happiness: We're All In It Together,Wind Farm,happiness,better,0.42857142857142855
+Happiness: We're All In It Together,Wind Farm,happiness,late,0
+Happiness: We're All In It Together,Wind Farm,happiness,never,0
+Happiness: We're All In It Together,Wind Farm,young,wind,0.23529411764705882
+Happiness: We're All In It Together,Wind Farm,young,farm,0.375
+Happiness: We're All In It Together,Wind Farm,young,better,0.14285714285714285
+Happiness: We're All In It Together,Wind Farm,young,late,0
+Happiness: We're All In It Together,Wind Farm,young,never,0
+Happiness: We're All In It Together,Wind Farm,mountain,wind,0.26666666666666666
+Happiness: We're All In It Together,Wind Farm,mountain,farm,0.42857142857142855
+Happiness: We're All In It Together,Wind Farm,mountain,better,0.16666666666666666
+Happiness: We're All In It Together,Wind Farm,mountain,late,0
+Happiness: We're All In It Together,Wind Farm,mountain,never,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,e,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,flat,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,horn,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,concerto,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,andante,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,cantabile,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,romance,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,ii,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,little,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,night,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,music,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),together,mozart,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,e,0.13333333333333333
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,flat,0.14285714285714285
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,horn,0.11764705882352941
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,concerto,0.26666666666666666
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,andante,0.4
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,cantabile,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,romance,0.5714285714285714
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,ii,0.25
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,little,0.2857142857142857
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,night,0.2857142857142857
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,music,0.3076923076923077
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),happiness,mozart,0.11764705882352941
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,e,0.26666666666666666
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,flat,0.42857142857142855
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,horn,0.47058823529411764
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,concerto,0.13333333333333333
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,andante,0.13333333333333333
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,cantabile,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,romance,0.14285714285714285
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,ii,0.125
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,little,0.14285714285714285
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,night,0.14285714285714285
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,music,0.15384615384615385
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,mozart,0.6
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,e,0.3076923076923077
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,flat,0.5
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,horn,0.4
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,concerto,0.15384615384615385
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,andante,0.15384615384615385
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,cantabile,0
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,romance,0.16666666666666666
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,ii,0.14285714285714285
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,little,0.16666666666666666
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,night,0.16666666666666666
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,music,0.18181818181818182
+Happiness: We're All In It Together,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,mozart,0.35294117647058826
+Happiness: We're All In It Together,Tive Sim,together,yes,0
+Happiness: We're All In It Together,Tive Sim,together,new,0
+Happiness: We're All In It Together,Tive Sim,together,top,0
+Happiness: We're All In It Together,Tive Sim,together,hat,0
+Happiness: We're All In It Together,Tive Sim,happiness,yes,0.2222222222222222
+Happiness: We're All In It Together,Tive Sim,happiness,new,0
+Happiness: We're All In It Together,Tive Sim,happiness,top,0.14285714285714285
+Happiness: We're All In It Together,Tive Sim,happiness,hat,0.11764705882352941
+Happiness: We're All In It Together,Tive Sim,young,yes,0.1111111111111111
+Happiness: We're All In It Together,Tive Sim,young,new,0
+Happiness: We're All In It Together,Tive Sim,young,top,0.42857142857142855
+Happiness: We're All In It Together,Tive Sim,young,hat,0.47058823529411764
+Happiness: We're All In It Together,Tive Sim,mountain,yes,0.125
+Happiness: We're All In It Together,Tive Sim,mountain,new,0
+Happiness: We're All In It Together,Tive Sim,mountain,top,0.5
+Happiness: We're All In It Together,Tive Sim,mountain,hat,0.4
+Happiness: We're All In It Together,Firestarter,together,put,0
+Happiness: We're All In It Together,Firestarter,together,hands,0
+Happiness: We're All In It Together,Firestarter,happiness,put,0.2222222222222222
+Happiness: We're All In It Together,Firestarter,happiness,hands,0.23529411764705882
+Happiness: We're All In It Together,Firestarter,young,put,0.1111111111111111
+Happiness: We're All In It Together,Firestarter,young,hands,0.11764705882352941
+Happiness: We're All In It Together,Firestarter,mountain,put,0.125
+Happiness: We're All In It Together,Firestarter,mountain,hands,0.13333333333333333
+Happiness: We're All In It Together,Holy Virgin,together,holy,0
+Happiness: We're All In It Together,Holy Virgin,together,virgin,0
+Happiness: We're All In It Together,Holy Virgin,together,holy,0
+Happiness: We're All In It Together,Holy Virgin,together,virgin,0
+Happiness: We're All In It Together,Holy Virgin,happiness,holy,0.13333333333333333
+Happiness: We're All In It Together,Holy Virgin,happiness,virgin,0.14285714285714285
+Happiness: We're All In It Together,Holy Virgin,happiness,holy,0.13333333333333333
+Happiness: We're All In It Together,Holy Virgin,happiness,virgin,0.14285714285714285
+Happiness: We're All In It Together,Holy Virgin,young,holy,0.4
+Happiness: We're All In It Together,Holy Virgin,young,virgin,0.7058823529411765
+Happiness: We're All In It Together,Holy Virgin,young,holy,0.4
+Happiness: We're All In It Together,Holy Virgin,young,virgin,0.7058823529411765
+Happiness: We're All In It Together,Holy Virgin,mountain,holy,0.46153846153846156
+Happiness: We're All In It Together,Holy Virgin,mountain,virgin,0.42857142857142855
+Happiness: We're All In It Together,Holy Virgin,mountain,holy,0.46153846153846156
+Happiness: We're All In It Together,Holy Virgin,mountain,virgin,0.42857142857142855
+Happiness: We're All In It Together,Almaz,together,every,0
+Happiness: We're All In It Together,Almaz,together,kind,0
+Happiness: We're All In It Together,Almaz,together,mood,0
+Happiness: We're All In It Together,Almaz,happiness,every,0
+Happiness: We're All In It Together,Almaz,happiness,kind,0.23529411764705882
+Happiness: We're All In It Together,Almaz,happiness,mood,0.7142857142857143
+Happiness: We're All In It Together,Almaz,young,every,0
+Happiness: We're All In It Together,Almaz,young,kind,0.11764705882352941
+Happiness: We're All In It Together,Almaz,young,mood,0.14285714285714285
+Happiness: We're All In It Together,Almaz,mountain,every,0
+Happiness: We're All In It Together,Almaz,mountain,kind,0.13333333333333333
+Happiness: We're All In It Together,Almaz,mountain,mood,0.16666666666666666
+Happiness: We're All In It Together,Footprints In The Sand,together,sand,0
+Happiness: We're All In It Together,Footprints In The Sand,together,footprints,0
+Happiness: We're All In It Together,Footprints In The Sand,together,marcels,0
+Happiness: We're All In It Together,Footprints In The Sand,together,best,0
+Happiness: We're All In It Together,Footprints In The Sand,happiness,sand,0.23529411764705882
+Happiness: We're All In It Together,Footprints In The Sand,happiness,footprints,0.2857142857142857
+Happiness: We're All In It Together,Footprints In The Sand,happiness,marcels,0.1111111111111111
+Happiness: We're All In It Together,Footprints In The Sand,happiness,best,0.25
+Happiness: We're All In It Together,Footprints In The Sand,young,sand,0.25
+Happiness: We're All In It Together,Footprints In The Sand,young,footprints,0.14285714285714285
+Happiness: We're All In It Together,Footprints In The Sand,young,marcels,0.4444444444444444
+Happiness: We're All In It Together,Footprints In The Sand,young,best,0.125
+Happiness: We're All In It Together,Footprints In The Sand,mountain,sand,0.2857142857142857
+Happiness: We're All In It Together,Footprints In The Sand,mountain,footprints,0.16666666666666666
+Happiness: We're All In It Together,Footprints In The Sand,mountain,marcels,0.375
+Happiness: We're All In It Together,Footprints In The Sand,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Wherever You Go (Album Version),together,album,0
+Happiness: We're All In It Together,Wherever You Go (Album Version),together,version,0
+Happiness: We're All In It Together,Wherever You Go (Album Version),together,wherever,0
+Happiness: We're All In It Together,Wherever You Go (Album Version),together,go,0
+Happiness: We're All In It Together,Wherever You Go (Album Version),together,reverse,0
+Happiness: We're All In It Together,Wherever You Go (Album Version),happiness,album,0.125
+Happiness: We're All In It Together,Wherever You Go (Album Version),happiness,version,0.25
+Happiness: We're All In It Together,Wherever You Go (Album Version),happiness,wherever,0
+Happiness: We're All In It Together,Wherever You Go (Album Version),happiness,go,0.23529411764705882
+Happiness: We're All In It Together,Wherever You Go (Album Version),happiness,reverse,0.3076923076923077
+Happiness: We're All In It Together,Wherever You Go (Album Version),young,album,0.5
+Happiness: We're All In It Together,Wherever You Go (Album Version),young,version,0.125
+Happiness: We're All In It Together,Wherever You Go (Album Version),young,wherever,0
+Happiness: We're All In It Together,Wherever You Go (Album Version),young,go,0.11764705882352941
+Happiness: We're All In It Together,Wherever You Go (Album Version),young,reverse,0.15384615384615385
+Happiness: We're All In It Together,Wherever You Go (Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,Wherever You Go (Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Wherever You Go (Album Version),mountain,wherever,0
+Happiness: We're All In It Together,Wherever You Go (Album Version),mountain,go,0.13333333333333333
+Happiness: We're All In It Together,Wherever You Go (Album Version),mountain,reverse,0.18181818181818182
+Happiness: We're All In It Together,Café Del Mar,together,mar,0
+Happiness: We're All In It Together,Café Del Mar,together,mar,0
+Happiness: We're All In It Together,Café Del Mar,happiness,mar,0.25
+Happiness: We're All In It Together,Café Del Mar,happiness,mar,0.25
+Happiness: We're All In It Together,Café Del Mar,young,mar,0.125
+Happiness: We're All In It Together,Café Del Mar,young,mar,0.125
+Happiness: We're All In It Together,Café Del Mar,mountain,mar,0.14285714285714285
+Happiness: We're All In It Together,Café Del Mar,mountain,mar,0.14285714285714285
+Happiness: We're All In It Together,The Bells,together,bells,0
+Happiness: We're All In It Together,The Bells,together,years,0
+Happiness: We're All In It Together,The Bells,together,underground,0
+Happiness: We're All In It Together,The Bells,together,sub,0
+Happiness: We're All In It Together,The Bells,together,club,0
+Happiness: We're All In It Together,The Bells,happiness,bells,0.11764705882352941
+Happiness: We're All In It Together,The Bells,happiness,years,0.26666666666666666
+Happiness: We're All In It Together,The Bells,happiness,underground,0.23529411764705882
+Happiness: We're All In It Together,The Bells,happiness,sub,0.1111111111111111
+Happiness: We're All In It Together,The Bells,happiness,club,0.23529411764705882
+Happiness: We're All In It Together,The Bells,young,bells,0.47058823529411764
+Happiness: We're All In It Together,The Bells,young,years,0.13333333333333333
+Happiness: We're All In It Together,The Bells,young,underground,0.11764705882352941
+Happiness: We're All In It Together,The Bells,young,sub,0.2222222222222222
+Happiness: We're All In It Together,The Bells,young,club,0.11764705882352941
+Happiness: We're All In It Together,The Bells,mountain,bells,0.4
+Happiness: We're All In It Together,The Bells,mountain,years,0.15384615384615385
+Happiness: We're All In It Together,The Bells,mountain,underground,0.13333333333333333
+Happiness: We're All In It Together,The Bells,mountain,sub,0.25
+Happiness: We're All In It Together,The Bells,mountain,club,0.13333333333333333
+Armistice,Undo,armistice,undo,0
+Armistice,Undo,armistice,live,0
+Armistice,Undo,phoenix,undo,0
+Armistice,Undo,phoenix,live,0
+Armistice,You're The One,armistice,one,0.26666666666666666
+Armistice,You're The One,armistice,way,0.5
+Armistice,You're The One,phoenix,one,0.10526315789473684
+Armistice,You're The One,phoenix,way,0.125
+Armistice,Red October,armistice,red,0.4
+Armistice,Red October,armistice,october,0.26666666666666666
+Armistice,Red October,armistice,better,0.46153846153846156
+Armistice,Red October,armistice,late,0
+Armistice,Red October,armistice,never,0
+Armistice,Red October,phoenix,red,0.10526315789473684
+Armistice,Red October,phoenix,october,0.10526315789473684
+Armistice,Red October,phoenix,better,0.11764705882352941
+Armistice,Red October,phoenix,late,0
+Armistice,Red October,phoenix,never,0
+Armistice,Na Vi,armistice,merlin,0.23529411764705882
+Armistice,Na Vi,phoenix,merlin,0.09523809523809523
+Armistice,Wind Farm,armistice,wind,0.125
+Armistice,Wind Farm,armistice,farm,0.13333333333333333
+Armistice,Wind Farm,armistice,better,0.46153846153846156
+Armistice,Wind Farm,armistice,late,0
+Armistice,Wind Farm,armistice,never,0
+Armistice,Wind Farm,phoenix,wind,0.2
+Armistice,Wind Farm,phoenix,farm,0.42105263157894735
+Armistice,Wind Farm,phoenix,better,0.11764705882352941
+Armistice,Wind Farm,phoenix,late,0
+Armistice,Wind Farm,phoenix,never,0
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,e,0.14285714285714285
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,flat,0.15384615384615385
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,horn,0.125
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,concerto,0.2857142857142857
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,andante,0.42857142857142855
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,cantabile,0
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,romance,0.6153846153846154
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,ii,0.26666666666666666
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,little,0.3076923076923077
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,night,0.3076923076923077
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,music,0.3333333333333333
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),armistice,mozart,0.125
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,e,0.2222222222222222
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,flat,0.35294117647058826
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,horn,0.3
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,concerto,0.1111111111111111
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,andante,0.1111111111111111
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,cantabile,0
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,romance,0.11764705882352941
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,ii,0.10526315789473684
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,little,0.11764705882352941
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,night,0.11764705882352941
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,music,0.125
+Armistice,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),phoenix,mozart,0.2727272727272727
+Armistice,Tive Sim,armistice,yes,0.23529411764705882
+Armistice,Tive Sim,armistice,new,0
+Armistice,Tive Sim,armistice,top,0.15384615384615385
+Armistice,Tive Sim,armistice,hat,0.125
+Armistice,Tive Sim,phoenix,yes,0.09523809523809523
+Armistice,Tive Sim,phoenix,new,0
+Armistice,Tive Sim,phoenix,top,0.47058823529411764
+Armistice,Tive Sim,phoenix,hat,0.3
+Armistice,Firestarter,armistice,put,0.23529411764705882
+Armistice,Firestarter,armistice,hands,0.25
+Armistice,Firestarter,phoenix,put,0.09523809523809523
+Armistice,Firestarter,phoenix,hands,0.1
+Armistice,Holy Virgin,armistice,holy,0.14285714285714285
+Armistice,Holy Virgin,armistice,virgin,0.15384615384615385
+Armistice,Holy Virgin,armistice,holy,0.14285714285714285
+Armistice,Holy Virgin,armistice,virgin,0.15384615384615385
+Armistice,Holy Virgin,phoenix,holy,0.4444444444444444
+Armistice,Holy Virgin,phoenix,virgin,0.3157894736842105
+Armistice,Holy Virgin,phoenix,holy,0.4444444444444444
+Armistice,Holy Virgin,phoenix,virgin,0.3157894736842105
+Armistice,Almaz,armistice,every,0
+Armistice,Almaz,armistice,kind,0.25
+Armistice,Almaz,armistice,mood,0.6153846153846154
+Armistice,Almaz,phoenix,every,0
+Armistice,Almaz,phoenix,kind,0.1
+Armistice,Almaz,phoenix,mood,0.11764705882352941
+Armistice,Footprints In The Sand,armistice,sand,0.25
+Armistice,Footprints In The Sand,armistice,footprints,0.3076923076923077
+Armistice,Footprints In The Sand,armistice,marcels,0.11764705882352941
+Armistice,Footprints In The Sand,armistice,best,0.26666666666666666
+Armistice,Footprints In The Sand,phoenix,sand,0.21052631578947367
+Armistice,Footprints In The Sand,phoenix,footprints,0.11764705882352941
+Armistice,Footprints In The Sand,phoenix,marcels,0.2857142857142857
+Armistice,Footprints In The Sand,phoenix,best,0.10526315789473684
+Armistice,Wherever You Go (Album Version),armistice,album,0.13333333333333333
+Armistice,Wherever You Go (Album Version),armistice,version,0.26666666666666666
+Armistice,Wherever You Go (Album Version),armistice,wherever,0
+Armistice,Wherever You Go (Album Version),armistice,go,0.25
+Armistice,Wherever You Go (Album Version),armistice,reverse,0.3333333333333333
+Armistice,Wherever You Go (Album Version),phoenix,album,0.3157894736842105
+Armistice,Wherever You Go (Album Version),phoenix,version,0.10526315789473684
+Armistice,Wherever You Go (Album Version),phoenix,wherever,0
+Armistice,Wherever You Go (Album Version),phoenix,go,0.1
+Armistice,Wherever You Go (Album Version),phoenix,reverse,0.125
+Armistice,Café Del Mar,armistice,mar,0.26666666666666666
+Armistice,Café Del Mar,armistice,mar,0.26666666666666666
+Armistice,Café Del Mar,phoenix,mar,0.10526315789473684
+Armistice,Café Del Mar,phoenix,mar,0.10526315789473684
+Armistice,The Bells,armistice,bells,0.125
+Armistice,The Bells,armistice,years,0.2857142857142857
+Armistice,The Bells,armistice,underground,0.25
+Armistice,The Bells,armistice,sub,0.11764705882352941
+Armistice,The Bells,armistice,club,0.25
+Armistice,The Bells,phoenix,bells,0.3
+Armistice,The Bells,phoenix,years,0.1111111111111111
+Armistice,The Bells,phoenix,underground,0.1
+Armistice,The Bells,phoenix,sub,0.19047619047619047
+Armistice,The Bells,phoenix,club,0.1
+There Are Some Remedies Worse Than The Disease,Undo,remedies,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,remedies,live,0
+There Are Some Remedies Worse Than The Disease,Undo,worse,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,worse,live,0
+There Are Some Remedies Worse Than The Disease,Undo,disease,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,disease,live,0
+There Are Some Remedies Worse Than The Disease,Undo,young,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,young,live,0
+There Are Some Remedies Worse Than The Disease,Undo,mountain,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,mountain,live,0
+There Are Some Remedies Worse Than The Disease,You're The One,remedies,one,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,You're The One,remedies,way,0.25
+There Are Some Remedies Worse Than The Disease,You're The One,worse,one,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,You're The One,worse,way,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,You're The One,disease,one,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You're The One,disease,way,0.4
+There Are Some Remedies Worse Than The Disease,You're The One,young,one,0.125
+There Are Some Remedies Worse Than The Disease,You're The One,young,way,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,You're The One,mountain,one,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You're The One,mountain,way,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Red October,remedies,red,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Red October,remedies,october,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Red October,remedies,better,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Red October,remedies,late,0
+There Are Some Remedies Worse Than The Disease,Red October,remedies,never,0
+There Are Some Remedies Worse Than The Disease,Red October,worse,red,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Red October,worse,october,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Red October,worse,better,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Red October,worse,late,0
+There Are Some Remedies Worse Than The Disease,Red October,worse,never,0
+There Are Some Remedies Worse Than The Disease,Red October,disease,red,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Red October,disease,october,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Red October,disease,better,0.375
+There Are Some Remedies Worse Than The Disease,Red October,disease,late,0
+There Are Some Remedies Worse Than The Disease,Red October,disease,never,0
+There Are Some Remedies Worse Than The Disease,Red October,young,red,0.125
+There Are Some Remedies Worse Than The Disease,Red October,young,october,0.125
+There Are Some Remedies Worse Than The Disease,Red October,young,better,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Red October,young,late,0
+There Are Some Remedies Worse Than The Disease,Red October,young,never,0
+There Are Some Remedies Worse Than The Disease,Red October,mountain,red,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Red October,mountain,october,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Red October,mountain,better,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Red October,mountain,late,0
+There Are Some Remedies Worse Than The Disease,Red October,mountain,never,0
+There Are Some Remedies Worse Than The Disease,Na Vi,remedies,merlin,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Na Vi,worse,merlin,0.25
+There Are Some Remedies Worse Than The Disease,Na Vi,disease,merlin,0.2
+There Are Some Remedies Worse Than The Disease,Na Vi,young,merlin,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Na Vi,mountain,merlin,0.125
+There Are Some Remedies Worse Than The Disease,Wind Farm,remedies,wind,0.1
+There Are Some Remedies Worse Than The Disease,Wind Farm,remedies,farm,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Wind Farm,remedies,better,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Wind Farm,remedies,late,0
+There Are Some Remedies Worse Than The Disease,Wind Farm,remedies,never,0
+There Are Some Remedies Worse Than The Disease,Wind Farm,worse,wind,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Wind Farm,worse,farm,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Wind Farm,worse,better,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Wind Farm,worse,late,0
+There Are Some Remedies Worse Than The Disease,Wind Farm,worse,never,0
+There Are Some Remedies Worse Than The Disease,Wind Farm,disease,wind,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Wind Farm,disease,farm,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Wind Farm,disease,better,0.375
+There Are Some Remedies Worse Than The Disease,Wind Farm,disease,late,0
+There Are Some Remedies Worse Than The Disease,Wind Farm,disease,never,0
+There Are Some Remedies Worse Than The Disease,Wind Farm,young,wind,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Wind Farm,young,farm,0.375
+There Are Some Remedies Worse Than The Disease,Wind Farm,young,better,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Wind Farm,young,late,0
+There Are Some Remedies Worse Than The Disease,Wind Farm,young,never,0
+There Are Some Remedies Worse Than The Disease,Wind Farm,mountain,wind,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Wind Farm,mountain,farm,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Wind Farm,mountain,better,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Wind Farm,mountain,late,0
+There Are Some Remedies Worse Than The Disease,Wind Farm,mountain,never,0
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,e,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,flat,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,horn,0.1
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,concerto,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,andante,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,cantabile,0
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,romance,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,ii,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,little,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,night,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,music,0.25
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),remedies,mozart,0.1
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,e,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,flat,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,horn,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,concerto,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,andante,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,cantabile,0
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,romance,0.5
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,ii,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,little,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,night,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,music,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),worse,mozart,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,e,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,flat,0.125
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,horn,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,concerto,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,andante,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,cantabile,0
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,romance,0.5
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,ii,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,little,0.25
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,night,0.25
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,music,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),disease,mozart,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,e,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,flat,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,horn,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,concerto,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,andante,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,cantabile,0
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,romance,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,ii,0.125
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,little,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,night,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,music,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),young,mozart,0.6
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,e,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,flat,0.5
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,horn,0.4
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,concerto,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,andante,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,cantabile,0
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,romance,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,ii,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,little,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,night,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,music,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),mountain,mozart,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Tive Sim,remedies,yes,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Tive Sim,remedies,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,remedies,top,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Tive Sim,remedies,hat,0.1
+There Are Some Remedies Worse Than The Disease,Tive Sim,worse,yes,0.25
+There Are Some Remedies Worse Than The Disease,Tive Sim,worse,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,worse,top,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Tive Sim,worse,hat,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Tive Sim,disease,yes,0.2
+There Are Some Remedies Worse Than The Disease,Tive Sim,disease,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,disease,top,0.125
+There Are Some Remedies Worse Than The Disease,Tive Sim,disease,hat,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Tive Sim,young,yes,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Tive Sim,young,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,young,top,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Tive Sim,young,hat,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Tive Sim,mountain,yes,0.125
+There Are Some Remedies Worse Than The Disease,Tive Sim,mountain,new,0
+There Are Some Remedies Worse Than The Disease,Tive Sim,mountain,top,0.5
+There Are Some Remedies Worse Than The Disease,Tive Sim,mountain,hat,0.4
+There Are Some Remedies Worse Than The Disease,Firestarter,remedies,put,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Firestarter,remedies,hands,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,Firestarter,worse,put,0.25
+There Are Some Remedies Worse Than The Disease,Firestarter,worse,hands,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Firestarter,disease,put,0.2
+There Are Some Remedies Worse Than The Disease,Firestarter,disease,hands,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Firestarter,young,put,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Firestarter,young,hands,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Firestarter,mountain,put,0.125
+There Are Some Remedies Worse Than The Disease,Firestarter,mountain,hands,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Holy Virgin,remedies,holy,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Holy Virgin,remedies,virgin,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Holy Virgin,remedies,holy,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Holy Virgin,remedies,virgin,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Holy Virgin,worse,holy,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Holy Virgin,worse,virgin,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Holy Virgin,worse,holy,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Holy Virgin,worse,virgin,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Holy Virgin,disease,holy,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Holy Virgin,disease,virgin,0.125
+There Are Some Remedies Worse Than The Disease,Holy Virgin,disease,holy,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Holy Virgin,disease,virgin,0.125
+There Are Some Remedies Worse Than The Disease,Holy Virgin,young,holy,0.4
+There Are Some Remedies Worse Than The Disease,Holy Virgin,young,virgin,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Holy Virgin,young,holy,0.4
+There Are Some Remedies Worse Than The Disease,Holy Virgin,young,virgin,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Holy Virgin,mountain,holy,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Holy Virgin,mountain,virgin,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Holy Virgin,mountain,holy,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Holy Virgin,mountain,virgin,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Almaz,remedies,every,0
+There Are Some Remedies Worse Than The Disease,Almaz,remedies,kind,0.3
+There Are Some Remedies Worse Than The Disease,Almaz,remedies,mood,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Almaz,worse,every,0
+There Are Some Remedies Worse Than The Disease,Almaz,worse,kind,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Almaz,worse,mood,0.5
+There Are Some Remedies Worse Than The Disease,Almaz,disease,every,0
+There Are Some Remedies Worse Than The Disease,Almaz,disease,kind,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Almaz,disease,mood,0.5
+There Are Some Remedies Worse Than The Disease,Almaz,young,every,0
+There Are Some Remedies Worse Than The Disease,Almaz,young,kind,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Almaz,young,mood,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Almaz,mountain,every,0
+There Are Some Remedies Worse Than The Disease,Almaz,mountain,kind,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Almaz,mountain,mood,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,remedies,sand,0.2
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,remedies,footprints,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,remedies,marcels,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,worse,sand,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,worse,footprints,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,worse,marcels,0.125
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,disease,sand,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,disease,footprints,0.25
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,disease,marcels,0.1
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,young,sand,0.25
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,young,footprints,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,young,marcels,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,young,best,0.125
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,mountain,sand,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,mountain,footprints,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,mountain,marcels,0.375
+There Are Some Remedies Worse Than The Disease,Footprints In The Sand,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),remedies,wherever,0
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),remedies,go,0.2
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),remedies,reverse,0.25
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),worse,wherever,0
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),worse,go,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),worse,reverse,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),disease,wherever,0
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),disease,go,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),disease,reverse,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),young,wherever,0
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),young,go,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),young,reverse,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),mountain,wherever,0
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),mountain,go,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Wherever You Go (Album Version),mountain,reverse,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Café Del Mar,remedies,mar,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Café Del Mar,remedies,mar,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Café Del Mar,worse,mar,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Café Del Mar,worse,mar,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Café Del Mar,disease,mar,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Café Del Mar,disease,mar,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Café Del Mar,young,mar,0.125
+There Are Some Remedies Worse Than The Disease,Café Del Mar,young,mar,0.125
+There Are Some Remedies Worse Than The Disease,Café Del Mar,mountain,mar,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Café Del Mar,mountain,mar,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,The Bells,remedies,bells,0.1
+There Are Some Remedies Worse Than The Disease,The Bells,remedies,years,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The Bells,remedies,underground,0.2
+There Are Some Remedies Worse Than The Disease,The Bells,remedies,sub,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,The Bells,remedies,club,0.2
+There Are Some Remedies Worse Than The Disease,The Bells,worse,bells,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Bells,worse,years,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,The Bells,worse,underground,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,The Bells,worse,sub,0.125
+There Are Some Remedies Worse Than The Disease,The Bells,worse,club,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,The Bells,disease,bells,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,The Bells,disease,years,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,The Bells,disease,underground,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,The Bells,disease,sub,0.1
+There Are Some Remedies Worse Than The Disease,The Bells,disease,club,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,The Bells,young,bells,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,The Bells,young,years,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Bells,young,underground,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,The Bells,young,sub,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,The Bells,young,club,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,The Bells,mountain,bells,0.4
+There Are Some Remedies Worse Than The Disease,The Bells,mountain,years,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The Bells,mountain,underground,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Bells,mountain,sub,0.25
+There Are Some Remedies Worse Than The Disease,The Bells,mountain,club,0.13333333333333333
+Swimming In The Flood,Undo,swimming,undo,0
+Swimming In The Flood,Undo,swimming,live,0
+Swimming In The Flood,Undo,flood,undo,0
+Swimming In The Flood,Undo,flood,live,0
+Swimming In The Flood,Undo,manners,undo,0
+Swimming In The Flood,Undo,manners,live,0
+Swimming In The Flood,You're The One,swimming,one,0.2222222222222222
+Swimming In The Flood,You're The One,swimming,way,0.26666666666666666
+Swimming In The Flood,You're The One,flood,one,0.13333333333333333
+Swimming In The Flood,You're The One,flood,way,0.16666666666666666
+Swimming In The Flood,You're The One,manners,one,0.2857142857142857
+Swimming In The Flood,You're The One,manners,way,0.5454545454545454
+Swimming In The Flood,Red October,swimming,red,0.2222222222222222
+Swimming In The Flood,Red October,swimming,october,0.2222222222222222
+Swimming In The Flood,Red October,swimming,better,0.25
+Swimming In The Flood,Red October,swimming,late,0
+Swimming In The Flood,Red October,swimming,never,0
+Swimming In The Flood,Red October,flood,red,0.13333333333333333
+Swimming In The Flood,Red October,flood,october,0.13333333333333333
+Swimming In The Flood,Red October,flood,better,0.15384615384615385
+Swimming In The Flood,Red October,flood,late,0
+Swimming In The Flood,Red October,flood,never,0
+Swimming In The Flood,Red October,manners,red,0.42857142857142855
+Swimming In The Flood,Red October,manners,october,0.2857142857142857
+Swimming In The Flood,Red October,manners,better,0.5
+Swimming In The Flood,Red October,manners,late,0
+Swimming In The Flood,Red October,manners,never,0
+Swimming In The Flood,Na Vi,swimming,merlin,0.3
+Swimming In The Flood,Na Vi,flood,merlin,0.11764705882352941
+Swimming In The Flood,Na Vi,manners,merlin,0.25
+Swimming In The Flood,Wind Farm,swimming,wind,0.10526315789473684
+Swimming In The Flood,Wind Farm,swimming,farm,0.1111111111111111
+Swimming In The Flood,Wind Farm,swimming,better,0.25
+Swimming In The Flood,Wind Farm,swimming,late,0
+Swimming In The Flood,Wind Farm,swimming,never,0
+Swimming In The Flood,Wind Farm,flood,wind,0.625
+Swimming In The Flood,Wind Farm,flood,farm,0.26666666666666666
+Swimming In The Flood,Wind Farm,flood,better,0.15384615384615385
+Swimming In The Flood,Wind Farm,flood,late,0
+Swimming In The Flood,Wind Farm,flood,never,0
+Swimming In The Flood,Wind Farm,manners,wind,0.13333333333333333
+Swimming In The Flood,Wind Farm,manners,farm,0.14285714285714285
+Swimming In The Flood,Wind Farm,manners,better,0.5
+Swimming In The Flood,Wind Farm,manners,late,0
+Swimming In The Flood,Wind Farm,manners,never,0
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,e,0.11764705882352941
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,flat,0.125
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,horn,0.10526315789473684
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,concerto,0.23529411764705882
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,andante,0.23529411764705882
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,cantabile,0
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,romance,0.25
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,ii,0.2222222222222222
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,little,0.25
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,night,0.25
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,music,0.26666666666666666
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),swimming,mozart,0.10526315789473684
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,e,0.2857142857142857
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,flat,0.3076923076923077
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,horn,0.25
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,concerto,0.14285714285714285
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,andante,0.14285714285714285
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,cantabile,0
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,romance,0.15384615384615385
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,ii,0.13333333333333333
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,little,0.15384615384615385
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,night,0.15384615384615385
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,music,0.16666666666666666
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),flood,mozart,0.25
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,e,0.15384615384615385
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,flat,0.16666666666666666
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,horn,0.13333333333333333
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,concerto,0.3076923076923077
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,andante,0.46153846153846156
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,cantabile,0
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,romance,0.5
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,ii,0.2857142857142857
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,little,0.3333333333333333
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,night,0.3333333333333333
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,music,0.36363636363636365
+Swimming In The Flood,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),manners,mozart,0.13333333333333333
+Swimming In The Flood,Tive Sim,swimming,yes,0.2
+Swimming In The Flood,Tive Sim,swimming,new,0
+Swimming In The Flood,Tive Sim,swimming,top,0.125
+Swimming In The Flood,Tive Sim,swimming,hat,0.10526315789473684
+Swimming In The Flood,Tive Sim,flood,yes,0.11764705882352941
+Swimming In The Flood,Tive Sim,flood,new,0
+Swimming In The Flood,Tive Sim,flood,top,0.3076923076923077
+Swimming In The Flood,Tive Sim,flood,hat,0.25
+Swimming In The Flood,Tive Sim,manners,yes,0.25
+Swimming In The Flood,Tive Sim,manners,new,0
+Swimming In The Flood,Tive Sim,manners,top,0.16666666666666666
+Swimming In The Flood,Tive Sim,manners,hat,0.13333333333333333
+Swimming In The Flood,Firestarter,swimming,put,0.2
+Swimming In The Flood,Firestarter,swimming,hands,0.5
+Swimming In The Flood,Firestarter,flood,put,0.11764705882352941
+Swimming In The Flood,Firestarter,flood,hands,0.125
+Swimming In The Flood,Firestarter,manners,put,0.25
+Swimming In The Flood,Firestarter,manners,hands,0.26666666666666666
+Swimming In The Flood,Holy Virgin,swimming,holy,0.11764705882352941
+Swimming In The Flood,Holy Virgin,swimming,virgin,0.125
+Swimming In The Flood,Holy Virgin,swimming,holy,0.11764705882352941
+Swimming In The Flood,Holy Virgin,swimming,virgin,0.125
+Swimming In The Flood,Holy Virgin,flood,holy,0.2857142857142857
+Swimming In The Flood,Holy Virgin,flood,virgin,0.3076923076923077
+Swimming In The Flood,Holy Virgin,flood,holy,0.2857142857142857
+Swimming In The Flood,Holy Virgin,flood,virgin,0.3076923076923077
+Swimming In The Flood,Holy Virgin,manners,holy,0.15384615384615385
+Swimming In The Flood,Holy Virgin,manners,virgin,0.16666666666666666
+Swimming In The Flood,Holy Virgin,manners,holy,0.15384615384615385
+Swimming In The Flood,Holy Virgin,manners,virgin,0.16666666666666666
+Swimming In The Flood,Almaz,swimming,every,0
+Swimming In The Flood,Almaz,swimming,kind,0.3157894736842105
+Swimming In The Flood,Almaz,swimming,mood,0.25
+Swimming In The Flood,Almaz,flood,every,0
+Swimming In The Flood,Almaz,flood,kind,0.125
+Swimming In The Flood,Almaz,flood,mood,0.15384615384615385
+Swimming In The Flood,Almaz,manners,every,0
+Swimming In The Flood,Almaz,manners,kind,0.26666666666666666
+Swimming In The Flood,Almaz,manners,mood,0.5
+Swimming In The Flood,Footprints In The Sand,swimming,sand,0.21052631578947367
+Swimming In The Flood,Footprints In The Sand,swimming,footprints,0.25
+Swimming In The Flood,Footprints In The Sand,swimming,marcels,0.1
+Swimming In The Flood,Footprints In The Sand,swimming,best,0.6666666666666666
+Swimming In The Flood,Footprints In The Sand,flood,sand,0.26666666666666666
+Swimming In The Flood,Footprints In The Sand,flood,footprints,0.15384615384615385
+Swimming In The Flood,Footprints In The Sand,flood,marcels,0.23529411764705882
+Swimming In The Flood,Footprints In The Sand,flood,best,0.13333333333333333
+Swimming In The Flood,Footprints In The Sand,manners,sand,0.26666666666666666
+Swimming In The Flood,Footprints In The Sand,manners,footprints,0.3333333333333333
+Swimming In The Flood,Footprints In The Sand,manners,marcels,0.125
+Swimming In The Flood,Footprints In The Sand,manners,best,0.2857142857142857
+Swimming In The Flood,Wherever You Go (Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,Wherever You Go (Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Wherever You Go (Album Version),swimming,wherever,0
+Swimming In The Flood,Wherever You Go (Album Version),swimming,go,0.21052631578947367
+Swimming In The Flood,Wherever You Go (Album Version),swimming,reverse,0.26666666666666666
+Swimming In The Flood,Wherever You Go (Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,Wherever You Go (Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,Wherever You Go (Album Version),flood,wherever,0
+Swimming In The Flood,Wherever You Go (Album Version),flood,go,0.125
+Swimming In The Flood,Wherever You Go (Album Version),flood,reverse,0.16666666666666666
+Swimming In The Flood,Wherever You Go (Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,Wherever You Go (Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,Wherever You Go (Album Version),manners,wherever,0
+Swimming In The Flood,Wherever You Go (Album Version),manners,go,0.26666666666666666
+Swimming In The Flood,Wherever You Go (Album Version),manners,reverse,0.36363636363636365
+Swimming In The Flood,Café Del Mar,swimming,mar,0.2222222222222222
+Swimming In The Flood,Café Del Mar,swimming,mar,0.2222222222222222
+Swimming In The Flood,Café Del Mar,flood,mar,0.13333333333333333
+Swimming In The Flood,Café Del Mar,flood,mar,0.13333333333333333
+Swimming In The Flood,Café Del Mar,manners,mar,0.2857142857142857
+Swimming In The Flood,Café Del Mar,manners,mar,0.2857142857142857
+Swimming In The Flood,The Bells,swimming,bells,0.10526315789473684
+Swimming In The Flood,The Bells,swimming,years,0.23529411764705882
+Swimming In The Flood,The Bells,swimming,underground,0.21052631578947367
+Swimming In The Flood,The Bells,swimming,sub,0.1
+Swimming In The Flood,The Bells,swimming,club,0.21052631578947367
+Swimming In The Flood,The Bells,flood,bells,0.25
+Swimming In The Flood,The Bells,flood,years,0.14285714285714285
+Swimming In The Flood,The Bells,flood,underground,0.125
+Swimming In The Flood,The Bells,flood,sub,0.23529411764705882
+Swimming In The Flood,The Bells,flood,club,0.125
+Swimming In The Flood,The Bells,manners,bells,0.13333333333333333
+Swimming In The Flood,The Bells,manners,years,0.3076923076923077
+Swimming In The Flood,The Bells,manners,underground,0.26666666666666666
+Swimming In The Flood,The Bells,manners,sub,0.125
+Swimming In The Flood,The Bells,manners,club,0.26666666666666666

@@ -1,0 +1,1592 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Help Yourself,sun,help,0.13333333333333333
+Sun Hands,Help Yourself,sun,frank,0.4444444444444444
+Sun Hands,Help Yourself,hands,help,0.5882352941176471
+Sun Hands,Help Yourself,hands,frank,0.125
+Sun Hands,Help Yourself,gorilla,help,0.08695652173913043
+Sun Hands,Help Yourself,gorilla,frank,0.46153846153846156
+Sun Hands,Help Yourself,manor,help,0.11764705882352941
+Sun Hands,Help Yourself,manor,frank,0.4
+Sun Hands,Some Unholy War,sun,unholy,0
+Sun Hands,Some Unholy War,sun,war,0.13333333333333333
+Sun Hands,Some Unholy War,sun,frank,0.4444444444444444
+Sun Hands,Some Unholy War,sun,black,0.125
+Sun Hands,Some Unholy War,sun,back,0.2857142857142857
+Sun Hands,Some Unholy War,hands,unholy,0
+Sun Hands,Some Unholy War,hands,war,0.5555555555555556
+Sun Hands,Some Unholy War,hands,frank,0.125
+Sun Hands,Some Unholy War,hands,black,0.23529411764705882
+Sun Hands,Some Unholy War,hands,back,0.13333333333333333
+Sun Hands,Some Unholy War,gorilla,unholy,0
+Sun Hands,Some Unholy War,gorilla,war,0.08695652173913043
+Sun Hands,Some Unholy War,gorilla,frank,0.46153846153846156
+Sun Hands,Some Unholy War,gorilla,black,0.08333333333333333
+Sun Hands,Some Unholy War,gorilla,back,0.18181818181818182
+Sun Hands,Some Unholy War,manor,unholy,0
+Sun Hands,Some Unholy War,manor,war,0.11764705882352941
+Sun Hands,Some Unholy War,manor,frank,0.4
+Sun Hands,Some Unholy War,manor,black,0.1111111111111111
+Sun Hands,Some Unholy War,manor,back,0.25
+Sun Hands,Stronger Than Me,sun,stronger,0
+Sun Hands,Stronger Than Me,sun,rarities,0.11764705882352941
+Sun Hands,Stronger Than Me,sun,edition,0.42105263157894735
+Sun Hands,Stronger Than Me,sun,frank,0.4444444444444444
+Sun Hands,Stronger Than Me,hands,stronger,0
+Sun Hands,Stronger Than Me,hands,rarities,0.2222222222222222
+Sun Hands,Stronger Than Me,hands,edition,0.1
+Sun Hands,Stronger Than Me,hands,frank,0.125
+Sun Hands,Stronger Than Me,gorilla,stronger,0
+Sun Hands,Stronger Than Me,gorilla,rarities,0.08
+Sun Hands,Stronger Than Me,gorilla,edition,0.2962962962962963
+Sun Hands,Stronger Than Me,gorilla,frank,0.46153846153846156
+Sun Hands,Stronger Than Me,manor,stronger,0
+Sun Hands,Stronger Than Me,manor,rarities,0.10526315789473684
+Sun Hands,Stronger Than Me,manor,edition,0.47619047619047616
+Sun Hands,Stronger Than Me,manor,frank,0.4
+Sun Hands,You Know I'm No Good,sun,know,0.125
+Sun Hands,You Know I'm No Good,sun,good,0.13333333333333333
+Sun Hands,You Know I'm No Good,sun,version,0.125
+Sun Hands,You Know I'm No Good,sun,know,0.125
+Sun Hands,You Know I'm No Good,sun,good,0.13333333333333333
+Sun Hands,You Know I'm No Good,hands,know,0.35294117647058826
+Sun Hands,You Know I'm No Good,hands,good,0.25
+Sun Hands,You Know I'm No Good,hands,version,0.23529411764705882
+Sun Hands,You Know I'm No Good,hands,know,0.35294117647058826
+Sun Hands,You Know I'm No Good,hands,good,0.25
+Sun Hands,You Know I'm No Good,gorilla,know,0.08333333333333333
+Sun Hands,You Know I'm No Good,gorilla,good,0.08695652173913043
+Sun Hands,You Know I'm No Good,gorilla,version,0.08333333333333333
+Sun Hands,You Know I'm No Good,gorilla,know,0.08333333333333333
+Sun Hands,You Know I'm No Good,gorilla,good,0.08695652173913043
+Sun Hands,You Know I'm No Good,manor,know,0.1111111111111111
+Sun Hands,You Know I'm No Good,manor,good,0.11764705882352941
+Sun Hands,You Know I'm No Good,manor,version,0.1111111111111111
+Sun Hands,You Know I'm No Good,manor,know,0.1111111111111111
+Sun Hands,You Know I'm No Good,manor,good,0.11764705882352941
+Sun Hands,I Heard Love Is Blind,sun,heard,0
+Sun Hands,I Heard Love Is Blind,sun,love,0.13333333333333333
+Sun Hands,I Heard Love Is Blind,sun,blind,0.15384615384615385
+Sun Hands,I Heard Love Is Blind,sun,frank,0.4444444444444444
+Sun Hands,I Heard Love Is Blind,hands,heard,0
+Sun Hands,I Heard Love Is Blind,hands,love,0.25
+Sun Hands,I Heard Love Is Blind,hands,blind,0.2857142857142857
+Sun Hands,I Heard Love Is Blind,hands,frank,0.125
+Sun Hands,I Heard Love Is Blind,gorilla,heard,0
+Sun Hands,I Heard Love Is Blind,gorilla,love,0.08695652173913043
+Sun Hands,I Heard Love Is Blind,gorilla,blind,0.09523809523809523
+Sun Hands,I Heard Love Is Blind,gorilla,frank,0.46153846153846156
+Sun Hands,I Heard Love Is Blind,manor,heard,0
+Sun Hands,I Heard Love Is Blind,manor,love,0.11764705882352941
+Sun Hands,I Heard Love Is Blind,manor,blind,0.13333333333333333
+Sun Hands,I Heard Love Is Blind,manor,frank,0.4
+Sun Hands,October Song,sun,october,0.125
+Sun Hands,October Song,sun,song,0.13333333333333333
+Sun Hands,October Song,sun,frank,0.4444444444444444
+Sun Hands,October Song,sun,black,0.125
+Sun Hands,October Song,sun,back,0.2857142857142857
+Sun Hands,October Song,hands,october,0.23529411764705882
+Sun Hands,October Song,hands,song,0.25
+Sun Hands,October Song,hands,frank,0.125
+Sun Hands,October Song,hands,black,0.23529411764705882
+Sun Hands,October Song,hands,back,0.13333333333333333
+Sun Hands,October Song,gorilla,october,0.08333333333333333
+Sun Hands,October Song,gorilla,song,0.08695652173913043
+Sun Hands,October Song,gorilla,frank,0.46153846153846156
+Sun Hands,October Song,gorilla,black,0.08333333333333333
+Sun Hands,October Song,gorilla,back,0.18181818181818182
+Sun Hands,October Song,manor,october,0.1111111111111111
+Sun Hands,October Song,manor,song,0.11764705882352941
+Sun Hands,October Song,manor,frank,0.4
+Sun Hands,October Song,manor,black,0.1111111111111111
+Sun Hands,October Song,manor,back,0.25
+Sun Hands,Back To Black,sun,black,0.125
+Sun Hands,Back To Black,sun,back,0.2857142857142857
+Sun Hands,Back To Black,sun,black,0.125
+Sun Hands,Back To Black,sun,back,0.2857142857142857
+Sun Hands,Back To Black,hands,black,0.23529411764705882
+Sun Hands,Back To Black,hands,back,0.13333333333333333
+Sun Hands,Back To Black,hands,black,0.23529411764705882
+Sun Hands,Back To Black,hands,back,0.13333333333333333
+Sun Hands,Back To Black,gorilla,black,0.08333333333333333
+Sun Hands,Back To Black,gorilla,back,0.18181818181818182
+Sun Hands,Back To Black,gorilla,black,0.08333333333333333
+Sun Hands,Back To Black,gorilla,back,0.18181818181818182
+Sun Hands,Back To Black,manor,black,0.1111111111111111
+Sun Hands,Back To Black,manor,back,0.25
+Sun Hands,Back To Black,manor,black,0.1111111111111111
+Sun Hands,Back To Black,manor,back,0.25
+Sun Hands,Know You Now,sun,know,0.125
+Sun Hands,Know You Now,sun,frank,0.4444444444444444
+Sun Hands,Know You Now,hands,know,0.35294117647058826
+Sun Hands,Know You Now,hands,frank,0.125
+Sun Hands,Know You Now,gorilla,know,0.08333333333333333
+Sun Hands,Know You Now,gorilla,frank,0.46153846153846156
+Sun Hands,Know You Now,manor,know,0.1111111111111111
+Sun Hands,Know You Now,manor,frank,0.4
+Sun Hands,Amy Amy Amy / Outro,sun,frank,0.4444444444444444
+Sun Hands,Amy Amy Amy / Outro,hands,frank,0.125
+Sun Hands,Amy Amy Amy / Outro,gorilla,frank,0.46153846153846156
+Sun Hands,Amy Amy Amy / Outro,manor,frank,0.4
+Sun Hands,Wake Up Alone,sun,wake,0.2857142857142857
+Sun Hands,Wake Up Alone,sun,alone,0
+Sun Hands,Wake Up Alone,sun,frank,0.4444444444444444
+Sun Hands,Wake Up Alone,sun,black,0.125
+Sun Hands,Wake Up Alone,sun,back,0.2857142857142857
+Sun Hands,Wake Up Alone,hands,wake,0.13333333333333333
+Sun Hands,Wake Up Alone,hands,alone,0
+Sun Hands,Wake Up Alone,hands,frank,0.125
+Sun Hands,Wake Up Alone,hands,black,0.23529411764705882
+Sun Hands,Wake Up Alone,hands,back,0.13333333333333333
+Sun Hands,Wake Up Alone,gorilla,wake,0.18181818181818182
+Sun Hands,Wake Up Alone,gorilla,alone,0
+Sun Hands,Wake Up Alone,gorilla,frank,0.46153846153846156
+Sun Hands,Wake Up Alone,gorilla,black,0.08333333333333333
+Sun Hands,Wake Up Alone,gorilla,back,0.18181818181818182
+Sun Hands,Wake Up Alone,manor,wake,0.25
+Sun Hands,Wake Up Alone,manor,alone,0
+Sun Hands,Wake Up Alone,manor,frank,0.4
+Sun Hands,Wake Up Alone,manor,black,0.1111111111111111
+Sun Hands,Wake Up Alone,manor,back,0.25
+Sun Hands,Just Friends,sun,friends,0.5
+Sun Hands,Just Friends,sun,black,0.125
+Sun Hands,Just Friends,sun,back,0.2857142857142857
+Sun Hands,Just Friends,hands,friends,0.14285714285714285
+Sun Hands,Just Friends,hands,black,0.23529411764705882
+Sun Hands,Just Friends,hands,back,0.13333333333333333
+Sun Hands,Just Friends,gorilla,friends,0.5
+Sun Hands,Just Friends,gorilla,black,0.08333333333333333
+Sun Hands,Just Friends,gorilla,back,0.18181818181818182
+Sun Hands,Just Friends,manor,friends,0.4444444444444444
+Sun Hands,Just Friends,manor,black,0.1111111111111111
+Sun Hands,Just Friends,manor,back,0.25
+Sun Hands,He Can Only Hold Her,sun,hold,0.11764705882352941
+Sun Hands,He Can Only Hold Her,sun,black,0.125
+Sun Hands,He Can Only Hold Her,sun,back,0.2857142857142857
+Sun Hands,He Can Only Hold Her,hands,hold,0.5263157894736842
+Sun Hands,He Can Only Hold Her,hands,black,0.23529411764705882
+Sun Hands,He Can Only Hold Her,hands,back,0.13333333333333333
+Sun Hands,He Can Only Hold Her,gorilla,hold,0.08
+Sun Hands,He Can Only Hold Her,gorilla,black,0.08333333333333333
+Sun Hands,He Can Only Hold Her,gorilla,back,0.18181818181818182
+Sun Hands,He Can Only Hold Her,manor,hold,0.10526315789473684
+Sun Hands,He Can Only Hold Her,manor,black,0.1111111111111111
+Sun Hands,He Can Only Hold Her,manor,back,0.25
+Camera Talk,Help Yourself,camera,help,0.125
+Camera Talk,Help Yourself,camera,frank,0.42105263157894735
+Camera Talk,Help Yourself,talk,help,0.2857142857142857
+Camera Talk,Help Yourself,talk,frank,0.14285714285714285
+Camera Talk,Help Yourself,camera,help,0.125
+Camera Talk,Help Yourself,camera,frank,0.42105263157894735
+Camera Talk,Help Yourself,talk,help,0.2857142857142857
+Camera Talk,Help Yourself,talk,frank,0.14285714285714285
+Camera Talk,Some Unholy War,camera,unholy,0
+Camera Talk,Some Unholy War,camera,war,0.125
+Camera Talk,Some Unholy War,camera,frank,0.42105263157894735
+Camera Talk,Some Unholy War,camera,black,0.11764705882352941
+Camera Talk,Some Unholy War,camera,back,0.26666666666666666
+Camera Talk,Some Unholy War,talk,unholy,0
+Camera Talk,Some Unholy War,talk,war,0.2857142857142857
+Camera Talk,Some Unholy War,talk,frank,0.14285714285714285
+Camera Talk,Some Unholy War,talk,black,0.26666666666666666
+Camera Talk,Some Unholy War,talk,back,0.15384615384615385
+Camera Talk,Some Unholy War,camera,unholy,0
+Camera Talk,Some Unholy War,camera,war,0.125
+Camera Talk,Some Unholy War,camera,frank,0.42105263157894735
+Camera Talk,Some Unholy War,camera,black,0.11764705882352941
+Camera Talk,Some Unholy War,camera,back,0.26666666666666666
+Camera Talk,Some Unholy War,talk,unholy,0
+Camera Talk,Some Unholy War,talk,war,0.2857142857142857
+Camera Talk,Some Unholy War,talk,frank,0.14285714285714285
+Camera Talk,Some Unholy War,talk,black,0.26666666666666666
+Camera Talk,Some Unholy War,talk,back,0.15384615384615385
+Camera Talk,Stronger Than Me,camera,stronger,0
+Camera Talk,Stronger Than Me,camera,rarities,0.1111111111111111
+Camera Talk,Stronger Than Me,camera,edition,0.5
+Camera Talk,Stronger Than Me,camera,frank,0.42105263157894735
+Camera Talk,Stronger Than Me,talk,stronger,0
+Camera Talk,Stronger Than Me,talk,rarities,0.25
+Camera Talk,Stronger Than Me,talk,edition,0.1111111111111111
+Camera Talk,Stronger Than Me,talk,frank,0.14285714285714285
+Camera Talk,Stronger Than Me,camera,stronger,0
+Camera Talk,Stronger Than Me,camera,rarities,0.1111111111111111
+Camera Talk,Stronger Than Me,camera,edition,0.5
+Camera Talk,Stronger Than Me,camera,frank,0.42105263157894735
+Camera Talk,Stronger Than Me,talk,stronger,0
+Camera Talk,Stronger Than Me,talk,rarities,0.25
+Camera Talk,Stronger Than Me,talk,edition,0.1111111111111111
+Camera Talk,Stronger Than Me,talk,frank,0.14285714285714285
+Camera Talk,You Know I'm No Good,camera,know,0.11764705882352941
+Camera Talk,You Know I'm No Good,camera,good,0.125
+Camera Talk,You Know I'm No Good,camera,version,0.11764705882352941
+Camera Talk,You Know I'm No Good,camera,know,0.11764705882352941
+Camera Talk,You Know I'm No Good,camera,good,0.125
+Camera Talk,You Know I'm No Good,talk,know,0.26666666666666666
+Camera Talk,You Know I'm No Good,talk,good,0.2857142857142857
+Camera Talk,You Know I'm No Good,talk,version,0.4
+Camera Talk,You Know I'm No Good,talk,know,0.26666666666666666
+Camera Talk,You Know I'm No Good,talk,good,0.2857142857142857
+Camera Talk,You Know I'm No Good,camera,know,0.11764705882352941
+Camera Talk,You Know I'm No Good,camera,good,0.125
+Camera Talk,You Know I'm No Good,camera,version,0.11764705882352941
+Camera Talk,You Know I'm No Good,camera,know,0.11764705882352941
+Camera Talk,You Know I'm No Good,camera,good,0.125
+Camera Talk,You Know I'm No Good,talk,know,0.26666666666666666
+Camera Talk,You Know I'm No Good,talk,good,0.2857142857142857
+Camera Talk,You Know I'm No Good,talk,version,0.4
+Camera Talk,You Know I'm No Good,talk,know,0.26666666666666666
+Camera Talk,You Know I'm No Good,talk,good,0.2857142857142857
+Camera Talk,I Heard Love Is Blind,camera,heard,0
+Camera Talk,I Heard Love Is Blind,camera,love,0.125
+Camera Talk,I Heard Love Is Blind,camera,blind,0.14285714285714285
+Camera Talk,I Heard Love Is Blind,camera,frank,0.42105263157894735
+Camera Talk,I Heard Love Is Blind,talk,heard,0
+Camera Talk,I Heard Love Is Blind,talk,love,0.2857142857142857
+Camera Talk,I Heard Love Is Blind,talk,blind,0.3333333333333333
+Camera Talk,I Heard Love Is Blind,talk,frank,0.14285714285714285
+Camera Talk,I Heard Love Is Blind,camera,heard,0
+Camera Talk,I Heard Love Is Blind,camera,love,0.125
+Camera Talk,I Heard Love Is Blind,camera,blind,0.14285714285714285
+Camera Talk,I Heard Love Is Blind,camera,frank,0.42105263157894735
+Camera Talk,I Heard Love Is Blind,talk,heard,0
+Camera Talk,I Heard Love Is Blind,talk,love,0.2857142857142857
+Camera Talk,I Heard Love Is Blind,talk,blind,0.3333333333333333
+Camera Talk,I Heard Love Is Blind,talk,frank,0.14285714285714285
+Camera Talk,October Song,camera,october,0.11764705882352941
+Camera Talk,October Song,camera,song,0.125
+Camera Talk,October Song,camera,frank,0.42105263157894735
+Camera Talk,October Song,camera,black,0.11764705882352941
+Camera Talk,October Song,camera,back,0.26666666666666666
+Camera Talk,October Song,talk,october,0.26666666666666666
+Camera Talk,October Song,talk,song,0.5714285714285714
+Camera Talk,October Song,talk,frank,0.14285714285714285
+Camera Talk,October Song,talk,black,0.26666666666666666
+Camera Talk,October Song,talk,back,0.15384615384615385
+Camera Talk,October Song,camera,october,0.11764705882352941
+Camera Talk,October Song,camera,song,0.125
+Camera Talk,October Song,camera,frank,0.42105263157894735
+Camera Talk,October Song,camera,black,0.11764705882352941
+Camera Talk,October Song,camera,back,0.26666666666666666
+Camera Talk,October Song,talk,october,0.26666666666666666
+Camera Talk,October Song,talk,song,0.5714285714285714
+Camera Talk,October Song,talk,frank,0.14285714285714285
+Camera Talk,October Song,talk,black,0.26666666666666666
+Camera Talk,October Song,talk,back,0.15384615384615385
+Camera Talk,Back To Black,camera,black,0.11764705882352941
+Camera Talk,Back To Black,camera,back,0.26666666666666666
+Camera Talk,Back To Black,camera,black,0.11764705882352941
+Camera Talk,Back To Black,camera,back,0.26666666666666666
+Camera Talk,Back To Black,talk,black,0.26666666666666666
+Camera Talk,Back To Black,talk,back,0.15384615384615385
+Camera Talk,Back To Black,talk,black,0.26666666666666666
+Camera Talk,Back To Black,talk,back,0.15384615384615385
+Camera Talk,Back To Black,camera,black,0.11764705882352941
+Camera Talk,Back To Black,camera,back,0.26666666666666666
+Camera Talk,Back To Black,camera,black,0.11764705882352941
+Camera Talk,Back To Black,camera,back,0.26666666666666666
+Camera Talk,Back To Black,talk,black,0.26666666666666666
+Camera Talk,Back To Black,talk,back,0.15384615384615385
+Camera Talk,Back To Black,talk,black,0.26666666666666666
+Camera Talk,Back To Black,talk,back,0.15384615384615385
+Camera Talk,Know You Now,camera,know,0.11764705882352941
+Camera Talk,Know You Now,camera,frank,0.42105263157894735
+Camera Talk,Know You Now,talk,know,0.26666666666666666
+Camera Talk,Know You Now,talk,frank,0.14285714285714285
+Camera Talk,Know You Now,camera,know,0.11764705882352941
+Camera Talk,Know You Now,camera,frank,0.42105263157894735
+Camera Talk,Know You Now,talk,know,0.26666666666666666
+Camera Talk,Know You Now,talk,frank,0.14285714285714285
+Camera Talk,Amy Amy Amy / Outro,camera,frank,0.42105263157894735
+Camera Talk,Amy Amy Amy / Outro,talk,frank,0.14285714285714285
+Camera Talk,Amy Amy Amy / Outro,camera,frank,0.42105263157894735
+Camera Talk,Amy Amy Amy / Outro,talk,frank,0.14285714285714285
+Camera Talk,Wake Up Alone,camera,wake,0.26666666666666666
+Camera Talk,Wake Up Alone,camera,alone,0
+Camera Talk,Wake Up Alone,camera,frank,0.42105263157894735
+Camera Talk,Wake Up Alone,camera,black,0.11764705882352941
+Camera Talk,Wake Up Alone,camera,back,0.26666666666666666
+Camera Talk,Wake Up Alone,talk,wake,0.15384615384615385
+Camera Talk,Wake Up Alone,talk,alone,0
+Camera Talk,Wake Up Alone,talk,frank,0.14285714285714285
+Camera Talk,Wake Up Alone,talk,black,0.26666666666666666
+Camera Talk,Wake Up Alone,talk,back,0.15384615384615385
+Camera Talk,Wake Up Alone,camera,wake,0.26666666666666666
+Camera Talk,Wake Up Alone,camera,alone,0
+Camera Talk,Wake Up Alone,camera,frank,0.42105263157894735
+Camera Talk,Wake Up Alone,camera,black,0.11764705882352941
+Camera Talk,Wake Up Alone,camera,back,0.26666666666666666
+Camera Talk,Wake Up Alone,talk,wake,0.15384615384615385
+Camera Talk,Wake Up Alone,talk,alone,0
+Camera Talk,Wake Up Alone,talk,frank,0.14285714285714285
+Camera Talk,Wake Up Alone,talk,black,0.26666666666666666
+Camera Talk,Wake Up Alone,talk,back,0.15384615384615385
+Camera Talk,Just Friends,camera,friends,0.47058823529411764
+Camera Talk,Just Friends,camera,black,0.11764705882352941
+Camera Talk,Just Friends,camera,back,0.26666666666666666
+Camera Talk,Just Friends,talk,friends,0.16666666666666666
+Camera Talk,Just Friends,talk,black,0.26666666666666666
+Camera Talk,Just Friends,talk,back,0.15384615384615385
+Camera Talk,Just Friends,camera,friends,0.47058823529411764
+Camera Talk,Just Friends,camera,black,0.11764705882352941
+Camera Talk,Just Friends,camera,back,0.26666666666666666
+Camera Talk,Just Friends,talk,friends,0.16666666666666666
+Camera Talk,Just Friends,talk,black,0.26666666666666666
+Camera Talk,Just Friends,talk,back,0.15384615384615385
+Camera Talk,He Can Only Hold Her,camera,hold,0.1111111111111111
+Camera Talk,He Can Only Hold Her,camera,black,0.11764705882352941
+Camera Talk,He Can Only Hold Her,camera,back,0.26666666666666666
+Camera Talk,He Can Only Hold Her,talk,hold,0.25
+Camera Talk,He Can Only Hold Her,talk,black,0.26666666666666666
+Camera Talk,He Can Only Hold Her,talk,back,0.15384615384615385
+Camera Talk,He Can Only Hold Her,camera,hold,0.1111111111111111
+Camera Talk,He Can Only Hold Her,camera,black,0.11764705882352941
+Camera Talk,He Can Only Hold Her,camera,back,0.26666666666666666
+Camera Talk,He Can Only Hold Her,talk,hold,0.25
+Camera Talk,He Can Only Hold Her,talk,black,0.26666666666666666
+Camera Talk,He Can Only Hold Her,talk,back,0.15384615384615385
+Belle,Help Yourself,beautiful,help,0
+Belle,Help Yourself,beautiful,frank,0
+Belle,Help Yourself,dreams,help,0.375
+Belle,Help Yourself,dreams,frank,0.125
+Belle,Some Unholy War,beautiful,unholy,0
+Belle,Some Unholy War,beautiful,war,0
+Belle,Some Unholy War,beautiful,frank,0
+Belle,Some Unholy War,beautiful,black,0
+Belle,Some Unholy War,beautiful,back,0
+Belle,Some Unholy War,dreams,unholy,0
+Belle,Some Unholy War,dreams,war,0.375
+Belle,Some Unholy War,dreams,frank,0.125
+Belle,Some Unholy War,dreams,black,0.23529411764705882
+Belle,Some Unholy War,dreams,back,0.13333333333333333
+Belle,Stronger Than Me,beautiful,stronger,0
+Belle,Stronger Than Me,beautiful,rarities,0
+Belle,Stronger Than Me,beautiful,edition,0
+Belle,Stronger Than Me,beautiful,frank,0
+Belle,Stronger Than Me,dreams,stronger,0
+Belle,Stronger Than Me,dreams,rarities,0.2222222222222222
+Belle,Stronger Than Me,dreams,edition,0.1
+Belle,Stronger Than Me,dreams,frank,0.125
+Belle,You Know I'm No Good,beautiful,know,0
+Belle,You Know I'm No Good,beautiful,good,0
+Belle,You Know I'm No Good,beautiful,version,0
+Belle,You Know I'm No Good,beautiful,know,0
+Belle,You Know I'm No Good,beautiful,good,0
+Belle,You Know I'm No Good,dreams,know,0.5882352941176471
+Belle,You Know I'm No Good,dreams,good,0.25
+Belle,You Know I'm No Good,dreams,version,0.23529411764705882
+Belle,You Know I'm No Good,dreams,know,0.5882352941176471
+Belle,You Know I'm No Good,dreams,good,0.25
+Belle,I Heard Love Is Blind,beautiful,heard,0
+Belle,I Heard Love Is Blind,beautiful,love,0
+Belle,I Heard Love Is Blind,beautiful,blind,0
+Belle,I Heard Love Is Blind,beautiful,frank,0
+Belle,I Heard Love Is Blind,dreams,heard,0
+Belle,I Heard Love Is Blind,dreams,love,0.25
+Belle,I Heard Love Is Blind,dreams,blind,0.2857142857142857
+Belle,I Heard Love Is Blind,dreams,frank,0.125
+Belle,October Song,beautiful,october,0
+Belle,October Song,beautiful,song,0
+Belle,October Song,beautiful,frank,0
+Belle,October Song,beautiful,black,0
+Belle,October Song,beautiful,back,0
+Belle,October Song,dreams,october,0.23529411764705882
+Belle,October Song,dreams,song,0.25
+Belle,October Song,dreams,frank,0.125
+Belle,October Song,dreams,black,0.23529411764705882
+Belle,October Song,dreams,back,0.13333333333333333
+Belle,Back To Black,beautiful,black,0
+Belle,Back To Black,beautiful,back,0
+Belle,Back To Black,beautiful,black,0
+Belle,Back To Black,beautiful,back,0
+Belle,Back To Black,dreams,black,0.23529411764705882
+Belle,Back To Black,dreams,back,0.13333333333333333
+Belle,Back To Black,dreams,black,0.23529411764705882
+Belle,Back To Black,dreams,back,0.13333333333333333
+Belle,Know You Now,beautiful,know,0
+Belle,Know You Now,beautiful,frank,0
+Belle,Know You Now,dreams,know,0.5882352941176471
+Belle,Know You Now,dreams,frank,0.125
+Belle,Amy Amy Amy / Outro,beautiful,frank,0
+Belle,Amy Amy Amy / Outro,dreams,frank,0.125
+Belle,Wake Up Alone,beautiful,wake,0
+Belle,Wake Up Alone,beautiful,alone,0
+Belle,Wake Up Alone,beautiful,frank,0
+Belle,Wake Up Alone,beautiful,black,0
+Belle,Wake Up Alone,beautiful,back,0
+Belle,Wake Up Alone,dreams,wake,0.13333333333333333
+Belle,Wake Up Alone,dreams,alone,0
+Belle,Wake Up Alone,dreams,frank,0.125
+Belle,Wake Up Alone,dreams,black,0.23529411764705882
+Belle,Wake Up Alone,dreams,back,0.13333333333333333
+Belle,Just Friends,beautiful,friends,0
+Belle,Just Friends,beautiful,black,0
+Belle,Just Friends,beautiful,back,0
+Belle,Just Friends,dreams,friends,0.14285714285714285
+Belle,Just Friends,dreams,black,0.23529411764705882
+Belle,Just Friends,dreams,back,0.13333333333333333
+Belle,He Can Only Hold Her,beautiful,hold,0
+Belle,He Can Only Hold Her,beautiful,black,0
+Belle,He Can Only Hold Her,beautiful,back,0
+Belle,He Can Only Hold Her,dreams,hold,0.3333333333333333
+Belle,He Can Only Hold Her,dreams,black,0.23529411764705882
+Belle,He Can Only Hold Her,dreams,back,0.13333333333333333
+Auto Rock,Help Yourself,auto,help,0.1111111111111111
+Auto Rock,Help Yourself,auto,frank,0.38095238095238093
+Auto Rock,Help Yourself,rock,help,0.15384615384615385
+Auto Rock,Help Yourself,rock,frank,0.5
+Auto Rock,Help Yourself,mr,help,0.25
+Auto Rock,Help Yourself,mr,frank,0.125
+Auto Rock,Help Yourself,beast,help,0.14285714285714285
+Auto Rock,Help Yourself,beast,frank,0.7058823529411765
+Auto Rock,Some Unholy War,auto,unholy,0
+Auto Rock,Some Unholy War,auto,war,0.1111111111111111
+Auto Rock,Some Unholy War,auto,frank,0.38095238095238093
+Auto Rock,Some Unholy War,auto,black,0.10526315789473684
+Auto Rock,Some Unholy War,auto,back,0.23529411764705882
+Auto Rock,Some Unholy War,rock,unholy,0
+Auto Rock,Some Unholy War,rock,war,0.15384615384615385
+Auto Rock,Some Unholy War,rock,frank,0.5
+Auto Rock,Some Unholy War,rock,black,0.14285714285714285
+Auto Rock,Some Unholy War,rock,back,0.3333333333333333
+Auto Rock,Some Unholy War,mr,unholy,0
+Auto Rock,Some Unholy War,mr,war,0.25
+Auto Rock,Some Unholy War,mr,frank,0.125
+Auto Rock,Some Unholy War,mr,black,0.23529411764705882
+Auto Rock,Some Unholy War,mr,back,0.13333333333333333
+Auto Rock,Some Unholy War,beast,unholy,0
+Auto Rock,Some Unholy War,beast,war,0.14285714285714285
+Auto Rock,Some Unholy War,beast,frank,0.7058823529411765
+Auto Rock,Some Unholy War,beast,black,0.13333333333333333
+Auto Rock,Some Unholy War,beast,back,0.3076923076923077
+Auto Rock,Stronger Than Me,auto,stronger,0
+Auto Rock,Stronger Than Me,auto,rarities,0.1
+Auto Rock,Stronger Than Me,auto,edition,0.45454545454545453
+Auto Rock,Stronger Than Me,auto,frank,0.38095238095238093
+Auto Rock,Stronger Than Me,rock,stronger,0
+Auto Rock,Stronger Than Me,rock,rarities,0.13333333333333333
+Auto Rock,Stronger Than Me,rock,edition,0.47058823529411764
+Auto Rock,Stronger Than Me,rock,frank,0.5
+Auto Rock,Stronger Than Me,mr,stronger,0
+Auto Rock,Stronger Than Me,mr,rarities,0.2222222222222222
+Auto Rock,Stronger Than Me,mr,edition,0.1
+Auto Rock,Stronger Than Me,mr,frank,0.125
+Auto Rock,Stronger Than Me,beast,stronger,0
+Auto Rock,Stronger Than Me,beast,rarities,0.125
+Auto Rock,Stronger Than Me,beast,edition,0.4444444444444444
+Auto Rock,Stronger Than Me,beast,frank,0.7058823529411765
+Auto Rock,You Know I'm No Good,auto,know,0.10526315789473684
+Auto Rock,You Know I'm No Good,auto,good,0.1111111111111111
+Auto Rock,You Know I'm No Good,auto,version,0.10526315789473684
+Auto Rock,You Know I'm No Good,auto,know,0.10526315789473684
+Auto Rock,You Know I'm No Good,auto,good,0.1111111111111111
+Auto Rock,You Know I'm No Good,rock,know,0.14285714285714285
+Auto Rock,You Know I'm No Good,rock,good,0.15384615384615385
+Auto Rock,You Know I'm No Good,rock,version,0.14285714285714285
+Auto Rock,You Know I'm No Good,rock,know,0.14285714285714285
+Auto Rock,You Know I'm No Good,rock,good,0.15384615384615385
+Auto Rock,You Know I'm No Good,mr,know,0.23529411764705882
+Auto Rock,You Know I'm No Good,mr,good,0.25
+Auto Rock,You Know I'm No Good,mr,version,0.23529411764705882
+Auto Rock,You Know I'm No Good,mr,know,0.23529411764705882
+Auto Rock,You Know I'm No Good,mr,good,0.25
+Auto Rock,You Know I'm No Good,beast,know,0.13333333333333333
+Auto Rock,You Know I'm No Good,beast,good,0.14285714285714285
+Auto Rock,You Know I'm No Good,beast,version,0.13333333333333333
+Auto Rock,You Know I'm No Good,beast,know,0.13333333333333333
+Auto Rock,You Know I'm No Good,beast,good,0.14285714285714285
+Auto Rock,I Heard Love Is Blind,auto,heard,0
+Auto Rock,I Heard Love Is Blind,auto,love,0.1111111111111111
+Auto Rock,I Heard Love Is Blind,auto,blind,0.125
+Auto Rock,I Heard Love Is Blind,auto,frank,0.38095238095238093
+Auto Rock,I Heard Love Is Blind,rock,heard,0
+Auto Rock,I Heard Love Is Blind,rock,love,0.15384615384615385
+Auto Rock,I Heard Love Is Blind,rock,blind,0.18181818181818182
+Auto Rock,I Heard Love Is Blind,rock,frank,0.5
+Auto Rock,I Heard Love Is Blind,mr,heard,0
+Auto Rock,I Heard Love Is Blind,mr,love,0.25
+Auto Rock,I Heard Love Is Blind,mr,blind,0.2857142857142857
+Auto Rock,I Heard Love Is Blind,mr,frank,0.125
+Auto Rock,I Heard Love Is Blind,beast,heard,0
+Auto Rock,I Heard Love Is Blind,beast,love,0.14285714285714285
+Auto Rock,I Heard Love Is Blind,beast,blind,0.16666666666666666
+Auto Rock,I Heard Love Is Blind,beast,frank,0.7058823529411765
+Auto Rock,October Song,auto,october,0.10526315789473684
+Auto Rock,October Song,auto,song,0.1111111111111111
+Auto Rock,October Song,auto,frank,0.38095238095238093
+Auto Rock,October Song,auto,black,0.10526315789473684
+Auto Rock,October Song,auto,back,0.23529411764705882
+Auto Rock,October Song,rock,october,0.14285714285714285
+Auto Rock,October Song,rock,song,0.15384615384615385
+Auto Rock,October Song,rock,frank,0.5
+Auto Rock,October Song,rock,black,0.14285714285714285
+Auto Rock,October Song,rock,back,0.3333333333333333
+Auto Rock,October Song,mr,october,0.23529411764705882
+Auto Rock,October Song,mr,song,0.25
+Auto Rock,October Song,mr,frank,0.125
+Auto Rock,October Song,mr,black,0.23529411764705882
+Auto Rock,October Song,mr,back,0.13333333333333333
+Auto Rock,October Song,beast,october,0.13333333333333333
+Auto Rock,October Song,beast,song,0.14285714285714285
+Auto Rock,October Song,beast,frank,0.7058823529411765
+Auto Rock,October Song,beast,black,0.13333333333333333
+Auto Rock,October Song,beast,back,0.3076923076923077
+Auto Rock,Back To Black,auto,black,0.10526315789473684
+Auto Rock,Back To Black,auto,back,0.23529411764705882
+Auto Rock,Back To Black,auto,black,0.10526315789473684
+Auto Rock,Back To Black,auto,back,0.23529411764705882
+Auto Rock,Back To Black,rock,black,0.14285714285714285
+Auto Rock,Back To Black,rock,back,0.3333333333333333
+Auto Rock,Back To Black,rock,black,0.14285714285714285
+Auto Rock,Back To Black,rock,back,0.3333333333333333
+Auto Rock,Back To Black,mr,black,0.23529411764705882
+Auto Rock,Back To Black,mr,back,0.13333333333333333
+Auto Rock,Back To Black,mr,black,0.23529411764705882
+Auto Rock,Back To Black,mr,back,0.13333333333333333
+Auto Rock,Back To Black,beast,black,0.13333333333333333
+Auto Rock,Back To Black,beast,back,0.3076923076923077
+Auto Rock,Back To Black,beast,black,0.13333333333333333
+Auto Rock,Back To Black,beast,back,0.3076923076923077
+Auto Rock,Know You Now,auto,know,0.10526315789473684
+Auto Rock,Know You Now,auto,frank,0.38095238095238093
+Auto Rock,Know You Now,rock,know,0.14285714285714285
+Auto Rock,Know You Now,rock,frank,0.5
+Auto Rock,Know You Now,mr,know,0.23529411764705882
+Auto Rock,Know You Now,mr,frank,0.125
+Auto Rock,Know You Now,beast,know,0.13333333333333333
+Auto Rock,Know You Now,beast,frank,0.7058823529411765
+Auto Rock,Amy Amy Amy / Outro,auto,frank,0.38095238095238093
+Auto Rock,Amy Amy Amy / Outro,rock,frank,0.5
+Auto Rock,Amy Amy Amy / Outro,mr,frank,0.125
+Auto Rock,Amy Amy Amy / Outro,beast,frank,0.7058823529411765
+Auto Rock,Wake Up Alone,auto,wake,0.23529411764705882
+Auto Rock,Wake Up Alone,auto,alone,0
+Auto Rock,Wake Up Alone,auto,frank,0.38095238095238093
+Auto Rock,Wake Up Alone,auto,black,0.10526315789473684
+Auto Rock,Wake Up Alone,auto,back,0.23529411764705882
+Auto Rock,Wake Up Alone,rock,wake,0.3333333333333333
+Auto Rock,Wake Up Alone,rock,alone,0
+Auto Rock,Wake Up Alone,rock,frank,0.5
+Auto Rock,Wake Up Alone,rock,black,0.14285714285714285
+Auto Rock,Wake Up Alone,rock,back,0.3333333333333333
+Auto Rock,Wake Up Alone,mr,wake,0.13333333333333333
+Auto Rock,Wake Up Alone,mr,alone,0
+Auto Rock,Wake Up Alone,mr,frank,0.125
+Auto Rock,Wake Up Alone,mr,black,0.23529411764705882
+Auto Rock,Wake Up Alone,mr,back,0.13333333333333333
+Auto Rock,Wake Up Alone,beast,wake,0.3076923076923077
+Auto Rock,Wake Up Alone,beast,alone,0
+Auto Rock,Wake Up Alone,beast,frank,0.7058823529411765
+Auto Rock,Wake Up Alone,beast,black,0.13333333333333333
+Auto Rock,Wake Up Alone,beast,back,0.3076923076923077
+Auto Rock,Just Friends,auto,friends,0.42105263157894735
+Auto Rock,Just Friends,auto,black,0.10526315789473684
+Auto Rock,Just Friends,auto,back,0.23529411764705882
+Auto Rock,Just Friends,rock,friends,0.5714285714285714
+Auto Rock,Just Friends,rock,black,0.14285714285714285
+Auto Rock,Just Friends,rock,back,0.3333333333333333
+Auto Rock,Just Friends,mr,friends,0.14285714285714285
+Auto Rock,Just Friends,mr,black,0.23529411764705882
+Auto Rock,Just Friends,mr,back,0.13333333333333333
+Auto Rock,Just Friends,beast,friends,0.8
+Auto Rock,Just Friends,beast,black,0.13333333333333333
+Auto Rock,Just Friends,beast,back,0.3076923076923077
+Auto Rock,He Can Only Hold Her,auto,hold,0.1
+Auto Rock,He Can Only Hold Her,auto,black,0.10526315789473684
+Auto Rock,He Can Only Hold Her,auto,back,0.23529411764705882
+Auto Rock,He Can Only Hold Her,rock,hold,0.13333333333333333
+Auto Rock,He Can Only Hold Her,rock,black,0.14285714285714285
+Auto Rock,He Can Only Hold Her,rock,back,0.3333333333333333
+Auto Rock,He Can Only Hold Her,mr,hold,0.2222222222222222
+Auto Rock,He Can Only Hold Her,mr,black,0.23529411764705882
+Auto Rock,He Can Only Hold Her,mr,back,0.13333333333333333
+Auto Rock,He Can Only Hold Her,beast,hold,0.125
+Auto Rock,He Can Only Hold Her,beast,black,0.13333333333333333
+Auto Rock,He Can Only Hold Her,beast,back,0.3076923076923077
+Who Knows Who Cares,Help Yourself,knows,help,0.4
+Who Knows Who Cares,Help Yourself,knows,frank,0.13333333333333333
+Who Knows Who Cares,Help Yourself,cares,help,0.8
+Who Knows Who Cares,Help Yourself,cares,frank,0.13333333333333333
+Who Knows Who Cares,Help Yourself,gorilla,help,0.08695652173913043
+Who Knows Who Cares,Help Yourself,gorilla,frank,0.46153846153846156
+Who Knows Who Cares,Help Yourself,manor,help,0.11764705882352941
+Who Knows Who Cares,Help Yourself,manor,frank,0.4
+Who Knows Who Cares,Some Unholy War,knows,unholy,0
+Who Knows Who Cares,Some Unholy War,knows,war,0.4
+Who Knows Who Cares,Some Unholy War,knows,frank,0.13333333333333333
+Who Knows Who Cares,Some Unholy War,knows,black,0.25
+Who Knows Who Cares,Some Unholy War,knows,back,0.14285714285714285
+Who Knows Who Cares,Some Unholy War,cares,unholy,0
+Who Knows Who Cares,Some Unholy War,cares,war,0.625
+Who Knows Who Cares,Some Unholy War,cares,frank,0.13333333333333333
+Who Knows Who Cares,Some Unholy War,cares,black,0.25
+Who Knows Who Cares,Some Unholy War,cares,back,0.14285714285714285
+Who Knows Who Cares,Some Unholy War,gorilla,unholy,0
+Who Knows Who Cares,Some Unholy War,gorilla,war,0.08695652173913043
+Who Knows Who Cares,Some Unholy War,gorilla,frank,0.46153846153846156
+Who Knows Who Cares,Some Unholy War,gorilla,black,0.08333333333333333
+Who Knows Who Cares,Some Unholy War,gorilla,back,0.18181818181818182
+Who Knows Who Cares,Some Unholy War,manor,unholy,0
+Who Knows Who Cares,Some Unholy War,manor,war,0.11764705882352941
+Who Knows Who Cares,Some Unholy War,manor,frank,0.4
+Who Knows Who Cares,Some Unholy War,manor,black,0.1111111111111111
+Who Knows Who Cares,Some Unholy War,manor,back,0.25
+Who Knows Who Cares,Stronger Than Me,knows,stronger,0
+Who Knows Who Cares,Stronger Than Me,knows,rarities,0.23529411764705882
+Who Knows Who Cares,Stronger Than Me,knows,edition,0.10526315789473684
+Who Knows Who Cares,Stronger Than Me,knows,frank,0.13333333333333333
+Who Knows Who Cares,Stronger Than Me,cares,stronger,0
+Who Knows Who Cares,Stronger Than Me,cares,rarities,0.23529411764705882
+Who Knows Who Cares,Stronger Than Me,cares,edition,0.10526315789473684
+Who Knows Who Cares,Stronger Than Me,cares,frank,0.13333333333333333
+Who Knows Who Cares,Stronger Than Me,gorilla,stronger,0
+Who Knows Who Cares,Stronger Than Me,gorilla,rarities,0.08
+Who Knows Who Cares,Stronger Than Me,gorilla,edition,0.2962962962962963
+Who Knows Who Cares,Stronger Than Me,gorilla,frank,0.46153846153846156
+Who Knows Who Cares,Stronger Than Me,manor,stronger,0
+Who Knows Who Cares,Stronger Than Me,manor,rarities,0.10526315789473684
+Who Knows Who Cares,Stronger Than Me,manor,edition,0.47619047619047616
+Who Knows Who Cares,Stronger Than Me,manor,frank,0.4
+Who Knows Who Cares,You Know I'm No Good,knows,know,1.0
+Who Knows Who Cares,You Know I'm No Good,knows,good,0.26666666666666666
+Who Knows Who Cares,You Know I'm No Good,knows,version,0.25
+Who Knows Who Cares,You Know I'm No Good,knows,know,1.0
+Who Knows Who Cares,You Know I'm No Good,knows,good,0.26666666666666666
+Who Knows Who Cares,You Know I'm No Good,cares,know,0.375
+Who Knows Who Cares,You Know I'm No Good,cares,good,0.26666666666666666
+Who Knows Who Cares,You Know I'm No Good,cares,version,0.25
+Who Knows Who Cares,You Know I'm No Good,cares,know,0.375
+Who Knows Who Cares,You Know I'm No Good,cares,good,0.26666666666666666
+Who Knows Who Cares,You Know I'm No Good,gorilla,know,0.08333333333333333
+Who Knows Who Cares,You Know I'm No Good,gorilla,good,0.08695652173913043
+Who Knows Who Cares,You Know I'm No Good,gorilla,version,0.08333333333333333
+Who Knows Who Cares,You Know I'm No Good,gorilla,know,0.08333333333333333
+Who Knows Who Cares,You Know I'm No Good,gorilla,good,0.08695652173913043
+Who Knows Who Cares,You Know I'm No Good,manor,know,0.1111111111111111
+Who Knows Who Cares,You Know I'm No Good,manor,good,0.11764705882352941
+Who Knows Who Cares,You Know I'm No Good,manor,version,0.1111111111111111
+Who Knows Who Cares,You Know I'm No Good,manor,know,0.1111111111111111
+Who Knows Who Cares,You Know I'm No Good,manor,good,0.11764705882352941
+Who Knows Who Cares,I Heard Love Is Blind,knows,heard,0
+Who Knows Who Cares,I Heard Love Is Blind,knows,love,0.26666666666666666
+Who Knows Who Cares,I Heard Love Is Blind,knows,blind,0.3076923076923077
+Who Knows Who Cares,I Heard Love Is Blind,knows,frank,0.13333333333333333
+Who Knows Who Cares,I Heard Love Is Blind,cares,heard,0
+Who Knows Who Cares,I Heard Love Is Blind,cares,love,0.26666666666666666
+Who Knows Who Cares,I Heard Love Is Blind,cares,blind,0.3076923076923077
+Who Knows Who Cares,I Heard Love Is Blind,cares,frank,0.13333333333333333
+Who Knows Who Cares,I Heard Love Is Blind,gorilla,heard,0
+Who Knows Who Cares,I Heard Love Is Blind,gorilla,love,0.08695652173913043
+Who Knows Who Cares,I Heard Love Is Blind,gorilla,blind,0.09523809523809523
+Who Knows Who Cares,I Heard Love Is Blind,gorilla,frank,0.46153846153846156
+Who Knows Who Cares,I Heard Love Is Blind,manor,heard,0
+Who Knows Who Cares,I Heard Love Is Blind,manor,love,0.11764705882352941
+Who Knows Who Cares,I Heard Love Is Blind,manor,blind,0.13333333333333333
+Who Knows Who Cares,I Heard Love Is Blind,manor,frank,0.4
+Who Knows Who Cares,October Song,knows,october,0.25
+Who Knows Who Cares,October Song,knows,song,0.26666666666666666
+Who Knows Who Cares,October Song,knows,frank,0.13333333333333333
+Who Knows Who Cares,October Song,knows,black,0.25
+Who Knows Who Cares,October Song,knows,back,0.14285714285714285
+Who Knows Who Cares,October Song,cares,october,0.25
+Who Knows Who Cares,October Song,cares,song,0.26666666666666666
+Who Knows Who Cares,October Song,cares,frank,0.13333333333333333
+Who Knows Who Cares,October Song,cares,black,0.25
+Who Knows Who Cares,October Song,cares,back,0.14285714285714285
+Who Knows Who Cares,October Song,gorilla,october,0.08333333333333333
+Who Knows Who Cares,October Song,gorilla,song,0.08695652173913043
+Who Knows Who Cares,October Song,gorilla,frank,0.46153846153846156
+Who Knows Who Cares,October Song,gorilla,black,0.08333333333333333
+Who Knows Who Cares,October Song,gorilla,back,0.18181818181818182
+Who Knows Who Cares,October Song,manor,october,0.1111111111111111
+Who Knows Who Cares,October Song,manor,song,0.11764705882352941
+Who Knows Who Cares,October Song,manor,frank,0.4
+Who Knows Who Cares,October Song,manor,black,0.1111111111111111
+Who Knows Who Cares,October Song,manor,back,0.25
+Who Knows Who Cares,Back To Black,knows,black,0.25
+Who Knows Who Cares,Back To Black,knows,back,0.14285714285714285
+Who Knows Who Cares,Back To Black,knows,black,0.25
+Who Knows Who Cares,Back To Black,knows,back,0.14285714285714285
+Who Knows Who Cares,Back To Black,cares,black,0.25
+Who Knows Who Cares,Back To Black,cares,back,0.14285714285714285
+Who Knows Who Cares,Back To Black,cares,black,0.25
+Who Knows Who Cares,Back To Black,cares,back,0.14285714285714285
+Who Knows Who Cares,Back To Black,gorilla,black,0.08333333333333333
+Who Knows Who Cares,Back To Black,gorilla,back,0.18181818181818182
+Who Knows Who Cares,Back To Black,gorilla,black,0.08333333333333333
+Who Knows Who Cares,Back To Black,gorilla,back,0.18181818181818182
+Who Knows Who Cares,Back To Black,manor,black,0.1111111111111111
+Who Knows Who Cares,Back To Black,manor,back,0.25
+Who Knows Who Cares,Back To Black,manor,black,0.1111111111111111
+Who Knows Who Cares,Back To Black,manor,back,0.25
+Who Knows Who Cares,Know You Now,knows,know,1.0
+Who Knows Who Cares,Know You Now,knows,frank,0.13333333333333333
+Who Knows Who Cares,Know You Now,cares,know,0.375
+Who Knows Who Cares,Know You Now,cares,frank,0.13333333333333333
+Who Knows Who Cares,Know You Now,gorilla,know,0.08333333333333333
+Who Knows Who Cares,Know You Now,gorilla,frank,0.46153846153846156
+Who Knows Who Cares,Know You Now,manor,know,0.1111111111111111
+Who Knows Who Cares,Know You Now,manor,frank,0.4
+Who Knows Who Cares,Amy Amy Amy / Outro,knows,frank,0.13333333333333333
+Who Knows Who Cares,Amy Amy Amy / Outro,cares,frank,0.13333333333333333
+Who Knows Who Cares,Amy Amy Amy / Outro,gorilla,frank,0.46153846153846156
+Who Knows Who Cares,Amy Amy Amy / Outro,manor,frank,0.4
+Who Knows Who Cares,Wake Up Alone,knows,wake,0.14285714285714285
+Who Knows Who Cares,Wake Up Alone,knows,alone,0
+Who Knows Who Cares,Wake Up Alone,knows,frank,0.13333333333333333
+Who Knows Who Cares,Wake Up Alone,knows,black,0.25
+Who Knows Who Cares,Wake Up Alone,knows,back,0.14285714285714285
+Who Knows Who Cares,Wake Up Alone,cares,wake,0.14285714285714285
+Who Knows Who Cares,Wake Up Alone,cares,alone,0
+Who Knows Who Cares,Wake Up Alone,cares,frank,0.13333333333333333
+Who Knows Who Cares,Wake Up Alone,cares,black,0.25
+Who Knows Who Cares,Wake Up Alone,cares,back,0.14285714285714285
+Who Knows Who Cares,Wake Up Alone,gorilla,wake,0.18181818181818182
+Who Knows Who Cares,Wake Up Alone,gorilla,alone,0
+Who Knows Who Cares,Wake Up Alone,gorilla,frank,0.46153846153846156
+Who Knows Who Cares,Wake Up Alone,gorilla,black,0.08333333333333333
+Who Knows Who Cares,Wake Up Alone,gorilla,back,0.18181818181818182
+Who Knows Who Cares,Wake Up Alone,manor,wake,0.25
+Who Knows Who Cares,Wake Up Alone,manor,alone,0
+Who Knows Who Cares,Wake Up Alone,manor,frank,0.4
+Who Knows Who Cares,Wake Up Alone,manor,black,0.1111111111111111
+Who Knows Who Cares,Wake Up Alone,manor,back,0.25
+Who Knows Who Cares,Just Friends,knows,friends,0.15384615384615385
+Who Knows Who Cares,Just Friends,knows,black,0.25
+Who Knows Who Cares,Just Friends,knows,back,0.14285714285714285
+Who Knows Who Cares,Just Friends,cares,friends,0.15384615384615385
+Who Knows Who Cares,Just Friends,cares,black,0.25
+Who Knows Who Cares,Just Friends,cares,back,0.14285714285714285
+Who Knows Who Cares,Just Friends,gorilla,friends,0.5
+Who Knows Who Cares,Just Friends,gorilla,black,0.08333333333333333
+Who Knows Who Cares,Just Friends,gorilla,back,0.18181818181818182
+Who Knows Who Cares,Just Friends,manor,friends,0.4444444444444444
+Who Knows Who Cares,Just Friends,manor,black,0.1111111111111111
+Who Knows Who Cares,Just Friends,manor,back,0.25
+Who Knows Who Cares,He Can Only Hold Her,knows,hold,0.35294117647058826
+Who Knows Who Cares,He Can Only Hold Her,knows,black,0.25
+Who Knows Who Cares,He Can Only Hold Her,knows,back,0.14285714285714285
+Who Knows Who Cares,He Can Only Hold Her,cares,hold,0.7058823529411765
+Who Knows Who Cares,He Can Only Hold Her,cares,black,0.25
+Who Knows Who Cares,He Can Only Hold Her,cares,back,0.14285714285714285
+Who Knows Who Cares,He Can Only Hold Her,gorilla,hold,0.08
+Who Knows Who Cares,He Can Only Hold Her,gorilla,black,0.08333333333333333
+Who Knows Who Cares,He Can Only Hold Her,gorilla,back,0.18181818181818182
+Who Knows Who Cares,He Can Only Hold Her,manor,hold,0.10526315789473684
+Who Knows Who Cares,He Can Only Hold Her,manor,black,0.1111111111111111
+Who Knows Who Cares,He Can Only Hold Her,manor,back,0.25
+Quiet,Help Yourself,quiet,help,0.1111111111111111
+Quiet,Help Yourself,quiet,frank,0.2222222222222222
+Quiet,Help Yourself,young,help,0.13333333333333333
+Quiet,Help Yourself,young,frank,0.6666666666666666
+Quiet,Help Yourself,mountain,help,0.15384615384615385
+Quiet,Help Yourself,mountain,frank,0.4
+Quiet,Some Unholy War,quiet,unholy,0
+Quiet,Some Unholy War,quiet,war,0.1111111111111111
+Quiet,Some Unholy War,quiet,frank,0.2222222222222222
+Quiet,Some Unholy War,quiet,black,0.10526315789473684
+Quiet,Some Unholy War,quiet,back,0.23529411764705882
+Quiet,Some Unholy War,young,unholy,0
+Quiet,Some Unholy War,young,war,0.13333333333333333
+Quiet,Some Unholy War,young,frank,0.6666666666666666
+Quiet,Some Unholy War,young,black,0.125
+Quiet,Some Unholy War,young,back,0.2857142857142857
+Quiet,Some Unholy War,mountain,unholy,0
+Quiet,Some Unholy War,mountain,war,0.15384615384615385
+Quiet,Some Unholy War,mountain,frank,0.4
+Quiet,Some Unholy War,mountain,black,0.14285714285714285
+Quiet,Some Unholy War,mountain,back,0.3333333333333333
+Quiet,Stronger Than Me,quiet,stronger,0
+Quiet,Stronger Than Me,quiet,rarities,0.1
+Quiet,Stronger Than Me,quiet,edition,0.18181818181818182
+Quiet,Stronger Than Me,quiet,frank,0.2222222222222222
+Quiet,Stronger Than Me,young,stronger,0
+Quiet,Stronger Than Me,young,rarities,0.11764705882352941
+Quiet,Stronger Than Me,young,edition,0.42105263157894735
+Quiet,Stronger Than Me,young,frank,0.6666666666666666
+Quiet,Stronger Than Me,mountain,stronger,0
+Quiet,Stronger Than Me,mountain,rarities,0.13333333333333333
+Quiet,Stronger Than Me,mountain,edition,0.35294117647058826
+Quiet,Stronger Than Me,mountain,frank,0.4
+Quiet,You Know I'm No Good,quiet,know,0.10526315789473684
+Quiet,You Know I'm No Good,quiet,good,0.1111111111111111
+Quiet,You Know I'm No Good,quiet,version,0.10526315789473684
+Quiet,You Know I'm No Good,quiet,know,0.10526315789473684
+Quiet,You Know I'm No Good,quiet,good,0.1111111111111111
+Quiet,You Know I'm No Good,young,know,0.125
+Quiet,You Know I'm No Good,young,good,0.13333333333333333
+Quiet,You Know I'm No Good,young,version,0.125
+Quiet,You Know I'm No Good,young,know,0.125
+Quiet,You Know I'm No Good,young,good,0.13333333333333333
+Quiet,You Know I'm No Good,mountain,know,0.14285714285714285
+Quiet,You Know I'm No Good,mountain,good,0.15384615384615385
+Quiet,You Know I'm No Good,mountain,version,0.14285714285714285
+Quiet,You Know I'm No Good,mountain,know,0.14285714285714285
+Quiet,You Know I'm No Good,mountain,good,0.15384615384615385
+Quiet,I Heard Love Is Blind,quiet,heard,0
+Quiet,I Heard Love Is Blind,quiet,love,0.1111111111111111
+Quiet,I Heard Love Is Blind,quiet,blind,0.125
+Quiet,I Heard Love Is Blind,quiet,frank,0.2222222222222222
+Quiet,I Heard Love Is Blind,young,heard,0
+Quiet,I Heard Love Is Blind,young,love,0.13333333333333333
+Quiet,I Heard Love Is Blind,young,blind,0.15384615384615385
+Quiet,I Heard Love Is Blind,young,frank,0.6666666666666666
+Quiet,I Heard Love Is Blind,mountain,heard,0
+Quiet,I Heard Love Is Blind,mountain,love,0.15384615384615385
+Quiet,I Heard Love Is Blind,mountain,blind,0.18181818181818182
+Quiet,I Heard Love Is Blind,mountain,frank,0.4
+Quiet,October Song,quiet,october,0.10526315789473684
+Quiet,October Song,quiet,song,0.1111111111111111
+Quiet,October Song,quiet,frank,0.2222222222222222
+Quiet,October Song,quiet,black,0.10526315789473684
+Quiet,October Song,quiet,back,0.23529411764705882
+Quiet,October Song,young,october,0.125
+Quiet,October Song,young,song,0.13333333333333333
+Quiet,October Song,young,frank,0.6666666666666666
+Quiet,October Song,young,black,0.125
+Quiet,October Song,young,back,0.2857142857142857
+Quiet,October Song,mountain,october,0.14285714285714285
+Quiet,October Song,mountain,song,0.15384615384615385
+Quiet,October Song,mountain,frank,0.4
+Quiet,October Song,mountain,black,0.14285714285714285
+Quiet,October Song,mountain,back,0.3333333333333333
+Quiet,Back To Black,quiet,black,0.10526315789473684
+Quiet,Back To Black,quiet,back,0.23529411764705882
+Quiet,Back To Black,quiet,black,0.10526315789473684
+Quiet,Back To Black,quiet,back,0.23529411764705882
+Quiet,Back To Black,young,black,0.125
+Quiet,Back To Black,young,back,0.2857142857142857
+Quiet,Back To Black,young,black,0.125
+Quiet,Back To Black,young,back,0.2857142857142857
+Quiet,Back To Black,mountain,black,0.14285714285714285
+Quiet,Back To Black,mountain,back,0.3333333333333333
+Quiet,Back To Black,mountain,black,0.14285714285714285
+Quiet,Back To Black,mountain,back,0.3333333333333333
+Quiet,Know You Now,quiet,know,0.10526315789473684
+Quiet,Know You Now,quiet,frank,0.2222222222222222
+Quiet,Know You Now,young,know,0.125
+Quiet,Know You Now,young,frank,0.6666666666666666
+Quiet,Know You Now,mountain,know,0.14285714285714285
+Quiet,Know You Now,mountain,frank,0.4
+Quiet,Amy Amy Amy / Outro,quiet,frank,0.2222222222222222
+Quiet,Amy Amy Amy / Outro,young,frank,0.6666666666666666
+Quiet,Amy Amy Amy / Outro,mountain,frank,0.4
+Quiet,Wake Up Alone,quiet,wake,0.47058823529411764
+Quiet,Wake Up Alone,quiet,alone,0
+Quiet,Wake Up Alone,quiet,frank,0.2222222222222222
+Quiet,Wake Up Alone,quiet,black,0.10526315789473684
+Quiet,Wake Up Alone,quiet,back,0.23529411764705882
+Quiet,Wake Up Alone,young,wake,0.2857142857142857
+Quiet,Wake Up Alone,young,alone,0
+Quiet,Wake Up Alone,young,frank,0.6666666666666666
+Quiet,Wake Up Alone,young,black,0.125
+Quiet,Wake Up Alone,young,back,0.2857142857142857
+Quiet,Wake Up Alone,mountain,wake,0.3333333333333333
+Quiet,Wake Up Alone,mountain,alone,0
+Quiet,Wake Up Alone,mountain,frank,0.4
+Quiet,Wake Up Alone,mountain,black,0.14285714285714285
+Quiet,Wake Up Alone,mountain,back,0.3333333333333333
+Quiet,Just Friends,quiet,friends,0.25
+Quiet,Just Friends,quiet,black,0.10526315789473684
+Quiet,Just Friends,quiet,back,0.23529411764705882
+Quiet,Just Friends,young,friends,0.75
+Quiet,Just Friends,young,black,0.125
+Quiet,Just Friends,young,back,0.2857142857142857
+Quiet,Just Friends,mountain,friends,0.46153846153846156
+Quiet,Just Friends,mountain,black,0.14285714285714285
+Quiet,Just Friends,mountain,back,0.3333333333333333
+Quiet,He Can Only Hold Her,quiet,hold,0.1
+Quiet,He Can Only Hold Her,quiet,black,0.10526315789473684
+Quiet,He Can Only Hold Her,quiet,back,0.23529411764705882
+Quiet,He Can Only Hold Her,young,hold,0.11764705882352941
+Quiet,He Can Only Hold Her,young,black,0.125
+Quiet,He Can Only Hold Her,young,back,0.2857142857142857
+Quiet,He Can Only Hold Her,mountain,hold,0.13333333333333333
+Quiet,He Can Only Hold Her,mountain,black,0.14285714285714285
+Quiet,He Can Only Hold Her,mountain,back,0.3333333333333333
+Girlfriend,Help Yourself,girlfriend,help,0.15384615384615385
+Girlfriend,Help Yourself,girlfriend,frank,0.631578947368421
+Girlfriend,Help Yourself,phoenix,help,0.1111111111111111
+Girlfriend,Help Yourself,phoenix,frank,0.3
+Girlfriend,Some Unholy War,girlfriend,unholy,0
+Girlfriend,Some Unholy War,girlfriend,war,0.15384615384615385
+Girlfriend,Some Unholy War,girlfriend,frank,0.631578947368421
+Girlfriend,Some Unholy War,girlfriend,black,0.14285714285714285
+Girlfriend,Some Unholy War,girlfriend,back,0.3333333333333333
+Girlfriend,Some Unholy War,phoenix,unholy,0
+Girlfriend,Some Unholy War,phoenix,war,0.1111111111111111
+Girlfriend,Some Unholy War,phoenix,frank,0.3
+Girlfriend,Some Unholy War,phoenix,black,0.10526315789473684
+Girlfriend,Some Unholy War,phoenix,back,0.23529411764705882
+Girlfriend,Stronger Than Me,girlfriend,stronger,0
+Girlfriend,Stronger Than Me,girlfriend,rarities,0.13333333333333333
+Girlfriend,Stronger Than Me,girlfriend,edition,0.4
+Girlfriend,Stronger Than Me,girlfriend,frank,0.631578947368421
+Girlfriend,Stronger Than Me,phoenix,stronger,0
+Girlfriend,Stronger Than Me,phoenix,rarities,0.1
+Girlfriend,Stronger Than Me,phoenix,edition,0.2727272727272727
+Girlfriend,Stronger Than Me,phoenix,frank,0.3
+Girlfriend,You Know I'm No Good,girlfriend,know,0.14285714285714285
+Girlfriend,You Know I'm No Good,girlfriend,good,0.15384615384615385
+Girlfriend,You Know I'm No Good,girlfriend,version,0.14285714285714285
+Girlfriend,You Know I'm No Good,girlfriend,know,0.14285714285714285
+Girlfriend,You Know I'm No Good,girlfriend,good,0.15384615384615385
+Girlfriend,You Know I'm No Good,phoenix,know,0.10526315789473684
+Girlfriend,You Know I'm No Good,phoenix,good,0.1111111111111111
+Girlfriend,You Know I'm No Good,phoenix,version,0.10526315789473684
+Girlfriend,You Know I'm No Good,phoenix,know,0.10526315789473684
+Girlfriend,You Know I'm No Good,phoenix,good,0.1111111111111111
+Girlfriend,I Heard Love Is Blind,girlfriend,heard,0
+Girlfriend,I Heard Love Is Blind,girlfriend,love,0.15384615384615385
+Girlfriend,I Heard Love Is Blind,girlfriend,blind,0.18181818181818182
+Girlfriend,I Heard Love Is Blind,girlfriend,frank,0.631578947368421
+Girlfriend,I Heard Love Is Blind,phoenix,heard,0
+Girlfriend,I Heard Love Is Blind,phoenix,love,0.1111111111111111
+Girlfriend,I Heard Love Is Blind,phoenix,blind,0.125
+Girlfriend,I Heard Love Is Blind,phoenix,frank,0.3
+Girlfriend,October Song,girlfriend,october,0.14285714285714285
+Girlfriend,October Song,girlfriend,song,0.15384615384615385
+Girlfriend,October Song,girlfriend,frank,0.631578947368421
+Girlfriend,October Song,girlfriend,black,0.14285714285714285
+Girlfriend,October Song,girlfriend,back,0.3333333333333333
+Girlfriend,October Song,phoenix,october,0.10526315789473684
+Girlfriend,October Song,phoenix,song,0.1111111111111111
+Girlfriend,October Song,phoenix,frank,0.3
+Girlfriend,October Song,phoenix,black,0.10526315789473684
+Girlfriend,October Song,phoenix,back,0.23529411764705882
+Girlfriend,Back To Black,girlfriend,black,0.14285714285714285
+Girlfriend,Back To Black,girlfriend,back,0.3333333333333333
+Girlfriend,Back To Black,girlfriend,black,0.14285714285714285
+Girlfriend,Back To Black,girlfriend,back,0.3333333333333333
+Girlfriend,Back To Black,phoenix,black,0.10526315789473684
+Girlfriend,Back To Black,phoenix,back,0.23529411764705882
+Girlfriend,Back To Black,phoenix,black,0.10526315789473684
+Girlfriend,Back To Black,phoenix,back,0.23529411764705882
+Girlfriend,Know You Now,girlfriend,know,0.14285714285714285
+Girlfriend,Know You Now,girlfriend,frank,0.631578947368421
+Girlfriend,Know You Now,phoenix,know,0.10526315789473684
+Girlfriend,Know You Now,phoenix,frank,0.3
+Girlfriend,Amy Amy Amy / Outro,girlfriend,frank,0.631578947368421
+Girlfriend,Amy Amy Amy / Outro,phoenix,frank,0.3
+Girlfriend,Wake Up Alone,girlfriend,wake,0.3333333333333333
+Girlfriend,Wake Up Alone,girlfriend,alone,0
+Girlfriend,Wake Up Alone,girlfriend,frank,0.631578947368421
+Girlfriend,Wake Up Alone,girlfriend,black,0.14285714285714285
+Girlfriend,Wake Up Alone,girlfriend,back,0.3333333333333333
+Girlfriend,Wake Up Alone,phoenix,wake,0.23529411764705882
+Girlfriend,Wake Up Alone,phoenix,alone,0
+Girlfriend,Wake Up Alone,phoenix,frank,0.3
+Girlfriend,Wake Up Alone,phoenix,black,0.10526315789473684
+Girlfriend,Wake Up Alone,phoenix,back,0.23529411764705882
+Girlfriend,Just Friends,girlfriend,friends,0.7058823529411765
+Girlfriend,Just Friends,girlfriend,black,0.14285714285714285
+Girlfriend,Just Friends,girlfriend,back,0.3333333333333333
+Girlfriend,Just Friends,phoenix,friends,0.3333333333333333
+Girlfriend,Just Friends,phoenix,black,0.10526315789473684
+Girlfriend,Just Friends,phoenix,back,0.23529411764705882
+Girlfriend,He Can Only Hold Her,girlfriend,hold,0.13333333333333333
+Girlfriend,He Can Only Hold Her,girlfriend,black,0.14285714285714285
+Girlfriend,He Can Only Hold Her,girlfriend,back,0.3333333333333333
+Girlfriend,He Can Only Hold Her,phoenix,hold,0.1
+Girlfriend,He Can Only Hold Her,phoenix,black,0.10526315789473684
+Girlfriend,He Can Only Hold Her,phoenix,back,0.23529411764705882
+Happiness: We're All In It Together,Help Yourself,together,help,0
+Happiness: We're All In It Together,Help Yourself,together,frank,0
+Happiness: We're All In It Together,Help Yourself,happiness,help,0.26666666666666666
+Happiness: We're All In It Together,Help Yourself,happiness,frank,0.13333333333333333
+Happiness: We're All In It Together,Help Yourself,young,help,0.13333333333333333
+Happiness: We're All In It Together,Help Yourself,young,frank,0.6666666666666666
+Happiness: We're All In It Together,Help Yourself,mountain,help,0.15384615384615385
+Happiness: We're All In It Together,Help Yourself,mountain,frank,0.4
+Happiness: We're All In It Together,Some Unholy War,together,unholy,0
+Happiness: We're All In It Together,Some Unholy War,together,war,0
+Happiness: We're All In It Together,Some Unholy War,together,frank,0
+Happiness: We're All In It Together,Some Unholy War,together,black,0
+Happiness: We're All In It Together,Some Unholy War,together,back,0
+Happiness: We're All In It Together,Some Unholy War,happiness,unholy,0
+Happiness: We're All In It Together,Some Unholy War,happiness,war,0.26666666666666666
+Happiness: We're All In It Together,Some Unholy War,happiness,frank,0.13333333333333333
+Happiness: We're All In It Together,Some Unholy War,happiness,black,0.375
+Happiness: We're All In It Together,Some Unholy War,happiness,back,0.14285714285714285
+Happiness: We're All In It Together,Some Unholy War,young,unholy,0
+Happiness: We're All In It Together,Some Unholy War,young,war,0.13333333333333333
+Happiness: We're All In It Together,Some Unholy War,young,frank,0.6666666666666666
+Happiness: We're All In It Together,Some Unholy War,young,black,0.125
+Happiness: We're All In It Together,Some Unholy War,young,back,0.2857142857142857
+Happiness: We're All In It Together,Some Unholy War,mountain,unholy,0
+Happiness: We're All In It Together,Some Unholy War,mountain,war,0.15384615384615385
+Happiness: We're All In It Together,Some Unholy War,mountain,frank,0.4
+Happiness: We're All In It Together,Some Unholy War,mountain,black,0.14285714285714285
+Happiness: We're All In It Together,Some Unholy War,mountain,back,0.3333333333333333
+Happiness: We're All In It Together,Stronger Than Me,together,stronger,0
+Happiness: We're All In It Together,Stronger Than Me,together,rarities,0
+Happiness: We're All In It Together,Stronger Than Me,together,edition,0
+Happiness: We're All In It Together,Stronger Than Me,together,frank,0
+Happiness: We're All In It Together,Stronger Than Me,happiness,stronger,0
+Happiness: We're All In It Together,Stronger Than Me,happiness,rarities,0.35294117647058826
+Happiness: We're All In It Together,Stronger Than Me,happiness,edition,0.10526315789473684
+Happiness: We're All In It Together,Stronger Than Me,happiness,frank,0.13333333333333333
+Happiness: We're All In It Together,Stronger Than Me,young,stronger,0
+Happiness: We're All In It Together,Stronger Than Me,young,rarities,0.11764705882352941
+Happiness: We're All In It Together,Stronger Than Me,young,edition,0.42105263157894735
+Happiness: We're All In It Together,Stronger Than Me,young,frank,0.6666666666666666
+Happiness: We're All In It Together,Stronger Than Me,mountain,stronger,0
+Happiness: We're All In It Together,Stronger Than Me,mountain,rarities,0.13333333333333333
+Happiness: We're All In It Together,Stronger Than Me,mountain,edition,0.35294117647058826
+Happiness: We're All In It Together,Stronger Than Me,mountain,frank,0.4
+Happiness: We're All In It Together,You Know I'm No Good,together,know,0
+Happiness: We're All In It Together,You Know I'm No Good,together,good,0
+Happiness: We're All In It Together,You Know I'm No Good,together,version,0
+Happiness: We're All In It Together,You Know I'm No Good,together,know,0
+Happiness: We're All In It Together,You Know I'm No Good,together,good,0
+Happiness: We're All In It Together,You Know I'm No Good,happiness,know,0.25
+Happiness: We're All In It Together,You Know I'm No Good,happiness,good,0.4
+Happiness: We're All In It Together,You Know I'm No Good,happiness,version,0.25
+Happiness: We're All In It Together,You Know I'm No Good,happiness,know,0.25
+Happiness: We're All In It Together,You Know I'm No Good,happiness,good,0.4
+Happiness: We're All In It Together,You Know I'm No Good,young,know,0.125
+Happiness: We're All In It Together,You Know I'm No Good,young,good,0.13333333333333333
+Happiness: We're All In It Together,You Know I'm No Good,young,version,0.125
+Happiness: We're All In It Together,You Know I'm No Good,young,know,0.125
+Happiness: We're All In It Together,You Know I'm No Good,young,good,0.13333333333333333
+Happiness: We're All In It Together,You Know I'm No Good,mountain,know,0.14285714285714285
+Happiness: We're All In It Together,You Know I'm No Good,mountain,good,0.15384615384615385
+Happiness: We're All In It Together,You Know I'm No Good,mountain,version,0.14285714285714285
+Happiness: We're All In It Together,You Know I'm No Good,mountain,know,0.14285714285714285
+Happiness: We're All In It Together,You Know I'm No Good,mountain,good,0.15384615384615385
+Happiness: We're All In It Together,I Heard Love Is Blind,together,heard,0
+Happiness: We're All In It Together,I Heard Love Is Blind,together,love,0
+Happiness: We're All In It Together,I Heard Love Is Blind,together,blind,0
+Happiness: We're All In It Together,I Heard Love Is Blind,together,frank,0
+Happiness: We're All In It Together,I Heard Love Is Blind,happiness,heard,0
+Happiness: We're All In It Together,I Heard Love Is Blind,happiness,love,0.8
+Happiness: We're All In It Together,I Heard Love Is Blind,happiness,blind,0.3076923076923077
+Happiness: We're All In It Together,I Heard Love Is Blind,happiness,frank,0.13333333333333333
+Happiness: We're All In It Together,I Heard Love Is Blind,young,heard,0
+Happiness: We're All In It Together,I Heard Love Is Blind,young,love,0.13333333333333333
+Happiness: We're All In It Together,I Heard Love Is Blind,young,blind,0.15384615384615385
+Happiness: We're All In It Together,I Heard Love Is Blind,young,frank,0.6666666666666666
+Happiness: We're All In It Together,I Heard Love Is Blind,mountain,heard,0
+Happiness: We're All In It Together,I Heard Love Is Blind,mountain,love,0.15384615384615385
+Happiness: We're All In It Together,I Heard Love Is Blind,mountain,blind,0.18181818181818182
+Happiness: We're All In It Together,I Heard Love Is Blind,mountain,frank,0.4
+Happiness: We're All In It Together,October Song,together,october,0
+Happiness: We're All In It Together,October Song,together,song,0
+Happiness: We're All In It Together,October Song,together,frank,0
+Happiness: We're All In It Together,October Song,together,black,0
+Happiness: We're All In It Together,October Song,together,back,0
+Happiness: We're All In It Together,October Song,happiness,october,0.25
+Happiness: We're All In It Together,October Song,happiness,song,0.26666666666666666
+Happiness: We're All In It Together,October Song,happiness,frank,0.13333333333333333
+Happiness: We're All In It Together,October Song,happiness,black,0.375
+Happiness: We're All In It Together,October Song,happiness,back,0.14285714285714285
+Happiness: We're All In It Together,October Song,young,october,0.125
+Happiness: We're All In It Together,October Song,young,song,0.13333333333333333
+Happiness: We're All In It Together,October Song,young,frank,0.6666666666666666
+Happiness: We're All In It Together,October Song,young,black,0.125
+Happiness: We're All In It Together,October Song,young,back,0.2857142857142857
+Happiness: We're All In It Together,October Song,mountain,october,0.14285714285714285
+Happiness: We're All In It Together,October Song,mountain,song,0.15384615384615385
+Happiness: We're All In It Together,October Song,mountain,frank,0.4
+Happiness: We're All In It Together,October Song,mountain,black,0.14285714285714285
+Happiness: We're All In It Together,October Song,mountain,back,0.3333333333333333
+Happiness: We're All In It Together,Back To Black,together,black,0
+Happiness: We're All In It Together,Back To Black,together,back,0
+Happiness: We're All In It Together,Back To Black,together,black,0
+Happiness: We're All In It Together,Back To Black,together,back,0
+Happiness: We're All In It Together,Back To Black,happiness,black,0.375
+Happiness: We're All In It Together,Back To Black,happiness,back,0.14285714285714285
+Happiness: We're All In It Together,Back To Black,happiness,black,0.375
+Happiness: We're All In It Together,Back To Black,happiness,back,0.14285714285714285
+Happiness: We're All In It Together,Back To Black,young,black,0.125
+Happiness: We're All In It Together,Back To Black,young,back,0.2857142857142857
+Happiness: We're All In It Together,Back To Black,young,black,0.125
+Happiness: We're All In It Together,Back To Black,young,back,0.2857142857142857
+Happiness: We're All In It Together,Back To Black,mountain,black,0.14285714285714285
+Happiness: We're All In It Together,Back To Black,mountain,back,0.3333333333333333
+Happiness: We're All In It Together,Back To Black,mountain,black,0.14285714285714285
+Happiness: We're All In It Together,Back To Black,mountain,back,0.3333333333333333
+Happiness: We're All In It Together,Know You Now,together,know,0
+Happiness: We're All In It Together,Know You Now,together,frank,0
+Happiness: We're All In It Together,Know You Now,happiness,know,0.25
+Happiness: We're All In It Together,Know You Now,happiness,frank,0.13333333333333333
+Happiness: We're All In It Together,Know You Now,young,know,0.125
+Happiness: We're All In It Together,Know You Now,young,frank,0.6666666666666666
+Happiness: We're All In It Together,Know You Now,mountain,know,0.14285714285714285
+Happiness: We're All In It Together,Know You Now,mountain,frank,0.4
+Happiness: We're All In It Together,Amy Amy Amy / Outro,together,frank,0
+Happiness: We're All In It Together,Amy Amy Amy / Outro,happiness,frank,0.13333333333333333
+Happiness: We're All In It Together,Amy Amy Amy / Outro,young,frank,0.6666666666666666
+Happiness: We're All In It Together,Amy Amy Amy / Outro,mountain,frank,0.4
+Happiness: We're All In It Together,Wake Up Alone,together,wake,0
+Happiness: We're All In It Together,Wake Up Alone,together,alone,0
+Happiness: We're All In It Together,Wake Up Alone,together,frank,0
+Happiness: We're All In It Together,Wake Up Alone,together,black,0
+Happiness: We're All In It Together,Wake Up Alone,together,back,0
+Happiness: We're All In It Together,Wake Up Alone,happiness,wake,0.14285714285714285
+Happiness: We're All In It Together,Wake Up Alone,happiness,alone,0
+Happiness: We're All In It Together,Wake Up Alone,happiness,frank,0.13333333333333333
+Happiness: We're All In It Together,Wake Up Alone,happiness,black,0.375
+Happiness: We're All In It Together,Wake Up Alone,happiness,back,0.14285714285714285
+Happiness: We're All In It Together,Wake Up Alone,young,wake,0.2857142857142857
+Happiness: We're All In It Together,Wake Up Alone,young,alone,0
+Happiness: We're All In It Together,Wake Up Alone,young,frank,0.6666666666666666
+Happiness: We're All In It Together,Wake Up Alone,young,black,0.125
+Happiness: We're All In It Together,Wake Up Alone,young,back,0.2857142857142857
+Happiness: We're All In It Together,Wake Up Alone,mountain,wake,0.3333333333333333
+Happiness: We're All In It Together,Wake Up Alone,mountain,alone,0
+Happiness: We're All In It Together,Wake Up Alone,mountain,frank,0.4
+Happiness: We're All In It Together,Wake Up Alone,mountain,black,0.14285714285714285
+Happiness: We're All In It Together,Wake Up Alone,mountain,back,0.3333333333333333
+Happiness: We're All In It Together,Just Friends,together,friends,0
+Happiness: We're All In It Together,Just Friends,together,black,0
+Happiness: We're All In It Together,Just Friends,together,back,0
+Happiness: We're All In It Together,Just Friends,happiness,friends,0.15384615384615385
+Happiness: We're All In It Together,Just Friends,happiness,black,0.375
+Happiness: We're All In It Together,Just Friends,happiness,back,0.14285714285714285
+Happiness: We're All In It Together,Just Friends,young,friends,0.75
+Happiness: We're All In It Together,Just Friends,young,black,0.125
+Happiness: We're All In It Together,Just Friends,young,back,0.2857142857142857
+Happiness: We're All In It Together,Just Friends,mountain,friends,0.46153846153846156
+Happiness: We're All In It Together,Just Friends,mountain,black,0.14285714285714285
+Happiness: We're All In It Together,Just Friends,mountain,back,0.3333333333333333
+Happiness: We're All In It Together,He Can Only Hold Her,together,hold,0
+Happiness: We're All In It Together,He Can Only Hold Her,together,black,0
+Happiness: We're All In It Together,He Can Only Hold Her,together,back,0
+Happiness: We're All In It Together,He Can Only Hold Her,happiness,hold,0.23529411764705882
+Happiness: We're All In It Together,He Can Only Hold Her,happiness,black,0.375
+Happiness: We're All In It Together,He Can Only Hold Her,happiness,back,0.14285714285714285
+Happiness: We're All In It Together,He Can Only Hold Her,young,hold,0.11764705882352941
+Happiness: We're All In It Together,He Can Only Hold Her,young,black,0.125
+Happiness: We're All In It Together,He Can Only Hold Her,young,back,0.2857142857142857
+Happiness: We're All In It Together,He Can Only Hold Her,mountain,hold,0.13333333333333333
+Happiness: We're All In It Together,He Can Only Hold Her,mountain,black,0.14285714285714285
+Happiness: We're All In It Together,He Can Only Hold Her,mountain,back,0.3333333333333333
+Armistice,Help Yourself,armistice,help,0.2857142857142857
+Armistice,Help Yourself,armistice,frank,0.14285714285714285
+Armistice,Help Yourself,phoenix,help,0.1111111111111111
+Armistice,Help Yourself,phoenix,frank,0.3
+Armistice,Some Unholy War,armistice,unholy,0
+Armistice,Some Unholy War,armistice,war,0.2857142857142857
+Armistice,Some Unholy War,armistice,frank,0.14285714285714285
+Armistice,Some Unholy War,armistice,black,0.4
+Armistice,Some Unholy War,armistice,back,0.15384615384615385
+Armistice,Some Unholy War,phoenix,unholy,0
+Armistice,Some Unholy War,phoenix,war,0.1111111111111111
+Armistice,Some Unholy War,phoenix,frank,0.3
+Armistice,Some Unholy War,phoenix,black,0.10526315789473684
+Armistice,Some Unholy War,phoenix,back,0.23529411764705882
+Armistice,Stronger Than Me,armistice,stronger,0
+Armistice,Stronger Than Me,armistice,rarities,0.375
+Armistice,Stronger Than Me,armistice,edition,0.1111111111111111
+Armistice,Stronger Than Me,armistice,frank,0.14285714285714285
+Armistice,Stronger Than Me,phoenix,stronger,0
+Armistice,Stronger Than Me,phoenix,rarities,0.1
+Armistice,Stronger Than Me,phoenix,edition,0.2727272727272727
+Armistice,Stronger Than Me,phoenix,frank,0.3
+Armistice,You Know I'm No Good,armistice,know,0.26666666666666666
+Armistice,You Know I'm No Good,armistice,good,0.42857142857142855
+Armistice,You Know I'm No Good,armistice,version,0.26666666666666666
+Armistice,You Know I'm No Good,armistice,know,0.26666666666666666
+Armistice,You Know I'm No Good,armistice,good,0.42857142857142855
+Armistice,You Know I'm No Good,phoenix,know,0.10526315789473684
+Armistice,You Know I'm No Good,phoenix,good,0.1111111111111111
+Armistice,You Know I'm No Good,phoenix,version,0.10526315789473684
+Armistice,You Know I'm No Good,phoenix,know,0.10526315789473684
+Armistice,You Know I'm No Good,phoenix,good,0.1111111111111111
+Armistice,I Heard Love Is Blind,armistice,heard,0
+Armistice,I Heard Love Is Blind,armistice,love,0.5714285714285714
+Armistice,I Heard Love Is Blind,armistice,blind,0.3333333333333333
+Armistice,I Heard Love Is Blind,armistice,frank,0.14285714285714285
+Armistice,I Heard Love Is Blind,phoenix,heard,0
+Armistice,I Heard Love Is Blind,phoenix,love,0.1111111111111111
+Armistice,I Heard Love Is Blind,phoenix,blind,0.125
+Armistice,I Heard Love Is Blind,phoenix,frank,0.3
+Armistice,October Song,armistice,october,0.26666666666666666
+Armistice,October Song,armistice,song,0.2857142857142857
+Armistice,October Song,armistice,frank,0.14285714285714285
+Armistice,October Song,armistice,black,0.4
+Armistice,October Song,armistice,back,0.15384615384615385
+Armistice,October Song,phoenix,october,0.10526315789473684
+Armistice,October Song,phoenix,song,0.1111111111111111
+Armistice,October Song,phoenix,frank,0.3
+Armistice,October Song,phoenix,black,0.10526315789473684
+Armistice,October Song,phoenix,back,0.23529411764705882
+Armistice,Back To Black,armistice,black,0.4
+Armistice,Back To Black,armistice,back,0.15384615384615385
+Armistice,Back To Black,armistice,black,0.4
+Armistice,Back To Black,armistice,back,0.15384615384615385
+Armistice,Back To Black,phoenix,black,0.10526315789473684
+Armistice,Back To Black,phoenix,back,0.23529411764705882
+Armistice,Back To Black,phoenix,black,0.10526315789473684
+Armistice,Back To Black,phoenix,back,0.23529411764705882
+Armistice,Know You Now,armistice,know,0.26666666666666666
+Armistice,Know You Now,armistice,frank,0.14285714285714285
+Armistice,Know You Now,phoenix,know,0.10526315789473684
+Armistice,Know You Now,phoenix,frank,0.3
+Armistice,Amy Amy Amy / Outro,armistice,frank,0.14285714285714285
+Armistice,Amy Amy Amy / Outro,phoenix,frank,0.3
+Armistice,Wake Up Alone,armistice,wake,0.15384615384615385
+Armistice,Wake Up Alone,armistice,alone,0
+Armistice,Wake Up Alone,armistice,frank,0.14285714285714285
+Armistice,Wake Up Alone,armistice,black,0.4
+Armistice,Wake Up Alone,armistice,back,0.15384615384615385
+Armistice,Wake Up Alone,phoenix,wake,0.23529411764705882
+Armistice,Wake Up Alone,phoenix,alone,0
+Armistice,Wake Up Alone,phoenix,frank,0.3
+Armistice,Wake Up Alone,phoenix,black,0.10526315789473684
+Armistice,Wake Up Alone,phoenix,back,0.23529411764705882
+Armistice,Just Friends,armistice,friends,0.16666666666666666
+Armistice,Just Friends,armistice,black,0.4
+Armistice,Just Friends,armistice,back,0.15384615384615385
+Armistice,Just Friends,phoenix,friends,0.3333333333333333
+Armistice,Just Friends,phoenix,black,0.10526315789473684
+Armistice,Just Friends,phoenix,back,0.23529411764705882
+Armistice,He Can Only Hold Her,armistice,hold,0.25
+Armistice,He Can Only Hold Her,armistice,black,0.4
+Armistice,He Can Only Hold Her,armistice,back,0.15384615384615385
+Armistice,He Can Only Hold Her,phoenix,hold,0.1
+Armistice,He Can Only Hold Her,phoenix,black,0.10526315789473684
+Armistice,He Can Only Hold Her,phoenix,back,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Help Yourself,remedies,help,0.5555555555555556
+There Are Some Remedies Worse Than The Disease,Help Yourself,remedies,frank,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Help Yourself,worse,help,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Help Yourself,worse,frank,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Help Yourself,disease,help,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Help Yourself,disease,frank,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Help Yourself,young,help,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Help Yourself,young,frank,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Help Yourself,mountain,help,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Help Yourself,mountain,frank,0.4
+There Are Some Remedies Worse Than The Disease,Some Unholy War,remedies,unholy,0
+There Are Some Remedies Worse Than The Disease,Some Unholy War,remedies,war,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Some Unholy War,remedies,frank,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Some Unholy War,remedies,black,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Some Unholy War,remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Some Unholy War,worse,unholy,0
+There Are Some Remedies Worse Than The Disease,Some Unholy War,worse,war,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Some Unholy War,worse,frank,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Some Unholy War,worse,black,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Some Unholy War,worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Some Unholy War,disease,unholy,0
+There Are Some Remedies Worse Than The Disease,Some Unholy War,disease,war,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Some Unholy War,disease,frank,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Some Unholy War,disease,black,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Some Unholy War,disease,back,0.125
+There Are Some Remedies Worse Than The Disease,Some Unholy War,young,unholy,0
+There Are Some Remedies Worse Than The Disease,Some Unholy War,young,war,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Some Unholy War,young,frank,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Some Unholy War,young,black,0.125
+There Are Some Remedies Worse Than The Disease,Some Unholy War,young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Some Unholy War,mountain,unholy,0
+There Are Some Remedies Worse Than The Disease,Some Unholy War,mountain,war,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Some Unholy War,mountain,frank,0.4
+There Are Some Remedies Worse Than The Disease,Some Unholy War,mountain,black,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Some Unholy War,mountain,back,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,remedies,stronger,0
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,remedies,rarities,0.2
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,remedies,edition,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,remedies,frank,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,worse,stronger,0
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,worse,rarities,0.4
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,worse,edition,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,worse,frank,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,disease,stronger,0
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,disease,rarities,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,disease,edition,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,disease,frank,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,young,stronger,0
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,young,rarities,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,young,edition,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,young,frank,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,mountain,stronger,0
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,mountain,rarities,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,mountain,edition,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Stronger Than Me,mountain,frank,0.4
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,remedies,know,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,remedies,good,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,remedies,know,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,remedies,good,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,worse,know,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,worse,good,0.6153846153846154
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,worse,know,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,worse,good,0.6153846153846154
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,disease,know,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,disease,good,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,disease,know,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,disease,good,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,young,know,0.125
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,young,good,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,young,version,0.125
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,young,know,0.125
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,young,good,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,mountain,know,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,mountain,good,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,mountain,know,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You Know I'm No Good,mountain,good,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,remedies,heard,0
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,remedies,love,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,remedies,blind,0.25
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,remedies,frank,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,worse,heard,0
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,worse,love,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,worse,blind,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,worse,frank,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,disease,heard,0
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,disease,love,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,disease,blind,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,disease,frank,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,young,heard,0
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,young,love,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,young,blind,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,young,frank,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,mountain,heard,0
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,mountain,love,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,mountain,blind,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,I Heard Love Is Blind,mountain,frank,0.4
+There Are Some Remedies Worse Than The Disease,October Song,remedies,october,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,October Song,remedies,song,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,October Song,remedies,frank,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,October Song,remedies,black,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,October Song,remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,October Song,worse,october,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,October Song,worse,song,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,October Song,worse,frank,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,October Song,worse,black,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,October Song,worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,October Song,disease,october,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,October Song,disease,song,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,October Song,disease,frank,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,October Song,disease,black,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,October Song,disease,back,0.125
+There Are Some Remedies Worse Than The Disease,October Song,young,october,0.125
+There Are Some Remedies Worse Than The Disease,October Song,young,song,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,October Song,young,frank,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,October Song,young,black,0.125
+There Are Some Remedies Worse Than The Disease,October Song,young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,October Song,mountain,october,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,October Song,mountain,song,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,October Song,mountain,frank,0.4
+There Are Some Remedies Worse Than The Disease,October Song,mountain,black,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,October Song,mountain,back,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Back To Black,remedies,black,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Back To Black,remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Back To Black,remedies,black,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Back To Black,remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Back To Black,worse,black,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Back To Black,worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Back To Black,worse,black,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Back To Black,worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Back To Black,disease,black,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Back To Black,disease,back,0.125
+There Are Some Remedies Worse Than The Disease,Back To Black,disease,black,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Back To Black,disease,back,0.125
+There Are Some Remedies Worse Than The Disease,Back To Black,young,black,0.125
+There Are Some Remedies Worse Than The Disease,Back To Black,young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Back To Black,young,black,0.125
+There Are Some Remedies Worse Than The Disease,Back To Black,young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Back To Black,mountain,black,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Back To Black,mountain,back,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Back To Black,mountain,black,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Back To Black,mountain,back,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Know You Now,remedies,know,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Know You Now,remedies,frank,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Know You Now,worse,know,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Know You Now,worse,frank,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Know You Now,disease,know,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Know You Now,disease,frank,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Know You Now,young,know,0.125
+There Are Some Remedies Worse Than The Disease,Know You Now,young,frank,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Know You Now,mountain,know,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Know You Now,mountain,frank,0.4
+There Are Some Remedies Worse Than The Disease,Amy Amy Amy / Outro,remedies,frank,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Amy Amy Amy / Outro,worse,frank,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Amy Amy Amy / Outro,disease,frank,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Amy Amy Amy / Outro,young,frank,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Amy Amy Amy / Outro,mountain,frank,0.4
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,remedies,wake,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,remedies,alone,0
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,remedies,frank,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,remedies,black,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,worse,wake,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,worse,alone,0
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,worse,frank,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,worse,black,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,disease,wake,0.125
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,disease,alone,0
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,disease,frank,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,disease,black,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,disease,back,0.125
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,young,wake,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,young,alone,0
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,young,frank,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,young,black,0.125
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,mountain,wake,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,mountain,alone,0
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,mountain,frank,0.4
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,mountain,black,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Wake Up Alone,mountain,back,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Just Friends,remedies,friends,0.125
+There Are Some Remedies Worse Than The Disease,Just Friends,remedies,black,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Just Friends,remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Just Friends,worse,friends,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Just Friends,worse,black,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Just Friends,worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Just Friends,disease,friends,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Just Friends,disease,black,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Just Friends,disease,back,0.125
+There Are Some Remedies Worse Than The Disease,Just Friends,young,friends,0.75
+There Are Some Remedies Worse Than The Disease,Just Friends,young,black,0.125
+There Are Some Remedies Worse Than The Disease,Just Friends,young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Just Friends,mountain,friends,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Just Friends,mountain,black,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Just Friends,mountain,back,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,remedies,hold,0.5
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,remedies,black,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,remedies,back,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,worse,hold,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,worse,black,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,worse,back,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,disease,hold,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,disease,black,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,disease,back,0.125
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,young,hold,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,young,black,0.125
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,young,back,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,mountain,hold,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,mountain,black,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,He Can Only Hold Her,mountain,back,0.3333333333333333
+Swimming In The Flood,Help Yourself,swimming,help,0.7058823529411765
+Swimming In The Flood,Help Yourself,swimming,frank,0.11764705882352941
+Swimming In The Flood,Help Yourself,flood,help,0.14285714285714285
+Swimming In The Flood,Help Yourself,flood,frank,0.2857142857142857
+Swimming In The Flood,Help Yourself,manners,help,0.3076923076923077
+Swimming In The Flood,Help Yourself,manners,frank,0.15384615384615385
+Swimming In The Flood,Some Unholy War,swimming,unholy,0
+Swimming In The Flood,Some Unholy War,swimming,war,0.5555555555555556
+Swimming In The Flood,Some Unholy War,swimming,frank,0.11764705882352941
+Swimming In The Flood,Some Unholy War,swimming,black,0.2222222222222222
+Swimming In The Flood,Some Unholy War,swimming,back,0.125
+Swimming In The Flood,Some Unholy War,flood,unholy,0
+Swimming In The Flood,Some Unholy War,flood,war,0.14285714285714285
+Swimming In The Flood,Some Unholy War,flood,frank,0.2857142857142857
+Swimming In The Flood,Some Unholy War,flood,black,0.13333333333333333
+Swimming In The Flood,Some Unholy War,flood,back,0.3076923076923077
+Swimming In The Flood,Some Unholy War,manners,unholy,0
+Swimming In The Flood,Some Unholy War,manners,war,0.3076923076923077
+Swimming In The Flood,Some Unholy War,manners,frank,0.15384615384615385
+Swimming In The Flood,Some Unholy War,manners,black,0.42857142857142855
+Swimming In The Flood,Some Unholy War,manners,back,0.16666666666666666
+Swimming In The Flood,Stronger Than Me,swimming,stronger,0
+Swimming In The Flood,Stronger Than Me,swimming,rarities,0.21052631578947367
+Swimming In The Flood,Stronger Than Me,swimming,edition,0.09523809523809523
+Swimming In The Flood,Stronger Than Me,swimming,frank,0.11764705882352941
+Swimming In The Flood,Stronger Than Me,flood,stronger,0
+Swimming In The Flood,Stronger Than Me,flood,rarities,0.125
+Swimming In The Flood,Stronger Than Me,flood,edition,0.2222222222222222
+Swimming In The Flood,Stronger Than Me,flood,frank,0.2857142857142857
+Swimming In The Flood,Stronger Than Me,manners,stronger,0
+Swimming In The Flood,Stronger Than Me,manners,rarities,0.4
+Swimming In The Flood,Stronger Than Me,manners,edition,0.11764705882352941
+Swimming In The Flood,Stronger Than Me,manners,frank,0.15384615384615385
+Swimming In The Flood,You Know I'm No Good,swimming,know,0.3333333333333333
+Swimming In The Flood,You Know I'm No Good,swimming,good,0.23529411764705882
+Swimming In The Flood,You Know I'm No Good,swimming,version,0.2222222222222222
+Swimming In The Flood,You Know I'm No Good,swimming,know,0.3333333333333333
+Swimming In The Flood,You Know I'm No Good,swimming,good,0.23529411764705882
+Swimming In The Flood,You Know I'm No Good,flood,know,0.13333333333333333
+Swimming In The Flood,You Know I'm No Good,flood,good,0.14285714285714285
+Swimming In The Flood,You Know I'm No Good,flood,version,0.13333333333333333
+Swimming In The Flood,You Know I'm No Good,flood,know,0.13333333333333333
+Swimming In The Flood,You Know I'm No Good,flood,good,0.14285714285714285
+Swimming In The Flood,You Know I'm No Good,manners,know,0.2857142857142857
+Swimming In The Flood,You Know I'm No Good,manners,good,0.46153846153846156
+Swimming In The Flood,You Know I'm No Good,manners,version,0.2857142857142857
+Swimming In The Flood,You Know I'm No Good,manners,know,0.2857142857142857
+Swimming In The Flood,You Know I'm No Good,manners,good,0.46153846153846156
+Swimming In The Flood,I Heard Love Is Blind,swimming,heard,0
+Swimming In The Flood,I Heard Love Is Blind,swimming,love,0.23529411764705882
+Swimming In The Flood,I Heard Love Is Blind,swimming,blind,0.26666666666666666
+Swimming In The Flood,I Heard Love Is Blind,swimming,frank,0.11764705882352941
+Swimming In The Flood,I Heard Love Is Blind,flood,heard,0
+Swimming In The Flood,I Heard Love Is Blind,flood,love,0.14285714285714285
+Swimming In The Flood,I Heard Love Is Blind,flood,blind,0.16666666666666666
+Swimming In The Flood,I Heard Love Is Blind,flood,frank,0.2857142857142857
+Swimming In The Flood,I Heard Love Is Blind,manners,heard,0
+Swimming In The Flood,I Heard Love Is Blind,manners,love,0.46153846153846156
+Swimming In The Flood,I Heard Love Is Blind,manners,blind,0.36363636363636365
+Swimming In The Flood,I Heard Love Is Blind,manners,frank,0.15384615384615385
+Swimming In The Flood,October Song,swimming,october,0.2222222222222222
+Swimming In The Flood,October Song,swimming,song,0.23529411764705882
+Swimming In The Flood,October Song,swimming,frank,0.11764705882352941
+Swimming In The Flood,October Song,swimming,black,0.2222222222222222
+Swimming In The Flood,October Song,swimming,back,0.125
+Swimming In The Flood,October Song,flood,october,0.13333333333333333
+Swimming In The Flood,October Song,flood,song,0.14285714285714285
+Swimming In The Flood,October Song,flood,frank,0.2857142857142857
+Swimming In The Flood,October Song,flood,black,0.13333333333333333
+Swimming In The Flood,October Song,flood,back,0.3076923076923077
+Swimming In The Flood,October Song,manners,october,0.2857142857142857
+Swimming In The Flood,October Song,manners,song,0.3076923076923077
+Swimming In The Flood,October Song,manners,frank,0.15384615384615385
+Swimming In The Flood,October Song,manners,black,0.42857142857142855
+Swimming In The Flood,October Song,manners,back,0.16666666666666666
+Swimming In The Flood,Back To Black,swimming,black,0.2222222222222222
+Swimming In The Flood,Back To Black,swimming,back,0.125
+Swimming In The Flood,Back To Black,swimming,black,0.2222222222222222
+Swimming In The Flood,Back To Black,swimming,back,0.125
+Swimming In The Flood,Back To Black,flood,black,0.13333333333333333
+Swimming In The Flood,Back To Black,flood,back,0.3076923076923077
+Swimming In The Flood,Back To Black,flood,black,0.13333333333333333
+Swimming In The Flood,Back To Black,flood,back,0.3076923076923077
+Swimming In The Flood,Back To Black,manners,black,0.42857142857142855
+Swimming In The Flood,Back To Black,manners,back,0.16666666666666666
+Swimming In The Flood,Back To Black,manners,black,0.42857142857142855
+Swimming In The Flood,Back To Black,manners,back,0.16666666666666666
+Swimming In The Flood,Know You Now,swimming,know,0.3333333333333333
+Swimming In The Flood,Know You Now,swimming,frank,0.11764705882352941
+Swimming In The Flood,Know You Now,flood,know,0.13333333333333333
+Swimming In The Flood,Know You Now,flood,frank,0.2857142857142857
+Swimming In The Flood,Know You Now,manners,know,0.2857142857142857
+Swimming In The Flood,Know You Now,manners,frank,0.15384615384615385
+Swimming In The Flood,Amy Amy Amy / Outro,swimming,frank,0.11764705882352941
+Swimming In The Flood,Amy Amy Amy / Outro,flood,frank,0.2857142857142857
+Swimming In The Flood,Amy Amy Amy / Outro,manners,frank,0.15384615384615385
+Swimming In The Flood,Wake Up Alone,swimming,wake,0.125
+Swimming In The Flood,Wake Up Alone,swimming,alone,0
+Swimming In The Flood,Wake Up Alone,swimming,frank,0.11764705882352941
+Swimming In The Flood,Wake Up Alone,swimming,black,0.2222222222222222
+Swimming In The Flood,Wake Up Alone,swimming,back,0.125
+Swimming In The Flood,Wake Up Alone,flood,wake,0.6153846153846154
+Swimming In The Flood,Wake Up Alone,flood,alone,0
+Swimming In The Flood,Wake Up Alone,flood,frank,0.2857142857142857
+Swimming In The Flood,Wake Up Alone,flood,black,0.13333333333333333
+Swimming In The Flood,Wake Up Alone,flood,back,0.3076923076923077
+Swimming In The Flood,Wake Up Alone,manners,wake,0.16666666666666666
+Swimming In The Flood,Wake Up Alone,manners,alone,0
+Swimming In The Flood,Wake Up Alone,manners,frank,0.15384615384615385
+Swimming In The Flood,Wake Up Alone,manners,black,0.42857142857142855
+Swimming In The Flood,Wake Up Alone,manners,back,0.16666666666666666
+Swimming In The Flood,Just Friends,swimming,friends,0.13333333333333333
+Swimming In The Flood,Just Friends,swimming,black,0.2222222222222222
+Swimming In The Flood,Just Friends,swimming,back,0.125
+Swimming In The Flood,Just Friends,flood,friends,0.3333333333333333
+Swimming In The Flood,Just Friends,flood,black,0.13333333333333333
+Swimming In The Flood,Just Friends,flood,back,0.3076923076923077
+Swimming In The Flood,Just Friends,manners,friends,0.18181818181818182
+Swimming In The Flood,Just Friends,manners,black,0.42857142857142855
+Swimming In The Flood,Just Friends,manners,back,0.16666666666666666
+Swimming In The Flood,He Can Only Hold Her,swimming,hold,0.631578947368421
+Swimming In The Flood,He Can Only Hold Her,swimming,black,0.2222222222222222
+Swimming In The Flood,He Can Only Hold Her,swimming,back,0.125
+Swimming In The Flood,He Can Only Hold Her,flood,hold,0.125
+Swimming In The Flood,He Can Only Hold Her,flood,black,0.13333333333333333
+Swimming In The Flood,He Can Only Hold Her,flood,back,0.3076923076923077
+Swimming In The Flood,He Can Only Hold Her,manners,hold,0.26666666666666666
+Swimming In The Flood,He Can Only Hold Her,manners,black,0.42857142857142855
+Swimming In The Flood,He Can Only Hold Her,manners,back,0.16666666666666666

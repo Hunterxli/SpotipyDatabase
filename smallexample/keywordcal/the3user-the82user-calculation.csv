@@ -1,0 +1,1222 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Undo,sun,undo,0
+Sun Hands,Undo,sun,live,0
+Sun Hands,Undo,hands,undo,0
+Sun Hands,Undo,hands,live,0
+Sun Hands,Undo,gorilla,undo,0
+Sun Hands,Undo,gorilla,live,0
+Sun Hands,Undo,manor,undo,0
+Sun Hands,Undo,manor,live,0
+Sun Hands,Dog Days Are Over (Radio Edit),sun,radio,0.4444444444444444
+Sun Hands,Dog Days Are Over (Radio Edit),sun,edit,0
+Sun Hands,Dog Days Are Over (Radio Edit),sun,dog,0.47058823529411764
+Sun Hands,Dog Days Are Over (Radio Edit),sun,days,0.13333333333333333
+Sun Hands,Dog Days Are Over (Radio Edit),sun,call,0.4444444444444444
+Sun Hands,Dog Days Are Over (Radio Edit),sun,music,0.15384615384615385
+Sun Hands,Dog Days Are Over (Radio Edit),hands,radio,0.10526315789473684
+Sun Hands,Dog Days Are Over (Radio Edit),hands,edit,0
+Sun Hands,Dog Days Are Over (Radio Edit),hands,dog,0.1111111111111111
+Sun Hands,Dog Days Are Over (Radio Edit),hands,days,0.25
+Sun Hands,Dog Days Are Over (Radio Edit),hands,call,0.10526315789473684
+Sun Hands,Dog Days Are Over (Radio Edit),hands,music,0.2857142857142857
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,radio,0.3076923076923077
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,edit,0
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,dog,0.7333333333333333
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,days,0.08695652173913043
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,call,0.3076923076923077
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,music,0.09523809523809523
+Sun Hands,Dog Days Are Over (Radio Edit),manor,radio,0.5
+Sun Hands,Dog Days Are Over (Radio Edit),manor,edit,0
+Sun Hands,Dog Days Are Over (Radio Edit),manor,dog,0.42105263157894735
+Sun Hands,Dog Days Are Over (Radio Edit),manor,days,0.11764705882352941
+Sun Hands,Dog Days Are Over (Radio Edit),manor,call,0.5
+Sun Hands,Dog Days Are Over (Radio Edit),manor,music,0.13333333333333333
+Sun Hands,You're The One,sun,one,0.125
+Sun Hands,You're The One,sun,way,0.15384615384615385
+Sun Hands,You're The One,hands,one,0.23529411764705882
+Sun Hands,You're The One,hands,way,0.2857142857142857
+Sun Hands,You're The One,gorilla,one,0.08333333333333333
+Sun Hands,You're The One,gorilla,way,0.09523809523809523
+Sun Hands,You're The One,manor,one,0.1111111111111111
+Sun Hands,You're The One,manor,way,0.13333333333333333
+Sun Hands,Sehr kosmisch,sun,cosmic,0
+Sun Hands,Sehr kosmisch,sun,music,0.15384615384615385
+Sun Hands,Sehr kosmisch,hands,cosmic,0
+Sun Hands,Sehr kosmisch,hands,music,0.2857142857142857
+Sun Hands,Sehr kosmisch,gorilla,cosmic,0
+Sun Hands,Sehr kosmisch,gorilla,music,0.09523809523809523
+Sun Hands,Sehr kosmisch,manor,cosmic,0
+Sun Hands,Sehr kosmisch,manor,music,0.13333333333333333
+Sun Hands,The Scientist,sun,scientist,0.5
+Sun Hands,The Scientist,sun,scientist,0.5
+Sun Hands,The Scientist,hands,scientist,0.14285714285714285
+Sun Hands,The Scientist,hands,scientist,0.14285714285714285
+Sun Hands,The Scientist,gorilla,scientist,0.5
+Sun Hands,The Scientist,gorilla,scientist,0.5
+Sun Hands,The Scientist,manor,scientist,0.4444444444444444
+Sun Hands,The Scientist,manor,scientist,0.4444444444444444
+Sun Hands,Rianna,sun,update,0.13333333333333333
+Sun Hands,Rianna,sun,collection,0.16666666666666666
+Sun Hands,Rianna,hands,update,0.25
+Sun Hands,Rianna,hands,collection,0.3076923076923077
+Sun Hands,Rianna,gorilla,update,0.08695652173913043
+Sun Hands,Rianna,gorilla,collection,0.1
+Sun Hands,Rianna,manor,update,0.11764705882352941
+Sun Hands,Rianna,manor,collection,0.14285714285714285
+Sun Hands,Secrets,sun,secrets,0.14285714285714285
+Sun Hands,Secrets,sun,waking,0.11764705882352941
+Sun Hands,Secrets,hands,secrets,0.26666666666666666
+Sun Hands,Secrets,hands,waking,0.2222222222222222
+Sun Hands,Secrets,gorilla,secrets,0.09090909090909091
+Sun Hands,Secrets,gorilla,waking,0.08
+Sun Hands,Secrets,manor,secrets,0.125
+Sun Hands,Secrets,manor,waking,0.10526315789473684
+Sun Hands,Revelry,sun,revelry,0.1111111111111111
+Sun Hands,Revelry,sun,night,0.14285714285714285
+Sun Hands,Revelry,hands,revelry,0.5
+Sun Hands,Revelry,hands,night,0.26666666666666666
+Sun Hands,Revelry,gorilla,revelry,0.07692307692307693
+Sun Hands,Revelry,gorilla,night,0.09090909090909091
+Sun Hands,Revelry,manor,revelry,0.1
+Sun Hands,Revelry,manor,night,0.125
+Sun Hands,Time to Go,sun,time,0.13333333333333333
+Sun Hands,Time to Go,sun,go,0.11764705882352941
+Sun Hands,Time to Go,sun,boston,0.3157894736842105
+Sun Hands,Time to Go,sun,live,0
+Sun Hands,Time to Go,hands,time,0.5
+Sun Hands,Time to Go,hands,go,0.2222222222222222
+Sun Hands,Time to Go,hands,boston,0.1
+Sun Hands,Time to Go,hands,live,0
+Sun Hands,Time to Go,gorilla,time,0.08695652173913043
+Sun Hands,Time to Go,gorilla,go,0.08
+Sun Hands,Time to Go,gorilla,boston,0.2222222222222222
+Sun Hands,Time to Go,gorilla,live,0
+Sun Hands,Time to Go,manor,time,0.11764705882352941
+Sun Hands,Time to Go,manor,go,0.10526315789473684
+Sun Hands,Time to Go,manor,boston,0.2857142857142857
+Sun Hands,Time to Go,manor,live,0
+Sun Hands,Ain't Misbehavin,sun,summertime,0.13333333333333333
+Sun Hands,Ain't Misbehavin,hands,summertime,0.25
+Sun Hands,Ain't Misbehavin,gorilla,summertime,0.08695652173913043
+Sun Hands,Ain't Misbehavin,manor,summertime,0.11764705882352941
+Sun Hands,Use Somebody,sun,use,0.13333333333333333
+Sun Hands,Use Somebody,sun,somebody,0.5333333333333333
+Sun Hands,Use Somebody,sun,use,0.13333333333333333
+Sun Hands,Use Somebody,sun,somebody,0.5333333333333333
+Sun Hands,Use Somebody,hands,use,0.5882352941176471
+Sun Hands,Use Somebody,hands,somebody,0.15384615384615385
+Sun Hands,Use Somebody,hands,use,0.5882352941176471
+Sun Hands,Use Somebody,hands,somebody,0.15384615384615385
+Sun Hands,Use Somebody,gorilla,use,0.08695652173913043
+Sun Hands,Use Somebody,gorilla,somebody,0.5217391304347826
+Sun Hands,Use Somebody,gorilla,use,0.08695652173913043
+Sun Hands,Use Somebody,gorilla,somebody,0.5217391304347826
+Sun Hands,Use Somebody,manor,use,0.11764705882352941
+Sun Hands,Use Somebody,manor,somebody,0.47058823529411764
+Sun Hands,Use Somebody,manor,use,0.11764705882352941
+Sun Hands,Use Somebody,manor,somebody,0.47058823529411764
+Sun Hands,Sunshine Highway,sun,sunshine,0.2
+Sun Hands,Sunshine Highway,sun,highway,0.5
+Sun Hands,Sunshine Highway,sun,boston,0.3157894736842105
+Sun Hands,Sunshine Highway,sun,live,0
+Sun Hands,Sunshine Highway,hands,sunshine,0.09523809523809523
+Sun Hands,Sunshine Highway,hands,highway,0.11764705882352941
+Sun Hands,Sunshine Highway,hands,boston,0.1
+Sun Hands,Sunshine Highway,hands,live,0
+Sun Hands,Sunshine Highway,gorilla,sunshine,0.14285714285714285
+Sun Hands,Sunshine Highway,gorilla,highway,0.3333333333333333
+Sun Hands,Sunshine Highway,gorilla,boston,0.2222222222222222
+Sun Hands,Sunshine Highway,gorilla,live,0
+Sun Hands,Sunshine Highway,manor,sunshine,0.18181818181818182
+Sun Hands,Sunshine Highway,manor,highway,0.5555555555555556
+Sun Hands,Sunshine Highway,manor,boston,0.2857142857142857
+Sun Hands,Sunshine Highway,manor,live,0
+Camera Talk,Undo,camera,undo,0
+Camera Talk,Undo,camera,live,0
+Camera Talk,Undo,talk,undo,0
+Camera Talk,Undo,talk,live,0
+Camera Talk,Undo,camera,undo,0
+Camera Talk,Undo,camera,live,0
+Camera Talk,Undo,talk,undo,0
+Camera Talk,Undo,talk,live,0
+Camera Talk,Dog Days Are Over (Radio Edit),camera,radio,0.631578947368421
+Camera Talk,Dog Days Are Over (Radio Edit),camera,edit,0
+Camera Talk,Dog Days Are Over (Radio Edit),camera,dog,0.4444444444444444
+Camera Talk,Dog Days Are Over (Radio Edit),camera,days,0.125
+Camera Talk,Dog Days Are Over (Radio Edit),camera,call,0.631578947368421
+Camera Talk,Dog Days Are Over (Radio Edit),camera,music,0.14285714285714285
+Camera Talk,Dog Days Are Over (Radio Edit),talk,radio,0.11764705882352941
+Camera Talk,Dog Days Are Over (Radio Edit),talk,edit,0
+Camera Talk,Dog Days Are Over (Radio Edit),talk,dog,0.125
+Camera Talk,Dog Days Are Over (Radio Edit),talk,days,0.2857142857142857
+Camera Talk,Dog Days Are Over (Radio Edit),talk,call,0.11764705882352941
+Camera Talk,Dog Days Are Over (Radio Edit),talk,music,0.6666666666666666
+Camera Talk,Dog Days Are Over (Radio Edit),camera,radio,0.631578947368421
+Camera Talk,Dog Days Are Over (Radio Edit),camera,edit,0
+Camera Talk,Dog Days Are Over (Radio Edit),camera,dog,0.4444444444444444
+Camera Talk,Dog Days Are Over (Radio Edit),camera,days,0.125
+Camera Talk,Dog Days Are Over (Radio Edit),camera,call,0.631578947368421
+Camera Talk,Dog Days Are Over (Radio Edit),camera,music,0.14285714285714285
+Camera Talk,Dog Days Are Over (Radio Edit),talk,radio,0.11764705882352941
+Camera Talk,Dog Days Are Over (Radio Edit),talk,edit,0
+Camera Talk,Dog Days Are Over (Radio Edit),talk,dog,0.125
+Camera Talk,Dog Days Are Over (Radio Edit),talk,days,0.2857142857142857
+Camera Talk,Dog Days Are Over (Radio Edit),talk,call,0.11764705882352941
+Camera Talk,Dog Days Are Over (Radio Edit),talk,music,0.6666666666666666
+Camera Talk,You're The One,camera,one,0.11764705882352941
+Camera Talk,You're The One,camera,way,0.14285714285714285
+Camera Talk,You're The One,talk,one,0.26666666666666666
+Camera Talk,You're The One,talk,way,0.3333333333333333
+Camera Talk,You're The One,camera,one,0.11764705882352941
+Camera Talk,You're The One,camera,way,0.14285714285714285
+Camera Talk,You're The One,talk,one,0.26666666666666666
+Camera Talk,You're The One,talk,way,0.3333333333333333
+Camera Talk,Sehr kosmisch,camera,cosmic,0
+Camera Talk,Sehr kosmisch,camera,music,0.14285714285714285
+Camera Talk,Sehr kosmisch,talk,cosmic,0
+Camera Talk,Sehr kosmisch,talk,music,0.6666666666666666
+Camera Talk,Sehr kosmisch,camera,cosmic,0
+Camera Talk,Sehr kosmisch,camera,music,0.14285714285714285
+Camera Talk,Sehr kosmisch,talk,cosmic,0
+Camera Talk,Sehr kosmisch,talk,music,0.6666666666666666
+Camera Talk,The Scientist,camera,scientist,0.47058823529411764
+Camera Talk,The Scientist,camera,scientist,0.47058823529411764
+Camera Talk,The Scientist,talk,scientist,0.16666666666666666
+Camera Talk,The Scientist,talk,scientist,0.16666666666666666
+Camera Talk,The Scientist,camera,scientist,0.47058823529411764
+Camera Talk,The Scientist,camera,scientist,0.47058823529411764
+Camera Talk,The Scientist,talk,scientist,0.16666666666666666
+Camera Talk,The Scientist,talk,scientist,0.16666666666666666
+Camera Talk,Rianna,camera,update,0.125
+Camera Talk,Rianna,camera,collection,0.15384615384615385
+Camera Talk,Rianna,talk,update,0.42857142857142855
+Camera Talk,Rianna,talk,collection,0.36363636363636365
+Camera Talk,Rianna,camera,update,0.125
+Camera Talk,Rianna,camera,collection,0.15384615384615385
+Camera Talk,Rianna,talk,update,0.42857142857142855
+Camera Talk,Rianna,talk,collection,0.36363636363636365
+Camera Talk,Secrets,camera,secrets,0.13333333333333333
+Camera Talk,Secrets,camera,waking,0.1111111111111111
+Camera Talk,Secrets,talk,secrets,0.46153846153846156
+Camera Talk,Secrets,talk,waking,0.25
+Camera Talk,Secrets,camera,secrets,0.13333333333333333
+Camera Talk,Secrets,camera,waking,0.1111111111111111
+Camera Talk,Secrets,talk,secrets,0.46153846153846156
+Camera Talk,Secrets,talk,waking,0.25
+Camera Talk,Revelry,camera,revelry,0.10526315789473684
+Camera Talk,Revelry,camera,night,0.13333333333333333
+Camera Talk,Revelry,talk,revelry,0.23529411764705882
+Camera Talk,Revelry,talk,night,0.3076923076923077
+Camera Talk,Revelry,camera,revelry,0.10526315789473684
+Camera Talk,Revelry,camera,night,0.13333333333333333
+Camera Talk,Revelry,talk,revelry,0.23529411764705882
+Camera Talk,Revelry,talk,night,0.3076923076923077
+Camera Talk,Time to Go,camera,time,0.125
+Camera Talk,Time to Go,camera,go,0.1111111111111111
+Camera Talk,Time to Go,camera,boston,0.3
+Camera Talk,Time to Go,camera,live,0
+Camera Talk,Time to Go,talk,time,0.2857142857142857
+Camera Talk,Time to Go,talk,go,0.25
+Camera Talk,Time to Go,talk,boston,0.1111111111111111
+Camera Talk,Time to Go,talk,live,0
+Camera Talk,Time to Go,camera,time,0.125
+Camera Talk,Time to Go,camera,go,0.1111111111111111
+Camera Talk,Time to Go,camera,boston,0.3
+Camera Talk,Time to Go,camera,live,0
+Camera Talk,Time to Go,talk,time,0.2857142857142857
+Camera Talk,Time to Go,talk,go,0.25
+Camera Talk,Time to Go,talk,boston,0.1111111111111111
+Camera Talk,Time to Go,talk,live,0
+Camera Talk,Ain't Misbehavin,camera,summertime,0.125
+Camera Talk,Ain't Misbehavin,talk,summertime,0.2857142857142857
+Camera Talk,Ain't Misbehavin,camera,summertime,0.125
+Camera Talk,Ain't Misbehavin,talk,summertime,0.2857142857142857
+Camera Talk,Use Somebody,camera,use,0.125
+Camera Talk,Use Somebody,camera,somebody,0.5
+Camera Talk,Use Somebody,camera,use,0.125
+Camera Talk,Use Somebody,camera,somebody,0.5
+Camera Talk,Use Somebody,talk,use,0.2857142857142857
+Camera Talk,Use Somebody,talk,somebody,0.18181818181818182
+Camera Talk,Use Somebody,talk,use,0.2857142857142857
+Camera Talk,Use Somebody,talk,somebody,0.18181818181818182
+Camera Talk,Use Somebody,camera,use,0.125
+Camera Talk,Use Somebody,camera,somebody,0.5
+Camera Talk,Use Somebody,camera,use,0.125
+Camera Talk,Use Somebody,camera,somebody,0.5
+Camera Talk,Use Somebody,talk,use,0.2857142857142857
+Camera Talk,Use Somebody,talk,somebody,0.18181818181818182
+Camera Talk,Use Somebody,talk,use,0.2857142857142857
+Camera Talk,Use Somebody,talk,somebody,0.18181818181818182
+Camera Talk,Sunshine Highway,camera,sunshine,0.19047619047619047
+Camera Talk,Sunshine Highway,camera,highway,0.5882352941176471
+Camera Talk,Sunshine Highway,camera,boston,0.3
+Camera Talk,Sunshine Highway,camera,live,0
+Camera Talk,Sunshine Highway,talk,sunshine,0.10526315789473684
+Camera Talk,Sunshine Highway,talk,highway,0.13333333333333333
+Camera Talk,Sunshine Highway,talk,boston,0.1111111111111111
+Camera Talk,Sunshine Highway,talk,live,0
+Camera Talk,Sunshine Highway,camera,sunshine,0.19047619047619047
+Camera Talk,Sunshine Highway,camera,highway,0.5882352941176471
+Camera Talk,Sunshine Highway,camera,boston,0.3
+Camera Talk,Sunshine Highway,camera,live,0
+Camera Talk,Sunshine Highway,talk,sunshine,0.10526315789473684
+Camera Talk,Sunshine Highway,talk,highway,0.13333333333333333
+Camera Talk,Sunshine Highway,talk,boston,0.1111111111111111
+Camera Talk,Sunshine Highway,talk,live,0
+Belle,Undo,beautiful,undo,0
+Belle,Undo,beautiful,live,0
+Belle,Undo,dreams,undo,0
+Belle,Undo,dreams,live,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,radio,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,edit,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,dog,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,days,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,call,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,music,0
+Belle,Dog Days Are Over (Radio Edit),dreams,radio,0.10526315789473684
+Belle,Dog Days Are Over (Radio Edit),dreams,edit,0
+Belle,Dog Days Are Over (Radio Edit),dreams,dog,0.1111111111111111
+Belle,Dog Days Are Over (Radio Edit),dreams,days,0.25
+Belle,Dog Days Are Over (Radio Edit),dreams,call,0.10526315789473684
+Belle,Dog Days Are Over (Radio Edit),dreams,music,0.2857142857142857
+Belle,You're The One,beautiful,one,0
+Belle,You're The One,beautiful,way,0
+Belle,You're The One,dreams,one,0.23529411764705882
+Belle,You're The One,dreams,way,0.2857142857142857
+Belle,Sehr kosmisch,beautiful,cosmic,0
+Belle,Sehr kosmisch,beautiful,music,0
+Belle,Sehr kosmisch,dreams,cosmic,0
+Belle,Sehr kosmisch,dreams,music,0.2857142857142857
+Belle,The Scientist,beautiful,scientist,0
+Belle,The Scientist,beautiful,scientist,0
+Belle,The Scientist,dreams,scientist,0.14285714285714285
+Belle,The Scientist,dreams,scientist,0.14285714285714285
+Belle,Rianna,beautiful,update,0
+Belle,Rianna,beautiful,collection,0
+Belle,Rianna,dreams,update,0.25
+Belle,Rianna,dreams,collection,0.3076923076923077
+Belle,Secrets,beautiful,secrets,0
+Belle,Secrets,beautiful,waking,0
+Belle,Secrets,dreams,secrets,0.26666666666666666
+Belle,Secrets,dreams,waking,0.2222222222222222
+Belle,Revelry,beautiful,revelry,0
+Belle,Revelry,beautiful,night,0
+Belle,Revelry,dreams,revelry,0.3157894736842105
+Belle,Revelry,dreams,night,0.26666666666666666
+Belle,Time to Go,beautiful,time,0
+Belle,Time to Go,beautiful,go,0
+Belle,Time to Go,beautiful,boston,0
+Belle,Time to Go,beautiful,live,0
+Belle,Time to Go,dreams,time,0.375
+Belle,Time to Go,dreams,go,0.2222222222222222
+Belle,Time to Go,dreams,boston,0.1
+Belle,Time to Go,dreams,live,0
+Belle,Ain't Misbehavin,beautiful,summertime,0
+Belle,Ain't Misbehavin,dreams,summertime,0.25
+Belle,Use Somebody,beautiful,use,0
+Belle,Use Somebody,beautiful,somebody,0
+Belle,Use Somebody,beautiful,use,0
+Belle,Use Somebody,beautiful,somebody,0
+Belle,Use Somebody,dreams,use,0.375
+Belle,Use Somebody,dreams,somebody,0.15384615384615385
+Belle,Use Somebody,dreams,use,0.375
+Belle,Use Somebody,dreams,somebody,0.15384615384615385
+Belle,Sunshine Highway,beautiful,sunshine,0
+Belle,Sunshine Highway,beautiful,highway,0
+Belle,Sunshine Highway,beautiful,boston,0
+Belle,Sunshine Highway,beautiful,live,0
+Belle,Sunshine Highway,dreams,sunshine,0.09523809523809523
+Belle,Sunshine Highway,dreams,highway,0.11764705882352941
+Belle,Sunshine Highway,dreams,boston,0.1
+Belle,Sunshine Highway,dreams,live,0
+Auto Rock,Undo,auto,undo,0
+Auto Rock,Undo,auto,live,0
+Auto Rock,Undo,rock,undo,0
+Auto Rock,Undo,rock,live,0
+Auto Rock,Undo,mr,undo,0
+Auto Rock,Undo,mr,live,0
+Auto Rock,Undo,beast,undo,0
+Auto Rock,Undo,beast,live,0
+Auto Rock,Dog Days Are Over (Radio Edit),auto,radio,0.5714285714285714
+Auto Rock,Dog Days Are Over (Radio Edit),auto,edit,0
+Auto Rock,Dog Days Are Over (Radio Edit),auto,dog,0.4
+Auto Rock,Dog Days Are Over (Radio Edit),auto,days,0.1111111111111111
+Auto Rock,Dog Days Are Over (Radio Edit),auto,call,0.5714285714285714
+Auto Rock,Dog Days Are Over (Radio Edit),auto,music,0.125
+Auto Rock,Dog Days Are Over (Radio Edit),rock,radio,0.5
+Auto Rock,Dog Days Are Over (Radio Edit),rock,edit,0
+Auto Rock,Dog Days Are Over (Radio Edit),rock,dog,0.5333333333333333
+Auto Rock,Dog Days Are Over (Radio Edit),rock,days,0.15384615384615385
+Auto Rock,Dog Days Are Over (Radio Edit),rock,call,0.5
+Auto Rock,Dog Days Are Over (Radio Edit),rock,music,0.18181818181818182
+Auto Rock,Dog Days Are Over (Radio Edit),mr,radio,0.10526315789473684
+Auto Rock,Dog Days Are Over (Radio Edit),mr,edit,0
+Auto Rock,Dog Days Are Over (Radio Edit),mr,dog,0.1111111111111111
+Auto Rock,Dog Days Are Over (Radio Edit),mr,days,0.25
+Auto Rock,Dog Days Are Over (Radio Edit),mr,call,0.10526315789473684
+Auto Rock,Dog Days Are Over (Radio Edit),mr,music,0.2857142857142857
+Auto Rock,Dog Days Are Over (Radio Edit),beast,radio,0.47058823529411764
+Auto Rock,Dog Days Are Over (Radio Edit),beast,edit,0
+Auto Rock,Dog Days Are Over (Radio Edit),beast,dog,0.875
+Auto Rock,Dog Days Are Over (Radio Edit),beast,days,0.14285714285714285
+Auto Rock,Dog Days Are Over (Radio Edit),beast,call,0.47058823529411764
+Auto Rock,Dog Days Are Over (Radio Edit),beast,music,0.16666666666666666
+Auto Rock,You're The One,auto,one,0.10526315789473684
+Auto Rock,You're The One,auto,way,0.125
+Auto Rock,You're The One,rock,one,0.14285714285714285
+Auto Rock,You're The One,rock,way,0.18181818181818182
+Auto Rock,You're The One,mr,one,0.23529411764705882
+Auto Rock,You're The One,mr,way,0.2857142857142857
+Auto Rock,You're The One,beast,one,0.13333333333333333
+Auto Rock,You're The One,beast,way,0.16666666666666666
+Auto Rock,Sehr kosmisch,auto,cosmic,0
+Auto Rock,Sehr kosmisch,auto,music,0.125
+Auto Rock,Sehr kosmisch,rock,cosmic,0
+Auto Rock,Sehr kosmisch,rock,music,0.18181818181818182
+Auto Rock,Sehr kosmisch,mr,cosmic,0
+Auto Rock,Sehr kosmisch,mr,music,0.2857142857142857
+Auto Rock,Sehr kosmisch,beast,cosmic,0
+Auto Rock,Sehr kosmisch,beast,music,0.16666666666666666
+Auto Rock,The Scientist,auto,scientist,0.42105263157894735
+Auto Rock,The Scientist,auto,scientist,0.42105263157894735
+Auto Rock,The Scientist,rock,scientist,0.5714285714285714
+Auto Rock,The Scientist,rock,scientist,0.5714285714285714
+Auto Rock,The Scientist,mr,scientist,0.14285714285714285
+Auto Rock,The Scientist,mr,scientist,0.14285714285714285
+Auto Rock,The Scientist,beast,scientist,0.8
+Auto Rock,The Scientist,beast,scientist,0.8
+Auto Rock,Rianna,auto,update,0.1111111111111111
+Auto Rock,Rianna,auto,collection,0.13333333333333333
+Auto Rock,Rianna,rock,update,0.15384615384615385
+Auto Rock,Rianna,rock,collection,0.2
+Auto Rock,Rianna,mr,update,0.25
+Auto Rock,Rianna,mr,collection,0.3076923076923077
+Auto Rock,Rianna,beast,update,0.14285714285714285
+Auto Rock,Rianna,beast,collection,0.18181818181818182
+Auto Rock,Secrets,auto,secrets,0.11764705882352941
+Auto Rock,Secrets,auto,waking,0.1
+Auto Rock,Secrets,rock,secrets,0.16666666666666666
+Auto Rock,Secrets,rock,waking,0.13333333333333333
+Auto Rock,Secrets,mr,secrets,0.26666666666666666
+Auto Rock,Secrets,mr,waking,0.2222222222222222
+Auto Rock,Secrets,beast,secrets,0.15384615384615385
+Auto Rock,Secrets,beast,waking,0.125
+Auto Rock,Revelry,auto,revelry,0.09523809523809523
+Auto Rock,Revelry,auto,night,0.11764705882352941
+Auto Rock,Revelry,rock,revelry,0.125
+Auto Rock,Revelry,rock,night,0.16666666666666666
+Auto Rock,Revelry,mr,revelry,0.21052631578947367
+Auto Rock,Revelry,mr,night,0.26666666666666666
+Auto Rock,Revelry,beast,revelry,0.11764705882352941
+Auto Rock,Revelry,beast,night,0.15384615384615385
+Auto Rock,Time to Go,auto,time,0.1111111111111111
+Auto Rock,Time to Go,auto,go,0.1
+Auto Rock,Time to Go,auto,boston,0.2727272727272727
+Auto Rock,Time to Go,auto,live,0
+Auto Rock,Time to Go,rock,time,0.15384615384615385
+Auto Rock,Time to Go,rock,go,0.13333333333333333
+Auto Rock,Time to Go,rock,boston,0.35294117647058826
+Auto Rock,Time to Go,rock,live,0
+Auto Rock,Time to Go,mr,time,0.25
+Auto Rock,Time to Go,mr,go,0.2222222222222222
+Auto Rock,Time to Go,mr,boston,0.1
+Auto Rock,Time to Go,mr,live,0
+Auto Rock,Time to Go,beast,time,0.14285714285714285
+Auto Rock,Time to Go,beast,go,0.125
+Auto Rock,Time to Go,beast,boston,0.3333333333333333
+Auto Rock,Time to Go,beast,live,0
+Auto Rock,Ain't Misbehavin,auto,summertime,0.1111111111111111
+Auto Rock,Ain't Misbehavin,rock,summertime,0.15384615384615385
+Auto Rock,Ain't Misbehavin,mr,summertime,0.25
+Auto Rock,Ain't Misbehavin,beast,summertime,0.14285714285714285
+Auto Rock,Use Somebody,auto,use,0.1111111111111111
+Auto Rock,Use Somebody,auto,somebody,0.4444444444444444
+Auto Rock,Use Somebody,auto,use,0.1111111111111111
+Auto Rock,Use Somebody,auto,somebody,0.4444444444444444
+Auto Rock,Use Somebody,rock,use,0.15384615384615385
+Auto Rock,Use Somebody,rock,somebody,0.6153846153846154
+Auto Rock,Use Somebody,rock,use,0.15384615384615385
+Auto Rock,Use Somebody,rock,somebody,0.6153846153846154
+Auto Rock,Use Somebody,mr,use,0.25
+Auto Rock,Use Somebody,mr,somebody,0.15384615384615385
+Auto Rock,Use Somebody,mr,use,0.25
+Auto Rock,Use Somebody,mr,somebody,0.15384615384615385
+Auto Rock,Use Somebody,beast,use,0.14285714285714285
+Auto Rock,Use Somebody,beast,somebody,0.8571428571428571
+Auto Rock,Use Somebody,beast,use,0.14285714285714285
+Auto Rock,Use Somebody,beast,somebody,0.8571428571428571
+Auto Rock,Sunshine Highway,auto,sunshine,0.17391304347826086
+Auto Rock,Sunshine Highway,auto,highway,0.5263157894736842
+Auto Rock,Sunshine Highway,auto,boston,0.2727272727272727
+Auto Rock,Sunshine Highway,auto,live,0
+Auto Rock,Sunshine Highway,rock,sunshine,0.2222222222222222
+Auto Rock,Sunshine Highway,rock,highway,0.5714285714285714
+Auto Rock,Sunshine Highway,rock,boston,0.35294117647058826
+Auto Rock,Sunshine Highway,rock,live,0
+Auto Rock,Sunshine Highway,mr,sunshine,0.09523809523809523
+Auto Rock,Sunshine Highway,mr,highway,0.11764705882352941
+Auto Rock,Sunshine Highway,mr,boston,0.1
+Auto Rock,Sunshine Highway,mr,live,0
+Auto Rock,Sunshine Highway,beast,sunshine,0.21052631578947367
+Auto Rock,Sunshine Highway,beast,highway,0.5333333333333333
+Auto Rock,Sunshine Highway,beast,boston,0.3333333333333333
+Auto Rock,Sunshine Highway,beast,live,0
+Who Knows Who Cares,Undo,knows,undo,0
+Who Knows Who Cares,Undo,knows,live,0
+Who Knows Who Cares,Undo,cares,undo,0
+Who Knows Who Cares,Undo,cares,live,0
+Who Knows Who Cares,Undo,gorilla,undo,0
+Who Knows Who Cares,Undo,gorilla,live,0
+Who Knows Who Cares,Undo,manor,undo,0
+Who Knows Who Cares,Undo,manor,live,0
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,radio,0.1111111111111111
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,edit,0
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,dog,0.11764705882352941
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,days,0.26666666666666666
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,call,0.1111111111111111
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,music,0.3076923076923077
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,radio,0.1111111111111111
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,edit,0
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,dog,0.11764705882352941
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,days,0.26666666666666666
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,call,0.1111111111111111
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,music,0.3076923076923077
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,radio,0.3076923076923077
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,edit,0
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,dog,0.7333333333333333
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,days,0.08695652173913043
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,call,0.3076923076923077
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,music,0.09523809523809523
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,radio,0.5
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,edit,0
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,dog,0.42105263157894735
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,days,0.11764705882352941
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,call,0.5
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,music,0.13333333333333333
+Who Knows Who Cares,You're The One,knows,one,0.25
+Who Knows Who Cares,You're The One,knows,way,0.3076923076923077
+Who Knows Who Cares,You're The One,cares,one,0.25
+Who Knows Who Cares,You're The One,cares,way,0.3076923076923077
+Who Knows Who Cares,You're The One,gorilla,one,0.08333333333333333
+Who Knows Who Cares,You're The One,gorilla,way,0.09523809523809523
+Who Knows Who Cares,You're The One,manor,one,0.1111111111111111
+Who Knows Who Cares,You're The One,manor,way,0.13333333333333333
+Who Knows Who Cares,Sehr kosmisch,knows,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,knows,music,0.3076923076923077
+Who Knows Who Cares,Sehr kosmisch,cares,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,cares,music,0.3076923076923077
+Who Knows Who Cares,Sehr kosmisch,gorilla,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,gorilla,music,0.09523809523809523
+Who Knows Who Cares,Sehr kosmisch,manor,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,manor,music,0.13333333333333333
+Who Knows Who Cares,The Scientist,knows,scientist,0.15384615384615385
+Who Knows Who Cares,The Scientist,knows,scientist,0.15384615384615385
+Who Knows Who Cares,The Scientist,cares,scientist,0.15384615384615385
+Who Knows Who Cares,The Scientist,cares,scientist,0.15384615384615385
+Who Knows Who Cares,The Scientist,gorilla,scientist,0.5
+Who Knows Who Cares,The Scientist,gorilla,scientist,0.5
+Who Knows Who Cares,The Scientist,manor,scientist,0.4444444444444444
+Who Knows Who Cares,The Scientist,manor,scientist,0.4444444444444444
+Who Knows Who Cares,Rianna,knows,update,0.26666666666666666
+Who Knows Who Cares,Rianna,knows,collection,0.3333333333333333
+Who Knows Who Cares,Rianna,cares,update,0.26666666666666666
+Who Knows Who Cares,Rianna,cares,collection,0.3333333333333333
+Who Knows Who Cares,Rianna,gorilla,update,0.08695652173913043
+Who Knows Who Cares,Rianna,gorilla,collection,0.1
+Who Knows Who Cares,Rianna,manor,update,0.11764705882352941
+Who Knows Who Cares,Rianna,manor,collection,0.14285714285714285
+Who Knows Who Cares,Secrets,knows,secrets,0.2857142857142857
+Who Knows Who Cares,Secrets,knows,waking,0.23529411764705882
+Who Knows Who Cares,Secrets,cares,secrets,0.2857142857142857
+Who Knows Who Cares,Secrets,cares,waking,0.23529411764705882
+Who Knows Who Cares,Secrets,gorilla,secrets,0.09090909090909091
+Who Knows Who Cares,Secrets,gorilla,waking,0.08
+Who Knows Who Cares,Secrets,manor,secrets,0.125
+Who Knows Who Cares,Secrets,manor,waking,0.10526315789473684
+Who Knows Who Cares,Revelry,knows,revelry,0.3333333333333333
+Who Knows Who Cares,Revelry,knows,night,0.2857142857142857
+Who Knows Who Cares,Revelry,cares,revelry,0.6666666666666666
+Who Knows Who Cares,Revelry,cares,night,0.2857142857142857
+Who Knows Who Cares,Revelry,gorilla,revelry,0.07692307692307693
+Who Knows Who Cares,Revelry,gorilla,night,0.09090909090909091
+Who Knows Who Cares,Revelry,manor,revelry,0.1
+Who Knows Who Cares,Revelry,manor,night,0.125
+Who Knows Who Cares,Time to Go,knows,time,0.4
+Who Knows Who Cares,Time to Go,knows,go,0.23529411764705882
+Who Knows Who Cares,Time to Go,knows,boston,0.10526315789473684
+Who Knows Who Cares,Time to Go,knows,live,0
+Who Knows Who Cares,Time to Go,cares,time,0.5333333333333333
+Who Knows Who Cares,Time to Go,cares,go,0.23529411764705882
+Who Knows Who Cares,Time to Go,cares,boston,0.10526315789473684
+Who Knows Who Cares,Time to Go,cares,live,0
+Who Knows Who Cares,Time to Go,gorilla,time,0.08695652173913043
+Who Knows Who Cares,Time to Go,gorilla,go,0.08
+Who Knows Who Cares,Time to Go,gorilla,boston,0.2222222222222222
+Who Knows Who Cares,Time to Go,gorilla,live,0
+Who Knows Who Cares,Time to Go,manor,time,0.11764705882352941
+Who Knows Who Cares,Time to Go,manor,go,0.10526315789473684
+Who Knows Who Cares,Time to Go,manor,boston,0.2857142857142857
+Who Knows Who Cares,Time to Go,manor,live,0
+Who Knows Who Cares,Ain't Misbehavin,knows,summertime,0.26666666666666666
+Who Knows Who Cares,Ain't Misbehavin,cares,summertime,0.26666666666666666
+Who Knows Who Cares,Ain't Misbehavin,gorilla,summertime,0.08695652173913043
+Who Knows Who Cares,Ain't Misbehavin,manor,summertime,0.11764705882352941
+Who Knows Who Cares,Use Somebody,knows,use,0.4
+Who Knows Who Cares,Use Somebody,knows,somebody,0.16666666666666666
+Who Knows Who Cares,Use Somebody,knows,use,0.4
+Who Knows Who Cares,Use Somebody,knows,somebody,0.16666666666666666
+Who Knows Who Cares,Use Somebody,cares,use,0.8
+Who Knows Who Cares,Use Somebody,cares,somebody,0.16666666666666666
+Who Knows Who Cares,Use Somebody,cares,use,0.8
+Who Knows Who Cares,Use Somebody,cares,somebody,0.16666666666666666
+Who Knows Who Cares,Use Somebody,gorilla,use,0.08695652173913043
+Who Knows Who Cares,Use Somebody,gorilla,somebody,0.5217391304347826
+Who Knows Who Cares,Use Somebody,gorilla,use,0.08695652173913043
+Who Knows Who Cares,Use Somebody,gorilla,somebody,0.5217391304347826
+Who Knows Who Cares,Use Somebody,manor,use,0.11764705882352941
+Who Knows Who Cares,Use Somebody,manor,somebody,0.47058823529411764
+Who Knows Who Cares,Use Somebody,manor,use,0.11764705882352941
+Who Knows Who Cares,Use Somebody,manor,somebody,0.47058823529411764
+Who Knows Who Cares,Sunshine Highway,knows,sunshine,0.1
+Who Knows Who Cares,Sunshine Highway,knows,highway,0.125
+Who Knows Who Cares,Sunshine Highway,knows,boston,0.10526315789473684
+Who Knows Who Cares,Sunshine Highway,knows,live,0
+Who Knows Who Cares,Sunshine Highway,cares,sunshine,0.1
+Who Knows Who Cares,Sunshine Highway,cares,highway,0.125
+Who Knows Who Cares,Sunshine Highway,cares,boston,0.10526315789473684
+Who Knows Who Cares,Sunshine Highway,cares,live,0
+Who Knows Who Cares,Sunshine Highway,gorilla,sunshine,0.14285714285714285
+Who Knows Who Cares,Sunshine Highway,gorilla,highway,0.3333333333333333
+Who Knows Who Cares,Sunshine Highway,gorilla,boston,0.2222222222222222
+Who Knows Who Cares,Sunshine Highway,gorilla,live,0
+Who Knows Who Cares,Sunshine Highway,manor,sunshine,0.18181818181818182
+Who Knows Who Cares,Sunshine Highway,manor,highway,0.5555555555555556
+Who Knows Who Cares,Sunshine Highway,manor,boston,0.2857142857142857
+Who Knows Who Cares,Sunshine Highway,manor,live,0
+Quiet,Undo,quiet,undo,0
+Quiet,Undo,quiet,live,0
+Quiet,Undo,young,undo,0
+Quiet,Undo,young,live,0
+Quiet,Undo,mountain,undo,0
+Quiet,Undo,mountain,live,0
+Quiet,Dog Days Are Over (Radio Edit),quiet,radio,0.19047619047619047
+Quiet,Dog Days Are Over (Radio Edit),quiet,edit,0
+Quiet,Dog Days Are Over (Radio Edit),quiet,dog,0.2
+Quiet,Dog Days Are Over (Radio Edit),quiet,days,0.1111111111111111
+Quiet,Dog Days Are Over (Radio Edit),quiet,call,0.19047619047619047
+Quiet,Dog Days Are Over (Radio Edit),quiet,music,0.125
+Quiet,Dog Days Are Over (Radio Edit),young,radio,0.4444444444444444
+Quiet,Dog Days Are Over (Radio Edit),young,edit,0
+Quiet,Dog Days Are Over (Radio Edit),young,dog,0.8235294117647058
+Quiet,Dog Days Are Over (Radio Edit),young,days,0.13333333333333333
+Quiet,Dog Days Are Over (Radio Edit),young,call,0.4444444444444444
+Quiet,Dog Days Are Over (Radio Edit),young,music,0.15384615384615385
+Quiet,Dog Days Are Over (Radio Edit),mountain,radio,0.375
+Quiet,Dog Days Are Over (Radio Edit),mountain,edit,0
+Quiet,Dog Days Are Over (Radio Edit),mountain,dog,0.4
+Quiet,Dog Days Are Over (Radio Edit),mountain,days,0.15384615384615385
+Quiet,Dog Days Are Over (Radio Edit),mountain,call,0.375
+Quiet,Dog Days Are Over (Radio Edit),mountain,music,0.18181818181818182
+Quiet,You're The One,quiet,one,0.10526315789473684
+Quiet,You're The One,quiet,way,0.125
+Quiet,You're The One,young,one,0.125
+Quiet,You're The One,young,way,0.15384615384615385
+Quiet,You're The One,mountain,one,0.14285714285714285
+Quiet,You're The One,mountain,way,0.18181818181818182
+Quiet,Sehr kosmisch,quiet,cosmic,0
+Quiet,Sehr kosmisch,quiet,music,0.125
+Quiet,Sehr kosmisch,young,cosmic,0
+Quiet,Sehr kosmisch,young,music,0.15384615384615385
+Quiet,Sehr kosmisch,mountain,cosmic,0
+Quiet,Sehr kosmisch,mountain,music,0.18181818181818182
+Quiet,The Scientist,quiet,scientist,0.25
+Quiet,The Scientist,quiet,scientist,0.25
+Quiet,The Scientist,young,scientist,0.75
+Quiet,The Scientist,young,scientist,0.75
+Quiet,The Scientist,mountain,scientist,0.46153846153846156
+Quiet,The Scientist,mountain,scientist,0.46153846153846156
+Quiet,Rianna,quiet,update,0.1111111111111111
+Quiet,Rianna,quiet,collection,0.13333333333333333
+Quiet,Rianna,young,update,0.13333333333333333
+Quiet,Rianna,young,collection,0.16666666666666666
+Quiet,Rianna,mountain,update,0.15384615384615385
+Quiet,Rianna,mountain,collection,0.2
+Quiet,Secrets,quiet,secrets,0.11764705882352941
+Quiet,Secrets,quiet,waking,0.1
+Quiet,Secrets,young,secrets,0.14285714285714285
+Quiet,Secrets,young,waking,0.11764705882352941
+Quiet,Secrets,mountain,secrets,0.16666666666666666
+Quiet,Secrets,mountain,waking,0.13333333333333333
+Quiet,Revelry,quiet,revelry,0.09523809523809523
+Quiet,Revelry,quiet,night,0.11764705882352941
+Quiet,Revelry,young,revelry,0.1111111111111111
+Quiet,Revelry,young,night,0.14285714285714285
+Quiet,Revelry,mountain,revelry,0.125
+Quiet,Revelry,mountain,night,0.16666666666666666
+Quiet,Time to Go,quiet,time,0.1111111111111111
+Quiet,Time to Go,quiet,go,0.1
+Quiet,Time to Go,quiet,boston,0.18181818181818182
+Quiet,Time to Go,quiet,live,0
+Quiet,Time to Go,young,time,0.13333333333333333
+Quiet,Time to Go,young,go,0.11764705882352941
+Quiet,Time to Go,young,boston,0.3157894736842105
+Quiet,Time to Go,young,live,0
+Quiet,Time to Go,mountain,time,0.15384615384615385
+Quiet,Time to Go,mountain,go,0.13333333333333333
+Quiet,Time to Go,mountain,boston,0.35294117647058826
+Quiet,Time to Go,mountain,live,0
+Quiet,Ain't Misbehavin,quiet,summertime,0.1111111111111111
+Quiet,Ain't Misbehavin,young,summertime,0.13333333333333333
+Quiet,Ain't Misbehavin,mountain,summertime,0.15384615384615385
+Quiet,Use Somebody,quiet,use,0.1111111111111111
+Quiet,Use Somebody,quiet,somebody,0.26666666666666666
+Quiet,Use Somebody,quiet,use,0.1111111111111111
+Quiet,Use Somebody,quiet,somebody,0.26666666666666666
+Quiet,Use Somebody,young,use,0.13333333333333333
+Quiet,Use Somebody,young,somebody,0.8
+Quiet,Use Somebody,young,use,0.13333333333333333
+Quiet,Use Somebody,young,somebody,0.8
+Quiet,Use Somebody,mountain,use,0.15384615384615385
+Quiet,Use Somebody,mountain,somebody,0.5
+Quiet,Use Somebody,mountain,use,0.15384615384615385
+Quiet,Use Somebody,mountain,somebody,0.5
+Quiet,Sunshine Highway,quiet,sunshine,0.5217391304347826
+Quiet,Sunshine Highway,quiet,highway,0.21052631578947367
+Quiet,Sunshine Highway,quiet,boston,0.18181818181818182
+Quiet,Sunshine Highway,quiet,live,0
+Quiet,Sunshine Highway,young,sunshine,0.2
+Quiet,Sunshine Highway,young,highway,0.5
+Quiet,Sunshine Highway,young,boston,0.3157894736842105
+Quiet,Sunshine Highway,young,live,0
+Quiet,Sunshine Highway,mountain,sunshine,0.2222222222222222
+Quiet,Sunshine Highway,mountain,highway,0.42857142857142855
+Quiet,Sunshine Highway,mountain,boston,0.35294117647058826
+Quiet,Sunshine Highway,mountain,live,0
+Girlfriend,Undo,girlfriend,undo,0
+Girlfriend,Undo,girlfriend,live,0
+Girlfriend,Undo,phoenix,undo,0
+Girlfriend,Undo,phoenix,live,0
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,radio,0.42105263157894735
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,edit,0
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,dog,0.6666666666666666
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,days,0.15384615384615385
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,call,0.42105263157894735
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,music,0.18181818181818182
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,radio,0.2857142857142857
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,edit,0
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,dog,0.3
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,days,0.1111111111111111
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,call,0.2857142857142857
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,music,0.125
+Girlfriend,You're The One,girlfriend,one,0.14285714285714285
+Girlfriend,You're The One,girlfriend,way,0.18181818181818182
+Girlfriend,You're The One,phoenix,one,0.10526315789473684
+Girlfriend,You're The One,phoenix,way,0.125
+Girlfriend,Sehr kosmisch,girlfriend,cosmic,0
+Girlfriend,Sehr kosmisch,girlfriend,music,0.18181818181818182
+Girlfriend,Sehr kosmisch,phoenix,cosmic,0
+Girlfriend,Sehr kosmisch,phoenix,music,0.125
+Girlfriend,The Scientist,girlfriend,scientist,0.7058823529411765
+Girlfriend,The Scientist,girlfriend,scientist,0.7058823529411765
+Girlfriend,The Scientist,phoenix,scientist,0.3333333333333333
+Girlfriend,The Scientist,phoenix,scientist,0.3333333333333333
+Girlfriend,Rianna,girlfriend,update,0.15384615384615385
+Girlfriend,Rianna,girlfriend,collection,0.2
+Girlfriend,Rianna,phoenix,update,0.1111111111111111
+Girlfriend,Rianna,phoenix,collection,0.13333333333333333
+Girlfriend,Secrets,girlfriend,secrets,0.16666666666666666
+Girlfriend,Secrets,girlfriend,waking,0.13333333333333333
+Girlfriend,Secrets,phoenix,secrets,0.11764705882352941
+Girlfriend,Secrets,phoenix,waking,0.1
+Girlfriend,Revelry,girlfriend,revelry,0.125
+Girlfriend,Revelry,girlfriend,night,0.16666666666666666
+Girlfriend,Revelry,phoenix,revelry,0.09523809523809523
+Girlfriend,Revelry,phoenix,night,0.11764705882352941
+Girlfriend,Time to Go,girlfriend,time,0.15384615384615385
+Girlfriend,Time to Go,girlfriend,go,0.13333333333333333
+Girlfriend,Time to Go,girlfriend,boston,0.3157894736842105
+Girlfriend,Time to Go,girlfriend,live,0
+Girlfriend,Time to Go,phoenix,time,0.1111111111111111
+Girlfriend,Time to Go,phoenix,go,0.1
+Girlfriend,Time to Go,phoenix,boston,0.9090909090909091
+Girlfriend,Time to Go,phoenix,live,0
+Girlfriend,Ain't Misbehavin,girlfriend,summertime,0.15384615384615385
+Girlfriend,Ain't Misbehavin,phoenix,summertime,0.1111111111111111
+Girlfriend,Use Somebody,girlfriend,use,0.15384615384615385
+Girlfriend,Use Somebody,girlfriend,somebody,0.75
+Girlfriend,Use Somebody,girlfriend,use,0.15384615384615385
+Girlfriend,Use Somebody,girlfriend,somebody,0.75
+Girlfriend,Use Somebody,phoenix,use,0.1111111111111111
+Girlfriend,Use Somebody,phoenix,somebody,0.35294117647058826
+Girlfriend,Use Somebody,phoenix,use,0.1111111111111111
+Girlfriend,Use Somebody,phoenix,somebody,0.35294117647058826
+Girlfriend,Sunshine Highway,girlfriend,sunshine,0.2222222222222222
+Girlfriend,Sunshine Highway,girlfriend,highway,0.47058823529411764
+Girlfriend,Sunshine Highway,girlfriend,boston,0.3157894736842105
+Girlfriend,Sunshine Highway,girlfriend,live,0
+Girlfriend,Sunshine Highway,phoenix,sunshine,0.17391304347826086
+Girlfriend,Sunshine Highway,phoenix,highway,0.3157894736842105
+Girlfriend,Sunshine Highway,phoenix,boston,0.9090909090909091
+Girlfriend,Sunshine Highway,phoenix,live,0
+Happiness: We're All In It Together,Undo,together,undo,0
+Happiness: We're All In It Together,Undo,together,live,0
+Happiness: We're All In It Together,Undo,happiness,undo,0
+Happiness: We're All In It Together,Undo,happiness,live,0
+Happiness: We're All In It Together,Undo,young,undo,0
+Happiness: We're All In It Together,Undo,young,live,0
+Happiness: We're All In It Together,Undo,mountain,undo,0
+Happiness: We're All In It Together,Undo,mountain,live,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,radio,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,edit,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,dog,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,days,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,call,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,music,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,radio,0.1111111111111111
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,edit,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,dog,0.11764705882352941
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,days,0.26666666666666666
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,call,0.1111111111111111
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,music,0.3076923076923077
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,radio,0.4444444444444444
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,edit,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,dog,0.8235294117647058
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,days,0.13333333333333333
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,call,0.4444444444444444
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,music,0.15384615384615385
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,radio,0.375
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,edit,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,dog,0.4
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,days,0.15384615384615385
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,call,0.375
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,music,0.18181818181818182
+Happiness: We're All In It Together,You're The One,together,one,0
+Happiness: We're All In It Together,You're The One,together,way,0
+Happiness: We're All In It Together,You're The One,happiness,one,0.25
+Happiness: We're All In It Together,You're The One,happiness,way,0.46153846153846156
+Happiness: We're All In It Together,You're The One,young,one,0.125
+Happiness: We're All In It Together,You're The One,young,way,0.15384615384615385
+Happiness: We're All In It Together,You're The One,mountain,one,0.14285714285714285
+Happiness: We're All In It Together,You're The One,mountain,way,0.18181818181818182
+Happiness: We're All In It Together,Sehr kosmisch,together,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,together,music,0
+Happiness: We're All In It Together,Sehr kosmisch,happiness,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,happiness,music,0.3076923076923077
+Happiness: We're All In It Together,Sehr kosmisch,young,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,young,music,0.15384615384615385
+Happiness: We're All In It Together,Sehr kosmisch,mountain,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,mountain,music,0.18181818181818182
+Happiness: We're All In It Together,The Scientist,together,scientist,0
+Happiness: We're All In It Together,The Scientist,together,scientist,0
+Happiness: We're All In It Together,The Scientist,happiness,scientist,0.15384615384615385
+Happiness: We're All In It Together,The Scientist,happiness,scientist,0.15384615384615385
+Happiness: We're All In It Together,The Scientist,young,scientist,0.75
+Happiness: We're All In It Together,The Scientist,young,scientist,0.75
+Happiness: We're All In It Together,The Scientist,mountain,scientist,0.46153846153846156
+Happiness: We're All In It Together,The Scientist,mountain,scientist,0.46153846153846156
+Happiness: We're All In It Together,Rianna,together,update,0
+Happiness: We're All In It Together,Rianna,together,collection,0
+Happiness: We're All In It Together,Rianna,happiness,update,0.26666666666666666
+Happiness: We're All In It Together,Rianna,happiness,collection,0.3333333333333333
+Happiness: We're All In It Together,Rianna,young,update,0.13333333333333333
+Happiness: We're All In It Together,Rianna,young,collection,0.16666666666666666
+Happiness: We're All In It Together,Rianna,mountain,update,0.15384615384615385
+Happiness: We're All In It Together,Rianna,mountain,collection,0.2
+Happiness: We're All In It Together,Secrets,together,secrets,0
+Happiness: We're All In It Together,Secrets,together,waking,0
+Happiness: We're All In It Together,Secrets,happiness,secrets,0.2857142857142857
+Happiness: We're All In It Together,Secrets,happiness,waking,0.47058823529411764
+Happiness: We're All In It Together,Secrets,young,secrets,0.14285714285714285
+Happiness: We're All In It Together,Secrets,young,waking,0.11764705882352941
+Happiness: We're All In It Together,Secrets,mountain,secrets,0.16666666666666666
+Happiness: We're All In It Together,Secrets,mountain,waking,0.13333333333333333
+Happiness: We're All In It Together,Revelry,together,revelry,0
+Happiness: We're All In It Together,Revelry,together,night,0
+Happiness: We're All In It Together,Revelry,happiness,revelry,0.2222222222222222
+Happiness: We're All In It Together,Revelry,happiness,night,0.2857142857142857
+Happiness: We're All In It Together,Revelry,young,revelry,0.1111111111111111
+Happiness: We're All In It Together,Revelry,young,night,0.14285714285714285
+Happiness: We're All In It Together,Revelry,mountain,revelry,0.125
+Happiness: We're All In It Together,Revelry,mountain,night,0.16666666666666666
+Happiness: We're All In It Together,Time to Go,together,time,0
+Happiness: We're All In It Together,Time to Go,together,go,0
+Happiness: We're All In It Together,Time to Go,together,boston,0
+Happiness: We're All In It Together,Time to Go,together,live,0
+Happiness: We're All In It Together,Time to Go,happiness,time,0.26666666666666666
+Happiness: We're All In It Together,Time to Go,happiness,go,0.23529411764705882
+Happiness: We're All In It Together,Time to Go,happiness,boston,0.10526315789473684
+Happiness: We're All In It Together,Time to Go,happiness,live,0
+Happiness: We're All In It Together,Time to Go,young,time,0.13333333333333333
+Happiness: We're All In It Together,Time to Go,young,go,0.11764705882352941
+Happiness: We're All In It Together,Time to Go,young,boston,0.3157894736842105
+Happiness: We're All In It Together,Time to Go,young,live,0
+Happiness: We're All In It Together,Time to Go,mountain,time,0.15384615384615385
+Happiness: We're All In It Together,Time to Go,mountain,go,0.13333333333333333
+Happiness: We're All In It Together,Time to Go,mountain,boston,0.35294117647058826
+Happiness: We're All In It Together,Time to Go,mountain,live,0
+Happiness: We're All In It Together,Ain't Misbehavin,together,summertime,0
+Happiness: We're All In It Together,Ain't Misbehavin,happiness,summertime,0.26666666666666666
+Happiness: We're All In It Together,Ain't Misbehavin,young,summertime,0.13333333333333333
+Happiness: We're All In It Together,Ain't Misbehavin,mountain,summertime,0.15384615384615385
+Happiness: We're All In It Together,Use Somebody,together,use,0
+Happiness: We're All In It Together,Use Somebody,together,somebody,0
+Happiness: We're All In It Together,Use Somebody,together,use,0
+Happiness: We're All In It Together,Use Somebody,together,somebody,0
+Happiness: We're All In It Together,Use Somebody,happiness,use,0.26666666666666666
+Happiness: We're All In It Together,Use Somebody,happiness,somebody,0.16666666666666666
+Happiness: We're All In It Together,Use Somebody,happiness,use,0.26666666666666666
+Happiness: We're All In It Together,Use Somebody,happiness,somebody,0.16666666666666666
+Happiness: We're All In It Together,Use Somebody,young,use,0.13333333333333333
+Happiness: We're All In It Together,Use Somebody,young,somebody,0.8
+Happiness: We're All In It Together,Use Somebody,young,use,0.13333333333333333
+Happiness: We're All In It Together,Use Somebody,young,somebody,0.8
+Happiness: We're All In It Together,Use Somebody,mountain,use,0.15384615384615385
+Happiness: We're All In It Together,Use Somebody,mountain,somebody,0.5
+Happiness: We're All In It Together,Use Somebody,mountain,use,0.15384615384615385
+Happiness: We're All In It Together,Use Somebody,mountain,somebody,0.5
+Happiness: We're All In It Together,Sunshine Highway,together,sunshine,0
+Happiness: We're All In It Together,Sunshine Highway,together,highway,0
+Happiness: We're All In It Together,Sunshine Highway,together,boston,0
+Happiness: We're All In It Together,Sunshine Highway,together,live,0
+Happiness: We're All In It Together,Sunshine Highway,happiness,sunshine,0.1
+Happiness: We're All In It Together,Sunshine Highway,happiness,highway,0.125
+Happiness: We're All In It Together,Sunshine Highway,happiness,boston,0.10526315789473684
+Happiness: We're All In It Together,Sunshine Highway,happiness,live,0
+Happiness: We're All In It Together,Sunshine Highway,young,sunshine,0.2
+Happiness: We're All In It Together,Sunshine Highway,young,highway,0.5
+Happiness: We're All In It Together,Sunshine Highway,young,boston,0.3157894736842105
+Happiness: We're All In It Together,Sunshine Highway,young,live,0
+Happiness: We're All In It Together,Sunshine Highway,mountain,sunshine,0.2222222222222222
+Happiness: We're All In It Together,Sunshine Highway,mountain,highway,0.42857142857142855
+Happiness: We're All In It Together,Sunshine Highway,mountain,boston,0.35294117647058826
+Happiness: We're All In It Together,Sunshine Highway,mountain,live,0
+Armistice,Undo,armistice,undo,0
+Armistice,Undo,armistice,live,0
+Armistice,Undo,phoenix,undo,0
+Armistice,Undo,phoenix,live,0
+Armistice,Dog Days Are Over (Radio Edit),armistice,radio,0.11764705882352941
+Armistice,Dog Days Are Over (Radio Edit),armistice,edit,0
+Armistice,Dog Days Are Over (Radio Edit),armistice,dog,0.125
+Armistice,Dog Days Are Over (Radio Edit),armistice,days,0.2857142857142857
+Armistice,Dog Days Are Over (Radio Edit),armistice,call,0.11764705882352941
+Armistice,Dog Days Are Over (Radio Edit),armistice,music,0.3333333333333333
+Armistice,Dog Days Are Over (Radio Edit),phoenix,radio,0.2857142857142857
+Armistice,Dog Days Are Over (Radio Edit),phoenix,edit,0
+Armistice,Dog Days Are Over (Radio Edit),phoenix,dog,0.3
+Armistice,Dog Days Are Over (Radio Edit),phoenix,days,0.1111111111111111
+Armistice,Dog Days Are Over (Radio Edit),phoenix,call,0.2857142857142857
+Armistice,Dog Days Are Over (Radio Edit),phoenix,music,0.125
+Armistice,You're The One,armistice,one,0.26666666666666666
+Armistice,You're The One,armistice,way,0.5
+Armistice,You're The One,phoenix,one,0.10526315789473684
+Armistice,You're The One,phoenix,way,0.125
+Armistice,Sehr kosmisch,armistice,cosmic,0
+Armistice,Sehr kosmisch,armistice,music,0.3333333333333333
+Armistice,Sehr kosmisch,phoenix,cosmic,0
+Armistice,Sehr kosmisch,phoenix,music,0.125
+Armistice,The Scientist,armistice,scientist,0.16666666666666666
+Armistice,The Scientist,armistice,scientist,0.16666666666666666
+Armistice,The Scientist,phoenix,scientist,0.3333333333333333
+Armistice,The Scientist,phoenix,scientist,0.3333333333333333
+Armistice,Rianna,armistice,update,0.2857142857142857
+Armistice,Rianna,armistice,collection,0.36363636363636365
+Armistice,Rianna,phoenix,update,0.1111111111111111
+Armistice,Rianna,phoenix,collection,0.13333333333333333
+Armistice,Secrets,armistice,secrets,0.3076923076923077
+Armistice,Secrets,armistice,waking,0.5
+Armistice,Secrets,phoenix,secrets,0.11764705882352941
+Armistice,Secrets,phoenix,waking,0.1
+Armistice,Revelry,armistice,revelry,0.23529411764705882
+Armistice,Revelry,armistice,night,0.3076923076923077
+Armistice,Revelry,phoenix,revelry,0.09523809523809523
+Armistice,Revelry,phoenix,night,0.11764705882352941
+Armistice,Time to Go,armistice,time,0.2857142857142857
+Armistice,Time to Go,armistice,go,0.25
+Armistice,Time to Go,armistice,boston,0.1111111111111111
+Armistice,Time to Go,armistice,live,0
+Armistice,Time to Go,phoenix,time,0.1111111111111111
+Armistice,Time to Go,phoenix,go,0.1
+Armistice,Time to Go,phoenix,boston,0.9090909090909091
+Armistice,Time to Go,phoenix,live,0
+Armistice,Ain't Misbehavin,armistice,summertime,0.2857142857142857
+Armistice,Ain't Misbehavin,phoenix,summertime,0.1111111111111111
+Armistice,Use Somebody,armistice,use,0.2857142857142857
+Armistice,Use Somebody,armistice,somebody,0.18181818181818182
+Armistice,Use Somebody,armistice,use,0.2857142857142857
+Armistice,Use Somebody,armistice,somebody,0.18181818181818182
+Armistice,Use Somebody,phoenix,use,0.1111111111111111
+Armistice,Use Somebody,phoenix,somebody,0.35294117647058826
+Armistice,Use Somebody,phoenix,use,0.1111111111111111
+Armistice,Use Somebody,phoenix,somebody,0.35294117647058826
+Armistice,Sunshine Highway,armistice,sunshine,0.10526315789473684
+Armistice,Sunshine Highway,armistice,highway,0.13333333333333333
+Armistice,Sunshine Highway,armistice,boston,0.1111111111111111
+Armistice,Sunshine Highway,armistice,live,0
+Armistice,Sunshine Highway,phoenix,sunshine,0.17391304347826086
+Armistice,Sunshine Highway,phoenix,highway,0.3157894736842105
+Armistice,Sunshine Highway,phoenix,boston,0.9090909090909091
+Armistice,Sunshine Highway,phoenix,live,0
+There Are Some Remedies Worse Than The Disease,Undo,remedies,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,remedies,live,0
+There Are Some Remedies Worse Than The Disease,Undo,worse,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,worse,live,0
+There Are Some Remedies Worse Than The Disease,Undo,disease,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,disease,live,0
+There Are Some Remedies Worse Than The Disease,Undo,young,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,young,live,0
+There Are Some Remedies Worse Than The Disease,Undo,mountain,undo,0
+There Are Some Remedies Worse Than The Disease,Undo,mountain,live,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,radio,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,dog,0.1
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,days,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,call,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,music,0.25
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,radio,0.125
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,dog,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,days,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,call,0.125
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,music,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,radio,0.1
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,dog,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,days,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,call,0.1
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,music,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,radio,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,dog,0.8235294117647058
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,days,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,call,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,music,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,radio,0.375
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,dog,0.4
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,days,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,call,0.375
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,music,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,You're The One,remedies,one,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,You're The One,remedies,way,0.25
+There Are Some Remedies Worse Than The Disease,You're The One,worse,one,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,You're The One,worse,way,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,You're The One,disease,one,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,You're The One,disease,way,0.4
+There Are Some Remedies Worse Than The Disease,You're The One,young,one,0.125
+There Are Some Remedies Worse Than The Disease,You're The One,young,way,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,You're The One,mountain,one,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,You're The One,mountain,way,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,remedies,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,remedies,music,0.25
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,worse,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,worse,music,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,disease,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,disease,music,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,young,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,young,music,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,mountain,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,mountain,music,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,The Scientist,remedies,scientist,0.125
+There Are Some Remedies Worse Than The Disease,The Scientist,remedies,scientist,0.125
+There Are Some Remedies Worse Than The Disease,The Scientist,worse,scientist,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,The Scientist,worse,scientist,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,The Scientist,disease,scientist,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Scientist,disease,scientist,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Scientist,young,scientist,0.75
+There Are Some Remedies Worse Than The Disease,The Scientist,young,scientist,0.75
+There Are Some Remedies Worse Than The Disease,The Scientist,mountain,scientist,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,The Scientist,mountain,scientist,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Rianna,remedies,update,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Rianna,remedies,collection,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Rianna,worse,update,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Rianna,worse,collection,0.4
+There Are Some Remedies Worse Than The Disease,Rianna,disease,update,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Rianna,disease,collection,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Rianna,young,update,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Rianna,young,collection,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Rianna,mountain,update,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Rianna,mountain,collection,0.2
+There Are Some Remedies Worse Than The Disease,Secrets,remedies,secrets,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Secrets,remedies,waking,0.2
+There Are Some Remedies Worse Than The Disease,Secrets,worse,secrets,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Secrets,worse,waking,0.4
+There Are Some Remedies Worse Than The Disease,Secrets,disease,secrets,0.25
+There Are Some Remedies Worse Than The Disease,Secrets,disease,waking,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Secrets,young,secrets,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Secrets,young,waking,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Secrets,mountain,secrets,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Secrets,mountain,waking,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Revelry,remedies,revelry,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,Revelry,remedies,night,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Revelry,worse,revelry,0.25
+There Are Some Remedies Worse Than The Disease,Revelry,worse,night,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Revelry,disease,revelry,0.2
+There Are Some Remedies Worse Than The Disease,Revelry,disease,night,0.25
+There Are Some Remedies Worse Than The Disease,Revelry,young,revelry,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Revelry,young,night,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Revelry,mountain,revelry,0.125
+There Are Some Remedies Worse Than The Disease,Revelry,mountain,night,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Time to Go,remedies,time,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Time to Go,remedies,go,0.2
+There Are Some Remedies Worse Than The Disease,Time to Go,remedies,boston,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Time to Go,remedies,live,0
+There Are Some Remedies Worse Than The Disease,Time to Go,worse,time,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Time to Go,worse,go,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Time to Go,worse,boston,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Time to Go,worse,live,0
+There Are Some Remedies Worse Than The Disease,Time to Go,disease,time,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Time to Go,disease,go,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Time to Go,disease,boston,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Time to Go,disease,live,0
+There Are Some Remedies Worse Than The Disease,Time to Go,young,time,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Time to Go,young,go,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Time to Go,young,boston,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Time to Go,young,live,0
+There Are Some Remedies Worse Than The Disease,Time to Go,mountain,time,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Time to Go,mountain,go,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Time to Go,mountain,boston,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Time to Go,mountain,live,0
+There Are Some Remedies Worse Than The Disease,Ain't Misbehavin,remedies,summertime,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Ain't Misbehavin,worse,summertime,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Ain't Misbehavin,disease,summertime,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Ain't Misbehavin,young,summertime,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Ain't Misbehavin,mountain,summertime,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Use Somebody,remedies,use,0.5555555555555556
+There Are Some Remedies Worse Than The Disease,Use Somebody,remedies,somebody,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Use Somebody,remedies,use,0.5555555555555556
+There Are Some Remedies Worse Than The Disease,Use Somebody,remedies,somebody,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Use Somebody,worse,use,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Use Somebody,worse,somebody,0.2
+There Are Some Remedies Worse Than The Disease,Use Somebody,worse,use,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Use Somebody,worse,somebody,0.2
+There Are Some Remedies Worse Than The Disease,Use Somebody,disease,use,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Use Somebody,disease,somebody,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Use Somebody,disease,use,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Use Somebody,disease,somebody,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Use Somebody,young,use,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Use Somebody,young,somebody,0.8
+There Are Some Remedies Worse Than The Disease,Use Somebody,young,use,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Use Somebody,young,somebody,0.8
+There Are Some Remedies Worse Than The Disease,Use Somebody,mountain,use,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Use Somebody,mountain,somebody,0.5
+There Are Some Remedies Worse Than The Disease,Use Somebody,mountain,use,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Use Somebody,mountain,somebody,0.5
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,remedies,sunshine,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,remedies,highway,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,remedies,boston,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,remedies,live,0
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,worse,sunshine,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,worse,highway,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,worse,boston,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,worse,live,0
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,disease,sunshine,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,disease,highway,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,disease,boston,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,disease,live,0
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,young,sunshine,0.2
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,young,highway,0.5
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,young,boston,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,young,live,0
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,mountain,sunshine,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,mountain,highway,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,mountain,boston,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Sunshine Highway,mountain,live,0
+Swimming In The Flood,Undo,swimming,undo,0
+Swimming In The Flood,Undo,swimming,live,0
+Swimming In The Flood,Undo,flood,undo,0
+Swimming In The Flood,Undo,flood,live,0
+Swimming In The Flood,Undo,manners,undo,0
+Swimming In The Flood,Undo,manners,live,0
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,radio,0.1
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,edit,0
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,dog,0.10526315789473684
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,days,0.23529411764705882
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,call,0.1
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,music,0.26666666666666666
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,radio,0.23529411764705882
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,edit,0
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,dog,0.25
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,days,0.14285714285714285
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,call,0.23529411764705882
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,music,0.16666666666666666
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,radio,0.125
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,edit,0
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,dog,0.13333333333333333
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,days,0.3076923076923077
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,call,0.125
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,music,0.36363636363636365
+Swimming In The Flood,You're The One,swimming,one,0.2222222222222222
+Swimming In The Flood,You're The One,swimming,way,0.26666666666666666
+Swimming In The Flood,You're The One,flood,one,0.13333333333333333
+Swimming In The Flood,You're The One,flood,way,0.16666666666666666
+Swimming In The Flood,You're The One,manners,one,0.2857142857142857
+Swimming In The Flood,You're The One,manners,way,0.5454545454545454
+Swimming In The Flood,Sehr kosmisch,swimming,cosmic,0
+Swimming In The Flood,Sehr kosmisch,swimming,music,0.26666666666666666
+Swimming In The Flood,Sehr kosmisch,flood,cosmic,0
+Swimming In The Flood,Sehr kosmisch,flood,music,0.16666666666666666
+Swimming In The Flood,Sehr kosmisch,manners,cosmic,0
+Swimming In The Flood,Sehr kosmisch,manners,music,0.36363636363636365
+Swimming In The Flood,The Scientist,swimming,scientist,0.13333333333333333
+Swimming In The Flood,The Scientist,swimming,scientist,0.13333333333333333
+Swimming In The Flood,The Scientist,flood,scientist,0.3333333333333333
+Swimming In The Flood,The Scientist,flood,scientist,0.3333333333333333
+Swimming In The Flood,The Scientist,manners,scientist,0.18181818181818182
+Swimming In The Flood,The Scientist,manners,scientist,0.18181818181818182
+Swimming In The Flood,Rianna,swimming,update,0.23529411764705882
+Swimming In The Flood,Rianna,swimming,collection,0.2857142857142857
+Swimming In The Flood,Rianna,flood,update,0.14285714285714285
+Swimming In The Flood,Rianna,flood,collection,0.18181818181818182
+Swimming In The Flood,Rianna,manners,update,0.3076923076923077
+Swimming In The Flood,Rianna,manners,collection,0.4
+Swimming In The Flood,Secrets,swimming,secrets,0.25
+Swimming In The Flood,Secrets,swimming,waking,0.21052631578947367
+Swimming In The Flood,Secrets,flood,secrets,0.15384615384615385
+Swimming In The Flood,Secrets,flood,waking,0.125
+Swimming In The Flood,Secrets,manners,secrets,0.3333333333333333
+Swimming In The Flood,Secrets,manners,waking,0.4
+Swimming In The Flood,Revelry,swimming,revelry,0.7
+Swimming In The Flood,Revelry,swimming,night,0.25
+Swimming In The Flood,Revelry,flood,revelry,0.11764705882352941
+Swimming In The Flood,Revelry,flood,night,0.15384615384615385
+Swimming In The Flood,Revelry,manners,revelry,0.25
+Swimming In The Flood,Revelry,manners,night,0.3333333333333333
+Swimming In The Flood,Time to Go,swimming,time,0.47058823529411764
+Swimming In The Flood,Time to Go,swimming,go,0.21052631578947367
+Swimming In The Flood,Time to Go,swimming,boston,0.09523809523809523
+Swimming In The Flood,Time to Go,swimming,live,0
+Swimming In The Flood,Time to Go,flood,time,0.14285714285714285
+Swimming In The Flood,Time to Go,flood,go,0.125
+Swimming In The Flood,Time to Go,flood,boston,0.2222222222222222
+Swimming In The Flood,Time to Go,flood,live,0
+Swimming In The Flood,Time to Go,manners,time,0.3076923076923077
+Swimming In The Flood,Time to Go,manners,go,0.26666666666666666
+Swimming In The Flood,Time to Go,manners,boston,0.11764705882352941
+Swimming In The Flood,Time to Go,manners,live,0
+Swimming In The Flood,Ain't Misbehavin,swimming,summertime,0.23529411764705882
+Swimming In The Flood,Ain't Misbehavin,flood,summertime,0.14285714285714285
+Swimming In The Flood,Ain't Misbehavin,manners,summertime,0.3076923076923077
+Swimming In The Flood,Use Somebody,swimming,use,0.7058823529411765
+Swimming In The Flood,Use Somebody,swimming,somebody,0.14285714285714285
+Swimming In The Flood,Use Somebody,swimming,use,0.7058823529411765
+Swimming In The Flood,Use Somebody,swimming,somebody,0.14285714285714285
+Swimming In The Flood,Use Somebody,flood,use,0.14285714285714285
+Swimming In The Flood,Use Somebody,flood,somebody,0.36363636363636365
+Swimming In The Flood,Use Somebody,flood,use,0.14285714285714285
+Swimming In The Flood,Use Somebody,flood,somebody,0.36363636363636365
+Swimming In The Flood,Use Somebody,manners,use,0.3076923076923077
+Swimming In The Flood,Use Somebody,manners,somebody,0.2
+Swimming In The Flood,Use Somebody,manners,use,0.3076923076923077
+Swimming In The Flood,Use Somebody,manners,somebody,0.2
+Swimming In The Flood,Sunshine Highway,swimming,sunshine,0.09090909090909091
+Swimming In The Flood,Sunshine Highway,swimming,highway,0.1111111111111111
+Swimming In The Flood,Sunshine Highway,swimming,boston,0.09523809523809523
+Swimming In The Flood,Sunshine Highway,swimming,live,0
+Swimming In The Flood,Sunshine Highway,flood,sunshine,0.5263157894736842
+Swimming In The Flood,Sunshine Highway,flood,highway,0.26666666666666666
+Swimming In The Flood,Sunshine Highway,flood,boston,0.2222222222222222
+Swimming In The Flood,Sunshine Highway,flood,live,0
+Swimming In The Flood,Sunshine Highway,manners,sunshine,0.1111111111111111
+Swimming In The Flood,Sunshine Highway,manners,highway,0.14285714285714285
+Swimming In The Flood,Sunshine Highway,manners,boston,0.11764705882352941
+Swimming In The Flood,Sunshine Highway,manners,live,0

@@ -1,0 +1,1518 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Dog Days Are Over (Radio Edit),sun,radio,0.4444444444444444
+Sun Hands,Dog Days Are Over (Radio Edit),sun,edit,0
+Sun Hands,Dog Days Are Over (Radio Edit),sun,dog,0.47058823529411764
+Sun Hands,Dog Days Are Over (Radio Edit),sun,days,0.13333333333333333
+Sun Hands,Dog Days Are Over (Radio Edit),sun,call,0.4444444444444444
+Sun Hands,Dog Days Are Over (Radio Edit),sun,music,0.15384615384615385
+Sun Hands,Dog Days Are Over (Radio Edit),hands,radio,0.10526315789473684
+Sun Hands,Dog Days Are Over (Radio Edit),hands,edit,0
+Sun Hands,Dog Days Are Over (Radio Edit),hands,dog,0.1111111111111111
+Sun Hands,Dog Days Are Over (Radio Edit),hands,days,0.25
+Sun Hands,Dog Days Are Over (Radio Edit),hands,call,0.10526315789473684
+Sun Hands,Dog Days Are Over (Radio Edit),hands,music,0.2857142857142857
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,radio,0.3076923076923077
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,edit,0
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,dog,0.7333333333333333
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,days,0.08695652173913043
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,call,0.3076923076923077
+Sun Hands,Dog Days Are Over (Radio Edit),gorilla,music,0.09523809523809523
+Sun Hands,Dog Days Are Over (Radio Edit),manor,radio,0.5
+Sun Hands,Dog Days Are Over (Radio Edit),manor,edit,0
+Sun Hands,Dog Days Are Over (Radio Edit),manor,dog,0.42105263157894735
+Sun Hands,Dog Days Are Over (Radio Edit),manor,days,0.11764705882352941
+Sun Hands,Dog Days Are Over (Radio Edit),manor,call,0.5
+Sun Hands,Dog Days Are Over (Radio Edit),manor,music,0.13333333333333333
+Sun Hands,Sehr kosmisch,sun,cosmic,0
+Sun Hands,Sehr kosmisch,sun,music,0.15384615384615385
+Sun Hands,Sehr kosmisch,hands,cosmic,0
+Sun Hands,Sehr kosmisch,hands,music,0.2857142857142857
+Sun Hands,Sehr kosmisch,gorilla,cosmic,0
+Sun Hands,Sehr kosmisch,gorilla,music,0.09523809523809523
+Sun Hands,Sehr kosmisch,manor,cosmic,0
+Sun Hands,Sehr kosmisch,manor,music,0.13333333333333333
+Sun Hands,Finale,sun,final,0.125
+Sun Hands,Finale,sun,hit,0.11764705882352941
+Sun Hands,Finale,sun,wonders,0.13333333333333333
+Sun Hands,Finale,hands,final,0.47058823529411764
+Sun Hands,Finale,hands,hit,0.5263157894736842
+Sun Hands,Finale,hands,wonders,0.25
+Sun Hands,Finale,gorilla,final,0.08333333333333333
+Sun Hands,Finale,gorilla,hit,0.08
+Sun Hands,Finale,gorilla,wonders,0.08695652173913043
+Sun Hands,Finale,manor,final,0.1111111111111111
+Sun Hands,Finale,manor,hit,0.10526315789473684
+Sun Hands,Finale,manor,wonders,0.11764705882352941
+Sun Hands,Fireflies,sun,fireflies,0.38095238095238093
+Sun Hands,Fireflies,sun,karaoke,0.1111111111111111
+Sun Hands,Fireflies,sun,monthly,0.4
+Sun Hands,Fireflies,sun,january,0.125
+Sun Hands,Fireflies,hands,fireflies,0.09090909090909091
+Sun Hands,Fireflies,hands,karaoke,0.5
+Sun Hands,Fireflies,hands,monthly,0.09523809523809523
+Sun Hands,Fireflies,hands,january,0.23529411764705882
+Sun Hands,Fireflies,gorilla,fireflies,0.4827586206896552
+Sun Hands,Fireflies,gorilla,karaoke,0.07692307692307693
+Sun Hands,Fireflies,gorilla,monthly,0.2857142857142857
+Sun Hands,Fireflies,gorilla,january,0.08333333333333333
+Sun Hands,Fireflies,manor,fireflies,0.34782608695652173
+Sun Hands,Fireflies,manor,karaoke,0.1
+Sun Hands,Fireflies,manor,monthly,0.45454545454545453
+Sun Hands,Fireflies,manor,january,0.1111111111111111
+Sun Hands,Secrets,sun,secrets,0.14285714285714285
+Sun Hands,Secrets,sun,waking,0.11764705882352941
+Sun Hands,Secrets,hands,secrets,0.26666666666666666
+Sun Hands,Secrets,hands,waking,0.2222222222222222
+Sun Hands,Secrets,gorilla,secrets,0.09090909090909091
+Sun Hands,Secrets,gorilla,waking,0.08
+Sun Hands,Secrets,manor,secrets,0.125
+Sun Hands,Secrets,manor,waking,0.10526315789473684
+Sun Hands,Arrasando,sun,razing,0.125
+Sun Hands,Arrasando,sun,band,0.15384615384615385
+Sun Hands,Arrasando,sun,great,0.47058823529411764
+Sun Hands,Arrasando,sun,successes,0.14285714285714285
+Sun Hands,Arrasando,sun,thalia,0.10526315789473684
+Sun Hands,Arrasando,hands,razing,0.47058823529411764
+Sun Hands,Arrasando,hands,band,0.2857142857142857
+Sun Hands,Arrasando,hands,great,0.13333333333333333
+Sun Hands,Arrasando,hands,successes,0.5333333333333333
+Sun Hands,Arrasando,hands,thalia,0.3
+Sun Hands,Arrasando,gorilla,razing,0.08333333333333333
+Sun Hands,Arrasando,gorilla,band,0.09523809523809523
+Sun Hands,Arrasando,gorilla,great,0.48
+Sun Hands,Arrasando,gorilla,successes,0.09090909090909091
+Sun Hands,Arrasando,gorilla,thalia,0.07407407407407407
+Sun Hands,Arrasando,manor,razing,0.1111111111111111
+Sun Hands,Arrasando,manor,band,0.13333333333333333
+Sun Hands,Arrasando,manor,great,0.42105263157894735
+Sun Hands,Arrasando,manor,successes,0.125
+Sun Hands,Arrasando,manor,thalia,0.09523809523809523
+Sun Hands,Just A Feeling,sun,feeling,0.15384615384615385
+Sun Hands,Just A Feeling,sun,bad,0.15384615384615385
+Sun Hands,Just A Feeling,sun,manners,0.14285714285714285
+Sun Hands,Just A Feeling,hands,feeling,0.2857142857142857
+Sun Hands,Just A Feeling,hands,bad,0.2857142857142857
+Sun Hands,Just A Feeling,hands,manners,0.26666666666666666
+Sun Hands,Just A Feeling,gorilla,feeling,0.09523809523809523
+Sun Hands,Just A Feeling,gorilla,bad,0.09523809523809523
+Sun Hands,Just A Feeling,gorilla,manners,0.09090909090909091
+Sun Hands,Just A Feeling,manor,feeling,0.13333333333333333
+Sun Hands,Just A Feeling,manor,bad,0.13333333333333333
+Sun Hands,Just A Feeling,manor,manners,0.125
+Sun Hands,I Need To Know,sun,need,0.14285714285714285
+Sun Hands,I Need To Know,sun,know,0.125
+Sun Hands,I Need To Know,sun,nominees,0.4444444444444444
+Sun Hands,I Need To Know,sun,pop,0.36363636363636365
+Sun Hands,I Need To Know,hands,need,0.26666666666666666
+Sun Hands,I Need To Know,hands,know,0.35294117647058826
+Sun Hands,I Need To Know,hands,nominees,0.125
+Sun Hands,I Need To Know,hands,pop,0.1
+Sun Hands,I Need To Know,gorilla,need,0.09090909090909091
+Sun Hands,I Need To Know,gorilla,know,0.08333333333333333
+Sun Hands,I Need To Know,gorilla,nominees,0.46153846153846156
+Sun Hands,I Need To Know,gorilla,pop,0.4
+Sun Hands,I Need To Know,manor,need,0.125
+Sun Hands,I Need To Know,manor,know,0.1111111111111111
+Sun Hands,I Need To Know,manor,nominees,0.4
+Sun Hands,I Need To Know,manor,pop,0.3333333333333333
+Sun Hands,Walkabout (Album Version),sun,album,0.5
+Sun Hands,Walkabout (Album Version),sun,version,0.125
+Sun Hands,Walkabout (Album Version),sun,walkabout,0.1
+Sun Hands,Walkabout (Album Version),sun,one,0.125
+Sun Hands,Walkabout (Album Version),sun,hot,0
+Sun Hands,Walkabout (Album Version),sun,minute,0.15384615384615385
+Sun Hands,Walkabout (Album Version),hands,album,0.11764705882352941
+Sun Hands,Walkabout (Album Version),hands,version,0.23529411764705882
+Sun Hands,Walkabout (Album Version),hands,walkabout,0.45454545454545453
+Sun Hands,Walkabout (Album Version),hands,one,0.23529411764705882
+Sun Hands,Walkabout (Album Version),hands,hot,0
+Sun Hands,Walkabout (Album Version),hands,minute,0.2857142857142857
+Sun Hands,Walkabout (Album Version),gorilla,album,0.3333333333333333
+Sun Hands,Walkabout (Album Version),gorilla,version,0.08333333333333333
+Sun Hands,Walkabout (Album Version),gorilla,walkabout,0.07142857142857142
+Sun Hands,Walkabout (Album Version),gorilla,one,0.08333333333333333
+Sun Hands,Walkabout (Album Version),gorilla,hot,0
+Sun Hands,Walkabout (Album Version),gorilla,minute,0.09523809523809523
+Sun Hands,Walkabout (Album Version),manor,album,0.5555555555555556
+Sun Hands,Walkabout (Album Version),manor,version,0.1111111111111111
+Sun Hands,Walkabout (Album Version),manor,walkabout,0.09090909090909091
+Sun Hands,Walkabout (Album Version),manor,one,0.1111111111111111
+Sun Hands,Walkabout (Album Version),manor,hot,0
+Sun Hands,Walkabout (Album Version),manor,minute,0.13333333333333333
+Sun Hands,Amor A La Mexicana (Original Version),sun,original,0.5333333333333333
+Sun Hands,Amor A La Mexicana (Original Version),sun,version,0.125
+Sun Hands,Amor A La Mexicana (Original Version),sun,mexican,0.4
+Sun Hands,Amor A La Mexicana (Original Version),sun,love,0.13333333333333333
+Sun Hands,Amor A La Mexicana (Original Version),sun,mexican,0.4
+Sun Hands,Amor A La Mexicana (Original Version),sun,love,0.13333333333333333
+Sun Hands,Amor A La Mexicana (Original Version),hands,original,0.125
+Sun Hands,Amor A La Mexicana (Original Version),hands,version,0.23529411764705882
+Sun Hands,Amor A La Mexicana (Original Version),hands,mexican,0.1111111111111111
+Sun Hands,Amor A La Mexicana (Original Version),hands,love,0.25
+Sun Hands,Amor A La Mexicana (Original Version),hands,mexican,0.1111111111111111
+Sun Hands,Amor A La Mexicana (Original Version),hands,love,0.25
+Sun Hands,Amor A La Mexicana (Original Version),gorilla,original,0.34782608695652173
+Sun Hands,Amor A La Mexicana (Original Version),gorilla,version,0.08333333333333333
+Sun Hands,Amor A La Mexicana (Original Version),gorilla,mexican,0.42857142857142855
+Sun Hands,Amor A La Mexicana (Original Version),gorilla,love,0.08695652173913043
+Sun Hands,Amor A La Mexicana (Original Version),gorilla,mexican,0.42857142857142855
+Sun Hands,Amor A La Mexicana (Original Version),gorilla,love,0.08695652173913043
+Sun Hands,Amor A La Mexicana (Original Version),manor,original,0.5882352941176471
+Sun Hands,Amor A La Mexicana (Original Version),manor,version,0.1111111111111111
+Sun Hands,Amor A La Mexicana (Original Version),manor,mexican,0.36363636363636365
+Sun Hands,Amor A La Mexicana (Original Version),manor,love,0.11764705882352941
+Sun Hands,Amor A La Mexicana (Original Version),manor,mexican,0.36363636363636365
+Sun Hands,Amor A La Mexicana (Original Version),manor,love,0.11764705882352941
+Camera Talk,Dog Days Are Over (Radio Edit),camera,radio,0.631578947368421
+Camera Talk,Dog Days Are Over (Radio Edit),camera,edit,0
+Camera Talk,Dog Days Are Over (Radio Edit),camera,dog,0.4444444444444444
+Camera Talk,Dog Days Are Over (Radio Edit),camera,days,0.125
+Camera Talk,Dog Days Are Over (Radio Edit),camera,call,0.631578947368421
+Camera Talk,Dog Days Are Over (Radio Edit),camera,music,0.14285714285714285
+Camera Talk,Dog Days Are Over (Radio Edit),talk,radio,0.11764705882352941
+Camera Talk,Dog Days Are Over (Radio Edit),talk,edit,0
+Camera Talk,Dog Days Are Over (Radio Edit),talk,dog,0.125
+Camera Talk,Dog Days Are Over (Radio Edit),talk,days,0.2857142857142857
+Camera Talk,Dog Days Are Over (Radio Edit),talk,call,0.11764705882352941
+Camera Talk,Dog Days Are Over (Radio Edit),talk,music,0.6666666666666666
+Camera Talk,Dog Days Are Over (Radio Edit),camera,radio,0.631578947368421
+Camera Talk,Dog Days Are Over (Radio Edit),camera,edit,0
+Camera Talk,Dog Days Are Over (Radio Edit),camera,dog,0.4444444444444444
+Camera Talk,Dog Days Are Over (Radio Edit),camera,days,0.125
+Camera Talk,Dog Days Are Over (Radio Edit),camera,call,0.631578947368421
+Camera Talk,Dog Days Are Over (Radio Edit),camera,music,0.14285714285714285
+Camera Talk,Dog Days Are Over (Radio Edit),talk,radio,0.11764705882352941
+Camera Talk,Dog Days Are Over (Radio Edit),talk,edit,0
+Camera Talk,Dog Days Are Over (Radio Edit),talk,dog,0.125
+Camera Talk,Dog Days Are Over (Radio Edit),talk,days,0.2857142857142857
+Camera Talk,Dog Days Are Over (Radio Edit),talk,call,0.11764705882352941
+Camera Talk,Dog Days Are Over (Radio Edit),talk,music,0.6666666666666666
+Camera Talk,Sehr kosmisch,camera,cosmic,0
+Camera Talk,Sehr kosmisch,camera,music,0.14285714285714285
+Camera Talk,Sehr kosmisch,talk,cosmic,0
+Camera Talk,Sehr kosmisch,talk,music,0.6666666666666666
+Camera Talk,Sehr kosmisch,camera,cosmic,0
+Camera Talk,Sehr kosmisch,camera,music,0.14285714285714285
+Camera Talk,Sehr kosmisch,talk,cosmic,0
+Camera Talk,Sehr kosmisch,talk,music,0.6666666666666666
+Camera Talk,Finale,camera,final,0.11764705882352941
+Camera Talk,Finale,camera,hit,0.1111111111111111
+Camera Talk,Finale,camera,wonders,0.125
+Camera Talk,Finale,talk,final,0.26666666666666666
+Camera Talk,Finale,talk,hit,0.25
+Camera Talk,Finale,talk,wonders,0.2857142857142857
+Camera Talk,Finale,camera,final,0.11764705882352941
+Camera Talk,Finale,camera,hit,0.1111111111111111
+Camera Talk,Finale,camera,wonders,0.125
+Camera Talk,Finale,talk,final,0.26666666666666666
+Camera Talk,Finale,talk,hit,0.25
+Camera Talk,Finale,talk,wonders,0.2857142857142857
+Camera Talk,Fireflies,camera,fireflies,0.36363636363636365
+Camera Talk,Fireflies,camera,karaoke,0.10526315789473684
+Camera Talk,Fireflies,camera,monthly,0.47619047619047616
+Camera Talk,Fireflies,camera,january,0.11764705882352941
+Camera Talk,Fireflies,talk,fireflies,0.1
+Camera Talk,Fireflies,talk,karaoke,0.23529411764705882
+Camera Talk,Fireflies,talk,monthly,0.10526315789473684
+Camera Talk,Fireflies,talk,january,0.26666666666666666
+Camera Talk,Fireflies,camera,fireflies,0.36363636363636365
+Camera Talk,Fireflies,camera,karaoke,0.10526315789473684
+Camera Talk,Fireflies,camera,monthly,0.47619047619047616
+Camera Talk,Fireflies,camera,january,0.11764705882352941
+Camera Talk,Fireflies,talk,fireflies,0.1
+Camera Talk,Fireflies,talk,karaoke,0.23529411764705882
+Camera Talk,Fireflies,talk,monthly,0.10526315789473684
+Camera Talk,Fireflies,talk,january,0.26666666666666666
+Camera Talk,Secrets,camera,secrets,0.13333333333333333
+Camera Talk,Secrets,camera,waking,0.1111111111111111
+Camera Talk,Secrets,talk,secrets,0.46153846153846156
+Camera Talk,Secrets,talk,waking,0.25
+Camera Talk,Secrets,camera,secrets,0.13333333333333333
+Camera Talk,Secrets,camera,waking,0.1111111111111111
+Camera Talk,Secrets,talk,secrets,0.46153846153846156
+Camera Talk,Secrets,talk,waking,0.25
+Camera Talk,Arrasando,camera,razing,0.11764705882352941
+Camera Talk,Arrasando,camera,band,0.14285714285714285
+Camera Talk,Arrasando,camera,great,0.4444444444444444
+Camera Talk,Arrasando,camera,successes,0.13333333333333333
+Camera Talk,Arrasando,camera,thalia,0.1
+Camera Talk,Arrasando,talk,razing,0.26666666666666666
+Camera Talk,Arrasando,talk,band,0.3333333333333333
+Camera Talk,Arrasando,talk,great,0.15384615384615385
+Camera Talk,Arrasando,talk,successes,0.3076923076923077
+Camera Talk,Arrasando,talk,thalia,0.2222222222222222
+Camera Talk,Arrasando,camera,razing,0.11764705882352941
+Camera Talk,Arrasando,camera,band,0.14285714285714285
+Camera Talk,Arrasando,camera,great,0.4444444444444444
+Camera Talk,Arrasando,camera,successes,0.13333333333333333
+Camera Talk,Arrasando,camera,thalia,0.1
+Camera Talk,Arrasando,talk,razing,0.26666666666666666
+Camera Talk,Arrasando,talk,band,0.3333333333333333
+Camera Talk,Arrasando,talk,great,0.15384615384615385
+Camera Talk,Arrasando,talk,successes,0.3076923076923077
+Camera Talk,Arrasando,talk,thalia,0.2222222222222222
+Camera Talk,Just A Feeling,camera,feeling,0.14285714285714285
+Camera Talk,Just A Feeling,camera,bad,0.14285714285714285
+Camera Talk,Just A Feeling,camera,manners,0.13333333333333333
+Camera Talk,Just A Feeling,talk,feeling,0.3333333333333333
+Camera Talk,Just A Feeling,talk,bad,0.3333333333333333
+Camera Talk,Just A Feeling,talk,manners,0.3076923076923077
+Camera Talk,Just A Feeling,camera,feeling,0.14285714285714285
+Camera Talk,Just A Feeling,camera,bad,0.14285714285714285
+Camera Talk,Just A Feeling,camera,manners,0.13333333333333333
+Camera Talk,Just A Feeling,talk,feeling,0.3333333333333333
+Camera Talk,Just A Feeling,talk,bad,0.3333333333333333
+Camera Talk,Just A Feeling,talk,manners,0.3076923076923077
+Camera Talk,I Need To Know,camera,need,0.13333333333333333
+Camera Talk,I Need To Know,camera,know,0.11764705882352941
+Camera Talk,I Need To Know,camera,nominees,0.42105263157894735
+Camera Talk,I Need To Know,camera,pop,0.34782608695652173
+Camera Talk,I Need To Know,talk,need,0.3076923076923077
+Camera Talk,I Need To Know,talk,know,0.26666666666666666
+Camera Talk,I Need To Know,talk,nominees,0.14285714285714285
+Camera Talk,I Need To Know,talk,pop,0.1111111111111111
+Camera Talk,I Need To Know,camera,need,0.13333333333333333
+Camera Talk,I Need To Know,camera,know,0.11764705882352941
+Camera Talk,I Need To Know,camera,nominees,0.42105263157894735
+Camera Talk,I Need To Know,camera,pop,0.34782608695652173
+Camera Talk,I Need To Know,talk,need,0.3076923076923077
+Camera Talk,I Need To Know,talk,know,0.26666666666666666
+Camera Talk,I Need To Know,talk,nominees,0.14285714285714285
+Camera Talk,I Need To Know,talk,pop,0.1111111111111111
+Camera Talk,Walkabout (Album Version),camera,album,0.7058823529411765
+Camera Talk,Walkabout (Album Version),camera,version,0.11764705882352941
+Camera Talk,Walkabout (Album Version),camera,walkabout,0.09523809523809523
+Camera Talk,Walkabout (Album Version),camera,one,0.11764705882352941
+Camera Talk,Walkabout (Album Version),camera,hot,0
+Camera Talk,Walkabout (Album Version),camera,minute,0.14285714285714285
+Camera Talk,Walkabout (Album Version),talk,album,0.13333333333333333
+Camera Talk,Walkabout (Album Version),talk,version,0.4
+Camera Talk,Walkabout (Album Version),talk,walkabout,0.21052631578947367
+Camera Talk,Walkabout (Album Version),talk,one,0.26666666666666666
+Camera Talk,Walkabout (Album Version),talk,hot,0
+Camera Talk,Walkabout (Album Version),talk,minute,0.3333333333333333
+Camera Talk,Walkabout (Album Version),camera,album,0.7058823529411765
+Camera Talk,Walkabout (Album Version),camera,version,0.11764705882352941
+Camera Talk,Walkabout (Album Version),camera,walkabout,0.09523809523809523
+Camera Talk,Walkabout (Album Version),camera,one,0.11764705882352941
+Camera Talk,Walkabout (Album Version),camera,hot,0
+Camera Talk,Walkabout (Album Version),camera,minute,0.14285714285714285
+Camera Talk,Walkabout (Album Version),talk,album,0.13333333333333333
+Camera Talk,Walkabout (Album Version),talk,version,0.4
+Camera Talk,Walkabout (Album Version),talk,walkabout,0.21052631578947367
+Camera Talk,Walkabout (Album Version),talk,one,0.26666666666666666
+Camera Talk,Walkabout (Album Version),talk,hot,0
+Camera Talk,Walkabout (Album Version),talk,minute,0.3333333333333333
+Camera Talk,Amor A La Mexicana (Original Version),camera,original,0.625
+Camera Talk,Amor A La Mexicana (Original Version),camera,version,0.11764705882352941
+Camera Talk,Amor A La Mexicana (Original Version),camera,mexican,0.38095238095238093
+Camera Talk,Amor A La Mexicana (Original Version),camera,love,0.125
+Camera Talk,Amor A La Mexicana (Original Version),camera,mexican,0.38095238095238093
+Camera Talk,Amor A La Mexicana (Original Version),camera,love,0.125
+Camera Talk,Amor A La Mexicana (Original Version),talk,original,0.14285714285714285
+Camera Talk,Amor A La Mexicana (Original Version),talk,version,0.4
+Camera Talk,Amor A La Mexicana (Original Version),talk,mexican,0.125
+Camera Talk,Amor A La Mexicana (Original Version),talk,love,0.2857142857142857
+Camera Talk,Amor A La Mexicana (Original Version),talk,mexican,0.125
+Camera Talk,Amor A La Mexicana (Original Version),talk,love,0.2857142857142857
+Camera Talk,Amor A La Mexicana (Original Version),camera,original,0.625
+Camera Talk,Amor A La Mexicana (Original Version),camera,version,0.11764705882352941
+Camera Talk,Amor A La Mexicana (Original Version),camera,mexican,0.38095238095238093
+Camera Talk,Amor A La Mexicana (Original Version),camera,love,0.125
+Camera Talk,Amor A La Mexicana (Original Version),camera,mexican,0.38095238095238093
+Camera Talk,Amor A La Mexicana (Original Version),camera,love,0.125
+Camera Talk,Amor A La Mexicana (Original Version),talk,original,0.14285714285714285
+Camera Talk,Amor A La Mexicana (Original Version),talk,version,0.4
+Camera Talk,Amor A La Mexicana (Original Version),talk,mexican,0.125
+Camera Talk,Amor A La Mexicana (Original Version),talk,love,0.2857142857142857
+Camera Talk,Amor A La Mexicana (Original Version),talk,mexican,0.125
+Camera Talk,Amor A La Mexicana (Original Version),talk,love,0.2857142857142857
+Belle,Dog Days Are Over (Radio Edit),beautiful,radio,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,edit,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,dog,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,days,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,call,0
+Belle,Dog Days Are Over (Radio Edit),beautiful,music,0
+Belle,Dog Days Are Over (Radio Edit),dreams,radio,0.10526315789473684
+Belle,Dog Days Are Over (Radio Edit),dreams,edit,0
+Belle,Dog Days Are Over (Radio Edit),dreams,dog,0.1111111111111111
+Belle,Dog Days Are Over (Radio Edit),dreams,days,0.25
+Belle,Dog Days Are Over (Radio Edit),dreams,call,0.10526315789473684
+Belle,Dog Days Are Over (Radio Edit),dreams,music,0.2857142857142857
+Belle,Sehr kosmisch,beautiful,cosmic,0
+Belle,Sehr kosmisch,beautiful,music,0
+Belle,Sehr kosmisch,dreams,cosmic,0
+Belle,Sehr kosmisch,dreams,music,0.2857142857142857
+Belle,Finale,beautiful,final,0
+Belle,Finale,beautiful,hit,0
+Belle,Finale,beautiful,wonders,0
+Belle,Finale,dreams,final,0.35294117647058826
+Belle,Finale,dreams,hit,0.3333333333333333
+Belle,Finale,dreams,wonders,0.25
+Belle,Fireflies,beautiful,fireflies,0
+Belle,Fireflies,beautiful,karaoke,0
+Belle,Fireflies,beautiful,monthly,0
+Belle,Fireflies,beautiful,january,0
+Belle,Fireflies,dreams,fireflies,0.09090909090909091
+Belle,Fireflies,dreams,karaoke,0.38095238095238093
+Belle,Fireflies,dreams,monthly,0.09523809523809523
+Belle,Fireflies,dreams,january,0.23529411764705882
+Belle,Secrets,beautiful,secrets,0
+Belle,Secrets,beautiful,waking,0
+Belle,Secrets,dreams,secrets,0.26666666666666666
+Belle,Secrets,dreams,waking,0.2222222222222222
+Belle,Arrasando,beautiful,razing,0
+Belle,Arrasando,beautiful,band,0
+Belle,Arrasando,beautiful,great,0
+Belle,Arrasando,beautiful,successes,0
+Belle,Arrasando,beautiful,thalia,0
+Belle,Arrasando,dreams,razing,0.35294117647058826
+Belle,Arrasando,dreams,band,0.2857142857142857
+Belle,Arrasando,dreams,great,0.13333333333333333
+Belle,Arrasando,dreams,successes,0.4
+Belle,Arrasando,dreams,thalia,0.4
+Belle,Just A Feeling,beautiful,feeling,0
+Belle,Just A Feeling,beautiful,bad,0
+Belle,Just A Feeling,beautiful,manners,0
+Belle,Just A Feeling,dreams,feeling,0.2857142857142857
+Belle,Just A Feeling,dreams,bad,0.2857142857142857
+Belle,Just A Feeling,dreams,manners,0.26666666666666666
+Belle,I Need To Know,beautiful,need,0
+Belle,I Need To Know,beautiful,know,0
+Belle,I Need To Know,beautiful,nominees,0
+Belle,I Need To Know,beautiful,pop,0
+Belle,I Need To Know,dreams,need,0.26666666666666666
+Belle,I Need To Know,dreams,know,0.5882352941176471
+Belle,I Need To Know,dreams,nominees,0.125
+Belle,I Need To Know,dreams,pop,0.1
+Belle,Walkabout (Album Version),beautiful,album,0
+Belle,Walkabout (Album Version),beautiful,version,0
+Belle,Walkabout (Album Version),beautiful,walkabout,0
+Belle,Walkabout (Album Version),beautiful,one,0
+Belle,Walkabout (Album Version),beautiful,hot,0
+Belle,Walkabout (Album Version),beautiful,minute,0
+Belle,Walkabout (Album Version),dreams,album,0.11764705882352941
+Belle,Walkabout (Album Version),dreams,version,0.23529411764705882
+Belle,Walkabout (Album Version),dreams,walkabout,0.2857142857142857
+Belle,Walkabout (Album Version),dreams,one,0.23529411764705882
+Belle,Walkabout (Album Version),dreams,hot,0
+Belle,Walkabout (Album Version),dreams,minute,0.2857142857142857
+Belle,Amor A La Mexicana (Original Version),beautiful,original,0
+Belle,Amor A La Mexicana (Original Version),beautiful,version,0
+Belle,Amor A La Mexicana (Original Version),beautiful,mexican,0
+Belle,Amor A La Mexicana (Original Version),beautiful,love,0
+Belle,Amor A La Mexicana (Original Version),beautiful,mexican,0
+Belle,Amor A La Mexicana (Original Version),beautiful,love,0
+Belle,Amor A La Mexicana (Original Version),dreams,original,0.125
+Belle,Amor A La Mexicana (Original Version),dreams,version,0.23529411764705882
+Belle,Amor A La Mexicana (Original Version),dreams,mexican,0.1111111111111111
+Belle,Amor A La Mexicana (Original Version),dreams,love,0.25
+Belle,Amor A La Mexicana (Original Version),dreams,mexican,0.1111111111111111
+Belle,Amor A La Mexicana (Original Version),dreams,love,0.25
+Auto Rock,Dog Days Are Over (Radio Edit),auto,radio,0.5714285714285714
+Auto Rock,Dog Days Are Over (Radio Edit),auto,edit,0
+Auto Rock,Dog Days Are Over (Radio Edit),auto,dog,0.4
+Auto Rock,Dog Days Are Over (Radio Edit),auto,days,0.1111111111111111
+Auto Rock,Dog Days Are Over (Radio Edit),auto,call,0.5714285714285714
+Auto Rock,Dog Days Are Over (Radio Edit),auto,music,0.125
+Auto Rock,Dog Days Are Over (Radio Edit),rock,radio,0.5
+Auto Rock,Dog Days Are Over (Radio Edit),rock,edit,0
+Auto Rock,Dog Days Are Over (Radio Edit),rock,dog,0.5333333333333333
+Auto Rock,Dog Days Are Over (Radio Edit),rock,days,0.15384615384615385
+Auto Rock,Dog Days Are Over (Radio Edit),rock,call,0.5
+Auto Rock,Dog Days Are Over (Radio Edit),rock,music,0.18181818181818182
+Auto Rock,Dog Days Are Over (Radio Edit),mr,radio,0.10526315789473684
+Auto Rock,Dog Days Are Over (Radio Edit),mr,edit,0
+Auto Rock,Dog Days Are Over (Radio Edit),mr,dog,0.1111111111111111
+Auto Rock,Dog Days Are Over (Radio Edit),mr,days,0.25
+Auto Rock,Dog Days Are Over (Radio Edit),mr,call,0.10526315789473684
+Auto Rock,Dog Days Are Over (Radio Edit),mr,music,0.2857142857142857
+Auto Rock,Dog Days Are Over (Radio Edit),beast,radio,0.47058823529411764
+Auto Rock,Dog Days Are Over (Radio Edit),beast,edit,0
+Auto Rock,Dog Days Are Over (Radio Edit),beast,dog,0.875
+Auto Rock,Dog Days Are Over (Radio Edit),beast,days,0.14285714285714285
+Auto Rock,Dog Days Are Over (Radio Edit),beast,call,0.47058823529411764
+Auto Rock,Dog Days Are Over (Radio Edit),beast,music,0.16666666666666666
+Auto Rock,Sehr kosmisch,auto,cosmic,0
+Auto Rock,Sehr kosmisch,auto,music,0.125
+Auto Rock,Sehr kosmisch,rock,cosmic,0
+Auto Rock,Sehr kosmisch,rock,music,0.18181818181818182
+Auto Rock,Sehr kosmisch,mr,cosmic,0
+Auto Rock,Sehr kosmisch,mr,music,0.2857142857142857
+Auto Rock,Sehr kosmisch,beast,cosmic,0
+Auto Rock,Sehr kosmisch,beast,music,0.16666666666666666
+Auto Rock,Finale,auto,final,0.10526315789473684
+Auto Rock,Finale,auto,hit,0.1
+Auto Rock,Finale,auto,wonders,0.1111111111111111
+Auto Rock,Finale,rock,final,0.14285714285714285
+Auto Rock,Finale,rock,hit,0.13333333333333333
+Auto Rock,Finale,rock,wonders,0.15384615384615385
+Auto Rock,Finale,mr,final,0.23529411764705882
+Auto Rock,Finale,mr,hit,0.2222222222222222
+Auto Rock,Finale,mr,wonders,0.25
+Auto Rock,Finale,beast,final,0.13333333333333333
+Auto Rock,Finale,beast,hit,0.125
+Auto Rock,Finale,beast,wonders,0.14285714285714285
+Auto Rock,Fireflies,auto,fireflies,0.3333333333333333
+Auto Rock,Fireflies,auto,karaoke,0.09523809523809523
+Auto Rock,Fireflies,auto,monthly,0.43478260869565216
+Auto Rock,Fireflies,auto,january,0.10526315789473684
+Auto Rock,Fireflies,rock,fireflies,0.42105263157894735
+Auto Rock,Fireflies,rock,karaoke,0.125
+Auto Rock,Fireflies,rock,monthly,0.4444444444444444
+Auto Rock,Fireflies,rock,january,0.14285714285714285
+Auto Rock,Fireflies,mr,fireflies,0.09090909090909091
+Auto Rock,Fireflies,mr,karaoke,0.21052631578947367
+Auto Rock,Fireflies,mr,monthly,0.09523809523809523
+Auto Rock,Fireflies,mr,january,0.23529411764705882
+Auto Rock,Fireflies,beast,fireflies,0.7
+Auto Rock,Fireflies,beast,karaoke,0.11764705882352941
+Auto Rock,Fireflies,beast,monthly,0.42105263157894735
+Auto Rock,Fireflies,beast,january,0.13333333333333333
+Auto Rock,Secrets,auto,secrets,0.11764705882352941
+Auto Rock,Secrets,auto,waking,0.1
+Auto Rock,Secrets,rock,secrets,0.16666666666666666
+Auto Rock,Secrets,rock,waking,0.13333333333333333
+Auto Rock,Secrets,mr,secrets,0.26666666666666666
+Auto Rock,Secrets,mr,waking,0.2222222222222222
+Auto Rock,Secrets,beast,secrets,0.15384615384615385
+Auto Rock,Secrets,beast,waking,0.125
+Auto Rock,Arrasando,auto,razing,0.10526315789473684
+Auto Rock,Arrasando,auto,band,0.125
+Auto Rock,Arrasando,auto,great,0.4
+Auto Rock,Arrasando,auto,successes,0.11764705882352941
+Auto Rock,Arrasando,auto,thalia,0.09090909090909091
+Auto Rock,Arrasando,rock,razing,0.14285714285714285
+Auto Rock,Arrasando,rock,band,0.18181818181818182
+Auto Rock,Arrasando,rock,great,0.5333333333333333
+Auto Rock,Arrasando,rock,successes,0.16666666666666666
+Auto Rock,Arrasando,rock,thalia,0.11764705882352941
+Auto Rock,Arrasando,mr,razing,0.23529411764705882
+Auto Rock,Arrasando,mr,band,0.2857142857142857
+Auto Rock,Arrasando,mr,great,0.13333333333333333
+Auto Rock,Arrasando,mr,successes,0.26666666666666666
+Auto Rock,Arrasando,mr,thalia,0.2
+Auto Rock,Arrasando,beast,razing,0.13333333333333333
+Auto Rock,Arrasando,beast,band,0.16666666666666666
+Auto Rock,Arrasando,beast,great,0.75
+Auto Rock,Arrasando,beast,successes,0.15384615384615385
+Auto Rock,Arrasando,beast,thalia,0.1111111111111111
+Auto Rock,Just A Feeling,auto,feeling,0.125
+Auto Rock,Just A Feeling,auto,bad,0.125
+Auto Rock,Just A Feeling,auto,manners,0.11764705882352941
+Auto Rock,Just A Feeling,rock,feeling,0.18181818181818182
+Auto Rock,Just A Feeling,rock,bad,0.18181818181818182
+Auto Rock,Just A Feeling,rock,manners,0.16666666666666666
+Auto Rock,Just A Feeling,mr,feeling,0.2857142857142857
+Auto Rock,Just A Feeling,mr,bad,0.2857142857142857
+Auto Rock,Just A Feeling,mr,manners,0.26666666666666666
+Auto Rock,Just A Feeling,beast,feeling,0.16666666666666666
+Auto Rock,Just A Feeling,beast,bad,0.16666666666666666
+Auto Rock,Just A Feeling,beast,manners,0.15384615384615385
+Auto Rock,I Need To Know,auto,need,0.11764705882352941
+Auto Rock,I Need To Know,auto,know,0.10526315789473684
+Auto Rock,I Need To Know,auto,nominees,0.38095238095238093
+Auto Rock,I Need To Know,auto,pop,0.32
+Auto Rock,I Need To Know,rock,need,0.16666666666666666
+Auto Rock,I Need To Know,rock,know,0.14285714285714285
+Auto Rock,I Need To Know,rock,nominees,0.5
+Auto Rock,I Need To Know,rock,pop,0.4
+Auto Rock,I Need To Know,mr,need,0.26666666666666666
+Auto Rock,I Need To Know,mr,know,0.23529411764705882
+Auto Rock,I Need To Know,mr,nominees,0.125
+Auto Rock,I Need To Know,mr,pop,0.1
+Auto Rock,I Need To Know,beast,need,0.15384615384615385
+Auto Rock,I Need To Know,beast,know,0.13333333333333333
+Auto Rock,I Need To Know,beast,nominees,0.7058823529411765
+Auto Rock,I Need To Know,beast,pop,0.5714285714285714
+Auto Rock,Walkabout (Album Version),auto,album,0.631578947368421
+Auto Rock,Walkabout (Album Version),auto,version,0.10526315789473684
+Auto Rock,Walkabout (Album Version),auto,walkabout,0.08695652173913043
+Auto Rock,Walkabout (Album Version),auto,one,0.10526315789473684
+Auto Rock,Walkabout (Album Version),auto,hot,0
+Auto Rock,Walkabout (Album Version),auto,minute,0.125
+Auto Rock,Walkabout (Album Version),rock,album,0.5714285714285714
+Auto Rock,Walkabout (Album Version),rock,version,0.14285714285714285
+Auto Rock,Walkabout (Album Version),rock,walkabout,0.1111111111111111
+Auto Rock,Walkabout (Album Version),rock,one,0.14285714285714285
+Auto Rock,Walkabout (Album Version),rock,hot,0
+Auto Rock,Walkabout (Album Version),rock,minute,0.18181818181818182
+Auto Rock,Walkabout (Album Version),mr,album,0.11764705882352941
+Auto Rock,Walkabout (Album Version),mr,version,0.23529411764705882
+Auto Rock,Walkabout (Album Version),mr,walkabout,0.19047619047619047
+Auto Rock,Walkabout (Album Version),mr,one,0.23529411764705882
+Auto Rock,Walkabout (Album Version),mr,hot,0
+Auto Rock,Walkabout (Album Version),mr,minute,0.2857142857142857
+Auto Rock,Walkabout (Album Version),beast,album,0.5333333333333333
+Auto Rock,Walkabout (Album Version),beast,version,0.13333333333333333
+Auto Rock,Walkabout (Album Version),beast,walkabout,0.10526315789473684
+Auto Rock,Walkabout (Album Version),beast,one,0.13333333333333333
+Auto Rock,Walkabout (Album Version),beast,hot,0
+Auto Rock,Walkabout (Album Version),beast,minute,0.16666666666666666
+Auto Rock,Amor A La Mexicana (Original Version),auto,original,0.5555555555555556
+Auto Rock,Amor A La Mexicana (Original Version),auto,version,0.10526315789473684
+Auto Rock,Amor A La Mexicana (Original Version),auto,mexican,0.34782608695652173
+Auto Rock,Amor A La Mexicana (Original Version),auto,love,0.1111111111111111
+Auto Rock,Amor A La Mexicana (Original Version),auto,mexican,0.34782608695652173
+Auto Rock,Amor A La Mexicana (Original Version),auto,love,0.1111111111111111
+Auto Rock,Amor A La Mexicana (Original Version),rock,original,0.6153846153846154
+Auto Rock,Amor A La Mexicana (Original Version),rock,version,0.14285714285714285
+Auto Rock,Amor A La Mexicana (Original Version),rock,mexican,0.4444444444444444
+Auto Rock,Amor A La Mexicana (Original Version),rock,love,0.15384615384615385
+Auto Rock,Amor A La Mexicana (Original Version),rock,mexican,0.4444444444444444
+Auto Rock,Amor A La Mexicana (Original Version),rock,love,0.15384615384615385
+Auto Rock,Amor A La Mexicana (Original Version),mr,original,0.125
+Auto Rock,Amor A La Mexicana (Original Version),mr,version,0.23529411764705882
+Auto Rock,Amor A La Mexicana (Original Version),mr,mexican,0.1111111111111111
+Auto Rock,Amor A La Mexicana (Original Version),mr,love,0.25
+Auto Rock,Amor A La Mexicana (Original Version),mr,mexican,0.1111111111111111
+Auto Rock,Amor A La Mexicana (Original Version),mr,love,0.25
+Auto Rock,Amor A La Mexicana (Original Version),beast,original,0.5714285714285714
+Auto Rock,Amor A La Mexicana (Original Version),beast,version,0.13333333333333333
+Auto Rock,Amor A La Mexicana (Original Version),beast,mexican,0.631578947368421
+Auto Rock,Amor A La Mexicana (Original Version),beast,love,0.14285714285714285
+Auto Rock,Amor A La Mexicana (Original Version),beast,mexican,0.631578947368421
+Auto Rock,Amor A La Mexicana (Original Version),beast,love,0.14285714285714285
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,radio,0.1111111111111111
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,edit,0
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,dog,0.11764705882352941
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,days,0.26666666666666666
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,call,0.1111111111111111
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),knows,music,0.3076923076923077
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,radio,0.1111111111111111
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,edit,0
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,dog,0.11764705882352941
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,days,0.26666666666666666
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,call,0.1111111111111111
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),cares,music,0.3076923076923077
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,radio,0.3076923076923077
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,edit,0
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,dog,0.7333333333333333
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,days,0.08695652173913043
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,call,0.3076923076923077
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),gorilla,music,0.09523809523809523
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,radio,0.5
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,edit,0
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,dog,0.42105263157894735
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,days,0.11764705882352941
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,call,0.5
+Who Knows Who Cares,Dog Days Are Over (Radio Edit),manor,music,0.13333333333333333
+Who Knows Who Cares,Sehr kosmisch,knows,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,knows,music,0.3076923076923077
+Who Knows Who Cares,Sehr kosmisch,cares,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,cares,music,0.3076923076923077
+Who Knows Who Cares,Sehr kosmisch,gorilla,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,gorilla,music,0.09523809523809523
+Who Knows Who Cares,Sehr kosmisch,manor,cosmic,0
+Who Knows Who Cares,Sehr kosmisch,manor,music,0.13333333333333333
+Who Knows Who Cares,Finale,knows,final,0.375
+Who Knows Who Cares,Finale,knows,hit,0.35294117647058826
+Who Knows Who Cares,Finale,knows,wonders,0.26666666666666666
+Who Knows Who Cares,Finale,cares,final,0.5
+Who Knows Who Cares,Finale,cares,hit,0.5882352941176471
+Who Knows Who Cares,Finale,cares,wonders,0.26666666666666666
+Who Knows Who Cares,Finale,gorilla,final,0.08333333333333333
+Who Knows Who Cares,Finale,gorilla,hit,0.08
+Who Knows Who Cares,Finale,gorilla,wonders,0.08695652173913043
+Who Knows Who Cares,Finale,manor,final,0.1111111111111111
+Who Knows Who Cares,Finale,manor,hit,0.10526315789473684
+Who Knows Who Cares,Finale,manor,wonders,0.11764705882352941
+Who Knows Who Cares,Fireflies,knows,fireflies,0.09523809523809523
+Who Knows Who Cares,Fireflies,knows,karaoke,0.4
+Who Knows Who Cares,Fireflies,knows,monthly,0.1
+Who Knows Who Cares,Fireflies,knows,january,0.25
+Who Knows Who Cares,Fireflies,cares,fireflies,0.09523809523809523
+Who Knows Who Cares,Fireflies,cares,karaoke,0.6666666666666666
+Who Knows Who Cares,Fireflies,cares,monthly,0.1
+Who Knows Who Cares,Fireflies,cares,january,0.25
+Who Knows Who Cares,Fireflies,gorilla,fireflies,0.4827586206896552
+Who Knows Who Cares,Fireflies,gorilla,karaoke,0.07692307692307693
+Who Knows Who Cares,Fireflies,gorilla,monthly,0.2857142857142857
+Who Knows Who Cares,Fireflies,gorilla,january,0.08333333333333333
+Who Knows Who Cares,Fireflies,manor,fireflies,0.34782608695652173
+Who Knows Who Cares,Fireflies,manor,karaoke,0.1
+Who Knows Who Cares,Fireflies,manor,monthly,0.45454545454545453
+Who Knows Who Cares,Fireflies,manor,january,0.1111111111111111
+Who Knows Who Cares,Secrets,knows,secrets,0.2857142857142857
+Who Knows Who Cares,Secrets,knows,waking,0.23529411764705882
+Who Knows Who Cares,Secrets,cares,secrets,0.2857142857142857
+Who Knows Who Cares,Secrets,cares,waking,0.23529411764705882
+Who Knows Who Cares,Secrets,gorilla,secrets,0.09090909090909091
+Who Knows Who Cares,Secrets,gorilla,waking,0.08
+Who Knows Who Cares,Secrets,manor,secrets,0.125
+Who Knows Who Cares,Secrets,manor,waking,0.10526315789473684
+Who Knows Who Cares,Arrasando,knows,razing,0.375
+Who Knows Who Cares,Arrasando,knows,band,0.3076923076923077
+Who Knows Who Cares,Arrasando,knows,great,0.14285714285714285
+Who Knows Who Cares,Arrasando,knows,successes,0.42857142857142855
+Who Knows Who Cares,Arrasando,knows,thalia,0.42105263157894735
+Who Knows Who Cares,Arrasando,cares,razing,0.5
+Who Knows Who Cares,Arrasando,cares,band,0.3076923076923077
+Who Knows Who Cares,Arrasando,cares,great,0.14285714285714285
+Who Knows Who Cares,Arrasando,cares,successes,0.5714285714285714
+Who Knows Who Cares,Arrasando,cares,thalia,0.3157894736842105
+Who Knows Who Cares,Arrasando,gorilla,razing,0.08333333333333333
+Who Knows Who Cares,Arrasando,gorilla,band,0.09523809523809523
+Who Knows Who Cares,Arrasando,gorilla,great,0.48
+Who Knows Who Cares,Arrasando,gorilla,successes,0.09090909090909091
+Who Knows Who Cares,Arrasando,gorilla,thalia,0.07407407407407407
+Who Knows Who Cares,Arrasando,manor,razing,0.1111111111111111
+Who Knows Who Cares,Arrasando,manor,band,0.13333333333333333
+Who Knows Who Cares,Arrasando,manor,great,0.42105263157894735
+Who Knows Who Cares,Arrasando,manor,successes,0.125
+Who Knows Who Cares,Arrasando,manor,thalia,0.09523809523809523
+Who Knows Who Cares,Just A Feeling,knows,feeling,0.3076923076923077
+Who Knows Who Cares,Just A Feeling,knows,bad,0.3076923076923077
+Who Knows Who Cares,Just A Feeling,knows,manners,0.2857142857142857
+Who Knows Who Cares,Just A Feeling,cares,feeling,0.3076923076923077
+Who Knows Who Cares,Just A Feeling,cares,bad,0.3076923076923077
+Who Knows Who Cares,Just A Feeling,cares,manners,0.2857142857142857
+Who Knows Who Cares,Just A Feeling,gorilla,feeling,0.09523809523809523
+Who Knows Who Cares,Just A Feeling,gorilla,bad,0.09523809523809523
+Who Knows Who Cares,Just A Feeling,gorilla,manners,0.09090909090909091
+Who Knows Who Cares,Just A Feeling,manor,feeling,0.13333333333333333
+Who Knows Who Cares,Just A Feeling,manor,bad,0.13333333333333333
+Who Knows Who Cares,Just A Feeling,manor,manners,0.125
+Who Knows Who Cares,I Need To Know,knows,need,0.2857142857142857
+Who Knows Who Cares,I Need To Know,knows,know,1.0
+Who Knows Who Cares,I Need To Know,knows,nominees,0.13333333333333333
+Who Knows Who Cares,I Need To Know,knows,pop,0.10526315789473684
+Who Knows Who Cares,I Need To Know,cares,need,0.2857142857142857
+Who Knows Who Cares,I Need To Know,cares,know,0.375
+Who Knows Who Cares,I Need To Know,cares,nominees,0.13333333333333333
+Who Knows Who Cares,I Need To Know,cares,pop,0.10526315789473684
+Who Knows Who Cares,I Need To Know,gorilla,need,0.09090909090909091
+Who Knows Who Cares,I Need To Know,gorilla,know,0.08333333333333333
+Who Knows Who Cares,I Need To Know,gorilla,nominees,0.46153846153846156
+Who Knows Who Cares,I Need To Know,gorilla,pop,0.4
+Who Knows Who Cares,I Need To Know,manor,need,0.125
+Who Knows Who Cares,I Need To Know,manor,know,0.1111111111111111
+Who Knows Who Cares,I Need To Know,manor,nominees,0.4
+Who Knows Who Cares,I Need To Know,manor,pop,0.3333333333333333
+Who Knows Who Cares,Walkabout (Album Version),knows,album,0.125
+Who Knows Who Cares,Walkabout (Album Version),knows,version,0.25
+Who Knows Who Cares,Walkabout (Album Version),knows,walkabout,0.3
+Who Knows Who Cares,Walkabout (Album Version),knows,one,0.25
+Who Knows Who Cares,Walkabout (Album Version),knows,hot,0
+Who Knows Who Cares,Walkabout (Album Version),knows,minute,0.3076923076923077
+Who Knows Who Cares,Walkabout (Album Version),cares,album,0.125
+Who Knows Who Cares,Walkabout (Album Version),cares,version,0.25
+Who Knows Who Cares,Walkabout (Album Version),cares,walkabout,0.5
+Who Knows Who Cares,Walkabout (Album Version),cares,one,0.25
+Who Knows Who Cares,Walkabout (Album Version),cares,hot,0
+Who Knows Who Cares,Walkabout (Album Version),cares,minute,0.3076923076923077
+Who Knows Who Cares,Walkabout (Album Version),gorilla,album,0.3333333333333333
+Who Knows Who Cares,Walkabout (Album Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Walkabout (Album Version),gorilla,walkabout,0.07142857142857142
+Who Knows Who Cares,Walkabout (Album Version),gorilla,one,0.08333333333333333
+Who Knows Who Cares,Walkabout (Album Version),gorilla,hot,0
+Who Knows Who Cares,Walkabout (Album Version),gorilla,minute,0.09523809523809523
+Who Knows Who Cares,Walkabout (Album Version),manor,album,0.5555555555555556
+Who Knows Who Cares,Walkabout (Album Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Walkabout (Album Version),manor,walkabout,0.09090909090909091
+Who Knows Who Cares,Walkabout (Album Version),manor,one,0.1111111111111111
+Who Knows Who Cares,Walkabout (Album Version),manor,hot,0
+Who Knows Who Cares,Walkabout (Album Version),manor,minute,0.13333333333333333
+Who Knows Who Cares,Amor A La Mexicana (Original Version),knows,original,0.13333333333333333
+Who Knows Who Cares,Amor A La Mexicana (Original Version),knows,version,0.25
+Who Knows Who Cares,Amor A La Mexicana (Original Version),knows,mexican,0.11764705882352941
+Who Knows Who Cares,Amor A La Mexicana (Original Version),knows,love,0.26666666666666666
+Who Knows Who Cares,Amor A La Mexicana (Original Version),knows,mexican,0.11764705882352941
+Who Knows Who Cares,Amor A La Mexicana (Original Version),knows,love,0.26666666666666666
+Who Knows Who Cares,Amor A La Mexicana (Original Version),cares,original,0.13333333333333333
+Who Knows Who Cares,Amor A La Mexicana (Original Version),cares,version,0.25
+Who Knows Who Cares,Amor A La Mexicana (Original Version),cares,mexican,0.11764705882352941
+Who Knows Who Cares,Amor A La Mexicana (Original Version),cares,love,0.26666666666666666
+Who Knows Who Cares,Amor A La Mexicana (Original Version),cares,mexican,0.11764705882352941
+Who Knows Who Cares,Amor A La Mexicana (Original Version),cares,love,0.26666666666666666
+Who Knows Who Cares,Amor A La Mexicana (Original Version),gorilla,original,0.34782608695652173
+Who Knows Who Cares,Amor A La Mexicana (Original Version),gorilla,version,0.08333333333333333
+Who Knows Who Cares,Amor A La Mexicana (Original Version),gorilla,mexican,0.42857142857142855
+Who Knows Who Cares,Amor A La Mexicana (Original Version),gorilla,love,0.08695652173913043
+Who Knows Who Cares,Amor A La Mexicana (Original Version),gorilla,mexican,0.42857142857142855
+Who Knows Who Cares,Amor A La Mexicana (Original Version),gorilla,love,0.08695652173913043
+Who Knows Who Cares,Amor A La Mexicana (Original Version),manor,original,0.5882352941176471
+Who Knows Who Cares,Amor A La Mexicana (Original Version),manor,version,0.1111111111111111
+Who Knows Who Cares,Amor A La Mexicana (Original Version),manor,mexican,0.36363636363636365
+Who Knows Who Cares,Amor A La Mexicana (Original Version),manor,love,0.11764705882352941
+Who Knows Who Cares,Amor A La Mexicana (Original Version),manor,mexican,0.36363636363636365
+Who Knows Who Cares,Amor A La Mexicana (Original Version),manor,love,0.11764705882352941
+Quiet,Dog Days Are Over (Radio Edit),quiet,radio,0.19047619047619047
+Quiet,Dog Days Are Over (Radio Edit),quiet,edit,0
+Quiet,Dog Days Are Over (Radio Edit),quiet,dog,0.2
+Quiet,Dog Days Are Over (Radio Edit),quiet,days,0.1111111111111111
+Quiet,Dog Days Are Over (Radio Edit),quiet,call,0.19047619047619047
+Quiet,Dog Days Are Over (Radio Edit),quiet,music,0.125
+Quiet,Dog Days Are Over (Radio Edit),young,radio,0.4444444444444444
+Quiet,Dog Days Are Over (Radio Edit),young,edit,0
+Quiet,Dog Days Are Over (Radio Edit),young,dog,0.8235294117647058
+Quiet,Dog Days Are Over (Radio Edit),young,days,0.13333333333333333
+Quiet,Dog Days Are Over (Radio Edit),young,call,0.4444444444444444
+Quiet,Dog Days Are Over (Radio Edit),young,music,0.15384615384615385
+Quiet,Dog Days Are Over (Radio Edit),mountain,radio,0.375
+Quiet,Dog Days Are Over (Radio Edit),mountain,edit,0
+Quiet,Dog Days Are Over (Radio Edit),mountain,dog,0.4
+Quiet,Dog Days Are Over (Radio Edit),mountain,days,0.15384615384615385
+Quiet,Dog Days Are Over (Radio Edit),mountain,call,0.375
+Quiet,Dog Days Are Over (Radio Edit),mountain,music,0.18181818181818182
+Quiet,Sehr kosmisch,quiet,cosmic,0
+Quiet,Sehr kosmisch,quiet,music,0.125
+Quiet,Sehr kosmisch,young,cosmic,0
+Quiet,Sehr kosmisch,young,music,0.15384615384615385
+Quiet,Sehr kosmisch,mountain,cosmic,0
+Quiet,Sehr kosmisch,mountain,music,0.18181818181818182
+Quiet,Finale,quiet,final,0.10526315789473684
+Quiet,Finale,quiet,hit,0.1
+Quiet,Finale,quiet,wonders,0.1111111111111111
+Quiet,Finale,young,final,0.125
+Quiet,Finale,young,hit,0.11764705882352941
+Quiet,Finale,young,wonders,0.13333333333333333
+Quiet,Finale,mountain,final,0.14285714285714285
+Quiet,Finale,mountain,hit,0.13333333333333333
+Quiet,Finale,mountain,wonders,0.15384615384615385
+Quiet,Fireflies,quiet,fireflies,0.16666666666666666
+Quiet,Fireflies,quiet,karaoke,0.09523809523809523
+Quiet,Fireflies,quiet,monthly,0.17391304347826086
+Quiet,Fireflies,quiet,january,0.10526315789473684
+Quiet,Fireflies,young,fireflies,0.6666666666666666
+Quiet,Fireflies,young,karaoke,0.1111111111111111
+Quiet,Fireflies,young,monthly,0.4
+Quiet,Fireflies,young,january,0.125
+Quiet,Fireflies,mountain,fireflies,0.3157894736842105
+Quiet,Fireflies,mountain,karaoke,0.125
+Quiet,Fireflies,mountain,monthly,0.3333333333333333
+Quiet,Fireflies,mountain,january,0.14285714285714285
+Quiet,Secrets,quiet,secrets,0.11764705882352941
+Quiet,Secrets,quiet,waking,0.1
+Quiet,Secrets,young,secrets,0.14285714285714285
+Quiet,Secrets,young,waking,0.11764705882352941
+Quiet,Secrets,mountain,secrets,0.16666666666666666
+Quiet,Secrets,mountain,waking,0.13333333333333333
+Quiet,Arrasando,quiet,razing,0.10526315789473684
+Quiet,Arrasando,quiet,band,0.125
+Quiet,Arrasando,quiet,great,0.23529411764705882
+Quiet,Arrasando,quiet,successes,0.11764705882352941
+Quiet,Arrasando,quiet,thalia,0.09090909090909091
+Quiet,Arrasando,young,razing,0.125
+Quiet,Arrasando,young,band,0.15384615384615385
+Quiet,Arrasando,young,great,0.7058823529411765
+Quiet,Arrasando,young,successes,0.14285714285714285
+Quiet,Arrasando,young,thalia,0.10526315789473684
+Quiet,Arrasando,mountain,razing,0.14285714285714285
+Quiet,Arrasando,mountain,band,0.18181818181818182
+Quiet,Arrasando,mountain,great,0.42857142857142855
+Quiet,Arrasando,mountain,successes,0.16666666666666666
+Quiet,Arrasando,mountain,thalia,0.11764705882352941
+Quiet,Just A Feeling,quiet,feeling,0.125
+Quiet,Just A Feeling,quiet,bad,0.125
+Quiet,Just A Feeling,quiet,manners,0.11764705882352941
+Quiet,Just A Feeling,young,feeling,0.15384615384615385
+Quiet,Just A Feeling,young,bad,0.15384615384615385
+Quiet,Just A Feeling,young,manners,0.14285714285714285
+Quiet,Just A Feeling,mountain,feeling,0.18181818181818182
+Quiet,Just A Feeling,mountain,bad,0.18181818181818182
+Quiet,Just A Feeling,mountain,manners,0.16666666666666666
+Quiet,I Need To Know,quiet,need,0.11764705882352941
+Quiet,I Need To Know,quiet,know,0.10526315789473684
+Quiet,I Need To Know,quiet,nominees,0.2222222222222222
+Quiet,I Need To Know,quiet,pop,0.18181818181818182
+Quiet,I Need To Know,young,need,0.14285714285714285
+Quiet,I Need To Know,young,know,0.125
+Quiet,I Need To Know,young,nominees,0.6666666666666666
+Quiet,I Need To Know,young,pop,0.5454545454545454
+Quiet,I Need To Know,mountain,need,0.16666666666666666
+Quiet,I Need To Know,mountain,know,0.14285714285714285
+Quiet,I Need To Know,mountain,nominees,0.4
+Quiet,I Need To Know,mountain,pop,0.3157894736842105
+Quiet,Walkabout (Album Version),quiet,album,0.21052631578947367
+Quiet,Walkabout (Album Version),quiet,version,0.10526315789473684
+Quiet,Walkabout (Album Version),quiet,walkabout,0.08695652173913043
+Quiet,Walkabout (Album Version),quiet,one,0.10526315789473684
+Quiet,Walkabout (Album Version),quiet,hot,0
+Quiet,Walkabout (Album Version),quiet,minute,0.125
+Quiet,Walkabout (Album Version),young,album,0.5
+Quiet,Walkabout (Album Version),young,version,0.125
+Quiet,Walkabout (Album Version),young,walkabout,0.1
+Quiet,Walkabout (Album Version),young,one,0.125
+Quiet,Walkabout (Album Version),young,hot,0
+Quiet,Walkabout (Album Version),young,minute,0.15384615384615385
+Quiet,Walkabout (Album Version),mountain,album,0.42857142857142855
+Quiet,Walkabout (Album Version),mountain,version,0.14285714285714285
+Quiet,Walkabout (Album Version),mountain,walkabout,0.1111111111111111
+Quiet,Walkabout (Album Version),mountain,one,0.14285714285714285
+Quiet,Walkabout (Album Version),mountain,hot,0
+Quiet,Walkabout (Album Version),mountain,minute,0.18181818181818182
+Quiet,Amor A La Mexicana (Original Version),quiet,original,0.2222222222222222
+Quiet,Amor A La Mexicana (Original Version),quiet,version,0.10526315789473684
+Quiet,Amor A La Mexicana (Original Version),quiet,mexican,0.2
+Quiet,Amor A La Mexicana (Original Version),quiet,love,0.1111111111111111
+Quiet,Amor A La Mexicana (Original Version),quiet,mexican,0.2
+Quiet,Amor A La Mexicana (Original Version),quiet,love,0.1111111111111111
+Quiet,Amor A La Mexicana (Original Version),young,original,0.5333333333333333
+Quiet,Amor A La Mexicana (Original Version),young,version,0.125
+Quiet,Amor A La Mexicana (Original Version),young,mexican,0.6
+Quiet,Amor A La Mexicana (Original Version),young,love,0.13333333333333333
+Quiet,Amor A La Mexicana (Original Version),young,mexican,0.6
+Quiet,Amor A La Mexicana (Original Version),young,love,0.13333333333333333
+Quiet,Amor A La Mexicana (Original Version),mountain,original,0.46153846153846156
+Quiet,Amor A La Mexicana (Original Version),mountain,version,0.14285714285714285
+Quiet,Amor A La Mexicana (Original Version),mountain,mexican,0.35294117647058826
+Quiet,Amor A La Mexicana (Original Version),mountain,love,0.15384615384615385
+Quiet,Amor A La Mexicana (Original Version),mountain,mexican,0.35294117647058826
+Quiet,Amor A La Mexicana (Original Version),mountain,love,0.15384615384615385
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,radio,0.42105263157894735
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,edit,0
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,dog,0.6666666666666666
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,days,0.15384615384615385
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,call,0.42105263157894735
+Girlfriend,Dog Days Are Over (Radio Edit),girlfriend,music,0.18181818181818182
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,radio,0.2857142857142857
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,edit,0
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,dog,0.3
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,days,0.1111111111111111
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,call,0.2857142857142857
+Girlfriend,Dog Days Are Over (Radio Edit),phoenix,music,0.125
+Girlfriend,Sehr kosmisch,girlfriend,cosmic,0
+Girlfriend,Sehr kosmisch,girlfriend,music,0.18181818181818182
+Girlfriend,Sehr kosmisch,phoenix,cosmic,0
+Girlfriend,Sehr kosmisch,phoenix,music,0.125
+Girlfriend,Finale,girlfriend,final,0.14285714285714285
+Girlfriend,Finale,girlfriend,hit,0.13333333333333333
+Girlfriend,Finale,girlfriend,wonders,0.15384615384615385
+Girlfriend,Finale,phoenix,final,0.10526315789473684
+Girlfriend,Finale,phoenix,hit,0.1
+Girlfriend,Finale,phoenix,wonders,0.1111111111111111
+Girlfriend,Fireflies,girlfriend,fireflies,0.5454545454545454
+Girlfriend,Fireflies,girlfriend,karaoke,0.125
+Girlfriend,Fireflies,girlfriend,monthly,0.38095238095238093
+Girlfriend,Fireflies,girlfriend,january,0.14285714285714285
+Girlfriend,Fireflies,phoenix,fireflies,0.25
+Girlfriend,Fireflies,phoenix,karaoke,0.09523809523809523
+Girlfriend,Fireflies,phoenix,monthly,0.2608695652173913
+Girlfriend,Fireflies,phoenix,january,0.10526315789473684
+Girlfriend,Secrets,girlfriend,secrets,0.16666666666666666
+Girlfriend,Secrets,girlfriend,waking,0.13333333333333333
+Girlfriend,Secrets,phoenix,secrets,0.11764705882352941
+Girlfriend,Secrets,phoenix,waking,0.1
+Girlfriend,Arrasando,girlfriend,razing,0.14285714285714285
+Girlfriend,Arrasando,girlfriend,band,0.18181818181818182
+Girlfriend,Arrasando,girlfriend,great,0.6666666666666666
+Girlfriend,Arrasando,girlfriend,successes,0.16666666666666666
+Girlfriend,Arrasando,girlfriend,thalia,0.11764705882352941
+Girlfriend,Arrasando,phoenix,razing,0.10526315789473684
+Girlfriend,Arrasando,phoenix,band,0.125
+Girlfriend,Arrasando,phoenix,great,0.3157894736842105
+Girlfriend,Arrasando,phoenix,successes,0.11764705882352941
+Girlfriend,Arrasando,phoenix,thalia,0.09090909090909091
+Girlfriend,Just A Feeling,girlfriend,feeling,0.18181818181818182
+Girlfriend,Just A Feeling,girlfriend,bad,0.18181818181818182
+Girlfriend,Just A Feeling,girlfriend,manners,0.16666666666666666
+Girlfriend,Just A Feeling,phoenix,feeling,0.125
+Girlfriend,Just A Feeling,phoenix,bad,0.125
+Girlfriend,Just A Feeling,phoenix,manners,0.11764705882352941
+Girlfriend,I Need To Know,girlfriend,need,0.16666666666666666
+Girlfriend,I Need To Know,girlfriend,know,0.14285714285714285
+Girlfriend,I Need To Know,girlfriend,nominees,0.631578947368421
+Girlfriend,I Need To Know,girlfriend,pop,0.5217391304347826
+Girlfriend,I Need To Know,phoenix,need,0.11764705882352941
+Girlfriend,I Need To Know,phoenix,know,0.10526315789473684
+Girlfriend,I Need To Know,phoenix,nominees,0.3
+Girlfriend,I Need To Know,phoenix,pop,0.25
+Girlfriend,Walkabout (Album Version),girlfriend,album,0.47058823529411764
+Girlfriend,Walkabout (Album Version),girlfriend,version,0.14285714285714285
+Girlfriend,Walkabout (Album Version),girlfriend,walkabout,0.1111111111111111
+Girlfriend,Walkabout (Album Version),girlfriend,one,0.14285714285714285
+Girlfriend,Walkabout (Album Version),girlfriend,hot,0
+Girlfriend,Walkabout (Album Version),girlfriend,minute,0.18181818181818182
+Girlfriend,Walkabout (Album Version),phoenix,album,0.3157894736842105
+Girlfriend,Walkabout (Album Version),phoenix,version,0.10526315789473684
+Girlfriend,Walkabout (Album Version),phoenix,walkabout,0.08695652173913043
+Girlfriend,Walkabout (Album Version),phoenix,one,0.10526315789473684
+Girlfriend,Walkabout (Album Version),phoenix,hot,0
+Girlfriend,Walkabout (Album Version),phoenix,minute,0.125
+Girlfriend,Amor A La Mexicana (Original Version),girlfriend,original,0.5
+Girlfriend,Amor A La Mexicana (Original Version),girlfriend,version,0.14285714285714285
+Girlfriend,Amor A La Mexicana (Original Version),girlfriend,mexican,0.5714285714285714
+Girlfriend,Amor A La Mexicana (Original Version),girlfriend,love,0.15384615384615385
+Girlfriend,Amor A La Mexicana (Original Version),girlfriend,mexican,0.5714285714285714
+Girlfriend,Amor A La Mexicana (Original Version),girlfriend,love,0.15384615384615385
+Girlfriend,Amor A La Mexicana (Original Version),phoenix,original,0.3333333333333333
+Girlfriend,Amor A La Mexicana (Original Version),phoenix,version,0.10526315789473684
+Girlfriend,Amor A La Mexicana (Original Version),phoenix,mexican,0.2727272727272727
+Girlfriend,Amor A La Mexicana (Original Version),phoenix,love,0.1111111111111111
+Girlfriend,Amor A La Mexicana (Original Version),phoenix,mexican,0.2727272727272727
+Girlfriend,Amor A La Mexicana (Original Version),phoenix,love,0.1111111111111111
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,radio,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,edit,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,dog,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,days,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,call,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),together,music,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,radio,0.1111111111111111
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,edit,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,dog,0.11764705882352941
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,days,0.26666666666666666
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,call,0.1111111111111111
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),happiness,music,0.3076923076923077
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,radio,0.4444444444444444
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,edit,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,dog,0.8235294117647058
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,days,0.13333333333333333
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,call,0.4444444444444444
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),young,music,0.15384615384615385
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,radio,0.375
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,edit,0
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,dog,0.4
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,days,0.15384615384615385
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,call,0.375
+Happiness: We're All In It Together,Dog Days Are Over (Radio Edit),mountain,music,0.18181818181818182
+Happiness: We're All In It Together,Sehr kosmisch,together,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,together,music,0
+Happiness: We're All In It Together,Sehr kosmisch,happiness,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,happiness,music,0.3076923076923077
+Happiness: We're All In It Together,Sehr kosmisch,young,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,young,music,0.15384615384615385
+Happiness: We're All In It Together,Sehr kosmisch,mountain,cosmic,0
+Happiness: We're All In It Together,Sehr kosmisch,mountain,music,0.18181818181818182
+Happiness: We're All In It Together,Finale,together,final,0
+Happiness: We're All In It Together,Finale,together,hit,0
+Happiness: We're All In It Together,Finale,together,wonders,0
+Happiness: We're All In It Together,Finale,happiness,final,0.25
+Happiness: We're All In It Together,Finale,happiness,hit,0.23529411764705882
+Happiness: We're All In It Together,Finale,happiness,wonders,0.6666666666666666
+Happiness: We're All In It Together,Finale,young,final,0.125
+Happiness: We're All In It Together,Finale,young,hit,0.11764705882352941
+Happiness: We're All In It Together,Finale,young,wonders,0.13333333333333333
+Happiness: We're All In It Together,Finale,mountain,final,0.14285714285714285
+Happiness: We're All In It Together,Finale,mountain,hit,0.13333333333333333
+Happiness: We're All In It Together,Finale,mountain,wonders,0.15384615384615385
+Happiness: We're All In It Together,Fireflies,together,fireflies,0
+Happiness: We're All In It Together,Fireflies,together,karaoke,0
+Happiness: We're All In It Together,Fireflies,together,monthly,0
+Happiness: We're All In It Together,Fireflies,together,january,0
+Happiness: We're All In It Together,Fireflies,happiness,fireflies,0.09523809523809523
+Happiness: We're All In It Together,Fireflies,happiness,karaoke,0.2222222222222222
+Happiness: We're All In It Together,Fireflies,happiness,monthly,0.1
+Happiness: We're All In It Together,Fireflies,happiness,january,0.25
+Happiness: We're All In It Together,Fireflies,young,fireflies,0.6666666666666666
+Happiness: We're All In It Together,Fireflies,young,karaoke,0.1111111111111111
+Happiness: We're All In It Together,Fireflies,young,monthly,0.4
+Happiness: We're All In It Together,Fireflies,young,january,0.125
+Happiness: We're All In It Together,Fireflies,mountain,fireflies,0.3157894736842105
+Happiness: We're All In It Together,Fireflies,mountain,karaoke,0.125
+Happiness: We're All In It Together,Fireflies,mountain,monthly,0.3333333333333333
+Happiness: We're All In It Together,Fireflies,mountain,january,0.14285714285714285
+Happiness: We're All In It Together,Secrets,together,secrets,0
+Happiness: We're All In It Together,Secrets,together,waking,0
+Happiness: We're All In It Together,Secrets,happiness,secrets,0.2857142857142857
+Happiness: We're All In It Together,Secrets,happiness,waking,0.47058823529411764
+Happiness: We're All In It Together,Secrets,young,secrets,0.14285714285714285
+Happiness: We're All In It Together,Secrets,young,waking,0.11764705882352941
+Happiness: We're All In It Together,Secrets,mountain,secrets,0.16666666666666666
+Happiness: We're All In It Together,Secrets,mountain,waking,0.13333333333333333
+Happiness: We're All In It Together,Arrasando,together,razing,0
+Happiness: We're All In It Together,Arrasando,together,band,0
+Happiness: We're All In It Together,Arrasando,together,great,0
+Happiness: We're All In It Together,Arrasando,together,successes,0
+Happiness: We're All In It Together,Arrasando,together,thalia,0
+Happiness: We're All In It Together,Arrasando,happiness,razing,0.25
+Happiness: We're All In It Together,Arrasando,happiness,band,0.3076923076923077
+Happiness: We're All In It Together,Arrasando,happiness,great,0.14285714285714285
+Happiness: We're All In It Together,Arrasando,happiness,successes,0.2857142857142857
+Happiness: We're All In It Together,Arrasando,happiness,thalia,0.21052631578947367
+Happiness: We're All In It Together,Arrasando,young,razing,0.125
+Happiness: We're All In It Together,Arrasando,young,band,0.15384615384615385
+Happiness: We're All In It Together,Arrasando,young,great,0.7058823529411765
+Happiness: We're All In It Together,Arrasando,young,successes,0.14285714285714285
+Happiness: We're All In It Together,Arrasando,young,thalia,0.10526315789473684
+Happiness: We're All In It Together,Arrasando,mountain,razing,0.14285714285714285
+Happiness: We're All In It Together,Arrasando,mountain,band,0.18181818181818182
+Happiness: We're All In It Together,Arrasando,mountain,great,0.42857142857142855
+Happiness: We're All In It Together,Arrasando,mountain,successes,0.16666666666666666
+Happiness: We're All In It Together,Arrasando,mountain,thalia,0.11764705882352941
+Happiness: We're All In It Together,Just A Feeling,together,feeling,0
+Happiness: We're All In It Together,Just A Feeling,together,bad,0
+Happiness: We're All In It Together,Just A Feeling,together,manners,0
+Happiness: We're All In It Together,Just A Feeling,happiness,feeling,0.7692307692307693
+Happiness: We're All In It Together,Just A Feeling,happiness,bad,0.46153846153846156
+Happiness: We're All In It Together,Just A Feeling,happiness,manners,0.42857142857142855
+Happiness: We're All In It Together,Just A Feeling,young,feeling,0.15384615384615385
+Happiness: We're All In It Together,Just A Feeling,young,bad,0.15384615384615385
+Happiness: We're All In It Together,Just A Feeling,young,manners,0.14285714285714285
+Happiness: We're All In It Together,Just A Feeling,mountain,feeling,0.18181818181818182
+Happiness: We're All In It Together,Just A Feeling,mountain,bad,0.18181818181818182
+Happiness: We're All In It Together,Just A Feeling,mountain,manners,0.16666666666666666
+Happiness: We're All In It Together,I Need To Know,together,need,0
+Happiness: We're All In It Together,I Need To Know,together,know,0
+Happiness: We're All In It Together,I Need To Know,together,nominees,0
+Happiness: We're All In It Together,I Need To Know,together,pop,0
+Happiness: We're All In It Together,I Need To Know,happiness,need,0.5714285714285714
+Happiness: We're All In It Together,I Need To Know,happiness,know,0.25
+Happiness: We're All In It Together,I Need To Know,happiness,nominees,0.13333333333333333
+Happiness: We're All In It Together,I Need To Know,happiness,pop,0.10526315789473684
+Happiness: We're All In It Together,I Need To Know,young,need,0.14285714285714285
+Happiness: We're All In It Together,I Need To Know,young,know,0.125
+Happiness: We're All In It Together,I Need To Know,young,nominees,0.6666666666666666
+Happiness: We're All In It Together,I Need To Know,young,pop,0.5454545454545454
+Happiness: We're All In It Together,I Need To Know,mountain,need,0.16666666666666666
+Happiness: We're All In It Together,I Need To Know,mountain,know,0.14285714285714285
+Happiness: We're All In It Together,I Need To Know,mountain,nominees,0.4
+Happiness: We're All In It Together,I Need To Know,mountain,pop,0.3157894736842105
+Happiness: We're All In It Together,Walkabout (Album Version),together,album,0
+Happiness: We're All In It Together,Walkabout (Album Version),together,version,0
+Happiness: We're All In It Together,Walkabout (Album Version),together,walkabout,0
+Happiness: We're All In It Together,Walkabout (Album Version),together,one,0
+Happiness: We're All In It Together,Walkabout (Album Version),together,hot,0
+Happiness: We're All In It Together,Walkabout (Album Version),together,minute,0
+Happiness: We're All In It Together,Walkabout (Album Version),happiness,album,0.125
+Happiness: We're All In It Together,Walkabout (Album Version),happiness,version,0.25
+Happiness: We're All In It Together,Walkabout (Album Version),happiness,walkabout,0.2
+Happiness: We're All In It Together,Walkabout (Album Version),happiness,one,0.25
+Happiness: We're All In It Together,Walkabout (Album Version),happiness,hot,0
+Happiness: We're All In It Together,Walkabout (Album Version),happiness,minute,0.3076923076923077
+Happiness: We're All In It Together,Walkabout (Album Version),young,album,0.5
+Happiness: We're All In It Together,Walkabout (Album Version),young,version,0.125
+Happiness: We're All In It Together,Walkabout (Album Version),young,walkabout,0.1
+Happiness: We're All In It Together,Walkabout (Album Version),young,one,0.125
+Happiness: We're All In It Together,Walkabout (Album Version),young,hot,0
+Happiness: We're All In It Together,Walkabout (Album Version),young,minute,0.15384615384615385
+Happiness: We're All In It Together,Walkabout (Album Version),mountain,album,0.42857142857142855
+Happiness: We're All In It Together,Walkabout (Album Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Walkabout (Album Version),mountain,walkabout,0.1111111111111111
+Happiness: We're All In It Together,Walkabout (Album Version),mountain,one,0.14285714285714285
+Happiness: We're All In It Together,Walkabout (Album Version),mountain,hot,0
+Happiness: We're All In It Together,Walkabout (Album Version),mountain,minute,0.18181818181818182
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),together,original,0
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),together,version,0
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),together,mexican,0
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),together,love,0
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),together,mexican,0
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),together,love,0
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),happiness,original,0.13333333333333333
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),happiness,version,0.25
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),happiness,mexican,0.11764705882352941
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),happiness,love,0.8
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),happiness,mexican,0.11764705882352941
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),happiness,love,0.8
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),young,original,0.5333333333333333
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),young,version,0.125
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),young,mexican,0.6
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),young,love,0.13333333333333333
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),young,mexican,0.6
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),young,love,0.13333333333333333
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),mountain,original,0.46153846153846156
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),mountain,version,0.14285714285714285
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),mountain,mexican,0.35294117647058826
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),mountain,love,0.15384615384615385
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),mountain,mexican,0.35294117647058826
+Happiness: We're All In It Together,Amor A La Mexicana (Original Version),mountain,love,0.15384615384615385
+Armistice,Dog Days Are Over (Radio Edit),armistice,radio,0.11764705882352941
+Armistice,Dog Days Are Over (Radio Edit),armistice,edit,0
+Armistice,Dog Days Are Over (Radio Edit),armistice,dog,0.125
+Armistice,Dog Days Are Over (Radio Edit),armistice,days,0.2857142857142857
+Armistice,Dog Days Are Over (Radio Edit),armistice,call,0.11764705882352941
+Armistice,Dog Days Are Over (Radio Edit),armistice,music,0.3333333333333333
+Armistice,Dog Days Are Over (Radio Edit),phoenix,radio,0.2857142857142857
+Armistice,Dog Days Are Over (Radio Edit),phoenix,edit,0
+Armistice,Dog Days Are Over (Radio Edit),phoenix,dog,0.3
+Armistice,Dog Days Are Over (Radio Edit),phoenix,days,0.1111111111111111
+Armistice,Dog Days Are Over (Radio Edit),phoenix,call,0.2857142857142857
+Armistice,Dog Days Are Over (Radio Edit),phoenix,music,0.125
+Armistice,Sehr kosmisch,armistice,cosmic,0
+Armistice,Sehr kosmisch,armistice,music,0.3333333333333333
+Armistice,Sehr kosmisch,phoenix,cosmic,0
+Armistice,Sehr kosmisch,phoenix,music,0.125
+Armistice,Finale,armistice,final,0.26666666666666666
+Armistice,Finale,armistice,hit,0.25
+Armistice,Finale,armistice,wonders,0.5714285714285714
+Armistice,Finale,phoenix,final,0.10526315789473684
+Armistice,Finale,phoenix,hit,0.1
+Armistice,Finale,phoenix,wonders,0.1111111111111111
+Armistice,Fireflies,armistice,fireflies,0.1
+Armistice,Fireflies,armistice,karaoke,0.23529411764705882
+Armistice,Fireflies,armistice,monthly,0.10526315789473684
+Armistice,Fireflies,armistice,january,0.26666666666666666
+Armistice,Fireflies,phoenix,fireflies,0.25
+Armistice,Fireflies,phoenix,karaoke,0.09523809523809523
+Armistice,Fireflies,phoenix,monthly,0.2608695652173913
+Armistice,Fireflies,phoenix,january,0.10526315789473684
+Armistice,Secrets,armistice,secrets,0.3076923076923077
+Armistice,Secrets,armistice,waking,0.5
+Armistice,Secrets,phoenix,secrets,0.11764705882352941
+Armistice,Secrets,phoenix,waking,0.1
+Armistice,Arrasando,armistice,razing,0.26666666666666666
+Armistice,Arrasando,armistice,band,0.3333333333333333
+Armistice,Arrasando,armistice,great,0.15384615384615385
+Armistice,Arrasando,armistice,successes,0.3076923076923077
+Armistice,Arrasando,armistice,thalia,0.2222222222222222
+Armistice,Arrasando,phoenix,razing,0.10526315789473684
+Armistice,Arrasando,phoenix,band,0.125
+Armistice,Arrasando,phoenix,great,0.3157894736842105
+Armistice,Arrasando,phoenix,successes,0.11764705882352941
+Armistice,Arrasando,phoenix,thalia,0.09090909090909091
+Armistice,Just A Feeling,armistice,feeling,0.6666666666666666
+Armistice,Just A Feeling,armistice,bad,0.5
+Armistice,Just A Feeling,armistice,manners,0.46153846153846156
+Armistice,Just A Feeling,phoenix,feeling,0.125
+Armistice,Just A Feeling,phoenix,bad,0.125
+Armistice,Just A Feeling,phoenix,manners,0.11764705882352941
+Armistice,I Need To Know,armistice,need,0.6153846153846154
+Armistice,I Need To Know,armistice,know,0.26666666666666666
+Armistice,I Need To Know,armistice,nominees,0.14285714285714285
+Armistice,I Need To Know,armistice,pop,0.1111111111111111
+Armistice,I Need To Know,phoenix,need,0.11764705882352941
+Armistice,I Need To Know,phoenix,know,0.10526315789473684
+Armistice,I Need To Know,phoenix,nominees,0.3
+Armistice,I Need To Know,phoenix,pop,0.25
+Armistice,Walkabout (Album Version),armistice,album,0.13333333333333333
+Armistice,Walkabout (Album Version),armistice,version,0.26666666666666666
+Armistice,Walkabout (Album Version),armistice,walkabout,0.21052631578947367
+Armistice,Walkabout (Album Version),armistice,one,0.26666666666666666
+Armistice,Walkabout (Album Version),armistice,hot,0
+Armistice,Walkabout (Album Version),armistice,minute,0.3333333333333333
+Armistice,Walkabout (Album Version),phoenix,album,0.3157894736842105
+Armistice,Walkabout (Album Version),phoenix,version,0.10526315789473684
+Armistice,Walkabout (Album Version),phoenix,walkabout,0.08695652173913043
+Armistice,Walkabout (Album Version),phoenix,one,0.10526315789473684
+Armistice,Walkabout (Album Version),phoenix,hot,0
+Armistice,Walkabout (Album Version),phoenix,minute,0.125
+Armistice,Amor A La Mexicana (Original Version),armistice,original,0.14285714285714285
+Armistice,Amor A La Mexicana (Original Version),armistice,version,0.26666666666666666
+Armistice,Amor A La Mexicana (Original Version),armistice,mexican,0.125
+Armistice,Amor A La Mexicana (Original Version),armistice,love,0.5714285714285714
+Armistice,Amor A La Mexicana (Original Version),armistice,mexican,0.125
+Armistice,Amor A La Mexicana (Original Version),armistice,love,0.5714285714285714
+Armistice,Amor A La Mexicana (Original Version),phoenix,original,0.3333333333333333
+Armistice,Amor A La Mexicana (Original Version),phoenix,version,0.10526315789473684
+Armistice,Amor A La Mexicana (Original Version),phoenix,mexican,0.2727272727272727
+Armistice,Amor A La Mexicana (Original Version),phoenix,love,0.1111111111111111
+Armistice,Amor A La Mexicana (Original Version),phoenix,mexican,0.2727272727272727
+Armistice,Amor A La Mexicana (Original Version),phoenix,love,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,radio,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,dog,0.1
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,days,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,call,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),remedies,music,0.25
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,radio,0.125
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,dog,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,days,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,call,0.125
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),worse,music,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,radio,0.1
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,dog,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,days,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,call,0.1
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),disease,music,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,radio,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,dog,0.8235294117647058
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,days,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,call,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),young,music,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,radio,0.375
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,edit,0
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,dog,0.4
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,days,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,call,0.375
+There Are Some Remedies Worse Than The Disease,Dog Days Are Over (Radio Edit),mountain,music,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,remedies,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,remedies,music,0.25
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,worse,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,worse,music,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,disease,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,disease,music,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,young,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,young,music,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,mountain,cosmic,0
+There Are Some Remedies Worse Than The Disease,Sehr kosmisch,mountain,music,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Finale,remedies,final,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Finale,remedies,hit,0.6
+There Are Some Remedies Worse Than The Disease,Finale,remedies,wonders,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Finale,worse,final,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Finale,worse,hit,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Finale,worse,wonders,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Finale,disease,final,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Finale,disease,hit,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Finale,disease,wonders,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Finale,young,final,0.125
+There Are Some Remedies Worse Than The Disease,Finale,young,hit,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Finale,young,wonders,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Finale,mountain,final,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Finale,mountain,hit,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Finale,mountain,wonders,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Fireflies,remedies,fireflies,0.08333333333333333
+There Are Some Remedies Worse Than The Disease,Fireflies,remedies,karaoke,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,Fireflies,remedies,monthly,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Fireflies,remedies,january,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Fireflies,worse,fireflies,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Fireflies,worse,karaoke,0.25
+There Are Some Remedies Worse Than The Disease,Fireflies,worse,monthly,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Fireflies,worse,january,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Fireflies,disease,fireflies,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,Fireflies,disease,karaoke,0.2
+There Are Some Remedies Worse Than The Disease,Fireflies,disease,monthly,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Fireflies,disease,january,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Fireflies,young,fireflies,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Fireflies,young,karaoke,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Fireflies,young,monthly,0.4
+There Are Some Remedies Worse Than The Disease,Fireflies,young,january,0.125
+There Are Some Remedies Worse Than The Disease,Fireflies,mountain,fireflies,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Fireflies,mountain,karaoke,0.125
+There Are Some Remedies Worse Than The Disease,Fireflies,mountain,monthly,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Fireflies,mountain,january,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Secrets,remedies,secrets,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Secrets,remedies,waking,0.2
+There Are Some Remedies Worse Than The Disease,Secrets,worse,secrets,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Secrets,worse,waking,0.4
+There Are Some Remedies Worse Than The Disease,Secrets,disease,secrets,0.25
+There Are Some Remedies Worse Than The Disease,Secrets,disease,waking,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Secrets,young,secrets,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Secrets,young,waking,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Secrets,mountain,secrets,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Secrets,mountain,waking,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Arrasando,remedies,razing,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Arrasando,remedies,band,0.25
+There Are Some Remedies Worse Than The Disease,Arrasando,remedies,great,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Arrasando,remedies,successes,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Arrasando,remedies,thalia,0.2727272727272727
+There Are Some Remedies Worse Than The Disease,Arrasando,worse,razing,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Arrasando,worse,band,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Arrasando,worse,great,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Arrasando,worse,successes,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Arrasando,worse,thalia,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Arrasando,disease,razing,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Arrasando,disease,band,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Arrasando,disease,great,0.125
+There Are Some Remedies Worse Than The Disease,Arrasando,disease,successes,0.25
+There Are Some Remedies Worse Than The Disease,Arrasando,disease,thalia,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Arrasando,young,razing,0.125
+There Are Some Remedies Worse Than The Disease,Arrasando,young,band,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Arrasando,young,great,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Arrasando,young,successes,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Arrasando,young,thalia,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Arrasando,mountain,razing,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Arrasando,mountain,band,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Arrasando,mountain,great,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Arrasando,mountain,successes,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Arrasando,mountain,thalia,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Just A Feeling,remedies,feeling,0.25
+There Are Some Remedies Worse Than The Disease,Just A Feeling,remedies,bad,0.25
+There Are Some Remedies Worse Than The Disease,Just A Feeling,remedies,manners,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Just A Feeling,worse,feeling,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Just A Feeling,worse,bad,0.9090909090909091
+There Are Some Remedies Worse Than The Disease,Just A Feeling,worse,manners,0.5
+There Are Some Remedies Worse Than The Disease,Just A Feeling,disease,feeling,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Just A Feeling,disease,bad,0.4
+There Are Some Remedies Worse Than The Disease,Just A Feeling,disease,manners,0.375
+There Are Some Remedies Worse Than The Disease,Just A Feeling,young,feeling,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Just A Feeling,young,bad,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Just A Feeling,young,manners,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Just A Feeling,mountain,feeling,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Just A Feeling,mountain,bad,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Just A Feeling,mountain,manners,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,I Need To Know,remedies,need,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,I Need To Know,remedies,know,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,I Need To Know,remedies,nominees,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,I Need To Know,remedies,pop,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,I Need To Know,worse,need,0.5
+There Are Some Remedies Worse Than The Disease,I Need To Know,worse,know,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,I Need To Know,worse,nominees,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,I Need To Know,worse,pop,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I Need To Know,disease,need,0.625
+There Are Some Remedies Worse Than The Disease,I Need To Know,disease,know,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,I Need To Know,disease,nominees,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I Need To Know,disease,pop,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,I Need To Know,young,need,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I Need To Know,young,know,0.125
+There Are Some Remedies Worse Than The Disease,I Need To Know,young,nominees,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,I Need To Know,young,pop,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,I Need To Know,mountain,need,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,I Need To Know,mountain,know,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I Need To Know,mountain,nominees,0.4
+There Are Some Remedies Worse Than The Disease,I Need To Know,mountain,pop,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),remedies,album,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),remedies,walkabout,0.6086956521739131
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),remedies,one,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),remedies,hot,0
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),remedies,minute,0.25
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),worse,album,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),worse,walkabout,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),worse,one,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),worse,hot,0
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),worse,minute,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),disease,album,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),disease,walkabout,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),disease,one,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),disease,hot,0
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),disease,minute,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),young,album,0.5
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),young,walkabout,0.1
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),young,one,0.125
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),young,hot,0
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),young,minute,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),mountain,album,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),mountain,walkabout,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),mountain,one,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),mountain,hot,0
+There Are Some Remedies Worse Than The Disease,Walkabout (Album Version),mountain,minute,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),remedies,original,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),remedies,version,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),remedies,mexican,0.1
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),remedies,love,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),remedies,mexican,0.1
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),remedies,love,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),worse,original,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),worse,version,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),worse,mexican,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),worse,love,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),worse,mexican,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),worse,love,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),disease,original,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),disease,version,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),disease,mexican,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),disease,love,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),disease,mexican,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),disease,love,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),young,original,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),young,version,0.125
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),young,mexican,0.6
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),young,love,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),young,mexican,0.6
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),young,love,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),mountain,original,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),mountain,version,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),mountain,mexican,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),mountain,love,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),mountain,mexican,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Amor A La Mexicana (Original Version),mountain,love,0.15384615384615385
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,radio,0.1
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,edit,0
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,dog,0.10526315789473684
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,days,0.23529411764705882
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,call,0.1
+Swimming In The Flood,Dog Days Are Over (Radio Edit),swimming,music,0.26666666666666666
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,radio,0.23529411764705882
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,edit,0
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,dog,0.25
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,days,0.14285714285714285
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,call,0.23529411764705882
+Swimming In The Flood,Dog Days Are Over (Radio Edit),flood,music,0.16666666666666666
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,radio,0.125
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,edit,0
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,dog,0.13333333333333333
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,days,0.3076923076923077
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,call,0.125
+Swimming In The Flood,Dog Days Are Over (Radio Edit),manners,music,0.36363636363636365
+Swimming In The Flood,Sehr kosmisch,swimming,cosmic,0
+Swimming In The Flood,Sehr kosmisch,swimming,music,0.26666666666666666
+Swimming In The Flood,Sehr kosmisch,flood,cosmic,0
+Swimming In The Flood,Sehr kosmisch,flood,music,0.16666666666666666
+Swimming In The Flood,Sehr kosmisch,manners,cosmic,0
+Swimming In The Flood,Sehr kosmisch,manners,music,0.36363636363636365
+Swimming In The Flood,Finale,swimming,final,0.4444444444444444
+Swimming In The Flood,Finale,swimming,hit,0.5263157894736842
+Swimming In The Flood,Finale,swimming,wonders,0.23529411764705882
+Swimming In The Flood,Finale,flood,final,0.13333333333333333
+Swimming In The Flood,Finale,flood,hit,0.125
+Swimming In The Flood,Finale,flood,wonders,0.14285714285714285
+Swimming In The Flood,Finale,manners,final,0.2857142857142857
+Swimming In The Flood,Finale,manners,hit,0.26666666666666666
+Swimming In The Flood,Finale,manners,wonders,0.46153846153846156
+Swimming In The Flood,Fireflies,swimming,fireflies,0.08695652173913043
+Swimming In The Flood,Fireflies,swimming,karaoke,0.6363636363636364
+Swimming In The Flood,Fireflies,swimming,monthly,0.09090909090909091
+Swimming In The Flood,Fireflies,swimming,january,0.2222222222222222
+Swimming In The Flood,Fireflies,flood,fireflies,0.2
+Swimming In The Flood,Fireflies,flood,karaoke,0.11764705882352941
+Swimming In The Flood,Fireflies,flood,monthly,0.21052631578947367
+Swimming In The Flood,Fireflies,flood,january,0.13333333333333333
+Swimming In The Flood,Fireflies,manners,fireflies,0.10526315789473684
+Swimming In The Flood,Fireflies,manners,karaoke,0.25
+Swimming In The Flood,Fireflies,manners,monthly,0.1111111111111111
+Swimming In The Flood,Fireflies,manners,january,0.2857142857142857
+Swimming In The Flood,Secrets,swimming,secrets,0.25
+Swimming In The Flood,Secrets,swimming,waking,0.21052631578947367
+Swimming In The Flood,Secrets,flood,secrets,0.15384615384615385
+Swimming In The Flood,Secrets,flood,waking,0.125
+Swimming In The Flood,Secrets,manners,secrets,0.3333333333333333
+Swimming In The Flood,Secrets,manners,waking,0.4
+Swimming In The Flood,Arrasando,swimming,razing,0.4444444444444444
+Swimming In The Flood,Arrasando,swimming,band,0.26666666666666666
+Swimming In The Flood,Arrasando,swimming,great,0.125
+Swimming In The Flood,Arrasando,swimming,successes,0.5
+Swimming In The Flood,Arrasando,swimming,thalia,0.2857142857142857
+Swimming In The Flood,Arrasando,flood,razing,0.13333333333333333
+Swimming In The Flood,Arrasando,flood,band,0.16666666666666666
+Swimming In The Flood,Arrasando,flood,great,0.3076923076923077
+Swimming In The Flood,Arrasando,flood,successes,0.15384615384615385
+Swimming In The Flood,Arrasando,flood,thalia,0.1111111111111111
+Swimming In The Flood,Arrasando,manners,razing,0.2857142857142857
+Swimming In The Flood,Arrasando,manners,band,0.36363636363636365
+Swimming In The Flood,Arrasando,manners,great,0.16666666666666666
+Swimming In The Flood,Arrasando,manners,successes,0.3333333333333333
+Swimming In The Flood,Arrasando,manners,thalia,0.23529411764705882
+Swimming In The Flood,Just A Feeling,swimming,feeling,0.26666666666666666
+Swimming In The Flood,Just A Feeling,swimming,bad,0.26666666666666666
+Swimming In The Flood,Just A Feeling,swimming,manners,0.25
+Swimming In The Flood,Just A Feeling,flood,feeling,0.16666666666666666
+Swimming In The Flood,Just A Feeling,flood,bad,0.16666666666666666
+Swimming In The Flood,Just A Feeling,flood,manners,0.15384615384615385
+Swimming In The Flood,Just A Feeling,manners,feeling,0.5454545454545454
+Swimming In The Flood,Just A Feeling,manners,bad,0.5454545454545454
+Swimming In The Flood,Just A Feeling,manners,manners,1.0
+Swimming In The Flood,I Need To Know,swimming,need,0.25
+Swimming In The Flood,I Need To Know,swimming,know,0.3333333333333333
+Swimming In The Flood,I Need To Know,swimming,nominees,0.11764705882352941
+Swimming In The Flood,I Need To Know,swimming,pop,0.09523809523809523
+Swimming In The Flood,I Need To Know,flood,need,0.15384615384615385
+Swimming In The Flood,I Need To Know,flood,know,0.13333333333333333
+Swimming In The Flood,I Need To Know,flood,nominees,0.2857142857142857
+Swimming In The Flood,I Need To Know,flood,pop,0.2222222222222222
+Swimming In The Flood,I Need To Know,manners,need,0.5
+Swimming In The Flood,I Need To Know,manners,know,0.2857142857142857
+Swimming In The Flood,I Need To Know,manners,nominees,0.15384615384615385
+Swimming In The Flood,I Need To Know,manners,pop,0.11764705882352941
+Swimming In The Flood,Walkabout (Album Version),swimming,album,0.1111111111111111
+Swimming In The Flood,Walkabout (Album Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Walkabout (Album Version),swimming,walkabout,0.45454545454545453
+Swimming In The Flood,Walkabout (Album Version),swimming,one,0.2222222222222222
+Swimming In The Flood,Walkabout (Album Version),swimming,hot,0
+Swimming In The Flood,Walkabout (Album Version),swimming,minute,0.26666666666666666
+Swimming In The Flood,Walkabout (Album Version),flood,album,0.26666666666666666
+Swimming In The Flood,Walkabout (Album Version),flood,version,0.13333333333333333
+Swimming In The Flood,Walkabout (Album Version),flood,walkabout,0.10526315789473684
+Swimming In The Flood,Walkabout (Album Version),flood,one,0.13333333333333333
+Swimming In The Flood,Walkabout (Album Version),flood,hot,0
+Swimming In The Flood,Walkabout (Album Version),flood,minute,0.16666666666666666
+Swimming In The Flood,Walkabout (Album Version),manners,album,0.14285714285714285
+Swimming In The Flood,Walkabout (Album Version),manners,version,0.2857142857142857
+Swimming In The Flood,Walkabout (Album Version),manners,walkabout,0.2222222222222222
+Swimming In The Flood,Walkabout (Album Version),manners,one,0.2857142857142857
+Swimming In The Flood,Walkabout (Album Version),manners,hot,0
+Swimming In The Flood,Walkabout (Album Version),manners,minute,0.36363636363636365
+Swimming In The Flood,Amor A La Mexicana (Original Version),swimming,original,0.11764705882352941
+Swimming In The Flood,Amor A La Mexicana (Original Version),swimming,version,0.2222222222222222
+Swimming In The Flood,Amor A La Mexicana (Original Version),swimming,mexican,0.10526315789473684
+Swimming In The Flood,Amor A La Mexicana (Original Version),swimming,love,0.23529411764705882
+Swimming In The Flood,Amor A La Mexicana (Original Version),swimming,mexican,0.10526315789473684
+Swimming In The Flood,Amor A La Mexicana (Original Version),swimming,love,0.23529411764705882
+Swimming In The Flood,Amor A La Mexicana (Original Version),flood,original,0.2857142857142857
+Swimming In The Flood,Amor A La Mexicana (Original Version),flood,version,0.13333333333333333
+Swimming In The Flood,Amor A La Mexicana (Original Version),flood,mexican,0.25
+Swimming In The Flood,Amor A La Mexicana (Original Version),flood,love,0.14285714285714285
+Swimming In The Flood,Amor A La Mexicana (Original Version),flood,mexican,0.25
+Swimming In The Flood,Amor A La Mexicana (Original Version),flood,love,0.14285714285714285
+Swimming In The Flood,Amor A La Mexicana (Original Version),manners,original,0.15384615384615385
+Swimming In The Flood,Amor A La Mexicana (Original Version),manners,version,0.2857142857142857
+Swimming In The Flood,Amor A La Mexicana (Original Version),manners,mexican,0.13333333333333333
+Swimming In The Flood,Amor A La Mexicana (Original Version),manners,love,0.46153846153846156
+Swimming In The Flood,Amor A La Mexicana (Original Version),manners,mexican,0.13333333333333333
+Swimming In The Flood,Amor A La Mexicana (Original Version),manners,love,0.46153846153846156

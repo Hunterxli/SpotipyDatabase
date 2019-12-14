@@ -1,0 +1,2729 @@
+the_first_song,the_second_song,word1,word2,result
+Swallowed In The Sea,Boy's No Good,swallowed,good,0.18181818181818182
+Swallowed In The Sea,Boy's No Good,swallowed,boy,0.18181818181818182
+Swallowed In The Sea,Boy's No Good,swallowed,one,0.16666666666666666
+Swallowed In The Sea,Boy's No Good,swallowed,audience,0.2
+Swallowed In The Sea,Boy's No Good,sea,good,0.16666666666666666
+Swallowed In The Sea,Boy's No Good,sea,boy,0.36363636363636365
+Swallowed In The Sea,Boy's No Good,sea,one,0.15384615384615385
+Swallowed In The Sea,Boy's No Good,sea,audience,0.18181818181818182
+Swallowed In The Sea,Boy's No Good,x,good,0.26666666666666666
+Swallowed In The Sea,Boy's No Good,x,boy,0.14285714285714285
+Swallowed In The Sea,Boy's No Good,x,one,0.75
+Swallowed In The Sea,Boy's No Good,x,audience,0.2857142857142857
+Swallowed In The Sea,Entertainment,swallowed,entertainment,0.16666666666666666
+Swallowed In The Sea,Entertainment,swallowed,reason,0.2
+Swallowed In The Sea,Entertainment,swallowed,appeal,0.16666666666666666
+Swallowed In The Sea,Entertainment,sea,entertainment,0.15384615384615385
+Swallowed In The Sea,Entertainment,sea,reason,0.18181818181818182
+Swallowed In The Sea,Entertainment,sea,appeal,0.15384615384615385
+Swallowed In The Sea,Entertainment,x,entertainment,0.25
+Swallowed In The Sea,Entertainment,x,reason,0.2857142857142857
+Swallowed In The Sea,Entertainment,x,appeal,0.25
+Swallowed In The Sea,The Art Of Losing,swallowed,losing,0.4
+Swallowed In The Sea,The Art Of Losing,swallowed,art,0.18181818181818182
+Swallowed In The Sea,The Art Of Losing,swallowed,unraveling,0.25
+Swallowed In The Sea,The Art Of Losing,sea,losing,0
+Swallowed In The Sea,The Art Of Losing,sea,art,0.3333333333333333
+Swallowed In The Sea,The Art Of Losing,sea,unraveling,0
+Swallowed In The Sea,The Art Of Losing,x,losing,0
+Swallowed In The Sea,The Art Of Losing,x,art,0.13333333333333333
+Swallowed In The Sea,The Art Of Losing,x,unraveling,0
+Swallowed In The Sea,But Tonight We Dance,swallowed,tonight,0.2
+Swallowed In The Sea,But Tonight We Dance,swallowed,dance,0.16666666666666666
+Swallowed In The Sea,But Tonight We Dance,swallowed,noise,0.18181818181818182
+Swallowed In The Sea,But Tonight We Dance,sea,tonight,0.18181818181818182
+Swallowed In The Sea,But Tonight We Dance,sea,dance,0.3076923076923077
+Swallowed In The Sea,But Tonight We Dance,sea,noise,0.16666666666666666
+Swallowed In The Sea,But Tonight We Dance,x,tonight,0.2857142857142857
+Swallowed In The Sea,But Tonight We Dance,x,dance,0.125
+Swallowed In The Sea,But Tonight We Dance,x,noise,0.26666666666666666
+Swallowed In The Sea,Bricks,swallowed,bricks,0.18181818181818182
+Swallowed In The Sea,Bricks,swallowed,witness,0.18181818181818182
+Swallowed In The Sea,Bricks,swallowed,sufferer,0.18181818181818182
+Swallowed In The Sea,Bricks,sea,bricks,0.3333333333333333
+Swallowed In The Sea,Bricks,sea,witness,0.36363636363636365
+Swallowed In The Sea,Bricks,sea,sufferer,0.36363636363636365
+Swallowed In The Sea,Bricks,x,bricks,0.13333333333333333
+Swallowed In The Sea,Bricks,x,witness,0.14285714285714285
+Swallowed In The Sea,Bricks,x,sufferer,0.14285714285714285
+Swallowed In The Sea,Remains Of Summer Memories,swallowed,summer,0.18181818181818182
+Swallowed In The Sea,Remains Of Summer Memories,swallowed,memories,0.18181818181818182
+Swallowed In The Sea,Remains Of Summer Memories,swallowed,remains,0.25
+Swallowed In The Sea,Remains Of Summer Memories,swallowed,unraveling,0.25
+Swallowed In The Sea,Remains Of Summer Memories,sea,summer,0.16666666666666666
+Swallowed In The Sea,Remains Of Summer Memories,sea,memories,0.16666666666666666
+Swallowed In The Sea,Remains Of Summer Memories,sea,remains,0.4444444444444444
+Swallowed In The Sea,Remains Of Summer Memories,sea,unraveling,0
+Swallowed In The Sea,Remains Of Summer Memories,x,summer,0.4
+Swallowed In The Sea,Remains Of Summer Memories,x,memories,0.26666666666666666
+Swallowed In The Sea,Remains Of Summer Memories,x,remains,0.16666666666666666
+Swallowed In The Sea,Remains Of Summer Memories,x,unraveling,0
+Swallowed In The Sea,Black Masks & Gasoline,swallowed,black,0.16666666666666666
+Swallowed In The Sea,Black Masks & Gasoline,swallowed,masks,0.18181818181818182
+Swallowed In The Sea,Black Masks & Gasoline,swallowed,gasoline,0.14285714285714285
+Swallowed In The Sea,Black Masks & Gasoline,swallowed,revolutions,0.18181818181818182
+Swallowed In The Sea,Black Masks & Gasoline,swallowed,minute,0.2222222222222222
+Swallowed In The Sea,Black Masks & Gasoline,sea,black,0.15384615384615385
+Swallowed In The Sea,Black Masks & Gasoline,sea,masks,0.3333333333333333
+Swallowed In The Sea,Black Masks & Gasoline,sea,gasoline,0.36363636363636365
+Swallowed In The Sea,Black Masks & Gasoline,sea,revolutions,0.16666666666666666
+Swallowed In The Sea,Black Masks & Gasoline,sea,minute,0.2
+Swallowed In The Sea,Black Masks & Gasoline,x,black,0.25
+Swallowed In The Sea,Black Masks & Gasoline,x,masks,0.13333333333333333
+Swallowed In The Sea,Black Masks & Gasoline,x,gasoline,0.25
+Swallowed In The Sea,Black Masks & Gasoline,x,revolutions,0.26666666666666666
+Swallowed In The Sea,Black Masks & Gasoline,x,minute,0.46153846153846156
+Swallowed In The Sea,Behind Closed Doors,swallowed,behind,0.2
+Swallowed In The Sea,Behind Closed Doors,swallowed,closed,0.4
+Swallowed In The Sea,Behind Closed Doors,swallowed,doors,0.14285714285714285
+Swallowed In The Sea,Behind Closed Doors,swallowed,witness,0.18181818181818182
+Swallowed In The Sea,Behind Closed Doors,swallowed,sufferer,0.18181818181818182
+Swallowed In The Sea,Behind Closed Doors,sea,behind,0.5454545454545454
+Swallowed In The Sea,Behind Closed Doors,sea,closed,0
+Swallowed In The Sea,Behind Closed Doors,sea,doors,0.26666666666666666
+Swallowed In The Sea,Behind Closed Doors,sea,witness,0.36363636363636365
+Swallowed In The Sea,Behind Closed Doors,sea,sufferer,0.36363636363636365
+Swallowed In The Sea,Behind Closed Doors,x,behind,0.14285714285714285
+Swallowed In The Sea,Behind Closed Doors,x,closed,0
+Swallowed In The Sea,Behind Closed Doors,x,doors,0.1111111111111111
+Swallowed In The Sea,Behind Closed Doors,x,witness,0.14285714285714285
+Swallowed In The Sea,Behind Closed Doors,x,sufferer,0.14285714285714285
+Swallowed In The Sea,Paper Wings,swallowed,paper,0.2
+Swallowed In The Sea,Paper Wings,swallowed,wings,0.16666666666666666
+Swallowed In The Sea,Paper Wings,swallowed,siren,0.11764705882352941
+Swallowed In The Sea,Paper Wings,swallowed,song,0.18181818181818182
+Swallowed In The Sea,Paper Wings,swallowed,culture,0.2
+Swallowed In The Sea,Paper Wings,swallowed,counter,0.14285714285714285
+Swallowed In The Sea,Paper Wings,sea,paper,0.36363636363636365
+Swallowed In The Sea,Paper Wings,sea,wings,0.15384615384615385
+Swallowed In The Sea,Paper Wings,sea,siren,0.1111111111111111
+Swallowed In The Sea,Paper Wings,sea,song,0.16666666666666666
+Swallowed In The Sea,Paper Wings,sea,culture,0.18181818181818182
+Swallowed In The Sea,Paper Wings,sea,counter,0.26666666666666666
+Swallowed In The Sea,Paper Wings,x,paper,0.26666666666666666
+Swallowed In The Sea,Paper Wings,x,wings,0.25
+Swallowed In The Sea,Paper Wings,x,siren,0.19047619047619047
+Swallowed In The Sea,Paper Wings,x,song,0.26666666666666666
+Swallowed In The Sea,Paper Wings,x,culture,0.2857142857142857
+Swallowed In The Sea,Paper Wings,x,counter,0.1111111111111111
+Swallowed In The Sea,Broken English,swallowed,broken,0.2857142857142857
+Swallowed In The Sea,Broken English,swallowed,english,0.15384615384615385
+Swallowed In The Sea,Broken English,swallowed,revolutions,0.18181818181818182
+Swallowed In The Sea,Broken English,swallowed,minute,0.2222222222222222
+Swallowed In The Sea,Broken English,sea,broken,0
+Swallowed In The Sea,Broken English,sea,english,0.14285714285714285
+Swallowed In The Sea,Broken English,sea,revolutions,0.16666666666666666
+Swallowed In The Sea,Broken English,sea,minute,0.2
+Swallowed In The Sea,Broken English,x,broken,0
+Swallowed In The Sea,Broken English,x,english,0.23529411764705882
+Swallowed In The Sea,Broken English,x,revolutions,0.26666666666666666
+Swallowed In The Sea,Broken English,x,minute,0.46153846153846156
+Swallowed In The Sea,Savior,swallowed,savior,0.13333333333333333
+Swallowed In The Sea,Savior,swallowed,reason,0.2
+Swallowed In The Sea,Savior,swallowed,appeal,0.16666666666666666
+Swallowed In The Sea,Savior,sea,savior,0.36363636363636365
+Swallowed In The Sea,Savior,sea,reason,0.18181818181818182
+Swallowed In The Sea,Savior,sea,appeal,0.15384615384615385
+Swallowed In The Sea,Savior,x,savior,0.25
+Swallowed In The Sea,Savior,x,reason,0.2857142857142857
+Swallowed In The Sea,Savior,x,appeal,0.25
+Swallowed In The Sea,Blood To Bleed,swallowed,blood,0.18181818181818182
+Swallowed In The Sea,Blood To Bleed,swallowed,bleed,0.3333333333333333
+Swallowed In The Sea,Blood To Bleed,swallowed,siren,0.11764705882352941
+Swallowed In The Sea,Blood To Bleed,swallowed,song,0.18181818181818182
+Swallowed In The Sea,Blood To Bleed,swallowed,culture,0.2
+Swallowed In The Sea,Blood To Bleed,swallowed,counter,0.14285714285714285
+Swallowed In The Sea,Blood To Bleed,sea,blood,0.3333333333333333
+Swallowed In The Sea,Blood To Bleed,sea,bleed,0
+Swallowed In The Sea,Blood To Bleed,sea,siren,0.1111111111111111
+Swallowed In The Sea,Blood To Bleed,sea,song,0.16666666666666666
+Swallowed In The Sea,Blood To Bleed,sea,culture,0.18181818181818182
+Swallowed In The Sea,Blood To Bleed,sea,counter,0.26666666666666666
+Swallowed In The Sea,Blood To Bleed,x,blood,0.25
+Swallowed In The Sea,Blood To Bleed,x,bleed,0
+Swallowed In The Sea,Blood To Bleed,x,siren,0.19047619047619047
+Swallowed In The Sea,Blood To Bleed,x,song,0.26666666666666666
+Swallowed In The Sea,Blood To Bleed,x,culture,0.2857142857142857
+Swallowed In The Sea,Blood To Bleed,x,counter,0.1111111111111111
+Swallowed In The Sea,Survive,swallowed,survive,0.4
+Swallowed In The Sea,Survive,swallowed,witness,0.18181818181818182
+Swallowed In The Sea,Survive,swallowed,sufferer,0.18181818181818182
+Swallowed In The Sea,Survive,sea,survive,0
+Swallowed In The Sea,Survive,sea,witness,0.36363636363636365
+Swallowed In The Sea,Survive,sea,sufferer,0.36363636363636365
+Swallowed In The Sea,Survive,x,survive,0
+Swallowed In The Sea,Survive,x,witness,0.14285714285714285
+Swallowed In The Sea,Survive,x,sufferer,0.14285714285714285
+Swallowed In The Sea,The First Drop,swallowed,first,0.18181818181818182
+Swallowed In The Sea,The First Drop,swallowed,drop,0.18181818181818182
+Swallowed In The Sea,The First Drop,swallowed,siren,0.11764705882352941
+Swallowed In The Sea,The First Drop,swallowed,song,0.18181818181818182
+Swallowed In The Sea,The First Drop,swallowed,culture,0.2
+Swallowed In The Sea,The First Drop,swallowed,counter,0.14285714285714285
+Swallowed In The Sea,The First Drop,sea,first,0.16666666666666666
+Swallowed In The Sea,The First Drop,sea,drop,0.16666666666666666
+Swallowed In The Sea,The First Drop,sea,siren,0.1111111111111111
+Swallowed In The Sea,The First Drop,sea,song,0.16666666666666666
+Swallowed In The Sea,The First Drop,sea,culture,0.18181818181818182
+Swallowed In The Sea,The First Drop,sea,counter,0.26666666666666666
+Swallowed In The Sea,The First Drop,x,first,0.26666666666666666
+Swallowed In The Sea,The First Drop,x,drop,0.26666666666666666
+Swallowed In The Sea,The First Drop,x,siren,0.19047619047619047
+Swallowed In The Sea,The First Drop,x,song,0.26666666666666666
+Swallowed In The Sea,The First Drop,x,culture,0.2857142857142857
+Swallowed In The Sea,The First Drop,x,counter,0.1111111111111111
+Swallowed In The Sea,Voices Off Camera,swallowed,voices,0.18181818181818182
+Swallowed In The Sea,Voices Off Camera,swallowed,camera,0.15384615384615385
+Swallowed In The Sea,Voices Off Camera,swallowed,revolutions,0.18181818181818182
+Swallowed In The Sea,Voices Off Camera,swallowed,minute,0.2222222222222222
+Swallowed In The Sea,Voices Off Camera,sea,voices,0.16666666666666666
+Swallowed In The Sea,Voices Off Camera,sea,camera,0.2857142857142857
+Swallowed In The Sea,Voices Off Camera,sea,revolutions,0.16666666666666666
+Swallowed In The Sea,Voices Off Camera,sea,minute,0.2
+Swallowed In The Sea,Voices Off Camera,x,voices,0.26666666666666666
+Swallowed In The Sea,Voices Off Camera,x,camera,0.11764705882352941
+Swallowed In The Sea,Voices Off Camera,x,revolutions,0.26666666666666666
+Swallowed In The Sea,Voices Off Camera,x,minute,0.46153846153846156
+Life In Technicolor,Boy's No Good,technicolor,good,0.26666666666666666
+Life In Technicolor,Boy's No Good,technicolor,boy,0.14285714285714285
+Life In Technicolor,Boy's No Good,technicolor,one,0.25
+Life In Technicolor,Boy's No Good,technicolor,audience,0.2857142857142857
+Life In Technicolor,Boy's No Good,life,good,0.46153846153846156
+Life In Technicolor,Boy's No Good,life,boy,0.16666666666666666
+Life In Technicolor,Boy's No Good,life,one,0.2857142857142857
+Life In Technicolor,Boy's No Good,life,audience,0.3333333333333333
+Life In Technicolor,Boy's No Good,viva,good,0.26666666666666666
+Life In Technicolor,Boy's No Good,viva,boy,0.14285714285714285
+Life In Technicolor,Boy's No Good,viva,one,0.25
+Life In Technicolor,Boy's No Good,viva,audience,0.2857142857142857
+Life In Technicolor,Boy's No Good,la,good,0.26666666666666666
+Life In Technicolor,Boy's No Good,la,boy,0.3076923076923077
+Life In Technicolor,Boy's No Good,la,one,0.25
+Life In Technicolor,Boy's No Good,la,audience,0.2857142857142857
+Life In Technicolor,Boy's No Good,friends,good,0.16666666666666666
+Life In Technicolor,Boy's No Good,friends,boy,0.7058823529411765
+Life In Technicolor,Boy's No Good,friends,one,0.15384615384615385
+Life In Technicolor,Boy's No Good,friends,audience,0.18181818181818182
+Life In Technicolor,Boy's No Good,death,good,0.2857142857142857
+Life In Technicolor,Boy's No Good,death,boy,0.15384615384615385
+Life In Technicolor,Boy's No Good,death,one,0.26666666666666666
+Life In Technicolor,Boy's No Good,death,audience,0.3076923076923077
+Life In Technicolor,Entertainment,technicolor,entertainment,0.375
+Life In Technicolor,Entertainment,technicolor,reason,0.42857142857142855
+Life In Technicolor,Entertainment,technicolor,appeal,0.375
+Life In Technicolor,Entertainment,life,entertainment,0.2857142857142857
+Life In Technicolor,Entertainment,life,reason,0.3333333333333333
+Life In Technicolor,Entertainment,life,appeal,0.2857142857142857
+Life In Technicolor,Entertainment,viva,entertainment,0.625
+Life In Technicolor,Entertainment,viva,reason,0.42857142857142855
+Life In Technicolor,Entertainment,viva,appeal,0.625
+Life In Technicolor,Entertainment,la,entertainment,0.25
+Life In Technicolor,Entertainment,la,reason,0.2857142857142857
+Life In Technicolor,Entertainment,la,appeal,0.25
+Life In Technicolor,Entertainment,friends,entertainment,0.15384615384615385
+Life In Technicolor,Entertainment,friends,reason,0.18181818181818182
+Life In Technicolor,Entertainment,friends,appeal,0.15384615384615385
+Life In Technicolor,Entertainment,death,entertainment,0.5333333333333333
+Life In Technicolor,Entertainment,death,reason,0.46153846153846156
+Life In Technicolor,Entertainment,death,appeal,0.5333333333333333
+Life In Technicolor,The Art Of Losing,technicolor,losing,0
+Life In Technicolor,The Art Of Losing,technicolor,art,0.13333333333333333
+Life In Technicolor,The Art Of Losing,technicolor,unraveling,0
+Life In Technicolor,The Art Of Losing,life,losing,0
+Life In Technicolor,The Art Of Losing,life,art,0.15384615384615385
+Life In Technicolor,The Art Of Losing,life,unraveling,0
+Life In Technicolor,The Art Of Losing,viva,losing,0
+Life In Technicolor,The Art Of Losing,viva,art,0.13333333333333333
+Life In Technicolor,The Art Of Losing,viva,unraveling,0
+Life In Technicolor,The Art Of Losing,la,losing,0
+Life In Technicolor,The Art Of Losing,la,art,0.2857142857142857
+Life In Technicolor,The Art Of Losing,la,unraveling,0
+Life In Technicolor,The Art Of Losing,friends,losing,0
+Life In Technicolor,The Art Of Losing,friends,art,0.5333333333333333
+Life In Technicolor,The Art Of Losing,friends,unraveling,0
+Life In Technicolor,The Art Of Losing,death,losing,0
+Life In Technicolor,The Art Of Losing,death,art,0.14285714285714285
+Life In Technicolor,The Art Of Losing,death,unraveling,0
+Life In Technicolor,But Tonight We Dance,technicolor,tonight,0.2857142857142857
+Life In Technicolor,But Tonight We Dance,technicolor,dance,0.125
+Life In Technicolor,But Tonight We Dance,technicolor,noise,0.4
+Life In Technicolor,But Tonight We Dance,life,tonight,0.5
+Life In Technicolor,But Tonight We Dance,life,dance,0.14285714285714285
+Life In Technicolor,But Tonight We Dance,life,noise,0.3076923076923077
+Life In Technicolor,But Tonight We Dance,viva,tonight,0.2857142857142857
+Life In Technicolor,But Tonight We Dance,viva,dance,0.125
+Life In Technicolor,But Tonight We Dance,viva,noise,0.5333333333333333
+Life In Technicolor,But Tonight We Dance,la,tonight,0.2857142857142857
+Life In Technicolor,But Tonight We Dance,la,dance,0.26666666666666666
+Life In Technicolor,But Tonight We Dance,la,noise,0.26666666666666666
+Life In Technicolor,But Tonight We Dance,friends,tonight,0.18181818181818182
+Life In Technicolor,But Tonight We Dance,friends,dance,0.5
+Life In Technicolor,But Tonight We Dance,friends,noise,0.16666666666666666
+Life In Technicolor,But Tonight We Dance,death,tonight,0.3076923076923077
+Life In Technicolor,But Tonight We Dance,death,dance,0.13333333333333333
+Life In Technicolor,But Tonight We Dance,death,noise,0.7142857142857143
+Life In Technicolor,Bricks,technicolor,bricks,0.13333333333333333
+Life In Technicolor,Bricks,technicolor,witness,0.14285714285714285
+Life In Technicolor,Bricks,technicolor,sufferer,0.14285714285714285
+Life In Technicolor,Bricks,life,bricks,0.15384615384615385
+Life In Technicolor,Bricks,life,witness,0.16666666666666666
+Life In Technicolor,Bricks,life,sufferer,0.16666666666666666
+Life In Technicolor,Bricks,viva,bricks,0.13333333333333333
+Life In Technicolor,Bricks,viva,witness,0.14285714285714285
+Life In Technicolor,Bricks,viva,sufferer,0.14285714285714285
+Life In Technicolor,Bricks,la,bricks,0.2857142857142857
+Life In Technicolor,Bricks,la,witness,0.3076923076923077
+Life In Technicolor,Bricks,la,sufferer,0.3076923076923077
+Life In Technicolor,Bricks,friends,bricks,0.5333333333333333
+Life In Technicolor,Bricks,friends,witness,0.7058823529411765
+Life In Technicolor,Bricks,friends,sufferer,0.7058823529411765
+Life In Technicolor,Bricks,death,bricks,0.14285714285714285
+Life In Technicolor,Bricks,death,witness,0.15384615384615385
+Life In Technicolor,Bricks,death,sufferer,0.15384615384615385
+Life In Technicolor,Remains Of Summer Memories,technicolor,summer,0.26666666666666666
+Life In Technicolor,Remains Of Summer Memories,technicolor,memories,0.5333333333333333
+Life In Technicolor,Remains Of Summer Memories,technicolor,remains,0.16666666666666666
+Life In Technicolor,Remains Of Summer Memories,technicolor,unraveling,0
+Life In Technicolor,Remains Of Summer Memories,life,summer,0.3076923076923077
+Life In Technicolor,Remains Of Summer Memories,life,memories,0.3076923076923077
+Life In Technicolor,Remains Of Summer Memories,life,remains,0.2
+Life In Technicolor,Remains Of Summer Memories,life,unraveling,0
+Life In Technicolor,Remains Of Summer Memories,viva,summer,0.26666666666666666
+Life In Technicolor,Remains Of Summer Memories,viva,memories,0.4
+Life In Technicolor,Remains Of Summer Memories,viva,remains,0.16666666666666666
+Life In Technicolor,Remains Of Summer Memories,viva,unraveling,0
+Life In Technicolor,Remains Of Summer Memories,la,summer,0.26666666666666666
+Life In Technicolor,Remains Of Summer Memories,la,memories,0.26666666666666666
+Life In Technicolor,Remains Of Summer Memories,la,remains,0.36363636363636365
+Life In Technicolor,Remains Of Summer Memories,la,unraveling,0
+Life In Technicolor,Remains Of Summer Memories,friends,summer,0.16666666666666666
+Life In Technicolor,Remains Of Summer Memories,friends,memories,0.16666666666666666
+Life In Technicolor,Remains Of Summer Memories,friends,remains,0.5454545454545454
+Life In Technicolor,Remains Of Summer Memories,friends,unraveling,0
+Life In Technicolor,Remains Of Summer Memories,death,summer,0.2857142857142857
+Life In Technicolor,Remains Of Summer Memories,death,memories,0.42857142857142855
+Life In Technicolor,Remains Of Summer Memories,death,remains,0.18181818181818182
+Life In Technicolor,Remains Of Summer Memories,death,unraveling,0
+Life In Technicolor,Black Masks & Gasoline,technicolor,black,0.25
+Life In Technicolor,Black Masks & Gasoline,technicolor,masks,0.13333333333333333
+Life In Technicolor,Black Masks & Gasoline,technicolor,gasoline,0.25
+Life In Technicolor,Black Masks & Gasoline,technicolor,revolutions,0.4
+Life In Technicolor,Black Masks & Gasoline,technicolor,minute,0.3076923076923077
+Life In Technicolor,Black Masks & Gasoline,life,black,0.42857142857142855
+Life In Technicolor,Black Masks & Gasoline,life,masks,0.15384615384615385
+Life In Technicolor,Black Masks & Gasoline,life,gasoline,0.2857142857142857
+Life In Technicolor,Black Masks & Gasoline,life,revolutions,0.3076923076923077
+Life In Technicolor,Black Masks & Gasoline,life,minute,0.36363636363636365
+Life In Technicolor,Black Masks & Gasoline,viva,black,0.25
+Life In Technicolor,Black Masks & Gasoline,viva,masks,0.13333333333333333
+Life In Technicolor,Black Masks & Gasoline,viva,gasoline,0.25
+Life In Technicolor,Black Masks & Gasoline,viva,revolutions,0.5333333333333333
+Life In Technicolor,Black Masks & Gasoline,viva,minute,0.3076923076923077
+Life In Technicolor,Black Masks & Gasoline,la,black,0.25
+Life In Technicolor,Black Masks & Gasoline,la,masks,0.2857142857142857
+Life In Technicolor,Black Masks & Gasoline,la,gasoline,0.42105263157894735
+Life In Technicolor,Black Masks & Gasoline,la,revolutions,0.26666666666666666
+Life In Technicolor,Black Masks & Gasoline,la,minute,0.3076923076923077
+Life In Technicolor,Black Masks & Gasoline,friends,black,0.15384615384615385
+Life In Technicolor,Black Masks & Gasoline,friends,masks,0.5333333333333333
+Life In Technicolor,Black Masks & Gasoline,friends,gasoline,0.36363636363636365
+Life In Technicolor,Black Masks & Gasoline,friends,revolutions,0.16666666666666666
+Life In Technicolor,Black Masks & Gasoline,friends,minute,0.2
+Life In Technicolor,Black Masks & Gasoline,death,black,0.26666666666666666
+Life In Technicolor,Black Masks & Gasoline,death,masks,0.14285714285714285
+Life In Technicolor,Black Masks & Gasoline,death,gasoline,0.26666666666666666
+Life In Technicolor,Black Masks & Gasoline,death,revolutions,0.8571428571428571
+Life In Technicolor,Black Masks & Gasoline,death,minute,0.3333333333333333
+Life In Technicolor,Behind Closed Doors,technicolor,behind,0.14285714285714285
+Life In Technicolor,Behind Closed Doors,technicolor,closed,0
+Life In Technicolor,Behind Closed Doors,technicolor,doors,0.1111111111111111
+Life In Technicolor,Behind Closed Doors,technicolor,witness,0.14285714285714285
+Life In Technicolor,Behind Closed Doors,technicolor,sufferer,0.14285714285714285
+Life In Technicolor,Behind Closed Doors,life,behind,0.16666666666666666
+Life In Technicolor,Behind Closed Doors,life,closed,0
+Life In Technicolor,Behind Closed Doors,life,doors,0.125
+Life In Technicolor,Behind Closed Doors,life,witness,0.16666666666666666
+Life In Technicolor,Behind Closed Doors,life,sufferer,0.16666666666666666
+Life In Technicolor,Behind Closed Doors,viva,behind,0.14285714285714285
+Life In Technicolor,Behind Closed Doors,viva,closed,0
+Life In Technicolor,Behind Closed Doors,viva,doors,0.1111111111111111
+Life In Technicolor,Behind Closed Doors,viva,witness,0.14285714285714285
+Life In Technicolor,Behind Closed Doors,viva,sufferer,0.14285714285714285
+Life In Technicolor,Behind Closed Doors,la,behind,0.3076923076923077
+Life In Technicolor,Behind Closed Doors,la,closed,0
+Life In Technicolor,Behind Closed Doors,la,doors,0.23529411764705882
+Life In Technicolor,Behind Closed Doors,la,witness,0.3076923076923077
+Life In Technicolor,Behind Closed Doors,la,sufferer,0.3076923076923077
+Life In Technicolor,Behind Closed Doors,friends,behind,0.36363636363636365
+Life In Technicolor,Behind Closed Doors,friends,closed,0
+Life In Technicolor,Behind Closed Doors,friends,doors,0.4444444444444444
+Life In Technicolor,Behind Closed Doors,friends,witness,0.7058823529411765
+Life In Technicolor,Behind Closed Doors,friends,sufferer,0.7058823529411765
+Life In Technicolor,Behind Closed Doors,death,behind,0.15384615384615385
+Life In Technicolor,Behind Closed Doors,death,closed,0
+Life In Technicolor,Behind Closed Doors,death,doors,0.11764705882352941
+Life In Technicolor,Behind Closed Doors,death,witness,0.15384615384615385
+Life In Technicolor,Behind Closed Doors,death,sufferer,0.15384615384615385
+Life In Technicolor,Paper Wings,technicolor,paper,0.26666666666666666
+Life In Technicolor,Paper Wings,technicolor,wings,0.375
+Life In Technicolor,Paper Wings,technicolor,siren,0.38095238095238093
+Life In Technicolor,Paper Wings,technicolor,song,0.26666666666666666
+Life In Technicolor,Paper Wings,technicolor,culture,0.2857142857142857
+Life In Technicolor,Paper Wings,technicolor,counter,0.1111111111111111
+Life In Technicolor,Paper Wings,life,paper,0.3076923076923077
+Life In Technicolor,Paper Wings,life,wings,0.2857142857142857
+Life In Technicolor,Paper Wings,life,siren,0.21052631578947367
+Life In Technicolor,Paper Wings,life,song,0.3076923076923077
+Life In Technicolor,Paper Wings,life,culture,0.3333333333333333
+Life In Technicolor,Paper Wings,life,counter,0.125
+Life In Technicolor,Paper Wings,viva,paper,0.26666666666666666
+Life In Technicolor,Paper Wings,viva,wings,0.625
+Life In Technicolor,Paper Wings,viva,siren,0.2857142857142857
+Life In Technicolor,Paper Wings,viva,song,0.26666666666666666
+Life In Technicolor,Paper Wings,viva,culture,0.2857142857142857
+Life In Technicolor,Paper Wings,viva,counter,0.1111111111111111
+Life In Technicolor,Paper Wings,la,paper,0.5333333333333333
+Life In Technicolor,Paper Wings,la,wings,0.25
+Life In Technicolor,Paper Wings,la,siren,0.19047619047619047
+Life In Technicolor,Paper Wings,la,song,0.26666666666666666
+Life In Technicolor,Paper Wings,la,culture,0.2857142857142857
+Life In Technicolor,Paper Wings,la,counter,0.23529411764705882
+Life In Technicolor,Paper Wings,friends,paper,0.36363636363636365
+Life In Technicolor,Paper Wings,friends,wings,0.15384615384615385
+Life In Technicolor,Paper Wings,friends,siren,0.1111111111111111
+Life In Technicolor,Paper Wings,friends,song,0.16666666666666666
+Life In Technicolor,Paper Wings,friends,culture,0.18181818181818182
+Life In Technicolor,Paper Wings,friends,counter,0.4444444444444444
+Life In Technicolor,Paper Wings,death,paper,0.2857142857142857
+Life In Technicolor,Paper Wings,death,wings,0.5333333333333333
+Life In Technicolor,Paper Wings,death,siren,0.3
+Life In Technicolor,Paper Wings,death,song,0.2857142857142857
+Life In Technicolor,Paper Wings,death,culture,0.3076923076923077
+Life In Technicolor,Paper Wings,death,counter,0.11764705882352941
+Life In Technicolor,Broken English,technicolor,broken,0
+Life In Technicolor,Broken English,technicolor,english,0.23529411764705882
+Life In Technicolor,Broken English,technicolor,revolutions,0.4
+Life In Technicolor,Broken English,technicolor,minute,0.3076923076923077
+Life In Technicolor,Broken English,life,broken,0
+Life In Technicolor,Broken English,life,english,0.26666666666666666
+Life In Technicolor,Broken English,life,revolutions,0.3076923076923077
+Life In Technicolor,Broken English,life,minute,0.36363636363636365
+Life In Technicolor,Broken English,viva,broken,0
+Life In Technicolor,Broken English,viva,english,0.23529411764705882
+Life In Technicolor,Broken English,viva,revolutions,0.5333333333333333
+Life In Technicolor,Broken English,viva,minute,0.3076923076923077
+Life In Technicolor,Broken English,la,broken,0
+Life In Technicolor,Broken English,la,english,0.23529411764705882
+Life In Technicolor,Broken English,la,revolutions,0.26666666666666666
+Life In Technicolor,Broken English,la,minute,0.3076923076923077
+Life In Technicolor,Broken English,friends,broken,0
+Life In Technicolor,Broken English,friends,english,0.14285714285714285
+Life In Technicolor,Broken English,friends,revolutions,0.16666666666666666
+Life In Technicolor,Broken English,friends,minute,0.2
+Life In Technicolor,Broken English,death,broken,0
+Life In Technicolor,Broken English,death,english,0.25
+Life In Technicolor,Broken English,death,revolutions,0.8571428571428571
+Life In Technicolor,Broken English,death,minute,0.3333333333333333
+Life In Technicolor,Savior,technicolor,savior,0.4
+Life In Technicolor,Savior,technicolor,reason,0.42857142857142855
+Life In Technicolor,Savior,technicolor,appeal,0.375
+Life In Technicolor,Savior,life,savior,0.2857142857142857
+Life In Technicolor,Savior,life,reason,0.3333333333333333
+Life In Technicolor,Savior,life,appeal,0.2857142857142857
+Life In Technicolor,Savior,viva,savior,0.3333333333333333
+Life In Technicolor,Savior,viva,reason,0.42857142857142855
+Life In Technicolor,Savior,viva,appeal,0.625
+Life In Technicolor,Savior,la,savior,0.25
+Life In Technicolor,Savior,la,reason,0.2857142857142857
+Life In Technicolor,Savior,la,appeal,0.25
+Life In Technicolor,Savior,friends,savior,0.7058823529411765
+Life In Technicolor,Savior,friends,reason,0.18181818181818182
+Life In Technicolor,Savior,friends,appeal,0.15384615384615385
+Life In Technicolor,Savior,death,savior,0.35294117647058826
+Life In Technicolor,Savior,death,reason,0.46153846153846156
+Life In Technicolor,Savior,death,appeal,0.5333333333333333
+Life In Technicolor,Blood To Bleed,technicolor,blood,0.25
+Life In Technicolor,Blood To Bleed,technicolor,bleed,0
+Life In Technicolor,Blood To Bleed,technicolor,siren,0.38095238095238093
+Life In Technicolor,Blood To Bleed,technicolor,song,0.26666666666666666
+Life In Technicolor,Blood To Bleed,technicolor,culture,0.2857142857142857
+Life In Technicolor,Blood To Bleed,technicolor,counter,0.1111111111111111
+Life In Technicolor,Blood To Bleed,life,blood,0.2857142857142857
+Life In Technicolor,Blood To Bleed,life,bleed,0
+Life In Technicolor,Blood To Bleed,life,siren,0.21052631578947367
+Life In Technicolor,Blood To Bleed,life,song,0.3076923076923077
+Life In Technicolor,Blood To Bleed,life,culture,0.3333333333333333
+Life In Technicolor,Blood To Bleed,life,counter,0.125
+Life In Technicolor,Blood To Bleed,viva,blood,0.25
+Life In Technicolor,Blood To Bleed,viva,bleed,0
+Life In Technicolor,Blood To Bleed,viva,siren,0.2857142857142857
+Life In Technicolor,Blood To Bleed,viva,song,0.26666666666666666
+Life In Technicolor,Blood To Bleed,viva,culture,0.2857142857142857
+Life In Technicolor,Blood To Bleed,viva,counter,0.1111111111111111
+Life In Technicolor,Blood To Bleed,la,blood,0.5
+Life In Technicolor,Blood To Bleed,la,bleed,0
+Life In Technicolor,Blood To Bleed,la,siren,0.19047619047619047
+Life In Technicolor,Blood To Bleed,la,song,0.26666666666666666
+Life In Technicolor,Blood To Bleed,la,culture,0.2857142857142857
+Life In Technicolor,Blood To Bleed,la,counter,0.23529411764705882
+Life In Technicolor,Blood To Bleed,friends,blood,0.3333333333333333
+Life In Technicolor,Blood To Bleed,friends,bleed,0
+Life In Technicolor,Blood To Bleed,friends,siren,0.1111111111111111
+Life In Technicolor,Blood To Bleed,friends,song,0.16666666666666666
+Life In Technicolor,Blood To Bleed,friends,culture,0.18181818181818182
+Life In Technicolor,Blood To Bleed,friends,counter,0.4444444444444444
+Life In Technicolor,Blood To Bleed,death,blood,0.26666666666666666
+Life In Technicolor,Blood To Bleed,death,bleed,0
+Life In Technicolor,Blood To Bleed,death,siren,0.3
+Life In Technicolor,Blood To Bleed,death,song,0.2857142857142857
+Life In Technicolor,Blood To Bleed,death,culture,0.3076923076923077
+Life In Technicolor,Blood To Bleed,death,counter,0.11764705882352941
+Life In Technicolor,Survive,technicolor,survive,0
+Life In Technicolor,Survive,technicolor,witness,0.14285714285714285
+Life In Technicolor,Survive,technicolor,sufferer,0.14285714285714285
+Life In Technicolor,Survive,life,survive,0
+Life In Technicolor,Survive,life,witness,0.16666666666666666
+Life In Technicolor,Survive,life,sufferer,0.16666666666666666
+Life In Technicolor,Survive,viva,survive,0
+Life In Technicolor,Survive,viva,witness,0.14285714285714285
+Life In Technicolor,Survive,viva,sufferer,0.14285714285714285
+Life In Technicolor,Survive,la,survive,0
+Life In Technicolor,Survive,la,witness,0.3076923076923077
+Life In Technicolor,Survive,la,sufferer,0.3076923076923077
+Life In Technicolor,Survive,friends,survive,0
+Life In Technicolor,Survive,friends,witness,0.7058823529411765
+Life In Technicolor,Survive,friends,sufferer,0.7058823529411765
+Life In Technicolor,Survive,death,survive,0
+Life In Technicolor,Survive,death,witness,0.15384615384615385
+Life In Technicolor,Survive,death,sufferer,0.15384615384615385
+Life In Technicolor,The First Drop,technicolor,first,0.26666666666666666
+Life In Technicolor,The First Drop,technicolor,drop,0.26666666666666666
+Life In Technicolor,The First Drop,technicolor,siren,0.38095238095238093
+Life In Technicolor,The First Drop,technicolor,song,0.26666666666666666
+Life In Technicolor,The First Drop,technicolor,culture,0.2857142857142857
+Life In Technicolor,The First Drop,technicolor,counter,0.1111111111111111
+Life In Technicolor,The First Drop,life,first,0.6153846153846154
+Life In Technicolor,The First Drop,life,drop,0.46153846153846156
+Life In Technicolor,The First Drop,life,siren,0.21052631578947367
+Life In Technicolor,The First Drop,life,song,0.3076923076923077
+Life In Technicolor,The First Drop,life,culture,0.3333333333333333
+Life In Technicolor,The First Drop,life,counter,0.125
+Life In Technicolor,The First Drop,viva,first,0.26666666666666666
+Life In Technicolor,The First Drop,viva,drop,0.26666666666666666
+Life In Technicolor,The First Drop,viva,siren,0.2857142857142857
+Life In Technicolor,The First Drop,viva,song,0.26666666666666666
+Life In Technicolor,The First Drop,viva,culture,0.2857142857142857
+Life In Technicolor,The First Drop,viva,counter,0.1111111111111111
+Life In Technicolor,The First Drop,la,first,0.26666666666666666
+Life In Technicolor,The First Drop,la,drop,0.26666666666666666
+Life In Technicolor,The First Drop,la,siren,0.19047619047619047
+Life In Technicolor,The First Drop,la,song,0.26666666666666666
+Life In Technicolor,The First Drop,la,culture,0.2857142857142857
+Life In Technicolor,The First Drop,la,counter,0.23529411764705882
+Life In Technicolor,The First Drop,friends,first,0.16666666666666666
+Life In Technicolor,The First Drop,friends,drop,0.16666666666666666
+Life In Technicolor,The First Drop,friends,siren,0.1111111111111111
+Life In Technicolor,The First Drop,friends,song,0.16666666666666666
+Life In Technicolor,The First Drop,friends,culture,0.18181818181818182
+Life In Technicolor,The First Drop,friends,counter,0.4444444444444444
+Life In Technicolor,The First Drop,death,first,0.2857142857142857
+Life In Technicolor,The First Drop,death,drop,0.2857142857142857
+Life In Technicolor,The First Drop,death,siren,0.3
+Life In Technicolor,The First Drop,death,song,0.2857142857142857
+Life In Technicolor,The First Drop,death,culture,0.3076923076923077
+Life In Technicolor,The First Drop,death,counter,0.11764705882352941
+Life In Technicolor,Voices Off Camera,technicolor,voices,0.26666666666666666
+Life In Technicolor,Voices Off Camera,technicolor,camera,0.11764705882352941
+Life In Technicolor,Voices Off Camera,technicolor,revolutions,0.4
+Life In Technicolor,Voices Off Camera,technicolor,minute,0.3076923076923077
+Life In Technicolor,Voices Off Camera,life,voices,0.46153846153846156
+Life In Technicolor,Voices Off Camera,life,camera,0.13333333333333333
+Life In Technicolor,Voices Off Camera,life,revolutions,0.3076923076923077
+Life In Technicolor,Voices Off Camera,life,minute,0.36363636363636365
+Life In Technicolor,Voices Off Camera,viva,voices,0.26666666666666666
+Life In Technicolor,Voices Off Camera,viva,camera,0.11764705882352941
+Life In Technicolor,Voices Off Camera,viva,revolutions,0.5333333333333333
+Life In Technicolor,Voices Off Camera,viva,minute,0.3076923076923077
+Life In Technicolor,Voices Off Camera,la,voices,0.26666666666666666
+Life In Technicolor,Voices Off Camera,la,camera,0.25
+Life In Technicolor,Voices Off Camera,la,revolutions,0.26666666666666666
+Life In Technicolor,Voices Off Camera,la,minute,0.3076923076923077
+Life In Technicolor,Voices Off Camera,friends,voices,0.16666666666666666
+Life In Technicolor,Voices Off Camera,friends,camera,0.47058823529411764
+Life In Technicolor,Voices Off Camera,friends,revolutions,0.16666666666666666
+Life In Technicolor,Voices Off Camera,friends,minute,0.2
+Life In Technicolor,Voices Off Camera,death,voices,0.2857142857142857
+Life In Technicolor,Voices Off Camera,death,camera,0.125
+Life In Technicolor,Voices Off Camera,death,revolutions,0.8571428571428571
+Life In Technicolor,Voices Off Camera,death,minute,0.3333333333333333
+Clocks,Boy's No Good,clocks,good,0.10526315789473684
+Clocks,Boy's No Good,clocks,boy,0.5714285714285714
+Clocks,Boy's No Good,clocks,one,0.1
+Clocks,Boy's No Good,clocks,audience,0.1111111111111111
+Clocks,Boy's No Good,rush,good,0.25
+Clocks,Boy's No Good,rush,boy,0.13333333333333333
+Clocks,Boy's No Good,rush,one,0.23529411764705882
+Clocks,Boy's No Good,rush,audience,0.26666666666666666
+Clocks,Boy's No Good,head,good,0.14285714285714285
+Clocks,Boy's No Good,head,boy,0.3076923076923077
+Clocks,Boy's No Good,head,one,0.13333333333333333
+Clocks,Boy's No Good,head,audience,0.15384615384615385
+Clocks,Boy's No Good,blood,good,0.26666666666666666
+Clocks,Boy's No Good,blood,boy,0.3076923076923077
+Clocks,Boy's No Good,blood,one,0.25
+Clocks,Boy's No Good,blood,audience,0.2857142857142857
+Clocks,Entertainment,clocks,entertainment,0.1
+Clocks,Entertainment,clocks,reason,0.1111111111111111
+Clocks,Entertainment,clocks,appeal,0.1
+Clocks,Entertainment,rush,entertainment,0.5882352941176471
+Clocks,Entertainment,rush,reason,0.4
+Clocks,Entertainment,rush,appeal,0.5882352941176471
+Clocks,Entertainment,head,entertainment,0.13333333333333333
+Clocks,Entertainment,head,reason,0.15384615384615385
+Clocks,Entertainment,head,appeal,0.13333333333333333
+Clocks,Entertainment,blood,entertainment,0.25
+Clocks,Entertainment,blood,reason,0.2857142857142857
+Clocks,Entertainment,blood,appeal,0.25
+Clocks,The Art Of Losing,clocks,losing,0
+Clocks,The Art Of Losing,clocks,art,0.42105263157894735
+Clocks,The Art Of Losing,clocks,unraveling,0
+Clocks,The Art Of Losing,rush,losing,0
+Clocks,The Art Of Losing,rush,art,0.125
+Clocks,The Art Of Losing,rush,unraveling,0
+Clocks,The Art Of Losing,head,losing,0
+Clocks,The Art Of Losing,head,art,0.2857142857142857
+Clocks,The Art Of Losing,head,unraveling,0
+Clocks,The Art Of Losing,blood,losing,0
+Clocks,The Art Of Losing,blood,art,0.2857142857142857
+Clocks,The Art Of Losing,blood,unraveling,0
+Clocks,But Tonight We Dance,clocks,tonight,0.1111111111111111
+Clocks,But Tonight We Dance,clocks,dance,0.4
+Clocks,But Tonight We Dance,clocks,noise,0.10526315789473684
+Clocks,But Tonight We Dance,rush,tonight,0.26666666666666666
+Clocks,But Tonight We Dance,rush,dance,0.11764705882352941
+Clocks,But Tonight We Dance,rush,noise,0.5
+Clocks,But Tonight We Dance,head,tonight,0.15384615384615385
+Clocks,But Tonight We Dance,head,dance,0.26666666666666666
+Clocks,But Tonight We Dance,head,noise,0.14285714285714285
+Clocks,But Tonight We Dance,blood,tonight,0.2857142857142857
+Clocks,But Tonight We Dance,blood,dance,0.26666666666666666
+Clocks,But Tonight We Dance,blood,noise,0.26666666666666666
+Clocks,Bricks,clocks,bricks,0.42105263157894735
+Clocks,Bricks,clocks,witness,0.5714285714285714
+Clocks,Bricks,clocks,sufferer,0.5714285714285714
+Clocks,Bricks,rush,bricks,0.125
+Clocks,Bricks,rush,witness,0.13333333333333333
+Clocks,Bricks,rush,sufferer,0.13333333333333333
+Clocks,Bricks,head,bricks,0.2857142857142857
+Clocks,Bricks,head,witness,0.3076923076923077
+Clocks,Bricks,head,sufferer,0.3076923076923077
+Clocks,Bricks,blood,bricks,0.2857142857142857
+Clocks,Bricks,blood,witness,0.3076923076923077
+Clocks,Bricks,blood,sufferer,0.3076923076923077
+Clocks,Remains Of Summer Memories,clocks,summer,0.10526315789473684
+Clocks,Remains Of Summer Memories,clocks,memories,0.10526315789473684
+Clocks,Remains Of Summer Memories,clocks,remains,0.375
+Clocks,Remains Of Summer Memories,clocks,unraveling,0
+Clocks,Remains Of Summer Memories,rush,summer,0.25
+Clocks,Remains Of Summer Memories,rush,memories,0.375
+Clocks,Remains Of Summer Memories,rush,remains,0.15384615384615385
+Clocks,Remains Of Summer Memories,rush,unraveling,0
+Clocks,Remains Of Summer Memories,head,summer,0.14285714285714285
+Clocks,Remains Of Summer Memories,head,memories,0.14285714285714285
+Clocks,Remains Of Summer Memories,head,remains,0.36363636363636365
+Clocks,Remains Of Summer Memories,head,unraveling,0
+Clocks,Remains Of Summer Memories,blood,summer,0.26666666666666666
+Clocks,Remains Of Summer Memories,blood,memories,0.26666666666666666
+Clocks,Remains Of Summer Memories,blood,remains,0.36363636363636365
+Clocks,Remains Of Summer Memories,blood,unraveling,0
+Clocks,Black Masks & Gasoline,clocks,black,0.1
+Clocks,Black Masks & Gasoline,clocks,masks,0.42105263157894735
+Clocks,Black Masks & Gasoline,clocks,gasoline,0.2222222222222222
+Clocks,Black Masks & Gasoline,clocks,revolutions,0.10526315789473684
+Clocks,Black Masks & Gasoline,clocks,minute,0.11764705882352941
+Clocks,Black Masks & Gasoline,rush,black,0.23529411764705882
+Clocks,Black Masks & Gasoline,rush,masks,0.125
+Clocks,Black Masks & Gasoline,rush,gasoline,0.23529411764705882
+Clocks,Black Masks & Gasoline,rush,revolutions,0.5
+Clocks,Black Masks & Gasoline,rush,minute,0.2857142857142857
+Clocks,Black Masks & Gasoline,head,black,0.13333333333333333
+Clocks,Black Masks & Gasoline,head,masks,0.2857142857142857
+Clocks,Black Masks & Gasoline,head,gasoline,0.3076923076923077
+Clocks,Black Masks & Gasoline,head,revolutions,0.14285714285714285
+Clocks,Black Masks & Gasoline,head,minute,0.16666666666666666
+Clocks,Black Masks & Gasoline,blood,black,0.25
+Clocks,Black Masks & Gasoline,blood,masks,0.2857142857142857
+Clocks,Black Masks & Gasoline,blood,gasoline,0.42105263157894735
+Clocks,Black Masks & Gasoline,blood,revolutions,0.26666666666666666
+Clocks,Black Masks & Gasoline,blood,minute,0.3076923076923077
+Clocks,Behind Closed Doors,clocks,behind,0.2222222222222222
+Clocks,Behind Closed Doors,clocks,closed,0
+Clocks,Behind Closed Doors,clocks,doors,0.36363636363636365
+Clocks,Behind Closed Doors,clocks,witness,0.5714285714285714
+Clocks,Behind Closed Doors,clocks,sufferer,0.5714285714285714
+Clocks,Behind Closed Doors,rush,behind,0.13333333333333333
+Clocks,Behind Closed Doors,rush,closed,0
+Clocks,Behind Closed Doors,rush,doors,0.10526315789473684
+Clocks,Behind Closed Doors,rush,witness,0.13333333333333333
+Clocks,Behind Closed Doors,rush,sufferer,0.13333333333333333
+Clocks,Behind Closed Doors,head,behind,0.7692307692307693
+Clocks,Behind Closed Doors,head,closed,0
+Clocks,Behind Closed Doors,head,doors,0.23529411764705882
+Clocks,Behind Closed Doors,head,witness,0.3076923076923077
+Clocks,Behind Closed Doors,head,sufferer,0.3076923076923077
+Clocks,Behind Closed Doors,blood,behind,0.3076923076923077
+Clocks,Behind Closed Doors,blood,closed,0
+Clocks,Behind Closed Doors,blood,doors,0.23529411764705882
+Clocks,Behind Closed Doors,blood,witness,0.3076923076923077
+Clocks,Behind Closed Doors,blood,sufferer,0.3076923076923077
+Clocks,Paper Wings,clocks,paper,0.2222222222222222
+Clocks,Paper Wings,clocks,wings,0.1
+Clocks,Paper Wings,clocks,siren,0.08
+Clocks,Paper Wings,clocks,song,0.10526315789473684
+Clocks,Paper Wings,clocks,culture,0.1111111111111111
+Clocks,Paper Wings,clocks,counter,0.36363636363636365
+Clocks,Paper Wings,rush,paper,0.25
+Clocks,Paper Wings,rush,wings,0.5882352941176471
+Clocks,Paper Wings,rush,siren,0.2727272727272727
+Clocks,Paper Wings,rush,song,0.25
+Clocks,Paper Wings,rush,culture,0.26666666666666666
+Clocks,Paper Wings,rush,counter,0.10526315789473684
+Clocks,Paper Wings,head,paper,0.3076923076923077
+Clocks,Paper Wings,head,wings,0.13333333333333333
+Clocks,Paper Wings,head,siren,0.1
+Clocks,Paper Wings,head,song,0.14285714285714285
+Clocks,Paper Wings,head,culture,0.15384615384615385
+Clocks,Paper Wings,head,counter,0.23529411764705882
+Clocks,Paper Wings,blood,paper,0.5333333333333333
+Clocks,Paper Wings,blood,wings,0.25
+Clocks,Paper Wings,blood,siren,0.19047619047619047
+Clocks,Paper Wings,blood,song,0.26666666666666666
+Clocks,Paper Wings,blood,culture,0.2857142857142857
+Clocks,Paper Wings,blood,counter,0.23529411764705882
+Clocks,Broken English,clocks,broken,0
+Clocks,Broken English,clocks,english,0.09523809523809523
+Clocks,Broken English,clocks,revolutions,0.10526315789473684
+Clocks,Broken English,clocks,minute,0.11764705882352941
+Clocks,Broken English,rush,broken,0
+Clocks,Broken English,rush,english,0.2222222222222222
+Clocks,Broken English,rush,revolutions,0.5
+Clocks,Broken English,rush,minute,0.2857142857142857
+Clocks,Broken English,head,broken,0
+Clocks,Broken English,head,english,0.125
+Clocks,Broken English,head,revolutions,0.14285714285714285
+Clocks,Broken English,head,minute,0.16666666666666666
+Clocks,Broken English,blood,broken,0
+Clocks,Broken English,blood,english,0.23529411764705882
+Clocks,Broken English,blood,revolutions,0.26666666666666666
+Clocks,Broken English,blood,minute,0.3076923076923077
+Clocks,Savior,clocks,savior,0.5714285714285714
+Clocks,Savior,clocks,reason,0.1111111111111111
+Clocks,Savior,clocks,appeal,0.1
+Clocks,Savior,rush,savior,0.3157894736842105
+Clocks,Savior,rush,reason,0.4
+Clocks,Savior,rush,appeal,0.5882352941176471
+Clocks,Savior,head,savior,0.3076923076923077
+Clocks,Savior,head,reason,0.15384615384615385
+Clocks,Savior,head,appeal,0.13333333333333333
+Clocks,Savior,blood,savior,0.25
+Clocks,Savior,blood,reason,0.2857142857142857
+Clocks,Savior,blood,appeal,0.25
+Clocks,Blood To Bleed,clocks,blood,0.21052631578947367
+Clocks,Blood To Bleed,clocks,bleed,0
+Clocks,Blood To Bleed,clocks,siren,0.08
+Clocks,Blood To Bleed,clocks,song,0.10526315789473684
+Clocks,Blood To Bleed,clocks,culture,0.1111111111111111
+Clocks,Blood To Bleed,clocks,counter,0.36363636363636365
+Clocks,Blood To Bleed,rush,blood,0.23529411764705882
+Clocks,Blood To Bleed,rush,bleed,0
+Clocks,Blood To Bleed,rush,siren,0.2727272727272727
+Clocks,Blood To Bleed,rush,song,0.25
+Clocks,Blood To Bleed,rush,culture,0.26666666666666666
+Clocks,Blood To Bleed,rush,counter,0.10526315789473684
+Clocks,Blood To Bleed,head,blood,0.2857142857142857
+Clocks,Blood To Bleed,head,bleed,0
+Clocks,Blood To Bleed,head,siren,0.1
+Clocks,Blood To Bleed,head,song,0.14285714285714285
+Clocks,Blood To Bleed,head,culture,0.15384615384615385
+Clocks,Blood To Bleed,head,counter,0.23529411764705882
+Clocks,Blood To Bleed,blood,blood,1.0
+Clocks,Blood To Bleed,blood,bleed,0
+Clocks,Blood To Bleed,blood,siren,0.19047619047619047
+Clocks,Blood To Bleed,blood,song,0.26666666666666666
+Clocks,Blood To Bleed,blood,culture,0.2857142857142857
+Clocks,Blood To Bleed,blood,counter,0.23529411764705882
+Clocks,Survive,clocks,survive,0
+Clocks,Survive,clocks,witness,0.5714285714285714
+Clocks,Survive,clocks,sufferer,0.5714285714285714
+Clocks,Survive,rush,survive,0
+Clocks,Survive,rush,witness,0.13333333333333333
+Clocks,Survive,rush,sufferer,0.13333333333333333
+Clocks,Survive,head,survive,0
+Clocks,Survive,head,witness,0.3076923076923077
+Clocks,Survive,head,sufferer,0.3076923076923077
+Clocks,Survive,blood,survive,0
+Clocks,Survive,blood,witness,0.3076923076923077
+Clocks,Survive,blood,sufferer,0.3076923076923077
+Clocks,The First Drop,clocks,first,0.10526315789473684
+Clocks,The First Drop,clocks,drop,0.10526315789473684
+Clocks,The First Drop,clocks,siren,0.08
+Clocks,The First Drop,clocks,song,0.10526315789473684
+Clocks,The First Drop,clocks,culture,0.1111111111111111
+Clocks,The First Drop,clocks,counter,0.36363636363636365
+Clocks,The First Drop,rush,first,0.25
+Clocks,The First Drop,rush,drop,0.25
+Clocks,The First Drop,rush,siren,0.2727272727272727
+Clocks,The First Drop,rush,song,0.25
+Clocks,The First Drop,rush,culture,0.26666666666666666
+Clocks,The First Drop,rush,counter,0.10526315789473684
+Clocks,The First Drop,head,first,0.14285714285714285
+Clocks,The First Drop,head,drop,0.14285714285714285
+Clocks,The First Drop,head,siren,0.1
+Clocks,The First Drop,head,song,0.14285714285714285
+Clocks,The First Drop,head,culture,0.15384615384615385
+Clocks,The First Drop,head,counter,0.23529411764705882
+Clocks,The First Drop,blood,first,0.26666666666666666
+Clocks,The First Drop,blood,drop,0.26666666666666666
+Clocks,The First Drop,blood,siren,0.19047619047619047
+Clocks,The First Drop,blood,song,0.26666666666666666
+Clocks,The First Drop,blood,culture,0.2857142857142857
+Clocks,The First Drop,blood,counter,0.23529411764705882
+Clocks,Voices Off Camera,clocks,voices,0.10526315789473684
+Clocks,Voices Off Camera,clocks,camera,0.38095238095238093
+Clocks,Voices Off Camera,clocks,revolutions,0.10526315789473684
+Clocks,Voices Off Camera,clocks,minute,0.11764705882352941
+Clocks,Voices Off Camera,rush,voices,0.25
+Clocks,Voices Off Camera,rush,camera,0.1111111111111111
+Clocks,Voices Off Camera,rush,revolutions,0.5
+Clocks,Voices Off Camera,rush,minute,0.2857142857142857
+Clocks,Voices Off Camera,head,voices,0.14285714285714285
+Clocks,Voices Off Camera,head,camera,0.25
+Clocks,Voices Off Camera,head,revolutions,0.14285714285714285
+Clocks,Voices Off Camera,head,minute,0.16666666666666666
+Clocks,Voices Off Camera,blood,voices,0.26666666666666666
+Clocks,Voices Off Camera,blood,camera,0.25
+Clocks,Voices Off Camera,blood,revolutions,0.26666666666666666
+Clocks,Voices Off Camera,blood,minute,0.3076923076923077
+Strawberry Swing,Boy's No Good,strawberry,good,0.125
+Strawberry Swing,Boy's No Good,strawberry,boy,0.38095238095238093
+Strawberry Swing,Boy's No Good,strawberry,one,0.11764705882352941
+Strawberry Swing,Boy's No Good,strawberry,audience,0.13333333333333333
+Strawberry Swing,Boy's No Good,swing,good,0.46153846153846156
+Strawberry Swing,Boy's No Good,swing,boy,0.16666666666666666
+Strawberry Swing,Boy's No Good,swing,one,0.2857142857142857
+Strawberry Swing,Boy's No Good,swing,audience,0.3333333333333333
+Strawberry Swing,Boy's No Good,viva,good,0.26666666666666666
+Strawberry Swing,Boy's No Good,viva,boy,0.14285714285714285
+Strawberry Swing,Boy's No Good,viva,one,0.25
+Strawberry Swing,Boy's No Good,viva,audience,0.2857142857142857
+Strawberry Swing,Boy's No Good,la,good,0.26666666666666666
+Strawberry Swing,Boy's No Good,la,boy,0.3076923076923077
+Strawberry Swing,Boy's No Good,la,one,0.25
+Strawberry Swing,Boy's No Good,la,audience,0.2857142857142857
+Strawberry Swing,Boy's No Good,march,good,0.26666666666666666
+Strawberry Swing,Boy's No Good,march,boy,0.14285714285714285
+Strawberry Swing,Boy's No Good,march,one,0.375
+Strawberry Swing,Boy's No Good,march,audience,0.2857142857142857
+Strawberry Swing,Boy's No Good,edition,good,0.1111111111111111
+Strawberry Swing,Boy's No Good,edition,boy,0.4
+Strawberry Swing,Boy's No Good,edition,one,0.10526315789473684
+Strawberry Swing,Boy's No Good,edition,audience,0.11764705882352941
+Strawberry Swing,Entertainment,strawberry,entertainment,0.11764705882352941
+Strawberry Swing,Entertainment,strawberry,reason,0.13333333333333333
+Strawberry Swing,Entertainment,strawberry,appeal,0.11764705882352941
+Strawberry Swing,Entertainment,swing,entertainment,0.2857142857142857
+Strawberry Swing,Entertainment,swing,reason,0.3333333333333333
+Strawberry Swing,Entertainment,swing,appeal,0.2857142857142857
+Strawberry Swing,Entertainment,viva,entertainment,0.625
+Strawberry Swing,Entertainment,viva,reason,0.42857142857142855
+Strawberry Swing,Entertainment,viva,appeal,0.625
+Strawberry Swing,Entertainment,la,entertainment,0.25
+Strawberry Swing,Entertainment,la,reason,0.2857142857142857
+Strawberry Swing,Entertainment,la,appeal,0.25
+Strawberry Swing,Entertainment,march,entertainment,0.25
+Strawberry Swing,Entertainment,march,reason,0.2857142857142857
+Strawberry Swing,Entertainment,march,appeal,0.25
+Strawberry Swing,Entertainment,edition,entertainment,0.10526315789473684
+Strawberry Swing,Entertainment,edition,reason,0.11764705882352941
+Strawberry Swing,Entertainment,edition,appeal,0.10526315789473684
+Strawberry Swing,The Art Of Losing,strawberry,losing,0
+Strawberry Swing,The Art Of Losing,strawberry,art,0.42105263157894735
+Strawberry Swing,The Art Of Losing,strawberry,unraveling,0
+Strawberry Swing,The Art Of Losing,swing,losing,0
+Strawberry Swing,The Art Of Losing,swing,art,0.15384615384615385
+Strawberry Swing,The Art Of Losing,swing,unraveling,0
+Strawberry Swing,The Art Of Losing,viva,losing,0
+Strawberry Swing,The Art Of Losing,viva,art,0.13333333333333333
+Strawberry Swing,The Art Of Losing,viva,unraveling,0
+Strawberry Swing,The Art Of Losing,la,losing,0
+Strawberry Swing,The Art Of Losing,la,art,0.2857142857142857
+Strawberry Swing,The Art Of Losing,la,unraveling,0
+Strawberry Swing,The Art Of Losing,march,losing,0
+Strawberry Swing,The Art Of Losing,march,art,0.13333333333333333
+Strawberry Swing,The Art Of Losing,march,unraveling,0
+Strawberry Swing,The Art Of Losing,edition,losing,0
+Strawberry Swing,The Art Of Losing,edition,art,0.6666666666666666
+Strawberry Swing,The Art Of Losing,edition,unraveling,0
+Strawberry Swing,But Tonight We Dance,strawberry,tonight,0.13333333333333333
+Strawberry Swing,But Tonight We Dance,strawberry,dance,0.4
+Strawberry Swing,But Tonight We Dance,strawberry,noise,0.125
+Strawberry Swing,But Tonight We Dance,swing,tonight,0.5
+Strawberry Swing,But Tonight We Dance,swing,dance,0.14285714285714285
+Strawberry Swing,But Tonight We Dance,swing,noise,0.3076923076923077
+Strawberry Swing,But Tonight We Dance,viva,tonight,0.2857142857142857
+Strawberry Swing,But Tonight We Dance,viva,dance,0.125
+Strawberry Swing,But Tonight We Dance,viva,noise,0.5333333333333333
+Strawberry Swing,But Tonight We Dance,la,tonight,0.2857142857142857
+Strawberry Swing,But Tonight We Dance,la,dance,0.26666666666666666
+Strawberry Swing,But Tonight We Dance,la,noise,0.26666666666666666
+Strawberry Swing,But Tonight We Dance,march,tonight,0.2857142857142857
+Strawberry Swing,But Tonight We Dance,march,dance,0.125
+Strawberry Swing,But Tonight We Dance,march,noise,0.26666666666666666
+Strawberry Swing,But Tonight We Dance,edition,tonight,0.11764705882352941
+Strawberry Swing,But Tonight We Dance,edition,dance,0.631578947368421
+Strawberry Swing,But Tonight We Dance,edition,noise,0.1111111111111111
+Strawberry Swing,Bricks,strawberry,bricks,0.42105263157894735
+Strawberry Swing,Bricks,strawberry,witness,0.38095238095238093
+Strawberry Swing,Bricks,strawberry,sufferer,0.38095238095238093
+Strawberry Swing,Bricks,swing,bricks,0.15384615384615385
+Strawberry Swing,Bricks,swing,witness,0.16666666666666666
+Strawberry Swing,Bricks,swing,sufferer,0.16666666666666666
+Strawberry Swing,Bricks,viva,bricks,0.13333333333333333
+Strawberry Swing,Bricks,viva,witness,0.14285714285714285
+Strawberry Swing,Bricks,viva,sufferer,0.14285714285714285
+Strawberry Swing,Bricks,la,bricks,0.2857142857142857
+Strawberry Swing,Bricks,la,witness,0.3076923076923077
+Strawberry Swing,Bricks,la,sufferer,0.3076923076923077
+Strawberry Swing,Bricks,march,bricks,0.13333333333333333
+Strawberry Swing,Bricks,march,witness,0.14285714285714285
+Strawberry Swing,Bricks,march,sufferer,0.14285714285714285
+Strawberry Swing,Bricks,edition,bricks,0.5555555555555556
+Strawberry Swing,Bricks,edition,witness,0.4
+Strawberry Swing,Bricks,edition,sufferer,0.4
+Strawberry Swing,Remains Of Summer Memories,strawberry,summer,0.125
+Strawberry Swing,Remains Of Summer Memories,strawberry,memories,0.125
+Strawberry Swing,Remains Of Summer Memories,strawberry,remains,0.4
+Strawberry Swing,Remains Of Summer Memories,strawberry,unraveling,0
+Strawberry Swing,Remains Of Summer Memories,swing,summer,0.3076923076923077
+Strawberry Swing,Remains Of Summer Memories,swing,memories,0.3076923076923077
+Strawberry Swing,Remains Of Summer Memories,swing,remains,0.2
+Strawberry Swing,Remains Of Summer Memories,swing,unraveling,0
+Strawberry Swing,Remains Of Summer Memories,viva,summer,0.26666666666666666
+Strawberry Swing,Remains Of Summer Memories,viva,memories,0.4
+Strawberry Swing,Remains Of Summer Memories,viva,remains,0.16666666666666666
+Strawberry Swing,Remains Of Summer Memories,viva,unraveling,0
+Strawberry Swing,Remains Of Summer Memories,la,summer,0.26666666666666666
+Strawberry Swing,Remains Of Summer Memories,la,memories,0.26666666666666666
+Strawberry Swing,Remains Of Summer Memories,la,remains,0.36363636363636365
+Strawberry Swing,Remains Of Summer Memories,la,unraveling,0
+Strawberry Swing,Remains Of Summer Memories,march,summer,0.6666666666666666
+Strawberry Swing,Remains Of Summer Memories,march,memories,0.26666666666666666
+Strawberry Swing,Remains Of Summer Memories,march,remains,0.16666666666666666
+Strawberry Swing,Remains Of Summer Memories,march,unraveling,0
+Strawberry Swing,Remains Of Summer Memories,edition,summer,0.1111111111111111
+Strawberry Swing,Remains Of Summer Memories,edition,memories,0.1111111111111111
+Strawberry Swing,Remains Of Summer Memories,edition,remains,0.4
+Strawberry Swing,Remains Of Summer Memories,edition,unraveling,0
+Strawberry Swing,Black Masks & Gasoline,strawberry,black,0.11764705882352941
+Strawberry Swing,Black Masks & Gasoline,strawberry,masks,0.42105263157894735
+Strawberry Swing,Black Masks & Gasoline,strawberry,gasoline,0.4
+Strawberry Swing,Black Masks & Gasoline,strawberry,revolutions,0.125
+Strawberry Swing,Black Masks & Gasoline,strawberry,minute,0.14285714285714285
+Strawberry Swing,Black Masks & Gasoline,swing,black,0.42857142857142855
+Strawberry Swing,Black Masks & Gasoline,swing,masks,0.15384615384615385
+Strawberry Swing,Black Masks & Gasoline,swing,gasoline,0.2857142857142857
+Strawberry Swing,Black Masks & Gasoline,swing,revolutions,0.3076923076923077
+Strawberry Swing,Black Masks & Gasoline,swing,minute,0.36363636363636365
+Strawberry Swing,Black Masks & Gasoline,viva,black,0.25
+Strawberry Swing,Black Masks & Gasoline,viva,masks,0.13333333333333333
+Strawberry Swing,Black Masks & Gasoline,viva,gasoline,0.25
+Strawberry Swing,Black Masks & Gasoline,viva,revolutions,0.5333333333333333
+Strawberry Swing,Black Masks & Gasoline,viva,minute,0.3076923076923077
+Strawberry Swing,Black Masks & Gasoline,la,black,0.25
+Strawberry Swing,Black Masks & Gasoline,la,masks,0.2857142857142857
+Strawberry Swing,Black Masks & Gasoline,la,gasoline,0.42105263157894735
+Strawberry Swing,Black Masks & Gasoline,la,revolutions,0.26666666666666666
+Strawberry Swing,Black Masks & Gasoline,la,minute,0.3076923076923077
+Strawberry Swing,Black Masks & Gasoline,march,black,0.25
+Strawberry Swing,Black Masks & Gasoline,march,masks,0.13333333333333333
+Strawberry Swing,Black Masks & Gasoline,march,gasoline,0.25
+Strawberry Swing,Black Masks & Gasoline,march,revolutions,0.26666666666666666
+Strawberry Swing,Black Masks & Gasoline,march,minute,0.46153846153846156
+Strawberry Swing,Black Masks & Gasoline,edition,black,0.10526315789473684
+Strawberry Swing,Black Masks & Gasoline,edition,masks,0.5555555555555556
+Strawberry Swing,Black Masks & Gasoline,edition,gasoline,0.23529411764705882
+Strawberry Swing,Black Masks & Gasoline,edition,revolutions,0.1111111111111111
+Strawberry Swing,Black Masks & Gasoline,edition,minute,0.125
+Strawberry Swing,Behind Closed Doors,strawberry,behind,0.26666666666666666
+Strawberry Swing,Behind Closed Doors,strawberry,closed,0
+Strawberry Swing,Behind Closed Doors,strawberry,doors,0.36363636363636365
+Strawberry Swing,Behind Closed Doors,strawberry,witness,0.38095238095238093
+Strawberry Swing,Behind Closed Doors,strawberry,sufferer,0.38095238095238093
+Strawberry Swing,Behind Closed Doors,swing,behind,0.16666666666666666
+Strawberry Swing,Behind Closed Doors,swing,closed,0
+Strawberry Swing,Behind Closed Doors,swing,doors,0.125
+Strawberry Swing,Behind Closed Doors,swing,witness,0.16666666666666666
+Strawberry Swing,Behind Closed Doors,swing,sufferer,0.16666666666666666
+Strawberry Swing,Behind Closed Doors,viva,behind,0.14285714285714285
+Strawberry Swing,Behind Closed Doors,viva,closed,0
+Strawberry Swing,Behind Closed Doors,viva,doors,0.1111111111111111
+Strawberry Swing,Behind Closed Doors,viva,witness,0.14285714285714285
+Strawberry Swing,Behind Closed Doors,viva,sufferer,0.14285714285714285
+Strawberry Swing,Behind Closed Doors,la,behind,0.3076923076923077
+Strawberry Swing,Behind Closed Doors,la,closed,0
+Strawberry Swing,Behind Closed Doors,la,doors,0.23529411764705882
+Strawberry Swing,Behind Closed Doors,la,witness,0.3076923076923077
+Strawberry Swing,Behind Closed Doors,la,sufferer,0.3076923076923077
+Strawberry Swing,Behind Closed Doors,march,behind,0.14285714285714285
+Strawberry Swing,Behind Closed Doors,march,closed,0
+Strawberry Swing,Behind Closed Doors,march,doors,0.1111111111111111
+Strawberry Swing,Behind Closed Doors,march,witness,0.14285714285714285
+Strawberry Swing,Behind Closed Doors,march,sufferer,0.14285714285714285
+Strawberry Swing,Behind Closed Doors,edition,behind,0.23529411764705882
+Strawberry Swing,Behind Closed Doors,edition,closed,0
+Strawberry Swing,Behind Closed Doors,edition,doors,0.47619047619047616
+Strawberry Swing,Behind Closed Doors,edition,witness,0.4
+Strawberry Swing,Behind Closed Doors,edition,sufferer,0.4
+Strawberry Swing,Paper Wings,strawberry,paper,0.4
+Strawberry Swing,Paper Wings,strawberry,wings,0.11764705882352941
+Strawberry Swing,Paper Wings,strawberry,siren,0.09090909090909091
+Strawberry Swing,Paper Wings,strawberry,song,0.125
+Strawberry Swing,Paper Wings,strawberry,culture,0.13333333333333333
+Strawberry Swing,Paper Wings,strawberry,counter,0.36363636363636365
+Strawberry Swing,Paper Wings,swing,paper,0.3076923076923077
+Strawberry Swing,Paper Wings,swing,wings,0.2857142857142857
+Strawberry Swing,Paper Wings,swing,siren,0.21052631578947367
+Strawberry Swing,Paper Wings,swing,song,0.3076923076923077
+Strawberry Swing,Paper Wings,swing,culture,0.3333333333333333
+Strawberry Swing,Paper Wings,swing,counter,0.125
+Strawberry Swing,Paper Wings,viva,paper,0.26666666666666666
+Strawberry Swing,Paper Wings,viva,wings,0.625
+Strawberry Swing,Paper Wings,viva,siren,0.2857142857142857
+Strawberry Swing,Paper Wings,viva,song,0.26666666666666666
+Strawberry Swing,Paper Wings,viva,culture,0.2857142857142857
+Strawberry Swing,Paper Wings,viva,counter,0.1111111111111111
+Strawberry Swing,Paper Wings,la,paper,0.5333333333333333
+Strawberry Swing,Paper Wings,la,wings,0.25
+Strawberry Swing,Paper Wings,la,siren,0.19047619047619047
+Strawberry Swing,Paper Wings,la,song,0.26666666666666666
+Strawberry Swing,Paper Wings,la,culture,0.2857142857142857
+Strawberry Swing,Paper Wings,la,counter,0.23529411764705882
+Strawberry Swing,Paper Wings,march,paper,0.26666666666666666
+Strawberry Swing,Paper Wings,march,wings,0.25
+Strawberry Swing,Paper Wings,march,siren,0.19047619047619047
+Strawberry Swing,Paper Wings,march,song,0.26666666666666666
+Strawberry Swing,Paper Wings,march,culture,0.2857142857142857
+Strawberry Swing,Paper Wings,march,counter,0.1111111111111111
+Strawberry Swing,Paper Wings,edition,paper,0.23529411764705882
+Strawberry Swing,Paper Wings,edition,wings,0.10526315789473684
+Strawberry Swing,Paper Wings,edition,siren,0.08333333333333333
+Strawberry Swing,Paper Wings,edition,song,0.1111111111111111
+Strawberry Swing,Paper Wings,edition,culture,0.11764705882352941
+Strawberry Swing,Paper Wings,edition,counter,0.47619047619047616
+Strawberry Swing,Broken English,strawberry,broken,0
+Strawberry Swing,Broken English,strawberry,english,0.1111111111111111
+Strawberry Swing,Broken English,strawberry,revolutions,0.125
+Strawberry Swing,Broken English,strawberry,minute,0.14285714285714285
+Strawberry Swing,Broken English,swing,broken,0
+Strawberry Swing,Broken English,swing,english,0.26666666666666666
+Strawberry Swing,Broken English,swing,revolutions,0.3076923076923077
+Strawberry Swing,Broken English,swing,minute,0.36363636363636365
+Strawberry Swing,Broken English,viva,broken,0
+Strawberry Swing,Broken English,viva,english,0.23529411764705882
+Strawberry Swing,Broken English,viva,revolutions,0.5333333333333333
+Strawberry Swing,Broken English,viva,minute,0.3076923076923077
+Strawberry Swing,Broken English,la,broken,0
+Strawberry Swing,Broken English,la,english,0.23529411764705882
+Strawberry Swing,Broken English,la,revolutions,0.26666666666666666
+Strawberry Swing,Broken English,la,minute,0.3076923076923077
+Strawberry Swing,Broken English,march,broken,0
+Strawberry Swing,Broken English,march,english,0.23529411764705882
+Strawberry Swing,Broken English,march,revolutions,0.26666666666666666
+Strawberry Swing,Broken English,march,minute,0.46153846153846156
+Strawberry Swing,Broken English,edition,broken,0
+Strawberry Swing,Broken English,edition,english,0.1
+Strawberry Swing,Broken English,edition,revolutions,0.1111111111111111
+Strawberry Swing,Broken English,edition,minute,0.125
+Strawberry Swing,Savior,strawberry,savior,0.38095238095238093
+Strawberry Swing,Savior,strawberry,reason,0.13333333333333333
+Strawberry Swing,Savior,strawberry,appeal,0.11764705882352941
+Strawberry Swing,Savior,swing,savior,0.2857142857142857
+Strawberry Swing,Savior,swing,reason,0.3333333333333333
+Strawberry Swing,Savior,swing,appeal,0.2857142857142857
+Strawberry Swing,Savior,viva,savior,0.3333333333333333
+Strawberry Swing,Savior,viva,reason,0.42857142857142855
+Strawberry Swing,Savior,viva,appeal,0.625
+Strawberry Swing,Savior,la,savior,0.25
+Strawberry Swing,Savior,la,reason,0.2857142857142857
+Strawberry Swing,Savior,la,appeal,0.25
+Strawberry Swing,Savior,march,savior,0.25
+Strawberry Swing,Savior,march,reason,0.2857142857142857
+Strawberry Swing,Savior,march,appeal,0.25
+Strawberry Swing,Savior,edition,savior,0.4
+Strawberry Swing,Savior,edition,reason,0.11764705882352941
+Strawberry Swing,Savior,edition,appeal,0.10526315789473684
+Strawberry Swing,Blood To Bleed,strawberry,blood,0.375
+Strawberry Swing,Blood To Bleed,strawberry,bleed,0
+Strawberry Swing,Blood To Bleed,strawberry,siren,0.09090909090909091
+Strawberry Swing,Blood To Bleed,strawberry,song,0.125
+Strawberry Swing,Blood To Bleed,strawberry,culture,0.13333333333333333
+Strawberry Swing,Blood To Bleed,strawberry,counter,0.36363636363636365
+Strawberry Swing,Blood To Bleed,swing,blood,0.2857142857142857
+Strawberry Swing,Blood To Bleed,swing,bleed,0
+Strawberry Swing,Blood To Bleed,swing,siren,0.21052631578947367
+Strawberry Swing,Blood To Bleed,swing,song,0.3076923076923077
+Strawberry Swing,Blood To Bleed,swing,culture,0.3333333333333333
+Strawberry Swing,Blood To Bleed,swing,counter,0.125
+Strawberry Swing,Blood To Bleed,viva,blood,0.25
+Strawberry Swing,Blood To Bleed,viva,bleed,0
+Strawberry Swing,Blood To Bleed,viva,siren,0.2857142857142857
+Strawberry Swing,Blood To Bleed,viva,song,0.26666666666666666
+Strawberry Swing,Blood To Bleed,viva,culture,0.2857142857142857
+Strawberry Swing,Blood To Bleed,viva,counter,0.1111111111111111
+Strawberry Swing,Blood To Bleed,la,blood,0.5
+Strawberry Swing,Blood To Bleed,la,bleed,0
+Strawberry Swing,Blood To Bleed,la,siren,0.19047619047619047
+Strawberry Swing,Blood To Bleed,la,song,0.26666666666666666
+Strawberry Swing,Blood To Bleed,la,culture,0.2857142857142857
+Strawberry Swing,Blood To Bleed,la,counter,0.23529411764705882
+Strawberry Swing,Blood To Bleed,march,blood,0.25
+Strawberry Swing,Blood To Bleed,march,bleed,0
+Strawberry Swing,Blood To Bleed,march,siren,0.19047619047619047
+Strawberry Swing,Blood To Bleed,march,song,0.26666666666666666
+Strawberry Swing,Blood To Bleed,march,culture,0.2857142857142857
+Strawberry Swing,Blood To Bleed,march,counter,0.1111111111111111
+Strawberry Swing,Blood To Bleed,edition,blood,0.2222222222222222
+Strawberry Swing,Blood To Bleed,edition,bleed,0
+Strawberry Swing,Blood To Bleed,edition,siren,0.08333333333333333
+Strawberry Swing,Blood To Bleed,edition,song,0.1111111111111111
+Strawberry Swing,Blood To Bleed,edition,culture,0.11764705882352941
+Strawberry Swing,Blood To Bleed,edition,counter,0.47619047619047616
+Strawberry Swing,Survive,strawberry,survive,0
+Strawberry Swing,Survive,strawberry,witness,0.38095238095238093
+Strawberry Swing,Survive,strawberry,sufferer,0.38095238095238093
+Strawberry Swing,Survive,swing,survive,0
+Strawberry Swing,Survive,swing,witness,0.16666666666666666
+Strawberry Swing,Survive,swing,sufferer,0.16666666666666666
+Strawberry Swing,Survive,viva,survive,0
+Strawberry Swing,Survive,viva,witness,0.14285714285714285
+Strawberry Swing,Survive,viva,sufferer,0.14285714285714285
+Strawberry Swing,Survive,la,survive,0
+Strawberry Swing,Survive,la,witness,0.3076923076923077
+Strawberry Swing,Survive,la,sufferer,0.3076923076923077
+Strawberry Swing,Survive,march,survive,0
+Strawberry Swing,Survive,march,witness,0.14285714285714285
+Strawberry Swing,Survive,march,sufferer,0.14285714285714285
+Strawberry Swing,Survive,edition,survive,0
+Strawberry Swing,Survive,edition,witness,0.4
+Strawberry Swing,Survive,edition,sufferer,0.4
+Strawberry Swing,The First Drop,strawberry,first,0.125
+Strawberry Swing,The First Drop,strawberry,drop,0.125
+Strawberry Swing,The First Drop,strawberry,siren,0.09090909090909091
+Strawberry Swing,The First Drop,strawberry,song,0.125
+Strawberry Swing,The First Drop,strawberry,culture,0.13333333333333333
+Strawberry Swing,The First Drop,strawberry,counter,0.36363636363636365
+Strawberry Swing,The First Drop,swing,first,0.6153846153846154
+Strawberry Swing,The First Drop,swing,drop,0.46153846153846156
+Strawberry Swing,The First Drop,swing,siren,0.21052631578947367
+Strawberry Swing,The First Drop,swing,song,0.3076923076923077
+Strawberry Swing,The First Drop,swing,culture,0.3333333333333333
+Strawberry Swing,The First Drop,swing,counter,0.125
+Strawberry Swing,The First Drop,viva,first,0.26666666666666666
+Strawberry Swing,The First Drop,viva,drop,0.26666666666666666
+Strawberry Swing,The First Drop,viva,siren,0.2857142857142857
+Strawberry Swing,The First Drop,viva,song,0.26666666666666666
+Strawberry Swing,The First Drop,viva,culture,0.2857142857142857
+Strawberry Swing,The First Drop,viva,counter,0.1111111111111111
+Strawberry Swing,The First Drop,la,first,0.26666666666666666
+Strawberry Swing,The First Drop,la,drop,0.26666666666666666
+Strawberry Swing,The First Drop,la,siren,0.19047619047619047
+Strawberry Swing,The First Drop,la,song,0.26666666666666666
+Strawberry Swing,The First Drop,la,culture,0.2857142857142857
+Strawberry Swing,The First Drop,la,counter,0.23529411764705882
+Strawberry Swing,The First Drop,march,first,0.26666666666666666
+Strawberry Swing,The First Drop,march,drop,0.26666666666666666
+Strawberry Swing,The First Drop,march,siren,0.19047619047619047
+Strawberry Swing,The First Drop,march,song,0.26666666666666666
+Strawberry Swing,The First Drop,march,culture,0.2857142857142857
+Strawberry Swing,The First Drop,march,counter,0.1111111111111111
+Strawberry Swing,The First Drop,edition,first,0.1111111111111111
+Strawberry Swing,The First Drop,edition,drop,0.1111111111111111
+Strawberry Swing,The First Drop,edition,siren,0.08333333333333333
+Strawberry Swing,The First Drop,edition,song,0.1111111111111111
+Strawberry Swing,The First Drop,edition,culture,0.11764705882352941
+Strawberry Swing,The First Drop,edition,counter,0.47619047619047616
+Strawberry Swing,Voices Off Camera,strawberry,voices,0.125
+Strawberry Swing,Voices Off Camera,strawberry,camera,0.38095238095238093
+Strawberry Swing,Voices Off Camera,strawberry,revolutions,0.125
+Strawberry Swing,Voices Off Camera,strawberry,minute,0.14285714285714285
+Strawberry Swing,Voices Off Camera,swing,voices,0.46153846153846156
+Strawberry Swing,Voices Off Camera,swing,camera,0.13333333333333333
+Strawberry Swing,Voices Off Camera,swing,revolutions,0.3076923076923077
+Strawberry Swing,Voices Off Camera,swing,minute,0.36363636363636365
+Strawberry Swing,Voices Off Camera,viva,voices,0.26666666666666666
+Strawberry Swing,Voices Off Camera,viva,camera,0.11764705882352941
+Strawberry Swing,Voices Off Camera,viva,revolutions,0.5333333333333333
+Strawberry Swing,Voices Off Camera,viva,minute,0.3076923076923077
+Strawberry Swing,Voices Off Camera,la,voices,0.26666666666666666
+Strawberry Swing,Voices Off Camera,la,camera,0.25
+Strawberry Swing,Voices Off Camera,la,revolutions,0.26666666666666666
+Strawberry Swing,Voices Off Camera,la,minute,0.3076923076923077
+Strawberry Swing,Voices Off Camera,march,voices,0.26666666666666666
+Strawberry Swing,Voices Off Camera,march,camera,0.11764705882352941
+Strawberry Swing,Voices Off Camera,march,revolutions,0.26666666666666666
+Strawberry Swing,Voices Off Camera,march,minute,0.46153846153846156
+Strawberry Swing,Voices Off Camera,edition,voices,0.1111111111111111
+Strawberry Swing,Voices Off Camera,edition,camera,0.5
+Strawberry Swing,Voices Off Camera,edition,revolutions,0.1111111111111111
+Strawberry Swing,Voices Off Camera,edition,minute,0.125
+Life In Technicolor ii,Boy's No Good,technicolor,good,0.26666666666666666
+Life In Technicolor ii,Boy's No Good,technicolor,boy,0.14285714285714285
+Life In Technicolor ii,Boy's No Good,technicolor,one,0.25
+Life In Technicolor ii,Boy's No Good,technicolor,audience,0.2857142857142857
+Life In Technicolor ii,Boy's No Good,ii,good,0.26666666666666666
+Life In Technicolor ii,Boy's No Good,ii,boy,0.14285714285714285
+Life In Technicolor ii,Boy's No Good,ii,one,0.875
+Life In Technicolor ii,Boy's No Good,ii,audience,0.2857142857142857
+Life In Technicolor ii,Boy's No Good,life,good,0.46153846153846156
+Life In Technicolor ii,Boy's No Good,life,boy,0.16666666666666666
+Life In Technicolor ii,Boy's No Good,life,one,0.2857142857142857
+Life In Technicolor ii,Boy's No Good,life,audience,0.3333333333333333
+Life In Technicolor ii,Boy's No Good,viva,good,0.26666666666666666
+Life In Technicolor ii,Boy's No Good,viva,boy,0.14285714285714285
+Life In Technicolor ii,Boy's No Good,viva,one,0.25
+Life In Technicolor ii,Boy's No Good,viva,audience,0.2857142857142857
+Life In Technicolor ii,Boy's No Good,la,good,0.26666666666666666
+Life In Technicolor ii,Boy's No Good,la,boy,0.3076923076923077
+Life In Technicolor ii,Boy's No Good,la,one,0.25
+Life In Technicolor ii,Boy's No Good,la,audience,0.2857142857142857
+Life In Technicolor ii,Boy's No Good,march,good,0.26666666666666666
+Life In Technicolor ii,Boy's No Good,march,boy,0.14285714285714285
+Life In Technicolor ii,Boy's No Good,march,one,0.375
+Life In Technicolor ii,Boy's No Good,march,audience,0.2857142857142857
+Life In Technicolor ii,Boy's No Good,edition,good,0.1111111111111111
+Life In Technicolor ii,Boy's No Good,edition,boy,0.4
+Life In Technicolor ii,Boy's No Good,edition,one,0.10526315789473684
+Life In Technicolor ii,Boy's No Good,edition,audience,0.11764705882352941
+Life In Technicolor ii,Entertainment,technicolor,entertainment,0.375
+Life In Technicolor ii,Entertainment,technicolor,reason,0.42857142857142855
+Life In Technicolor ii,Entertainment,technicolor,appeal,0.375
+Life In Technicolor ii,Entertainment,ii,entertainment,0.25
+Life In Technicolor ii,Entertainment,ii,reason,0.2857142857142857
+Life In Technicolor ii,Entertainment,ii,appeal,0.25
+Life In Technicolor ii,Entertainment,life,entertainment,0.2857142857142857
+Life In Technicolor ii,Entertainment,life,reason,0.3333333333333333
+Life In Technicolor ii,Entertainment,life,appeal,0.2857142857142857
+Life In Technicolor ii,Entertainment,viva,entertainment,0.625
+Life In Technicolor ii,Entertainment,viva,reason,0.42857142857142855
+Life In Technicolor ii,Entertainment,viva,appeal,0.625
+Life In Technicolor ii,Entertainment,la,entertainment,0.25
+Life In Technicolor ii,Entertainment,la,reason,0.2857142857142857
+Life In Technicolor ii,Entertainment,la,appeal,0.25
+Life In Technicolor ii,Entertainment,march,entertainment,0.25
+Life In Technicolor ii,Entertainment,march,reason,0.2857142857142857
+Life In Technicolor ii,Entertainment,march,appeal,0.25
+Life In Technicolor ii,Entertainment,edition,entertainment,0.10526315789473684
+Life In Technicolor ii,Entertainment,edition,reason,0.11764705882352941
+Life In Technicolor ii,Entertainment,edition,appeal,0.10526315789473684
+Life In Technicolor ii,The Art Of Losing,technicolor,losing,0
+Life In Technicolor ii,The Art Of Losing,technicolor,art,0.13333333333333333
+Life In Technicolor ii,The Art Of Losing,technicolor,unraveling,0
+Life In Technicolor ii,The Art Of Losing,ii,losing,0
+Life In Technicolor ii,The Art Of Losing,ii,art,0.13333333333333333
+Life In Technicolor ii,The Art Of Losing,ii,unraveling,0
+Life In Technicolor ii,The Art Of Losing,life,losing,0
+Life In Technicolor ii,The Art Of Losing,life,art,0.15384615384615385
+Life In Technicolor ii,The Art Of Losing,life,unraveling,0
+Life In Technicolor ii,The Art Of Losing,viva,losing,0
+Life In Technicolor ii,The Art Of Losing,viva,art,0.13333333333333333
+Life In Technicolor ii,The Art Of Losing,viva,unraveling,0
+Life In Technicolor ii,The Art Of Losing,la,losing,0
+Life In Technicolor ii,The Art Of Losing,la,art,0.2857142857142857
+Life In Technicolor ii,The Art Of Losing,la,unraveling,0
+Life In Technicolor ii,The Art Of Losing,march,losing,0
+Life In Technicolor ii,The Art Of Losing,march,art,0.13333333333333333
+Life In Technicolor ii,The Art Of Losing,march,unraveling,0
+Life In Technicolor ii,The Art Of Losing,edition,losing,0
+Life In Technicolor ii,The Art Of Losing,edition,art,0.6666666666666666
+Life In Technicolor ii,The Art Of Losing,edition,unraveling,0
+Life In Technicolor ii,But Tonight We Dance,technicolor,tonight,0.2857142857142857
+Life In Technicolor ii,But Tonight We Dance,technicolor,dance,0.125
+Life In Technicolor ii,But Tonight We Dance,technicolor,noise,0.4
+Life In Technicolor ii,But Tonight We Dance,ii,tonight,0.2857142857142857
+Life In Technicolor ii,But Tonight We Dance,ii,dance,0.125
+Life In Technicolor ii,But Tonight We Dance,ii,noise,0.26666666666666666
+Life In Technicolor ii,But Tonight We Dance,life,tonight,0.5
+Life In Technicolor ii,But Tonight We Dance,life,dance,0.14285714285714285
+Life In Technicolor ii,But Tonight We Dance,life,noise,0.3076923076923077
+Life In Technicolor ii,But Tonight We Dance,viva,tonight,0.2857142857142857
+Life In Technicolor ii,But Tonight We Dance,viva,dance,0.125
+Life In Technicolor ii,But Tonight We Dance,viva,noise,0.5333333333333333
+Life In Technicolor ii,But Tonight We Dance,la,tonight,0.2857142857142857
+Life In Technicolor ii,But Tonight We Dance,la,dance,0.26666666666666666
+Life In Technicolor ii,But Tonight We Dance,la,noise,0.26666666666666666
+Life In Technicolor ii,But Tonight We Dance,march,tonight,0.2857142857142857
+Life In Technicolor ii,But Tonight We Dance,march,dance,0.125
+Life In Technicolor ii,But Tonight We Dance,march,noise,0.26666666666666666
+Life In Technicolor ii,But Tonight We Dance,edition,tonight,0.11764705882352941
+Life In Technicolor ii,But Tonight We Dance,edition,dance,0.631578947368421
+Life In Technicolor ii,But Tonight We Dance,edition,noise,0.1111111111111111
+Life In Technicolor ii,Bricks,technicolor,bricks,0.13333333333333333
+Life In Technicolor ii,Bricks,technicolor,witness,0.14285714285714285
+Life In Technicolor ii,Bricks,technicolor,sufferer,0.14285714285714285
+Life In Technicolor ii,Bricks,ii,bricks,0.13333333333333333
+Life In Technicolor ii,Bricks,ii,witness,0.14285714285714285
+Life In Technicolor ii,Bricks,ii,sufferer,0.14285714285714285
+Life In Technicolor ii,Bricks,life,bricks,0.15384615384615385
+Life In Technicolor ii,Bricks,life,witness,0.16666666666666666
+Life In Technicolor ii,Bricks,life,sufferer,0.16666666666666666
+Life In Technicolor ii,Bricks,viva,bricks,0.13333333333333333
+Life In Technicolor ii,Bricks,viva,witness,0.14285714285714285
+Life In Technicolor ii,Bricks,viva,sufferer,0.14285714285714285
+Life In Technicolor ii,Bricks,la,bricks,0.2857142857142857
+Life In Technicolor ii,Bricks,la,witness,0.3076923076923077
+Life In Technicolor ii,Bricks,la,sufferer,0.3076923076923077
+Life In Technicolor ii,Bricks,march,bricks,0.13333333333333333
+Life In Technicolor ii,Bricks,march,witness,0.14285714285714285
+Life In Technicolor ii,Bricks,march,sufferer,0.14285714285714285
+Life In Technicolor ii,Bricks,edition,bricks,0.5555555555555556
+Life In Technicolor ii,Bricks,edition,witness,0.4
+Life In Technicolor ii,Bricks,edition,sufferer,0.4
+Life In Technicolor ii,Remains Of Summer Memories,technicolor,summer,0.26666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,technicolor,memories,0.5333333333333333
+Life In Technicolor ii,Remains Of Summer Memories,technicolor,remains,0.16666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,technicolor,unraveling,0
+Life In Technicolor ii,Remains Of Summer Memories,ii,summer,0.4
+Life In Technicolor ii,Remains Of Summer Memories,ii,memories,0.26666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,ii,remains,0.16666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,ii,unraveling,0
+Life In Technicolor ii,Remains Of Summer Memories,life,summer,0.3076923076923077
+Life In Technicolor ii,Remains Of Summer Memories,life,memories,0.3076923076923077
+Life In Technicolor ii,Remains Of Summer Memories,life,remains,0.2
+Life In Technicolor ii,Remains Of Summer Memories,life,unraveling,0
+Life In Technicolor ii,Remains Of Summer Memories,viva,summer,0.26666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,viva,memories,0.4
+Life In Technicolor ii,Remains Of Summer Memories,viva,remains,0.16666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,viva,unraveling,0
+Life In Technicolor ii,Remains Of Summer Memories,la,summer,0.26666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,la,memories,0.26666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,la,remains,0.36363636363636365
+Life In Technicolor ii,Remains Of Summer Memories,la,unraveling,0
+Life In Technicolor ii,Remains Of Summer Memories,march,summer,0.6666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,march,memories,0.26666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,march,remains,0.16666666666666666
+Life In Technicolor ii,Remains Of Summer Memories,march,unraveling,0
+Life In Technicolor ii,Remains Of Summer Memories,edition,summer,0.1111111111111111
+Life In Technicolor ii,Remains Of Summer Memories,edition,memories,0.1111111111111111
+Life In Technicolor ii,Remains Of Summer Memories,edition,remains,0.4
+Life In Technicolor ii,Remains Of Summer Memories,edition,unraveling,0
+Life In Technicolor ii,Black Masks & Gasoline,technicolor,black,0.25
+Life In Technicolor ii,Black Masks & Gasoline,technicolor,masks,0.13333333333333333
+Life In Technicolor ii,Black Masks & Gasoline,technicolor,gasoline,0.25
+Life In Technicolor ii,Black Masks & Gasoline,technicolor,revolutions,0.4
+Life In Technicolor ii,Black Masks & Gasoline,technicolor,minute,0.3076923076923077
+Life In Technicolor ii,Black Masks & Gasoline,ii,black,0.25
+Life In Technicolor ii,Black Masks & Gasoline,ii,masks,0.13333333333333333
+Life In Technicolor ii,Black Masks & Gasoline,ii,gasoline,0.25
+Life In Technicolor ii,Black Masks & Gasoline,ii,revolutions,0.26666666666666666
+Life In Technicolor ii,Black Masks & Gasoline,ii,minute,0.46153846153846156
+Life In Technicolor ii,Black Masks & Gasoline,life,black,0.42857142857142855
+Life In Technicolor ii,Black Masks & Gasoline,life,masks,0.15384615384615385
+Life In Technicolor ii,Black Masks & Gasoline,life,gasoline,0.2857142857142857
+Life In Technicolor ii,Black Masks & Gasoline,life,revolutions,0.3076923076923077
+Life In Technicolor ii,Black Masks & Gasoline,life,minute,0.36363636363636365
+Life In Technicolor ii,Black Masks & Gasoline,viva,black,0.25
+Life In Technicolor ii,Black Masks & Gasoline,viva,masks,0.13333333333333333
+Life In Technicolor ii,Black Masks & Gasoline,viva,gasoline,0.25
+Life In Technicolor ii,Black Masks & Gasoline,viva,revolutions,0.5333333333333333
+Life In Technicolor ii,Black Masks & Gasoline,viva,minute,0.3076923076923077
+Life In Technicolor ii,Black Masks & Gasoline,la,black,0.25
+Life In Technicolor ii,Black Masks & Gasoline,la,masks,0.2857142857142857
+Life In Technicolor ii,Black Masks & Gasoline,la,gasoline,0.42105263157894735
+Life In Technicolor ii,Black Masks & Gasoline,la,revolutions,0.26666666666666666
+Life In Technicolor ii,Black Masks & Gasoline,la,minute,0.3076923076923077
+Life In Technicolor ii,Black Masks & Gasoline,march,black,0.25
+Life In Technicolor ii,Black Masks & Gasoline,march,masks,0.13333333333333333
+Life In Technicolor ii,Black Masks & Gasoline,march,gasoline,0.25
+Life In Technicolor ii,Black Masks & Gasoline,march,revolutions,0.26666666666666666
+Life In Technicolor ii,Black Masks & Gasoline,march,minute,0.46153846153846156
+Life In Technicolor ii,Black Masks & Gasoline,edition,black,0.10526315789473684
+Life In Technicolor ii,Black Masks & Gasoline,edition,masks,0.5555555555555556
+Life In Technicolor ii,Black Masks & Gasoline,edition,gasoline,0.23529411764705882
+Life In Technicolor ii,Black Masks & Gasoline,edition,revolutions,0.1111111111111111
+Life In Technicolor ii,Black Masks & Gasoline,edition,minute,0.125
+Life In Technicolor ii,Behind Closed Doors,technicolor,behind,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,technicolor,closed,0
+Life In Technicolor ii,Behind Closed Doors,technicolor,doors,0.1111111111111111
+Life In Technicolor ii,Behind Closed Doors,technicolor,witness,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,technicolor,sufferer,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,ii,behind,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,ii,closed,0
+Life In Technicolor ii,Behind Closed Doors,ii,doors,0.1111111111111111
+Life In Technicolor ii,Behind Closed Doors,ii,witness,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,ii,sufferer,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,life,behind,0.16666666666666666
+Life In Technicolor ii,Behind Closed Doors,life,closed,0
+Life In Technicolor ii,Behind Closed Doors,life,doors,0.125
+Life In Technicolor ii,Behind Closed Doors,life,witness,0.16666666666666666
+Life In Technicolor ii,Behind Closed Doors,life,sufferer,0.16666666666666666
+Life In Technicolor ii,Behind Closed Doors,viva,behind,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,viva,closed,0
+Life In Technicolor ii,Behind Closed Doors,viva,doors,0.1111111111111111
+Life In Technicolor ii,Behind Closed Doors,viva,witness,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,viva,sufferer,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,la,behind,0.3076923076923077
+Life In Technicolor ii,Behind Closed Doors,la,closed,0
+Life In Technicolor ii,Behind Closed Doors,la,doors,0.23529411764705882
+Life In Technicolor ii,Behind Closed Doors,la,witness,0.3076923076923077
+Life In Technicolor ii,Behind Closed Doors,la,sufferer,0.3076923076923077
+Life In Technicolor ii,Behind Closed Doors,march,behind,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,march,closed,0
+Life In Technicolor ii,Behind Closed Doors,march,doors,0.1111111111111111
+Life In Technicolor ii,Behind Closed Doors,march,witness,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,march,sufferer,0.14285714285714285
+Life In Technicolor ii,Behind Closed Doors,edition,behind,0.23529411764705882
+Life In Technicolor ii,Behind Closed Doors,edition,closed,0
+Life In Technicolor ii,Behind Closed Doors,edition,doors,0.47619047619047616
+Life In Technicolor ii,Behind Closed Doors,edition,witness,0.4
+Life In Technicolor ii,Behind Closed Doors,edition,sufferer,0.4
+Life In Technicolor ii,Paper Wings,technicolor,paper,0.26666666666666666
+Life In Technicolor ii,Paper Wings,technicolor,wings,0.375
+Life In Technicolor ii,Paper Wings,technicolor,siren,0.38095238095238093
+Life In Technicolor ii,Paper Wings,technicolor,song,0.26666666666666666
+Life In Technicolor ii,Paper Wings,technicolor,culture,0.2857142857142857
+Life In Technicolor ii,Paper Wings,technicolor,counter,0.1111111111111111
+Life In Technicolor ii,Paper Wings,ii,paper,0.26666666666666666
+Life In Technicolor ii,Paper Wings,ii,wings,0.25
+Life In Technicolor ii,Paper Wings,ii,siren,0.19047619047619047
+Life In Technicolor ii,Paper Wings,ii,song,0.26666666666666666
+Life In Technicolor ii,Paper Wings,ii,culture,0.2857142857142857
+Life In Technicolor ii,Paper Wings,ii,counter,0.1111111111111111
+Life In Technicolor ii,Paper Wings,life,paper,0.3076923076923077
+Life In Technicolor ii,Paper Wings,life,wings,0.2857142857142857
+Life In Technicolor ii,Paper Wings,life,siren,0.21052631578947367
+Life In Technicolor ii,Paper Wings,life,song,0.3076923076923077
+Life In Technicolor ii,Paper Wings,life,culture,0.3333333333333333
+Life In Technicolor ii,Paper Wings,life,counter,0.125
+Life In Technicolor ii,Paper Wings,viva,paper,0.26666666666666666
+Life In Technicolor ii,Paper Wings,viva,wings,0.625
+Life In Technicolor ii,Paper Wings,viva,siren,0.2857142857142857
+Life In Technicolor ii,Paper Wings,viva,song,0.26666666666666666
+Life In Technicolor ii,Paper Wings,viva,culture,0.2857142857142857
+Life In Technicolor ii,Paper Wings,viva,counter,0.1111111111111111
+Life In Technicolor ii,Paper Wings,la,paper,0.5333333333333333
+Life In Technicolor ii,Paper Wings,la,wings,0.25
+Life In Technicolor ii,Paper Wings,la,siren,0.19047619047619047
+Life In Technicolor ii,Paper Wings,la,song,0.26666666666666666
+Life In Technicolor ii,Paper Wings,la,culture,0.2857142857142857
+Life In Technicolor ii,Paper Wings,la,counter,0.23529411764705882
+Life In Technicolor ii,Paper Wings,march,paper,0.26666666666666666
+Life In Technicolor ii,Paper Wings,march,wings,0.25
+Life In Technicolor ii,Paper Wings,march,siren,0.19047619047619047
+Life In Technicolor ii,Paper Wings,march,song,0.26666666666666666
+Life In Technicolor ii,Paper Wings,march,culture,0.2857142857142857
+Life In Technicolor ii,Paper Wings,march,counter,0.1111111111111111
+Life In Technicolor ii,Paper Wings,edition,paper,0.23529411764705882
+Life In Technicolor ii,Paper Wings,edition,wings,0.10526315789473684
+Life In Technicolor ii,Paper Wings,edition,siren,0.08333333333333333
+Life In Technicolor ii,Paper Wings,edition,song,0.1111111111111111
+Life In Technicolor ii,Paper Wings,edition,culture,0.11764705882352941
+Life In Technicolor ii,Paper Wings,edition,counter,0.47619047619047616
+Life In Technicolor ii,Broken English,technicolor,broken,0
+Life In Technicolor ii,Broken English,technicolor,english,0.23529411764705882
+Life In Technicolor ii,Broken English,technicolor,revolutions,0.4
+Life In Technicolor ii,Broken English,technicolor,minute,0.3076923076923077
+Life In Technicolor ii,Broken English,ii,broken,0
+Life In Technicolor ii,Broken English,ii,english,0.23529411764705882
+Life In Technicolor ii,Broken English,ii,revolutions,0.26666666666666666
+Life In Technicolor ii,Broken English,ii,minute,0.46153846153846156
+Life In Technicolor ii,Broken English,life,broken,0
+Life In Technicolor ii,Broken English,life,english,0.26666666666666666
+Life In Technicolor ii,Broken English,life,revolutions,0.3076923076923077
+Life In Technicolor ii,Broken English,life,minute,0.36363636363636365
+Life In Technicolor ii,Broken English,viva,broken,0
+Life In Technicolor ii,Broken English,viva,english,0.23529411764705882
+Life In Technicolor ii,Broken English,viva,revolutions,0.5333333333333333
+Life In Technicolor ii,Broken English,viva,minute,0.3076923076923077
+Life In Technicolor ii,Broken English,la,broken,0
+Life In Technicolor ii,Broken English,la,english,0.23529411764705882
+Life In Technicolor ii,Broken English,la,revolutions,0.26666666666666666
+Life In Technicolor ii,Broken English,la,minute,0.3076923076923077
+Life In Technicolor ii,Broken English,march,broken,0
+Life In Technicolor ii,Broken English,march,english,0.23529411764705882
+Life In Technicolor ii,Broken English,march,revolutions,0.26666666666666666
+Life In Technicolor ii,Broken English,march,minute,0.46153846153846156
+Life In Technicolor ii,Broken English,edition,broken,0
+Life In Technicolor ii,Broken English,edition,english,0.1
+Life In Technicolor ii,Broken English,edition,revolutions,0.1111111111111111
+Life In Technicolor ii,Broken English,edition,minute,0.125
+Life In Technicolor ii,Savior,technicolor,savior,0.4
+Life In Technicolor ii,Savior,technicolor,reason,0.42857142857142855
+Life In Technicolor ii,Savior,technicolor,appeal,0.375
+Life In Technicolor ii,Savior,ii,savior,0.25
+Life In Technicolor ii,Savior,ii,reason,0.2857142857142857
+Life In Technicolor ii,Savior,ii,appeal,0.25
+Life In Technicolor ii,Savior,life,savior,0.2857142857142857
+Life In Technicolor ii,Savior,life,reason,0.3333333333333333
+Life In Technicolor ii,Savior,life,appeal,0.2857142857142857
+Life In Technicolor ii,Savior,viva,savior,0.3333333333333333
+Life In Technicolor ii,Savior,viva,reason,0.42857142857142855
+Life In Technicolor ii,Savior,viva,appeal,0.625
+Life In Technicolor ii,Savior,la,savior,0.25
+Life In Technicolor ii,Savior,la,reason,0.2857142857142857
+Life In Technicolor ii,Savior,la,appeal,0.25
+Life In Technicolor ii,Savior,march,savior,0.25
+Life In Technicolor ii,Savior,march,reason,0.2857142857142857
+Life In Technicolor ii,Savior,march,appeal,0.25
+Life In Technicolor ii,Savior,edition,savior,0.4
+Life In Technicolor ii,Savior,edition,reason,0.11764705882352941
+Life In Technicolor ii,Savior,edition,appeal,0.10526315789473684
+Life In Technicolor ii,Blood To Bleed,technicolor,blood,0.25
+Life In Technicolor ii,Blood To Bleed,technicolor,bleed,0
+Life In Technicolor ii,Blood To Bleed,technicolor,siren,0.38095238095238093
+Life In Technicolor ii,Blood To Bleed,technicolor,song,0.26666666666666666
+Life In Technicolor ii,Blood To Bleed,technicolor,culture,0.2857142857142857
+Life In Technicolor ii,Blood To Bleed,technicolor,counter,0.1111111111111111
+Life In Technicolor ii,Blood To Bleed,ii,blood,0.25
+Life In Technicolor ii,Blood To Bleed,ii,bleed,0
+Life In Technicolor ii,Blood To Bleed,ii,siren,0.19047619047619047
+Life In Technicolor ii,Blood To Bleed,ii,song,0.26666666666666666
+Life In Technicolor ii,Blood To Bleed,ii,culture,0.2857142857142857
+Life In Technicolor ii,Blood To Bleed,ii,counter,0.1111111111111111
+Life In Technicolor ii,Blood To Bleed,life,blood,0.2857142857142857
+Life In Technicolor ii,Blood To Bleed,life,bleed,0
+Life In Technicolor ii,Blood To Bleed,life,siren,0.21052631578947367
+Life In Technicolor ii,Blood To Bleed,life,song,0.3076923076923077
+Life In Technicolor ii,Blood To Bleed,life,culture,0.3333333333333333
+Life In Technicolor ii,Blood To Bleed,life,counter,0.125
+Life In Technicolor ii,Blood To Bleed,viva,blood,0.25
+Life In Technicolor ii,Blood To Bleed,viva,bleed,0
+Life In Technicolor ii,Blood To Bleed,viva,siren,0.2857142857142857
+Life In Technicolor ii,Blood To Bleed,viva,song,0.26666666666666666
+Life In Technicolor ii,Blood To Bleed,viva,culture,0.2857142857142857
+Life In Technicolor ii,Blood To Bleed,viva,counter,0.1111111111111111
+Life In Technicolor ii,Blood To Bleed,la,blood,0.5
+Life In Technicolor ii,Blood To Bleed,la,bleed,0
+Life In Technicolor ii,Blood To Bleed,la,siren,0.19047619047619047
+Life In Technicolor ii,Blood To Bleed,la,song,0.26666666666666666
+Life In Technicolor ii,Blood To Bleed,la,culture,0.2857142857142857
+Life In Technicolor ii,Blood To Bleed,la,counter,0.23529411764705882
+Life In Technicolor ii,Blood To Bleed,march,blood,0.25
+Life In Technicolor ii,Blood To Bleed,march,bleed,0
+Life In Technicolor ii,Blood To Bleed,march,siren,0.19047619047619047
+Life In Technicolor ii,Blood To Bleed,march,song,0.26666666666666666
+Life In Technicolor ii,Blood To Bleed,march,culture,0.2857142857142857
+Life In Technicolor ii,Blood To Bleed,march,counter,0.1111111111111111
+Life In Technicolor ii,Blood To Bleed,edition,blood,0.2222222222222222
+Life In Technicolor ii,Blood To Bleed,edition,bleed,0
+Life In Technicolor ii,Blood To Bleed,edition,siren,0.08333333333333333
+Life In Technicolor ii,Blood To Bleed,edition,song,0.1111111111111111
+Life In Technicolor ii,Blood To Bleed,edition,culture,0.11764705882352941
+Life In Technicolor ii,Blood To Bleed,edition,counter,0.47619047619047616
+Life In Technicolor ii,Survive,technicolor,survive,0
+Life In Technicolor ii,Survive,technicolor,witness,0.14285714285714285
+Life In Technicolor ii,Survive,technicolor,sufferer,0.14285714285714285
+Life In Technicolor ii,Survive,ii,survive,0
+Life In Technicolor ii,Survive,ii,witness,0.14285714285714285
+Life In Technicolor ii,Survive,ii,sufferer,0.14285714285714285
+Life In Technicolor ii,Survive,life,survive,0
+Life In Technicolor ii,Survive,life,witness,0.16666666666666666
+Life In Technicolor ii,Survive,life,sufferer,0.16666666666666666
+Life In Technicolor ii,Survive,viva,survive,0
+Life In Technicolor ii,Survive,viva,witness,0.14285714285714285
+Life In Technicolor ii,Survive,viva,sufferer,0.14285714285714285
+Life In Technicolor ii,Survive,la,survive,0
+Life In Technicolor ii,Survive,la,witness,0.3076923076923077
+Life In Technicolor ii,Survive,la,sufferer,0.3076923076923077
+Life In Technicolor ii,Survive,march,survive,0
+Life In Technicolor ii,Survive,march,witness,0.14285714285714285
+Life In Technicolor ii,Survive,march,sufferer,0.14285714285714285
+Life In Technicolor ii,Survive,edition,survive,0
+Life In Technicolor ii,Survive,edition,witness,0.4
+Life In Technicolor ii,Survive,edition,sufferer,0.4
+Life In Technicolor ii,The First Drop,technicolor,first,0.26666666666666666
+Life In Technicolor ii,The First Drop,technicolor,drop,0.26666666666666666
+Life In Technicolor ii,The First Drop,technicolor,siren,0.38095238095238093
+Life In Technicolor ii,The First Drop,technicolor,song,0.26666666666666666
+Life In Technicolor ii,The First Drop,technicolor,culture,0.2857142857142857
+Life In Technicolor ii,The First Drop,technicolor,counter,0.1111111111111111
+Life In Technicolor ii,The First Drop,ii,first,0.26666666666666666
+Life In Technicolor ii,The First Drop,ii,drop,0.26666666666666666
+Life In Technicolor ii,The First Drop,ii,siren,0.19047619047619047
+Life In Technicolor ii,The First Drop,ii,song,0.26666666666666666
+Life In Technicolor ii,The First Drop,ii,culture,0.2857142857142857
+Life In Technicolor ii,The First Drop,ii,counter,0.1111111111111111
+Life In Technicolor ii,The First Drop,life,first,0.6153846153846154
+Life In Technicolor ii,The First Drop,life,drop,0.46153846153846156
+Life In Technicolor ii,The First Drop,life,siren,0.21052631578947367
+Life In Technicolor ii,The First Drop,life,song,0.3076923076923077
+Life In Technicolor ii,The First Drop,life,culture,0.3333333333333333
+Life In Technicolor ii,The First Drop,life,counter,0.125
+Life In Technicolor ii,The First Drop,viva,first,0.26666666666666666
+Life In Technicolor ii,The First Drop,viva,drop,0.26666666666666666
+Life In Technicolor ii,The First Drop,viva,siren,0.2857142857142857
+Life In Technicolor ii,The First Drop,viva,song,0.26666666666666666
+Life In Technicolor ii,The First Drop,viva,culture,0.2857142857142857
+Life In Technicolor ii,The First Drop,viva,counter,0.1111111111111111
+Life In Technicolor ii,The First Drop,la,first,0.26666666666666666
+Life In Technicolor ii,The First Drop,la,drop,0.26666666666666666
+Life In Technicolor ii,The First Drop,la,siren,0.19047619047619047
+Life In Technicolor ii,The First Drop,la,song,0.26666666666666666
+Life In Technicolor ii,The First Drop,la,culture,0.2857142857142857
+Life In Technicolor ii,The First Drop,la,counter,0.23529411764705882
+Life In Technicolor ii,The First Drop,march,first,0.26666666666666666
+Life In Technicolor ii,The First Drop,march,drop,0.26666666666666666
+Life In Technicolor ii,The First Drop,march,siren,0.19047619047619047
+Life In Technicolor ii,The First Drop,march,song,0.26666666666666666
+Life In Technicolor ii,The First Drop,march,culture,0.2857142857142857
+Life In Technicolor ii,The First Drop,march,counter,0.1111111111111111
+Life In Technicolor ii,The First Drop,edition,first,0.1111111111111111
+Life In Technicolor ii,The First Drop,edition,drop,0.1111111111111111
+Life In Technicolor ii,The First Drop,edition,siren,0.08333333333333333
+Life In Technicolor ii,The First Drop,edition,song,0.1111111111111111
+Life In Technicolor ii,The First Drop,edition,culture,0.11764705882352941
+Life In Technicolor ii,The First Drop,edition,counter,0.47619047619047616
+Life In Technicolor ii,Voices Off Camera,technicolor,voices,0.26666666666666666
+Life In Technicolor ii,Voices Off Camera,technicolor,camera,0.11764705882352941
+Life In Technicolor ii,Voices Off Camera,technicolor,revolutions,0.4
+Life In Technicolor ii,Voices Off Camera,technicolor,minute,0.3076923076923077
+Life In Technicolor ii,Voices Off Camera,ii,voices,0.26666666666666666
+Life In Technicolor ii,Voices Off Camera,ii,camera,0.11764705882352941
+Life In Technicolor ii,Voices Off Camera,ii,revolutions,0.26666666666666666
+Life In Technicolor ii,Voices Off Camera,ii,minute,0.46153846153846156
+Life In Technicolor ii,Voices Off Camera,life,voices,0.46153846153846156
+Life In Technicolor ii,Voices Off Camera,life,camera,0.13333333333333333
+Life In Technicolor ii,Voices Off Camera,life,revolutions,0.3076923076923077
+Life In Technicolor ii,Voices Off Camera,life,minute,0.36363636363636365
+Life In Technicolor ii,Voices Off Camera,viva,voices,0.26666666666666666
+Life In Technicolor ii,Voices Off Camera,viva,camera,0.11764705882352941
+Life In Technicolor ii,Voices Off Camera,viva,revolutions,0.5333333333333333
+Life In Technicolor ii,Voices Off Camera,viva,minute,0.3076923076923077
+Life In Technicolor ii,Voices Off Camera,la,voices,0.26666666666666666
+Life In Technicolor ii,Voices Off Camera,la,camera,0.25
+Life In Technicolor ii,Voices Off Camera,la,revolutions,0.26666666666666666
+Life In Technicolor ii,Voices Off Camera,la,minute,0.3076923076923077
+Life In Technicolor ii,Voices Off Camera,march,voices,0.26666666666666666
+Life In Technicolor ii,Voices Off Camera,march,camera,0.11764705882352941
+Life In Technicolor ii,Voices Off Camera,march,revolutions,0.26666666666666666
+Life In Technicolor ii,Voices Off Camera,march,minute,0.46153846153846156
+Life In Technicolor ii,Voices Off Camera,edition,voices,0.1111111111111111
+Life In Technicolor ii,Voices Off Camera,edition,camera,0.5
+Life In Technicolor ii,Voices Off Camera,edition,revolutions,0.1111111111111111
+Life In Technicolor ii,Voices Off Camera,edition,minute,0.125
+The Scientist,Boy's No Good,scientist,good,0.16666666666666666
+The Scientist,Boy's No Good,scientist,boy,0.7058823529411765
+The Scientist,Boy's No Good,scientist,one,0.15384615384615385
+The Scientist,Boy's No Good,scientist,audience,0.18181818181818182
+The Scientist,Boy's No Good,scientist,good,0.16666666666666666
+The Scientist,Boy's No Good,scientist,boy,0.7058823529411765
+The Scientist,Boy's No Good,scientist,one,0.15384615384615385
+The Scientist,Boy's No Good,scientist,audience,0.18181818181818182
+The Scientist,Entertainment,scientist,entertainment,0.15384615384615385
+The Scientist,Entertainment,scientist,reason,0.18181818181818182
+The Scientist,Entertainment,scientist,appeal,0.15384615384615385
+The Scientist,Entertainment,scientist,entertainment,0.15384615384615385
+The Scientist,Entertainment,scientist,reason,0.18181818181818182
+The Scientist,Entertainment,scientist,appeal,0.15384615384615385
+The Scientist,The Art Of Losing,scientist,losing,0
+The Scientist,The Art Of Losing,scientist,art,0.5333333333333333
+The Scientist,The Art Of Losing,scientist,unraveling,0
+The Scientist,The Art Of Losing,scientist,losing,0
+The Scientist,The Art Of Losing,scientist,art,0.5333333333333333
+The Scientist,The Art Of Losing,scientist,unraveling,0
+The Scientist,But Tonight We Dance,scientist,tonight,0.18181818181818182
+The Scientist,But Tonight We Dance,scientist,dance,0.5
+The Scientist,But Tonight We Dance,scientist,noise,0.16666666666666666
+The Scientist,But Tonight We Dance,scientist,tonight,0.18181818181818182
+The Scientist,But Tonight We Dance,scientist,dance,0.5
+The Scientist,But Tonight We Dance,scientist,noise,0.16666666666666666
+The Scientist,Bricks,scientist,bricks,0.5333333333333333
+The Scientist,Bricks,scientist,witness,0.7058823529411765
+The Scientist,Bricks,scientist,sufferer,0.7058823529411765
+The Scientist,Bricks,scientist,bricks,0.5333333333333333
+The Scientist,Bricks,scientist,witness,0.7058823529411765
+The Scientist,Bricks,scientist,sufferer,0.7058823529411765
+The Scientist,Remains Of Summer Memories,scientist,summer,0.16666666666666666
+The Scientist,Remains Of Summer Memories,scientist,memories,0.16666666666666666
+The Scientist,Remains Of Summer Memories,scientist,remains,0.5454545454545454
+The Scientist,Remains Of Summer Memories,scientist,unraveling,0
+The Scientist,Remains Of Summer Memories,scientist,summer,0.16666666666666666
+The Scientist,Remains Of Summer Memories,scientist,memories,0.16666666666666666
+The Scientist,Remains Of Summer Memories,scientist,remains,0.5454545454545454
+The Scientist,Remains Of Summer Memories,scientist,unraveling,0
+The Scientist,Black Masks & Gasoline,scientist,black,0.15384615384615385
+The Scientist,Black Masks & Gasoline,scientist,masks,0.5333333333333333
+The Scientist,Black Masks & Gasoline,scientist,gasoline,0.36363636363636365
+The Scientist,Black Masks & Gasoline,scientist,revolutions,0.16666666666666666
+The Scientist,Black Masks & Gasoline,scientist,minute,0.2
+The Scientist,Black Masks & Gasoline,scientist,black,0.15384615384615385
+The Scientist,Black Masks & Gasoline,scientist,masks,0.5333333333333333
+The Scientist,Black Masks & Gasoline,scientist,gasoline,0.36363636363636365
+The Scientist,Black Masks & Gasoline,scientist,revolutions,0.16666666666666666
+The Scientist,Black Masks & Gasoline,scientist,minute,0.2
+The Scientist,Behind Closed Doors,scientist,behind,0.36363636363636365
+The Scientist,Behind Closed Doors,scientist,closed,0
+The Scientist,Behind Closed Doors,scientist,doors,0.4444444444444444
+The Scientist,Behind Closed Doors,scientist,witness,0.7058823529411765
+The Scientist,Behind Closed Doors,scientist,sufferer,0.7058823529411765
+The Scientist,Behind Closed Doors,scientist,behind,0.36363636363636365
+The Scientist,Behind Closed Doors,scientist,closed,0
+The Scientist,Behind Closed Doors,scientist,doors,0.4444444444444444
+The Scientist,Behind Closed Doors,scientist,witness,0.7058823529411765
+The Scientist,Behind Closed Doors,scientist,sufferer,0.7058823529411765
+The Scientist,Paper Wings,scientist,paper,0.36363636363636365
+The Scientist,Paper Wings,scientist,wings,0.15384615384615385
+The Scientist,Paper Wings,scientist,siren,0.1111111111111111
+The Scientist,Paper Wings,scientist,song,0.16666666666666666
+The Scientist,Paper Wings,scientist,culture,0.18181818181818182
+The Scientist,Paper Wings,scientist,counter,0.4444444444444444
+The Scientist,Paper Wings,scientist,paper,0.36363636363636365
+The Scientist,Paper Wings,scientist,wings,0.15384615384615385
+The Scientist,Paper Wings,scientist,siren,0.1111111111111111
+The Scientist,Paper Wings,scientist,song,0.16666666666666666
+The Scientist,Paper Wings,scientist,culture,0.18181818181818182
+The Scientist,Paper Wings,scientist,counter,0.4444444444444444
+The Scientist,Broken English,scientist,broken,0
+The Scientist,Broken English,scientist,english,0.14285714285714285
+The Scientist,Broken English,scientist,revolutions,0.16666666666666666
+The Scientist,Broken English,scientist,minute,0.2
+The Scientist,Broken English,scientist,broken,0
+The Scientist,Broken English,scientist,english,0.14285714285714285
+The Scientist,Broken English,scientist,revolutions,0.16666666666666666
+The Scientist,Broken English,scientist,minute,0.2
+The Scientist,Savior,scientist,savior,0.7058823529411765
+The Scientist,Savior,scientist,reason,0.18181818181818182
+The Scientist,Savior,scientist,appeal,0.15384615384615385
+The Scientist,Savior,scientist,savior,0.7058823529411765
+The Scientist,Savior,scientist,reason,0.18181818181818182
+The Scientist,Savior,scientist,appeal,0.15384615384615385
+The Scientist,Blood To Bleed,scientist,blood,0.3333333333333333
+The Scientist,Blood To Bleed,scientist,bleed,0
+The Scientist,Blood To Bleed,scientist,siren,0.1111111111111111
+The Scientist,Blood To Bleed,scientist,song,0.16666666666666666
+The Scientist,Blood To Bleed,scientist,culture,0.18181818181818182
+The Scientist,Blood To Bleed,scientist,counter,0.4444444444444444
+The Scientist,Blood To Bleed,scientist,blood,0.3333333333333333
+The Scientist,Blood To Bleed,scientist,bleed,0
+The Scientist,Blood To Bleed,scientist,siren,0.1111111111111111
+The Scientist,Blood To Bleed,scientist,song,0.16666666666666666
+The Scientist,Blood To Bleed,scientist,culture,0.18181818181818182
+The Scientist,Blood To Bleed,scientist,counter,0.4444444444444444
+The Scientist,Survive,scientist,survive,0
+The Scientist,Survive,scientist,witness,0.7058823529411765
+The Scientist,Survive,scientist,sufferer,0.7058823529411765
+The Scientist,Survive,scientist,survive,0
+The Scientist,Survive,scientist,witness,0.7058823529411765
+The Scientist,Survive,scientist,sufferer,0.7058823529411765
+The Scientist,The First Drop,scientist,first,0.16666666666666666
+The Scientist,The First Drop,scientist,drop,0.16666666666666666
+The Scientist,The First Drop,scientist,siren,0.1111111111111111
+The Scientist,The First Drop,scientist,song,0.16666666666666666
+The Scientist,The First Drop,scientist,culture,0.18181818181818182
+The Scientist,The First Drop,scientist,counter,0.4444444444444444
+The Scientist,The First Drop,scientist,first,0.16666666666666666
+The Scientist,The First Drop,scientist,drop,0.16666666666666666
+The Scientist,The First Drop,scientist,siren,0.1111111111111111
+The Scientist,The First Drop,scientist,song,0.16666666666666666
+The Scientist,The First Drop,scientist,culture,0.18181818181818182
+The Scientist,The First Drop,scientist,counter,0.4444444444444444
+The Scientist,Voices Off Camera,scientist,voices,0.16666666666666666
+The Scientist,Voices Off Camera,scientist,camera,0.47058823529411764
+The Scientist,Voices Off Camera,scientist,revolutions,0.16666666666666666
+The Scientist,Voices Off Camera,scientist,minute,0.2
+The Scientist,Voices Off Camera,scientist,voices,0.16666666666666666
+The Scientist,Voices Off Camera,scientist,camera,0.47058823529411764
+The Scientist,Voices Off Camera,scientist,revolutions,0.16666666666666666
+The Scientist,Voices Off Camera,scientist,minute,0.2
+In My Place,Boy's No Good,place,good,0.15384615384615385
+In My Place,Boy's No Good,place,boy,0.42857142857142855
+In My Place,Boy's No Good,place,one,0.14285714285714285
+In My Place,Boy's No Good,place,audience,0.16666666666666666
+In My Place,Boy's No Good,rush,good,0.25
+In My Place,Boy's No Good,rush,boy,0.13333333333333333
+In My Place,Boy's No Good,rush,one,0.23529411764705882
+In My Place,Boy's No Good,rush,audience,0.26666666666666666
+In My Place,Boy's No Good,head,good,0.14285714285714285
+In My Place,Boy's No Good,head,boy,0.3076923076923077
+In My Place,Boy's No Good,head,one,0.13333333333333333
+In My Place,Boy's No Good,head,audience,0.15384615384615385
+In My Place,Boy's No Good,blood,good,0.26666666666666666
+In My Place,Boy's No Good,blood,boy,0.3076923076923077
+In My Place,Boy's No Good,blood,one,0.25
+In My Place,Boy's No Good,blood,audience,0.2857142857142857
+In My Place,Entertainment,place,entertainment,0.14285714285714285
+In My Place,Entertainment,place,reason,0.16666666666666666
+In My Place,Entertainment,place,appeal,0.14285714285714285
+In My Place,Entertainment,rush,entertainment,0.5882352941176471
+In My Place,Entertainment,rush,reason,0.4
+In My Place,Entertainment,rush,appeal,0.5882352941176471
+In My Place,Entertainment,head,entertainment,0.13333333333333333
+In My Place,Entertainment,head,reason,0.15384615384615385
+In My Place,Entertainment,head,appeal,0.13333333333333333
+In My Place,Entertainment,blood,entertainment,0.25
+In My Place,Entertainment,blood,reason,0.2857142857142857
+In My Place,Entertainment,blood,appeal,0.25
+In My Place,The Art Of Losing,place,losing,0
+In My Place,The Art Of Losing,place,art,0.46153846153846156
+In My Place,The Art Of Losing,place,unraveling,0
+In My Place,The Art Of Losing,rush,losing,0
+In My Place,The Art Of Losing,rush,art,0.125
+In My Place,The Art Of Losing,rush,unraveling,0
+In My Place,The Art Of Losing,head,losing,0
+In My Place,The Art Of Losing,head,art,0.2857142857142857
+In My Place,The Art Of Losing,head,unraveling,0
+In My Place,The Art Of Losing,blood,losing,0
+In My Place,The Art Of Losing,blood,art,0.2857142857142857
+In My Place,The Art Of Losing,blood,unraveling,0
+In My Place,But Tonight We Dance,place,tonight,0.16666666666666666
+In My Place,But Tonight We Dance,place,dance,0.42857142857142855
+In My Place,But Tonight We Dance,place,noise,0.15384615384615385
+In My Place,But Tonight We Dance,rush,tonight,0.26666666666666666
+In My Place,But Tonight We Dance,rush,dance,0.11764705882352941
+In My Place,But Tonight We Dance,rush,noise,0.5
+In My Place,But Tonight We Dance,head,tonight,0.15384615384615385
+In My Place,But Tonight We Dance,head,dance,0.26666666666666666
+In My Place,But Tonight We Dance,head,noise,0.14285714285714285
+In My Place,But Tonight We Dance,blood,tonight,0.2857142857142857
+In My Place,But Tonight We Dance,blood,dance,0.26666666666666666
+In My Place,But Tonight We Dance,blood,noise,0.26666666666666666
+In My Place,Bricks,place,bricks,0.46153846153846156
+In My Place,Bricks,place,witness,0.42857142857142855
+In My Place,Bricks,place,sufferer,0.42857142857142855
+In My Place,Bricks,rush,bricks,0.125
+In My Place,Bricks,rush,witness,0.13333333333333333
+In My Place,Bricks,rush,sufferer,0.13333333333333333
+In My Place,Bricks,head,bricks,0.2857142857142857
+In My Place,Bricks,head,witness,0.3076923076923077
+In My Place,Bricks,head,sufferer,0.3076923076923077
+In My Place,Bricks,blood,bricks,0.2857142857142857
+In My Place,Bricks,blood,witness,0.3076923076923077
+In My Place,Bricks,blood,sufferer,0.3076923076923077
+In My Place,Remains Of Summer Memories,place,summer,0.15384615384615385
+In My Place,Remains Of Summer Memories,place,memories,0.15384615384615385
+In My Place,Remains Of Summer Memories,place,remains,0.6
+In My Place,Remains Of Summer Memories,place,unraveling,0
+In My Place,Remains Of Summer Memories,rush,summer,0.25
+In My Place,Remains Of Summer Memories,rush,memories,0.375
+In My Place,Remains Of Summer Memories,rush,remains,0.15384615384615385
+In My Place,Remains Of Summer Memories,rush,unraveling,0
+In My Place,Remains Of Summer Memories,head,summer,0.14285714285714285
+In My Place,Remains Of Summer Memories,head,memories,0.14285714285714285
+In My Place,Remains Of Summer Memories,head,remains,0.36363636363636365
+In My Place,Remains Of Summer Memories,head,unraveling,0
+In My Place,Remains Of Summer Memories,blood,summer,0.26666666666666666
+In My Place,Remains Of Summer Memories,blood,memories,0.26666666666666666
+In My Place,Remains Of Summer Memories,blood,remains,0.36363636363636365
+In My Place,Remains Of Summer Memories,blood,unraveling,0
+In My Place,Black Masks & Gasoline,place,black,0.14285714285714285
+In My Place,Black Masks & Gasoline,place,masks,0.46153846153846156
+In My Place,Black Masks & Gasoline,place,gasoline,0.3333333333333333
+In My Place,Black Masks & Gasoline,place,revolutions,0.15384615384615385
+In My Place,Black Masks & Gasoline,place,minute,0.18181818181818182
+In My Place,Black Masks & Gasoline,rush,black,0.23529411764705882
+In My Place,Black Masks & Gasoline,rush,masks,0.125
+In My Place,Black Masks & Gasoline,rush,gasoline,0.23529411764705882
+In My Place,Black Masks & Gasoline,rush,revolutions,0.5
+In My Place,Black Masks & Gasoline,rush,minute,0.2857142857142857
+In My Place,Black Masks & Gasoline,head,black,0.13333333333333333
+In My Place,Black Masks & Gasoline,head,masks,0.2857142857142857
+In My Place,Black Masks & Gasoline,head,gasoline,0.3076923076923077
+In My Place,Black Masks & Gasoline,head,revolutions,0.14285714285714285
+In My Place,Black Masks & Gasoline,head,minute,0.16666666666666666
+In My Place,Black Masks & Gasoline,blood,black,0.25
+In My Place,Black Masks & Gasoline,blood,masks,0.2857142857142857
+In My Place,Black Masks & Gasoline,blood,gasoline,0.42105263157894735
+In My Place,Black Masks & Gasoline,blood,revolutions,0.26666666666666666
+In My Place,Black Masks & Gasoline,blood,minute,0.3076923076923077
+In My Place,Behind Closed Doors,place,behind,0.3333333333333333
+In My Place,Behind Closed Doors,place,closed,0
+In My Place,Behind Closed Doors,place,doors,0.375
+In My Place,Behind Closed Doors,place,witness,0.42857142857142855
+In My Place,Behind Closed Doors,place,sufferer,0.42857142857142855
+In My Place,Behind Closed Doors,rush,behind,0.13333333333333333
+In My Place,Behind Closed Doors,rush,closed,0
+In My Place,Behind Closed Doors,rush,doors,0.10526315789473684
+In My Place,Behind Closed Doors,rush,witness,0.13333333333333333
+In My Place,Behind Closed Doors,rush,sufferer,0.13333333333333333
+In My Place,Behind Closed Doors,head,behind,0.7692307692307693
+In My Place,Behind Closed Doors,head,closed,0
+In My Place,Behind Closed Doors,head,doors,0.23529411764705882
+In My Place,Behind Closed Doors,head,witness,0.3076923076923077
+In My Place,Behind Closed Doors,head,sufferer,0.3076923076923077
+In My Place,Behind Closed Doors,blood,behind,0.3076923076923077
+In My Place,Behind Closed Doors,blood,closed,0
+In My Place,Behind Closed Doors,blood,doors,0.23529411764705882
+In My Place,Behind Closed Doors,blood,witness,0.3076923076923077
+In My Place,Behind Closed Doors,blood,sufferer,0.3076923076923077
+In My Place,Paper Wings,place,paper,0.3333333333333333
+In My Place,Paper Wings,place,wings,0.14285714285714285
+In My Place,Paper Wings,place,siren,0.10526315789473684
+In My Place,Paper Wings,place,song,0.15384615384615385
+In My Place,Paper Wings,place,culture,0.16666666666666666
+In My Place,Paper Wings,place,counter,0.375
+In My Place,Paper Wings,rush,paper,0.25
+In My Place,Paper Wings,rush,wings,0.5882352941176471
+In My Place,Paper Wings,rush,siren,0.2727272727272727
+In My Place,Paper Wings,rush,song,0.25
+In My Place,Paper Wings,rush,culture,0.26666666666666666
+In My Place,Paper Wings,rush,counter,0.10526315789473684
+In My Place,Paper Wings,head,paper,0.3076923076923077
+In My Place,Paper Wings,head,wings,0.13333333333333333
+In My Place,Paper Wings,head,siren,0.1
+In My Place,Paper Wings,head,song,0.14285714285714285
+In My Place,Paper Wings,head,culture,0.15384615384615385
+In My Place,Paper Wings,head,counter,0.23529411764705882
+In My Place,Paper Wings,blood,paper,0.5333333333333333
+In My Place,Paper Wings,blood,wings,0.25
+In My Place,Paper Wings,blood,siren,0.19047619047619047
+In My Place,Paper Wings,blood,song,0.26666666666666666
+In My Place,Paper Wings,blood,culture,0.2857142857142857
+In My Place,Paper Wings,blood,counter,0.23529411764705882
+In My Place,Broken English,place,broken,0
+In My Place,Broken English,place,english,0.13333333333333333
+In My Place,Broken English,place,revolutions,0.15384615384615385
+In My Place,Broken English,place,minute,0.18181818181818182
+In My Place,Broken English,rush,broken,0
+In My Place,Broken English,rush,english,0.2222222222222222
+In My Place,Broken English,rush,revolutions,0.5
+In My Place,Broken English,rush,minute,0.2857142857142857
+In My Place,Broken English,head,broken,0
+In My Place,Broken English,head,english,0.125
+In My Place,Broken English,head,revolutions,0.14285714285714285
+In My Place,Broken English,head,minute,0.16666666666666666
+In My Place,Broken English,blood,broken,0
+In My Place,Broken English,blood,english,0.23529411764705882
+In My Place,Broken English,blood,revolutions,0.26666666666666666
+In My Place,Broken English,blood,minute,0.3076923076923077
+In My Place,Savior,place,savior,0.42857142857142855
+In My Place,Savior,place,reason,0.16666666666666666
+In My Place,Savior,place,appeal,0.14285714285714285
+In My Place,Savior,rush,savior,0.3157894736842105
+In My Place,Savior,rush,reason,0.4
+In My Place,Savior,rush,appeal,0.5882352941176471
+In My Place,Savior,head,savior,0.3076923076923077
+In My Place,Savior,head,reason,0.15384615384615385
+In My Place,Savior,head,appeal,0.13333333333333333
+In My Place,Savior,blood,savior,0.25
+In My Place,Savior,blood,reason,0.2857142857142857
+In My Place,Savior,blood,appeal,0.25
+In My Place,Blood To Bleed,place,blood,0.3076923076923077
+In My Place,Blood To Bleed,place,bleed,0
+In My Place,Blood To Bleed,place,siren,0.10526315789473684
+In My Place,Blood To Bleed,place,song,0.15384615384615385
+In My Place,Blood To Bleed,place,culture,0.16666666666666666
+In My Place,Blood To Bleed,place,counter,0.375
+In My Place,Blood To Bleed,rush,blood,0.23529411764705882
+In My Place,Blood To Bleed,rush,bleed,0
+In My Place,Blood To Bleed,rush,siren,0.2727272727272727
+In My Place,Blood To Bleed,rush,song,0.25
+In My Place,Blood To Bleed,rush,culture,0.26666666666666666
+In My Place,Blood To Bleed,rush,counter,0.10526315789473684
+In My Place,Blood To Bleed,head,blood,0.2857142857142857
+In My Place,Blood To Bleed,head,bleed,0
+In My Place,Blood To Bleed,head,siren,0.1
+In My Place,Blood To Bleed,head,song,0.14285714285714285
+In My Place,Blood To Bleed,head,culture,0.15384615384615385
+In My Place,Blood To Bleed,head,counter,0.23529411764705882
+In My Place,Blood To Bleed,blood,blood,1.0
+In My Place,Blood To Bleed,blood,bleed,0
+In My Place,Blood To Bleed,blood,siren,0.19047619047619047
+In My Place,Blood To Bleed,blood,song,0.26666666666666666
+In My Place,Blood To Bleed,blood,culture,0.2857142857142857
+In My Place,Blood To Bleed,blood,counter,0.23529411764705882
+In My Place,Survive,place,survive,0
+In My Place,Survive,place,witness,0.42857142857142855
+In My Place,Survive,place,sufferer,0.42857142857142855
+In My Place,Survive,rush,survive,0
+In My Place,Survive,rush,witness,0.13333333333333333
+In My Place,Survive,rush,sufferer,0.13333333333333333
+In My Place,Survive,head,survive,0
+In My Place,Survive,head,witness,0.3076923076923077
+In My Place,Survive,head,sufferer,0.3076923076923077
+In My Place,Survive,blood,survive,0
+In My Place,Survive,blood,witness,0.3076923076923077
+In My Place,Survive,blood,sufferer,0.3076923076923077
+In My Place,The First Drop,place,first,0.15384615384615385
+In My Place,The First Drop,place,drop,0.15384615384615385
+In My Place,The First Drop,place,siren,0.10526315789473684
+In My Place,The First Drop,place,song,0.15384615384615385
+In My Place,The First Drop,place,culture,0.16666666666666666
+In My Place,The First Drop,place,counter,0.375
+In My Place,The First Drop,rush,first,0.25
+In My Place,The First Drop,rush,drop,0.25
+In My Place,The First Drop,rush,siren,0.2727272727272727
+In My Place,The First Drop,rush,song,0.25
+In My Place,The First Drop,rush,culture,0.26666666666666666
+In My Place,The First Drop,rush,counter,0.10526315789473684
+In My Place,The First Drop,head,first,0.14285714285714285
+In My Place,The First Drop,head,drop,0.14285714285714285
+In My Place,The First Drop,head,siren,0.1
+In My Place,The First Drop,head,song,0.14285714285714285
+In My Place,The First Drop,head,culture,0.15384615384615385
+In My Place,The First Drop,head,counter,0.23529411764705882
+In My Place,The First Drop,blood,first,0.26666666666666666
+In My Place,The First Drop,blood,drop,0.26666666666666666
+In My Place,The First Drop,blood,siren,0.19047619047619047
+In My Place,The First Drop,blood,song,0.26666666666666666
+In My Place,The First Drop,blood,culture,0.2857142857142857
+In My Place,The First Drop,blood,counter,0.23529411764705882
+In My Place,Voices Off Camera,place,voices,0.15384615384615385
+In My Place,Voices Off Camera,place,camera,0.4
+In My Place,Voices Off Camera,place,revolutions,0.15384615384615385
+In My Place,Voices Off Camera,place,minute,0.18181818181818182
+In My Place,Voices Off Camera,rush,voices,0.25
+In My Place,Voices Off Camera,rush,camera,0.1111111111111111
+In My Place,Voices Off Camera,rush,revolutions,0.5
+In My Place,Voices Off Camera,rush,minute,0.2857142857142857
+In My Place,Voices Off Camera,head,voices,0.14285714285714285
+In My Place,Voices Off Camera,head,camera,0.25
+In My Place,Voices Off Camera,head,revolutions,0.14285714285714285
+In My Place,Voices Off Camera,head,minute,0.16666666666666666
+In My Place,Voices Off Camera,blood,voices,0.26666666666666666
+In My Place,Voices Off Camera,blood,camera,0.25
+In My Place,Voices Off Camera,blood,revolutions,0.26666666666666666
+In My Place,Voices Off Camera,blood,minute,0.3076923076923077
+Lost!,Boy's No Good,lost,good,0.3333333333333333
+Lost!,Boy's No Good,lost,boy,0.18181818181818182
+Lost!,Boy's No Good,lost,one,0.3076923076923077
+Lost!,Boy's No Good,lost,audience,0.5454545454545454
+Lost!,Boy's No Good,viva,good,0.26666666666666666
+Lost!,Boy's No Good,viva,boy,0.14285714285714285
+Lost!,Boy's No Good,viva,one,0.25
+Lost!,Boy's No Good,viva,audience,0.2857142857142857
+Lost!,Boy's No Good,la,good,0.26666666666666666
+Lost!,Boy's No Good,la,boy,0.3076923076923077
+Lost!,Boy's No Good,la,one,0.25
+Lost!,Boy's No Good,la,audience,0.2857142857142857
+Lost!,Boy's No Good,friends,good,0.16666666666666666
+Lost!,Boy's No Good,friends,boy,0.7058823529411765
+Lost!,Boy's No Good,friends,one,0.15384615384615385
+Lost!,Boy's No Good,friends,audience,0.18181818181818182
+Lost!,Boy's No Good,death,good,0.2857142857142857
+Lost!,Boy's No Good,death,boy,0.15384615384615385
+Lost!,Boy's No Good,death,one,0.26666666666666666
+Lost!,Boy's No Good,death,audience,0.3076923076923077
+Lost!,Entertainment,lost,entertainment,0.3076923076923077
+Lost!,Entertainment,lost,reason,0.36363636363636365
+Lost!,Entertainment,lost,appeal,0.3076923076923077
+Lost!,Entertainment,viva,entertainment,0.625
+Lost!,Entertainment,viva,reason,0.42857142857142855
+Lost!,Entertainment,viva,appeal,0.625
+Lost!,Entertainment,la,entertainment,0.25
+Lost!,Entertainment,la,reason,0.2857142857142857
+Lost!,Entertainment,la,appeal,0.25
+Lost!,Entertainment,friends,entertainment,0.15384615384615385
+Lost!,Entertainment,friends,reason,0.18181818181818182
+Lost!,Entertainment,friends,appeal,0.15384615384615385
+Lost!,Entertainment,death,entertainment,0.5333333333333333
+Lost!,Entertainment,death,reason,0.46153846153846156
+Lost!,Entertainment,death,appeal,0.5333333333333333
+Lost!,The Art Of Losing,lost,losing,0
+Lost!,The Art Of Losing,lost,art,0.16666666666666666
+Lost!,The Art Of Losing,lost,unraveling,0
+Lost!,The Art Of Losing,viva,losing,0
+Lost!,The Art Of Losing,viva,art,0.13333333333333333
+Lost!,The Art Of Losing,viva,unraveling,0
+Lost!,The Art Of Losing,la,losing,0
+Lost!,The Art Of Losing,la,art,0.2857142857142857
+Lost!,The Art Of Losing,la,unraveling,0
+Lost!,The Art Of Losing,friends,losing,0
+Lost!,The Art Of Losing,friends,art,0.5333333333333333
+Lost!,The Art Of Losing,friends,unraveling,0
+Lost!,The Art Of Losing,death,losing,0
+Lost!,The Art Of Losing,death,art,0.14285714285714285
+Lost!,The Art Of Losing,death,unraveling,0
+Lost!,But Tonight We Dance,lost,tonight,0.36363636363636365
+Lost!,But Tonight We Dance,lost,dance,0.15384615384615385
+Lost!,But Tonight We Dance,lost,noise,0.3333333333333333
+Lost!,But Tonight We Dance,viva,tonight,0.2857142857142857
+Lost!,But Tonight We Dance,viva,dance,0.125
+Lost!,But Tonight We Dance,viva,noise,0.5333333333333333
+Lost!,But Tonight We Dance,la,tonight,0.2857142857142857
+Lost!,But Tonight We Dance,la,dance,0.26666666666666666
+Lost!,But Tonight We Dance,la,noise,0.26666666666666666
+Lost!,But Tonight We Dance,friends,tonight,0.18181818181818182
+Lost!,But Tonight We Dance,friends,dance,0.5
+Lost!,But Tonight We Dance,friends,noise,0.16666666666666666
+Lost!,But Tonight We Dance,death,tonight,0.3076923076923077
+Lost!,But Tonight We Dance,death,dance,0.13333333333333333
+Lost!,But Tonight We Dance,death,noise,0.7142857142857143
+Lost!,Bricks,lost,bricks,0.16666666666666666
+Lost!,Bricks,lost,witness,0.18181818181818182
+Lost!,Bricks,lost,sufferer,0.18181818181818182
+Lost!,Bricks,viva,bricks,0.13333333333333333
+Lost!,Bricks,viva,witness,0.14285714285714285
+Lost!,Bricks,viva,sufferer,0.14285714285714285
+Lost!,Bricks,la,bricks,0.2857142857142857
+Lost!,Bricks,la,witness,0.3076923076923077
+Lost!,Bricks,la,sufferer,0.3076923076923077
+Lost!,Bricks,friends,bricks,0.5333333333333333
+Lost!,Bricks,friends,witness,0.7058823529411765
+Lost!,Bricks,friends,sufferer,0.7058823529411765
+Lost!,Bricks,death,bricks,0.14285714285714285
+Lost!,Bricks,death,witness,0.15384615384615385
+Lost!,Bricks,death,sufferer,0.15384615384615385
+Lost!,Remains Of Summer Memories,lost,summer,0.3333333333333333
+Lost!,Remains Of Summer Memories,lost,memories,0.3333333333333333
+Lost!,Remains Of Summer Memories,lost,remains,0.2222222222222222
+Lost!,Remains Of Summer Memories,lost,unraveling,0
+Lost!,Remains Of Summer Memories,viva,summer,0.26666666666666666
+Lost!,Remains Of Summer Memories,viva,memories,0.4
+Lost!,Remains Of Summer Memories,viva,remains,0.16666666666666666
+Lost!,Remains Of Summer Memories,viva,unraveling,0
+Lost!,Remains Of Summer Memories,la,summer,0.26666666666666666
+Lost!,Remains Of Summer Memories,la,memories,0.26666666666666666
+Lost!,Remains Of Summer Memories,la,remains,0.36363636363636365
+Lost!,Remains Of Summer Memories,la,unraveling,0
+Lost!,Remains Of Summer Memories,friends,summer,0.16666666666666666
+Lost!,Remains Of Summer Memories,friends,memories,0.16666666666666666
+Lost!,Remains Of Summer Memories,friends,remains,0.5454545454545454
+Lost!,Remains Of Summer Memories,friends,unraveling,0
+Lost!,Remains Of Summer Memories,death,summer,0.2857142857142857
+Lost!,Remains Of Summer Memories,death,memories,0.42857142857142855
+Lost!,Remains Of Summer Memories,death,remains,0.18181818181818182
+Lost!,Remains Of Summer Memories,death,unraveling,0
+Lost!,Black Masks & Gasoline,lost,black,0.3076923076923077
+Lost!,Black Masks & Gasoline,lost,masks,0.16666666666666666
+Lost!,Black Masks & Gasoline,lost,gasoline,0.3076923076923077
+Lost!,Black Masks & Gasoline,lost,revolutions,0.3333333333333333
+Lost!,Black Masks & Gasoline,lost,minute,0.4
+Lost!,Black Masks & Gasoline,viva,black,0.25
+Lost!,Black Masks & Gasoline,viva,masks,0.13333333333333333
+Lost!,Black Masks & Gasoline,viva,gasoline,0.25
+Lost!,Black Masks & Gasoline,viva,revolutions,0.5333333333333333
+Lost!,Black Masks & Gasoline,viva,minute,0.3076923076923077
+Lost!,Black Masks & Gasoline,la,black,0.25
+Lost!,Black Masks & Gasoline,la,masks,0.2857142857142857
+Lost!,Black Masks & Gasoline,la,gasoline,0.42105263157894735
+Lost!,Black Masks & Gasoline,la,revolutions,0.26666666666666666
+Lost!,Black Masks & Gasoline,la,minute,0.3076923076923077
+Lost!,Black Masks & Gasoline,friends,black,0.15384615384615385
+Lost!,Black Masks & Gasoline,friends,masks,0.5333333333333333
+Lost!,Black Masks & Gasoline,friends,gasoline,0.36363636363636365
+Lost!,Black Masks & Gasoline,friends,revolutions,0.16666666666666666
+Lost!,Black Masks & Gasoline,friends,minute,0.2
+Lost!,Black Masks & Gasoline,death,black,0.26666666666666666
+Lost!,Black Masks & Gasoline,death,masks,0.14285714285714285
+Lost!,Black Masks & Gasoline,death,gasoline,0.26666666666666666
+Lost!,Black Masks & Gasoline,death,revolutions,0.8571428571428571
+Lost!,Black Masks & Gasoline,death,minute,0.3333333333333333
+Lost!,Behind Closed Doors,lost,behind,0.18181818181818182
+Lost!,Behind Closed Doors,lost,closed,0
+Lost!,Behind Closed Doors,lost,doors,0.13333333333333333
+Lost!,Behind Closed Doors,lost,witness,0.18181818181818182
+Lost!,Behind Closed Doors,lost,sufferer,0.18181818181818182
+Lost!,Behind Closed Doors,viva,behind,0.14285714285714285
+Lost!,Behind Closed Doors,viva,closed,0
+Lost!,Behind Closed Doors,viva,doors,0.1111111111111111
+Lost!,Behind Closed Doors,viva,witness,0.14285714285714285
+Lost!,Behind Closed Doors,viva,sufferer,0.14285714285714285
+Lost!,Behind Closed Doors,la,behind,0.3076923076923077
+Lost!,Behind Closed Doors,la,closed,0
+Lost!,Behind Closed Doors,la,doors,0.23529411764705882
+Lost!,Behind Closed Doors,la,witness,0.3076923076923077
+Lost!,Behind Closed Doors,la,sufferer,0.3076923076923077
+Lost!,Behind Closed Doors,friends,behind,0.36363636363636365
+Lost!,Behind Closed Doors,friends,closed,0
+Lost!,Behind Closed Doors,friends,doors,0.4444444444444444
+Lost!,Behind Closed Doors,friends,witness,0.7058823529411765
+Lost!,Behind Closed Doors,friends,sufferer,0.7058823529411765
+Lost!,Behind Closed Doors,death,behind,0.15384615384615385
+Lost!,Behind Closed Doors,death,closed,0
+Lost!,Behind Closed Doors,death,doors,0.11764705882352941
+Lost!,Behind Closed Doors,death,witness,0.15384615384615385
+Lost!,Behind Closed Doors,death,sufferer,0.15384615384615385
+Lost!,Paper Wings,lost,paper,0.3333333333333333
+Lost!,Paper Wings,lost,wings,0.3076923076923077
+Lost!,Paper Wings,lost,siren,0.2222222222222222
+Lost!,Paper Wings,lost,song,0.3333333333333333
+Lost!,Paper Wings,lost,culture,0.5454545454545454
+Lost!,Paper Wings,lost,counter,0.13333333333333333
+Lost!,Paper Wings,viva,paper,0.26666666666666666
+Lost!,Paper Wings,viva,wings,0.625
+Lost!,Paper Wings,viva,siren,0.2857142857142857
+Lost!,Paper Wings,viva,song,0.26666666666666666
+Lost!,Paper Wings,viva,culture,0.2857142857142857
+Lost!,Paper Wings,viva,counter,0.1111111111111111
+Lost!,Paper Wings,la,paper,0.5333333333333333
+Lost!,Paper Wings,la,wings,0.25
+Lost!,Paper Wings,la,siren,0.19047619047619047
+Lost!,Paper Wings,la,song,0.26666666666666666
+Lost!,Paper Wings,la,culture,0.2857142857142857
+Lost!,Paper Wings,la,counter,0.23529411764705882
+Lost!,Paper Wings,friends,paper,0.36363636363636365
+Lost!,Paper Wings,friends,wings,0.15384615384615385
+Lost!,Paper Wings,friends,siren,0.1111111111111111
+Lost!,Paper Wings,friends,song,0.16666666666666666
+Lost!,Paper Wings,friends,culture,0.18181818181818182
+Lost!,Paper Wings,friends,counter,0.4444444444444444
+Lost!,Paper Wings,death,paper,0.2857142857142857
+Lost!,Paper Wings,death,wings,0.5333333333333333
+Lost!,Paper Wings,death,siren,0.3
+Lost!,Paper Wings,death,song,0.2857142857142857
+Lost!,Paper Wings,death,culture,0.3076923076923077
+Lost!,Paper Wings,death,counter,0.11764705882352941
+Lost!,Broken English,lost,broken,0
+Lost!,Broken English,lost,english,0.2857142857142857
+Lost!,Broken English,lost,revolutions,0.3333333333333333
+Lost!,Broken English,lost,minute,0.4
+Lost!,Broken English,viva,broken,0
+Lost!,Broken English,viva,english,0.23529411764705882
+Lost!,Broken English,viva,revolutions,0.5333333333333333
+Lost!,Broken English,viva,minute,0.3076923076923077
+Lost!,Broken English,la,broken,0
+Lost!,Broken English,la,english,0.23529411764705882
+Lost!,Broken English,la,revolutions,0.26666666666666666
+Lost!,Broken English,la,minute,0.3076923076923077
+Lost!,Broken English,friends,broken,0
+Lost!,Broken English,friends,english,0.14285714285714285
+Lost!,Broken English,friends,revolutions,0.16666666666666666
+Lost!,Broken English,friends,minute,0.2
+Lost!,Broken English,death,broken,0
+Lost!,Broken English,death,english,0.25
+Lost!,Broken English,death,revolutions,0.8571428571428571
+Lost!,Broken English,death,minute,0.3333333333333333
+Lost!,Savior,lost,savior,0.3076923076923077
+Lost!,Savior,lost,reason,0.36363636363636365
+Lost!,Savior,lost,appeal,0.3076923076923077
+Lost!,Savior,viva,savior,0.3333333333333333
+Lost!,Savior,viva,reason,0.42857142857142855
+Lost!,Savior,viva,appeal,0.625
+Lost!,Savior,la,savior,0.25
+Lost!,Savior,la,reason,0.2857142857142857
+Lost!,Savior,la,appeal,0.25
+Lost!,Savior,friends,savior,0.7058823529411765
+Lost!,Savior,friends,reason,0.18181818181818182
+Lost!,Savior,friends,appeal,0.15384615384615385
+Lost!,Savior,death,savior,0.35294117647058826
+Lost!,Savior,death,reason,0.46153846153846156
+Lost!,Savior,death,appeal,0.5333333333333333
+Lost!,Blood To Bleed,lost,blood,0.3076923076923077
+Lost!,Blood To Bleed,lost,bleed,0
+Lost!,Blood To Bleed,lost,siren,0.2222222222222222
+Lost!,Blood To Bleed,lost,song,0.3333333333333333
+Lost!,Blood To Bleed,lost,culture,0.5454545454545454
+Lost!,Blood To Bleed,lost,counter,0.13333333333333333
+Lost!,Blood To Bleed,viva,blood,0.25
+Lost!,Blood To Bleed,viva,bleed,0
+Lost!,Blood To Bleed,viva,siren,0.2857142857142857
+Lost!,Blood To Bleed,viva,song,0.26666666666666666
+Lost!,Blood To Bleed,viva,culture,0.2857142857142857
+Lost!,Blood To Bleed,viva,counter,0.1111111111111111
+Lost!,Blood To Bleed,la,blood,0.5
+Lost!,Blood To Bleed,la,bleed,0
+Lost!,Blood To Bleed,la,siren,0.19047619047619047
+Lost!,Blood To Bleed,la,song,0.26666666666666666
+Lost!,Blood To Bleed,la,culture,0.2857142857142857
+Lost!,Blood To Bleed,la,counter,0.23529411764705882
+Lost!,Blood To Bleed,friends,blood,0.3333333333333333
+Lost!,Blood To Bleed,friends,bleed,0
+Lost!,Blood To Bleed,friends,siren,0.1111111111111111
+Lost!,Blood To Bleed,friends,song,0.16666666666666666
+Lost!,Blood To Bleed,friends,culture,0.18181818181818182
+Lost!,Blood To Bleed,friends,counter,0.4444444444444444
+Lost!,Blood To Bleed,death,blood,0.26666666666666666
+Lost!,Blood To Bleed,death,bleed,0
+Lost!,Blood To Bleed,death,siren,0.3
+Lost!,Blood To Bleed,death,song,0.2857142857142857
+Lost!,Blood To Bleed,death,culture,0.3076923076923077
+Lost!,Blood To Bleed,death,counter,0.11764705882352941
+Lost!,Survive,lost,survive,0
+Lost!,Survive,lost,witness,0.18181818181818182
+Lost!,Survive,lost,sufferer,0.18181818181818182
+Lost!,Survive,viva,survive,0
+Lost!,Survive,viva,witness,0.14285714285714285
+Lost!,Survive,viva,sufferer,0.14285714285714285
+Lost!,Survive,la,survive,0
+Lost!,Survive,la,witness,0.3076923076923077
+Lost!,Survive,la,sufferer,0.3076923076923077
+Lost!,Survive,friends,survive,0
+Lost!,Survive,friends,witness,0.7058823529411765
+Lost!,Survive,friends,sufferer,0.7058823529411765
+Lost!,Survive,death,survive,0
+Lost!,Survive,death,witness,0.15384615384615385
+Lost!,Survive,death,sufferer,0.15384615384615385
+Lost!,The First Drop,lost,first,0.3333333333333333
+Lost!,The First Drop,lost,drop,0.3333333333333333
+Lost!,The First Drop,lost,siren,0.2222222222222222
+Lost!,The First Drop,lost,song,0.3333333333333333
+Lost!,The First Drop,lost,culture,0.5454545454545454
+Lost!,The First Drop,lost,counter,0.13333333333333333
+Lost!,The First Drop,viva,first,0.26666666666666666
+Lost!,The First Drop,viva,drop,0.26666666666666666
+Lost!,The First Drop,viva,siren,0.2857142857142857
+Lost!,The First Drop,viva,song,0.26666666666666666
+Lost!,The First Drop,viva,culture,0.2857142857142857
+Lost!,The First Drop,viva,counter,0.1111111111111111
+Lost!,The First Drop,la,first,0.26666666666666666
+Lost!,The First Drop,la,drop,0.26666666666666666
+Lost!,The First Drop,la,siren,0.19047619047619047
+Lost!,The First Drop,la,song,0.26666666666666666
+Lost!,The First Drop,la,culture,0.2857142857142857
+Lost!,The First Drop,la,counter,0.23529411764705882
+Lost!,The First Drop,friends,first,0.16666666666666666
+Lost!,The First Drop,friends,drop,0.16666666666666666
+Lost!,The First Drop,friends,siren,0.1111111111111111
+Lost!,The First Drop,friends,song,0.16666666666666666
+Lost!,The First Drop,friends,culture,0.18181818181818182
+Lost!,The First Drop,friends,counter,0.4444444444444444
+Lost!,The First Drop,death,first,0.2857142857142857
+Lost!,The First Drop,death,drop,0.2857142857142857
+Lost!,The First Drop,death,siren,0.3
+Lost!,The First Drop,death,song,0.2857142857142857
+Lost!,The First Drop,death,culture,0.3076923076923077
+Lost!,The First Drop,death,counter,0.11764705882352941
+Lost!,Voices Off Camera,lost,voices,0.3333333333333333
+Lost!,Voices Off Camera,lost,camera,0.14285714285714285
+Lost!,Voices Off Camera,lost,revolutions,0.3333333333333333
+Lost!,Voices Off Camera,lost,minute,0.4
+Lost!,Voices Off Camera,viva,voices,0.26666666666666666
+Lost!,Voices Off Camera,viva,camera,0.11764705882352941
+Lost!,Voices Off Camera,viva,revolutions,0.5333333333333333
+Lost!,Voices Off Camera,viva,minute,0.3076923076923077
+Lost!,Voices Off Camera,la,voices,0.26666666666666666
+Lost!,Voices Off Camera,la,camera,0.25
+Lost!,Voices Off Camera,la,revolutions,0.26666666666666666
+Lost!,Voices Off Camera,la,minute,0.3076923076923077
+Lost!,Voices Off Camera,friends,voices,0.16666666666666666
+Lost!,Voices Off Camera,friends,camera,0.47058823529411764
+Lost!,Voices Off Camera,friends,revolutions,0.16666666666666666
+Lost!,Voices Off Camera,friends,minute,0.2
+Lost!,Voices Off Camera,death,voices,0.2857142857142857
+Lost!,Voices Off Camera,death,camera,0.125
+Lost!,Voices Off Camera,death,revolutions,0.8571428571428571
+Lost!,Voices Off Camera,death,minute,0.3333333333333333
+Yellow,Boy's No Good,yellow,good,0.4
+Yellow,Boy's No Good,yellow,boy,0.14285714285714285
+Yellow,Boy's No Good,yellow,one,0.25
+Yellow,Boy's No Good,yellow,audience,0.2857142857142857
+Yellow,Boy's No Good,yellow,good,0.4
+Yellow,Boy's No Good,yellow,boy,0.14285714285714285
+Yellow,Boy's No Good,yellow,one,0.25
+Yellow,Boy's No Good,yellow,audience,0.2857142857142857
+Yellow,Entertainment,yellow,entertainment,0.25
+Yellow,Entertainment,yellow,reason,0.2857142857142857
+Yellow,Entertainment,yellow,appeal,0.25
+Yellow,Entertainment,yellow,entertainment,0.25
+Yellow,Entertainment,yellow,reason,0.2857142857142857
+Yellow,Entertainment,yellow,appeal,0.25
+Yellow,The Art Of Losing,yellow,losing,0
+Yellow,The Art Of Losing,yellow,art,0.13333333333333333
+Yellow,The Art Of Losing,yellow,unraveling,0
+Yellow,The Art Of Losing,yellow,losing,0
+Yellow,The Art Of Losing,yellow,art,0.13333333333333333
+Yellow,The Art Of Losing,yellow,unraveling,0
+Yellow,But Tonight We Dance,yellow,tonight,0.42857142857142855
+Yellow,But Tonight We Dance,yellow,dance,0.125
+Yellow,But Tonight We Dance,yellow,noise,0.26666666666666666
+Yellow,But Tonight We Dance,yellow,tonight,0.42857142857142855
+Yellow,But Tonight We Dance,yellow,dance,0.125
+Yellow,But Tonight We Dance,yellow,noise,0.26666666666666666
+Yellow,Bricks,yellow,bricks,0.13333333333333333
+Yellow,Bricks,yellow,witness,0.14285714285714285
+Yellow,Bricks,yellow,sufferer,0.14285714285714285
+Yellow,Bricks,yellow,bricks,0.13333333333333333
+Yellow,Bricks,yellow,witness,0.14285714285714285
+Yellow,Bricks,yellow,sufferer,0.14285714285714285
+Yellow,Remains Of Summer Memories,yellow,summer,0.26666666666666666
+Yellow,Remains Of Summer Memories,yellow,memories,0.26666666666666666
+Yellow,Remains Of Summer Memories,yellow,remains,0.16666666666666666
+Yellow,Remains Of Summer Memories,yellow,unraveling,0
+Yellow,Remains Of Summer Memories,yellow,summer,0.26666666666666666
+Yellow,Remains Of Summer Memories,yellow,memories,0.26666666666666666
+Yellow,Remains Of Summer Memories,yellow,remains,0.16666666666666666
+Yellow,Remains Of Summer Memories,yellow,unraveling,0
+Yellow,Black Masks & Gasoline,yellow,black,0.75
+Yellow,Black Masks & Gasoline,yellow,masks,0.13333333333333333
+Yellow,Black Masks & Gasoline,yellow,gasoline,0.25
+Yellow,Black Masks & Gasoline,yellow,revolutions,0.26666666666666666
+Yellow,Black Masks & Gasoline,yellow,minute,0.3076923076923077
+Yellow,Black Masks & Gasoline,yellow,black,0.75
+Yellow,Black Masks & Gasoline,yellow,masks,0.13333333333333333
+Yellow,Black Masks & Gasoline,yellow,gasoline,0.25
+Yellow,Black Masks & Gasoline,yellow,revolutions,0.26666666666666666
+Yellow,Black Masks & Gasoline,yellow,minute,0.3076923076923077
+Yellow,Behind Closed Doors,yellow,behind,0.14285714285714285
+Yellow,Behind Closed Doors,yellow,closed,0
+Yellow,Behind Closed Doors,yellow,doors,0.1111111111111111
+Yellow,Behind Closed Doors,yellow,witness,0.14285714285714285
+Yellow,Behind Closed Doors,yellow,sufferer,0.14285714285714285
+Yellow,Behind Closed Doors,yellow,behind,0.14285714285714285
+Yellow,Behind Closed Doors,yellow,closed,0
+Yellow,Behind Closed Doors,yellow,doors,0.1111111111111111
+Yellow,Behind Closed Doors,yellow,witness,0.14285714285714285
+Yellow,Behind Closed Doors,yellow,sufferer,0.14285714285714285
+Yellow,Paper Wings,yellow,paper,0.26666666666666666
+Yellow,Paper Wings,yellow,wings,0.25
+Yellow,Paper Wings,yellow,siren,0.19047619047619047
+Yellow,Paper Wings,yellow,song,0.26666666666666666
+Yellow,Paper Wings,yellow,culture,0.2857142857142857
+Yellow,Paper Wings,yellow,counter,0.1111111111111111
+Yellow,Paper Wings,yellow,paper,0.26666666666666666
+Yellow,Paper Wings,yellow,wings,0.25
+Yellow,Paper Wings,yellow,siren,0.19047619047619047
+Yellow,Paper Wings,yellow,song,0.26666666666666666
+Yellow,Paper Wings,yellow,culture,0.2857142857142857
+Yellow,Paper Wings,yellow,counter,0.1111111111111111
+Yellow,Broken English,yellow,broken,0
+Yellow,Broken English,yellow,english,0.23529411764705882
+Yellow,Broken English,yellow,revolutions,0.26666666666666666
+Yellow,Broken English,yellow,minute,0.3076923076923077
+Yellow,Broken English,yellow,broken,0
+Yellow,Broken English,yellow,english,0.23529411764705882
+Yellow,Broken English,yellow,revolutions,0.26666666666666666
+Yellow,Broken English,yellow,minute,0.3076923076923077
+Yellow,Savior,yellow,savior,0.25
+Yellow,Savior,yellow,reason,0.2857142857142857
+Yellow,Savior,yellow,appeal,0.25
+Yellow,Savior,yellow,savior,0.25
+Yellow,Savior,yellow,reason,0.2857142857142857
+Yellow,Savior,yellow,appeal,0.25
+Yellow,Blood To Bleed,yellow,blood,0.25
+Yellow,Blood To Bleed,yellow,bleed,0
+Yellow,Blood To Bleed,yellow,siren,0.19047619047619047
+Yellow,Blood To Bleed,yellow,song,0.26666666666666666
+Yellow,Blood To Bleed,yellow,culture,0.2857142857142857
+Yellow,Blood To Bleed,yellow,counter,0.1111111111111111
+Yellow,Blood To Bleed,yellow,blood,0.25
+Yellow,Blood To Bleed,yellow,bleed,0
+Yellow,Blood To Bleed,yellow,siren,0.19047619047619047
+Yellow,Blood To Bleed,yellow,song,0.26666666666666666
+Yellow,Blood To Bleed,yellow,culture,0.2857142857142857
+Yellow,Blood To Bleed,yellow,counter,0.1111111111111111
+Yellow,Survive,yellow,survive,0
+Yellow,Survive,yellow,witness,0.14285714285714285
+Yellow,Survive,yellow,sufferer,0.14285714285714285
+Yellow,Survive,yellow,survive,0
+Yellow,Survive,yellow,witness,0.14285714285714285
+Yellow,Survive,yellow,sufferer,0.14285714285714285
+Yellow,The First Drop,yellow,first,0.4
+Yellow,The First Drop,yellow,drop,0.4
+Yellow,The First Drop,yellow,siren,0.19047619047619047
+Yellow,The First Drop,yellow,song,0.26666666666666666
+Yellow,The First Drop,yellow,culture,0.2857142857142857
+Yellow,The First Drop,yellow,counter,0.1111111111111111
+Yellow,The First Drop,yellow,first,0.4
+Yellow,The First Drop,yellow,drop,0.4
+Yellow,The First Drop,yellow,siren,0.19047619047619047
+Yellow,The First Drop,yellow,song,0.26666666666666666
+Yellow,The First Drop,yellow,culture,0.2857142857142857
+Yellow,The First Drop,yellow,counter,0.1111111111111111
+Yellow,Voices Off Camera,yellow,voices,0.5333333333333333
+Yellow,Voices Off Camera,yellow,camera,0.11764705882352941
+Yellow,Voices Off Camera,yellow,revolutions,0.26666666666666666
+Yellow,Voices Off Camera,yellow,minute,0.3076923076923077
+Yellow,Voices Off Camera,yellow,voices,0.5333333333333333
+Yellow,Voices Off Camera,yellow,camera,0.11764705882352941
+Yellow,Voices Off Camera,yellow,revolutions,0.26666666666666666
+Yellow,Voices Off Camera,yellow,minute,0.3076923076923077
+Yellow,Boy's No Good,yellow,good,0.4
+Yellow,Boy's No Good,yellow,boy,0.14285714285714285
+Yellow,Boy's No Good,yellow,one,0.25
+Yellow,Boy's No Good,yellow,audience,0.2857142857142857
+Yellow,Entertainment,yellow,entertainment,0.25
+Yellow,Entertainment,yellow,reason,0.2857142857142857
+Yellow,Entertainment,yellow,appeal,0.25
+Yellow,The Art Of Losing,yellow,losing,0
+Yellow,The Art Of Losing,yellow,art,0.13333333333333333
+Yellow,The Art Of Losing,yellow,unraveling,0
+Yellow,But Tonight We Dance,yellow,tonight,0.42857142857142855
+Yellow,But Tonight We Dance,yellow,dance,0.125
+Yellow,But Tonight We Dance,yellow,noise,0.26666666666666666
+Yellow,Bricks,yellow,bricks,0.13333333333333333
+Yellow,Bricks,yellow,witness,0.14285714285714285
+Yellow,Bricks,yellow,sufferer,0.14285714285714285
+Yellow,Remains Of Summer Memories,yellow,summer,0.26666666666666666
+Yellow,Remains Of Summer Memories,yellow,memories,0.26666666666666666
+Yellow,Remains Of Summer Memories,yellow,remains,0.16666666666666666
+Yellow,Remains Of Summer Memories,yellow,unraveling,0
+Yellow,Black Masks & Gasoline,yellow,black,0.75
+Yellow,Black Masks & Gasoline,yellow,masks,0.13333333333333333
+Yellow,Black Masks & Gasoline,yellow,gasoline,0.25
+Yellow,Black Masks & Gasoline,yellow,revolutions,0.26666666666666666
+Yellow,Black Masks & Gasoline,yellow,minute,0.3076923076923077
+Yellow,Behind Closed Doors,yellow,behind,0.14285714285714285
+Yellow,Behind Closed Doors,yellow,closed,0
+Yellow,Behind Closed Doors,yellow,doors,0.1111111111111111
+Yellow,Behind Closed Doors,yellow,witness,0.14285714285714285
+Yellow,Behind Closed Doors,yellow,sufferer,0.14285714285714285
+Yellow,Paper Wings,yellow,paper,0.26666666666666666
+Yellow,Paper Wings,yellow,wings,0.25
+Yellow,Paper Wings,yellow,siren,0.19047619047619047
+Yellow,Paper Wings,yellow,song,0.26666666666666666
+Yellow,Paper Wings,yellow,culture,0.2857142857142857
+Yellow,Paper Wings,yellow,counter,0.1111111111111111
+Yellow,Broken English,yellow,broken,0
+Yellow,Broken English,yellow,english,0.23529411764705882
+Yellow,Broken English,yellow,revolutions,0.26666666666666666
+Yellow,Broken English,yellow,minute,0.3076923076923077
+Yellow,Savior,yellow,savior,0.25
+Yellow,Savior,yellow,reason,0.2857142857142857
+Yellow,Savior,yellow,appeal,0.25
+Yellow,Blood To Bleed,yellow,blood,0.25
+Yellow,Blood To Bleed,yellow,bleed,0
+Yellow,Blood To Bleed,yellow,siren,0.19047619047619047
+Yellow,Blood To Bleed,yellow,song,0.26666666666666666
+Yellow,Blood To Bleed,yellow,culture,0.2857142857142857
+Yellow,Blood To Bleed,yellow,counter,0.1111111111111111
+Yellow,Survive,yellow,survive,0
+Yellow,Survive,yellow,witness,0.14285714285714285
+Yellow,Survive,yellow,sufferer,0.14285714285714285
+Yellow,The First Drop,yellow,first,0.4
+Yellow,The First Drop,yellow,drop,0.4
+Yellow,The First Drop,yellow,siren,0.19047619047619047
+Yellow,The First Drop,yellow,song,0.26666666666666666
+Yellow,The First Drop,yellow,culture,0.2857142857142857
+Yellow,The First Drop,yellow,counter,0.1111111111111111
+Yellow,Voices Off Camera,yellow,voices,0.5333333333333333
+Yellow,Voices Off Camera,yellow,camera,0.11764705882352941
+Yellow,Voices Off Camera,yellow,revolutions,0.26666666666666666
+Yellow,Voices Off Camera,yellow,minute,0.3076923076923077
+Speed Of Sound,Boy's No Good,speed,good,0.3076923076923077
+Speed Of Sound,Boy's No Good,speed,boy,0.16666666666666666
+Speed Of Sound,Boy's No Good,speed,one,0.2857142857142857
+Speed Of Sound,Boy's No Good,speed,audience,0.3333333333333333
+Speed Of Sound,Boy's No Good,sound,good,0.46153846153846156
+Speed Of Sound,Boy's No Good,sound,boy,0.16666666666666666
+Speed Of Sound,Boy's No Good,sound,one,0.2857142857142857
+Speed Of Sound,Boy's No Good,sound,audience,0.3333333333333333
+Speed Of Sound,Boy's No Good,speed,good,0.3076923076923077
+Speed Of Sound,Boy's No Good,speed,boy,0.16666666666666666
+Speed Of Sound,Boy's No Good,speed,one,0.2857142857142857
+Speed Of Sound,Boy's No Good,speed,audience,0.3333333333333333
+Speed Of Sound,Boy's No Good,sound,good,0.46153846153846156
+Speed Of Sound,Boy's No Good,sound,boy,0.16666666666666666
+Speed Of Sound,Boy's No Good,sound,one,0.2857142857142857
+Speed Of Sound,Boy's No Good,sound,audience,0.3333333333333333
+Speed Of Sound,Entertainment,speed,entertainment,0.2857142857142857
+Speed Of Sound,Entertainment,speed,reason,0.3333333333333333
+Speed Of Sound,Entertainment,speed,appeal,0.2857142857142857
+Speed Of Sound,Entertainment,sound,entertainment,0.2857142857142857
+Speed Of Sound,Entertainment,sound,reason,0.3333333333333333
+Speed Of Sound,Entertainment,sound,appeal,0.2857142857142857
+Speed Of Sound,Entertainment,speed,entertainment,0.2857142857142857
+Speed Of Sound,Entertainment,speed,reason,0.3333333333333333
+Speed Of Sound,Entertainment,speed,appeal,0.2857142857142857
+Speed Of Sound,Entertainment,sound,entertainment,0.2857142857142857
+Speed Of Sound,Entertainment,sound,reason,0.3333333333333333
+Speed Of Sound,Entertainment,sound,appeal,0.2857142857142857
+Speed Of Sound,The Art Of Losing,speed,losing,0
+Speed Of Sound,The Art Of Losing,speed,art,0.15384615384615385
+Speed Of Sound,The Art Of Losing,speed,unraveling,0
+Speed Of Sound,The Art Of Losing,sound,losing,0
+Speed Of Sound,The Art Of Losing,sound,art,0.15384615384615385
+Speed Of Sound,The Art Of Losing,sound,unraveling,0
+Speed Of Sound,The Art Of Losing,speed,losing,0
+Speed Of Sound,The Art Of Losing,speed,art,0.15384615384615385
+Speed Of Sound,The Art Of Losing,speed,unraveling,0
+Speed Of Sound,The Art Of Losing,sound,losing,0
+Speed Of Sound,The Art Of Losing,sound,art,0.15384615384615385
+Speed Of Sound,The Art Of Losing,sound,unraveling,0
+Speed Of Sound,But Tonight We Dance,speed,tonight,0.3333333333333333
+Speed Of Sound,But Tonight We Dance,speed,dance,0.14285714285714285
+Speed Of Sound,But Tonight We Dance,speed,noise,0.3076923076923077
+Speed Of Sound,But Tonight We Dance,sound,tonight,0.5
+Speed Of Sound,But Tonight We Dance,sound,dance,0.14285714285714285
+Speed Of Sound,But Tonight We Dance,sound,noise,0.3076923076923077
+Speed Of Sound,But Tonight We Dance,speed,tonight,0.3333333333333333
+Speed Of Sound,But Tonight We Dance,speed,dance,0.14285714285714285
+Speed Of Sound,But Tonight We Dance,speed,noise,0.3076923076923077
+Speed Of Sound,But Tonight We Dance,sound,tonight,0.5
+Speed Of Sound,But Tonight We Dance,sound,dance,0.14285714285714285
+Speed Of Sound,But Tonight We Dance,sound,noise,0.3076923076923077
+Speed Of Sound,Bricks,speed,bricks,0.15384615384615385
+Speed Of Sound,Bricks,speed,witness,0.16666666666666666
+Speed Of Sound,Bricks,speed,sufferer,0.16666666666666666
+Speed Of Sound,Bricks,sound,bricks,0.15384615384615385
+Speed Of Sound,Bricks,sound,witness,0.16666666666666666
+Speed Of Sound,Bricks,sound,sufferer,0.16666666666666666
+Speed Of Sound,Bricks,speed,bricks,0.15384615384615385
+Speed Of Sound,Bricks,speed,witness,0.16666666666666666
+Speed Of Sound,Bricks,speed,sufferer,0.16666666666666666
+Speed Of Sound,Bricks,sound,bricks,0.15384615384615385
+Speed Of Sound,Bricks,sound,witness,0.16666666666666666
+Speed Of Sound,Bricks,sound,sufferer,0.16666666666666666
+Speed Of Sound,Remains Of Summer Memories,speed,summer,0.3076923076923077
+Speed Of Sound,Remains Of Summer Memories,speed,memories,0.3076923076923077
+Speed Of Sound,Remains Of Summer Memories,speed,remains,0.2
+Speed Of Sound,Remains Of Summer Memories,speed,unraveling,0
+Speed Of Sound,Remains Of Summer Memories,sound,summer,0.3076923076923077
+Speed Of Sound,Remains Of Summer Memories,sound,memories,0.3076923076923077
+Speed Of Sound,Remains Of Summer Memories,sound,remains,0.2
+Speed Of Sound,Remains Of Summer Memories,sound,unraveling,0
+Speed Of Sound,Remains Of Summer Memories,speed,summer,0.3076923076923077
+Speed Of Sound,Remains Of Summer Memories,speed,memories,0.3076923076923077
+Speed Of Sound,Remains Of Summer Memories,speed,remains,0.2
+Speed Of Sound,Remains Of Summer Memories,speed,unraveling,0
+Speed Of Sound,Remains Of Summer Memories,sound,summer,0.3076923076923077
+Speed Of Sound,Remains Of Summer Memories,sound,memories,0.3076923076923077
+Speed Of Sound,Remains Of Summer Memories,sound,remains,0.2
+Speed Of Sound,Remains Of Summer Memories,sound,unraveling,0
+Speed Of Sound,Black Masks & Gasoline,speed,black,0.2857142857142857
+Speed Of Sound,Black Masks & Gasoline,speed,masks,0.15384615384615385
+Speed Of Sound,Black Masks & Gasoline,speed,gasoline,0.375
+Speed Of Sound,Black Masks & Gasoline,speed,revolutions,0.3076923076923077
+Speed Of Sound,Black Masks & Gasoline,speed,minute,0.36363636363636365
+Speed Of Sound,Black Masks & Gasoline,sound,black,0.5714285714285714
+Speed Of Sound,Black Masks & Gasoline,sound,masks,0.15384615384615385
+Speed Of Sound,Black Masks & Gasoline,sound,gasoline,0.2857142857142857
+Speed Of Sound,Black Masks & Gasoline,sound,revolutions,0.3076923076923077
+Speed Of Sound,Black Masks & Gasoline,sound,minute,0.36363636363636365
+Speed Of Sound,Black Masks & Gasoline,speed,black,0.2857142857142857
+Speed Of Sound,Black Masks & Gasoline,speed,masks,0.15384615384615385
+Speed Of Sound,Black Masks & Gasoline,speed,gasoline,0.375
+Speed Of Sound,Black Masks & Gasoline,speed,revolutions,0.3076923076923077
+Speed Of Sound,Black Masks & Gasoline,speed,minute,0.36363636363636365
+Speed Of Sound,Black Masks & Gasoline,sound,black,0.5714285714285714
+Speed Of Sound,Black Masks & Gasoline,sound,masks,0.15384615384615385
+Speed Of Sound,Black Masks & Gasoline,sound,gasoline,0.2857142857142857
+Speed Of Sound,Black Masks & Gasoline,sound,revolutions,0.3076923076923077
+Speed Of Sound,Black Masks & Gasoline,sound,minute,0.36363636363636365
+Speed Of Sound,Behind Closed Doors,speed,behind,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,speed,closed,0
+Speed Of Sound,Behind Closed Doors,speed,doors,0.125
+Speed Of Sound,Behind Closed Doors,speed,witness,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,speed,sufferer,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,sound,behind,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,sound,closed,0
+Speed Of Sound,Behind Closed Doors,sound,doors,0.125
+Speed Of Sound,Behind Closed Doors,sound,witness,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,sound,sufferer,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,speed,behind,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,speed,closed,0
+Speed Of Sound,Behind Closed Doors,speed,doors,0.125
+Speed Of Sound,Behind Closed Doors,speed,witness,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,speed,sufferer,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,sound,behind,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,sound,closed,0
+Speed Of Sound,Behind Closed Doors,sound,doors,0.125
+Speed Of Sound,Behind Closed Doors,sound,witness,0.16666666666666666
+Speed Of Sound,Behind Closed Doors,sound,sufferer,0.16666666666666666
+Speed Of Sound,Paper Wings,speed,paper,0.46153846153846156
+Speed Of Sound,Paper Wings,speed,wings,0.2857142857142857
+Speed Of Sound,Paper Wings,speed,siren,0.21052631578947367
+Speed Of Sound,Paper Wings,speed,song,0.3076923076923077
+Speed Of Sound,Paper Wings,speed,culture,0.3333333333333333
+Speed Of Sound,Paper Wings,speed,counter,0.125
+Speed Of Sound,Paper Wings,sound,paper,0.3076923076923077
+Speed Of Sound,Paper Wings,sound,wings,0.2857142857142857
+Speed Of Sound,Paper Wings,sound,siren,0.21052631578947367
+Speed Of Sound,Paper Wings,sound,song,0.3076923076923077
+Speed Of Sound,Paper Wings,sound,culture,0.3333333333333333
+Speed Of Sound,Paper Wings,sound,counter,0.125
+Speed Of Sound,Paper Wings,speed,paper,0.46153846153846156
+Speed Of Sound,Paper Wings,speed,wings,0.2857142857142857
+Speed Of Sound,Paper Wings,speed,siren,0.21052631578947367
+Speed Of Sound,Paper Wings,speed,song,0.3076923076923077
+Speed Of Sound,Paper Wings,speed,culture,0.3333333333333333
+Speed Of Sound,Paper Wings,speed,counter,0.125
+Speed Of Sound,Paper Wings,sound,paper,0.3076923076923077
+Speed Of Sound,Paper Wings,sound,wings,0.2857142857142857
+Speed Of Sound,Paper Wings,sound,siren,0.21052631578947367
+Speed Of Sound,Paper Wings,sound,song,0.3076923076923077
+Speed Of Sound,Paper Wings,sound,culture,0.3333333333333333
+Speed Of Sound,Paper Wings,sound,counter,0.125
+Speed Of Sound,Broken English,speed,broken,0
+Speed Of Sound,Broken English,speed,english,0.26666666666666666
+Speed Of Sound,Broken English,speed,revolutions,0.3076923076923077
+Speed Of Sound,Broken English,speed,minute,0.36363636363636365
+Speed Of Sound,Broken English,sound,broken,0
+Speed Of Sound,Broken English,sound,english,0.26666666666666666
+Speed Of Sound,Broken English,sound,revolutions,0.3076923076923077
+Speed Of Sound,Broken English,sound,minute,0.36363636363636365
+Speed Of Sound,Broken English,speed,broken,0
+Speed Of Sound,Broken English,speed,english,0.26666666666666666
+Speed Of Sound,Broken English,speed,revolutions,0.3076923076923077
+Speed Of Sound,Broken English,speed,minute,0.36363636363636365
+Speed Of Sound,Broken English,sound,broken,0
+Speed Of Sound,Broken English,sound,english,0.26666666666666666
+Speed Of Sound,Broken English,sound,revolutions,0.3076923076923077
+Speed Of Sound,Broken English,sound,minute,0.36363636363636365
+Speed Of Sound,Savior,speed,savior,0.2857142857142857
+Speed Of Sound,Savior,speed,reason,0.3333333333333333
+Speed Of Sound,Savior,speed,appeal,0.2857142857142857
+Speed Of Sound,Savior,sound,savior,0.2857142857142857
+Speed Of Sound,Savior,sound,reason,0.3333333333333333
+Speed Of Sound,Savior,sound,appeal,0.2857142857142857
+Speed Of Sound,Savior,speed,savior,0.2857142857142857
+Speed Of Sound,Savior,speed,reason,0.3333333333333333
+Speed Of Sound,Savior,speed,appeal,0.2857142857142857
+Speed Of Sound,Savior,sound,savior,0.2857142857142857
+Speed Of Sound,Savior,sound,reason,0.3333333333333333
+Speed Of Sound,Savior,sound,appeal,0.2857142857142857
+Speed Of Sound,Blood To Bleed,speed,blood,0.42857142857142855
+Speed Of Sound,Blood To Bleed,speed,bleed,0
+Speed Of Sound,Blood To Bleed,speed,siren,0.21052631578947367
+Speed Of Sound,Blood To Bleed,speed,song,0.3076923076923077
+Speed Of Sound,Blood To Bleed,speed,culture,0.3333333333333333
+Speed Of Sound,Blood To Bleed,speed,counter,0.125
+Speed Of Sound,Blood To Bleed,sound,blood,0.2857142857142857
+Speed Of Sound,Blood To Bleed,sound,bleed,0
+Speed Of Sound,Blood To Bleed,sound,siren,0.21052631578947367
+Speed Of Sound,Blood To Bleed,sound,song,0.3076923076923077
+Speed Of Sound,Blood To Bleed,sound,culture,0.3333333333333333
+Speed Of Sound,Blood To Bleed,sound,counter,0.125
+Speed Of Sound,Blood To Bleed,speed,blood,0.42857142857142855
+Speed Of Sound,Blood To Bleed,speed,bleed,0
+Speed Of Sound,Blood To Bleed,speed,siren,0.21052631578947367
+Speed Of Sound,Blood To Bleed,speed,song,0.3076923076923077
+Speed Of Sound,Blood To Bleed,speed,culture,0.3333333333333333
+Speed Of Sound,Blood To Bleed,speed,counter,0.125
+Speed Of Sound,Blood To Bleed,sound,blood,0.2857142857142857
+Speed Of Sound,Blood To Bleed,sound,bleed,0
+Speed Of Sound,Blood To Bleed,sound,siren,0.21052631578947367
+Speed Of Sound,Blood To Bleed,sound,song,0.3076923076923077
+Speed Of Sound,Blood To Bleed,sound,culture,0.3333333333333333
+Speed Of Sound,Blood To Bleed,sound,counter,0.125
+Speed Of Sound,Survive,speed,survive,0
+Speed Of Sound,Survive,speed,witness,0.16666666666666666
+Speed Of Sound,Survive,speed,sufferer,0.16666666666666666
+Speed Of Sound,Survive,sound,survive,0
+Speed Of Sound,Survive,sound,witness,0.16666666666666666
+Speed Of Sound,Survive,sound,sufferer,0.16666666666666666
+Speed Of Sound,Survive,speed,survive,0
+Speed Of Sound,Survive,speed,witness,0.16666666666666666
+Speed Of Sound,Survive,speed,sufferer,0.16666666666666666
+Speed Of Sound,Survive,sound,survive,0
+Speed Of Sound,Survive,sound,witness,0.16666666666666666
+Speed Of Sound,Survive,sound,sufferer,0.16666666666666666
+Speed Of Sound,The First Drop,speed,first,0.3076923076923077
+Speed Of Sound,The First Drop,speed,drop,0.3076923076923077
+Speed Of Sound,The First Drop,speed,siren,0.21052631578947367
+Speed Of Sound,The First Drop,speed,song,0.3076923076923077
+Speed Of Sound,The First Drop,speed,culture,0.3333333333333333
+Speed Of Sound,The First Drop,speed,counter,0.125
+Speed Of Sound,The First Drop,sound,first,0.46153846153846156
+Speed Of Sound,The First Drop,sound,drop,0.46153846153846156
+Speed Of Sound,The First Drop,sound,siren,0.21052631578947367
+Speed Of Sound,The First Drop,sound,song,0.3076923076923077
+Speed Of Sound,The First Drop,sound,culture,0.3333333333333333
+Speed Of Sound,The First Drop,sound,counter,0.125
+Speed Of Sound,The First Drop,speed,first,0.3076923076923077
+Speed Of Sound,The First Drop,speed,drop,0.3076923076923077
+Speed Of Sound,The First Drop,speed,siren,0.21052631578947367
+Speed Of Sound,The First Drop,speed,song,0.3076923076923077
+Speed Of Sound,The First Drop,speed,culture,0.3333333333333333
+Speed Of Sound,The First Drop,speed,counter,0.125
+Speed Of Sound,The First Drop,sound,first,0.46153846153846156
+Speed Of Sound,The First Drop,sound,drop,0.46153846153846156
+Speed Of Sound,The First Drop,sound,siren,0.21052631578947367
+Speed Of Sound,The First Drop,sound,song,0.3076923076923077
+Speed Of Sound,The First Drop,sound,culture,0.3333333333333333
+Speed Of Sound,The First Drop,sound,counter,0.125
+Speed Of Sound,Voices Off Camera,speed,voices,0.3076923076923077
+Speed Of Sound,Voices Off Camera,speed,camera,0.13333333333333333
+Speed Of Sound,Voices Off Camera,speed,revolutions,0.3076923076923077
+Speed Of Sound,Voices Off Camera,speed,minute,0.36363636363636365
+Speed Of Sound,Voices Off Camera,sound,voices,0.9230769230769231
+Speed Of Sound,Voices Off Camera,sound,camera,0.13333333333333333
+Speed Of Sound,Voices Off Camera,sound,revolutions,0.3076923076923077
+Speed Of Sound,Voices Off Camera,sound,minute,0.36363636363636365
+Speed Of Sound,Voices Off Camera,speed,voices,0.3076923076923077
+Speed Of Sound,Voices Off Camera,speed,camera,0.13333333333333333
+Speed Of Sound,Voices Off Camera,speed,revolutions,0.3076923076923077
+Speed Of Sound,Voices Off Camera,speed,minute,0.36363636363636365
+Speed Of Sound,Voices Off Camera,sound,voices,0.9230769230769231
+Speed Of Sound,Voices Off Camera,sound,camera,0.13333333333333333
+Speed Of Sound,Voices Off Camera,sound,revolutions,0.3076923076923077
+Speed Of Sound,Voices Off Camera,sound,minute,0.36363636363636365

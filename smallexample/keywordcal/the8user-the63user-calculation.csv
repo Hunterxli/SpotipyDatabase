@@ -1,0 +1,3301 @@
+the_first_song,the_second_song,word1,word2,result
+Swallowed In The Sea,Cannonball,swallowed,cannonball,0.13333333333333333
+Swallowed In The Sea,Cannonball,swallowed,cannonball,0.13333333333333333
+Swallowed In The Sea,Cannonball,sea,cannonball,0.25
+Swallowed In The Sea,Cannonball,sea,cannonball,0.25
+Swallowed In The Sea,Cannonball,x,cannonball,0.10526315789473684
+Swallowed In The Sea,Cannonball,x,cannonball,0.10526315789473684
+Swallowed In The Sea,Invisible Man,swallowed,invisible,0.4
+Swallowed In The Sea,Invisible Man,swallowed,man,0.18181818181818182
+Swallowed In The Sea,Invisible Man,swallowed,last,0.2
+Swallowed In The Sea,Invisible Man,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Invisible Man,sea,invisible,0
+Swallowed In The Sea,Invisible Man,sea,man,0.36363636363636365
+Swallowed In The Sea,Invisible Man,sea,last,0.18181818181818182
+Swallowed In The Sea,Invisible Man,sea,splash,0.15384615384615385
+Swallowed In The Sea,Invisible Man,x,invisible,0
+Swallowed In The Sea,Invisible Man,x,man,0.14285714285714285
+Swallowed In The Sea,Invisible Man,x,last,0.42857142857142855
+Swallowed In The Sea,Invisible Man,x,splash,0.25
+Swallowed In The Sea,No Aloha,swallowed,hell,0.2
+Swallowed In The Sea,No Aloha,swallowed,aloha,0.2
+Swallowed In The Sea,No Aloha,swallowed,last,0.2
+Swallowed In The Sea,No Aloha,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,No Aloha,sea,hell,0.36363636363636365
+Swallowed In The Sea,No Aloha,sea,aloha,0.18181818181818182
+Swallowed In The Sea,No Aloha,sea,last,0.18181818181818182
+Swallowed In The Sea,No Aloha,sea,splash,0.15384615384615385
+Swallowed In The Sea,No Aloha,x,hell,0.14285714285714285
+Swallowed In The Sea,No Aloha,x,aloha,0.2857142857142857
+Swallowed In The Sea,No Aloha,x,last,0.42857142857142855
+Swallowed In The Sea,No Aloha,x,splash,0.25
+Swallowed In The Sea,Mad Lucas,swallowed,mad,0.4
+Swallowed In The Sea,Mad Lucas,swallowed,lucas,0.15384615384615385
+Swallowed In The Sea,Mad Lucas,swallowed,last,0.2
+Swallowed In The Sea,Mad Lucas,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Mad Lucas,sea,mad,0
+Swallowed In The Sea,Mad Lucas,sea,lucas,0.3076923076923077
+Swallowed In The Sea,Mad Lucas,sea,last,0.18181818181818182
+Swallowed In The Sea,Mad Lucas,sea,splash,0.15384615384615385
+Swallowed In The Sea,Mad Lucas,x,mad,0
+Swallowed In The Sea,Mad Lucas,x,lucas,0.125
+Swallowed In The Sea,Mad Lucas,x,last,0.42857142857142855
+Swallowed In The Sea,Mad Lucas,x,splash,0.25
+Swallowed In The Sea,Roi (reprise),swallowed,recovery,0.15384615384615385
+Swallowed In The Sea,Roi (reprise),swallowed,king,0.16666666666666666
+Swallowed In The Sea,Roi (reprise),swallowed,last,0.2
+Swallowed In The Sea,Roi (reprise),swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Roi (reprise),sea,recovery,0.14285714285714285
+Swallowed In The Sea,Roi (reprise),sea,king,0.3333333333333333
+Swallowed In The Sea,Roi (reprise),sea,last,0.18181818181818182
+Swallowed In The Sea,Roi (reprise),sea,splash,0.15384615384615385
+Swallowed In The Sea,Roi (reprise),x,recovery,0.23529411764705882
+Swallowed In The Sea,Roi (reprise),x,king,0.13333333333333333
+Swallowed In The Sea,Roi (reprise),x,last,0.42857142857142855
+Swallowed In The Sea,Roi (reprise),x,splash,0.25
+Swallowed In The Sea,Gloomy Sunday,swallowed,gloomy,0.4
+Swallowed In The Sea,Gloomy Sunday,swallowed,sunday,0.15384615384615385
+Swallowed In The Sea,Gloomy Sunday,swallowed,south,0.18181818181818182
+Swallowed In The Sea,Gloomy Sunday,sea,gloomy,0
+Swallowed In The Sea,Gloomy Sunday,sea,sunday,0.14285714285714285
+Swallowed In The Sea,Gloomy Sunday,sea,south,0.3333333333333333
+Swallowed In The Sea,Gloomy Sunday,x,gloomy,0
+Swallowed In The Sea,Gloomy Sunday,x,sunday,0.35294117647058826
+Swallowed In The Sea,Gloomy Sunday,x,south,0.13333333333333333
+Swallowed In The Sea,Roi,swallowed,king,0.16666666666666666
+Swallowed In The Sea,Roi,swallowed,last,0.2
+Swallowed In The Sea,Roi,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Roi,sea,king,0.3333333333333333
+Swallowed In The Sea,Roi,sea,last,0.18181818181818182
+Swallowed In The Sea,Roi,sea,splash,0.15384615384615385
+Swallowed In The Sea,Roi,x,king,0.13333333333333333
+Swallowed In The Sea,Roi,x,last,0.42857142857142855
+Swallowed In The Sea,Roi,x,splash,0.25
+Swallowed In The Sea,Do You Love Me Now ?,swallowed,love,0.18181818181818182
+Swallowed In The Sea,Do You Love Me Now ?,swallowed,last,0.2
+Swallowed In The Sea,Do You Love Me Now ?,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Do You Love Me Now ?,sea,love,0.16666666666666666
+Swallowed In The Sea,Do You Love Me Now ?,sea,last,0.18181818181818182
+Swallowed In The Sea,Do You Love Me Now ?,sea,splash,0.15384615384615385
+Swallowed In The Sea,Do You Love Me Now ?,x,love,0.26666666666666666
+Swallowed In The Sea,Do You Love Me Now ?,x,last,0.42857142857142855
+Swallowed In The Sea,Do You Love Me Now ?,x,splash,0.25
+Swallowed In The Sea,Hag,swallowed,hag,0.15384615384615385
+Swallowed In The Sea,Hag,swallowed,last,0.2
+Swallowed In The Sea,Hag,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Hag,sea,hag,0.3076923076923077
+Swallowed In The Sea,Hag,sea,last,0.18181818181818182
+Swallowed In The Sea,Hag,sea,splash,0.15384615384615385
+Swallowed In The Sea,Hag,x,hag,0.125
+Swallowed In The Sea,Hag,x,last,0.42857142857142855
+Swallowed In The Sea,Hag,x,splash,0.25
+Swallowed In The Sea,Evidence,swallowed,evidence,0.2
+Swallowed In The Sea,Evidence,swallowed,faith,0.16666666666666666
+Swallowed In The Sea,Evidence,swallowed,best,0.16666666666666666
+Swallowed In The Sea,Evidence,sea,evidence,0.18181818181818182
+Swallowed In The Sea,Evidence,sea,faith,0.16666666666666666
+Swallowed In The Sea,Evidence,sea,best,0.15384615384615385
+Swallowed In The Sea,Evidence,x,evidence,0.2857142857142857
+Swallowed In The Sea,Evidence,x,faith,0.26666666666666666
+Swallowed In The Sea,Evidence,x,best,0.25
+Swallowed In The Sea,Saints,swallowed,saints,0.15384615384615385
+Swallowed In The Sea,Saints,swallowed,last,0.2
+Swallowed In The Sea,Saints,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Saints,sea,saints,0.14285714285714285
+Swallowed In The Sea,Saints,sea,last,0.18181818181818182
+Swallowed In The Sea,Saints,sea,splash,0.15384615384615385
+Swallowed In The Sea,Saints,x,saints,0.23529411764705882
+Swallowed In The Sea,Saints,x,last,0.42857142857142855
+Swallowed In The Sea,Saints,x,splash,0.25
+Swallowed In The Sea,S.O.S.,swallowed,sos,0.2
+Swallowed In The Sea,S.O.S.,swallowed,last,0.2
+Swallowed In The Sea,S.O.S.,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,S.O.S.,sea,sos,0.18181818181818182
+Swallowed In The Sea,S.O.S.,sea,last,0.18181818181818182
+Swallowed In The Sea,S.O.S.,sea,splash,0.15384615384615385
+Swallowed In The Sea,S.O.S.,x,sos,0.2857142857142857
+Swallowed In The Sea,S.O.S.,x,last,0.42857142857142855
+Swallowed In The Sea,S.O.S.,x,splash,0.25
+Swallowed In The Sea,Divine Hammer,swallowed,divine,0.15384615384615385
+Swallowed In The Sea,Divine Hammer,swallowed,hammer,0.13333333333333333
+Swallowed In The Sea,Divine Hammer,swallowed,last,0.2
+Swallowed In The Sea,Divine Hammer,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Divine Hammer,sea,divine,0.14285714285714285
+Swallowed In The Sea,Divine Hammer,sea,hammer,0.25
+Swallowed In The Sea,Divine Hammer,sea,last,0.18181818181818182
+Swallowed In The Sea,Divine Hammer,sea,splash,0.15384615384615385
+Swallowed In The Sea,Divine Hammer,x,divine,0.23529411764705882
+Swallowed In The Sea,Divine Hammer,x,hammer,0.10526315789473684
+Swallowed In The Sea,Divine Hammer,x,last,0.42857142857142855
+Swallowed In The Sea,Divine Hammer,x,splash,0.25
+Swallowed In The Sea,One Step Beyond,swallowed,one,0.16666666666666666
+Swallowed In The Sea,One Step Beyond,swallowed,step,0.13333333333333333
+Swallowed In The Sea,One Step Beyond,swallowed,beyond,0.4
+Swallowed In The Sea,One Step Beyond,swallowed,complete,0.2857142857142857
+Swallowed In The Sea,One Step Beyond,swallowed,madness,0.15384615384615385
+Swallowed In The Sea,One Step Beyond,sea,one,0.15384615384615385
+Swallowed In The Sea,One Step Beyond,sea,step,0.125
+Swallowed In The Sea,One Step Beyond,sea,beyond,0
+Swallowed In The Sea,One Step Beyond,sea,complete,0
+Swallowed In The Sea,One Step Beyond,sea,madness,0.14285714285714285
+Swallowed In The Sea,One Step Beyond,x,one,0.75
+Swallowed In The Sea,One Step Beyond,x,step,0.21052631578947367
+Swallowed In The Sea,One Step Beyond,x,beyond,0
+Swallowed In The Sea,One Step Beyond,x,complete,0
+Swallowed In The Sea,One Step Beyond,x,madness,0.23529411764705882
+Swallowed In The Sea,Ready For The Floor (Album Version),swallowed,album,0.16666666666666666
+Swallowed In The Sea,Ready For The Floor (Album Version),swallowed,version,0.16666666666666666
+Swallowed In The Sea,Ready For The Floor (Album Version),swallowed,ready,0.2
+Swallowed In The Sea,Ready For The Floor (Album Version),swallowed,floor,0.16666666666666666
+Swallowed In The Sea,Ready For The Floor (Album Version),swallowed,best,0.16666666666666666
+Swallowed In The Sea,Ready For The Floor (Album Version),swallowed,bands,0.2222222222222222
+Swallowed In The Sea,Ready For The Floor (Album Version),sea,album,0.3076923076923077
+Swallowed In The Sea,Ready For The Floor (Album Version),sea,version,0.15384615384615385
+Swallowed In The Sea,Ready For The Floor (Album Version),sea,ready,0.18181818181818182
+Swallowed In The Sea,Ready For The Floor (Album Version),sea,floor,0.3076923076923077
+Swallowed In The Sea,Ready For The Floor (Album Version),sea,best,0.15384615384615385
+Swallowed In The Sea,Ready For The Floor (Album Version),sea,bands,0.2
+Swallowed In The Sea,Ready For The Floor (Album Version),x,album,0.125
+Swallowed In The Sea,Ready For The Floor (Album Version),x,version,0.25
+Swallowed In The Sea,Ready For The Floor (Album Version),x,ready,0.2857142857142857
+Swallowed In The Sea,Ready For The Floor (Album Version),x,floor,0.125
+Swallowed In The Sea,Ready For The Floor (Album Version),x,best,0.25
+Swallowed In The Sea,Ready For The Floor (Album Version),x,bands,0.3076923076923077
+Swallowed In The Sea,I Just Wanna Get Along,swallowed,wan,0.14285714285714285
+Swallowed In The Sea,I Just Wanna Get Along,swallowed,na,0.18181818181818182
+Swallowed In The Sea,I Just Wanna Get Along,swallowed,get,0.11764705882352941
+Swallowed In The Sea,I Just Wanna Get Along,swallowed,along,0.4
+Swallowed In The Sea,I Just Wanna Get Along,swallowed,last,0.2
+Swallowed In The Sea,I Just Wanna Get Along,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,I Just Wanna Get Along,sea,wan,0.26666666666666666
+Swallowed In The Sea,I Just Wanna Get Along,sea,na,0.3333333333333333
+Swallowed In The Sea,I Just Wanna Get Along,sea,get,0.1111111111111111
+Swallowed In The Sea,I Just Wanna Get Along,sea,along,0
+Swallowed In The Sea,I Just Wanna Get Along,sea,last,0.18181818181818182
+Swallowed In The Sea,I Just Wanna Get Along,sea,splash,0.15384615384615385
+Swallowed In The Sea,I Just Wanna Get Along,x,wan,0.1111111111111111
+Swallowed In The Sea,I Just Wanna Get Along,x,na,0.25
+Swallowed In The Sea,I Just Wanna Get Along,x,get,0.19047619047619047
+Swallowed In The Sea,I Just Wanna Get Along,x,along,0
+Swallowed In The Sea,I Just Wanna Get Along,x,last,0.42857142857142855
+Swallowed In The Sea,I Just Wanna Get Along,x,splash,0.25
+Swallowed In The Sea,New Year,swallowed,new,0.4
+Swallowed In The Sea,New Year,swallowed,year,0.2
+Swallowed In The Sea,New Year,swallowed,last,0.2
+Swallowed In The Sea,New Year,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,New Year,sea,new,0
+Swallowed In The Sea,New Year,sea,year,0.18181818181818182
+Swallowed In The Sea,New Year,sea,last,0.18181818181818182
+Swallowed In The Sea,New Year,sea,splash,0.15384615384615385
+Swallowed In The Sea,New Year,x,new,0
+Swallowed In The Sea,New Year,x,year,0.42857142857142855
+Swallowed In The Sea,New Year,x,last,0.42857142857142855
+Swallowed In The Sea,New Year,x,splash,0.25
+Swallowed In The Sea,Drivin On 9,swallowed,last,0.2
+Swallowed In The Sea,Drivin On 9,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Drivin On 9,sea,last,0.18181818181818182
+Swallowed In The Sea,Drivin On 9,sea,splash,0.15384615384615385
+Swallowed In The Sea,Drivin On 9,x,last,0.42857142857142855
+Swallowed In The Sea,Drivin On 9,x,splash,0.25
+Swallowed In The Sea,Talk About The Blues,swallowed,talk,0.18181818181818182
+Swallowed In The Sea,Talk About The Blues,swallowed,blues,0.18181818181818182
+Swallowed In The Sea,Talk About The Blues,swallowed,matador,0.18181818181818182
+Swallowed In The Sea,Talk About The Blues,swallowed,records,0.2
+Swallowed In The Sea,Talk About The Blues,swallowed,anniversary,0.16666666666666666
+Swallowed In The Sea,Talk About The Blues,swallowed,anthology,0.13333333333333333
+Swallowed In The Sea,Talk About The Blues,swallowed,nice,0.14285714285714285
+Swallowed In The Sea,Talk About The Blues,sea,talk,0.16666666666666666
+Swallowed In The Sea,Talk About The Blues,sea,blues,0.16666666666666666
+Swallowed In The Sea,Talk About The Blues,sea,matador,0.36363636363636365
+Swallowed In The Sea,Talk About The Blues,sea,records,0.18181818181818182
+Swallowed In The Sea,Talk About The Blues,sea,anniversary,0.15384615384615385
+Swallowed In The Sea,Talk About The Blues,sea,anthology,0.25
+Swallowed In The Sea,Talk About The Blues,sea,nice,0.26666666666666666
+Swallowed In The Sea,Talk About The Blues,x,talk,0.26666666666666666
+Swallowed In The Sea,Talk About The Blues,x,blues,0.26666666666666666
+Swallowed In The Sea,Talk About The Blues,x,matador,0.14285714285714285
+Swallowed In The Sea,Talk About The Blues,x,records,0.2857142857142857
+Swallowed In The Sea,Talk About The Blues,x,anniversary,0.375
+Swallowed In The Sea,Talk About The Blues,x,anthology,0.10526315789473684
+Swallowed In The Sea,Talk About The Blues,x,nice,0.1111111111111111
+Swallowed In The Sea,Flipside,swallowed,last,0.2
+Swallowed In The Sea,Flipside,swallowed,splash,0.16666666666666666
+Swallowed In The Sea,Flipside,sea,last,0.18181818181818182
+Swallowed In The Sea,Flipside,sea,splash,0.15384615384615385
+Swallowed In The Sea,Flipside,x,last,0.42857142857142855
+Swallowed In The Sea,Flipside,x,splash,0.25
+Life In Technicolor,Cannonball,technicolor,cannonball,0.10526315789473684
+Life In Technicolor,Cannonball,technicolor,cannonball,0.10526315789473684
+Life In Technicolor,Cannonball,life,cannonball,0.11764705882352941
+Life In Technicolor,Cannonball,life,cannonball,0.11764705882352941
+Life In Technicolor,Cannonball,viva,cannonball,0.10526315789473684
+Life In Technicolor,Cannonball,viva,cannonball,0.10526315789473684
+Life In Technicolor,Cannonball,la,cannonball,0.2222222222222222
+Life In Technicolor,Cannonball,la,cannonball,0.2222222222222222
+Life In Technicolor,Cannonball,friends,cannonball,0.42105263157894735
+Life In Technicolor,Cannonball,friends,cannonball,0.42105263157894735
+Life In Technicolor,Cannonball,death,cannonball,0.1111111111111111
+Life In Technicolor,Cannonball,death,cannonball,0.1111111111111111
+Life In Technicolor,Invisible Man,technicolor,invisible,0
+Life In Technicolor,Invisible Man,technicolor,man,0.14285714285714285
+Life In Technicolor,Invisible Man,technicolor,last,0.2857142857142857
+Life In Technicolor,Invisible Man,technicolor,splash,0.375
+Life In Technicolor,Invisible Man,life,invisible,0
+Life In Technicolor,Invisible Man,life,man,0.16666666666666666
+Life In Technicolor,Invisible Man,life,last,0.3333333333333333
+Life In Technicolor,Invisible Man,life,splash,0.2857142857142857
+Life In Technicolor,Invisible Man,viva,invisible,0
+Life In Technicolor,Invisible Man,viva,man,0.14285714285714285
+Life In Technicolor,Invisible Man,viva,last,0.2857142857142857
+Life In Technicolor,Invisible Man,viva,splash,0.5
+Life In Technicolor,Invisible Man,la,invisible,0
+Life In Technicolor,Invisible Man,la,man,0.3076923076923077
+Life In Technicolor,Invisible Man,la,last,0.2857142857142857
+Life In Technicolor,Invisible Man,la,splash,0.25
+Life In Technicolor,Invisible Man,friends,invisible,0
+Life In Technicolor,Invisible Man,friends,man,0.7058823529411765
+Life In Technicolor,Invisible Man,friends,last,0.18181818181818182
+Life In Technicolor,Invisible Man,friends,splash,0.15384615384615385
+Life In Technicolor,Invisible Man,death,invisible,0
+Life In Technicolor,Invisible Man,death,man,0.15384615384615385
+Life In Technicolor,Invisible Man,death,last,0.3076923076923077
+Life In Technicolor,Invisible Man,death,splash,0.6666666666666666
+Life In Technicolor,No Aloha,technicolor,hell,0.14285714285714285
+Life In Technicolor,No Aloha,technicolor,aloha,0.2857142857142857
+Life In Technicolor,No Aloha,technicolor,last,0.2857142857142857
+Life In Technicolor,No Aloha,technicolor,splash,0.375
+Life In Technicolor,No Aloha,life,hell,0.16666666666666666
+Life In Technicolor,No Aloha,life,aloha,0.3333333333333333
+Life In Technicolor,No Aloha,life,last,0.3333333333333333
+Life In Technicolor,No Aloha,life,splash,0.2857142857142857
+Life In Technicolor,No Aloha,viva,hell,0.14285714285714285
+Life In Technicolor,No Aloha,viva,aloha,0.2857142857142857
+Life In Technicolor,No Aloha,viva,last,0.2857142857142857
+Life In Technicolor,No Aloha,viva,splash,0.5
+Life In Technicolor,No Aloha,la,hell,0.3076923076923077
+Life In Technicolor,No Aloha,la,aloha,0.2857142857142857
+Life In Technicolor,No Aloha,la,last,0.2857142857142857
+Life In Technicolor,No Aloha,la,splash,0.25
+Life In Technicolor,No Aloha,friends,hell,0.46153846153846156
+Life In Technicolor,No Aloha,friends,aloha,0.18181818181818182
+Life In Technicolor,No Aloha,friends,last,0.18181818181818182
+Life In Technicolor,No Aloha,friends,splash,0.15384615384615385
+Life In Technicolor,No Aloha,death,hell,0.15384615384615385
+Life In Technicolor,No Aloha,death,aloha,0.3076923076923077
+Life In Technicolor,No Aloha,death,last,0.3076923076923077
+Life In Technicolor,No Aloha,death,splash,0.6666666666666666
+Life In Technicolor,Mad Lucas,technicolor,mad,0
+Life In Technicolor,Mad Lucas,technicolor,lucas,0.125
+Life In Technicolor,Mad Lucas,technicolor,last,0.2857142857142857
+Life In Technicolor,Mad Lucas,technicolor,splash,0.375
+Life In Technicolor,Mad Lucas,life,mad,0
+Life In Technicolor,Mad Lucas,life,lucas,0.14285714285714285
+Life In Technicolor,Mad Lucas,life,last,0.3333333333333333
+Life In Technicolor,Mad Lucas,life,splash,0.2857142857142857
+Life In Technicolor,Mad Lucas,viva,mad,0
+Life In Technicolor,Mad Lucas,viva,lucas,0.125
+Life In Technicolor,Mad Lucas,viva,last,0.2857142857142857
+Life In Technicolor,Mad Lucas,viva,splash,0.5
+Life In Technicolor,Mad Lucas,la,mad,0
+Life In Technicolor,Mad Lucas,la,lucas,0.26666666666666666
+Life In Technicolor,Mad Lucas,la,last,0.2857142857142857
+Life In Technicolor,Mad Lucas,la,splash,0.25
+Life In Technicolor,Mad Lucas,friends,mad,0
+Life In Technicolor,Mad Lucas,friends,lucas,0.631578947368421
+Life In Technicolor,Mad Lucas,friends,last,0.18181818181818182
+Life In Technicolor,Mad Lucas,friends,splash,0.15384615384615385
+Life In Technicolor,Mad Lucas,death,mad,0
+Life In Technicolor,Mad Lucas,death,lucas,0.13333333333333333
+Life In Technicolor,Mad Lucas,death,last,0.3076923076923077
+Life In Technicolor,Mad Lucas,death,splash,0.6666666666666666
+Life In Technicolor,Roi (reprise),technicolor,recovery,0.35294117647058826
+Life In Technicolor,Roi (reprise),technicolor,king,0.13333333333333333
+Life In Technicolor,Roi (reprise),technicolor,last,0.2857142857142857
+Life In Technicolor,Roi (reprise),technicolor,splash,0.375
+Life In Technicolor,Roi (reprise),life,recovery,0.26666666666666666
+Life In Technicolor,Roi (reprise),life,king,0.15384615384615385
+Life In Technicolor,Roi (reprise),life,last,0.3333333333333333
+Life In Technicolor,Roi (reprise),life,splash,0.2857142857142857
+Life In Technicolor,Roi (reprise),viva,recovery,0.47058823529411764
+Life In Technicolor,Roi (reprise),viva,king,0.13333333333333333
+Life In Technicolor,Roi (reprise),viva,last,0.2857142857142857
+Life In Technicolor,Roi (reprise),viva,splash,0.5
+Life In Technicolor,Roi (reprise),la,recovery,0.23529411764705882
+Life In Technicolor,Roi (reprise),la,king,0.2857142857142857
+Life In Technicolor,Roi (reprise),la,last,0.2857142857142857
+Life In Technicolor,Roi (reprise),la,splash,0.25
+Life In Technicolor,Roi (reprise),friends,recovery,0.14285714285714285
+Life In Technicolor,Roi (reprise),friends,king,0.6666666666666666
+Life In Technicolor,Roi (reprise),friends,last,0.18181818181818182
+Life In Technicolor,Roi (reprise),friends,splash,0.15384615384615385
+Life In Technicolor,Roi (reprise),death,recovery,0.75
+Life In Technicolor,Roi (reprise),death,king,0.14285714285714285
+Life In Technicolor,Roi (reprise),death,last,0.3076923076923077
+Life In Technicolor,Roi (reprise),death,splash,0.6666666666666666
+Life In Technicolor,Gloomy Sunday,technicolor,gloomy,0
+Life In Technicolor,Gloomy Sunday,technicolor,sunday,0.23529411764705882
+Life In Technicolor,Gloomy Sunday,technicolor,south,0.13333333333333333
+Life In Technicolor,Gloomy Sunday,life,gloomy,0
+Life In Technicolor,Gloomy Sunday,life,sunday,0.26666666666666666
+Life In Technicolor,Gloomy Sunday,life,south,0.15384615384615385
+Life In Technicolor,Gloomy Sunday,viva,gloomy,0
+Life In Technicolor,Gloomy Sunday,viva,sunday,0.23529411764705882
+Life In Technicolor,Gloomy Sunday,viva,south,0.13333333333333333
+Life In Technicolor,Gloomy Sunday,la,gloomy,0
+Life In Technicolor,Gloomy Sunday,la,sunday,0.23529411764705882
+Life In Technicolor,Gloomy Sunday,la,south,0.2857142857142857
+Life In Technicolor,Gloomy Sunday,friends,gloomy,0
+Life In Technicolor,Gloomy Sunday,friends,sunday,0.14285714285714285
+Life In Technicolor,Gloomy Sunday,friends,south,0.42857142857142855
+Life In Technicolor,Gloomy Sunday,death,gloomy,0
+Life In Technicolor,Gloomy Sunday,death,sunday,0.25
+Life In Technicolor,Gloomy Sunday,death,south,0.14285714285714285
+Life In Technicolor,Roi,technicolor,king,0.13333333333333333
+Life In Technicolor,Roi,technicolor,last,0.2857142857142857
+Life In Technicolor,Roi,technicolor,splash,0.375
+Life In Technicolor,Roi,life,king,0.15384615384615385
+Life In Technicolor,Roi,life,last,0.3333333333333333
+Life In Technicolor,Roi,life,splash,0.2857142857142857
+Life In Technicolor,Roi,viva,king,0.13333333333333333
+Life In Technicolor,Roi,viva,last,0.2857142857142857
+Life In Technicolor,Roi,viva,splash,0.5
+Life In Technicolor,Roi,la,king,0.2857142857142857
+Life In Technicolor,Roi,la,last,0.2857142857142857
+Life In Technicolor,Roi,la,splash,0.25
+Life In Technicolor,Roi,friends,king,0.6666666666666666
+Life In Technicolor,Roi,friends,last,0.18181818181818182
+Life In Technicolor,Roi,friends,splash,0.15384615384615385
+Life In Technicolor,Roi,death,king,0.14285714285714285
+Life In Technicolor,Roi,death,last,0.3076923076923077
+Life In Technicolor,Roi,death,splash,0.6666666666666666
+Life In Technicolor,Do You Love Me Now ?,technicolor,love,0.26666666666666666
+Life In Technicolor,Do You Love Me Now ?,technicolor,last,0.2857142857142857
+Life In Technicolor,Do You Love Me Now ?,technicolor,splash,0.375
+Life In Technicolor,Do You Love Me Now ?,life,love,0.6153846153846154
+Life In Technicolor,Do You Love Me Now ?,life,last,0.3333333333333333
+Life In Technicolor,Do You Love Me Now ?,life,splash,0.2857142857142857
+Life In Technicolor,Do You Love Me Now ?,viva,love,0.26666666666666666
+Life In Technicolor,Do You Love Me Now ?,viva,last,0.2857142857142857
+Life In Technicolor,Do You Love Me Now ?,viva,splash,0.5
+Life In Technicolor,Do You Love Me Now ?,la,love,0.26666666666666666
+Life In Technicolor,Do You Love Me Now ?,la,last,0.2857142857142857
+Life In Technicolor,Do You Love Me Now ?,la,splash,0.25
+Life In Technicolor,Do You Love Me Now ?,friends,love,0.16666666666666666
+Life In Technicolor,Do You Love Me Now ?,friends,last,0.18181818181818182
+Life In Technicolor,Do You Love Me Now ?,friends,splash,0.15384615384615385
+Life In Technicolor,Do You Love Me Now ?,death,love,0.2857142857142857
+Life In Technicolor,Do You Love Me Now ?,death,last,0.3076923076923077
+Life In Technicolor,Do You Love Me Now ?,death,splash,0.6666666666666666
+Life In Technicolor,Hag,technicolor,hag,0.125
+Life In Technicolor,Hag,technicolor,last,0.2857142857142857
+Life In Technicolor,Hag,technicolor,splash,0.375
+Life In Technicolor,Hag,life,hag,0.14285714285714285
+Life In Technicolor,Hag,life,last,0.3333333333333333
+Life In Technicolor,Hag,life,splash,0.2857142857142857
+Life In Technicolor,Hag,viva,hag,0.125
+Life In Technicolor,Hag,viva,last,0.2857142857142857
+Life In Technicolor,Hag,viva,splash,0.5
+Life In Technicolor,Hag,la,hag,0.26666666666666666
+Life In Technicolor,Hag,la,last,0.2857142857142857
+Life In Technicolor,Hag,la,splash,0.25
+Life In Technicolor,Hag,friends,hag,0.631578947368421
+Life In Technicolor,Hag,friends,last,0.18181818181818182
+Life In Technicolor,Hag,friends,splash,0.15384615384615385
+Life In Technicolor,Hag,death,hag,0.13333333333333333
+Life In Technicolor,Hag,death,last,0.3076923076923077
+Life In Technicolor,Hag,death,splash,0.6666666666666666
+Life In Technicolor,Evidence,technicolor,evidence,0.5714285714285714
+Life In Technicolor,Evidence,technicolor,faith,0.5333333333333333
+Life In Technicolor,Evidence,technicolor,best,0.375
+Life In Technicolor,Evidence,life,evidence,0.3333333333333333
+Life In Technicolor,Evidence,life,faith,0.4
+Life In Technicolor,Evidence,life,best,0.2857142857142857
+Life In Technicolor,Evidence,viva,evidence,0.42857142857142855
+Life In Technicolor,Evidence,viva,faith,0.4
+Life In Technicolor,Evidence,viva,best,0.625
+Life In Technicolor,Evidence,la,evidence,0.2857142857142857
+Life In Technicolor,Evidence,la,faith,0.26666666666666666
+Life In Technicolor,Evidence,la,best,0.25
+Life In Technicolor,Evidence,friends,evidence,0.18181818181818182
+Life In Technicolor,Evidence,friends,faith,0.16666666666666666
+Life In Technicolor,Evidence,friends,best,0.15384615384615385
+Life In Technicolor,Evidence,death,evidence,0.46153846153846156
+Life In Technicolor,Evidence,death,faith,0.42857142857142855
+Life In Technicolor,Evidence,death,best,0.5333333333333333
+Life In Technicolor,Saints,technicolor,saints,0.47058823529411764
+Life In Technicolor,Saints,technicolor,last,0.2857142857142857
+Life In Technicolor,Saints,technicolor,splash,0.375
+Life In Technicolor,Saints,life,saints,0.26666666666666666
+Life In Technicolor,Saints,life,last,0.3333333333333333
+Life In Technicolor,Saints,life,splash,0.2857142857142857
+Life In Technicolor,Saints,viva,saints,0.35294117647058826
+Life In Technicolor,Saints,viva,last,0.2857142857142857
+Life In Technicolor,Saints,viva,splash,0.5
+Life In Technicolor,Saints,la,saints,0.23529411764705882
+Life In Technicolor,Saints,la,last,0.2857142857142857
+Life In Technicolor,Saints,la,splash,0.25
+Life In Technicolor,Saints,friends,saints,0.14285714285714285
+Life In Technicolor,Saints,friends,last,0.18181818181818182
+Life In Technicolor,Saints,friends,splash,0.15384615384615385
+Life In Technicolor,Saints,death,saints,0.375
+Life In Technicolor,Saints,death,last,0.3076923076923077
+Life In Technicolor,Saints,death,splash,0.6666666666666666
+Life In Technicolor,S.O.S.,technicolor,sos,0.2857142857142857
+Life In Technicolor,S.O.S.,technicolor,last,0.2857142857142857
+Life In Technicolor,S.O.S.,technicolor,splash,0.375
+Life In Technicolor,S.O.S.,life,sos,0.3333333333333333
+Life In Technicolor,S.O.S.,life,last,0.3333333333333333
+Life In Technicolor,S.O.S.,life,splash,0.2857142857142857
+Life In Technicolor,S.O.S.,viva,sos,0.2857142857142857
+Life In Technicolor,S.O.S.,viva,last,0.2857142857142857
+Life In Technicolor,S.O.S.,viva,splash,0.5
+Life In Technicolor,S.O.S.,la,sos,0.2857142857142857
+Life In Technicolor,S.O.S.,la,last,0.2857142857142857
+Life In Technicolor,S.O.S.,la,splash,0.25
+Life In Technicolor,S.O.S.,friends,sos,0.18181818181818182
+Life In Technicolor,S.O.S.,friends,last,0.18181818181818182
+Life In Technicolor,S.O.S.,friends,splash,0.15384615384615385
+Life In Technicolor,S.O.S.,death,sos,0.3076923076923077
+Life In Technicolor,S.O.S.,death,last,0.3076923076923077
+Life In Technicolor,S.O.S.,death,splash,0.6666666666666666
+Life In Technicolor,Divine Hammer,technicolor,divine,0.47058823529411764
+Life In Technicolor,Divine Hammer,technicolor,hammer,0.10526315789473684
+Life In Technicolor,Divine Hammer,technicolor,last,0.2857142857142857
+Life In Technicolor,Divine Hammer,technicolor,splash,0.375
+Life In Technicolor,Divine Hammer,life,divine,0.26666666666666666
+Life In Technicolor,Divine Hammer,life,hammer,0.11764705882352941
+Life In Technicolor,Divine Hammer,life,last,0.3333333333333333
+Life In Technicolor,Divine Hammer,life,splash,0.2857142857142857
+Life In Technicolor,Divine Hammer,viva,divine,0.35294117647058826
+Life In Technicolor,Divine Hammer,viva,hammer,0.10526315789473684
+Life In Technicolor,Divine Hammer,viva,last,0.2857142857142857
+Life In Technicolor,Divine Hammer,viva,splash,0.5
+Life In Technicolor,Divine Hammer,la,divine,0.23529411764705882
+Life In Technicolor,Divine Hammer,la,hammer,0.2222222222222222
+Life In Technicolor,Divine Hammer,la,last,0.2857142857142857
+Life In Technicolor,Divine Hammer,la,splash,0.25
+Life In Technicolor,Divine Hammer,friends,divine,0.14285714285714285
+Life In Technicolor,Divine Hammer,friends,hammer,0.42105263157894735
+Life In Technicolor,Divine Hammer,friends,last,0.18181818181818182
+Life In Technicolor,Divine Hammer,friends,splash,0.15384615384615385
+Life In Technicolor,Divine Hammer,death,divine,0.375
+Life In Technicolor,Divine Hammer,death,hammer,0.1111111111111111
+Life In Technicolor,Divine Hammer,death,last,0.3076923076923077
+Life In Technicolor,Divine Hammer,death,splash,0.6666666666666666
+Life In Technicolor,One Step Beyond,technicolor,one,0.25
+Life In Technicolor,One Step Beyond,technicolor,step,0.3157894736842105
+Life In Technicolor,One Step Beyond,technicolor,beyond,0
+Life In Technicolor,One Step Beyond,technicolor,complete,0
+Life In Technicolor,One Step Beyond,technicolor,madness,0.23529411764705882
+Life In Technicolor,One Step Beyond,life,one,0.2857142857142857
+Life In Technicolor,One Step Beyond,life,step,0.23529411764705882
+Life In Technicolor,One Step Beyond,life,beyond,0
+Life In Technicolor,One Step Beyond,life,complete,0
+Life In Technicolor,One Step Beyond,life,madness,0.5333333333333333
+Life In Technicolor,One Step Beyond,viva,one,0.25
+Life In Technicolor,One Step Beyond,viva,step,0.5263157894736842
+Life In Technicolor,One Step Beyond,viva,beyond,0
+Life In Technicolor,One Step Beyond,viva,complete,0
+Life In Technicolor,One Step Beyond,viva,madness,0.23529411764705882
+Life In Technicolor,One Step Beyond,la,one,0.25
+Life In Technicolor,One Step Beyond,la,step,0.21052631578947367
+Life In Technicolor,One Step Beyond,la,beyond,0
+Life In Technicolor,One Step Beyond,la,complete,0
+Life In Technicolor,One Step Beyond,la,madness,0.23529411764705882
+Life In Technicolor,One Step Beyond,friends,one,0.15384615384615385
+Life In Technicolor,One Step Beyond,friends,step,0.125
+Life In Technicolor,One Step Beyond,friends,beyond,0
+Life In Technicolor,One Step Beyond,friends,complete,0
+Life In Technicolor,One Step Beyond,friends,madness,0.14285714285714285
+Life In Technicolor,One Step Beyond,death,one,0.26666666666666666
+Life In Technicolor,One Step Beyond,death,step,0.4444444444444444
+Life In Technicolor,One Step Beyond,death,beyond,0
+Life In Technicolor,One Step Beyond,death,complete,0
+Life In Technicolor,One Step Beyond,death,madness,0.25
+Life In Technicolor,Ready For The Floor (Album Version),technicolor,album,0.125
+Life In Technicolor,Ready For The Floor (Album Version),technicolor,version,0.25
+Life In Technicolor,Ready For The Floor (Album Version),technicolor,ready,0.2857142857142857
+Life In Technicolor,Ready For The Floor (Album Version),technicolor,floor,0.125
+Life In Technicolor,Ready For The Floor (Album Version),technicolor,best,0.375
+Life In Technicolor,Ready For The Floor (Album Version),technicolor,bands,0.3076923076923077
+Life In Technicolor,Ready For The Floor (Album Version),life,album,0.14285714285714285
+Life In Technicolor,Ready For The Floor (Album Version),life,version,0.2857142857142857
+Life In Technicolor,Ready For The Floor (Album Version),life,ready,0.6666666666666666
+Life In Technicolor,Ready For The Floor (Album Version),life,floor,0.14285714285714285
+Life In Technicolor,Ready For The Floor (Album Version),life,best,0.2857142857142857
+Life In Technicolor,Ready For The Floor (Album Version),life,bands,0.36363636363636365
+Life In Technicolor,Ready For The Floor (Album Version),viva,album,0.125
+Life In Technicolor,Ready For The Floor (Album Version),viva,version,0.25
+Life In Technicolor,Ready For The Floor (Album Version),viva,ready,0.2857142857142857
+Life In Technicolor,Ready For The Floor (Album Version),viva,floor,0.125
+Life In Technicolor,Ready For The Floor (Album Version),viva,best,0.625
+Life In Technicolor,Ready For The Floor (Album Version),viva,bands,0.3076923076923077
+Life In Technicolor,Ready For The Floor (Album Version),la,album,0.26666666666666666
+Life In Technicolor,Ready For The Floor (Album Version),la,version,0.25
+Life In Technicolor,Ready For The Floor (Album Version),la,ready,0.2857142857142857
+Life In Technicolor,Ready For The Floor (Album Version),la,floor,0.26666666666666666
+Life In Technicolor,Ready For The Floor (Album Version),la,best,0.25
+Life In Technicolor,Ready For The Floor (Album Version),la,bands,0.3076923076923077
+Life In Technicolor,Ready For The Floor (Album Version),friends,album,0.5
+Life In Technicolor,Ready For The Floor (Album Version),friends,version,0.15384615384615385
+Life In Technicolor,Ready For The Floor (Album Version),friends,ready,0.18181818181818182
+Life In Technicolor,Ready For The Floor (Album Version),friends,floor,0.5
+Life In Technicolor,Ready For The Floor (Album Version),friends,best,0.15384615384615385
+Life In Technicolor,Ready For The Floor (Album Version),friends,bands,0.2
+Life In Technicolor,Ready For The Floor (Album Version),death,album,0.13333333333333333
+Life In Technicolor,Ready For The Floor (Album Version),death,version,0.26666666666666666
+Life In Technicolor,Ready For The Floor (Album Version),death,ready,0.3076923076923077
+Life In Technicolor,Ready For The Floor (Album Version),death,floor,0.13333333333333333
+Life In Technicolor,Ready For The Floor (Album Version),death,best,0.5333333333333333
+Life In Technicolor,Ready For The Floor (Album Version),death,bands,0.3333333333333333
+Life In Technicolor,I Just Wanna Get Along,technicolor,wan,0.1111111111111111
+Life In Technicolor,I Just Wanna Get Along,technicolor,na,0.25
+Life In Technicolor,I Just Wanna Get Along,technicolor,get,0.2857142857142857
+Life In Technicolor,I Just Wanna Get Along,technicolor,along,0
+Life In Technicolor,I Just Wanna Get Along,technicolor,last,0.2857142857142857
+Life In Technicolor,I Just Wanna Get Along,technicolor,splash,0.375
+Life In Technicolor,I Just Wanna Get Along,life,wan,0.125
+Life In Technicolor,I Just Wanna Get Along,life,na,0.2857142857142857
+Life In Technicolor,I Just Wanna Get Along,life,get,0.21052631578947367
+Life In Technicolor,I Just Wanna Get Along,life,along,0
+Life In Technicolor,I Just Wanna Get Along,life,last,0.3333333333333333
+Life In Technicolor,I Just Wanna Get Along,life,splash,0.2857142857142857
+Life In Technicolor,I Just Wanna Get Along,viva,wan,0.1111111111111111
+Life In Technicolor,I Just Wanna Get Along,viva,na,0.25
+Life In Technicolor,I Just Wanna Get Along,viva,get,0.47619047619047616
+Life In Technicolor,I Just Wanna Get Along,viva,along,0
+Life In Technicolor,I Just Wanna Get Along,viva,last,0.2857142857142857
+Life In Technicolor,I Just Wanna Get Along,viva,splash,0.5
+Life In Technicolor,I Just Wanna Get Along,la,wan,0.23529411764705882
+Life In Technicolor,I Just Wanna Get Along,la,na,0.875
+Life In Technicolor,I Just Wanna Get Along,la,get,0.19047619047619047
+Life In Technicolor,I Just Wanna Get Along,la,along,0
+Life In Technicolor,I Just Wanna Get Along,la,last,0.2857142857142857
+Life In Technicolor,I Just Wanna Get Along,la,splash,0.25
+Life In Technicolor,I Just Wanna Get Along,friends,wan,0.4444444444444444
+Life In Technicolor,I Just Wanna Get Along,friends,na,0.3333333333333333
+Life In Technicolor,I Just Wanna Get Along,friends,get,0.1111111111111111
+Life In Technicolor,I Just Wanna Get Along,friends,along,0
+Life In Technicolor,I Just Wanna Get Along,friends,last,0.18181818181818182
+Life In Technicolor,I Just Wanna Get Along,friends,splash,0.15384615384615385
+Life In Technicolor,I Just Wanna Get Along,death,wan,0.11764705882352941
+Life In Technicolor,I Just Wanna Get Along,death,na,0.26666666666666666
+Life In Technicolor,I Just Wanna Get Along,death,get,0.4
+Life In Technicolor,I Just Wanna Get Along,death,along,0
+Life In Technicolor,I Just Wanna Get Along,death,last,0.3076923076923077
+Life In Technicolor,I Just Wanna Get Along,death,splash,0.6666666666666666
+Life In Technicolor,New Year,technicolor,new,0
+Life In Technicolor,New Year,technicolor,year,0.2857142857142857
+Life In Technicolor,New Year,technicolor,last,0.2857142857142857
+Life In Technicolor,New Year,technicolor,splash,0.375
+Life In Technicolor,New Year,life,new,0
+Life In Technicolor,New Year,life,year,0.3333333333333333
+Life In Technicolor,New Year,life,last,0.3333333333333333
+Life In Technicolor,New Year,life,splash,0.2857142857142857
+Life In Technicolor,New Year,viva,new,0
+Life In Technicolor,New Year,viva,year,0.2857142857142857
+Life In Technicolor,New Year,viva,last,0.2857142857142857
+Life In Technicolor,New Year,viva,splash,0.5
+Life In Technicolor,New Year,la,new,0
+Life In Technicolor,New Year,la,year,0.2857142857142857
+Life In Technicolor,New Year,la,last,0.2857142857142857
+Life In Technicolor,New Year,la,splash,0.25
+Life In Technicolor,New Year,friends,new,0
+Life In Technicolor,New Year,friends,year,0.18181818181818182
+Life In Technicolor,New Year,friends,last,0.18181818181818182
+Life In Technicolor,New Year,friends,splash,0.15384615384615385
+Life In Technicolor,New Year,death,new,0
+Life In Technicolor,New Year,death,year,0.3076923076923077
+Life In Technicolor,New Year,death,last,0.3076923076923077
+Life In Technicolor,New Year,death,splash,0.6666666666666666
+Life In Technicolor,Drivin On 9,technicolor,last,0.2857142857142857
+Life In Technicolor,Drivin On 9,technicolor,splash,0.375
+Life In Technicolor,Drivin On 9,life,last,0.3333333333333333
+Life In Technicolor,Drivin On 9,life,splash,0.2857142857142857
+Life In Technicolor,Drivin On 9,viva,last,0.2857142857142857
+Life In Technicolor,Drivin On 9,viva,splash,0.5
+Life In Technicolor,Drivin On 9,la,last,0.2857142857142857
+Life In Technicolor,Drivin On 9,la,splash,0.25
+Life In Technicolor,Drivin On 9,friends,last,0.18181818181818182
+Life In Technicolor,Drivin On 9,friends,splash,0.15384615384615385
+Life In Technicolor,Drivin On 9,death,last,0.3076923076923077
+Life In Technicolor,Drivin On 9,death,splash,0.6666666666666666
+Life In Technicolor,Talk About The Blues,technicolor,talk,0.26666666666666666
+Life In Technicolor,Talk About The Blues,technicolor,blues,0.26666666666666666
+Life In Technicolor,Talk About The Blues,technicolor,matador,0.14285714285714285
+Life In Technicolor,Talk About The Blues,technicolor,records,0.2857142857142857
+Life In Technicolor,Talk About The Blues,technicolor,anniversary,0.25
+Life In Technicolor,Talk About The Blues,technicolor,anthology,0.10526315789473684
+Life In Technicolor,Talk About The Blues,technicolor,nice,0.1111111111111111
+Life In Technicolor,Talk About The Blues,life,talk,0.3076923076923077
+Life In Technicolor,Talk About The Blues,life,blues,0.3076923076923077
+Life In Technicolor,Talk About The Blues,life,matador,0.16666666666666666
+Life In Technicolor,Talk About The Blues,life,records,0.3333333333333333
+Life In Technicolor,Talk About The Blues,life,anniversary,0.2857142857142857
+Life In Technicolor,Talk About The Blues,life,anthology,0.11764705882352941
+Life In Technicolor,Talk About The Blues,life,nice,0.125
+Life In Technicolor,Talk About The Blues,viva,talk,0.26666666666666666
+Life In Technicolor,Talk About The Blues,viva,blues,0.26666666666666666
+Life In Technicolor,Talk About The Blues,viva,matador,0.14285714285714285
+Life In Technicolor,Talk About The Blues,viva,records,0.2857142857142857
+Life In Technicolor,Talk About The Blues,viva,anniversary,0.25
+Life In Technicolor,Talk About The Blues,viva,anthology,0.10526315789473684
+Life In Technicolor,Talk About The Blues,viva,nice,0.1111111111111111
+Life In Technicolor,Talk About The Blues,la,talk,0.26666666666666666
+Life In Technicolor,Talk About The Blues,la,blues,0.26666666666666666
+Life In Technicolor,Talk About The Blues,la,matador,0.3076923076923077
+Life In Technicolor,Talk About The Blues,la,records,0.2857142857142857
+Life In Technicolor,Talk About The Blues,la,anniversary,0.25
+Life In Technicolor,Talk About The Blues,la,anthology,0.2222222222222222
+Life In Technicolor,Talk About The Blues,la,nice,0.23529411764705882
+Life In Technicolor,Talk About The Blues,friends,talk,0.16666666666666666
+Life In Technicolor,Talk About The Blues,friends,blues,0.16666666666666666
+Life In Technicolor,Talk About The Blues,friends,matador,0.7058823529411765
+Life In Technicolor,Talk About The Blues,friends,records,0.18181818181818182
+Life In Technicolor,Talk About The Blues,friends,anniversary,0.15384615384615385
+Life In Technicolor,Talk About The Blues,friends,anthology,0.42105263157894735
+Life In Technicolor,Talk About The Blues,friends,nice,0.35294117647058826
+Life In Technicolor,Talk About The Blues,death,talk,0.2857142857142857
+Life In Technicolor,Talk About The Blues,death,blues,0.2857142857142857
+Life In Technicolor,Talk About The Blues,death,matador,0.15384615384615385
+Life In Technicolor,Talk About The Blues,death,records,0.3076923076923077
+Life In Technicolor,Talk About The Blues,death,anniversary,0.26666666666666666
+Life In Technicolor,Talk About The Blues,death,anthology,0.1111111111111111
+Life In Technicolor,Talk About The Blues,death,nice,0.11764705882352941
+Life In Technicolor,Flipside,technicolor,last,0.2857142857142857
+Life In Technicolor,Flipside,technicolor,splash,0.375
+Life In Technicolor,Flipside,life,last,0.3333333333333333
+Life In Technicolor,Flipside,life,splash,0.2857142857142857
+Life In Technicolor,Flipside,viva,last,0.2857142857142857
+Life In Technicolor,Flipside,viva,splash,0.5
+Life In Technicolor,Flipside,la,last,0.2857142857142857
+Life In Technicolor,Flipside,la,splash,0.25
+Life In Technicolor,Flipside,friends,last,0.18181818181818182
+Life In Technicolor,Flipside,friends,splash,0.15384615384615385
+Life In Technicolor,Flipside,death,last,0.3076923076923077
+Life In Technicolor,Flipside,death,splash,0.6666666666666666
+Clocks,Cannonball,clocks,cannonball,0.34782608695652173
+Clocks,Cannonball,clocks,cannonball,0.34782608695652173
+Clocks,Cannonball,rush,cannonball,0.1
+Clocks,Cannonball,rush,cannonball,0.1
+Clocks,Cannonball,head,cannonball,0.2222222222222222
+Clocks,Cannonball,head,cannonball,0.2222222222222222
+Clocks,Cannonball,blood,cannonball,0.2222222222222222
+Clocks,Cannonball,blood,cannonball,0.2222222222222222
+Clocks,Invisible Man,clocks,invisible,0
+Clocks,Invisible Man,clocks,man,0.5714285714285714
+Clocks,Invisible Man,clocks,last,0.1111111111111111
+Clocks,Invisible Man,clocks,splash,0.1
+Clocks,Invisible Man,rush,invisible,0
+Clocks,Invisible Man,rush,man,0.13333333333333333
+Clocks,Invisible Man,rush,last,0.26666666666666666
+Clocks,Invisible Man,rush,splash,0.47058823529411764
+Clocks,Invisible Man,head,invisible,0
+Clocks,Invisible Man,head,man,0.3076923076923077
+Clocks,Invisible Man,head,last,0.15384615384615385
+Clocks,Invisible Man,head,splash,0.13333333333333333
+Clocks,Invisible Man,blood,invisible,0
+Clocks,Invisible Man,blood,man,0.3076923076923077
+Clocks,Invisible Man,blood,last,0.2857142857142857
+Clocks,Invisible Man,blood,splash,0.25
+Clocks,No Aloha,clocks,hell,0.3333333333333333
+Clocks,No Aloha,clocks,aloha,0.1111111111111111
+Clocks,No Aloha,clocks,last,0.1111111111111111
+Clocks,No Aloha,clocks,splash,0.1
+Clocks,No Aloha,rush,hell,0.13333333333333333
+Clocks,No Aloha,rush,aloha,0.26666666666666666
+Clocks,No Aloha,rush,last,0.26666666666666666
+Clocks,No Aloha,rush,splash,0.47058823529411764
+Clocks,No Aloha,head,hell,0.3076923076923077
+Clocks,No Aloha,head,aloha,0.15384615384615385
+Clocks,No Aloha,head,last,0.15384615384615385
+Clocks,No Aloha,head,splash,0.13333333333333333
+Clocks,No Aloha,blood,hell,0.3076923076923077
+Clocks,No Aloha,blood,aloha,0.2857142857142857
+Clocks,No Aloha,blood,last,0.2857142857142857
+Clocks,No Aloha,blood,splash,0.25
+Clocks,Mad Lucas,clocks,mad,0
+Clocks,Mad Lucas,clocks,lucas,0.5217391304347826
+Clocks,Mad Lucas,clocks,last,0.1111111111111111
+Clocks,Mad Lucas,clocks,splash,0.1
+Clocks,Mad Lucas,rush,mad,0
+Clocks,Mad Lucas,rush,lucas,0.11764705882352941
+Clocks,Mad Lucas,rush,last,0.26666666666666666
+Clocks,Mad Lucas,rush,splash,0.47058823529411764
+Clocks,Mad Lucas,head,mad,0
+Clocks,Mad Lucas,head,lucas,0.26666666666666666
+Clocks,Mad Lucas,head,last,0.15384615384615385
+Clocks,Mad Lucas,head,splash,0.13333333333333333
+Clocks,Mad Lucas,blood,mad,0
+Clocks,Mad Lucas,blood,lucas,0.26666666666666666
+Clocks,Mad Lucas,blood,last,0.2857142857142857
+Clocks,Mad Lucas,blood,splash,0.25
+Clocks,Roi (reprise),clocks,recovery,0.09523809523809523
+Clocks,Roi (reprise),clocks,king,0.5454545454545454
+Clocks,Roi (reprise),clocks,last,0.1111111111111111
+Clocks,Roi (reprise),clocks,splash,0.1
+Clocks,Roi (reprise),rush,recovery,0.4444444444444444
+Clocks,Roi (reprise),rush,king,0.125
+Clocks,Roi (reprise),rush,last,0.26666666666666666
+Clocks,Roi (reprise),rush,splash,0.47058823529411764
+Clocks,Roi (reprise),head,recovery,0.125
+Clocks,Roi (reprise),head,king,0.2857142857142857
+Clocks,Roi (reprise),head,last,0.15384615384615385
+Clocks,Roi (reprise),head,splash,0.13333333333333333
+Clocks,Roi (reprise),blood,recovery,0.23529411764705882
+Clocks,Roi (reprise),blood,king,0.2857142857142857
+Clocks,Roi (reprise),blood,last,0.2857142857142857
+Clocks,Roi (reprise),blood,splash,0.25
+Clocks,Gloomy Sunday,clocks,gloomy,0
+Clocks,Gloomy Sunday,clocks,sunday,0.09523809523809523
+Clocks,Gloomy Sunday,clocks,south,0.3157894736842105
+Clocks,Gloomy Sunday,rush,gloomy,0
+Clocks,Gloomy Sunday,rush,sunday,0.2222222222222222
+Clocks,Gloomy Sunday,rush,south,0.125
+Clocks,Gloomy Sunday,head,gloomy,0
+Clocks,Gloomy Sunday,head,sunday,0.125
+Clocks,Gloomy Sunday,head,south,0.2857142857142857
+Clocks,Gloomy Sunday,blood,gloomy,0
+Clocks,Gloomy Sunday,blood,sunday,0.23529411764705882
+Clocks,Gloomy Sunday,blood,south,0.2857142857142857
+Clocks,Roi,clocks,king,0.5454545454545454
+Clocks,Roi,clocks,last,0.1111111111111111
+Clocks,Roi,clocks,splash,0.1
+Clocks,Roi,rush,king,0.125
+Clocks,Roi,rush,last,0.26666666666666666
+Clocks,Roi,rush,splash,0.47058823529411764
+Clocks,Roi,head,king,0.2857142857142857
+Clocks,Roi,head,last,0.15384615384615385
+Clocks,Roi,head,splash,0.13333333333333333
+Clocks,Roi,blood,king,0.2857142857142857
+Clocks,Roi,blood,last,0.2857142857142857
+Clocks,Roi,blood,splash,0.25
+Clocks,Do You Love Me Now ?,clocks,love,0.10526315789473684
+Clocks,Do You Love Me Now ?,clocks,last,0.1111111111111111
+Clocks,Do You Love Me Now ?,clocks,splash,0.1
+Clocks,Do You Love Me Now ?,rush,love,0.25
+Clocks,Do You Love Me Now ?,rush,last,0.26666666666666666
+Clocks,Do You Love Me Now ?,rush,splash,0.47058823529411764
+Clocks,Do You Love Me Now ?,head,love,0.14285714285714285
+Clocks,Do You Love Me Now ?,head,last,0.15384615384615385
+Clocks,Do You Love Me Now ?,head,splash,0.13333333333333333
+Clocks,Do You Love Me Now ?,blood,love,0.26666666666666666
+Clocks,Do You Love Me Now ?,blood,last,0.2857142857142857
+Clocks,Do You Love Me Now ?,blood,splash,0.25
+Clocks,Hag,clocks,hag,0.5217391304347826
+Clocks,Hag,clocks,last,0.1111111111111111
+Clocks,Hag,clocks,splash,0.1
+Clocks,Hag,rush,hag,0.11764705882352941
+Clocks,Hag,rush,last,0.26666666666666666
+Clocks,Hag,rush,splash,0.47058823529411764
+Clocks,Hag,head,hag,0.26666666666666666
+Clocks,Hag,head,last,0.15384615384615385
+Clocks,Hag,head,splash,0.13333333333333333
+Clocks,Hag,blood,hag,0.26666666666666666
+Clocks,Hag,blood,last,0.2857142857142857
+Clocks,Hag,blood,splash,0.25
+Clocks,Evidence,clocks,evidence,0.1111111111111111
+Clocks,Evidence,clocks,faith,0.10526315789473684
+Clocks,Evidence,clocks,best,0.1
+Clocks,Evidence,rush,evidence,0.4
+Clocks,Evidence,rush,faith,0.375
+Clocks,Evidence,rush,best,0.5882352941176471
+Clocks,Evidence,head,evidence,0.15384615384615385
+Clocks,Evidence,head,faith,0.14285714285714285
+Clocks,Evidence,head,best,0.13333333333333333
+Clocks,Evidence,blood,evidence,0.2857142857142857
+Clocks,Evidence,blood,faith,0.26666666666666666
+Clocks,Evidence,blood,best,0.25
+Clocks,Saints,clocks,saints,0.09523809523809523
+Clocks,Saints,clocks,last,0.1111111111111111
+Clocks,Saints,clocks,splash,0.1
+Clocks,Saints,rush,saints,0.3333333333333333
+Clocks,Saints,rush,last,0.26666666666666666
+Clocks,Saints,rush,splash,0.47058823529411764
+Clocks,Saints,head,saints,0.125
+Clocks,Saints,head,last,0.15384615384615385
+Clocks,Saints,head,splash,0.13333333333333333
+Clocks,Saints,blood,saints,0.23529411764705882
+Clocks,Saints,blood,last,0.2857142857142857
+Clocks,Saints,blood,splash,0.25
+Clocks,S.O.S.,clocks,sos,0.1111111111111111
+Clocks,S.O.S.,clocks,last,0.1111111111111111
+Clocks,S.O.S.,clocks,splash,0.1
+Clocks,S.O.S.,rush,sos,0.26666666666666666
+Clocks,S.O.S.,rush,last,0.26666666666666666
+Clocks,S.O.S.,rush,splash,0.47058823529411764
+Clocks,S.O.S.,head,sos,0.15384615384615385
+Clocks,S.O.S.,head,last,0.15384615384615385
+Clocks,S.O.S.,head,splash,0.13333333333333333
+Clocks,S.O.S.,blood,sos,0.2857142857142857
+Clocks,S.O.S.,blood,last,0.2857142857142857
+Clocks,S.O.S.,blood,splash,0.25
+Clocks,Divine Hammer,clocks,divine,0.09523809523809523
+Clocks,Divine Hammer,clocks,hammer,0.34782608695652173
+Clocks,Divine Hammer,clocks,last,0.1111111111111111
+Clocks,Divine Hammer,clocks,splash,0.1
+Clocks,Divine Hammer,rush,divine,0.3333333333333333
+Clocks,Divine Hammer,rush,hammer,0.1
+Clocks,Divine Hammer,rush,last,0.26666666666666666
+Clocks,Divine Hammer,rush,splash,0.47058823529411764
+Clocks,Divine Hammer,head,divine,0.125
+Clocks,Divine Hammer,head,hammer,0.2222222222222222
+Clocks,Divine Hammer,head,last,0.15384615384615385
+Clocks,Divine Hammer,head,splash,0.13333333333333333
+Clocks,Divine Hammer,blood,divine,0.23529411764705882
+Clocks,Divine Hammer,blood,hammer,0.2222222222222222
+Clocks,Divine Hammer,blood,last,0.2857142857142857
+Clocks,Divine Hammer,blood,splash,0.25
+Clocks,One Step Beyond,clocks,one,0.1
+Clocks,One Step Beyond,clocks,step,0.08695652173913043
+Clocks,One Step Beyond,clocks,beyond,0
+Clocks,One Step Beyond,clocks,complete,0
+Clocks,One Step Beyond,clocks,madness,0.09523809523809523
+Clocks,One Step Beyond,rush,one,0.23529411764705882
+Clocks,One Step Beyond,rush,step,0.6
+Clocks,One Step Beyond,rush,beyond,0
+Clocks,One Step Beyond,rush,complete,0
+Clocks,One Step Beyond,rush,madness,0.2222222222222222
+Clocks,One Step Beyond,head,one,0.13333333333333333
+Clocks,One Step Beyond,head,step,0.1111111111111111
+Clocks,One Step Beyond,head,beyond,0
+Clocks,One Step Beyond,head,complete,0
+Clocks,One Step Beyond,head,madness,0.125
+Clocks,One Step Beyond,blood,one,0.25
+Clocks,One Step Beyond,blood,step,0.21052631578947367
+Clocks,One Step Beyond,blood,beyond,0
+Clocks,One Step Beyond,blood,complete,0
+Clocks,One Step Beyond,blood,madness,0.23529411764705882
+Clocks,Ready For The Floor (Album Version),clocks,album,0.4
+Clocks,Ready For The Floor (Album Version),clocks,version,0.1
+Clocks,Ready For The Floor (Album Version),clocks,ready,0.1111111111111111
+Clocks,Ready For The Floor (Album Version),clocks,floor,0.4
+Clocks,Ready For The Floor (Album Version),clocks,best,0.1
+Clocks,Ready For The Floor (Album Version),clocks,bands,0.11764705882352941
+Clocks,Ready For The Floor (Album Version),rush,album,0.11764705882352941
+Clocks,Ready For The Floor (Album Version),rush,version,0.23529411764705882
+Clocks,Ready For The Floor (Album Version),rush,ready,0.26666666666666666
+Clocks,Ready For The Floor (Album Version),rush,floor,0.11764705882352941
+Clocks,Ready For The Floor (Album Version),rush,best,0.5882352941176471
+Clocks,Ready For The Floor (Album Version),rush,bands,0.2857142857142857
+Clocks,Ready For The Floor (Album Version),head,album,0.26666666666666666
+Clocks,Ready For The Floor (Album Version),head,version,0.13333333333333333
+Clocks,Ready For The Floor (Album Version),head,ready,0.15384615384615385
+Clocks,Ready For The Floor (Album Version),head,floor,0.26666666666666666
+Clocks,Ready For The Floor (Album Version),head,best,0.13333333333333333
+Clocks,Ready For The Floor (Album Version),head,bands,0.16666666666666666
+Clocks,Ready For The Floor (Album Version),blood,album,0.26666666666666666
+Clocks,Ready For The Floor (Album Version),blood,version,0.25
+Clocks,Ready For The Floor (Album Version),blood,ready,0.2857142857142857
+Clocks,Ready For The Floor (Album Version),blood,floor,0.26666666666666666
+Clocks,Ready For The Floor (Album Version),blood,best,0.25
+Clocks,Ready For The Floor (Album Version),blood,bands,0.3076923076923077
+Clocks,I Just Wanna Get Along,clocks,wan,0.36363636363636365
+Clocks,I Just Wanna Get Along,clocks,na,0.21052631578947367
+Clocks,I Just Wanna Get Along,clocks,get,0.08
+Clocks,I Just Wanna Get Along,clocks,along,0
+Clocks,I Just Wanna Get Along,clocks,last,0.1111111111111111
+Clocks,I Just Wanna Get Along,clocks,splash,0.1
+Clocks,I Just Wanna Get Along,rush,wan,0.10526315789473684
+Clocks,I Just Wanna Get Along,rush,na,0.23529411764705882
+Clocks,I Just Wanna Get Along,rush,get,0.7272727272727273
+Clocks,I Just Wanna Get Along,rush,along,0
+Clocks,I Just Wanna Get Along,rush,last,0.26666666666666666
+Clocks,I Just Wanna Get Along,rush,splash,0.47058823529411764
+Clocks,I Just Wanna Get Along,head,wan,0.23529411764705882
+Clocks,I Just Wanna Get Along,head,na,0.2857142857142857
+Clocks,I Just Wanna Get Along,head,get,0.1
+Clocks,I Just Wanna Get Along,head,along,0
+Clocks,I Just Wanna Get Along,head,last,0.15384615384615385
+Clocks,I Just Wanna Get Along,head,splash,0.13333333333333333
+Clocks,I Just Wanna Get Along,blood,wan,0.23529411764705882
+Clocks,I Just Wanna Get Along,blood,na,0.5
+Clocks,I Just Wanna Get Along,blood,get,0.19047619047619047
+Clocks,I Just Wanna Get Along,blood,along,0
+Clocks,I Just Wanna Get Along,blood,last,0.2857142857142857
+Clocks,I Just Wanna Get Along,blood,splash,0.25
+Clocks,New Year,clocks,new,0
+Clocks,New Year,clocks,year,0.1111111111111111
+Clocks,New Year,clocks,last,0.1111111111111111
+Clocks,New Year,clocks,splash,0.1
+Clocks,New Year,rush,new,0
+Clocks,New Year,rush,year,0.26666666666666666
+Clocks,New Year,rush,last,0.26666666666666666
+Clocks,New Year,rush,splash,0.47058823529411764
+Clocks,New Year,head,new,0
+Clocks,New Year,head,year,0.15384615384615385
+Clocks,New Year,head,last,0.15384615384615385
+Clocks,New Year,head,splash,0.13333333333333333
+Clocks,New Year,blood,new,0
+Clocks,New Year,blood,year,0.2857142857142857
+Clocks,New Year,blood,last,0.2857142857142857
+Clocks,New Year,blood,splash,0.25
+Clocks,Drivin On 9,clocks,last,0.1111111111111111
+Clocks,Drivin On 9,clocks,splash,0.1
+Clocks,Drivin On 9,rush,last,0.26666666666666666
+Clocks,Drivin On 9,rush,splash,0.47058823529411764
+Clocks,Drivin On 9,head,last,0.15384615384615385
+Clocks,Drivin On 9,head,splash,0.13333333333333333
+Clocks,Drivin On 9,blood,last,0.2857142857142857
+Clocks,Drivin On 9,blood,splash,0.25
+Clocks,Talk About The Blues,clocks,talk,0.10526315789473684
+Clocks,Talk About The Blues,clocks,blues,0.10526315789473684
+Clocks,Talk About The Blues,clocks,matador,0.5714285714285714
+Clocks,Talk About The Blues,clocks,records,0.1111111111111111
+Clocks,Talk About The Blues,clocks,anniversary,0.1
+Clocks,Talk About The Blues,clocks,anthology,0.34782608695652173
+Clocks,Talk About The Blues,clocks,nice,0.2727272727272727
+Clocks,Talk About The Blues,rush,talk,0.25
+Clocks,Talk About The Blues,rush,blues,0.25
+Clocks,Talk About The Blues,rush,matador,0.13333333333333333
+Clocks,Talk About The Blues,rush,records,0.26666666666666666
+Clocks,Talk About The Blues,rush,anniversary,0.23529411764705882
+Clocks,Talk About The Blues,rush,anthology,0.1
+Clocks,Talk About The Blues,rush,nice,0.10526315789473684
+Clocks,Talk About The Blues,head,talk,0.14285714285714285
+Clocks,Talk About The Blues,head,blues,0.14285714285714285
+Clocks,Talk About The Blues,head,matador,0.3076923076923077
+Clocks,Talk About The Blues,head,records,0.15384615384615385
+Clocks,Talk About The Blues,head,anniversary,0.13333333333333333
+Clocks,Talk About The Blues,head,anthology,0.2222222222222222
+Clocks,Talk About The Blues,head,nice,0.23529411764705882
+Clocks,Talk About The Blues,blood,talk,0.26666666666666666
+Clocks,Talk About The Blues,blood,blues,0.26666666666666666
+Clocks,Talk About The Blues,blood,matador,0.3076923076923077
+Clocks,Talk About The Blues,blood,records,0.2857142857142857
+Clocks,Talk About The Blues,blood,anniversary,0.25
+Clocks,Talk About The Blues,blood,anthology,0.2222222222222222
+Clocks,Talk About The Blues,blood,nice,0.23529411764705882
+Clocks,Flipside,clocks,last,0.1111111111111111
+Clocks,Flipside,clocks,splash,0.1
+Clocks,Flipside,rush,last,0.26666666666666666
+Clocks,Flipside,rush,splash,0.47058823529411764
+Clocks,Flipside,head,last,0.15384615384615385
+Clocks,Flipside,head,splash,0.13333333333333333
+Clocks,Flipside,blood,last,0.2857142857142857
+Clocks,Flipside,blood,splash,0.25
+Strawberry Swing,Cannonball,strawberry,cannonball,0.34782608695652173
+Strawberry Swing,Cannonball,strawberry,cannonball,0.34782608695652173
+Strawberry Swing,Cannonball,swing,cannonball,0.11764705882352941
+Strawberry Swing,Cannonball,swing,cannonball,0.11764705882352941
+Strawberry Swing,Cannonball,viva,cannonball,0.10526315789473684
+Strawberry Swing,Cannonball,viva,cannonball,0.10526315789473684
+Strawberry Swing,Cannonball,la,cannonball,0.2222222222222222
+Strawberry Swing,Cannonball,la,cannonball,0.2222222222222222
+Strawberry Swing,Cannonball,march,cannonball,0.10526315789473684
+Strawberry Swing,Cannonball,march,cannonball,0.10526315789473684
+Strawberry Swing,Cannonball,edition,cannonball,0.45454545454545453
+Strawberry Swing,Cannonball,edition,cannonball,0.45454545454545453
+Strawberry Swing,Invisible Man,strawberry,invisible,0
+Strawberry Swing,Invisible Man,strawberry,man,0.38095238095238093
+Strawberry Swing,Invisible Man,strawberry,last,0.13333333333333333
+Strawberry Swing,Invisible Man,strawberry,splash,0.11764705882352941
+Strawberry Swing,Invisible Man,swing,invisible,0
+Strawberry Swing,Invisible Man,swing,man,0.16666666666666666
+Strawberry Swing,Invisible Man,swing,last,0.3333333333333333
+Strawberry Swing,Invisible Man,swing,splash,0.2857142857142857
+Strawberry Swing,Invisible Man,viva,invisible,0
+Strawberry Swing,Invisible Man,viva,man,0.14285714285714285
+Strawberry Swing,Invisible Man,viva,last,0.2857142857142857
+Strawberry Swing,Invisible Man,viva,splash,0.5
+Strawberry Swing,Invisible Man,la,invisible,0
+Strawberry Swing,Invisible Man,la,man,0.3076923076923077
+Strawberry Swing,Invisible Man,la,last,0.2857142857142857
+Strawberry Swing,Invisible Man,la,splash,0.25
+Strawberry Swing,Invisible Man,march,invisible,0
+Strawberry Swing,Invisible Man,march,man,0.14285714285714285
+Strawberry Swing,Invisible Man,march,last,0.42857142857142855
+Strawberry Swing,Invisible Man,march,splash,0.25
+Strawberry Swing,Invisible Man,edition,invisible,0
+Strawberry Swing,Invisible Man,edition,man,0.4
+Strawberry Swing,Invisible Man,edition,last,0.11764705882352941
+Strawberry Swing,Invisible Man,edition,splash,0.10526315789473684
+Strawberry Swing,No Aloha,strawberry,hell,0.35294117647058826
+Strawberry Swing,No Aloha,strawberry,aloha,0.13333333333333333
+Strawberry Swing,No Aloha,strawberry,last,0.13333333333333333
+Strawberry Swing,No Aloha,strawberry,splash,0.11764705882352941
+Strawberry Swing,No Aloha,swing,hell,0.16666666666666666
+Strawberry Swing,No Aloha,swing,aloha,0.3333333333333333
+Strawberry Swing,No Aloha,swing,last,0.3333333333333333
+Strawberry Swing,No Aloha,swing,splash,0.2857142857142857
+Strawberry Swing,No Aloha,viva,hell,0.14285714285714285
+Strawberry Swing,No Aloha,viva,aloha,0.2857142857142857
+Strawberry Swing,No Aloha,viva,last,0.2857142857142857
+Strawberry Swing,No Aloha,viva,splash,0.5
+Strawberry Swing,No Aloha,la,hell,0.3076923076923077
+Strawberry Swing,No Aloha,la,aloha,0.2857142857142857
+Strawberry Swing,No Aloha,la,last,0.2857142857142857
+Strawberry Swing,No Aloha,la,splash,0.25
+Strawberry Swing,No Aloha,march,hell,0.14285714285714285
+Strawberry Swing,No Aloha,march,aloha,0.2857142857142857
+Strawberry Swing,No Aloha,march,last,0.42857142857142855
+Strawberry Swing,No Aloha,march,splash,0.25
+Strawberry Swing,No Aloha,edition,hell,0.35294117647058826
+Strawberry Swing,No Aloha,edition,aloha,0.11764705882352941
+Strawberry Swing,No Aloha,edition,last,0.11764705882352941
+Strawberry Swing,No Aloha,edition,splash,0.10526315789473684
+Strawberry Swing,Mad Lucas,strawberry,mad,0
+Strawberry Swing,Mad Lucas,strawberry,lucas,0.34782608695652173
+Strawberry Swing,Mad Lucas,strawberry,last,0.13333333333333333
+Strawberry Swing,Mad Lucas,strawberry,splash,0.11764705882352941
+Strawberry Swing,Mad Lucas,swing,mad,0
+Strawberry Swing,Mad Lucas,swing,lucas,0.14285714285714285
+Strawberry Swing,Mad Lucas,swing,last,0.3333333333333333
+Strawberry Swing,Mad Lucas,swing,splash,0.2857142857142857
+Strawberry Swing,Mad Lucas,viva,mad,0
+Strawberry Swing,Mad Lucas,viva,lucas,0.125
+Strawberry Swing,Mad Lucas,viva,last,0.2857142857142857
+Strawberry Swing,Mad Lucas,viva,splash,0.5
+Strawberry Swing,Mad Lucas,la,mad,0
+Strawberry Swing,Mad Lucas,la,lucas,0.26666666666666666
+Strawberry Swing,Mad Lucas,la,last,0.2857142857142857
+Strawberry Swing,Mad Lucas,la,splash,0.25
+Strawberry Swing,Mad Lucas,march,mad,0
+Strawberry Swing,Mad Lucas,march,lucas,0.125
+Strawberry Swing,Mad Lucas,march,last,0.42857142857142855
+Strawberry Swing,Mad Lucas,march,splash,0.25
+Strawberry Swing,Mad Lucas,edition,mad,0
+Strawberry Swing,Mad Lucas,edition,lucas,0.36363636363636365
+Strawberry Swing,Mad Lucas,edition,last,0.11764705882352941
+Strawberry Swing,Mad Lucas,edition,splash,0.10526315789473684
+Strawberry Swing,Roi (reprise),strawberry,recovery,0.1111111111111111
+Strawberry Swing,Roi (reprise),strawberry,king,0.36363636363636365
+Strawberry Swing,Roi (reprise),strawberry,last,0.13333333333333333
+Strawberry Swing,Roi (reprise),strawberry,splash,0.11764705882352941
+Strawberry Swing,Roi (reprise),swing,recovery,0.26666666666666666
+Strawberry Swing,Roi (reprise),swing,king,0.15384615384615385
+Strawberry Swing,Roi (reprise),swing,last,0.3333333333333333
+Strawberry Swing,Roi (reprise),swing,splash,0.2857142857142857
+Strawberry Swing,Roi (reprise),viva,recovery,0.47058823529411764
+Strawberry Swing,Roi (reprise),viva,king,0.13333333333333333
+Strawberry Swing,Roi (reprise),viva,last,0.2857142857142857
+Strawberry Swing,Roi (reprise),viva,splash,0.5
+Strawberry Swing,Roi (reprise),la,recovery,0.23529411764705882
+Strawberry Swing,Roi (reprise),la,king,0.2857142857142857
+Strawberry Swing,Roi (reprise),la,last,0.2857142857142857
+Strawberry Swing,Roi (reprise),la,splash,0.25
+Strawberry Swing,Roi (reprise),march,recovery,0.23529411764705882
+Strawberry Swing,Roi (reprise),march,king,0.13333333333333333
+Strawberry Swing,Roi (reprise),march,last,0.42857142857142855
+Strawberry Swing,Roi (reprise),march,splash,0.25
+Strawberry Swing,Roi (reprise),edition,recovery,0.1
+Strawberry Swing,Roi (reprise),edition,king,0.38095238095238093
+Strawberry Swing,Roi (reprise),edition,last,0.11764705882352941
+Strawberry Swing,Roi (reprise),edition,splash,0.10526315789473684
+Strawberry Swing,Gloomy Sunday,strawberry,gloomy,0
+Strawberry Swing,Gloomy Sunday,strawberry,sunday,0.1111111111111111
+Strawberry Swing,Gloomy Sunday,strawberry,south,0.3333333333333333
+Strawberry Swing,Gloomy Sunday,swing,gloomy,0
+Strawberry Swing,Gloomy Sunday,swing,sunday,0.26666666666666666
+Strawberry Swing,Gloomy Sunday,swing,south,0.15384615384615385
+Strawberry Swing,Gloomy Sunday,viva,gloomy,0
+Strawberry Swing,Gloomy Sunday,viva,sunday,0.23529411764705882
+Strawberry Swing,Gloomy Sunday,viva,south,0.13333333333333333
+Strawberry Swing,Gloomy Sunday,la,gloomy,0
+Strawberry Swing,Gloomy Sunday,la,sunday,0.23529411764705882
+Strawberry Swing,Gloomy Sunday,la,south,0.2857142857142857
+Strawberry Swing,Gloomy Sunday,march,gloomy,0
+Strawberry Swing,Gloomy Sunday,march,sunday,0.5882352941176471
+Strawberry Swing,Gloomy Sunday,march,south,0.13333333333333333
+Strawberry Swing,Gloomy Sunday,edition,gloomy,0
+Strawberry Swing,Gloomy Sunday,edition,sunday,0.1
+Strawberry Swing,Gloomy Sunday,edition,south,0.3333333333333333
+Strawberry Swing,Roi,strawberry,king,0.36363636363636365
+Strawberry Swing,Roi,strawberry,last,0.13333333333333333
+Strawberry Swing,Roi,strawberry,splash,0.11764705882352941
+Strawberry Swing,Roi,swing,king,0.15384615384615385
+Strawberry Swing,Roi,swing,last,0.3333333333333333
+Strawberry Swing,Roi,swing,splash,0.2857142857142857
+Strawberry Swing,Roi,viva,king,0.13333333333333333
+Strawberry Swing,Roi,viva,last,0.2857142857142857
+Strawberry Swing,Roi,viva,splash,0.5
+Strawberry Swing,Roi,la,king,0.2857142857142857
+Strawberry Swing,Roi,la,last,0.2857142857142857
+Strawberry Swing,Roi,la,splash,0.25
+Strawberry Swing,Roi,march,king,0.13333333333333333
+Strawberry Swing,Roi,march,last,0.42857142857142855
+Strawberry Swing,Roi,march,splash,0.25
+Strawberry Swing,Roi,edition,king,0.38095238095238093
+Strawberry Swing,Roi,edition,last,0.11764705882352941
+Strawberry Swing,Roi,edition,splash,0.10526315789473684
+Strawberry Swing,Do You Love Me Now ?,strawberry,love,0.125
+Strawberry Swing,Do You Love Me Now ?,strawberry,last,0.13333333333333333
+Strawberry Swing,Do You Love Me Now ?,strawberry,splash,0.11764705882352941
+Strawberry Swing,Do You Love Me Now ?,swing,love,0.6153846153846154
+Strawberry Swing,Do You Love Me Now ?,swing,last,0.3333333333333333
+Strawberry Swing,Do You Love Me Now ?,swing,splash,0.2857142857142857
+Strawberry Swing,Do You Love Me Now ?,viva,love,0.26666666666666666
+Strawberry Swing,Do You Love Me Now ?,viva,last,0.2857142857142857
+Strawberry Swing,Do You Love Me Now ?,viva,splash,0.5
+Strawberry Swing,Do You Love Me Now ?,la,love,0.26666666666666666
+Strawberry Swing,Do You Love Me Now ?,la,last,0.2857142857142857
+Strawberry Swing,Do You Love Me Now ?,la,splash,0.25
+Strawberry Swing,Do You Love Me Now ?,march,love,0.26666666666666666
+Strawberry Swing,Do You Love Me Now ?,march,last,0.42857142857142855
+Strawberry Swing,Do You Love Me Now ?,march,splash,0.25
+Strawberry Swing,Do You Love Me Now ?,edition,love,0.1111111111111111
+Strawberry Swing,Do You Love Me Now ?,edition,last,0.11764705882352941
+Strawberry Swing,Do You Love Me Now ?,edition,splash,0.10526315789473684
+Strawberry Swing,Hag,strawberry,hag,0.34782608695652173
+Strawberry Swing,Hag,strawberry,last,0.13333333333333333
+Strawberry Swing,Hag,strawberry,splash,0.11764705882352941
+Strawberry Swing,Hag,swing,hag,0.14285714285714285
+Strawberry Swing,Hag,swing,last,0.3333333333333333
+Strawberry Swing,Hag,swing,splash,0.2857142857142857
+Strawberry Swing,Hag,viva,hag,0.125
+Strawberry Swing,Hag,viva,last,0.2857142857142857
+Strawberry Swing,Hag,viva,splash,0.5
+Strawberry Swing,Hag,la,hag,0.26666666666666666
+Strawberry Swing,Hag,la,last,0.2857142857142857
+Strawberry Swing,Hag,la,splash,0.25
+Strawberry Swing,Hag,march,hag,0.125
+Strawberry Swing,Hag,march,last,0.42857142857142855
+Strawberry Swing,Hag,march,splash,0.25
+Strawberry Swing,Hag,edition,hag,0.36363636363636365
+Strawberry Swing,Hag,edition,last,0.11764705882352941
+Strawberry Swing,Hag,edition,splash,0.10526315789473684
+Strawberry Swing,Evidence,strawberry,evidence,0.13333333333333333
+Strawberry Swing,Evidence,strawberry,faith,0.125
+Strawberry Swing,Evidence,strawberry,best,0.11764705882352941
+Strawberry Swing,Evidence,swing,evidence,0.3333333333333333
+Strawberry Swing,Evidence,swing,faith,0.4
+Strawberry Swing,Evidence,swing,best,0.2857142857142857
+Strawberry Swing,Evidence,viva,evidence,0.42857142857142855
+Strawberry Swing,Evidence,viva,faith,0.4
+Strawberry Swing,Evidence,viva,best,0.625
+Strawberry Swing,Evidence,la,evidence,0.2857142857142857
+Strawberry Swing,Evidence,la,faith,0.26666666666666666
+Strawberry Swing,Evidence,la,best,0.25
+Strawberry Swing,Evidence,march,evidence,0.2857142857142857
+Strawberry Swing,Evidence,march,faith,0.26666666666666666
+Strawberry Swing,Evidence,march,best,0.25
+Strawberry Swing,Evidence,edition,evidence,0.11764705882352941
+Strawberry Swing,Evidence,edition,faith,0.1111111111111111
+Strawberry Swing,Evidence,edition,best,0.10526315789473684
+Strawberry Swing,Saints,strawberry,saints,0.1111111111111111
+Strawberry Swing,Saints,strawberry,last,0.13333333333333333
+Strawberry Swing,Saints,strawberry,splash,0.11764705882352941
+Strawberry Swing,Saints,swing,saints,0.26666666666666666
+Strawberry Swing,Saints,swing,last,0.3333333333333333
+Strawberry Swing,Saints,swing,splash,0.2857142857142857
+Strawberry Swing,Saints,viva,saints,0.35294117647058826
+Strawberry Swing,Saints,viva,last,0.2857142857142857
+Strawberry Swing,Saints,viva,splash,0.5
+Strawberry Swing,Saints,la,saints,0.23529411764705882
+Strawberry Swing,Saints,la,last,0.2857142857142857
+Strawberry Swing,Saints,la,splash,0.25
+Strawberry Swing,Saints,march,saints,0.23529411764705882
+Strawberry Swing,Saints,march,last,0.42857142857142855
+Strawberry Swing,Saints,march,splash,0.25
+Strawberry Swing,Saints,edition,saints,0.1
+Strawberry Swing,Saints,edition,last,0.11764705882352941
+Strawberry Swing,Saints,edition,splash,0.10526315789473684
+Strawberry Swing,S.O.S.,strawberry,sos,0.13333333333333333
+Strawberry Swing,S.O.S.,strawberry,last,0.13333333333333333
+Strawberry Swing,S.O.S.,strawberry,splash,0.11764705882352941
+Strawberry Swing,S.O.S.,swing,sos,0.3333333333333333
+Strawberry Swing,S.O.S.,swing,last,0.3333333333333333
+Strawberry Swing,S.O.S.,swing,splash,0.2857142857142857
+Strawberry Swing,S.O.S.,viva,sos,0.2857142857142857
+Strawberry Swing,S.O.S.,viva,last,0.2857142857142857
+Strawberry Swing,S.O.S.,viva,splash,0.5
+Strawberry Swing,S.O.S.,la,sos,0.2857142857142857
+Strawberry Swing,S.O.S.,la,last,0.2857142857142857
+Strawberry Swing,S.O.S.,la,splash,0.25
+Strawberry Swing,S.O.S.,march,sos,0.2857142857142857
+Strawberry Swing,S.O.S.,march,last,0.42857142857142855
+Strawberry Swing,S.O.S.,march,splash,0.25
+Strawberry Swing,S.O.S.,edition,sos,0.11764705882352941
+Strawberry Swing,S.O.S.,edition,last,0.11764705882352941
+Strawberry Swing,S.O.S.,edition,splash,0.10526315789473684
+Strawberry Swing,Divine Hammer,strawberry,divine,0.1111111111111111
+Strawberry Swing,Divine Hammer,strawberry,hammer,0.34782608695652173
+Strawberry Swing,Divine Hammer,strawberry,last,0.13333333333333333
+Strawberry Swing,Divine Hammer,strawberry,splash,0.11764705882352941
+Strawberry Swing,Divine Hammer,swing,divine,0.26666666666666666
+Strawberry Swing,Divine Hammer,swing,hammer,0.11764705882352941
+Strawberry Swing,Divine Hammer,swing,last,0.3333333333333333
+Strawberry Swing,Divine Hammer,swing,splash,0.2857142857142857
+Strawberry Swing,Divine Hammer,viva,divine,0.35294117647058826
+Strawberry Swing,Divine Hammer,viva,hammer,0.10526315789473684
+Strawberry Swing,Divine Hammer,viva,last,0.2857142857142857
+Strawberry Swing,Divine Hammer,viva,splash,0.5
+Strawberry Swing,Divine Hammer,la,divine,0.23529411764705882
+Strawberry Swing,Divine Hammer,la,hammer,0.2222222222222222
+Strawberry Swing,Divine Hammer,la,last,0.2857142857142857
+Strawberry Swing,Divine Hammer,la,splash,0.25
+Strawberry Swing,Divine Hammer,march,divine,0.23529411764705882
+Strawberry Swing,Divine Hammer,march,hammer,0.10526315789473684
+Strawberry Swing,Divine Hammer,march,last,0.42857142857142855
+Strawberry Swing,Divine Hammer,march,splash,0.25
+Strawberry Swing,Divine Hammer,edition,divine,0.1
+Strawberry Swing,Divine Hammer,edition,hammer,0.45454545454545453
+Strawberry Swing,Divine Hammer,edition,last,0.11764705882352941
+Strawberry Swing,Divine Hammer,edition,splash,0.10526315789473684
+Strawberry Swing,One Step Beyond,strawberry,one,0.11764705882352941
+Strawberry Swing,One Step Beyond,strawberry,step,0.1
+Strawberry Swing,One Step Beyond,strawberry,beyond,0
+Strawberry Swing,One Step Beyond,strawberry,complete,0
+Strawberry Swing,One Step Beyond,strawberry,madness,0.1111111111111111
+Strawberry Swing,One Step Beyond,swing,one,0.2857142857142857
+Strawberry Swing,One Step Beyond,swing,step,0.23529411764705882
+Strawberry Swing,One Step Beyond,swing,beyond,0
+Strawberry Swing,One Step Beyond,swing,complete,0
+Strawberry Swing,One Step Beyond,swing,madness,0.5333333333333333
+Strawberry Swing,One Step Beyond,viva,one,0.25
+Strawberry Swing,One Step Beyond,viva,step,0.5263157894736842
+Strawberry Swing,One Step Beyond,viva,beyond,0
+Strawberry Swing,One Step Beyond,viva,complete,0
+Strawberry Swing,One Step Beyond,viva,madness,0.23529411764705882
+Strawberry Swing,One Step Beyond,la,one,0.25
+Strawberry Swing,One Step Beyond,la,step,0.21052631578947367
+Strawberry Swing,One Step Beyond,la,beyond,0
+Strawberry Swing,One Step Beyond,la,complete,0
+Strawberry Swing,One Step Beyond,la,madness,0.23529411764705882
+Strawberry Swing,One Step Beyond,march,one,0.375
+Strawberry Swing,One Step Beyond,march,step,0.21052631578947367
+Strawberry Swing,One Step Beyond,march,beyond,0
+Strawberry Swing,One Step Beyond,march,complete,0
+Strawberry Swing,One Step Beyond,march,madness,0.23529411764705882
+Strawberry Swing,One Step Beyond,edition,one,0.10526315789473684
+Strawberry Swing,One Step Beyond,edition,step,0.09090909090909091
+Strawberry Swing,One Step Beyond,edition,beyond,0
+Strawberry Swing,One Step Beyond,edition,complete,0
+Strawberry Swing,One Step Beyond,edition,madness,0.1
+Strawberry Swing,Ready For The Floor (Album Version),strawberry,album,0.4
+Strawberry Swing,Ready For The Floor (Album Version),strawberry,version,0.11764705882352941
+Strawberry Swing,Ready For The Floor (Album Version),strawberry,ready,0.13333333333333333
+Strawberry Swing,Ready For The Floor (Album Version),strawberry,floor,0.4
+Strawberry Swing,Ready For The Floor (Album Version),strawberry,best,0.11764705882352941
+Strawberry Swing,Ready For The Floor (Album Version),strawberry,bands,0.14285714285714285
+Strawberry Swing,Ready For The Floor (Album Version),swing,album,0.14285714285714285
+Strawberry Swing,Ready For The Floor (Album Version),swing,version,0.2857142857142857
+Strawberry Swing,Ready For The Floor (Album Version),swing,ready,0.6666666666666666
+Strawberry Swing,Ready For The Floor (Album Version),swing,floor,0.14285714285714285
+Strawberry Swing,Ready For The Floor (Album Version),swing,best,0.2857142857142857
+Strawberry Swing,Ready For The Floor (Album Version),swing,bands,0.36363636363636365
+Strawberry Swing,Ready For The Floor (Album Version),viva,album,0.125
+Strawberry Swing,Ready For The Floor (Album Version),viva,version,0.25
+Strawberry Swing,Ready For The Floor (Album Version),viva,ready,0.2857142857142857
+Strawberry Swing,Ready For The Floor (Album Version),viva,floor,0.125
+Strawberry Swing,Ready For The Floor (Album Version),viva,best,0.625
+Strawberry Swing,Ready For The Floor (Album Version),viva,bands,0.3076923076923077
+Strawberry Swing,Ready For The Floor (Album Version),la,album,0.26666666666666666
+Strawberry Swing,Ready For The Floor (Album Version),la,version,0.25
+Strawberry Swing,Ready For The Floor (Album Version),la,ready,0.2857142857142857
+Strawberry Swing,Ready For The Floor (Album Version),la,floor,0.26666666666666666
+Strawberry Swing,Ready For The Floor (Album Version),la,best,0.25
+Strawberry Swing,Ready For The Floor (Album Version),la,bands,0.3076923076923077
+Strawberry Swing,Ready For The Floor (Album Version),march,album,0.125
+Strawberry Swing,Ready For The Floor (Album Version),march,version,0.25
+Strawberry Swing,Ready For The Floor (Album Version),march,ready,0.2857142857142857
+Strawberry Swing,Ready For The Floor (Album Version),march,floor,0.125
+Strawberry Swing,Ready For The Floor (Album Version),march,best,0.25
+Strawberry Swing,Ready For The Floor (Album Version),march,bands,0.3076923076923077
+Strawberry Swing,Ready For The Floor (Album Version),edition,album,0.5263157894736842
+Strawberry Swing,Ready For The Floor (Album Version),edition,version,0.10526315789473684
+Strawberry Swing,Ready For The Floor (Album Version),edition,ready,0.11764705882352941
+Strawberry Swing,Ready For The Floor (Album Version),edition,floor,0.5263157894736842
+Strawberry Swing,Ready For The Floor (Album Version),edition,best,0.10526315789473684
+Strawberry Swing,Ready For The Floor (Album Version),edition,bands,0.125
+Strawberry Swing,I Just Wanna Get Along,strawberry,wan,0.36363636363636365
+Strawberry Swing,I Just Wanna Get Along,strawberry,na,0.375
+Strawberry Swing,I Just Wanna Get Along,strawberry,get,0.09090909090909091
+Strawberry Swing,I Just Wanna Get Along,strawberry,along,0
+Strawberry Swing,I Just Wanna Get Along,strawberry,last,0.13333333333333333
+Strawberry Swing,I Just Wanna Get Along,strawberry,splash,0.11764705882352941
+Strawberry Swing,I Just Wanna Get Along,swing,wan,0.125
+Strawberry Swing,I Just Wanna Get Along,swing,na,0.2857142857142857
+Strawberry Swing,I Just Wanna Get Along,swing,get,0.21052631578947367
+Strawberry Swing,I Just Wanna Get Along,swing,along,0
+Strawberry Swing,I Just Wanna Get Along,swing,last,0.3333333333333333
+Strawberry Swing,I Just Wanna Get Along,swing,splash,0.2857142857142857
+Strawberry Swing,I Just Wanna Get Along,viva,wan,0.1111111111111111
+Strawberry Swing,I Just Wanna Get Along,viva,na,0.25
+Strawberry Swing,I Just Wanna Get Along,viva,get,0.47619047619047616
+Strawberry Swing,I Just Wanna Get Along,viva,along,0
+Strawberry Swing,I Just Wanna Get Along,viva,last,0.2857142857142857
+Strawberry Swing,I Just Wanna Get Along,viva,splash,0.5
+Strawberry Swing,I Just Wanna Get Along,la,wan,0.23529411764705882
+Strawberry Swing,I Just Wanna Get Along,la,na,0.875
+Strawberry Swing,I Just Wanna Get Along,la,get,0.19047619047619047
+Strawberry Swing,I Just Wanna Get Along,la,along,0
+Strawberry Swing,I Just Wanna Get Along,la,last,0.2857142857142857
+Strawberry Swing,I Just Wanna Get Along,la,splash,0.25
+Strawberry Swing,I Just Wanna Get Along,march,wan,0.1111111111111111
+Strawberry Swing,I Just Wanna Get Along,march,na,0.25
+Strawberry Swing,I Just Wanna Get Along,march,get,0.19047619047619047
+Strawberry Swing,I Just Wanna Get Along,march,along,0
+Strawberry Swing,I Just Wanna Get Along,march,last,0.42857142857142855
+Strawberry Swing,I Just Wanna Get Along,march,splash,0.25
+Strawberry Swing,I Just Wanna Get Along,edition,wan,0.47619047619047616
+Strawberry Swing,I Just Wanna Get Along,edition,na,0.2222222222222222
+Strawberry Swing,I Just Wanna Get Along,edition,get,0.08333333333333333
+Strawberry Swing,I Just Wanna Get Along,edition,along,0
+Strawberry Swing,I Just Wanna Get Along,edition,last,0.11764705882352941
+Strawberry Swing,I Just Wanna Get Along,edition,splash,0.10526315789473684
+Strawberry Swing,New Year,strawberry,new,0
+Strawberry Swing,New Year,strawberry,year,0.13333333333333333
+Strawberry Swing,New Year,strawberry,last,0.13333333333333333
+Strawberry Swing,New Year,strawberry,splash,0.11764705882352941
+Strawberry Swing,New Year,swing,new,0
+Strawberry Swing,New Year,swing,year,0.3333333333333333
+Strawberry Swing,New Year,swing,last,0.3333333333333333
+Strawberry Swing,New Year,swing,splash,0.2857142857142857
+Strawberry Swing,New Year,viva,new,0
+Strawberry Swing,New Year,viva,year,0.2857142857142857
+Strawberry Swing,New Year,viva,last,0.2857142857142857
+Strawberry Swing,New Year,viva,splash,0.5
+Strawberry Swing,New Year,la,new,0
+Strawberry Swing,New Year,la,year,0.2857142857142857
+Strawberry Swing,New Year,la,last,0.2857142857142857
+Strawberry Swing,New Year,la,splash,0.25
+Strawberry Swing,New Year,march,new,0
+Strawberry Swing,New Year,march,year,0.7142857142857143
+Strawberry Swing,New Year,march,last,0.42857142857142855
+Strawberry Swing,New Year,march,splash,0.25
+Strawberry Swing,New Year,edition,new,0
+Strawberry Swing,New Year,edition,year,0.11764705882352941
+Strawberry Swing,New Year,edition,last,0.11764705882352941
+Strawberry Swing,New Year,edition,splash,0.10526315789473684
+Strawberry Swing,Drivin On 9,strawberry,last,0.13333333333333333
+Strawberry Swing,Drivin On 9,strawberry,splash,0.11764705882352941
+Strawberry Swing,Drivin On 9,swing,last,0.3333333333333333
+Strawberry Swing,Drivin On 9,swing,splash,0.2857142857142857
+Strawberry Swing,Drivin On 9,viva,last,0.2857142857142857
+Strawberry Swing,Drivin On 9,viva,splash,0.5
+Strawberry Swing,Drivin On 9,la,last,0.2857142857142857
+Strawberry Swing,Drivin On 9,la,splash,0.25
+Strawberry Swing,Drivin On 9,march,last,0.42857142857142855
+Strawberry Swing,Drivin On 9,march,splash,0.25
+Strawberry Swing,Drivin On 9,edition,last,0.11764705882352941
+Strawberry Swing,Drivin On 9,edition,splash,0.10526315789473684
+Strawberry Swing,Talk About The Blues,strawberry,talk,0.125
+Strawberry Swing,Talk About The Blues,strawberry,blues,0.125
+Strawberry Swing,Talk About The Blues,strawberry,matador,0.38095238095238093
+Strawberry Swing,Talk About The Blues,strawberry,records,0.13333333333333333
+Strawberry Swing,Talk About The Blues,strawberry,anniversary,0.11764705882352941
+Strawberry Swing,Talk About The Blues,strawberry,anthology,0.34782608695652173
+Strawberry Swing,Talk About The Blues,strawberry,nice,0.2857142857142857
+Strawberry Swing,Talk About The Blues,swing,talk,0.3076923076923077
+Strawberry Swing,Talk About The Blues,swing,blues,0.3076923076923077
+Strawberry Swing,Talk About The Blues,swing,matador,0.16666666666666666
+Strawberry Swing,Talk About The Blues,swing,records,0.3333333333333333
+Strawberry Swing,Talk About The Blues,swing,anniversary,0.2857142857142857
+Strawberry Swing,Talk About The Blues,swing,anthology,0.11764705882352941
+Strawberry Swing,Talk About The Blues,swing,nice,0.125
+Strawberry Swing,Talk About The Blues,viva,talk,0.26666666666666666
+Strawberry Swing,Talk About The Blues,viva,blues,0.26666666666666666
+Strawberry Swing,Talk About The Blues,viva,matador,0.14285714285714285
+Strawberry Swing,Talk About The Blues,viva,records,0.2857142857142857
+Strawberry Swing,Talk About The Blues,viva,anniversary,0.25
+Strawberry Swing,Talk About The Blues,viva,anthology,0.10526315789473684
+Strawberry Swing,Talk About The Blues,viva,nice,0.1111111111111111
+Strawberry Swing,Talk About The Blues,la,talk,0.26666666666666666
+Strawberry Swing,Talk About The Blues,la,blues,0.26666666666666666
+Strawberry Swing,Talk About The Blues,la,matador,0.3076923076923077
+Strawberry Swing,Talk About The Blues,la,records,0.2857142857142857
+Strawberry Swing,Talk About The Blues,la,anniversary,0.25
+Strawberry Swing,Talk About The Blues,la,anthology,0.2222222222222222
+Strawberry Swing,Talk About The Blues,la,nice,0.23529411764705882
+Strawberry Swing,Talk About The Blues,march,talk,0.26666666666666666
+Strawberry Swing,Talk About The Blues,march,blues,0.26666666666666666
+Strawberry Swing,Talk About The Blues,march,matador,0.14285714285714285
+Strawberry Swing,Talk About The Blues,march,records,0.2857142857142857
+Strawberry Swing,Talk About The Blues,march,anniversary,0.625
+Strawberry Swing,Talk About The Blues,march,anthology,0.10526315789473684
+Strawberry Swing,Talk About The Blues,march,nice,0.1111111111111111
+Strawberry Swing,Talk About The Blues,edition,talk,0.1111111111111111
+Strawberry Swing,Talk About The Blues,edition,blues,0.1111111111111111
+Strawberry Swing,Talk About The Blues,edition,matador,0.4
+Strawberry Swing,Talk About The Blues,edition,records,0.11764705882352941
+Strawberry Swing,Talk About The Blues,edition,anniversary,0.10526315789473684
+Strawberry Swing,Talk About The Blues,edition,anthology,0.8181818181818182
+Strawberry Swing,Talk About The Blues,edition,nice,0.2857142857142857
+Strawberry Swing,Flipside,strawberry,last,0.13333333333333333
+Strawberry Swing,Flipside,strawberry,splash,0.11764705882352941
+Strawberry Swing,Flipside,swing,last,0.3333333333333333
+Strawberry Swing,Flipside,swing,splash,0.2857142857142857
+Strawberry Swing,Flipside,viva,last,0.2857142857142857
+Strawberry Swing,Flipside,viva,splash,0.5
+Strawberry Swing,Flipside,la,last,0.2857142857142857
+Strawberry Swing,Flipside,la,splash,0.25
+Strawberry Swing,Flipside,march,last,0.42857142857142855
+Strawberry Swing,Flipside,march,splash,0.25
+Strawberry Swing,Flipside,edition,last,0.11764705882352941
+Strawberry Swing,Flipside,edition,splash,0.10526315789473684
+Life In Technicolor ii,Cannonball,technicolor,cannonball,0.10526315789473684
+Life In Technicolor ii,Cannonball,technicolor,cannonball,0.10526315789473684
+Life In Technicolor ii,Cannonball,ii,cannonball,0.10526315789473684
+Life In Technicolor ii,Cannonball,ii,cannonball,0.10526315789473684
+Life In Technicolor ii,Cannonball,life,cannonball,0.11764705882352941
+Life In Technicolor ii,Cannonball,life,cannonball,0.11764705882352941
+Life In Technicolor ii,Cannonball,viva,cannonball,0.10526315789473684
+Life In Technicolor ii,Cannonball,viva,cannonball,0.10526315789473684
+Life In Technicolor ii,Cannonball,la,cannonball,0.2222222222222222
+Life In Technicolor ii,Cannonball,la,cannonball,0.2222222222222222
+Life In Technicolor ii,Cannonball,march,cannonball,0.10526315789473684
+Life In Technicolor ii,Cannonball,march,cannonball,0.10526315789473684
+Life In Technicolor ii,Cannonball,edition,cannonball,0.45454545454545453
+Life In Technicolor ii,Cannonball,edition,cannonball,0.45454545454545453
+Life In Technicolor ii,Invisible Man,technicolor,invisible,0
+Life In Technicolor ii,Invisible Man,technicolor,man,0.14285714285714285
+Life In Technicolor ii,Invisible Man,technicolor,last,0.2857142857142857
+Life In Technicolor ii,Invisible Man,technicolor,splash,0.375
+Life In Technicolor ii,Invisible Man,ii,invisible,0
+Life In Technicolor ii,Invisible Man,ii,man,0.14285714285714285
+Life In Technicolor ii,Invisible Man,ii,last,0.42857142857142855
+Life In Technicolor ii,Invisible Man,ii,splash,0.25
+Life In Technicolor ii,Invisible Man,life,invisible,0
+Life In Technicolor ii,Invisible Man,life,man,0.16666666666666666
+Life In Technicolor ii,Invisible Man,life,last,0.3333333333333333
+Life In Technicolor ii,Invisible Man,life,splash,0.2857142857142857
+Life In Technicolor ii,Invisible Man,viva,invisible,0
+Life In Technicolor ii,Invisible Man,viva,man,0.14285714285714285
+Life In Technicolor ii,Invisible Man,viva,last,0.2857142857142857
+Life In Technicolor ii,Invisible Man,viva,splash,0.5
+Life In Technicolor ii,Invisible Man,la,invisible,0
+Life In Technicolor ii,Invisible Man,la,man,0.3076923076923077
+Life In Technicolor ii,Invisible Man,la,last,0.2857142857142857
+Life In Technicolor ii,Invisible Man,la,splash,0.25
+Life In Technicolor ii,Invisible Man,march,invisible,0
+Life In Technicolor ii,Invisible Man,march,man,0.14285714285714285
+Life In Technicolor ii,Invisible Man,march,last,0.42857142857142855
+Life In Technicolor ii,Invisible Man,march,splash,0.25
+Life In Technicolor ii,Invisible Man,edition,invisible,0
+Life In Technicolor ii,Invisible Man,edition,man,0.4
+Life In Technicolor ii,Invisible Man,edition,last,0.11764705882352941
+Life In Technicolor ii,Invisible Man,edition,splash,0.10526315789473684
+Life In Technicolor ii,No Aloha,technicolor,hell,0.14285714285714285
+Life In Technicolor ii,No Aloha,technicolor,aloha,0.2857142857142857
+Life In Technicolor ii,No Aloha,technicolor,last,0.2857142857142857
+Life In Technicolor ii,No Aloha,technicolor,splash,0.375
+Life In Technicolor ii,No Aloha,ii,hell,0.14285714285714285
+Life In Technicolor ii,No Aloha,ii,aloha,0.2857142857142857
+Life In Technicolor ii,No Aloha,ii,last,0.42857142857142855
+Life In Technicolor ii,No Aloha,ii,splash,0.25
+Life In Technicolor ii,No Aloha,life,hell,0.16666666666666666
+Life In Technicolor ii,No Aloha,life,aloha,0.3333333333333333
+Life In Technicolor ii,No Aloha,life,last,0.3333333333333333
+Life In Technicolor ii,No Aloha,life,splash,0.2857142857142857
+Life In Technicolor ii,No Aloha,viva,hell,0.14285714285714285
+Life In Technicolor ii,No Aloha,viva,aloha,0.2857142857142857
+Life In Technicolor ii,No Aloha,viva,last,0.2857142857142857
+Life In Technicolor ii,No Aloha,viva,splash,0.5
+Life In Technicolor ii,No Aloha,la,hell,0.3076923076923077
+Life In Technicolor ii,No Aloha,la,aloha,0.2857142857142857
+Life In Technicolor ii,No Aloha,la,last,0.2857142857142857
+Life In Technicolor ii,No Aloha,la,splash,0.25
+Life In Technicolor ii,No Aloha,march,hell,0.14285714285714285
+Life In Technicolor ii,No Aloha,march,aloha,0.2857142857142857
+Life In Technicolor ii,No Aloha,march,last,0.42857142857142855
+Life In Technicolor ii,No Aloha,march,splash,0.25
+Life In Technicolor ii,No Aloha,edition,hell,0.35294117647058826
+Life In Technicolor ii,No Aloha,edition,aloha,0.11764705882352941
+Life In Technicolor ii,No Aloha,edition,last,0.11764705882352941
+Life In Technicolor ii,No Aloha,edition,splash,0.10526315789473684
+Life In Technicolor ii,Mad Lucas,technicolor,mad,0
+Life In Technicolor ii,Mad Lucas,technicolor,lucas,0.125
+Life In Technicolor ii,Mad Lucas,technicolor,last,0.2857142857142857
+Life In Technicolor ii,Mad Lucas,technicolor,splash,0.375
+Life In Technicolor ii,Mad Lucas,ii,mad,0
+Life In Technicolor ii,Mad Lucas,ii,lucas,0.125
+Life In Technicolor ii,Mad Lucas,ii,last,0.42857142857142855
+Life In Technicolor ii,Mad Lucas,ii,splash,0.25
+Life In Technicolor ii,Mad Lucas,life,mad,0
+Life In Technicolor ii,Mad Lucas,life,lucas,0.14285714285714285
+Life In Technicolor ii,Mad Lucas,life,last,0.3333333333333333
+Life In Technicolor ii,Mad Lucas,life,splash,0.2857142857142857
+Life In Technicolor ii,Mad Lucas,viva,mad,0
+Life In Technicolor ii,Mad Lucas,viva,lucas,0.125
+Life In Technicolor ii,Mad Lucas,viva,last,0.2857142857142857
+Life In Technicolor ii,Mad Lucas,viva,splash,0.5
+Life In Technicolor ii,Mad Lucas,la,mad,0
+Life In Technicolor ii,Mad Lucas,la,lucas,0.26666666666666666
+Life In Technicolor ii,Mad Lucas,la,last,0.2857142857142857
+Life In Technicolor ii,Mad Lucas,la,splash,0.25
+Life In Technicolor ii,Mad Lucas,march,mad,0
+Life In Technicolor ii,Mad Lucas,march,lucas,0.125
+Life In Technicolor ii,Mad Lucas,march,last,0.42857142857142855
+Life In Technicolor ii,Mad Lucas,march,splash,0.25
+Life In Technicolor ii,Mad Lucas,edition,mad,0
+Life In Technicolor ii,Mad Lucas,edition,lucas,0.36363636363636365
+Life In Technicolor ii,Mad Lucas,edition,last,0.11764705882352941
+Life In Technicolor ii,Mad Lucas,edition,splash,0.10526315789473684
+Life In Technicolor ii,Roi (reprise),technicolor,recovery,0.35294117647058826
+Life In Technicolor ii,Roi (reprise),technicolor,king,0.13333333333333333
+Life In Technicolor ii,Roi (reprise),technicolor,last,0.2857142857142857
+Life In Technicolor ii,Roi (reprise),technicolor,splash,0.375
+Life In Technicolor ii,Roi (reprise),ii,recovery,0.23529411764705882
+Life In Technicolor ii,Roi (reprise),ii,king,0.13333333333333333
+Life In Technicolor ii,Roi (reprise),ii,last,0.42857142857142855
+Life In Technicolor ii,Roi (reprise),ii,splash,0.25
+Life In Technicolor ii,Roi (reprise),life,recovery,0.26666666666666666
+Life In Technicolor ii,Roi (reprise),life,king,0.15384615384615385
+Life In Technicolor ii,Roi (reprise),life,last,0.3333333333333333
+Life In Technicolor ii,Roi (reprise),life,splash,0.2857142857142857
+Life In Technicolor ii,Roi (reprise),viva,recovery,0.47058823529411764
+Life In Technicolor ii,Roi (reprise),viva,king,0.13333333333333333
+Life In Technicolor ii,Roi (reprise),viva,last,0.2857142857142857
+Life In Technicolor ii,Roi (reprise),viva,splash,0.5
+Life In Technicolor ii,Roi (reprise),la,recovery,0.23529411764705882
+Life In Technicolor ii,Roi (reprise),la,king,0.2857142857142857
+Life In Technicolor ii,Roi (reprise),la,last,0.2857142857142857
+Life In Technicolor ii,Roi (reprise),la,splash,0.25
+Life In Technicolor ii,Roi (reprise),march,recovery,0.23529411764705882
+Life In Technicolor ii,Roi (reprise),march,king,0.13333333333333333
+Life In Technicolor ii,Roi (reprise),march,last,0.42857142857142855
+Life In Technicolor ii,Roi (reprise),march,splash,0.25
+Life In Technicolor ii,Roi (reprise),edition,recovery,0.1
+Life In Technicolor ii,Roi (reprise),edition,king,0.38095238095238093
+Life In Technicolor ii,Roi (reprise),edition,last,0.11764705882352941
+Life In Technicolor ii,Roi (reprise),edition,splash,0.10526315789473684
+Life In Technicolor ii,Gloomy Sunday,technicolor,gloomy,0
+Life In Technicolor ii,Gloomy Sunday,technicolor,sunday,0.23529411764705882
+Life In Technicolor ii,Gloomy Sunday,technicolor,south,0.13333333333333333
+Life In Technicolor ii,Gloomy Sunday,ii,gloomy,0
+Life In Technicolor ii,Gloomy Sunday,ii,sunday,0.35294117647058826
+Life In Technicolor ii,Gloomy Sunday,ii,south,0.13333333333333333
+Life In Technicolor ii,Gloomy Sunday,life,gloomy,0
+Life In Technicolor ii,Gloomy Sunday,life,sunday,0.26666666666666666
+Life In Technicolor ii,Gloomy Sunday,life,south,0.15384615384615385
+Life In Technicolor ii,Gloomy Sunday,viva,gloomy,0
+Life In Technicolor ii,Gloomy Sunday,viva,sunday,0.23529411764705882
+Life In Technicolor ii,Gloomy Sunday,viva,south,0.13333333333333333
+Life In Technicolor ii,Gloomy Sunday,la,gloomy,0
+Life In Technicolor ii,Gloomy Sunday,la,sunday,0.23529411764705882
+Life In Technicolor ii,Gloomy Sunday,la,south,0.2857142857142857
+Life In Technicolor ii,Gloomy Sunday,march,gloomy,0
+Life In Technicolor ii,Gloomy Sunday,march,sunday,0.5882352941176471
+Life In Technicolor ii,Gloomy Sunday,march,south,0.13333333333333333
+Life In Technicolor ii,Gloomy Sunday,edition,gloomy,0
+Life In Technicolor ii,Gloomy Sunday,edition,sunday,0.1
+Life In Technicolor ii,Gloomy Sunday,edition,south,0.3333333333333333
+Life In Technicolor ii,Roi,technicolor,king,0.13333333333333333
+Life In Technicolor ii,Roi,technicolor,last,0.2857142857142857
+Life In Technicolor ii,Roi,technicolor,splash,0.375
+Life In Technicolor ii,Roi,ii,king,0.13333333333333333
+Life In Technicolor ii,Roi,ii,last,0.42857142857142855
+Life In Technicolor ii,Roi,ii,splash,0.25
+Life In Technicolor ii,Roi,life,king,0.15384615384615385
+Life In Technicolor ii,Roi,life,last,0.3333333333333333
+Life In Technicolor ii,Roi,life,splash,0.2857142857142857
+Life In Technicolor ii,Roi,viva,king,0.13333333333333333
+Life In Technicolor ii,Roi,viva,last,0.2857142857142857
+Life In Technicolor ii,Roi,viva,splash,0.5
+Life In Technicolor ii,Roi,la,king,0.2857142857142857
+Life In Technicolor ii,Roi,la,last,0.2857142857142857
+Life In Technicolor ii,Roi,la,splash,0.25
+Life In Technicolor ii,Roi,march,king,0.13333333333333333
+Life In Technicolor ii,Roi,march,last,0.42857142857142855
+Life In Technicolor ii,Roi,march,splash,0.25
+Life In Technicolor ii,Roi,edition,king,0.38095238095238093
+Life In Technicolor ii,Roi,edition,last,0.11764705882352941
+Life In Technicolor ii,Roi,edition,splash,0.10526315789473684
+Life In Technicolor ii,Do You Love Me Now ?,technicolor,love,0.26666666666666666
+Life In Technicolor ii,Do You Love Me Now ?,technicolor,last,0.2857142857142857
+Life In Technicolor ii,Do You Love Me Now ?,technicolor,splash,0.375
+Life In Technicolor ii,Do You Love Me Now ?,ii,love,0.26666666666666666
+Life In Technicolor ii,Do You Love Me Now ?,ii,last,0.42857142857142855
+Life In Technicolor ii,Do You Love Me Now ?,ii,splash,0.25
+Life In Technicolor ii,Do You Love Me Now ?,life,love,0.6153846153846154
+Life In Technicolor ii,Do You Love Me Now ?,life,last,0.3333333333333333
+Life In Technicolor ii,Do You Love Me Now ?,life,splash,0.2857142857142857
+Life In Technicolor ii,Do You Love Me Now ?,viva,love,0.26666666666666666
+Life In Technicolor ii,Do You Love Me Now ?,viva,last,0.2857142857142857
+Life In Technicolor ii,Do You Love Me Now ?,viva,splash,0.5
+Life In Technicolor ii,Do You Love Me Now ?,la,love,0.26666666666666666
+Life In Technicolor ii,Do You Love Me Now ?,la,last,0.2857142857142857
+Life In Technicolor ii,Do You Love Me Now ?,la,splash,0.25
+Life In Technicolor ii,Do You Love Me Now ?,march,love,0.26666666666666666
+Life In Technicolor ii,Do You Love Me Now ?,march,last,0.42857142857142855
+Life In Technicolor ii,Do You Love Me Now ?,march,splash,0.25
+Life In Technicolor ii,Do You Love Me Now ?,edition,love,0.1111111111111111
+Life In Technicolor ii,Do You Love Me Now ?,edition,last,0.11764705882352941
+Life In Technicolor ii,Do You Love Me Now ?,edition,splash,0.10526315789473684
+Life In Technicolor ii,Hag,technicolor,hag,0.125
+Life In Technicolor ii,Hag,technicolor,last,0.2857142857142857
+Life In Technicolor ii,Hag,technicolor,splash,0.375
+Life In Technicolor ii,Hag,ii,hag,0.125
+Life In Technicolor ii,Hag,ii,last,0.42857142857142855
+Life In Technicolor ii,Hag,ii,splash,0.25
+Life In Technicolor ii,Hag,life,hag,0.14285714285714285
+Life In Technicolor ii,Hag,life,last,0.3333333333333333
+Life In Technicolor ii,Hag,life,splash,0.2857142857142857
+Life In Technicolor ii,Hag,viva,hag,0.125
+Life In Technicolor ii,Hag,viva,last,0.2857142857142857
+Life In Technicolor ii,Hag,viva,splash,0.5
+Life In Technicolor ii,Hag,la,hag,0.26666666666666666
+Life In Technicolor ii,Hag,la,last,0.2857142857142857
+Life In Technicolor ii,Hag,la,splash,0.25
+Life In Technicolor ii,Hag,march,hag,0.125
+Life In Technicolor ii,Hag,march,last,0.42857142857142855
+Life In Technicolor ii,Hag,march,splash,0.25
+Life In Technicolor ii,Hag,edition,hag,0.36363636363636365
+Life In Technicolor ii,Hag,edition,last,0.11764705882352941
+Life In Technicolor ii,Hag,edition,splash,0.10526315789473684
+Life In Technicolor ii,Evidence,technicolor,evidence,0.5714285714285714
+Life In Technicolor ii,Evidence,technicolor,faith,0.5333333333333333
+Life In Technicolor ii,Evidence,technicolor,best,0.375
+Life In Technicolor ii,Evidence,ii,evidence,0.2857142857142857
+Life In Technicolor ii,Evidence,ii,faith,0.26666666666666666
+Life In Technicolor ii,Evidence,ii,best,0.25
+Life In Technicolor ii,Evidence,life,evidence,0.3333333333333333
+Life In Technicolor ii,Evidence,life,faith,0.4
+Life In Technicolor ii,Evidence,life,best,0.2857142857142857
+Life In Technicolor ii,Evidence,viva,evidence,0.42857142857142855
+Life In Technicolor ii,Evidence,viva,faith,0.4
+Life In Technicolor ii,Evidence,viva,best,0.625
+Life In Technicolor ii,Evidence,la,evidence,0.2857142857142857
+Life In Technicolor ii,Evidence,la,faith,0.26666666666666666
+Life In Technicolor ii,Evidence,la,best,0.25
+Life In Technicolor ii,Evidence,march,evidence,0.2857142857142857
+Life In Technicolor ii,Evidence,march,faith,0.26666666666666666
+Life In Technicolor ii,Evidence,march,best,0.25
+Life In Technicolor ii,Evidence,edition,evidence,0.11764705882352941
+Life In Technicolor ii,Evidence,edition,faith,0.1111111111111111
+Life In Technicolor ii,Evidence,edition,best,0.10526315789473684
+Life In Technicolor ii,Saints,technicolor,saints,0.47058823529411764
+Life In Technicolor ii,Saints,technicolor,last,0.2857142857142857
+Life In Technicolor ii,Saints,technicolor,splash,0.375
+Life In Technicolor ii,Saints,ii,saints,0.23529411764705882
+Life In Technicolor ii,Saints,ii,last,0.42857142857142855
+Life In Technicolor ii,Saints,ii,splash,0.25
+Life In Technicolor ii,Saints,life,saints,0.26666666666666666
+Life In Technicolor ii,Saints,life,last,0.3333333333333333
+Life In Technicolor ii,Saints,life,splash,0.2857142857142857
+Life In Technicolor ii,Saints,viva,saints,0.35294117647058826
+Life In Technicolor ii,Saints,viva,last,0.2857142857142857
+Life In Technicolor ii,Saints,viva,splash,0.5
+Life In Technicolor ii,Saints,la,saints,0.23529411764705882
+Life In Technicolor ii,Saints,la,last,0.2857142857142857
+Life In Technicolor ii,Saints,la,splash,0.25
+Life In Technicolor ii,Saints,march,saints,0.23529411764705882
+Life In Technicolor ii,Saints,march,last,0.42857142857142855
+Life In Technicolor ii,Saints,march,splash,0.25
+Life In Technicolor ii,Saints,edition,saints,0.1
+Life In Technicolor ii,Saints,edition,last,0.11764705882352941
+Life In Technicolor ii,Saints,edition,splash,0.10526315789473684
+Life In Technicolor ii,S.O.S.,technicolor,sos,0.2857142857142857
+Life In Technicolor ii,S.O.S.,technicolor,last,0.2857142857142857
+Life In Technicolor ii,S.O.S.,technicolor,splash,0.375
+Life In Technicolor ii,S.O.S.,ii,sos,0.2857142857142857
+Life In Technicolor ii,S.O.S.,ii,last,0.42857142857142855
+Life In Technicolor ii,S.O.S.,ii,splash,0.25
+Life In Technicolor ii,S.O.S.,life,sos,0.3333333333333333
+Life In Technicolor ii,S.O.S.,life,last,0.3333333333333333
+Life In Technicolor ii,S.O.S.,life,splash,0.2857142857142857
+Life In Technicolor ii,S.O.S.,viva,sos,0.2857142857142857
+Life In Technicolor ii,S.O.S.,viva,last,0.2857142857142857
+Life In Technicolor ii,S.O.S.,viva,splash,0.5
+Life In Technicolor ii,S.O.S.,la,sos,0.2857142857142857
+Life In Technicolor ii,S.O.S.,la,last,0.2857142857142857
+Life In Technicolor ii,S.O.S.,la,splash,0.25
+Life In Technicolor ii,S.O.S.,march,sos,0.2857142857142857
+Life In Technicolor ii,S.O.S.,march,last,0.42857142857142855
+Life In Technicolor ii,S.O.S.,march,splash,0.25
+Life In Technicolor ii,S.O.S.,edition,sos,0.11764705882352941
+Life In Technicolor ii,S.O.S.,edition,last,0.11764705882352941
+Life In Technicolor ii,S.O.S.,edition,splash,0.10526315789473684
+Life In Technicolor ii,Divine Hammer,technicolor,divine,0.47058823529411764
+Life In Technicolor ii,Divine Hammer,technicolor,hammer,0.10526315789473684
+Life In Technicolor ii,Divine Hammer,technicolor,last,0.2857142857142857
+Life In Technicolor ii,Divine Hammer,technicolor,splash,0.375
+Life In Technicolor ii,Divine Hammer,ii,divine,0.23529411764705882
+Life In Technicolor ii,Divine Hammer,ii,hammer,0.10526315789473684
+Life In Technicolor ii,Divine Hammer,ii,last,0.42857142857142855
+Life In Technicolor ii,Divine Hammer,ii,splash,0.25
+Life In Technicolor ii,Divine Hammer,life,divine,0.26666666666666666
+Life In Technicolor ii,Divine Hammer,life,hammer,0.11764705882352941
+Life In Technicolor ii,Divine Hammer,life,last,0.3333333333333333
+Life In Technicolor ii,Divine Hammer,life,splash,0.2857142857142857
+Life In Technicolor ii,Divine Hammer,viva,divine,0.35294117647058826
+Life In Technicolor ii,Divine Hammer,viva,hammer,0.10526315789473684
+Life In Technicolor ii,Divine Hammer,viva,last,0.2857142857142857
+Life In Technicolor ii,Divine Hammer,viva,splash,0.5
+Life In Technicolor ii,Divine Hammer,la,divine,0.23529411764705882
+Life In Technicolor ii,Divine Hammer,la,hammer,0.2222222222222222
+Life In Technicolor ii,Divine Hammer,la,last,0.2857142857142857
+Life In Technicolor ii,Divine Hammer,la,splash,0.25
+Life In Technicolor ii,Divine Hammer,march,divine,0.23529411764705882
+Life In Technicolor ii,Divine Hammer,march,hammer,0.10526315789473684
+Life In Technicolor ii,Divine Hammer,march,last,0.42857142857142855
+Life In Technicolor ii,Divine Hammer,march,splash,0.25
+Life In Technicolor ii,Divine Hammer,edition,divine,0.1
+Life In Technicolor ii,Divine Hammer,edition,hammer,0.45454545454545453
+Life In Technicolor ii,Divine Hammer,edition,last,0.11764705882352941
+Life In Technicolor ii,Divine Hammer,edition,splash,0.10526315789473684
+Life In Technicolor ii,One Step Beyond,technicolor,one,0.25
+Life In Technicolor ii,One Step Beyond,technicolor,step,0.3157894736842105
+Life In Technicolor ii,One Step Beyond,technicolor,beyond,0
+Life In Technicolor ii,One Step Beyond,technicolor,complete,0
+Life In Technicolor ii,One Step Beyond,technicolor,madness,0.23529411764705882
+Life In Technicolor ii,One Step Beyond,ii,one,0.875
+Life In Technicolor ii,One Step Beyond,ii,step,0.21052631578947367
+Life In Technicolor ii,One Step Beyond,ii,beyond,0
+Life In Technicolor ii,One Step Beyond,ii,complete,0
+Life In Technicolor ii,One Step Beyond,ii,madness,0.23529411764705882
+Life In Technicolor ii,One Step Beyond,life,one,0.2857142857142857
+Life In Technicolor ii,One Step Beyond,life,step,0.23529411764705882
+Life In Technicolor ii,One Step Beyond,life,beyond,0
+Life In Technicolor ii,One Step Beyond,life,complete,0
+Life In Technicolor ii,One Step Beyond,life,madness,0.5333333333333333
+Life In Technicolor ii,One Step Beyond,viva,one,0.25
+Life In Technicolor ii,One Step Beyond,viva,step,0.5263157894736842
+Life In Technicolor ii,One Step Beyond,viva,beyond,0
+Life In Technicolor ii,One Step Beyond,viva,complete,0
+Life In Technicolor ii,One Step Beyond,viva,madness,0.23529411764705882
+Life In Technicolor ii,One Step Beyond,la,one,0.25
+Life In Technicolor ii,One Step Beyond,la,step,0.21052631578947367
+Life In Technicolor ii,One Step Beyond,la,beyond,0
+Life In Technicolor ii,One Step Beyond,la,complete,0
+Life In Technicolor ii,One Step Beyond,la,madness,0.23529411764705882
+Life In Technicolor ii,One Step Beyond,march,one,0.375
+Life In Technicolor ii,One Step Beyond,march,step,0.21052631578947367
+Life In Technicolor ii,One Step Beyond,march,beyond,0
+Life In Technicolor ii,One Step Beyond,march,complete,0
+Life In Technicolor ii,One Step Beyond,march,madness,0.23529411764705882
+Life In Technicolor ii,One Step Beyond,edition,one,0.10526315789473684
+Life In Technicolor ii,One Step Beyond,edition,step,0.09090909090909091
+Life In Technicolor ii,One Step Beyond,edition,beyond,0
+Life In Technicolor ii,One Step Beyond,edition,complete,0
+Life In Technicolor ii,One Step Beyond,edition,madness,0.1
+Life In Technicolor ii,Ready For The Floor (Album Version),technicolor,album,0.125
+Life In Technicolor ii,Ready For The Floor (Album Version),technicolor,version,0.25
+Life In Technicolor ii,Ready For The Floor (Album Version),technicolor,ready,0.2857142857142857
+Life In Technicolor ii,Ready For The Floor (Album Version),technicolor,floor,0.125
+Life In Technicolor ii,Ready For The Floor (Album Version),technicolor,best,0.375
+Life In Technicolor ii,Ready For The Floor (Album Version),technicolor,bands,0.3076923076923077
+Life In Technicolor ii,Ready For The Floor (Album Version),ii,album,0.125
+Life In Technicolor ii,Ready For The Floor (Album Version),ii,version,0.25
+Life In Technicolor ii,Ready For The Floor (Album Version),ii,ready,0.2857142857142857
+Life In Technicolor ii,Ready For The Floor (Album Version),ii,floor,0.125
+Life In Technicolor ii,Ready For The Floor (Album Version),ii,best,0.25
+Life In Technicolor ii,Ready For The Floor (Album Version),ii,bands,0.3076923076923077
+Life In Technicolor ii,Ready For The Floor (Album Version),life,album,0.14285714285714285
+Life In Technicolor ii,Ready For The Floor (Album Version),life,version,0.2857142857142857
+Life In Technicolor ii,Ready For The Floor (Album Version),life,ready,0.6666666666666666
+Life In Technicolor ii,Ready For The Floor (Album Version),life,floor,0.14285714285714285
+Life In Technicolor ii,Ready For The Floor (Album Version),life,best,0.2857142857142857
+Life In Technicolor ii,Ready For The Floor (Album Version),life,bands,0.36363636363636365
+Life In Technicolor ii,Ready For The Floor (Album Version),viva,album,0.125
+Life In Technicolor ii,Ready For The Floor (Album Version),viva,version,0.25
+Life In Technicolor ii,Ready For The Floor (Album Version),viva,ready,0.2857142857142857
+Life In Technicolor ii,Ready For The Floor (Album Version),viva,floor,0.125
+Life In Technicolor ii,Ready For The Floor (Album Version),viva,best,0.625
+Life In Technicolor ii,Ready For The Floor (Album Version),viva,bands,0.3076923076923077
+Life In Technicolor ii,Ready For The Floor (Album Version),la,album,0.26666666666666666
+Life In Technicolor ii,Ready For The Floor (Album Version),la,version,0.25
+Life In Technicolor ii,Ready For The Floor (Album Version),la,ready,0.2857142857142857
+Life In Technicolor ii,Ready For The Floor (Album Version),la,floor,0.26666666666666666
+Life In Technicolor ii,Ready For The Floor (Album Version),la,best,0.25
+Life In Technicolor ii,Ready For The Floor (Album Version),la,bands,0.3076923076923077
+Life In Technicolor ii,Ready For The Floor (Album Version),march,album,0.125
+Life In Technicolor ii,Ready For The Floor (Album Version),march,version,0.25
+Life In Technicolor ii,Ready For The Floor (Album Version),march,ready,0.2857142857142857
+Life In Technicolor ii,Ready For The Floor (Album Version),march,floor,0.125
+Life In Technicolor ii,Ready For The Floor (Album Version),march,best,0.25
+Life In Technicolor ii,Ready For The Floor (Album Version),march,bands,0.3076923076923077
+Life In Technicolor ii,Ready For The Floor (Album Version),edition,album,0.5263157894736842
+Life In Technicolor ii,Ready For The Floor (Album Version),edition,version,0.10526315789473684
+Life In Technicolor ii,Ready For The Floor (Album Version),edition,ready,0.11764705882352941
+Life In Technicolor ii,Ready For The Floor (Album Version),edition,floor,0.5263157894736842
+Life In Technicolor ii,Ready For The Floor (Album Version),edition,best,0.10526315789473684
+Life In Technicolor ii,Ready For The Floor (Album Version),edition,bands,0.125
+Life In Technicolor ii,I Just Wanna Get Along,technicolor,wan,0.1111111111111111
+Life In Technicolor ii,I Just Wanna Get Along,technicolor,na,0.25
+Life In Technicolor ii,I Just Wanna Get Along,technicolor,get,0.2857142857142857
+Life In Technicolor ii,I Just Wanna Get Along,technicolor,along,0
+Life In Technicolor ii,I Just Wanna Get Along,technicolor,last,0.2857142857142857
+Life In Technicolor ii,I Just Wanna Get Along,technicolor,splash,0.375
+Life In Technicolor ii,I Just Wanna Get Along,ii,wan,0.1111111111111111
+Life In Technicolor ii,I Just Wanna Get Along,ii,na,0.25
+Life In Technicolor ii,I Just Wanna Get Along,ii,get,0.19047619047619047
+Life In Technicolor ii,I Just Wanna Get Along,ii,along,0
+Life In Technicolor ii,I Just Wanna Get Along,ii,last,0.42857142857142855
+Life In Technicolor ii,I Just Wanna Get Along,ii,splash,0.25
+Life In Technicolor ii,I Just Wanna Get Along,life,wan,0.125
+Life In Technicolor ii,I Just Wanna Get Along,life,na,0.2857142857142857
+Life In Technicolor ii,I Just Wanna Get Along,life,get,0.21052631578947367
+Life In Technicolor ii,I Just Wanna Get Along,life,along,0
+Life In Technicolor ii,I Just Wanna Get Along,life,last,0.3333333333333333
+Life In Technicolor ii,I Just Wanna Get Along,life,splash,0.2857142857142857
+Life In Technicolor ii,I Just Wanna Get Along,viva,wan,0.1111111111111111
+Life In Technicolor ii,I Just Wanna Get Along,viva,na,0.25
+Life In Technicolor ii,I Just Wanna Get Along,viva,get,0.47619047619047616
+Life In Technicolor ii,I Just Wanna Get Along,viva,along,0
+Life In Technicolor ii,I Just Wanna Get Along,viva,last,0.2857142857142857
+Life In Technicolor ii,I Just Wanna Get Along,viva,splash,0.5
+Life In Technicolor ii,I Just Wanna Get Along,la,wan,0.23529411764705882
+Life In Technicolor ii,I Just Wanna Get Along,la,na,0.875
+Life In Technicolor ii,I Just Wanna Get Along,la,get,0.19047619047619047
+Life In Technicolor ii,I Just Wanna Get Along,la,along,0
+Life In Technicolor ii,I Just Wanna Get Along,la,last,0.2857142857142857
+Life In Technicolor ii,I Just Wanna Get Along,la,splash,0.25
+Life In Technicolor ii,I Just Wanna Get Along,march,wan,0.1111111111111111
+Life In Technicolor ii,I Just Wanna Get Along,march,na,0.25
+Life In Technicolor ii,I Just Wanna Get Along,march,get,0.19047619047619047
+Life In Technicolor ii,I Just Wanna Get Along,march,along,0
+Life In Technicolor ii,I Just Wanna Get Along,march,last,0.42857142857142855
+Life In Technicolor ii,I Just Wanna Get Along,march,splash,0.25
+Life In Technicolor ii,I Just Wanna Get Along,edition,wan,0.47619047619047616
+Life In Technicolor ii,I Just Wanna Get Along,edition,na,0.2222222222222222
+Life In Technicolor ii,I Just Wanna Get Along,edition,get,0.08333333333333333
+Life In Technicolor ii,I Just Wanna Get Along,edition,along,0
+Life In Technicolor ii,I Just Wanna Get Along,edition,last,0.11764705882352941
+Life In Technicolor ii,I Just Wanna Get Along,edition,splash,0.10526315789473684
+Life In Technicolor ii,New Year,technicolor,new,0
+Life In Technicolor ii,New Year,technicolor,year,0.2857142857142857
+Life In Technicolor ii,New Year,technicolor,last,0.2857142857142857
+Life In Technicolor ii,New Year,technicolor,splash,0.375
+Life In Technicolor ii,New Year,ii,new,0
+Life In Technicolor ii,New Year,ii,year,0.42857142857142855
+Life In Technicolor ii,New Year,ii,last,0.42857142857142855
+Life In Technicolor ii,New Year,ii,splash,0.25
+Life In Technicolor ii,New Year,life,new,0
+Life In Technicolor ii,New Year,life,year,0.3333333333333333
+Life In Technicolor ii,New Year,life,last,0.3333333333333333
+Life In Technicolor ii,New Year,life,splash,0.2857142857142857
+Life In Technicolor ii,New Year,viva,new,0
+Life In Technicolor ii,New Year,viva,year,0.2857142857142857
+Life In Technicolor ii,New Year,viva,last,0.2857142857142857
+Life In Technicolor ii,New Year,viva,splash,0.5
+Life In Technicolor ii,New Year,la,new,0
+Life In Technicolor ii,New Year,la,year,0.2857142857142857
+Life In Technicolor ii,New Year,la,last,0.2857142857142857
+Life In Technicolor ii,New Year,la,splash,0.25
+Life In Technicolor ii,New Year,march,new,0
+Life In Technicolor ii,New Year,march,year,0.7142857142857143
+Life In Technicolor ii,New Year,march,last,0.42857142857142855
+Life In Technicolor ii,New Year,march,splash,0.25
+Life In Technicolor ii,New Year,edition,new,0
+Life In Technicolor ii,New Year,edition,year,0.11764705882352941
+Life In Technicolor ii,New Year,edition,last,0.11764705882352941
+Life In Technicolor ii,New Year,edition,splash,0.10526315789473684
+Life In Technicolor ii,Drivin On 9,technicolor,last,0.2857142857142857
+Life In Technicolor ii,Drivin On 9,technicolor,splash,0.375
+Life In Technicolor ii,Drivin On 9,ii,last,0.42857142857142855
+Life In Technicolor ii,Drivin On 9,ii,splash,0.25
+Life In Technicolor ii,Drivin On 9,life,last,0.3333333333333333
+Life In Technicolor ii,Drivin On 9,life,splash,0.2857142857142857
+Life In Technicolor ii,Drivin On 9,viva,last,0.2857142857142857
+Life In Technicolor ii,Drivin On 9,viva,splash,0.5
+Life In Technicolor ii,Drivin On 9,la,last,0.2857142857142857
+Life In Technicolor ii,Drivin On 9,la,splash,0.25
+Life In Technicolor ii,Drivin On 9,march,last,0.42857142857142855
+Life In Technicolor ii,Drivin On 9,march,splash,0.25
+Life In Technicolor ii,Drivin On 9,edition,last,0.11764705882352941
+Life In Technicolor ii,Drivin On 9,edition,splash,0.10526315789473684
+Life In Technicolor ii,Talk About The Blues,technicolor,talk,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,technicolor,blues,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,technicolor,matador,0.14285714285714285
+Life In Technicolor ii,Talk About The Blues,technicolor,records,0.2857142857142857
+Life In Technicolor ii,Talk About The Blues,technicolor,anniversary,0.25
+Life In Technicolor ii,Talk About The Blues,technicolor,anthology,0.10526315789473684
+Life In Technicolor ii,Talk About The Blues,technicolor,nice,0.1111111111111111
+Life In Technicolor ii,Talk About The Blues,ii,talk,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,ii,blues,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,ii,matador,0.14285714285714285
+Life In Technicolor ii,Talk About The Blues,ii,records,0.2857142857142857
+Life In Technicolor ii,Talk About The Blues,ii,anniversary,0.375
+Life In Technicolor ii,Talk About The Blues,ii,anthology,0.10526315789473684
+Life In Technicolor ii,Talk About The Blues,ii,nice,0.1111111111111111
+Life In Technicolor ii,Talk About The Blues,life,talk,0.3076923076923077
+Life In Technicolor ii,Talk About The Blues,life,blues,0.3076923076923077
+Life In Technicolor ii,Talk About The Blues,life,matador,0.16666666666666666
+Life In Technicolor ii,Talk About The Blues,life,records,0.3333333333333333
+Life In Technicolor ii,Talk About The Blues,life,anniversary,0.2857142857142857
+Life In Technicolor ii,Talk About The Blues,life,anthology,0.11764705882352941
+Life In Technicolor ii,Talk About The Blues,life,nice,0.125
+Life In Technicolor ii,Talk About The Blues,viva,talk,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,viva,blues,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,viva,matador,0.14285714285714285
+Life In Technicolor ii,Talk About The Blues,viva,records,0.2857142857142857
+Life In Technicolor ii,Talk About The Blues,viva,anniversary,0.25
+Life In Technicolor ii,Talk About The Blues,viva,anthology,0.10526315789473684
+Life In Technicolor ii,Talk About The Blues,viva,nice,0.1111111111111111
+Life In Technicolor ii,Talk About The Blues,la,talk,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,la,blues,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,la,matador,0.3076923076923077
+Life In Technicolor ii,Talk About The Blues,la,records,0.2857142857142857
+Life In Technicolor ii,Talk About The Blues,la,anniversary,0.25
+Life In Technicolor ii,Talk About The Blues,la,anthology,0.2222222222222222
+Life In Technicolor ii,Talk About The Blues,la,nice,0.23529411764705882
+Life In Technicolor ii,Talk About The Blues,march,talk,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,march,blues,0.26666666666666666
+Life In Technicolor ii,Talk About The Blues,march,matador,0.14285714285714285
+Life In Technicolor ii,Talk About The Blues,march,records,0.2857142857142857
+Life In Technicolor ii,Talk About The Blues,march,anniversary,0.625
+Life In Technicolor ii,Talk About The Blues,march,anthology,0.10526315789473684
+Life In Technicolor ii,Talk About The Blues,march,nice,0.1111111111111111
+Life In Technicolor ii,Talk About The Blues,edition,talk,0.1111111111111111
+Life In Technicolor ii,Talk About The Blues,edition,blues,0.1111111111111111
+Life In Technicolor ii,Talk About The Blues,edition,matador,0.4
+Life In Technicolor ii,Talk About The Blues,edition,records,0.11764705882352941
+Life In Technicolor ii,Talk About The Blues,edition,anniversary,0.10526315789473684
+Life In Technicolor ii,Talk About The Blues,edition,anthology,0.8181818181818182
+Life In Technicolor ii,Talk About The Blues,edition,nice,0.2857142857142857
+Life In Technicolor ii,Flipside,technicolor,last,0.2857142857142857
+Life In Technicolor ii,Flipside,technicolor,splash,0.375
+Life In Technicolor ii,Flipside,ii,last,0.42857142857142855
+Life In Technicolor ii,Flipside,ii,splash,0.25
+Life In Technicolor ii,Flipside,life,last,0.3333333333333333
+Life In Technicolor ii,Flipside,life,splash,0.2857142857142857
+Life In Technicolor ii,Flipside,viva,last,0.2857142857142857
+Life In Technicolor ii,Flipside,viva,splash,0.5
+Life In Technicolor ii,Flipside,la,last,0.2857142857142857
+Life In Technicolor ii,Flipside,la,splash,0.25
+Life In Technicolor ii,Flipside,march,last,0.42857142857142855
+Life In Technicolor ii,Flipside,march,splash,0.25
+Life In Technicolor ii,Flipside,edition,last,0.11764705882352941
+Life In Technicolor ii,Flipside,edition,splash,0.10526315789473684
+The Scientist,Cannonball,scientist,cannonball,0.42105263157894735
+The Scientist,Cannonball,scientist,cannonball,0.42105263157894735
+The Scientist,Cannonball,scientist,cannonball,0.42105263157894735
+The Scientist,Cannonball,scientist,cannonball,0.42105263157894735
+The Scientist,Invisible Man,scientist,invisible,0
+The Scientist,Invisible Man,scientist,man,0.7058823529411765
+The Scientist,Invisible Man,scientist,last,0.18181818181818182
+The Scientist,Invisible Man,scientist,splash,0.15384615384615385
+The Scientist,Invisible Man,scientist,invisible,0
+The Scientist,Invisible Man,scientist,man,0.7058823529411765
+The Scientist,Invisible Man,scientist,last,0.18181818181818182
+The Scientist,Invisible Man,scientist,splash,0.15384615384615385
+The Scientist,No Aloha,scientist,hell,0.46153846153846156
+The Scientist,No Aloha,scientist,aloha,0.18181818181818182
+The Scientist,No Aloha,scientist,last,0.18181818181818182
+The Scientist,No Aloha,scientist,splash,0.15384615384615385
+The Scientist,No Aloha,scientist,hell,0.46153846153846156
+The Scientist,No Aloha,scientist,aloha,0.18181818181818182
+The Scientist,No Aloha,scientist,last,0.18181818181818182
+The Scientist,No Aloha,scientist,splash,0.15384615384615385
+The Scientist,Mad Lucas,scientist,mad,0
+The Scientist,Mad Lucas,scientist,lucas,0.631578947368421
+The Scientist,Mad Lucas,scientist,last,0.18181818181818182
+The Scientist,Mad Lucas,scientist,splash,0.15384615384615385
+The Scientist,Mad Lucas,scientist,mad,0
+The Scientist,Mad Lucas,scientist,lucas,0.631578947368421
+The Scientist,Mad Lucas,scientist,last,0.18181818181818182
+The Scientist,Mad Lucas,scientist,splash,0.15384615384615385
+The Scientist,Roi (reprise),scientist,recovery,0.14285714285714285
+The Scientist,Roi (reprise),scientist,king,0.6666666666666666
+The Scientist,Roi (reprise),scientist,last,0.18181818181818182
+The Scientist,Roi (reprise),scientist,splash,0.15384615384615385
+The Scientist,Roi (reprise),scientist,recovery,0.14285714285714285
+The Scientist,Roi (reprise),scientist,king,0.6666666666666666
+The Scientist,Roi (reprise),scientist,last,0.18181818181818182
+The Scientist,Roi (reprise),scientist,splash,0.15384615384615385
+The Scientist,Gloomy Sunday,scientist,gloomy,0
+The Scientist,Gloomy Sunday,scientist,sunday,0.14285714285714285
+The Scientist,Gloomy Sunday,scientist,south,0.42857142857142855
+The Scientist,Gloomy Sunday,scientist,gloomy,0
+The Scientist,Gloomy Sunday,scientist,sunday,0.14285714285714285
+The Scientist,Gloomy Sunday,scientist,south,0.42857142857142855
+The Scientist,Roi,scientist,king,0.6666666666666666
+The Scientist,Roi,scientist,last,0.18181818181818182
+The Scientist,Roi,scientist,splash,0.15384615384615385
+The Scientist,Roi,scientist,king,0.6666666666666666
+The Scientist,Roi,scientist,last,0.18181818181818182
+The Scientist,Roi,scientist,splash,0.15384615384615385
+The Scientist,Do You Love Me Now ?,scientist,love,0.16666666666666666
+The Scientist,Do You Love Me Now ?,scientist,last,0.18181818181818182
+The Scientist,Do You Love Me Now ?,scientist,splash,0.15384615384615385
+The Scientist,Do You Love Me Now ?,scientist,love,0.16666666666666666
+The Scientist,Do You Love Me Now ?,scientist,last,0.18181818181818182
+The Scientist,Do You Love Me Now ?,scientist,splash,0.15384615384615385
+The Scientist,Hag,scientist,hag,0.631578947368421
+The Scientist,Hag,scientist,last,0.18181818181818182
+The Scientist,Hag,scientist,splash,0.15384615384615385
+The Scientist,Hag,scientist,hag,0.631578947368421
+The Scientist,Hag,scientist,last,0.18181818181818182
+The Scientist,Hag,scientist,splash,0.15384615384615385
+The Scientist,Evidence,scientist,evidence,0.18181818181818182
+The Scientist,Evidence,scientist,faith,0.16666666666666666
+The Scientist,Evidence,scientist,best,0.15384615384615385
+The Scientist,Evidence,scientist,evidence,0.18181818181818182
+The Scientist,Evidence,scientist,faith,0.16666666666666666
+The Scientist,Evidence,scientist,best,0.15384615384615385
+The Scientist,Saints,scientist,saints,0.14285714285714285
+The Scientist,Saints,scientist,last,0.18181818181818182
+The Scientist,Saints,scientist,splash,0.15384615384615385
+The Scientist,Saints,scientist,saints,0.14285714285714285
+The Scientist,Saints,scientist,last,0.18181818181818182
+The Scientist,Saints,scientist,splash,0.15384615384615385
+The Scientist,S.O.S.,scientist,sos,0.18181818181818182
+The Scientist,S.O.S.,scientist,last,0.18181818181818182
+The Scientist,S.O.S.,scientist,splash,0.15384615384615385
+The Scientist,S.O.S.,scientist,sos,0.18181818181818182
+The Scientist,S.O.S.,scientist,last,0.18181818181818182
+The Scientist,S.O.S.,scientist,splash,0.15384615384615385
+The Scientist,Divine Hammer,scientist,divine,0.14285714285714285
+The Scientist,Divine Hammer,scientist,hammer,0.42105263157894735
+The Scientist,Divine Hammer,scientist,last,0.18181818181818182
+The Scientist,Divine Hammer,scientist,splash,0.15384615384615385
+The Scientist,Divine Hammer,scientist,divine,0.14285714285714285
+The Scientist,Divine Hammer,scientist,hammer,0.42105263157894735
+The Scientist,Divine Hammer,scientist,last,0.18181818181818182
+The Scientist,Divine Hammer,scientist,splash,0.15384615384615385
+The Scientist,One Step Beyond,scientist,one,0.15384615384615385
+The Scientist,One Step Beyond,scientist,step,0.125
+The Scientist,One Step Beyond,scientist,beyond,0
+The Scientist,One Step Beyond,scientist,complete,0
+The Scientist,One Step Beyond,scientist,madness,0.14285714285714285
+The Scientist,One Step Beyond,scientist,one,0.15384615384615385
+The Scientist,One Step Beyond,scientist,step,0.125
+The Scientist,One Step Beyond,scientist,beyond,0
+The Scientist,One Step Beyond,scientist,complete,0
+The Scientist,One Step Beyond,scientist,madness,0.14285714285714285
+The Scientist,Ready For The Floor (Album Version),scientist,album,0.5
+The Scientist,Ready For The Floor (Album Version),scientist,version,0.15384615384615385
+The Scientist,Ready For The Floor (Album Version),scientist,ready,0.18181818181818182
+The Scientist,Ready For The Floor (Album Version),scientist,floor,0.5
+The Scientist,Ready For The Floor (Album Version),scientist,best,0.15384615384615385
+The Scientist,Ready For The Floor (Album Version),scientist,bands,0.2
+The Scientist,Ready For The Floor (Album Version),scientist,album,0.5
+The Scientist,Ready For The Floor (Album Version),scientist,version,0.15384615384615385
+The Scientist,Ready For The Floor (Album Version),scientist,ready,0.18181818181818182
+The Scientist,Ready For The Floor (Album Version),scientist,floor,0.5
+The Scientist,Ready For The Floor (Album Version),scientist,best,0.15384615384615385
+The Scientist,Ready For The Floor (Album Version),scientist,bands,0.2
+The Scientist,I Just Wanna Get Along,scientist,wan,0.4444444444444444
+The Scientist,I Just Wanna Get Along,scientist,na,0.3333333333333333
+The Scientist,I Just Wanna Get Along,scientist,get,0.1111111111111111
+The Scientist,I Just Wanna Get Along,scientist,along,0
+The Scientist,I Just Wanna Get Along,scientist,last,0.18181818181818182
+The Scientist,I Just Wanna Get Along,scientist,splash,0.15384615384615385
+The Scientist,I Just Wanna Get Along,scientist,wan,0.4444444444444444
+The Scientist,I Just Wanna Get Along,scientist,na,0.3333333333333333
+The Scientist,I Just Wanna Get Along,scientist,get,0.1111111111111111
+The Scientist,I Just Wanna Get Along,scientist,along,0
+The Scientist,I Just Wanna Get Along,scientist,last,0.18181818181818182
+The Scientist,I Just Wanna Get Along,scientist,splash,0.15384615384615385
+The Scientist,New Year,scientist,new,0
+The Scientist,New Year,scientist,year,0.18181818181818182
+The Scientist,New Year,scientist,last,0.18181818181818182
+The Scientist,New Year,scientist,splash,0.15384615384615385
+The Scientist,New Year,scientist,new,0
+The Scientist,New Year,scientist,year,0.18181818181818182
+The Scientist,New Year,scientist,last,0.18181818181818182
+The Scientist,New Year,scientist,splash,0.15384615384615385
+The Scientist,Drivin On 9,scientist,last,0.18181818181818182
+The Scientist,Drivin On 9,scientist,splash,0.15384615384615385
+The Scientist,Drivin On 9,scientist,last,0.18181818181818182
+The Scientist,Drivin On 9,scientist,splash,0.15384615384615385
+The Scientist,Talk About The Blues,scientist,talk,0.16666666666666666
+The Scientist,Talk About The Blues,scientist,blues,0.16666666666666666
+The Scientist,Talk About The Blues,scientist,matador,0.7058823529411765
+The Scientist,Talk About The Blues,scientist,records,0.18181818181818182
+The Scientist,Talk About The Blues,scientist,anniversary,0.15384615384615385
+The Scientist,Talk About The Blues,scientist,anthology,0.42105263157894735
+The Scientist,Talk About The Blues,scientist,nice,0.35294117647058826
+The Scientist,Talk About The Blues,scientist,talk,0.16666666666666666
+The Scientist,Talk About The Blues,scientist,blues,0.16666666666666666
+The Scientist,Talk About The Blues,scientist,matador,0.7058823529411765
+The Scientist,Talk About The Blues,scientist,records,0.18181818181818182
+The Scientist,Talk About The Blues,scientist,anniversary,0.15384615384615385
+The Scientist,Talk About The Blues,scientist,anthology,0.42105263157894735
+The Scientist,Talk About The Blues,scientist,nice,0.35294117647058826
+The Scientist,Flipside,scientist,last,0.18181818181818182
+The Scientist,Flipside,scientist,splash,0.15384615384615385
+The Scientist,Flipside,scientist,last,0.18181818181818182
+The Scientist,Flipside,scientist,splash,0.15384615384615385
+In My Place,Cannonball,place,cannonball,0.35294117647058826
+In My Place,Cannonball,place,cannonball,0.35294117647058826
+In My Place,Cannonball,rush,cannonball,0.1
+In My Place,Cannonball,rush,cannonball,0.1
+In My Place,Cannonball,head,cannonball,0.2222222222222222
+In My Place,Cannonball,head,cannonball,0.2222222222222222
+In My Place,Cannonball,blood,cannonball,0.2222222222222222
+In My Place,Cannonball,blood,cannonball,0.2222222222222222
+In My Place,Invisible Man,place,invisible,0
+In My Place,Invisible Man,place,man,0.42857142857142855
+In My Place,Invisible Man,place,last,0.16666666666666666
+In My Place,Invisible Man,place,splash,0.14285714285714285
+In My Place,Invisible Man,rush,invisible,0
+In My Place,Invisible Man,rush,man,0.13333333333333333
+In My Place,Invisible Man,rush,last,0.26666666666666666
+In My Place,Invisible Man,rush,splash,0.47058823529411764
+In My Place,Invisible Man,head,invisible,0
+In My Place,Invisible Man,head,man,0.3076923076923077
+In My Place,Invisible Man,head,last,0.15384615384615385
+In My Place,Invisible Man,head,splash,0.13333333333333333
+In My Place,Invisible Man,blood,invisible,0
+In My Place,Invisible Man,blood,man,0.3076923076923077
+In My Place,Invisible Man,blood,last,0.2857142857142857
+In My Place,Invisible Man,blood,splash,0.25
+In My Place,No Aloha,place,hell,0.6666666666666666
+In My Place,No Aloha,place,aloha,0.16666666666666666
+In My Place,No Aloha,place,last,0.16666666666666666
+In My Place,No Aloha,place,splash,0.14285714285714285
+In My Place,No Aloha,rush,hell,0.13333333333333333
+In My Place,No Aloha,rush,aloha,0.26666666666666666
+In My Place,No Aloha,rush,last,0.26666666666666666
+In My Place,No Aloha,rush,splash,0.47058823529411764
+In My Place,No Aloha,head,hell,0.3076923076923077
+In My Place,No Aloha,head,aloha,0.15384615384615385
+In My Place,No Aloha,head,last,0.15384615384615385
+In My Place,No Aloha,head,splash,0.13333333333333333
+In My Place,No Aloha,blood,hell,0.3076923076923077
+In My Place,No Aloha,blood,aloha,0.2857142857142857
+In My Place,No Aloha,blood,last,0.2857142857142857
+In My Place,No Aloha,blood,splash,0.25
+In My Place,Mad Lucas,place,mad,0
+In My Place,Mad Lucas,place,lucas,0.375
+In My Place,Mad Lucas,place,last,0.16666666666666666
+In My Place,Mad Lucas,place,splash,0.14285714285714285
+In My Place,Mad Lucas,rush,mad,0
+In My Place,Mad Lucas,rush,lucas,0.11764705882352941
+In My Place,Mad Lucas,rush,last,0.26666666666666666
+In My Place,Mad Lucas,rush,splash,0.47058823529411764
+In My Place,Mad Lucas,head,mad,0
+In My Place,Mad Lucas,head,lucas,0.26666666666666666
+In My Place,Mad Lucas,head,last,0.15384615384615385
+In My Place,Mad Lucas,head,splash,0.13333333333333333
+In My Place,Mad Lucas,blood,mad,0
+In My Place,Mad Lucas,blood,lucas,0.26666666666666666
+In My Place,Mad Lucas,blood,last,0.2857142857142857
+In My Place,Mad Lucas,blood,splash,0.25
+In My Place,Roi (reprise),place,recovery,0.13333333333333333
+In My Place,Roi (reprise),place,king,0.4
+In My Place,Roi (reprise),place,last,0.16666666666666666
+In My Place,Roi (reprise),place,splash,0.14285714285714285
+In My Place,Roi (reprise),rush,recovery,0.4444444444444444
+In My Place,Roi (reprise),rush,king,0.125
+In My Place,Roi (reprise),rush,last,0.26666666666666666
+In My Place,Roi (reprise),rush,splash,0.47058823529411764
+In My Place,Roi (reprise),head,recovery,0.125
+In My Place,Roi (reprise),head,king,0.2857142857142857
+In My Place,Roi (reprise),head,last,0.15384615384615385
+In My Place,Roi (reprise),head,splash,0.13333333333333333
+In My Place,Roi (reprise),blood,recovery,0.23529411764705882
+In My Place,Roi (reprise),blood,king,0.2857142857142857
+In My Place,Roi (reprise),blood,last,0.2857142857142857
+In My Place,Roi (reprise),blood,splash,0.25
+In My Place,Gloomy Sunday,place,gloomy,0
+In My Place,Gloomy Sunday,place,sunday,0.13333333333333333
+In My Place,Gloomy Sunday,place,south,0.6153846153846154
+In My Place,Gloomy Sunday,rush,gloomy,0
+In My Place,Gloomy Sunday,rush,sunday,0.2222222222222222
+In My Place,Gloomy Sunday,rush,south,0.125
+In My Place,Gloomy Sunday,head,gloomy,0
+In My Place,Gloomy Sunday,head,sunday,0.125
+In My Place,Gloomy Sunday,head,south,0.2857142857142857
+In My Place,Gloomy Sunday,blood,gloomy,0
+In My Place,Gloomy Sunday,blood,sunday,0.23529411764705882
+In My Place,Gloomy Sunday,blood,south,0.2857142857142857
+In My Place,Roi,place,king,0.4
+In My Place,Roi,place,last,0.16666666666666666
+In My Place,Roi,place,splash,0.14285714285714285
+In My Place,Roi,rush,king,0.125
+In My Place,Roi,rush,last,0.26666666666666666
+In My Place,Roi,rush,splash,0.47058823529411764
+In My Place,Roi,head,king,0.2857142857142857
+In My Place,Roi,head,last,0.15384615384615385
+In My Place,Roi,head,splash,0.13333333333333333
+In My Place,Roi,blood,king,0.2857142857142857
+In My Place,Roi,blood,last,0.2857142857142857
+In My Place,Roi,blood,splash,0.25
+In My Place,Do You Love Me Now ?,place,love,0.15384615384615385
+In My Place,Do You Love Me Now ?,place,last,0.16666666666666666
+In My Place,Do You Love Me Now ?,place,splash,0.14285714285714285
+In My Place,Do You Love Me Now ?,rush,love,0.25
+In My Place,Do You Love Me Now ?,rush,last,0.26666666666666666
+In My Place,Do You Love Me Now ?,rush,splash,0.47058823529411764
+In My Place,Do You Love Me Now ?,head,love,0.14285714285714285
+In My Place,Do You Love Me Now ?,head,last,0.15384615384615385
+In My Place,Do You Love Me Now ?,head,splash,0.13333333333333333
+In My Place,Do You Love Me Now ?,blood,love,0.26666666666666666
+In My Place,Do You Love Me Now ?,blood,last,0.2857142857142857
+In My Place,Do You Love Me Now ?,blood,splash,0.25
+In My Place,Hag,place,hag,0.375
+In My Place,Hag,place,last,0.16666666666666666
+In My Place,Hag,place,splash,0.14285714285714285
+In My Place,Hag,rush,hag,0.11764705882352941
+In My Place,Hag,rush,last,0.26666666666666666
+In My Place,Hag,rush,splash,0.47058823529411764
+In My Place,Hag,head,hag,0.26666666666666666
+In My Place,Hag,head,last,0.15384615384615385
+In My Place,Hag,head,splash,0.13333333333333333
+In My Place,Hag,blood,hag,0.26666666666666666
+In My Place,Hag,blood,last,0.2857142857142857
+In My Place,Hag,blood,splash,0.25
+In My Place,Evidence,place,evidence,0.16666666666666666
+In My Place,Evidence,place,faith,0.15384615384615385
+In My Place,Evidence,place,best,0.14285714285714285
+In My Place,Evidence,rush,evidence,0.4
+In My Place,Evidence,rush,faith,0.375
+In My Place,Evidence,rush,best,0.5882352941176471
+In My Place,Evidence,head,evidence,0.15384615384615385
+In My Place,Evidence,head,faith,0.14285714285714285
+In My Place,Evidence,head,best,0.13333333333333333
+In My Place,Evidence,blood,evidence,0.2857142857142857
+In My Place,Evidence,blood,faith,0.26666666666666666
+In My Place,Evidence,blood,best,0.25
+In My Place,Saints,place,saints,0.13333333333333333
+In My Place,Saints,place,last,0.16666666666666666
+In My Place,Saints,place,splash,0.14285714285714285
+In My Place,Saints,rush,saints,0.3333333333333333
+In My Place,Saints,rush,last,0.26666666666666666
+In My Place,Saints,rush,splash,0.47058823529411764
+In My Place,Saints,head,saints,0.125
+In My Place,Saints,head,last,0.15384615384615385
+In My Place,Saints,head,splash,0.13333333333333333
+In My Place,Saints,blood,saints,0.23529411764705882
+In My Place,Saints,blood,last,0.2857142857142857
+In My Place,Saints,blood,splash,0.25
+In My Place,S.O.S.,place,sos,0.16666666666666666
+In My Place,S.O.S.,place,last,0.16666666666666666
+In My Place,S.O.S.,place,splash,0.14285714285714285
+In My Place,S.O.S.,rush,sos,0.26666666666666666
+In My Place,S.O.S.,rush,last,0.26666666666666666
+In My Place,S.O.S.,rush,splash,0.47058823529411764
+In My Place,S.O.S.,head,sos,0.15384615384615385
+In My Place,S.O.S.,head,last,0.15384615384615385
+In My Place,S.O.S.,head,splash,0.13333333333333333
+In My Place,S.O.S.,blood,sos,0.2857142857142857
+In My Place,S.O.S.,blood,last,0.2857142857142857
+In My Place,S.O.S.,blood,splash,0.25
+In My Place,Divine Hammer,place,divine,0.13333333333333333
+In My Place,Divine Hammer,place,hammer,0.35294117647058826
+In My Place,Divine Hammer,place,last,0.16666666666666666
+In My Place,Divine Hammer,place,splash,0.14285714285714285
+In My Place,Divine Hammer,rush,divine,0.3333333333333333
+In My Place,Divine Hammer,rush,hammer,0.1
+In My Place,Divine Hammer,rush,last,0.26666666666666666
+In My Place,Divine Hammer,rush,splash,0.47058823529411764
+In My Place,Divine Hammer,head,divine,0.125
+In My Place,Divine Hammer,head,hammer,0.2222222222222222
+In My Place,Divine Hammer,head,last,0.15384615384615385
+In My Place,Divine Hammer,head,splash,0.13333333333333333
+In My Place,Divine Hammer,blood,divine,0.23529411764705882
+In My Place,Divine Hammer,blood,hammer,0.2222222222222222
+In My Place,Divine Hammer,blood,last,0.2857142857142857
+In My Place,Divine Hammer,blood,splash,0.25
+In My Place,One Step Beyond,place,one,0.14285714285714285
+In My Place,One Step Beyond,place,step,0.11764705882352941
+In My Place,One Step Beyond,place,beyond,0
+In My Place,One Step Beyond,place,complete,0
+In My Place,One Step Beyond,place,madness,0.13333333333333333
+In My Place,One Step Beyond,rush,one,0.23529411764705882
+In My Place,One Step Beyond,rush,step,0.6
+In My Place,One Step Beyond,rush,beyond,0
+In My Place,One Step Beyond,rush,complete,0
+In My Place,One Step Beyond,rush,madness,0.2222222222222222
+In My Place,One Step Beyond,head,one,0.13333333333333333
+In My Place,One Step Beyond,head,step,0.1111111111111111
+In My Place,One Step Beyond,head,beyond,0
+In My Place,One Step Beyond,head,complete,0
+In My Place,One Step Beyond,head,madness,0.125
+In My Place,One Step Beyond,blood,one,0.25
+In My Place,One Step Beyond,blood,step,0.21052631578947367
+In My Place,One Step Beyond,blood,beyond,0
+In My Place,One Step Beyond,blood,complete,0
+In My Place,One Step Beyond,blood,madness,0.23529411764705882
+In My Place,Ready For The Floor (Album Version),place,album,0.42857142857142855
+In My Place,Ready For The Floor (Album Version),place,version,0.14285714285714285
+In My Place,Ready For The Floor (Album Version),place,ready,0.16666666666666666
+In My Place,Ready For The Floor (Album Version),place,floor,0.42857142857142855
+In My Place,Ready For The Floor (Album Version),place,best,0.14285714285714285
+In My Place,Ready For The Floor (Album Version),place,bands,0.18181818181818182
+In My Place,Ready For The Floor (Album Version),rush,album,0.11764705882352941
+In My Place,Ready For The Floor (Album Version),rush,version,0.23529411764705882
+In My Place,Ready For The Floor (Album Version),rush,ready,0.26666666666666666
+In My Place,Ready For The Floor (Album Version),rush,floor,0.11764705882352941
+In My Place,Ready For The Floor (Album Version),rush,best,0.5882352941176471
+In My Place,Ready For The Floor (Album Version),rush,bands,0.2857142857142857
+In My Place,Ready For The Floor (Album Version),head,album,0.26666666666666666
+In My Place,Ready For The Floor (Album Version),head,version,0.13333333333333333
+In My Place,Ready For The Floor (Album Version),head,ready,0.15384615384615385
+In My Place,Ready For The Floor (Album Version),head,floor,0.26666666666666666
+In My Place,Ready For The Floor (Album Version),head,best,0.13333333333333333
+In My Place,Ready For The Floor (Album Version),head,bands,0.16666666666666666
+In My Place,Ready For The Floor (Album Version),blood,album,0.26666666666666666
+In My Place,Ready For The Floor (Album Version),blood,version,0.25
+In My Place,Ready For The Floor (Album Version),blood,ready,0.2857142857142857
+In My Place,Ready For The Floor (Album Version),blood,floor,0.26666666666666666
+In My Place,Ready For The Floor (Album Version),blood,best,0.25
+In My Place,Ready For The Floor (Album Version),blood,bands,0.3076923076923077
+In My Place,I Just Wanna Get Along,place,wan,0.375
+In My Place,I Just Wanna Get Along,place,na,0.3076923076923077
+In My Place,I Just Wanna Get Along,place,get,0.10526315789473684
+In My Place,I Just Wanna Get Along,place,along,0
+In My Place,I Just Wanna Get Along,place,last,0.16666666666666666
+In My Place,I Just Wanna Get Along,place,splash,0.14285714285714285
+In My Place,I Just Wanna Get Along,rush,wan,0.10526315789473684
+In My Place,I Just Wanna Get Along,rush,na,0.23529411764705882
+In My Place,I Just Wanna Get Along,rush,get,0.7272727272727273
+In My Place,I Just Wanna Get Along,rush,along,0
+In My Place,I Just Wanna Get Along,rush,last,0.26666666666666666
+In My Place,I Just Wanna Get Along,rush,splash,0.47058823529411764
+In My Place,I Just Wanna Get Along,head,wan,0.23529411764705882
+In My Place,I Just Wanna Get Along,head,na,0.2857142857142857
+In My Place,I Just Wanna Get Along,head,get,0.1
+In My Place,I Just Wanna Get Along,head,along,0
+In My Place,I Just Wanna Get Along,head,last,0.15384615384615385
+In My Place,I Just Wanna Get Along,head,splash,0.13333333333333333
+In My Place,I Just Wanna Get Along,blood,wan,0.23529411764705882
+In My Place,I Just Wanna Get Along,blood,na,0.5
+In My Place,I Just Wanna Get Along,blood,get,0.19047619047619047
+In My Place,I Just Wanna Get Along,blood,along,0
+In My Place,I Just Wanna Get Along,blood,last,0.2857142857142857
+In My Place,I Just Wanna Get Along,blood,splash,0.25
+In My Place,New Year,place,new,0
+In My Place,New Year,place,year,0.16666666666666666
+In My Place,New Year,place,last,0.16666666666666666
+In My Place,New Year,place,splash,0.14285714285714285
+In My Place,New Year,rush,new,0
+In My Place,New Year,rush,year,0.26666666666666666
+In My Place,New Year,rush,last,0.26666666666666666
+In My Place,New Year,rush,splash,0.47058823529411764
+In My Place,New Year,head,new,0
+In My Place,New Year,head,year,0.15384615384615385
+In My Place,New Year,head,last,0.15384615384615385
+In My Place,New Year,head,splash,0.13333333333333333
+In My Place,New Year,blood,new,0
+In My Place,New Year,blood,year,0.2857142857142857
+In My Place,New Year,blood,last,0.2857142857142857
+In My Place,New Year,blood,splash,0.25
+In My Place,Drivin On 9,place,last,0.16666666666666666
+In My Place,Drivin On 9,place,splash,0.14285714285714285
+In My Place,Drivin On 9,rush,last,0.26666666666666666
+In My Place,Drivin On 9,rush,splash,0.47058823529411764
+In My Place,Drivin On 9,head,last,0.15384615384615385
+In My Place,Drivin On 9,head,splash,0.13333333333333333
+In My Place,Drivin On 9,blood,last,0.2857142857142857
+In My Place,Drivin On 9,blood,splash,0.25
+In My Place,Talk About The Blues,place,talk,0.15384615384615385
+In My Place,Talk About The Blues,place,blues,0.15384615384615385
+In My Place,Talk About The Blues,place,matador,0.42857142857142855
+In My Place,Talk About The Blues,place,records,0.16666666666666666
+In My Place,Talk About The Blues,place,anniversary,0.14285714285714285
+In My Place,Talk About The Blues,place,anthology,0.35294117647058826
+In My Place,Talk About The Blues,place,nice,0.5
+In My Place,Talk About The Blues,rush,talk,0.25
+In My Place,Talk About The Blues,rush,blues,0.25
+In My Place,Talk About The Blues,rush,matador,0.13333333333333333
+In My Place,Talk About The Blues,rush,records,0.26666666666666666
+In My Place,Talk About The Blues,rush,anniversary,0.23529411764705882
+In My Place,Talk About The Blues,rush,anthology,0.1
+In My Place,Talk About The Blues,rush,nice,0.10526315789473684
+In My Place,Talk About The Blues,head,talk,0.14285714285714285
+In My Place,Talk About The Blues,head,blues,0.14285714285714285
+In My Place,Talk About The Blues,head,matador,0.3076923076923077
+In My Place,Talk About The Blues,head,records,0.15384615384615385
+In My Place,Talk About The Blues,head,anniversary,0.13333333333333333
+In My Place,Talk About The Blues,head,anthology,0.2222222222222222
+In My Place,Talk About The Blues,head,nice,0.23529411764705882
+In My Place,Talk About The Blues,blood,talk,0.26666666666666666
+In My Place,Talk About The Blues,blood,blues,0.26666666666666666
+In My Place,Talk About The Blues,blood,matador,0.3076923076923077
+In My Place,Talk About The Blues,blood,records,0.2857142857142857
+In My Place,Talk About The Blues,blood,anniversary,0.25
+In My Place,Talk About The Blues,blood,anthology,0.2222222222222222
+In My Place,Talk About The Blues,blood,nice,0.23529411764705882
+In My Place,Flipside,place,last,0.16666666666666666
+In My Place,Flipside,place,splash,0.14285714285714285
+In My Place,Flipside,rush,last,0.26666666666666666
+In My Place,Flipside,rush,splash,0.47058823529411764
+In My Place,Flipside,head,last,0.15384615384615385
+In My Place,Flipside,head,splash,0.13333333333333333
+In My Place,Flipside,blood,last,0.2857142857142857
+In My Place,Flipside,blood,splash,0.25
+Lost!,Cannonball,lost,cannonball,0.125
+Lost!,Cannonball,lost,cannonball,0.125
+Lost!,Cannonball,viva,cannonball,0.10526315789473684
+Lost!,Cannonball,viva,cannonball,0.10526315789473684
+Lost!,Cannonball,la,cannonball,0.2222222222222222
+Lost!,Cannonball,la,cannonball,0.2222222222222222
+Lost!,Cannonball,friends,cannonball,0.42105263157894735
+Lost!,Cannonball,friends,cannonball,0.42105263157894735
+Lost!,Cannonball,death,cannonball,0.1111111111111111
+Lost!,Cannonball,death,cannonball,0.1111111111111111
+Lost!,Invisible Man,lost,invisible,0
+Lost!,Invisible Man,lost,man,0.18181818181818182
+Lost!,Invisible Man,lost,last,0.36363636363636365
+Lost!,Invisible Man,lost,splash,0.3076923076923077
+Lost!,Invisible Man,viva,invisible,0
+Lost!,Invisible Man,viva,man,0.14285714285714285
+Lost!,Invisible Man,viva,last,0.2857142857142857
+Lost!,Invisible Man,viva,splash,0.5
+Lost!,Invisible Man,la,invisible,0
+Lost!,Invisible Man,la,man,0.3076923076923077
+Lost!,Invisible Man,la,last,0.2857142857142857
+Lost!,Invisible Man,la,splash,0.25
+Lost!,Invisible Man,friends,invisible,0
+Lost!,Invisible Man,friends,man,0.7058823529411765
+Lost!,Invisible Man,friends,last,0.18181818181818182
+Lost!,Invisible Man,friends,splash,0.15384615384615385
+Lost!,Invisible Man,death,invisible,0
+Lost!,Invisible Man,death,man,0.15384615384615385
+Lost!,Invisible Man,death,last,0.3076923076923077
+Lost!,Invisible Man,death,splash,0.6666666666666666
+Lost!,No Aloha,lost,hell,0.18181818181818182
+Lost!,No Aloha,lost,aloha,0.36363636363636365
+Lost!,No Aloha,lost,last,0.36363636363636365
+Lost!,No Aloha,lost,splash,0.3076923076923077
+Lost!,No Aloha,viva,hell,0.14285714285714285
+Lost!,No Aloha,viva,aloha,0.2857142857142857
+Lost!,No Aloha,viva,last,0.2857142857142857
+Lost!,No Aloha,viva,splash,0.5
+Lost!,No Aloha,la,hell,0.3076923076923077
+Lost!,No Aloha,la,aloha,0.2857142857142857
+Lost!,No Aloha,la,last,0.2857142857142857
+Lost!,No Aloha,la,splash,0.25
+Lost!,No Aloha,friends,hell,0.46153846153846156
+Lost!,No Aloha,friends,aloha,0.18181818181818182
+Lost!,No Aloha,friends,last,0.18181818181818182
+Lost!,No Aloha,friends,splash,0.15384615384615385
+Lost!,No Aloha,death,hell,0.15384615384615385
+Lost!,No Aloha,death,aloha,0.3076923076923077
+Lost!,No Aloha,death,last,0.3076923076923077
+Lost!,No Aloha,death,splash,0.6666666666666666
+Lost!,Mad Lucas,lost,mad,0
+Lost!,Mad Lucas,lost,lucas,0.15384615384615385
+Lost!,Mad Lucas,lost,last,0.36363636363636365
+Lost!,Mad Lucas,lost,splash,0.3076923076923077
+Lost!,Mad Lucas,viva,mad,0
+Lost!,Mad Lucas,viva,lucas,0.125
+Lost!,Mad Lucas,viva,last,0.2857142857142857
+Lost!,Mad Lucas,viva,splash,0.5
+Lost!,Mad Lucas,la,mad,0
+Lost!,Mad Lucas,la,lucas,0.26666666666666666
+Lost!,Mad Lucas,la,last,0.2857142857142857
+Lost!,Mad Lucas,la,splash,0.25
+Lost!,Mad Lucas,friends,mad,0
+Lost!,Mad Lucas,friends,lucas,0.631578947368421
+Lost!,Mad Lucas,friends,last,0.18181818181818182
+Lost!,Mad Lucas,friends,splash,0.15384615384615385
+Lost!,Mad Lucas,death,mad,0
+Lost!,Mad Lucas,death,lucas,0.13333333333333333
+Lost!,Mad Lucas,death,last,0.3076923076923077
+Lost!,Mad Lucas,death,splash,0.6666666666666666
+Lost!,Roi (reprise),lost,recovery,0.2857142857142857
+Lost!,Roi (reprise),lost,king,0.16666666666666666
+Lost!,Roi (reprise),lost,last,0.36363636363636365
+Lost!,Roi (reprise),lost,splash,0.3076923076923077
+Lost!,Roi (reprise),viva,recovery,0.47058823529411764
+Lost!,Roi (reprise),viva,king,0.13333333333333333
+Lost!,Roi (reprise),viva,last,0.2857142857142857
+Lost!,Roi (reprise),viva,splash,0.5
+Lost!,Roi (reprise),la,recovery,0.23529411764705882
+Lost!,Roi (reprise),la,king,0.2857142857142857
+Lost!,Roi (reprise),la,last,0.2857142857142857
+Lost!,Roi (reprise),la,splash,0.25
+Lost!,Roi (reprise),friends,recovery,0.14285714285714285
+Lost!,Roi (reprise),friends,king,0.6666666666666666
+Lost!,Roi (reprise),friends,last,0.18181818181818182
+Lost!,Roi (reprise),friends,splash,0.15384615384615385
+Lost!,Roi (reprise),death,recovery,0.75
+Lost!,Roi (reprise),death,king,0.14285714285714285
+Lost!,Roi (reprise),death,last,0.3076923076923077
+Lost!,Roi (reprise),death,splash,0.6666666666666666
+Lost!,Gloomy Sunday,lost,gloomy,0
+Lost!,Gloomy Sunday,lost,sunday,0.2857142857142857
+Lost!,Gloomy Sunday,lost,south,0.16666666666666666
+Lost!,Gloomy Sunday,viva,gloomy,0
+Lost!,Gloomy Sunday,viva,sunday,0.23529411764705882
+Lost!,Gloomy Sunday,viva,south,0.13333333333333333
+Lost!,Gloomy Sunday,la,gloomy,0
+Lost!,Gloomy Sunday,la,sunday,0.23529411764705882
+Lost!,Gloomy Sunday,la,south,0.2857142857142857
+Lost!,Gloomy Sunday,friends,gloomy,0
+Lost!,Gloomy Sunday,friends,sunday,0.14285714285714285
+Lost!,Gloomy Sunday,friends,south,0.42857142857142855
+Lost!,Gloomy Sunday,death,gloomy,0
+Lost!,Gloomy Sunday,death,sunday,0.25
+Lost!,Gloomy Sunday,death,south,0.14285714285714285
+Lost!,Roi,lost,king,0.16666666666666666
+Lost!,Roi,lost,last,0.36363636363636365
+Lost!,Roi,lost,splash,0.3076923076923077
+Lost!,Roi,viva,king,0.13333333333333333
+Lost!,Roi,viva,last,0.2857142857142857
+Lost!,Roi,viva,splash,0.5
+Lost!,Roi,la,king,0.2857142857142857
+Lost!,Roi,la,last,0.2857142857142857
+Lost!,Roi,la,splash,0.25
+Lost!,Roi,friends,king,0.6666666666666666
+Lost!,Roi,friends,last,0.18181818181818182
+Lost!,Roi,friends,splash,0.15384615384615385
+Lost!,Roi,death,king,0.14285714285714285
+Lost!,Roi,death,last,0.3076923076923077
+Lost!,Roi,death,splash,0.6666666666666666
+Lost!,Do You Love Me Now ?,lost,love,0.3333333333333333
+Lost!,Do You Love Me Now ?,lost,last,0.36363636363636365
+Lost!,Do You Love Me Now ?,lost,splash,0.3076923076923077
+Lost!,Do You Love Me Now ?,viva,love,0.26666666666666666
+Lost!,Do You Love Me Now ?,viva,last,0.2857142857142857
+Lost!,Do You Love Me Now ?,viva,splash,0.5
+Lost!,Do You Love Me Now ?,la,love,0.26666666666666666
+Lost!,Do You Love Me Now ?,la,last,0.2857142857142857
+Lost!,Do You Love Me Now ?,la,splash,0.25
+Lost!,Do You Love Me Now ?,friends,love,0.16666666666666666
+Lost!,Do You Love Me Now ?,friends,last,0.18181818181818182
+Lost!,Do You Love Me Now ?,friends,splash,0.15384615384615385
+Lost!,Do You Love Me Now ?,death,love,0.2857142857142857
+Lost!,Do You Love Me Now ?,death,last,0.3076923076923077
+Lost!,Do You Love Me Now ?,death,splash,0.6666666666666666
+Lost!,Hag,lost,hag,0.15384615384615385
+Lost!,Hag,lost,last,0.36363636363636365
+Lost!,Hag,lost,splash,0.3076923076923077
+Lost!,Hag,viva,hag,0.125
+Lost!,Hag,viva,last,0.2857142857142857
+Lost!,Hag,viva,splash,0.5
+Lost!,Hag,la,hag,0.26666666666666666
+Lost!,Hag,la,last,0.2857142857142857
+Lost!,Hag,la,splash,0.25
+Lost!,Hag,friends,hag,0.631578947368421
+Lost!,Hag,friends,last,0.18181818181818182
+Lost!,Hag,friends,splash,0.15384615384615385
+Lost!,Hag,death,hag,0.13333333333333333
+Lost!,Hag,death,last,0.3076923076923077
+Lost!,Hag,death,splash,0.6666666666666666
+Lost!,Evidence,lost,evidence,0.36363636363636365
+Lost!,Evidence,lost,faith,0.3333333333333333
+Lost!,Evidence,lost,best,0.3076923076923077
+Lost!,Evidence,viva,evidence,0.42857142857142855
+Lost!,Evidence,viva,faith,0.4
+Lost!,Evidence,viva,best,0.625
+Lost!,Evidence,la,evidence,0.2857142857142857
+Lost!,Evidence,la,faith,0.26666666666666666
+Lost!,Evidence,la,best,0.25
+Lost!,Evidence,friends,evidence,0.18181818181818182
+Lost!,Evidence,friends,faith,0.16666666666666666
+Lost!,Evidence,friends,best,0.15384615384615385
+Lost!,Evidence,death,evidence,0.46153846153846156
+Lost!,Evidence,death,faith,0.42857142857142855
+Lost!,Evidence,death,best,0.5333333333333333
+Lost!,Saints,lost,saints,0.2857142857142857
+Lost!,Saints,lost,last,0.36363636363636365
+Lost!,Saints,lost,splash,0.3076923076923077
+Lost!,Saints,viva,saints,0.35294117647058826
+Lost!,Saints,viva,last,0.2857142857142857
+Lost!,Saints,viva,splash,0.5
+Lost!,Saints,la,saints,0.23529411764705882
+Lost!,Saints,la,last,0.2857142857142857
+Lost!,Saints,la,splash,0.25
+Lost!,Saints,friends,saints,0.14285714285714285
+Lost!,Saints,friends,last,0.18181818181818182
+Lost!,Saints,friends,splash,0.15384615384615385
+Lost!,Saints,death,saints,0.375
+Lost!,Saints,death,last,0.3076923076923077
+Lost!,Saints,death,splash,0.6666666666666666
+Lost!,S.O.S.,lost,sos,0.36363636363636365
+Lost!,S.O.S.,lost,last,0.36363636363636365
+Lost!,S.O.S.,lost,splash,0.3076923076923077
+Lost!,S.O.S.,viva,sos,0.2857142857142857
+Lost!,S.O.S.,viva,last,0.2857142857142857
+Lost!,S.O.S.,viva,splash,0.5
+Lost!,S.O.S.,la,sos,0.2857142857142857
+Lost!,S.O.S.,la,last,0.2857142857142857
+Lost!,S.O.S.,la,splash,0.25
+Lost!,S.O.S.,friends,sos,0.18181818181818182
+Lost!,S.O.S.,friends,last,0.18181818181818182
+Lost!,S.O.S.,friends,splash,0.15384615384615385
+Lost!,S.O.S.,death,sos,0.3076923076923077
+Lost!,S.O.S.,death,last,0.3076923076923077
+Lost!,S.O.S.,death,splash,0.6666666666666666
+Lost!,Divine Hammer,lost,divine,0.2857142857142857
+Lost!,Divine Hammer,lost,hammer,0.125
+Lost!,Divine Hammer,lost,last,0.36363636363636365
+Lost!,Divine Hammer,lost,splash,0.3076923076923077
+Lost!,Divine Hammer,viva,divine,0.35294117647058826
+Lost!,Divine Hammer,viva,hammer,0.10526315789473684
+Lost!,Divine Hammer,viva,last,0.2857142857142857
+Lost!,Divine Hammer,viva,splash,0.5
+Lost!,Divine Hammer,la,divine,0.23529411764705882
+Lost!,Divine Hammer,la,hammer,0.2222222222222222
+Lost!,Divine Hammer,la,last,0.2857142857142857
+Lost!,Divine Hammer,la,splash,0.25
+Lost!,Divine Hammer,friends,divine,0.14285714285714285
+Lost!,Divine Hammer,friends,hammer,0.42105263157894735
+Lost!,Divine Hammer,friends,last,0.18181818181818182
+Lost!,Divine Hammer,friends,splash,0.15384615384615385
+Lost!,Divine Hammer,death,divine,0.375
+Lost!,Divine Hammer,death,hammer,0.1111111111111111
+Lost!,Divine Hammer,death,last,0.3076923076923077
+Lost!,Divine Hammer,death,splash,0.6666666666666666
+Lost!,One Step Beyond,lost,one,0.3076923076923077
+Lost!,One Step Beyond,lost,step,0.25
+Lost!,One Step Beyond,lost,beyond,0
+Lost!,One Step Beyond,lost,complete,0
+Lost!,One Step Beyond,lost,madness,0.2857142857142857
+Lost!,One Step Beyond,viva,one,0.25
+Lost!,One Step Beyond,viva,step,0.5263157894736842
+Lost!,One Step Beyond,viva,beyond,0
+Lost!,One Step Beyond,viva,complete,0
+Lost!,One Step Beyond,viva,madness,0.23529411764705882
+Lost!,One Step Beyond,la,one,0.25
+Lost!,One Step Beyond,la,step,0.21052631578947367
+Lost!,One Step Beyond,la,beyond,0
+Lost!,One Step Beyond,la,complete,0
+Lost!,One Step Beyond,la,madness,0.23529411764705882
+Lost!,One Step Beyond,friends,one,0.15384615384615385
+Lost!,One Step Beyond,friends,step,0.125
+Lost!,One Step Beyond,friends,beyond,0
+Lost!,One Step Beyond,friends,complete,0
+Lost!,One Step Beyond,friends,madness,0.14285714285714285
+Lost!,One Step Beyond,death,one,0.26666666666666666
+Lost!,One Step Beyond,death,step,0.4444444444444444
+Lost!,One Step Beyond,death,beyond,0
+Lost!,One Step Beyond,death,complete,0
+Lost!,One Step Beyond,death,madness,0.25
+Lost!,Ready For The Floor (Album Version),lost,album,0.15384615384615385
+Lost!,Ready For The Floor (Album Version),lost,version,0.3076923076923077
+Lost!,Ready For The Floor (Album Version),lost,ready,0.36363636363636365
+Lost!,Ready For The Floor (Album Version),lost,floor,0.15384615384615385
+Lost!,Ready For The Floor (Album Version),lost,best,0.3076923076923077
+Lost!,Ready For The Floor (Album Version),lost,bands,0.6
+Lost!,Ready For The Floor (Album Version),viva,album,0.125
+Lost!,Ready For The Floor (Album Version),viva,version,0.25
+Lost!,Ready For The Floor (Album Version),viva,ready,0.2857142857142857
+Lost!,Ready For The Floor (Album Version),viva,floor,0.125
+Lost!,Ready For The Floor (Album Version),viva,best,0.625
+Lost!,Ready For The Floor (Album Version),viva,bands,0.3076923076923077
+Lost!,Ready For The Floor (Album Version),la,album,0.26666666666666666
+Lost!,Ready For The Floor (Album Version),la,version,0.25
+Lost!,Ready For The Floor (Album Version),la,ready,0.2857142857142857
+Lost!,Ready For The Floor (Album Version),la,floor,0.26666666666666666
+Lost!,Ready For The Floor (Album Version),la,best,0.25
+Lost!,Ready For The Floor (Album Version),la,bands,0.3076923076923077
+Lost!,Ready For The Floor (Album Version),friends,album,0.5
+Lost!,Ready For The Floor (Album Version),friends,version,0.15384615384615385
+Lost!,Ready For The Floor (Album Version),friends,ready,0.18181818181818182
+Lost!,Ready For The Floor (Album Version),friends,floor,0.5
+Lost!,Ready For The Floor (Album Version),friends,best,0.15384615384615385
+Lost!,Ready For The Floor (Album Version),friends,bands,0.2
+Lost!,Ready For The Floor (Album Version),death,album,0.13333333333333333
+Lost!,Ready For The Floor (Album Version),death,version,0.26666666666666666
+Lost!,Ready For The Floor (Album Version),death,ready,0.3076923076923077
+Lost!,Ready For The Floor (Album Version),death,floor,0.13333333333333333
+Lost!,Ready For The Floor (Album Version),death,best,0.5333333333333333
+Lost!,Ready For The Floor (Album Version),death,bands,0.3333333333333333
+Lost!,I Just Wanna Get Along,lost,wan,0.13333333333333333
+Lost!,I Just Wanna Get Along,lost,na,0.3076923076923077
+Lost!,I Just Wanna Get Along,lost,get,0.2222222222222222
+Lost!,I Just Wanna Get Along,lost,along,0
+Lost!,I Just Wanna Get Along,lost,last,0.36363636363636365
+Lost!,I Just Wanna Get Along,lost,splash,0.3076923076923077
+Lost!,I Just Wanna Get Along,viva,wan,0.1111111111111111
+Lost!,I Just Wanna Get Along,viva,na,0.25
+Lost!,I Just Wanna Get Along,viva,get,0.47619047619047616
+Lost!,I Just Wanna Get Along,viva,along,0
+Lost!,I Just Wanna Get Along,viva,last,0.2857142857142857
+Lost!,I Just Wanna Get Along,viva,splash,0.5
+Lost!,I Just Wanna Get Along,la,wan,0.23529411764705882
+Lost!,I Just Wanna Get Along,la,na,0.875
+Lost!,I Just Wanna Get Along,la,get,0.19047619047619047
+Lost!,I Just Wanna Get Along,la,along,0
+Lost!,I Just Wanna Get Along,la,last,0.2857142857142857
+Lost!,I Just Wanna Get Along,la,splash,0.25
+Lost!,I Just Wanna Get Along,friends,wan,0.4444444444444444
+Lost!,I Just Wanna Get Along,friends,na,0.3333333333333333
+Lost!,I Just Wanna Get Along,friends,get,0.1111111111111111
+Lost!,I Just Wanna Get Along,friends,along,0
+Lost!,I Just Wanna Get Along,friends,last,0.18181818181818182
+Lost!,I Just Wanna Get Along,friends,splash,0.15384615384615385
+Lost!,I Just Wanna Get Along,death,wan,0.11764705882352941
+Lost!,I Just Wanna Get Along,death,na,0.26666666666666666
+Lost!,I Just Wanna Get Along,death,get,0.4
+Lost!,I Just Wanna Get Along,death,along,0
+Lost!,I Just Wanna Get Along,death,last,0.3076923076923077
+Lost!,I Just Wanna Get Along,death,splash,0.6666666666666666
+Lost!,New Year,lost,new,0
+Lost!,New Year,lost,year,0.36363636363636365
+Lost!,New Year,lost,last,0.36363636363636365
+Lost!,New Year,lost,splash,0.3076923076923077
+Lost!,New Year,viva,new,0
+Lost!,New Year,viva,year,0.2857142857142857
+Lost!,New Year,viva,last,0.2857142857142857
+Lost!,New Year,viva,splash,0.5
+Lost!,New Year,la,new,0
+Lost!,New Year,la,year,0.2857142857142857
+Lost!,New Year,la,last,0.2857142857142857
+Lost!,New Year,la,splash,0.25
+Lost!,New Year,friends,new,0
+Lost!,New Year,friends,year,0.18181818181818182
+Lost!,New Year,friends,last,0.18181818181818182
+Lost!,New Year,friends,splash,0.15384615384615385
+Lost!,New Year,death,new,0
+Lost!,New Year,death,year,0.3076923076923077
+Lost!,New Year,death,last,0.3076923076923077
+Lost!,New Year,death,splash,0.6666666666666666
+Lost!,Drivin On 9,lost,last,0.36363636363636365
+Lost!,Drivin On 9,lost,splash,0.3076923076923077
+Lost!,Drivin On 9,viva,last,0.2857142857142857
+Lost!,Drivin On 9,viva,splash,0.5
+Lost!,Drivin On 9,la,last,0.2857142857142857
+Lost!,Drivin On 9,la,splash,0.25
+Lost!,Drivin On 9,friends,last,0.18181818181818182
+Lost!,Drivin On 9,friends,splash,0.15384615384615385
+Lost!,Drivin On 9,death,last,0.3076923076923077
+Lost!,Drivin On 9,death,splash,0.6666666666666666
+Lost!,Talk About The Blues,lost,talk,0.3333333333333333
+Lost!,Talk About The Blues,lost,blues,0.3333333333333333
+Lost!,Talk About The Blues,lost,matador,0.18181818181818182
+Lost!,Talk About The Blues,lost,records,0.36363636363636365
+Lost!,Talk About The Blues,lost,anniversary,0.3076923076923077
+Lost!,Talk About The Blues,lost,anthology,0.125
+Lost!,Talk About The Blues,lost,nice,0.13333333333333333
+Lost!,Talk About The Blues,viva,talk,0.26666666666666666
+Lost!,Talk About The Blues,viva,blues,0.26666666666666666
+Lost!,Talk About The Blues,viva,matador,0.14285714285714285
+Lost!,Talk About The Blues,viva,records,0.2857142857142857
+Lost!,Talk About The Blues,viva,anniversary,0.25
+Lost!,Talk About The Blues,viva,anthology,0.10526315789473684
+Lost!,Talk About The Blues,viva,nice,0.1111111111111111
+Lost!,Talk About The Blues,la,talk,0.26666666666666666
+Lost!,Talk About The Blues,la,blues,0.26666666666666666
+Lost!,Talk About The Blues,la,matador,0.3076923076923077
+Lost!,Talk About The Blues,la,records,0.2857142857142857
+Lost!,Talk About The Blues,la,anniversary,0.25
+Lost!,Talk About The Blues,la,anthology,0.2222222222222222
+Lost!,Talk About The Blues,la,nice,0.23529411764705882
+Lost!,Talk About The Blues,friends,talk,0.16666666666666666
+Lost!,Talk About The Blues,friends,blues,0.16666666666666666
+Lost!,Talk About The Blues,friends,matador,0.7058823529411765
+Lost!,Talk About The Blues,friends,records,0.18181818181818182
+Lost!,Talk About The Blues,friends,anniversary,0.15384615384615385
+Lost!,Talk About The Blues,friends,anthology,0.42105263157894735
+Lost!,Talk About The Blues,friends,nice,0.35294117647058826
+Lost!,Talk About The Blues,death,talk,0.2857142857142857
+Lost!,Talk About The Blues,death,blues,0.2857142857142857
+Lost!,Talk About The Blues,death,matador,0.15384615384615385
+Lost!,Talk About The Blues,death,records,0.3076923076923077
+Lost!,Talk About The Blues,death,anniversary,0.26666666666666666
+Lost!,Talk About The Blues,death,anthology,0.1111111111111111
+Lost!,Talk About The Blues,death,nice,0.11764705882352941
+Lost!,Flipside,lost,last,0.36363636363636365
+Lost!,Flipside,lost,splash,0.3076923076923077
+Lost!,Flipside,viva,last,0.2857142857142857
+Lost!,Flipside,viva,splash,0.5
+Lost!,Flipside,la,last,0.2857142857142857
+Lost!,Flipside,la,splash,0.25
+Lost!,Flipside,friends,last,0.18181818181818182
+Lost!,Flipside,friends,splash,0.15384615384615385
+Lost!,Flipside,death,last,0.3076923076923077
+Lost!,Flipside,death,splash,0.6666666666666666
+Yellow,Cannonball,yellow,cannonball,0.10526315789473684
+Yellow,Cannonball,yellow,cannonball,0.10526315789473684
+Yellow,Cannonball,yellow,cannonball,0.10526315789473684
+Yellow,Cannonball,yellow,cannonball,0.10526315789473684
+Yellow,Invisible Man,yellow,invisible,0
+Yellow,Invisible Man,yellow,man,0.14285714285714285
+Yellow,Invisible Man,yellow,last,0.2857142857142857
+Yellow,Invisible Man,yellow,splash,0.25
+Yellow,Invisible Man,yellow,invisible,0
+Yellow,Invisible Man,yellow,man,0.14285714285714285
+Yellow,Invisible Man,yellow,last,0.2857142857142857
+Yellow,Invisible Man,yellow,splash,0.25
+Yellow,No Aloha,yellow,hell,0.14285714285714285
+Yellow,No Aloha,yellow,aloha,0.2857142857142857
+Yellow,No Aloha,yellow,last,0.2857142857142857
+Yellow,No Aloha,yellow,splash,0.25
+Yellow,No Aloha,yellow,hell,0.14285714285714285
+Yellow,No Aloha,yellow,aloha,0.2857142857142857
+Yellow,No Aloha,yellow,last,0.2857142857142857
+Yellow,No Aloha,yellow,splash,0.25
+Yellow,Mad Lucas,yellow,mad,0
+Yellow,Mad Lucas,yellow,lucas,0.125
+Yellow,Mad Lucas,yellow,last,0.2857142857142857
+Yellow,Mad Lucas,yellow,splash,0.25
+Yellow,Mad Lucas,yellow,mad,0
+Yellow,Mad Lucas,yellow,lucas,0.125
+Yellow,Mad Lucas,yellow,last,0.2857142857142857
+Yellow,Mad Lucas,yellow,splash,0.25
+Yellow,Roi (reprise),yellow,recovery,0.23529411764705882
+Yellow,Roi (reprise),yellow,king,0.13333333333333333
+Yellow,Roi (reprise),yellow,last,0.2857142857142857
+Yellow,Roi (reprise),yellow,splash,0.25
+Yellow,Roi (reprise),yellow,recovery,0.23529411764705882
+Yellow,Roi (reprise),yellow,king,0.13333333333333333
+Yellow,Roi (reprise),yellow,last,0.2857142857142857
+Yellow,Roi (reprise),yellow,splash,0.25
+Yellow,Gloomy Sunday,yellow,gloomy,0
+Yellow,Gloomy Sunday,yellow,sunday,0.23529411764705882
+Yellow,Gloomy Sunday,yellow,south,0.13333333333333333
+Yellow,Gloomy Sunday,yellow,gloomy,0
+Yellow,Gloomy Sunday,yellow,sunday,0.23529411764705882
+Yellow,Gloomy Sunday,yellow,south,0.13333333333333333
+Yellow,Roi,yellow,king,0.13333333333333333
+Yellow,Roi,yellow,last,0.2857142857142857
+Yellow,Roi,yellow,splash,0.25
+Yellow,Roi,yellow,king,0.13333333333333333
+Yellow,Roi,yellow,last,0.2857142857142857
+Yellow,Roi,yellow,splash,0.25
+Yellow,Do You Love Me Now ?,yellow,love,0.4
+Yellow,Do You Love Me Now ?,yellow,last,0.2857142857142857
+Yellow,Do You Love Me Now ?,yellow,splash,0.25
+Yellow,Do You Love Me Now ?,yellow,love,0.4
+Yellow,Do You Love Me Now ?,yellow,last,0.2857142857142857
+Yellow,Do You Love Me Now ?,yellow,splash,0.25
+Yellow,Hag,yellow,hag,0.125
+Yellow,Hag,yellow,last,0.2857142857142857
+Yellow,Hag,yellow,splash,0.25
+Yellow,Hag,yellow,hag,0.125
+Yellow,Hag,yellow,last,0.2857142857142857
+Yellow,Hag,yellow,splash,0.25
+Yellow,Evidence,yellow,evidence,0.2857142857142857
+Yellow,Evidence,yellow,faith,0.35294117647058826
+Yellow,Evidence,yellow,best,0.25
+Yellow,Evidence,yellow,evidence,0.2857142857142857
+Yellow,Evidence,yellow,faith,0.35294117647058826
+Yellow,Evidence,yellow,best,0.25
+Yellow,Saints,yellow,saints,0.23529411764705882
+Yellow,Saints,yellow,last,0.2857142857142857
+Yellow,Saints,yellow,splash,0.25
+Yellow,Saints,yellow,saints,0.23529411764705882
+Yellow,Saints,yellow,last,0.2857142857142857
+Yellow,Saints,yellow,splash,0.25
+Yellow,S.O.S.,yellow,sos,0.2857142857142857
+Yellow,S.O.S.,yellow,last,0.2857142857142857
+Yellow,S.O.S.,yellow,splash,0.25
+Yellow,S.O.S.,yellow,sos,0.2857142857142857
+Yellow,S.O.S.,yellow,last,0.2857142857142857
+Yellow,S.O.S.,yellow,splash,0.25
+Yellow,Divine Hammer,yellow,divine,0.23529411764705882
+Yellow,Divine Hammer,yellow,hammer,0.10526315789473684
+Yellow,Divine Hammer,yellow,last,0.2857142857142857
+Yellow,Divine Hammer,yellow,splash,0.25
+Yellow,Divine Hammer,yellow,divine,0.23529411764705882
+Yellow,Divine Hammer,yellow,hammer,0.10526315789473684
+Yellow,Divine Hammer,yellow,last,0.2857142857142857
+Yellow,Divine Hammer,yellow,splash,0.25
+Yellow,One Step Beyond,yellow,one,0.25
+Yellow,One Step Beyond,yellow,step,0.21052631578947367
+Yellow,One Step Beyond,yellow,beyond,0
+Yellow,One Step Beyond,yellow,complete,0
+Yellow,One Step Beyond,yellow,madness,0.35294117647058826
+Yellow,One Step Beyond,yellow,one,0.25
+Yellow,One Step Beyond,yellow,step,0.21052631578947367
+Yellow,One Step Beyond,yellow,beyond,0
+Yellow,One Step Beyond,yellow,complete,0
+Yellow,One Step Beyond,yellow,madness,0.35294117647058826
+Yellow,Ready For The Floor (Album Version),yellow,album,0.125
+Yellow,Ready For The Floor (Album Version),yellow,version,0.25
+Yellow,Ready For The Floor (Album Version),yellow,ready,0.42857142857142855
+Yellow,Ready For The Floor (Album Version),yellow,floor,0.125
+Yellow,Ready For The Floor (Album Version),yellow,best,0.25
+Yellow,Ready For The Floor (Album Version),yellow,bands,0.3076923076923077
+Yellow,Ready For The Floor (Album Version),yellow,album,0.125
+Yellow,Ready For The Floor (Album Version),yellow,version,0.25
+Yellow,Ready For The Floor (Album Version),yellow,ready,0.42857142857142855
+Yellow,Ready For The Floor (Album Version),yellow,floor,0.125
+Yellow,Ready For The Floor (Album Version),yellow,best,0.25
+Yellow,Ready For The Floor (Album Version),yellow,bands,0.3076923076923077
+Yellow,I Just Wanna Get Along,yellow,wan,0.1111111111111111
+Yellow,I Just Wanna Get Along,yellow,na,0.25
+Yellow,I Just Wanna Get Along,yellow,get,0.19047619047619047
+Yellow,I Just Wanna Get Along,yellow,along,0
+Yellow,I Just Wanna Get Along,yellow,last,0.2857142857142857
+Yellow,I Just Wanna Get Along,yellow,splash,0.25
+Yellow,I Just Wanna Get Along,yellow,wan,0.1111111111111111
+Yellow,I Just Wanna Get Along,yellow,na,0.25
+Yellow,I Just Wanna Get Along,yellow,get,0.19047619047619047
+Yellow,I Just Wanna Get Along,yellow,along,0
+Yellow,I Just Wanna Get Along,yellow,last,0.2857142857142857
+Yellow,I Just Wanna Get Along,yellow,splash,0.25
+Yellow,New Year,yellow,new,0
+Yellow,New Year,yellow,year,0.2857142857142857
+Yellow,New Year,yellow,last,0.2857142857142857
+Yellow,New Year,yellow,splash,0.25
+Yellow,New Year,yellow,new,0
+Yellow,New Year,yellow,year,0.2857142857142857
+Yellow,New Year,yellow,last,0.2857142857142857
+Yellow,New Year,yellow,splash,0.25
+Yellow,Drivin On 9,yellow,last,0.2857142857142857
+Yellow,Drivin On 9,yellow,splash,0.25
+Yellow,Drivin On 9,yellow,last,0.2857142857142857
+Yellow,Drivin On 9,yellow,splash,0.25
+Yellow,Talk About The Blues,yellow,talk,0.26666666666666666
+Yellow,Talk About The Blues,yellow,blues,0.26666666666666666
+Yellow,Talk About The Blues,yellow,matador,0.14285714285714285
+Yellow,Talk About The Blues,yellow,records,0.2857142857142857
+Yellow,Talk About The Blues,yellow,anniversary,0.25
+Yellow,Talk About The Blues,yellow,anthology,0.10526315789473684
+Yellow,Talk About The Blues,yellow,nice,0.1111111111111111
+Yellow,Talk About The Blues,yellow,talk,0.26666666666666666
+Yellow,Talk About The Blues,yellow,blues,0.26666666666666666
+Yellow,Talk About The Blues,yellow,matador,0.14285714285714285
+Yellow,Talk About The Blues,yellow,records,0.2857142857142857
+Yellow,Talk About The Blues,yellow,anniversary,0.25
+Yellow,Talk About The Blues,yellow,anthology,0.10526315789473684
+Yellow,Talk About The Blues,yellow,nice,0.1111111111111111
+Yellow,Flipside,yellow,last,0.2857142857142857
+Yellow,Flipside,yellow,splash,0.25
+Yellow,Flipside,yellow,last,0.2857142857142857
+Yellow,Flipside,yellow,splash,0.25
+Yellow,Cannonball,yellow,cannonball,0.10526315789473684
+Yellow,Cannonball,yellow,cannonball,0.10526315789473684
+Yellow,Invisible Man,yellow,invisible,0
+Yellow,Invisible Man,yellow,man,0.14285714285714285
+Yellow,Invisible Man,yellow,last,0.2857142857142857
+Yellow,Invisible Man,yellow,splash,0.25
+Yellow,No Aloha,yellow,hell,0.14285714285714285
+Yellow,No Aloha,yellow,aloha,0.2857142857142857
+Yellow,No Aloha,yellow,last,0.2857142857142857
+Yellow,No Aloha,yellow,splash,0.25
+Yellow,Mad Lucas,yellow,mad,0
+Yellow,Mad Lucas,yellow,lucas,0.125
+Yellow,Mad Lucas,yellow,last,0.2857142857142857
+Yellow,Mad Lucas,yellow,splash,0.25
+Yellow,Roi (reprise),yellow,recovery,0.23529411764705882
+Yellow,Roi (reprise),yellow,king,0.13333333333333333
+Yellow,Roi (reprise),yellow,last,0.2857142857142857
+Yellow,Roi (reprise),yellow,splash,0.25
+Yellow,Gloomy Sunday,yellow,gloomy,0
+Yellow,Gloomy Sunday,yellow,sunday,0.23529411764705882
+Yellow,Gloomy Sunday,yellow,south,0.13333333333333333
+Yellow,Roi,yellow,king,0.13333333333333333
+Yellow,Roi,yellow,last,0.2857142857142857
+Yellow,Roi,yellow,splash,0.25
+Yellow,Do You Love Me Now ?,yellow,love,0.4
+Yellow,Do You Love Me Now ?,yellow,last,0.2857142857142857
+Yellow,Do You Love Me Now ?,yellow,splash,0.25
+Yellow,Hag,yellow,hag,0.125
+Yellow,Hag,yellow,last,0.2857142857142857
+Yellow,Hag,yellow,splash,0.25
+Yellow,Evidence,yellow,evidence,0.2857142857142857
+Yellow,Evidence,yellow,faith,0.35294117647058826
+Yellow,Evidence,yellow,best,0.25
+Yellow,Saints,yellow,saints,0.23529411764705882
+Yellow,Saints,yellow,last,0.2857142857142857
+Yellow,Saints,yellow,splash,0.25
+Yellow,S.O.S.,yellow,sos,0.2857142857142857
+Yellow,S.O.S.,yellow,last,0.2857142857142857
+Yellow,S.O.S.,yellow,splash,0.25
+Yellow,Divine Hammer,yellow,divine,0.23529411764705882
+Yellow,Divine Hammer,yellow,hammer,0.10526315789473684
+Yellow,Divine Hammer,yellow,last,0.2857142857142857
+Yellow,Divine Hammer,yellow,splash,0.25
+Yellow,One Step Beyond,yellow,one,0.25
+Yellow,One Step Beyond,yellow,step,0.21052631578947367
+Yellow,One Step Beyond,yellow,beyond,0
+Yellow,One Step Beyond,yellow,complete,0
+Yellow,One Step Beyond,yellow,madness,0.35294117647058826
+Yellow,Ready For The Floor (Album Version),yellow,album,0.125
+Yellow,Ready For The Floor (Album Version),yellow,version,0.25
+Yellow,Ready For The Floor (Album Version),yellow,ready,0.42857142857142855
+Yellow,Ready For The Floor (Album Version),yellow,floor,0.125
+Yellow,Ready For The Floor (Album Version),yellow,best,0.25
+Yellow,Ready For The Floor (Album Version),yellow,bands,0.3076923076923077
+Yellow,I Just Wanna Get Along,yellow,wan,0.1111111111111111
+Yellow,I Just Wanna Get Along,yellow,na,0.25
+Yellow,I Just Wanna Get Along,yellow,get,0.19047619047619047
+Yellow,I Just Wanna Get Along,yellow,along,0
+Yellow,I Just Wanna Get Along,yellow,last,0.2857142857142857
+Yellow,I Just Wanna Get Along,yellow,splash,0.25
+Yellow,New Year,yellow,new,0
+Yellow,New Year,yellow,year,0.2857142857142857
+Yellow,New Year,yellow,last,0.2857142857142857
+Yellow,New Year,yellow,splash,0.25
+Yellow,Drivin On 9,yellow,last,0.2857142857142857
+Yellow,Drivin On 9,yellow,splash,0.25
+Yellow,Talk About The Blues,yellow,talk,0.26666666666666666
+Yellow,Talk About The Blues,yellow,blues,0.26666666666666666
+Yellow,Talk About The Blues,yellow,matador,0.14285714285714285
+Yellow,Talk About The Blues,yellow,records,0.2857142857142857
+Yellow,Talk About The Blues,yellow,anniversary,0.25
+Yellow,Talk About The Blues,yellow,anthology,0.10526315789473684
+Yellow,Talk About The Blues,yellow,nice,0.1111111111111111
+Yellow,Flipside,yellow,last,0.2857142857142857
+Yellow,Flipside,yellow,splash,0.25
+Speed Of Sound,Cannonball,speed,cannonball,0.11764705882352941
+Speed Of Sound,Cannonball,speed,cannonball,0.11764705882352941
+Speed Of Sound,Cannonball,sound,cannonball,0.11764705882352941
+Speed Of Sound,Cannonball,sound,cannonball,0.11764705882352941
+Speed Of Sound,Cannonball,speed,cannonball,0.11764705882352941
+Speed Of Sound,Cannonball,speed,cannonball,0.11764705882352941
+Speed Of Sound,Cannonball,sound,cannonball,0.11764705882352941
+Speed Of Sound,Cannonball,sound,cannonball,0.11764705882352941
+Speed Of Sound,Invisible Man,speed,invisible,0
+Speed Of Sound,Invisible Man,speed,man,0.16666666666666666
+Speed Of Sound,Invisible Man,speed,last,0.3333333333333333
+Speed Of Sound,Invisible Man,speed,splash,0.2857142857142857
+Speed Of Sound,Invisible Man,sound,invisible,0
+Speed Of Sound,Invisible Man,sound,man,0.16666666666666666
+Speed Of Sound,Invisible Man,sound,last,0.3333333333333333
+Speed Of Sound,Invisible Man,sound,splash,0.2857142857142857
+Speed Of Sound,Invisible Man,speed,invisible,0
+Speed Of Sound,Invisible Man,speed,man,0.16666666666666666
+Speed Of Sound,Invisible Man,speed,last,0.3333333333333333
+Speed Of Sound,Invisible Man,speed,splash,0.2857142857142857
+Speed Of Sound,Invisible Man,sound,invisible,0
+Speed Of Sound,Invisible Man,sound,man,0.16666666666666666
+Speed Of Sound,Invisible Man,sound,last,0.3333333333333333
+Speed Of Sound,Invisible Man,sound,splash,0.2857142857142857
+Speed Of Sound,No Aloha,speed,hell,0.16666666666666666
+Speed Of Sound,No Aloha,speed,aloha,0.3333333333333333
+Speed Of Sound,No Aloha,speed,last,0.3333333333333333
+Speed Of Sound,No Aloha,speed,splash,0.2857142857142857
+Speed Of Sound,No Aloha,sound,hell,0.16666666666666666
+Speed Of Sound,No Aloha,sound,aloha,0.3333333333333333
+Speed Of Sound,No Aloha,sound,last,0.3333333333333333
+Speed Of Sound,No Aloha,sound,splash,0.2857142857142857
+Speed Of Sound,No Aloha,speed,hell,0.16666666666666666
+Speed Of Sound,No Aloha,speed,aloha,0.3333333333333333
+Speed Of Sound,No Aloha,speed,last,0.3333333333333333
+Speed Of Sound,No Aloha,speed,splash,0.2857142857142857
+Speed Of Sound,No Aloha,sound,hell,0.16666666666666666
+Speed Of Sound,No Aloha,sound,aloha,0.3333333333333333
+Speed Of Sound,No Aloha,sound,last,0.3333333333333333
+Speed Of Sound,No Aloha,sound,splash,0.2857142857142857
+Speed Of Sound,Mad Lucas,speed,mad,0
+Speed Of Sound,Mad Lucas,speed,lucas,0.14285714285714285
+Speed Of Sound,Mad Lucas,speed,last,0.3333333333333333
+Speed Of Sound,Mad Lucas,speed,splash,0.2857142857142857
+Speed Of Sound,Mad Lucas,sound,mad,0
+Speed Of Sound,Mad Lucas,sound,lucas,0.14285714285714285
+Speed Of Sound,Mad Lucas,sound,last,0.3333333333333333
+Speed Of Sound,Mad Lucas,sound,splash,0.2857142857142857
+Speed Of Sound,Mad Lucas,speed,mad,0
+Speed Of Sound,Mad Lucas,speed,lucas,0.14285714285714285
+Speed Of Sound,Mad Lucas,speed,last,0.3333333333333333
+Speed Of Sound,Mad Lucas,speed,splash,0.2857142857142857
+Speed Of Sound,Mad Lucas,sound,mad,0
+Speed Of Sound,Mad Lucas,sound,lucas,0.14285714285714285
+Speed Of Sound,Mad Lucas,sound,last,0.3333333333333333
+Speed Of Sound,Mad Lucas,sound,splash,0.2857142857142857
+Speed Of Sound,Roi (reprise),speed,recovery,0.26666666666666666
+Speed Of Sound,Roi (reprise),speed,king,0.15384615384615385
+Speed Of Sound,Roi (reprise),speed,last,0.3333333333333333
+Speed Of Sound,Roi (reprise),speed,splash,0.2857142857142857
+Speed Of Sound,Roi (reprise),sound,recovery,0.26666666666666666
+Speed Of Sound,Roi (reprise),sound,king,0.15384615384615385
+Speed Of Sound,Roi (reprise),sound,last,0.3333333333333333
+Speed Of Sound,Roi (reprise),sound,splash,0.2857142857142857
+Speed Of Sound,Roi (reprise),speed,recovery,0.26666666666666666
+Speed Of Sound,Roi (reprise),speed,king,0.15384615384615385
+Speed Of Sound,Roi (reprise),speed,last,0.3333333333333333
+Speed Of Sound,Roi (reprise),speed,splash,0.2857142857142857
+Speed Of Sound,Roi (reprise),sound,recovery,0.26666666666666666
+Speed Of Sound,Roi (reprise),sound,king,0.15384615384615385
+Speed Of Sound,Roi (reprise),sound,last,0.3333333333333333
+Speed Of Sound,Roi (reprise),sound,splash,0.2857142857142857
+Speed Of Sound,Gloomy Sunday,speed,gloomy,0
+Speed Of Sound,Gloomy Sunday,speed,sunday,0.26666666666666666
+Speed Of Sound,Gloomy Sunday,speed,south,0.15384615384615385
+Speed Of Sound,Gloomy Sunday,sound,gloomy,0
+Speed Of Sound,Gloomy Sunday,sound,sunday,0.26666666666666666
+Speed Of Sound,Gloomy Sunday,sound,south,0.15384615384615385
+Speed Of Sound,Gloomy Sunday,speed,gloomy,0
+Speed Of Sound,Gloomy Sunday,speed,sunday,0.26666666666666666
+Speed Of Sound,Gloomy Sunday,speed,south,0.15384615384615385
+Speed Of Sound,Gloomy Sunday,sound,gloomy,0
+Speed Of Sound,Gloomy Sunday,sound,sunday,0.26666666666666666
+Speed Of Sound,Gloomy Sunday,sound,south,0.15384615384615385
+Speed Of Sound,Roi,speed,king,0.15384615384615385
+Speed Of Sound,Roi,speed,last,0.3333333333333333
+Speed Of Sound,Roi,speed,splash,0.2857142857142857
+Speed Of Sound,Roi,sound,king,0.15384615384615385
+Speed Of Sound,Roi,sound,last,0.3333333333333333
+Speed Of Sound,Roi,sound,splash,0.2857142857142857
+Speed Of Sound,Roi,speed,king,0.15384615384615385
+Speed Of Sound,Roi,speed,last,0.3333333333333333
+Speed Of Sound,Roi,speed,splash,0.2857142857142857
+Speed Of Sound,Roi,sound,king,0.15384615384615385
+Speed Of Sound,Roi,sound,last,0.3333333333333333
+Speed Of Sound,Roi,sound,splash,0.2857142857142857
+Speed Of Sound,Do You Love Me Now ?,speed,love,0.3076923076923077
+Speed Of Sound,Do You Love Me Now ?,speed,last,0.3333333333333333
+Speed Of Sound,Do You Love Me Now ?,speed,splash,0.2857142857142857
+Speed Of Sound,Do You Love Me Now ?,sound,love,0.46153846153846156
+Speed Of Sound,Do You Love Me Now ?,sound,last,0.3333333333333333
+Speed Of Sound,Do You Love Me Now ?,sound,splash,0.2857142857142857
+Speed Of Sound,Do You Love Me Now ?,speed,love,0.3076923076923077
+Speed Of Sound,Do You Love Me Now ?,speed,last,0.3333333333333333
+Speed Of Sound,Do You Love Me Now ?,speed,splash,0.2857142857142857
+Speed Of Sound,Do You Love Me Now ?,sound,love,0.46153846153846156
+Speed Of Sound,Do You Love Me Now ?,sound,last,0.3333333333333333
+Speed Of Sound,Do You Love Me Now ?,sound,splash,0.2857142857142857
+Speed Of Sound,Hag,speed,hag,0.14285714285714285
+Speed Of Sound,Hag,speed,last,0.3333333333333333
+Speed Of Sound,Hag,speed,splash,0.2857142857142857
+Speed Of Sound,Hag,sound,hag,0.14285714285714285
+Speed Of Sound,Hag,sound,last,0.3333333333333333
+Speed Of Sound,Hag,sound,splash,0.2857142857142857
+Speed Of Sound,Hag,speed,hag,0.14285714285714285
+Speed Of Sound,Hag,speed,last,0.3333333333333333
+Speed Of Sound,Hag,speed,splash,0.2857142857142857
+Speed Of Sound,Hag,sound,hag,0.14285714285714285
+Speed Of Sound,Hag,sound,last,0.3333333333333333
+Speed Of Sound,Hag,sound,splash,0.2857142857142857
+Speed Of Sound,Evidence,speed,evidence,0.3333333333333333
+Speed Of Sound,Evidence,speed,faith,0.3076923076923077
+Speed Of Sound,Evidence,speed,best,0.2857142857142857
+Speed Of Sound,Evidence,sound,evidence,0.3333333333333333
+Speed Of Sound,Evidence,sound,faith,0.4
+Speed Of Sound,Evidence,sound,best,0.2857142857142857
+Speed Of Sound,Evidence,speed,evidence,0.3333333333333333
+Speed Of Sound,Evidence,speed,faith,0.3076923076923077
+Speed Of Sound,Evidence,speed,best,0.2857142857142857
+Speed Of Sound,Evidence,sound,evidence,0.3333333333333333
+Speed Of Sound,Evidence,sound,faith,0.4
+Speed Of Sound,Evidence,sound,best,0.2857142857142857
+Speed Of Sound,Saints,speed,saints,0.26666666666666666
+Speed Of Sound,Saints,speed,last,0.3333333333333333
+Speed Of Sound,Saints,speed,splash,0.2857142857142857
+Speed Of Sound,Saints,sound,saints,0.26666666666666666
+Speed Of Sound,Saints,sound,last,0.3333333333333333
+Speed Of Sound,Saints,sound,splash,0.2857142857142857
+Speed Of Sound,Saints,speed,saints,0.26666666666666666
+Speed Of Sound,Saints,speed,last,0.3333333333333333
+Speed Of Sound,Saints,speed,splash,0.2857142857142857
+Speed Of Sound,Saints,sound,saints,0.26666666666666666
+Speed Of Sound,Saints,sound,last,0.3333333333333333
+Speed Of Sound,Saints,sound,splash,0.2857142857142857
+Speed Of Sound,S.O.S.,speed,sos,0.3333333333333333
+Speed Of Sound,S.O.S.,speed,last,0.3333333333333333
+Speed Of Sound,S.O.S.,speed,splash,0.2857142857142857
+Speed Of Sound,S.O.S.,sound,sos,0.3333333333333333
+Speed Of Sound,S.O.S.,sound,last,0.3333333333333333
+Speed Of Sound,S.O.S.,sound,splash,0.2857142857142857
+Speed Of Sound,S.O.S.,speed,sos,0.3333333333333333
+Speed Of Sound,S.O.S.,speed,last,0.3333333333333333
+Speed Of Sound,S.O.S.,speed,splash,0.2857142857142857
+Speed Of Sound,S.O.S.,sound,sos,0.3333333333333333
+Speed Of Sound,S.O.S.,sound,last,0.3333333333333333
+Speed Of Sound,S.O.S.,sound,splash,0.2857142857142857
+Speed Of Sound,Divine Hammer,speed,divine,0.26666666666666666
+Speed Of Sound,Divine Hammer,speed,hammer,0.11764705882352941
+Speed Of Sound,Divine Hammer,speed,last,0.3333333333333333
+Speed Of Sound,Divine Hammer,speed,splash,0.2857142857142857
+Speed Of Sound,Divine Hammer,sound,divine,0.26666666666666666
+Speed Of Sound,Divine Hammer,sound,hammer,0.11764705882352941
+Speed Of Sound,Divine Hammer,sound,last,0.3333333333333333
+Speed Of Sound,Divine Hammer,sound,splash,0.2857142857142857
+Speed Of Sound,Divine Hammer,speed,divine,0.26666666666666666
+Speed Of Sound,Divine Hammer,speed,hammer,0.11764705882352941
+Speed Of Sound,Divine Hammer,speed,last,0.3333333333333333
+Speed Of Sound,Divine Hammer,speed,splash,0.2857142857142857
+Speed Of Sound,Divine Hammer,sound,divine,0.26666666666666666
+Speed Of Sound,Divine Hammer,sound,hammer,0.11764705882352941
+Speed Of Sound,Divine Hammer,sound,last,0.3333333333333333
+Speed Of Sound,Divine Hammer,sound,splash,0.2857142857142857
+Speed Of Sound,One Step Beyond,speed,one,0.2857142857142857
+Speed Of Sound,One Step Beyond,speed,step,0.23529411764705882
+Speed Of Sound,One Step Beyond,speed,beyond,0
+Speed Of Sound,One Step Beyond,speed,complete,0
+Speed Of Sound,One Step Beyond,speed,madness,0.26666666666666666
+Speed Of Sound,One Step Beyond,sound,one,0.2857142857142857
+Speed Of Sound,One Step Beyond,sound,step,0.23529411764705882
+Speed Of Sound,One Step Beyond,sound,beyond,0
+Speed Of Sound,One Step Beyond,sound,complete,0
+Speed Of Sound,One Step Beyond,sound,madness,0.4
+Speed Of Sound,One Step Beyond,speed,one,0.2857142857142857
+Speed Of Sound,One Step Beyond,speed,step,0.23529411764705882
+Speed Of Sound,One Step Beyond,speed,beyond,0
+Speed Of Sound,One Step Beyond,speed,complete,0
+Speed Of Sound,One Step Beyond,speed,madness,0.26666666666666666
+Speed Of Sound,One Step Beyond,sound,one,0.2857142857142857
+Speed Of Sound,One Step Beyond,sound,step,0.23529411764705882
+Speed Of Sound,One Step Beyond,sound,beyond,0
+Speed Of Sound,One Step Beyond,sound,complete,0
+Speed Of Sound,One Step Beyond,sound,madness,0.4
+Speed Of Sound,Ready For The Floor (Album Version),speed,album,0.14285714285714285
+Speed Of Sound,Ready For The Floor (Album Version),speed,version,0.2857142857142857
+Speed Of Sound,Ready For The Floor (Album Version),speed,ready,0.3333333333333333
+Speed Of Sound,Ready For The Floor (Album Version),speed,floor,0.14285714285714285
+Speed Of Sound,Ready For The Floor (Album Version),speed,best,0.2857142857142857
+Speed Of Sound,Ready For The Floor (Album Version),speed,bands,0.36363636363636365
+Speed Of Sound,Ready For The Floor (Album Version),sound,album,0.14285714285714285
+Speed Of Sound,Ready For The Floor (Album Version),sound,version,0.2857142857142857
+Speed Of Sound,Ready For The Floor (Album Version),sound,ready,0.5
+Speed Of Sound,Ready For The Floor (Album Version),sound,floor,0.14285714285714285
+Speed Of Sound,Ready For The Floor (Album Version),sound,best,0.2857142857142857
+Speed Of Sound,Ready For The Floor (Album Version),sound,bands,0.36363636363636365
+Speed Of Sound,Ready For The Floor (Album Version),speed,album,0.14285714285714285
+Speed Of Sound,Ready For The Floor (Album Version),speed,version,0.2857142857142857
+Speed Of Sound,Ready For The Floor (Album Version),speed,ready,0.3333333333333333
+Speed Of Sound,Ready For The Floor (Album Version),speed,floor,0.14285714285714285
+Speed Of Sound,Ready For The Floor (Album Version),speed,best,0.2857142857142857
+Speed Of Sound,Ready For The Floor (Album Version),speed,bands,0.36363636363636365
+Speed Of Sound,Ready For The Floor (Album Version),sound,album,0.14285714285714285
+Speed Of Sound,Ready For The Floor (Album Version),sound,version,0.2857142857142857
+Speed Of Sound,Ready For The Floor (Album Version),sound,ready,0.5
+Speed Of Sound,Ready For The Floor (Album Version),sound,floor,0.14285714285714285
+Speed Of Sound,Ready For The Floor (Album Version),sound,best,0.2857142857142857
+Speed Of Sound,Ready For The Floor (Album Version),sound,bands,0.36363636363636365
+Speed Of Sound,I Just Wanna Get Along,speed,wan,0.125
+Speed Of Sound,I Just Wanna Get Along,speed,na,0.42857142857142855
+Speed Of Sound,I Just Wanna Get Along,speed,get,0.21052631578947367
+Speed Of Sound,I Just Wanna Get Along,speed,along,0
+Speed Of Sound,I Just Wanna Get Along,speed,last,0.3333333333333333
+Speed Of Sound,I Just Wanna Get Along,speed,splash,0.2857142857142857
+Speed Of Sound,I Just Wanna Get Along,sound,wan,0.125
+Speed Of Sound,I Just Wanna Get Along,sound,na,0.2857142857142857
+Speed Of Sound,I Just Wanna Get Along,sound,get,0.21052631578947367
+Speed Of Sound,I Just Wanna Get Along,sound,along,0
+Speed Of Sound,I Just Wanna Get Along,sound,last,0.3333333333333333
+Speed Of Sound,I Just Wanna Get Along,sound,splash,0.2857142857142857
+Speed Of Sound,I Just Wanna Get Along,speed,wan,0.125
+Speed Of Sound,I Just Wanna Get Along,speed,na,0.42857142857142855
+Speed Of Sound,I Just Wanna Get Along,speed,get,0.21052631578947367
+Speed Of Sound,I Just Wanna Get Along,speed,along,0
+Speed Of Sound,I Just Wanna Get Along,speed,last,0.3333333333333333
+Speed Of Sound,I Just Wanna Get Along,speed,splash,0.2857142857142857
+Speed Of Sound,I Just Wanna Get Along,sound,wan,0.125
+Speed Of Sound,I Just Wanna Get Along,sound,na,0.2857142857142857
+Speed Of Sound,I Just Wanna Get Along,sound,get,0.21052631578947367
+Speed Of Sound,I Just Wanna Get Along,sound,along,0
+Speed Of Sound,I Just Wanna Get Along,sound,last,0.3333333333333333
+Speed Of Sound,I Just Wanna Get Along,sound,splash,0.2857142857142857
+Speed Of Sound,New Year,speed,new,0
+Speed Of Sound,New Year,speed,year,0.3333333333333333
+Speed Of Sound,New Year,speed,last,0.3333333333333333
+Speed Of Sound,New Year,speed,splash,0.2857142857142857
+Speed Of Sound,New Year,sound,new,0
+Speed Of Sound,New Year,sound,year,0.3333333333333333
+Speed Of Sound,New Year,sound,last,0.3333333333333333
+Speed Of Sound,New Year,sound,splash,0.2857142857142857
+Speed Of Sound,New Year,speed,new,0
+Speed Of Sound,New Year,speed,year,0.3333333333333333
+Speed Of Sound,New Year,speed,last,0.3333333333333333
+Speed Of Sound,New Year,speed,splash,0.2857142857142857
+Speed Of Sound,New Year,sound,new,0
+Speed Of Sound,New Year,sound,year,0.3333333333333333
+Speed Of Sound,New Year,sound,last,0.3333333333333333
+Speed Of Sound,New Year,sound,splash,0.2857142857142857
+Speed Of Sound,Drivin On 9,speed,last,0.3333333333333333
+Speed Of Sound,Drivin On 9,speed,splash,0.2857142857142857
+Speed Of Sound,Drivin On 9,sound,last,0.3333333333333333
+Speed Of Sound,Drivin On 9,sound,splash,0.2857142857142857
+Speed Of Sound,Drivin On 9,speed,last,0.3333333333333333
+Speed Of Sound,Drivin On 9,speed,splash,0.2857142857142857
+Speed Of Sound,Drivin On 9,sound,last,0.3333333333333333
+Speed Of Sound,Drivin On 9,sound,splash,0.2857142857142857
+Speed Of Sound,Talk About The Blues,speed,talk,0.3076923076923077
+Speed Of Sound,Talk About The Blues,speed,blues,0.3076923076923077
+Speed Of Sound,Talk About The Blues,speed,matador,0.16666666666666666
+Speed Of Sound,Talk About The Blues,speed,records,0.3333333333333333
+Speed Of Sound,Talk About The Blues,speed,anniversary,0.2857142857142857
+Speed Of Sound,Talk About The Blues,speed,anthology,0.11764705882352941
+Speed Of Sound,Talk About The Blues,speed,nice,0.125
+Speed Of Sound,Talk About The Blues,sound,talk,0.3076923076923077
+Speed Of Sound,Talk About The Blues,sound,blues,0.3076923076923077
+Speed Of Sound,Talk About The Blues,sound,matador,0.16666666666666666
+Speed Of Sound,Talk About The Blues,sound,records,0.3333333333333333
+Speed Of Sound,Talk About The Blues,sound,anniversary,0.2857142857142857
+Speed Of Sound,Talk About The Blues,sound,anthology,0.11764705882352941
+Speed Of Sound,Talk About The Blues,sound,nice,0.125
+Speed Of Sound,Talk About The Blues,speed,talk,0.3076923076923077
+Speed Of Sound,Talk About The Blues,speed,blues,0.3076923076923077
+Speed Of Sound,Talk About The Blues,speed,matador,0.16666666666666666
+Speed Of Sound,Talk About The Blues,speed,records,0.3333333333333333
+Speed Of Sound,Talk About The Blues,speed,anniversary,0.2857142857142857
+Speed Of Sound,Talk About The Blues,speed,anthology,0.11764705882352941
+Speed Of Sound,Talk About The Blues,speed,nice,0.125
+Speed Of Sound,Talk About The Blues,sound,talk,0.3076923076923077
+Speed Of Sound,Talk About The Blues,sound,blues,0.3076923076923077
+Speed Of Sound,Talk About The Blues,sound,matador,0.16666666666666666
+Speed Of Sound,Talk About The Blues,sound,records,0.3333333333333333
+Speed Of Sound,Talk About The Blues,sound,anniversary,0.2857142857142857
+Speed Of Sound,Talk About The Blues,sound,anthology,0.11764705882352941
+Speed Of Sound,Talk About The Blues,sound,nice,0.125
+Speed Of Sound,Flipside,speed,last,0.3333333333333333
+Speed Of Sound,Flipside,speed,splash,0.2857142857142857
+Speed Of Sound,Flipside,sound,last,0.3333333333333333
+Speed Of Sound,Flipside,sound,splash,0.2857142857142857
+Speed Of Sound,Flipside,speed,last,0.3333333333333333
+Speed Of Sound,Flipside,speed,splash,0.2857142857142857
+Speed Of Sound,Flipside,sound,last,0.3333333333333333
+Speed Of Sound,Flipside,sound,splash,0.2857142857142857

@@ -1,0 +1,1740 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,Walk A Little Straighter,sun,little,0.14285714285714285
+Sun Hands,Walk A Little Straighter,sun,straighter,0
+Sun Hands,Walk A Little Straighter,sun,walk,0.1111111111111111
+Sun Hands,Walk A Little Straighter,sun,right,0.11764705882352941
+Sun Hands,Walk A Little Straighter,sun,billy,0.4444444444444444
+Sun Hands,Walk A Little Straighter,hands,little,0.26666666666666666
+Sun Hands,Walk A Little Straighter,hands,straighter,0
+Sun Hands,Walk A Little Straighter,hands,walk,0.5
+Sun Hands,Walk A Little Straighter,hands,right,0.3333333333333333
+Sun Hands,Walk A Little Straighter,hands,billy,0.10526315789473684
+Sun Hands,Walk A Little Straighter,gorilla,little,0.09090909090909091
+Sun Hands,Walk A Little Straighter,gorilla,straighter,0
+Sun Hands,Walk A Little Straighter,gorilla,walk,0.07692307692307693
+Sun Hands,Walk A Little Straighter,gorilla,right,0.08
+Sun Hands,Walk A Little Straighter,gorilla,billy,0.3076923076923077
+Sun Hands,Walk A Little Straighter,manor,little,0.125
+Sun Hands,Walk A Little Straighter,manor,straighter,0
+Sun Hands,Walk A Little Straighter,manor,walk,0.1
+Sun Hands,Walk A Little Straighter,manor,right,0.10526315789473684
+Sun Hands,Walk A Little Straighter,manor,billy,0.5
+Sun Hands,All Tomorrow's Parties,sun,tomorrow,0.14285714285714285
+Sun Hands,All Tomorrow's Parties,sun,parties,0.14285714285714285
+Sun Hands,All Tomorrow's Parties,sun,velvet,0.5333333333333333
+Sun Hands,All Tomorrow's Parties,sun,underground,0.11764705882352941
+Sun Hands,All Tomorrow's Parties,hands,tomorrow,0.26666666666666666
+Sun Hands,All Tomorrow's Parties,hands,parties,0.26666666666666666
+Sun Hands,All Tomorrow's Parties,hands,velvet,0.125
+Sun Hands,All Tomorrow's Parties,hands,underground,0.2222222222222222
+Sun Hands,All Tomorrow's Parties,gorilla,tomorrow,0.09090909090909091
+Sun Hands,All Tomorrow's Parties,gorilla,parties,0.09090909090909091
+Sun Hands,All Tomorrow's Parties,gorilla,velvet,0.34782608695652173
+Sun Hands,All Tomorrow's Parties,gorilla,underground,0.08
+Sun Hands,All Tomorrow's Parties,manor,tomorrow,0.125
+Sun Hands,All Tomorrow's Parties,manor,parties,0.125
+Sun Hands,All Tomorrow's Parties,manor,velvet,0.5882352941176471
+Sun Hands,All Tomorrow's Parties,manor,underground,0.10526315789473684
+Sun Hands,Devil's All You've Ever Had,sun,ever,0
+Sun Hands,Devil's All You've Ever Had,sun,devil,0.125
+Sun Hands,Devil's All You've Ever Had,sun,thief,0.4
+Sun Hands,Devil's All You've Ever Had,sun,heartbreaker,0.47058823529411764
+Sun Hands,Devil's All You've Ever Had,hands,ever,0
+Sun Hands,Devil's All You've Ever Had,hands,devil,0.35294117647058826
+Sun Hands,Devil's All You've Ever Had,hands,thief,0.1111111111111111
+Sun Hands,Devil's All You've Ever Had,hands,heartbreaker,0.13333333333333333
+Sun Hands,Devil's All You've Ever Had,gorilla,ever,0
+Sun Hands,Devil's All You've Ever Had,gorilla,devil,0.08333333333333333
+Sun Hands,Devil's All You've Ever Had,gorilla,thief,0.42857142857142855
+Sun Hands,Devil's All You've Ever Had,gorilla,heartbreaker,0.48
+Sun Hands,Devil's All You've Ever Had,manor,ever,0
+Sun Hands,Devil's All You've Ever Had,manor,devil,0.1111111111111111
+Sun Hands,Devil's All You've Ever Had,manor,thief,0.36363636363636365
+Sun Hands,Devil's All You've Ever Had,manor,heartbreaker,0.42105263157894735
+Sun Hands,The Philosophy Of Time Travel,sun,time,0.13333333333333333
+Sun Hands,The Philosophy Of Time Travel,sun,travel,0.11764705882352941
+Sun Hands,The Philosophy Of Time Travel,sun,philosophy,0.13333333333333333
+Sun Hands,The Philosophy Of Time Travel,sun,felony,0.1111111111111111
+Sun Hands,The Philosophy Of Time Travel,hands,time,0.5
+Sun Hands,The Philosophy Of Time Travel,hands,travel,0.5263157894736842
+Sun Hands,The Philosophy Of Time Travel,hands,philosophy,0.375
+Sun Hands,The Philosophy Of Time Travel,hands,felony,0.5
+Sun Hands,The Philosophy Of Time Travel,gorilla,time,0.08695652173913043
+Sun Hands,The Philosophy Of Time Travel,gorilla,travel,0.08
+Sun Hands,The Philosophy Of Time Travel,gorilla,philosophy,0.08695652173913043
+Sun Hands,The Philosophy Of Time Travel,gorilla,felony,0.07692307692307693
+Sun Hands,The Philosophy Of Time Travel,manor,time,0.11764705882352941
+Sun Hands,The Philosophy Of Time Travel,manor,travel,0.10526315789473684
+Sun Hands,The Philosophy Of Time Travel,manor,philosophy,0.11764705882352941
+Sun Hands,The Philosophy Of Time Travel,manor,felony,0.1
+Sun Hands,(They Long To Be) Close To You,sun,long,0
+Sun Hands,(They Long To Be) Close To You,sun,close,0.14285714285714285
+Sun Hands,(They Long To Be) Close To You,sun,essential,0.3333333333333333
+Sun Hands,(They Long To Be) Close To You,sun,collection,0.16666666666666666
+Sun Hands,(They Long To Be) Close To You,hands,long,0
+Sun Hands,(They Long To Be) Close To You,hands,close,0.26666666666666666
+Sun Hands,(They Long To Be) Close To You,hands,essential,0.15384615384615385
+Sun Hands,(They Long To Be) Close To You,hands,collection,0.3076923076923077
+Sun Hands,(They Long To Be) Close To You,gorilla,long,0
+Sun Hands,(They Long To Be) Close To You,gorilla,close,0.09090909090909091
+Sun Hands,(They Long To Be) Close To You,gorilla,essential,0.2
+Sun Hands,(They Long To Be) Close To You,gorilla,collection,0.1
+Sun Hands,(They Long To Be) Close To You,manor,long,0
+Sun Hands,(They Long To Be) Close To You,manor,close,0.125
+Sun Hands,(They Long To Be) Close To You,manor,essential,0.2857142857142857
+Sun Hands,(They Long To Be) Close To You,manor,collection,0.14285714285714285
+Sun Hands,Miss World,sun,miss,0.4444444444444444
+Sun Hands,Miss World,sun,world,0.7142857142857143
+Sun Hands,Miss World,sun,sleepyheads,0.5
+Sun Hands,Miss World,hands,miss,0.125
+Sun Hands,Miss World,hands,world,0.13333333333333333
+Sun Hands,Miss World,hands,sleepyheads,0.14285714285714285
+Sun Hands,Miss World,gorilla,miss,0.46153846153846156
+Sun Hands,Miss World,gorilla,world,0.36363636363636365
+Sun Hands,Miss World,gorilla,sleepyheads,0.5
+Sun Hands,Miss World,manor,miss,0.4
+Sun Hands,Miss World,manor,world,0.5
+Sun Hands,Miss World,manor,sleepyheads,0.4444444444444444
+Sun Hands,Zopf: Pigtail,sun,pigtail,0.5263157894736842
+Sun Hands,Zopf: Pigtail,sun,penguin,0.36363636363636365
+Sun Hands,Zopf: Pigtail,sun,cafe,0.47058823529411764
+Sun Hands,Zopf: Pigtail,sun,music,0.15384615384615385
+Sun Hands,Zopf: Pigtail,hands,pigtail,0.1
+Sun Hands,Zopf: Pigtail,hands,penguin,0.08695652173913043
+Sun Hands,Zopf: Pigtail,hands,cafe,0.1111111111111111
+Sun Hands,Zopf: Pigtail,hands,music,0.2857142857142857
+Sun Hands,Zopf: Pigtail,gorilla,pigtail,0.2962962962962963
+Sun Hands,Zopf: Pigtail,gorilla,penguin,0.6
+Sun Hands,Zopf: Pigtail,gorilla,cafe,0.32
+Sun Hands,Zopf: Pigtail,gorilla,music,0.09523809523809523
+Sun Hands,Zopf: Pigtail,manor,pigtail,0.38095238095238093
+Sun Hands,Zopf: Pigtail,manor,penguin,0.3333333333333333
+Sun Hands,Zopf: Pigtail,manor,cafe,0.7368421052631579
+Sun Hands,Zopf: Pigtail,manor,music,0.13333333333333333
+Sun Hands,Heaven Must Be Missing An Angel,sun,heaven,0.42857142857142855
+Sun Hands,Heaven Must Be Missing An Angel,sun,must,0.3076923076923077
+Sun Hands,Heaven Must Be Missing An Angel,sun,missing,0
+Sun Hands,Heaven Must Be Missing An Angel,sun,angel,0.125
+Sun Hands,Heaven Must Be Missing An Angel,sun,capitol,0.47058823529411764
+Sun Hands,Heaven Must Be Missing An Angel,sun,gold,0.10526315789473684
+Sun Hands,Heaven Must Be Missing An Angel,sun,best,0.125
+Sun Hands,Heaven Must Be Missing An Angel,hands,heaven,0.13333333333333333
+Sun Hands,Heaven Must Be Missing An Angel,hands,must,0.14285714285714285
+Sun Hands,Heaven Must Be Missing An Angel,hands,missing,0
+Sun Hands,Heaven Must Be Missing An Angel,hands,angel,0.35294117647058826
+Sun Hands,Heaven Must Be Missing An Angel,hands,capitol,0.1111111111111111
+Sun Hands,Heaven Must Be Missing An Angel,hands,gold,0.2
+Sun Hands,Heaven Must Be Missing An Angel,hands,best,0.5555555555555556
+Sun Hands,Heaven Must Be Missing An Angel,gorilla,heaven,0.2727272727272727
+Sun Hands,Heaven Must Be Missing An Angel,gorilla,must,0.19047619047619047
+Sun Hands,Heaven Must Be Missing An Angel,gorilla,missing,0
+Sun Hands,Heaven Must Be Missing An Angel,gorilla,angel,0.08333333333333333
+Sun Hands,Heaven Must Be Missing An Angel,gorilla,capitol,0.32
+Sun Hands,Heaven Must Be Missing An Angel,gorilla,gold,0.07407407407407407
+Sun Hands,Heaven Must Be Missing An Angel,gorilla,best,0.08333333333333333
+Sun Hands,Heaven Must Be Missing An Angel,manor,heaven,0.375
+Sun Hands,Heaven Must Be Missing An Angel,manor,must,0.26666666666666666
+Sun Hands,Heaven Must Be Missing An Angel,manor,missing,0
+Sun Hands,Heaven Must Be Missing An Angel,manor,angel,0.1111111111111111
+Sun Hands,Heaven Must Be Missing An Angel,manor,capitol,0.7368421052631579
+Sun Hands,Heaven Must Be Missing An Angel,manor,gold,0.09523809523809523
+Sun Hands,Heaven Must Be Missing An Angel,manor,best,0.1111111111111111
+Sun Hands,In Walks The Night,sun,walks,0.1111111111111111
+Sun Hands,In Walks The Night,sun,night,0.14285714285714285
+Sun Hands,In Walks The Night,sun,desire,0.14285714285714285
+Sun Hands,In Walks The Night,sun,walks,0.1111111111111111
+Sun Hands,In Walks The Night,sun,l,0.125
+Sun Hands,In Walks The Night,hands,walks,0.5
+Sun Hands,In Walks The Night,hands,night,0.26666666666666666
+Sun Hands,In Walks The Night,hands,desire,0.26666666666666666
+Sun Hands,In Walks The Night,hands,walks,0.5
+Sun Hands,In Walks The Night,hands,l,0.23529411764705882
+Sun Hands,In Walks The Night,gorilla,walks,0.07692307692307693
+Sun Hands,In Walks The Night,gorilla,night,0.09090909090909091
+Sun Hands,In Walks The Night,gorilla,desire,0.09090909090909091
+Sun Hands,In Walks The Night,gorilla,walks,0.07692307692307693
+Sun Hands,In Walks The Night,gorilla,l,0.08333333333333333
+Sun Hands,In Walks The Night,manor,walks,0.1
+Sun Hands,In Walks The Night,manor,night,0.125
+Sun Hands,In Walks The Night,manor,desire,0.125
+Sun Hands,In Walks The Night,manor,walks,0.1
+Sun Hands,In Walks The Night,manor,l,0.1111111111111111
+Sun Hands,Impossible,sun,impossible,0.1111111111111111
+Sun Hands,Impossible,sun,stripped,0
+Sun Hands,Impossible,hands,impossible,0.3157894736842105
+Sun Hands,Impossible,hands,stripped,0
+Sun Hands,Impossible,gorilla,impossible,0.07692307692307693
+Sun Hands,Impossible,gorilla,stripped,0
+Sun Hands,Impossible,manor,impossible,0.1
+Sun Hands,Impossible,manor,stripped,0
+Sun Hands,Umoja,sun,unity,0.15384615384615385
+Sun Hands,Umoja,sun,togetherness,0.11764705882352941
+Sun Hands,Umoja,sun,spirit,0.3076923076923077
+Sun Hands,Umoja,hands,unity,0.2857142857142857
+Sun Hands,Umoja,hands,togetherness,0.2222222222222222
+Sun Hands,Umoja,hands,spirit,0.14285714285714285
+Sun Hands,Umoja,gorilla,unity,0.09523809523809523
+Sun Hands,Umoja,gorilla,togetherness,0.08
+Sun Hands,Umoja,gorilla,spirit,0.19047619047619047
+Sun Hands,Umoja,manor,unity,0.13333333333333333
+Sun Hands,Umoja,manor,togetherness,0.10526315789473684
+Sun Hands,Umoja,manor,spirit,0.26666666666666666
+Sun Hands,Everyday,sun,everyday,0
+Sun Hands,Everyday,sun,sides,0.42857142857142855
+Sun Hands,Everyday,hands,everyday,0
+Sun Hands,Everyday,hands,sides,0.13333333333333333
+Sun Hands,Everyday,gorilla,everyday,0
+Sun Hands,Everyday,gorilla,sides,0.2727272727272727
+Sun Hands,Everyday,manor,everyday,0
+Sun Hands,Everyday,manor,sides,0.375
+Camera Talk,Walk A Little Straighter,camera,little,0.13333333333333333
+Camera Talk,Walk A Little Straighter,camera,straighter,0
+Camera Talk,Walk A Little Straighter,camera,walk,0.10526315789473684
+Camera Talk,Walk A Little Straighter,camera,right,0.1111111111111111
+Camera Talk,Walk A Little Straighter,camera,billy,0.631578947368421
+Camera Talk,Walk A Little Straighter,talk,little,0.3076923076923077
+Camera Talk,Walk A Little Straighter,talk,straighter,0
+Camera Talk,Walk A Little Straighter,talk,walk,0.23529411764705882
+Camera Talk,Walk A Little Straighter,talk,right,0.25
+Camera Talk,Walk A Little Straighter,talk,billy,0.11764705882352941
+Camera Talk,Walk A Little Straighter,camera,little,0.13333333333333333
+Camera Talk,Walk A Little Straighter,camera,straighter,0
+Camera Talk,Walk A Little Straighter,camera,walk,0.10526315789473684
+Camera Talk,Walk A Little Straighter,camera,right,0.1111111111111111
+Camera Talk,Walk A Little Straighter,camera,billy,0.631578947368421
+Camera Talk,Walk A Little Straighter,talk,little,0.3076923076923077
+Camera Talk,Walk A Little Straighter,talk,straighter,0
+Camera Talk,Walk A Little Straighter,talk,walk,0.23529411764705882
+Camera Talk,Walk A Little Straighter,talk,right,0.25
+Camera Talk,Walk A Little Straighter,talk,billy,0.11764705882352941
+Camera Talk,All Tomorrow's Parties,camera,tomorrow,0.13333333333333333
+Camera Talk,All Tomorrow's Parties,camera,parties,0.13333333333333333
+Camera Talk,All Tomorrow's Parties,camera,velvet,0.625
+Camera Talk,All Tomorrow's Parties,camera,underground,0.1111111111111111
+Camera Talk,All Tomorrow's Parties,talk,tomorrow,0.3076923076923077
+Camera Talk,All Tomorrow's Parties,talk,parties,0.3076923076923077
+Camera Talk,All Tomorrow's Parties,talk,velvet,0.14285714285714285
+Camera Talk,All Tomorrow's Parties,talk,underground,0.25
+Camera Talk,All Tomorrow's Parties,camera,tomorrow,0.13333333333333333
+Camera Talk,All Tomorrow's Parties,camera,parties,0.13333333333333333
+Camera Talk,All Tomorrow's Parties,camera,velvet,0.625
+Camera Talk,All Tomorrow's Parties,camera,underground,0.1111111111111111
+Camera Talk,All Tomorrow's Parties,talk,tomorrow,0.3076923076923077
+Camera Talk,All Tomorrow's Parties,talk,parties,0.3076923076923077
+Camera Talk,All Tomorrow's Parties,talk,velvet,0.14285714285714285
+Camera Talk,All Tomorrow's Parties,talk,underground,0.25
+Camera Talk,Devil's All You've Ever Had,camera,ever,0
+Camera Talk,Devil's All You've Ever Had,camera,devil,0.11764705882352941
+Camera Talk,Devil's All You've Ever Had,camera,thief,0.38095238095238093
+Camera Talk,Devil's All You've Ever Had,camera,heartbreaker,0.4444444444444444
+Camera Talk,Devil's All You've Ever Had,talk,ever,0
+Camera Talk,Devil's All You've Ever Had,talk,devil,0.26666666666666666
+Camera Talk,Devil's All You've Ever Had,talk,thief,0.125
+Camera Talk,Devil's All You've Ever Had,talk,heartbreaker,0.15384615384615385
+Camera Talk,Devil's All You've Ever Had,camera,ever,0
+Camera Talk,Devil's All You've Ever Had,camera,devil,0.11764705882352941
+Camera Talk,Devil's All You've Ever Had,camera,thief,0.38095238095238093
+Camera Talk,Devil's All You've Ever Had,camera,heartbreaker,0.4444444444444444
+Camera Talk,Devil's All You've Ever Had,talk,ever,0
+Camera Talk,Devil's All You've Ever Had,talk,devil,0.26666666666666666
+Camera Talk,Devil's All You've Ever Had,talk,thief,0.125
+Camera Talk,Devil's All You've Ever Had,talk,heartbreaker,0.15384615384615385
+Camera Talk,The Philosophy Of Time Travel,camera,time,0.125
+Camera Talk,The Philosophy Of Time Travel,camera,travel,0.1111111111111111
+Camera Talk,The Philosophy Of Time Travel,camera,philosophy,0.125
+Camera Talk,The Philosophy Of Time Travel,camera,felony,0.10526315789473684
+Camera Talk,The Philosophy Of Time Travel,talk,time,0.2857142857142857
+Camera Talk,The Philosophy Of Time Travel,talk,travel,0.25
+Camera Talk,The Philosophy Of Time Travel,talk,philosophy,0.2857142857142857
+Camera Talk,The Philosophy Of Time Travel,talk,felony,0.23529411764705882
+Camera Talk,The Philosophy Of Time Travel,camera,time,0.125
+Camera Talk,The Philosophy Of Time Travel,camera,travel,0.1111111111111111
+Camera Talk,The Philosophy Of Time Travel,camera,philosophy,0.125
+Camera Talk,The Philosophy Of Time Travel,camera,felony,0.10526315789473684
+Camera Talk,The Philosophy Of Time Travel,talk,time,0.2857142857142857
+Camera Talk,The Philosophy Of Time Travel,talk,travel,0.25
+Camera Talk,The Philosophy Of Time Travel,talk,philosophy,0.2857142857142857
+Camera Talk,The Philosophy Of Time Travel,talk,felony,0.23529411764705882
+Camera Talk,(They Long To Be) Close To You,camera,long,0
+Camera Talk,(They Long To Be) Close To You,camera,close,0.13333333333333333
+Camera Talk,(They Long To Be) Close To You,camera,essential,0.3076923076923077
+Camera Talk,(They Long To Be) Close To You,camera,collection,0.15384615384615385
+Camera Talk,(They Long To Be) Close To You,talk,long,0
+Camera Talk,(They Long To Be) Close To You,talk,close,0.3076923076923077
+Camera Talk,(They Long To Be) Close To You,talk,essential,0.18181818181818182
+Camera Talk,(They Long To Be) Close To You,talk,collection,0.36363636363636365
+Camera Talk,(They Long To Be) Close To You,camera,long,0
+Camera Talk,(They Long To Be) Close To You,camera,close,0.13333333333333333
+Camera Talk,(They Long To Be) Close To You,camera,essential,0.3076923076923077
+Camera Talk,(They Long To Be) Close To You,camera,collection,0.15384615384615385
+Camera Talk,(They Long To Be) Close To You,talk,long,0
+Camera Talk,(They Long To Be) Close To You,talk,close,0.3076923076923077
+Camera Talk,(They Long To Be) Close To You,talk,essential,0.18181818181818182
+Camera Talk,(They Long To Be) Close To You,talk,collection,0.36363636363636365
+Camera Talk,Miss World,camera,miss,0.42105263157894735
+Camera Talk,Miss World,camera,world,0.5333333333333333
+Camera Talk,Miss World,camera,sleepyheads,0.47058823529411764
+Camera Talk,Miss World,talk,miss,0.14285714285714285
+Camera Talk,Miss World,talk,world,0.15384615384615385
+Camera Talk,Miss World,talk,sleepyheads,0.16666666666666666
+Camera Talk,Miss World,camera,miss,0.42105263157894735
+Camera Talk,Miss World,camera,world,0.5333333333333333
+Camera Talk,Miss World,camera,sleepyheads,0.47058823529411764
+Camera Talk,Miss World,talk,miss,0.14285714285714285
+Camera Talk,Miss World,talk,world,0.15384615384615385
+Camera Talk,Miss World,talk,sleepyheads,0.16666666666666666
+Camera Talk,Zopf: Pigtail,camera,pigtail,0.4
+Camera Talk,Zopf: Pigtail,camera,penguin,0.34782608695652173
+Camera Talk,Zopf: Pigtail,camera,cafe,0.5555555555555556
+Camera Talk,Zopf: Pigtail,camera,music,0.14285714285714285
+Camera Talk,Zopf: Pigtail,talk,pigtail,0.1111111111111111
+Camera Talk,Zopf: Pigtail,talk,penguin,0.09523809523809523
+Camera Talk,Zopf: Pigtail,talk,cafe,0.125
+Camera Talk,Zopf: Pigtail,talk,music,0.6666666666666666
+Camera Talk,Zopf: Pigtail,camera,pigtail,0.4
+Camera Talk,Zopf: Pigtail,camera,penguin,0.34782608695652173
+Camera Talk,Zopf: Pigtail,camera,cafe,0.5555555555555556
+Camera Talk,Zopf: Pigtail,camera,music,0.14285714285714285
+Camera Talk,Zopf: Pigtail,talk,pigtail,0.1111111111111111
+Camera Talk,Zopf: Pigtail,talk,penguin,0.09523809523809523
+Camera Talk,Zopf: Pigtail,talk,cafe,0.125
+Camera Talk,Zopf: Pigtail,talk,music,0.6666666666666666
+Camera Talk,Heaven Must Be Missing An Angel,camera,heaven,0.4
+Camera Talk,Heaven Must Be Missing An Angel,camera,must,0.2857142857142857
+Camera Talk,Heaven Must Be Missing An Angel,camera,missing,0
+Camera Talk,Heaven Must Be Missing An Angel,camera,angel,0.11764705882352941
+Camera Talk,Heaven Must Be Missing An Angel,camera,capitol,0.5555555555555556
+Camera Talk,Heaven Must Be Missing An Angel,camera,gold,0.1
+Camera Talk,Heaven Must Be Missing An Angel,camera,best,0.11764705882352941
+Camera Talk,Heaven Must Be Missing An Angel,talk,heaven,0.15384615384615385
+Camera Talk,Heaven Must Be Missing An Angel,talk,must,0.16666666666666666
+Camera Talk,Heaven Must Be Missing An Angel,talk,missing,0
+Camera Talk,Heaven Must Be Missing An Angel,talk,angel,0.26666666666666666
+Camera Talk,Heaven Must Be Missing An Angel,talk,capitol,0.125
+Camera Talk,Heaven Must Be Missing An Angel,talk,gold,0.2222222222222222
+Camera Talk,Heaven Must Be Missing An Angel,talk,best,0.26666666666666666
+Camera Talk,Heaven Must Be Missing An Angel,camera,heaven,0.4
+Camera Talk,Heaven Must Be Missing An Angel,camera,must,0.2857142857142857
+Camera Talk,Heaven Must Be Missing An Angel,camera,missing,0
+Camera Talk,Heaven Must Be Missing An Angel,camera,angel,0.11764705882352941
+Camera Talk,Heaven Must Be Missing An Angel,camera,capitol,0.5555555555555556
+Camera Talk,Heaven Must Be Missing An Angel,camera,gold,0.1
+Camera Talk,Heaven Must Be Missing An Angel,camera,best,0.11764705882352941
+Camera Talk,Heaven Must Be Missing An Angel,talk,heaven,0.15384615384615385
+Camera Talk,Heaven Must Be Missing An Angel,talk,must,0.16666666666666666
+Camera Talk,Heaven Must Be Missing An Angel,talk,missing,0
+Camera Talk,Heaven Must Be Missing An Angel,talk,angel,0.26666666666666666
+Camera Talk,Heaven Must Be Missing An Angel,talk,capitol,0.125
+Camera Talk,Heaven Must Be Missing An Angel,talk,gold,0.2222222222222222
+Camera Talk,Heaven Must Be Missing An Angel,talk,best,0.26666666666666666
+Camera Talk,In Walks The Night,camera,walks,0.10526315789473684
+Camera Talk,In Walks The Night,camera,night,0.13333333333333333
+Camera Talk,In Walks The Night,camera,desire,0.13333333333333333
+Camera Talk,In Walks The Night,camera,walks,0.10526315789473684
+Camera Talk,In Walks The Night,camera,l,0.11764705882352941
+Camera Talk,In Walks The Night,talk,walks,0.23529411764705882
+Camera Talk,In Walks The Night,talk,night,0.3076923076923077
+Camera Talk,In Walks The Night,talk,desire,0.3076923076923077
+Camera Talk,In Walks The Night,talk,walks,0.23529411764705882
+Camera Talk,In Walks The Night,talk,l,0.26666666666666666
+Camera Talk,In Walks The Night,camera,walks,0.10526315789473684
+Camera Talk,In Walks The Night,camera,night,0.13333333333333333
+Camera Talk,In Walks The Night,camera,desire,0.13333333333333333
+Camera Talk,In Walks The Night,camera,walks,0.10526315789473684
+Camera Talk,In Walks The Night,camera,l,0.11764705882352941
+Camera Talk,In Walks The Night,talk,walks,0.23529411764705882
+Camera Talk,In Walks The Night,talk,night,0.3076923076923077
+Camera Talk,In Walks The Night,talk,desire,0.3076923076923077
+Camera Talk,In Walks The Night,talk,walks,0.23529411764705882
+Camera Talk,In Walks The Night,talk,l,0.26666666666666666
+Camera Talk,Impossible,camera,impossible,0.10526315789473684
+Camera Talk,Impossible,camera,stripped,0
+Camera Talk,Impossible,talk,impossible,0.23529411764705882
+Camera Talk,Impossible,talk,stripped,0
+Camera Talk,Impossible,camera,impossible,0.10526315789473684
+Camera Talk,Impossible,camera,stripped,0
+Camera Talk,Impossible,talk,impossible,0.23529411764705882
+Camera Talk,Impossible,talk,stripped,0
+Camera Talk,Umoja,camera,unity,0.14285714285714285
+Camera Talk,Umoja,camera,togetherness,0.1111111111111111
+Camera Talk,Umoja,camera,spirit,0.2857142857142857
+Camera Talk,Umoja,talk,unity,0.3333333333333333
+Camera Talk,Umoja,talk,togetherness,0.25
+Camera Talk,Umoja,talk,spirit,0.16666666666666666
+Camera Talk,Umoja,camera,unity,0.14285714285714285
+Camera Talk,Umoja,camera,togetherness,0.1111111111111111
+Camera Talk,Umoja,camera,spirit,0.2857142857142857
+Camera Talk,Umoja,talk,unity,0.3333333333333333
+Camera Talk,Umoja,talk,togetherness,0.25
+Camera Talk,Umoja,talk,spirit,0.16666666666666666
+Camera Talk,Everyday,camera,everyday,0
+Camera Talk,Everyday,camera,sides,0.4
+Camera Talk,Everyday,talk,everyday,0
+Camera Talk,Everyday,talk,sides,0.15384615384615385
+Camera Talk,Everyday,camera,everyday,0
+Camera Talk,Everyday,camera,sides,0.4
+Camera Talk,Everyday,talk,everyday,0
+Camera Talk,Everyday,talk,sides,0.15384615384615385
+Belle,Walk A Little Straighter,beautiful,little,0
+Belle,Walk A Little Straighter,beautiful,straighter,0
+Belle,Walk A Little Straighter,beautiful,walk,0
+Belle,Walk A Little Straighter,beautiful,right,0
+Belle,Walk A Little Straighter,beautiful,billy,0
+Belle,Walk A Little Straighter,dreams,little,0.26666666666666666
+Belle,Walk A Little Straighter,dreams,straighter,0
+Belle,Walk A Little Straighter,dreams,walk,0.3157894736842105
+Belle,Walk A Little Straighter,dreams,right,0.4444444444444444
+Belle,Walk A Little Straighter,dreams,billy,0.10526315789473684
+Belle,All Tomorrow's Parties,beautiful,tomorrow,0
+Belle,All Tomorrow's Parties,beautiful,parties,0
+Belle,All Tomorrow's Parties,beautiful,velvet,0
+Belle,All Tomorrow's Parties,beautiful,underground,0
+Belle,All Tomorrow's Parties,dreams,tomorrow,0.26666666666666666
+Belle,All Tomorrow's Parties,dreams,parties,0.26666666666666666
+Belle,All Tomorrow's Parties,dreams,velvet,0.125
+Belle,All Tomorrow's Parties,dreams,underground,0.2222222222222222
+Belle,Devil's All You've Ever Had,beautiful,ever,0
+Belle,Devil's All You've Ever Had,beautiful,devil,0
+Belle,Devil's All You've Ever Had,beautiful,thief,0
+Belle,Devil's All You've Ever Had,beautiful,heartbreaker,0
+Belle,Devil's All You've Ever Had,dreams,ever,0
+Belle,Devil's All You've Ever Had,dreams,devil,0.47058823529411764
+Belle,Devil's All You've Ever Had,dreams,thief,0.1111111111111111
+Belle,Devil's All You've Ever Had,dreams,heartbreaker,0.13333333333333333
+Belle,The Philosophy Of Time Travel,beautiful,time,0
+Belle,The Philosophy Of Time Travel,beautiful,travel,0
+Belle,The Philosophy Of Time Travel,beautiful,philosophy,0
+Belle,The Philosophy Of Time Travel,beautiful,felony,0
+Belle,The Philosophy Of Time Travel,dreams,time,0.375
+Belle,The Philosophy Of Time Travel,dreams,travel,0.3333333333333333
+Belle,The Philosophy Of Time Travel,dreams,philosophy,0.5
+Belle,The Philosophy Of Time Travel,dreams,felony,0.3157894736842105
+Belle,(They Long To Be) Close To You,beautiful,long,0
+Belle,(They Long To Be) Close To You,beautiful,close,0
+Belle,(They Long To Be) Close To You,beautiful,essential,0
+Belle,(They Long To Be) Close To You,beautiful,collection,0
+Belle,(They Long To Be) Close To You,dreams,long,0
+Belle,(They Long To Be) Close To You,dreams,close,0.26666666666666666
+Belle,(They Long To Be) Close To You,dreams,essential,0.15384615384615385
+Belle,(They Long To Be) Close To You,dreams,collection,0.3076923076923077
+Belle,Miss World,beautiful,miss,0
+Belle,Miss World,beautiful,world,0
+Belle,Miss World,beautiful,sleepyheads,0
+Belle,Miss World,dreams,miss,0.125
+Belle,Miss World,dreams,world,0.13333333333333333
+Belle,Miss World,dreams,sleepyheads,0.14285714285714285
+Belle,Zopf: Pigtail,beautiful,pigtail,0
+Belle,Zopf: Pigtail,beautiful,penguin,0
+Belle,Zopf: Pigtail,beautiful,cafe,0
+Belle,Zopf: Pigtail,beautiful,music,0
+Belle,Zopf: Pigtail,dreams,pigtail,0.1
+Belle,Zopf: Pigtail,dreams,penguin,0.08695652173913043
+Belle,Zopf: Pigtail,dreams,cafe,0.1111111111111111
+Belle,Zopf: Pigtail,dreams,music,0.2857142857142857
+Belle,Heaven Must Be Missing An Angel,beautiful,heaven,0
+Belle,Heaven Must Be Missing An Angel,beautiful,must,0
+Belle,Heaven Must Be Missing An Angel,beautiful,missing,0
+Belle,Heaven Must Be Missing An Angel,beautiful,angel,0
+Belle,Heaven Must Be Missing An Angel,beautiful,capitol,0
+Belle,Heaven Must Be Missing An Angel,beautiful,gold,0
+Belle,Heaven Must Be Missing An Angel,beautiful,best,0
+Belle,Heaven Must Be Missing An Angel,dreams,heaven,0.13333333333333333
+Belle,Heaven Must Be Missing An Angel,dreams,must,0.14285714285714285
+Belle,Heaven Must Be Missing An Angel,dreams,missing,0
+Belle,Heaven Must Be Missing An Angel,dreams,angel,0.47058823529411764
+Belle,Heaven Must Be Missing An Angel,dreams,capitol,0.1111111111111111
+Belle,Heaven Must Be Missing An Angel,dreams,gold,0.2
+Belle,Heaven Must Be Missing An Angel,dreams,best,0.35294117647058826
+Belle,In Walks The Night,beautiful,walks,0
+Belle,In Walks The Night,beautiful,night,0
+Belle,In Walks The Night,beautiful,desire,0
+Belle,In Walks The Night,beautiful,walks,0
+Belle,In Walks The Night,beautiful,l,0
+Belle,In Walks The Night,dreams,walks,0.3157894736842105
+Belle,In Walks The Night,dreams,night,0.26666666666666666
+Belle,In Walks The Night,dreams,desire,0.26666666666666666
+Belle,In Walks The Night,dreams,walks,0.3157894736842105
+Belle,In Walks The Night,dreams,l,0.23529411764705882
+Belle,Impossible,beautiful,impossible,0
+Belle,Impossible,beautiful,stripped,0
+Belle,Impossible,dreams,impossible,0.5263157894736842
+Belle,Impossible,dreams,stripped,0
+Belle,Umoja,beautiful,unity,0
+Belle,Umoja,beautiful,togetherness,0
+Belle,Umoja,beautiful,spirit,0
+Belle,Umoja,dreams,unity,0.2857142857142857
+Belle,Umoja,dreams,togetherness,0.2222222222222222
+Belle,Umoja,dreams,spirit,0.14285714285714285
+Belle,Everyday,beautiful,everyday,0
+Belle,Everyday,beautiful,sides,0
+Belle,Everyday,dreams,everyday,0
+Belle,Everyday,dreams,sides,0.13333333333333333
+Auto Rock,Walk A Little Straighter,auto,little,0.11764705882352941
+Auto Rock,Walk A Little Straighter,auto,straighter,0
+Auto Rock,Walk A Little Straighter,auto,walk,0.09523809523809523
+Auto Rock,Walk A Little Straighter,auto,right,0.1
+Auto Rock,Walk A Little Straighter,auto,billy,0.5714285714285714
+Auto Rock,Walk A Little Straighter,rock,little,0.16666666666666666
+Auto Rock,Walk A Little Straighter,rock,straighter,0
+Auto Rock,Walk A Little Straighter,rock,walk,0.125
+Auto Rock,Walk A Little Straighter,rock,right,0.13333333333333333
+Auto Rock,Walk A Little Straighter,rock,billy,0.5
+Auto Rock,Walk A Little Straighter,mr,little,0.26666666666666666
+Auto Rock,Walk A Little Straighter,mr,straighter,0
+Auto Rock,Walk A Little Straighter,mr,walk,0.21052631578947367
+Auto Rock,Walk A Little Straighter,mr,right,0.2222222222222222
+Auto Rock,Walk A Little Straighter,mr,billy,0.10526315789473684
+Auto Rock,Walk A Little Straighter,beast,little,0.15384615384615385
+Auto Rock,Walk A Little Straighter,beast,straighter,0
+Auto Rock,Walk A Little Straighter,beast,walk,0.11764705882352941
+Auto Rock,Walk A Little Straighter,beast,right,0.125
+Auto Rock,Walk A Little Straighter,beast,billy,0.47058823529411764
+Auto Rock,All Tomorrow's Parties,auto,tomorrow,0.11764705882352941
+Auto Rock,All Tomorrow's Parties,auto,parties,0.11764705882352941
+Auto Rock,All Tomorrow's Parties,auto,velvet,0.5555555555555556
+Auto Rock,All Tomorrow's Parties,auto,underground,0.1
+Auto Rock,All Tomorrow's Parties,rock,tomorrow,0.16666666666666666
+Auto Rock,All Tomorrow's Parties,rock,parties,0.16666666666666666
+Auto Rock,All Tomorrow's Parties,rock,velvet,0.6153846153846154
+Auto Rock,All Tomorrow's Parties,rock,underground,0.13333333333333333
+Auto Rock,All Tomorrow's Parties,mr,tomorrow,0.26666666666666666
+Auto Rock,All Tomorrow's Parties,mr,parties,0.26666666666666666
+Auto Rock,All Tomorrow's Parties,mr,velvet,0.125
+Auto Rock,All Tomorrow's Parties,mr,underground,0.2222222222222222
+Auto Rock,All Tomorrow's Parties,beast,tomorrow,0.15384615384615385
+Auto Rock,All Tomorrow's Parties,beast,parties,0.15384615384615385
+Auto Rock,All Tomorrow's Parties,beast,velvet,0.5714285714285714
+Auto Rock,All Tomorrow's Parties,beast,underground,0.125
+Auto Rock,Devil's All You've Ever Had,auto,ever,0
+Auto Rock,Devil's All You've Ever Had,auto,devil,0.10526315789473684
+Auto Rock,Devil's All You've Ever Had,auto,thief,0.34782608695652173
+Auto Rock,Devil's All You've Ever Had,auto,heartbreaker,0.4
+Auto Rock,Devil's All You've Ever Had,rock,ever,0
+Auto Rock,Devil's All You've Ever Had,rock,devil,0.14285714285714285
+Auto Rock,Devil's All You've Ever Had,rock,thief,0.4444444444444444
+Auto Rock,Devil's All You've Ever Had,rock,heartbreaker,0.5333333333333333
+Auto Rock,Devil's All You've Ever Had,mr,ever,0
+Auto Rock,Devil's All You've Ever Had,mr,devil,0.23529411764705882
+Auto Rock,Devil's All You've Ever Had,mr,thief,0.1111111111111111
+Auto Rock,Devil's All You've Ever Had,mr,heartbreaker,0.13333333333333333
+Auto Rock,Devil's All You've Ever Had,beast,ever,0
+Auto Rock,Devil's All You've Ever Had,beast,devil,0.13333333333333333
+Auto Rock,Devil's All You've Ever Had,beast,thief,0.631578947368421
+Auto Rock,Devil's All You've Ever Had,beast,heartbreaker,0.75
+Auto Rock,The Philosophy Of Time Travel,auto,time,0.1111111111111111
+Auto Rock,The Philosophy Of Time Travel,auto,travel,0.1
+Auto Rock,The Philosophy Of Time Travel,auto,philosophy,0.1111111111111111
+Auto Rock,The Philosophy Of Time Travel,auto,felony,0.09523809523809523
+Auto Rock,The Philosophy Of Time Travel,rock,time,0.15384615384615385
+Auto Rock,The Philosophy Of Time Travel,rock,travel,0.13333333333333333
+Auto Rock,The Philosophy Of Time Travel,rock,philosophy,0.15384615384615385
+Auto Rock,The Philosophy Of Time Travel,rock,felony,0.125
+Auto Rock,The Philosophy Of Time Travel,mr,time,0.25
+Auto Rock,The Philosophy Of Time Travel,mr,travel,0.2222222222222222
+Auto Rock,The Philosophy Of Time Travel,mr,philosophy,0.25
+Auto Rock,The Philosophy Of Time Travel,mr,felony,0.21052631578947367
+Auto Rock,The Philosophy Of Time Travel,beast,time,0.14285714285714285
+Auto Rock,The Philosophy Of Time Travel,beast,travel,0.125
+Auto Rock,The Philosophy Of Time Travel,beast,philosophy,0.14285714285714285
+Auto Rock,The Philosophy Of Time Travel,beast,felony,0.11764705882352941
+Auto Rock,(They Long To Be) Close To You,auto,long,0
+Auto Rock,(They Long To Be) Close To You,auto,close,0.11764705882352941
+Auto Rock,(They Long To Be) Close To You,auto,essential,0.26666666666666666
+Auto Rock,(They Long To Be) Close To You,auto,collection,0.13333333333333333
+Auto Rock,(They Long To Be) Close To You,rock,long,0
+Auto Rock,(They Long To Be) Close To You,rock,close,0.16666666666666666
+Auto Rock,(They Long To Be) Close To You,rock,essential,0.4
+Auto Rock,(They Long To Be) Close To You,rock,collection,0.2
+Auto Rock,(They Long To Be) Close To You,mr,long,0
+Auto Rock,(They Long To Be) Close To You,mr,close,0.26666666666666666
+Auto Rock,(They Long To Be) Close To You,mr,essential,0.15384615384615385
+Auto Rock,(They Long To Be) Close To You,mr,collection,0.3076923076923077
+Auto Rock,(They Long To Be) Close To You,beast,long,0
+Auto Rock,(They Long To Be) Close To You,beast,close,0.15384615384615385
+Auto Rock,(They Long To Be) Close To You,beast,essential,0.36363636363636365
+Auto Rock,(They Long To Be) Close To You,beast,collection,0.18181818181818182
+Auto Rock,Miss World,auto,miss,0.38095238095238093
+Auto Rock,Miss World,auto,world,0.47058823529411764
+Auto Rock,Miss World,auto,sleepyheads,0.42105263157894735
+Auto Rock,Miss World,rock,miss,0.5
+Auto Rock,Miss World,rock,world,0.8333333333333334
+Auto Rock,Miss World,rock,sleepyheads,0.5714285714285714
+Auto Rock,Miss World,mr,miss,0.125
+Auto Rock,Miss World,mr,world,0.13333333333333333
+Auto Rock,Miss World,mr,sleepyheads,0.14285714285714285
+Auto Rock,Miss World,beast,miss,0.7058823529411765
+Auto Rock,Miss World,beast,world,0.6153846153846154
+Auto Rock,Miss World,beast,sleepyheads,0.8
+Auto Rock,Zopf: Pigtail,auto,pigtail,0.36363636363636365
+Auto Rock,Zopf: Pigtail,auto,penguin,0.32
+Auto Rock,Zopf: Pigtail,auto,cafe,0.5
+Auto Rock,Zopf: Pigtail,auto,music,0.125
+Auto Rock,Zopf: Pigtail,rock,pigtail,0.5882352941176471
+Auto Rock,Zopf: Pigtail,rock,penguin,0.4
+Auto Rock,Zopf: Pigtail,rock,cafe,0.5333333333333333
+Auto Rock,Zopf: Pigtail,rock,music,0.18181818181818182
+Auto Rock,Zopf: Pigtail,mr,pigtail,0.1
+Auto Rock,Zopf: Pigtail,mr,penguin,0.08695652173913043
+Auto Rock,Zopf: Pigtail,mr,cafe,0.1111111111111111
+Auto Rock,Zopf: Pigtail,mr,music,0.2857142857142857
+Auto Rock,Zopf: Pigtail,beast,pigtail,0.4444444444444444
+Auto Rock,Zopf: Pigtail,beast,penguin,0.6666666666666666
+Auto Rock,Zopf: Pigtail,beast,cafe,0.5
+Auto Rock,Zopf: Pigtail,beast,music,0.16666666666666666
+Auto Rock,Heaven Must Be Missing An Angel,auto,heaven,0.35294117647058826
+Auto Rock,Heaven Must Be Missing An Angel,auto,must,0.25
+Auto Rock,Heaven Must Be Missing An Angel,auto,missing,0
+Auto Rock,Heaven Must Be Missing An Angel,auto,angel,0.10526315789473684
+Auto Rock,Heaven Must Be Missing An Angel,auto,capitol,0.5
+Auto Rock,Heaven Must Be Missing An Angel,auto,gold,0.09090909090909091
+Auto Rock,Heaven Must Be Missing An Angel,auto,best,0.10526315789473684
+Auto Rock,Heaven Must Be Missing An Angel,rock,heaven,0.5
+Auto Rock,Heaven Must Be Missing An Angel,rock,must,0.36363636363636365
+Auto Rock,Heaven Must Be Missing An Angel,rock,missing,0
+Auto Rock,Heaven Must Be Missing An Angel,rock,angel,0.14285714285714285
+Auto Rock,Heaven Must Be Missing An Angel,rock,capitol,0.5333333333333333
+Auto Rock,Heaven Must Be Missing An Angel,rock,gold,0.11764705882352941
+Auto Rock,Heaven Must Be Missing An Angel,rock,best,0.14285714285714285
+Auto Rock,Heaven Must Be Missing An Angel,mr,heaven,0.13333333333333333
+Auto Rock,Heaven Must Be Missing An Angel,mr,must,0.14285714285714285
+Auto Rock,Heaven Must Be Missing An Angel,mr,missing,0
+Auto Rock,Heaven Must Be Missing An Angel,mr,angel,0.23529411764705882
+Auto Rock,Heaven Must Be Missing An Angel,mr,capitol,0.1111111111111111
+Auto Rock,Heaven Must Be Missing An Angel,mr,gold,0.3
+Auto Rock,Heaven Must Be Missing An Angel,mr,best,0.23529411764705882
+Auto Rock,Heaven Must Be Missing An Angel,beast,heaven,0.46153846153846156
+Auto Rock,Heaven Must Be Missing An Angel,beast,must,0.3333333333333333
+Auto Rock,Heaven Must Be Missing An Angel,beast,missing,0
+Auto Rock,Heaven Must Be Missing An Angel,beast,angel,0.13333333333333333
+Auto Rock,Heaven Must Be Missing An Angel,beast,capitol,0.5
+Auto Rock,Heaven Must Be Missing An Angel,beast,gold,0.1111111111111111
+Auto Rock,Heaven Must Be Missing An Angel,beast,best,0.13333333333333333
+Auto Rock,In Walks The Night,auto,walks,0.09523809523809523
+Auto Rock,In Walks The Night,auto,night,0.11764705882352941
+Auto Rock,In Walks The Night,auto,desire,0.11764705882352941
+Auto Rock,In Walks The Night,auto,walks,0.09523809523809523
+Auto Rock,In Walks The Night,auto,l,0.10526315789473684
+Auto Rock,In Walks The Night,rock,walks,0.125
+Auto Rock,In Walks The Night,rock,night,0.16666666666666666
+Auto Rock,In Walks The Night,rock,desire,0.16666666666666666
+Auto Rock,In Walks The Night,rock,walks,0.125
+Auto Rock,In Walks The Night,rock,l,0.14285714285714285
+Auto Rock,In Walks The Night,mr,walks,0.21052631578947367
+Auto Rock,In Walks The Night,mr,night,0.26666666666666666
+Auto Rock,In Walks The Night,mr,desire,0.26666666666666666
+Auto Rock,In Walks The Night,mr,walks,0.21052631578947367
+Auto Rock,In Walks The Night,mr,l,0.23529411764705882
+Auto Rock,In Walks The Night,beast,walks,0.11764705882352941
+Auto Rock,In Walks The Night,beast,night,0.15384615384615385
+Auto Rock,In Walks The Night,beast,desire,0.15384615384615385
+Auto Rock,In Walks The Night,beast,walks,0.11764705882352941
+Auto Rock,In Walks The Night,beast,l,0.13333333333333333
+Auto Rock,Impossible,auto,impossible,0.09523809523809523
+Auto Rock,Impossible,auto,stripped,0
+Auto Rock,Impossible,rock,impossible,0.125
+Auto Rock,Impossible,rock,stripped,0
+Auto Rock,Impossible,mr,impossible,0.21052631578947367
+Auto Rock,Impossible,mr,stripped,0
+Auto Rock,Impossible,beast,impossible,0.11764705882352941
+Auto Rock,Impossible,beast,stripped,0
+Auto Rock,Umoja,auto,unity,0.125
+Auto Rock,Umoja,auto,togetherness,0.1
+Auto Rock,Umoja,auto,spirit,0.25
+Auto Rock,Umoja,rock,unity,0.18181818181818182
+Auto Rock,Umoja,rock,togetherness,0.13333333333333333
+Auto Rock,Umoja,rock,spirit,0.36363636363636365
+Auto Rock,Umoja,mr,unity,0.2857142857142857
+Auto Rock,Umoja,mr,togetherness,0.2222222222222222
+Auto Rock,Umoja,mr,spirit,0.14285714285714285
+Auto Rock,Umoja,beast,unity,0.16666666666666666
+Auto Rock,Umoja,beast,togetherness,0.125
+Auto Rock,Umoja,beast,spirit,0.3333333333333333
+Auto Rock,Everyday,auto,everyday,0
+Auto Rock,Everyday,auto,sides,0.35294117647058826
+Auto Rock,Everyday,rock,everyday,0
+Auto Rock,Everyday,rock,sides,0.5
+Auto Rock,Everyday,mr,everyday,0
+Auto Rock,Everyday,mr,sides,0.13333333333333333
+Auto Rock,Everyday,beast,everyday,0
+Auto Rock,Everyday,beast,sides,0.46153846153846156
+Who Knows Who Cares,Walk A Little Straighter,knows,little,0.2857142857142857
+Who Knows Who Cares,Walk A Little Straighter,knows,straighter,0
+Who Knows Who Cares,Walk A Little Straighter,knows,walk,0.3333333333333333
+Who Knows Who Cares,Walk A Little Straighter,knows,right,0.47058823529411764
+Who Knows Who Cares,Walk A Little Straighter,knows,billy,0.1111111111111111
+Who Knows Who Cares,Walk A Little Straighter,cares,little,0.2857142857142857
+Who Knows Who Cares,Walk A Little Straighter,cares,straighter,0
+Who Knows Who Cares,Walk A Little Straighter,cares,walk,0.5555555555555556
+Who Knows Who Cares,Walk A Little Straighter,cares,right,0.35294117647058826
+Who Knows Who Cares,Walk A Little Straighter,cares,billy,0.1111111111111111
+Who Knows Who Cares,Walk A Little Straighter,gorilla,little,0.09090909090909091
+Who Knows Who Cares,Walk A Little Straighter,gorilla,straighter,0
+Who Knows Who Cares,Walk A Little Straighter,gorilla,walk,0.07692307692307693
+Who Knows Who Cares,Walk A Little Straighter,gorilla,right,0.08
+Who Knows Who Cares,Walk A Little Straighter,gorilla,billy,0.3076923076923077
+Who Knows Who Cares,Walk A Little Straighter,manor,little,0.125
+Who Knows Who Cares,Walk A Little Straighter,manor,straighter,0
+Who Knows Who Cares,Walk A Little Straighter,manor,walk,0.1
+Who Knows Who Cares,Walk A Little Straighter,manor,right,0.10526315789473684
+Who Knows Who Cares,Walk A Little Straighter,manor,billy,0.5
+Who Knows Who Cares,All Tomorrow's Parties,knows,tomorrow,0.2857142857142857
+Who Knows Who Cares,All Tomorrow's Parties,knows,parties,0.2857142857142857
+Who Knows Who Cares,All Tomorrow's Parties,knows,velvet,0.13333333333333333
+Who Knows Who Cares,All Tomorrow's Parties,knows,underground,0.23529411764705882
+Who Knows Who Cares,All Tomorrow's Parties,cares,tomorrow,0.2857142857142857
+Who Knows Who Cares,All Tomorrow's Parties,cares,parties,0.2857142857142857
+Who Knows Who Cares,All Tomorrow's Parties,cares,velvet,0.13333333333333333
+Who Knows Who Cares,All Tomorrow's Parties,cares,underground,0.23529411764705882
+Who Knows Who Cares,All Tomorrow's Parties,gorilla,tomorrow,0.09090909090909091
+Who Knows Who Cares,All Tomorrow's Parties,gorilla,parties,0.09090909090909091
+Who Knows Who Cares,All Tomorrow's Parties,gorilla,velvet,0.34782608695652173
+Who Knows Who Cares,All Tomorrow's Parties,gorilla,underground,0.08
+Who Knows Who Cares,All Tomorrow's Parties,manor,tomorrow,0.125
+Who Knows Who Cares,All Tomorrow's Parties,manor,parties,0.125
+Who Knows Who Cares,All Tomorrow's Parties,manor,velvet,0.5882352941176471
+Who Knows Who Cares,All Tomorrow's Parties,manor,underground,0.10526315789473684
+Who Knows Who Cares,Devil's All You've Ever Had,knows,ever,0
+Who Knows Who Cares,Devil's All You've Ever Had,knows,devil,0.5
+Who Knows Who Cares,Devil's All You've Ever Had,knows,thief,0.11764705882352941
+Who Knows Who Cares,Devil's All You've Ever Had,knows,heartbreaker,0.14285714285714285
+Who Knows Who Cares,Devil's All You've Ever Had,cares,ever,0
+Who Knows Who Cares,Devil's All You've Ever Had,cares,devil,0.375
+Who Knows Who Cares,Devil's All You've Ever Had,cares,thief,0.11764705882352941
+Who Knows Who Cares,Devil's All You've Ever Had,cares,heartbreaker,0.14285714285714285
+Who Knows Who Cares,Devil's All You've Ever Had,gorilla,ever,0
+Who Knows Who Cares,Devil's All You've Ever Had,gorilla,devil,0.08333333333333333
+Who Knows Who Cares,Devil's All You've Ever Had,gorilla,thief,0.42857142857142855
+Who Knows Who Cares,Devil's All You've Ever Had,gorilla,heartbreaker,0.48
+Who Knows Who Cares,Devil's All You've Ever Had,manor,ever,0
+Who Knows Who Cares,Devil's All You've Ever Had,manor,devil,0.1111111111111111
+Who Knows Who Cares,Devil's All You've Ever Had,manor,thief,0.36363636363636365
+Who Knows Who Cares,Devil's All You've Ever Had,manor,heartbreaker,0.42105263157894735
+Who Knows Who Cares,The Philosophy Of Time Travel,knows,time,0.4
+Who Knows Who Cares,The Philosophy Of Time Travel,knows,travel,0.35294117647058826
+Who Knows Who Cares,The Philosophy Of Time Travel,knows,philosophy,0.5333333333333333
+Who Knows Who Cares,The Philosophy Of Time Travel,knows,felony,0.3333333333333333
+Who Knows Who Cares,The Philosophy Of Time Travel,cares,time,0.5333333333333333
+Who Knows Who Cares,The Philosophy Of Time Travel,cares,travel,0.5882352941176471
+Who Knows Who Cares,The Philosophy Of Time Travel,cares,philosophy,0.4
+Who Knows Who Cares,The Philosophy Of Time Travel,cares,felony,0.6666666666666666
+Who Knows Who Cares,The Philosophy Of Time Travel,gorilla,time,0.08695652173913043
+Who Knows Who Cares,The Philosophy Of Time Travel,gorilla,travel,0.08
+Who Knows Who Cares,The Philosophy Of Time Travel,gorilla,philosophy,0.08695652173913043
+Who Knows Who Cares,The Philosophy Of Time Travel,gorilla,felony,0.07692307692307693
+Who Knows Who Cares,The Philosophy Of Time Travel,manor,time,0.11764705882352941
+Who Knows Who Cares,The Philosophy Of Time Travel,manor,travel,0.10526315789473684
+Who Knows Who Cares,The Philosophy Of Time Travel,manor,philosophy,0.11764705882352941
+Who Knows Who Cares,The Philosophy Of Time Travel,manor,felony,0.1
+Who Knows Who Cares,(They Long To Be) Close To You,knows,long,0
+Who Knows Who Cares,(They Long To Be) Close To You,knows,close,0.2857142857142857
+Who Knows Who Cares,(They Long To Be) Close To You,knows,essential,0.16666666666666666
+Who Knows Who Cares,(They Long To Be) Close To You,knows,collection,0.3333333333333333
+Who Knows Who Cares,(They Long To Be) Close To You,cares,long,0
+Who Knows Who Cares,(They Long To Be) Close To You,cares,close,0.2857142857142857
+Who Knows Who Cares,(They Long To Be) Close To You,cares,essential,0.16666666666666666
+Who Knows Who Cares,(They Long To Be) Close To You,cares,collection,0.3333333333333333
+Who Knows Who Cares,(They Long To Be) Close To You,gorilla,long,0
+Who Knows Who Cares,(They Long To Be) Close To You,gorilla,close,0.09090909090909091
+Who Knows Who Cares,(They Long To Be) Close To You,gorilla,essential,0.2
+Who Knows Who Cares,(They Long To Be) Close To You,gorilla,collection,0.1
+Who Knows Who Cares,(They Long To Be) Close To You,manor,long,0
+Who Knows Who Cares,(They Long To Be) Close To You,manor,close,0.125
+Who Knows Who Cares,(They Long To Be) Close To You,manor,essential,0.2857142857142857
+Who Knows Who Cares,(They Long To Be) Close To You,manor,collection,0.14285714285714285
+Who Knows Who Cares,Miss World,knows,miss,0.13333333333333333
+Who Knows Who Cares,Miss World,knows,world,0.14285714285714285
+Who Knows Who Cares,Miss World,knows,sleepyheads,0.15384615384615385
+Who Knows Who Cares,Miss World,cares,miss,0.13333333333333333
+Who Knows Who Cares,Miss World,cares,world,0.14285714285714285
+Who Knows Who Cares,Miss World,cares,sleepyheads,0.15384615384615385
+Who Knows Who Cares,Miss World,gorilla,miss,0.46153846153846156
+Who Knows Who Cares,Miss World,gorilla,world,0.36363636363636365
+Who Knows Who Cares,Miss World,gorilla,sleepyheads,0.5
+Who Knows Who Cares,Miss World,manor,miss,0.4
+Who Knows Who Cares,Miss World,manor,world,0.5
+Who Knows Who Cares,Miss World,manor,sleepyheads,0.4444444444444444
+Who Knows Who Cares,Zopf: Pigtail,knows,pigtail,0.10526315789473684
+Who Knows Who Cares,Zopf: Pigtail,knows,penguin,0.09090909090909091
+Who Knows Who Cares,Zopf: Pigtail,knows,cafe,0.11764705882352941
+Who Knows Who Cares,Zopf: Pigtail,knows,music,0.3076923076923077
+Who Knows Who Cares,Zopf: Pigtail,cares,pigtail,0.10526315789473684
+Who Knows Who Cares,Zopf: Pigtail,cares,penguin,0.09090909090909091
+Who Knows Who Cares,Zopf: Pigtail,cares,cafe,0.11764705882352941
+Who Knows Who Cares,Zopf: Pigtail,cares,music,0.3076923076923077
+Who Knows Who Cares,Zopf: Pigtail,gorilla,pigtail,0.2962962962962963
+Who Knows Who Cares,Zopf: Pigtail,gorilla,penguin,0.6
+Who Knows Who Cares,Zopf: Pigtail,gorilla,cafe,0.32
+Who Knows Who Cares,Zopf: Pigtail,gorilla,music,0.09523809523809523
+Who Knows Who Cares,Zopf: Pigtail,manor,pigtail,0.38095238095238093
+Who Knows Who Cares,Zopf: Pigtail,manor,penguin,0.3333333333333333
+Who Knows Who Cares,Zopf: Pigtail,manor,cafe,0.7368421052631579
+Who Knows Who Cares,Zopf: Pigtail,manor,music,0.13333333333333333
+Who Knows Who Cares,Heaven Must Be Missing An Angel,knows,heaven,0.14285714285714285
+Who Knows Who Cares,Heaven Must Be Missing An Angel,knows,must,0.15384615384615385
+Who Knows Who Cares,Heaven Must Be Missing An Angel,knows,missing,0
+Who Knows Who Cares,Heaven Must Be Missing An Angel,knows,angel,0.5
+Who Knows Who Cares,Heaven Must Be Missing An Angel,knows,capitol,0.11764705882352941
+Who Knows Who Cares,Heaven Must Be Missing An Angel,knows,gold,0.21052631578947367
+Who Knows Who Cares,Heaven Must Be Missing An Angel,knows,best,0.375
+Who Knows Who Cares,Heaven Must Be Missing An Angel,cares,heaven,0.14285714285714285
+Who Knows Who Cares,Heaven Must Be Missing An Angel,cares,must,0.15384615384615385
+Who Knows Who Cares,Heaven Must Be Missing An Angel,cares,missing,0
+Who Knows Who Cares,Heaven Must Be Missing An Angel,cares,angel,0.375
+Who Knows Who Cares,Heaven Must Be Missing An Angel,cares,capitol,0.11764705882352941
+Who Knows Who Cares,Heaven Must Be Missing An Angel,cares,gold,0.21052631578947367
+Who Knows Who Cares,Heaven Must Be Missing An Angel,cares,best,0.75
+Who Knows Who Cares,Heaven Must Be Missing An Angel,gorilla,heaven,0.2727272727272727
+Who Knows Who Cares,Heaven Must Be Missing An Angel,gorilla,must,0.19047619047619047
+Who Knows Who Cares,Heaven Must Be Missing An Angel,gorilla,missing,0
+Who Knows Who Cares,Heaven Must Be Missing An Angel,gorilla,angel,0.08333333333333333
+Who Knows Who Cares,Heaven Must Be Missing An Angel,gorilla,capitol,0.32
+Who Knows Who Cares,Heaven Must Be Missing An Angel,gorilla,gold,0.07407407407407407
+Who Knows Who Cares,Heaven Must Be Missing An Angel,gorilla,best,0.08333333333333333
+Who Knows Who Cares,Heaven Must Be Missing An Angel,manor,heaven,0.375
+Who Knows Who Cares,Heaven Must Be Missing An Angel,manor,must,0.26666666666666666
+Who Knows Who Cares,Heaven Must Be Missing An Angel,manor,missing,0
+Who Knows Who Cares,Heaven Must Be Missing An Angel,manor,angel,0.1111111111111111
+Who Knows Who Cares,Heaven Must Be Missing An Angel,manor,capitol,0.7368421052631579
+Who Knows Who Cares,Heaven Must Be Missing An Angel,manor,gold,0.09523809523809523
+Who Knows Who Cares,Heaven Must Be Missing An Angel,manor,best,0.1111111111111111
+Who Knows Who Cares,In Walks The Night,knows,walks,0.3333333333333333
+Who Knows Who Cares,In Walks The Night,knows,night,0.2857142857142857
+Who Knows Who Cares,In Walks The Night,knows,desire,0.2857142857142857
+Who Knows Who Cares,In Walks The Night,knows,walks,0.3333333333333333
+Who Knows Who Cares,In Walks The Night,knows,l,0.25
+Who Knows Who Cares,In Walks The Night,cares,walks,0.5555555555555556
+Who Knows Who Cares,In Walks The Night,cares,night,0.2857142857142857
+Who Knows Who Cares,In Walks The Night,cares,desire,0.2857142857142857
+Who Knows Who Cares,In Walks The Night,cares,walks,0.5555555555555556
+Who Knows Who Cares,In Walks The Night,cares,l,0.25
+Who Knows Who Cares,In Walks The Night,gorilla,walks,0.07692307692307693
+Who Knows Who Cares,In Walks The Night,gorilla,night,0.09090909090909091
+Who Knows Who Cares,In Walks The Night,gorilla,desire,0.09090909090909091
+Who Knows Who Cares,In Walks The Night,gorilla,walks,0.07692307692307693
+Who Knows Who Cares,In Walks The Night,gorilla,l,0.08333333333333333
+Who Knows Who Cares,In Walks The Night,manor,walks,0.1
+Who Knows Who Cares,In Walks The Night,manor,night,0.125
+Who Knows Who Cares,In Walks The Night,manor,desire,0.125
+Who Knows Who Cares,In Walks The Night,manor,walks,0.1
+Who Knows Who Cares,In Walks The Night,manor,l,0.1111111111111111
+Who Knows Who Cares,Impossible,knows,impossible,0.6666666666666666
+Who Knows Who Cares,Impossible,knows,stripped,0
+Who Knows Who Cares,Impossible,cares,impossible,0.3333333333333333
+Who Knows Who Cares,Impossible,cares,stripped,0
+Who Knows Who Cares,Impossible,gorilla,impossible,0.07692307692307693
+Who Knows Who Cares,Impossible,gorilla,stripped,0
+Who Knows Who Cares,Impossible,manor,impossible,0.1
+Who Knows Who Cares,Impossible,manor,stripped,0
+Who Knows Who Cares,Umoja,knows,unity,0.3076923076923077
+Who Knows Who Cares,Umoja,knows,togetherness,0.23529411764705882
+Who Knows Who Cares,Umoja,knows,spirit,0.15384615384615385
+Who Knows Who Cares,Umoja,cares,unity,0.3076923076923077
+Who Knows Who Cares,Umoja,cares,togetherness,0.23529411764705882
+Who Knows Who Cares,Umoja,cares,spirit,0.15384615384615385
+Who Knows Who Cares,Umoja,gorilla,unity,0.09523809523809523
+Who Knows Who Cares,Umoja,gorilla,togetherness,0.08
+Who Knows Who Cares,Umoja,gorilla,spirit,0.19047619047619047
+Who Knows Who Cares,Umoja,manor,unity,0.13333333333333333
+Who Knows Who Cares,Umoja,manor,togetherness,0.10526315789473684
+Who Knows Who Cares,Umoja,manor,spirit,0.26666666666666666
+Who Knows Who Cares,Everyday,knows,everyday,0
+Who Knows Who Cares,Everyday,knows,sides,0.14285714285714285
+Who Knows Who Cares,Everyday,cares,everyday,0
+Who Knows Who Cares,Everyday,cares,sides,0.14285714285714285
+Who Knows Who Cares,Everyday,gorilla,everyday,0
+Who Knows Who Cares,Everyday,gorilla,sides,0.2727272727272727
+Who Knows Who Cares,Everyday,manor,everyday,0
+Who Knows Who Cares,Everyday,manor,sides,0.375
+Quiet,Walk A Little Straighter,quiet,little,0.11764705882352941
+Quiet,Walk A Little Straighter,quiet,straighter,0
+Quiet,Walk A Little Straighter,quiet,walk,0.09523809523809523
+Quiet,Walk A Little Straighter,quiet,right,0.1
+Quiet,Walk A Little Straighter,quiet,billy,0.19047619047619047
+Quiet,Walk A Little Straighter,young,little,0.14285714285714285
+Quiet,Walk A Little Straighter,young,straighter,0
+Quiet,Walk A Little Straighter,young,walk,0.1111111111111111
+Quiet,Walk A Little Straighter,young,right,0.11764705882352941
+Quiet,Walk A Little Straighter,young,billy,0.4444444444444444
+Quiet,Walk A Little Straighter,mountain,little,0.16666666666666666
+Quiet,Walk A Little Straighter,mountain,straighter,0
+Quiet,Walk A Little Straighter,mountain,walk,0.125
+Quiet,Walk A Little Straighter,mountain,right,0.13333333333333333
+Quiet,Walk A Little Straighter,mountain,billy,0.375
+Quiet,All Tomorrow's Parties,quiet,tomorrow,0.11764705882352941
+Quiet,All Tomorrow's Parties,quiet,parties,0.11764705882352941
+Quiet,All Tomorrow's Parties,quiet,velvet,0.2222222222222222
+Quiet,All Tomorrow's Parties,quiet,underground,0.1
+Quiet,All Tomorrow's Parties,young,tomorrow,0.14285714285714285
+Quiet,All Tomorrow's Parties,young,parties,0.14285714285714285
+Quiet,All Tomorrow's Parties,young,velvet,0.5333333333333333
+Quiet,All Tomorrow's Parties,young,underground,0.11764705882352941
+Quiet,All Tomorrow's Parties,mountain,tomorrow,0.16666666666666666
+Quiet,All Tomorrow's Parties,mountain,parties,0.16666666666666666
+Quiet,All Tomorrow's Parties,mountain,velvet,0.46153846153846156
+Quiet,All Tomorrow's Parties,mountain,underground,0.13333333333333333
+Quiet,Devil's All You've Ever Had,quiet,ever,0
+Quiet,Devil's All You've Ever Had,quiet,devil,0.10526315789473684
+Quiet,Devil's All You've Ever Had,quiet,thief,0.2
+Quiet,Devil's All You've Ever Had,quiet,heartbreaker,0.23529411764705882
+Quiet,Devil's All You've Ever Had,young,ever,0
+Quiet,Devil's All You've Ever Had,young,devil,0.125
+Quiet,Devil's All You've Ever Had,young,thief,0.6
+Quiet,Devil's All You've Ever Had,young,heartbreaker,0.7058823529411765
+Quiet,Devil's All You've Ever Had,mountain,ever,0
+Quiet,Devil's All You've Ever Had,mountain,devil,0.14285714285714285
+Quiet,Devil's All You've Ever Had,mountain,thief,0.35294117647058826
+Quiet,Devil's All You've Ever Had,mountain,heartbreaker,0.42857142857142855
+Quiet,The Philosophy Of Time Travel,quiet,time,0.1111111111111111
+Quiet,The Philosophy Of Time Travel,quiet,travel,0.1
+Quiet,The Philosophy Of Time Travel,quiet,philosophy,0.1111111111111111
+Quiet,The Philosophy Of Time Travel,quiet,felony,0.09523809523809523
+Quiet,The Philosophy Of Time Travel,young,time,0.13333333333333333
+Quiet,The Philosophy Of Time Travel,young,travel,0.11764705882352941
+Quiet,The Philosophy Of Time Travel,young,philosophy,0.13333333333333333
+Quiet,The Philosophy Of Time Travel,young,felony,0.1111111111111111
+Quiet,The Philosophy Of Time Travel,mountain,time,0.15384615384615385
+Quiet,The Philosophy Of Time Travel,mountain,travel,0.13333333333333333
+Quiet,The Philosophy Of Time Travel,mountain,philosophy,0.15384615384615385
+Quiet,The Philosophy Of Time Travel,mountain,felony,0.125
+Quiet,(They Long To Be) Close To You,quiet,long,0
+Quiet,(They Long To Be) Close To You,quiet,close,0.11764705882352941
+Quiet,(They Long To Be) Close To You,quiet,essential,0.26666666666666666
+Quiet,(They Long To Be) Close To You,quiet,collection,0.13333333333333333
+Quiet,(They Long To Be) Close To You,young,long,0
+Quiet,(They Long To Be) Close To You,young,close,0.14285714285714285
+Quiet,(They Long To Be) Close To You,young,essential,0.3333333333333333
+Quiet,(They Long To Be) Close To You,young,collection,0.16666666666666666
+Quiet,(They Long To Be) Close To You,mountain,long,0
+Quiet,(They Long To Be) Close To You,mountain,close,0.16666666666666666
+Quiet,(They Long To Be) Close To You,mountain,essential,0.4
+Quiet,(They Long To Be) Close To You,mountain,collection,0.2
+Quiet,Miss World,quiet,miss,0.2222222222222222
+Quiet,Miss World,quiet,world,0.23529411764705882
+Quiet,Miss World,quiet,sleepyheads,0.25
+Quiet,Miss World,young,miss,0.6666666666666666
+Quiet,Miss World,young,world,0.5714285714285714
+Quiet,Miss World,young,sleepyheads,0.75
+Quiet,Miss World,mountain,miss,0.4
+Quiet,Miss World,mountain,world,0.5
+Quiet,Miss World,mountain,sleepyheads,0.46153846153846156
+Quiet,Zopf: Pigtail,quiet,pigtail,0.18181818181818182
+Quiet,Zopf: Pigtail,quiet,penguin,0.16
+Quiet,Zopf: Pigtail,quiet,cafe,0.2
+Quiet,Zopf: Pigtail,quiet,music,0.125
+Quiet,Zopf: Pigtail,young,pigtail,0.42105263157894735
+Quiet,Zopf: Pigtail,young,penguin,0.6363636363636364
+Quiet,Zopf: Pigtail,young,cafe,0.47058823529411764
+Quiet,Zopf: Pigtail,young,music,0.15384615384615385
+Quiet,Zopf: Pigtail,mountain,pigtail,0.35294117647058826
+Quiet,Zopf: Pigtail,mountain,penguin,0.3
+Quiet,Zopf: Pigtail,mountain,cafe,0.4
+Quiet,Zopf: Pigtail,mountain,music,0.18181818181818182
+Quiet,Heaven Must Be Missing An Angel,quiet,heaven,0.23529411764705882
+Quiet,Heaven Must Be Missing An Angel,quiet,must,0.25
+Quiet,Heaven Must Be Missing An Angel,quiet,missing,0
+Quiet,Heaven Must Be Missing An Angel,quiet,angel,0.10526315789473684
+Quiet,Heaven Must Be Missing An Angel,quiet,capitol,0.2
+Quiet,Heaven Must Be Missing An Angel,quiet,gold,0.09090909090909091
+Quiet,Heaven Must Be Missing An Angel,quiet,best,0.10526315789473684
+Quiet,Heaven Must Be Missing An Angel,young,heaven,0.42857142857142855
+Quiet,Heaven Must Be Missing An Angel,young,must,0.3076923076923077
+Quiet,Heaven Must Be Missing An Angel,young,missing,0
+Quiet,Heaven Must Be Missing An Angel,young,angel,0.125
+Quiet,Heaven Must Be Missing An Angel,young,capitol,0.47058823529411764
+Quiet,Heaven Must Be Missing An Angel,young,gold,0.10526315789473684
+Quiet,Heaven Must Be Missing An Angel,young,best,0.125
+Quiet,Heaven Must Be Missing An Angel,mountain,heaven,0.5
+Quiet,Heaven Must Be Missing An Angel,mountain,must,0.36363636363636365
+Quiet,Heaven Must Be Missing An Angel,mountain,missing,0
+Quiet,Heaven Must Be Missing An Angel,mountain,angel,0.14285714285714285
+Quiet,Heaven Must Be Missing An Angel,mountain,capitol,0.4
+Quiet,Heaven Must Be Missing An Angel,mountain,gold,0.11764705882352941
+Quiet,Heaven Must Be Missing An Angel,mountain,best,0.14285714285714285
+Quiet,In Walks The Night,quiet,walks,0.09523809523809523
+Quiet,In Walks The Night,quiet,night,0.11764705882352941
+Quiet,In Walks The Night,quiet,desire,0.11764705882352941
+Quiet,In Walks The Night,quiet,walks,0.09523809523809523
+Quiet,In Walks The Night,quiet,l,0.10526315789473684
+Quiet,In Walks The Night,young,walks,0.1111111111111111
+Quiet,In Walks The Night,young,night,0.14285714285714285
+Quiet,In Walks The Night,young,desire,0.14285714285714285
+Quiet,In Walks The Night,young,walks,0.1111111111111111
+Quiet,In Walks The Night,young,l,0.125
+Quiet,In Walks The Night,mountain,walks,0.125
+Quiet,In Walks The Night,mountain,night,0.16666666666666666
+Quiet,In Walks The Night,mountain,desire,0.16666666666666666
+Quiet,In Walks The Night,mountain,walks,0.125
+Quiet,In Walks The Night,mountain,l,0.14285714285714285
+Quiet,Impossible,quiet,impossible,0.09523809523809523
+Quiet,Impossible,quiet,stripped,0
+Quiet,Impossible,young,impossible,0.1111111111111111
+Quiet,Impossible,young,stripped,0
+Quiet,Impossible,mountain,impossible,0.125
+Quiet,Impossible,mountain,stripped,0
+Quiet,Umoja,quiet,unity,0.125
+Quiet,Umoja,quiet,togetherness,0.1
+Quiet,Umoja,quiet,spirit,0.25
+Quiet,Umoja,young,unity,0.15384615384615385
+Quiet,Umoja,young,togetherness,0.11764705882352941
+Quiet,Umoja,young,spirit,0.3076923076923077
+Quiet,Umoja,mountain,unity,0.18181818181818182
+Quiet,Umoja,mountain,togetherness,0.13333333333333333
+Quiet,Umoja,mountain,spirit,0.36363636363636365
+Quiet,Everyday,quiet,everyday,0
+Quiet,Everyday,quiet,sides,0.23529411764705882
+Quiet,Everyday,young,everyday,0
+Quiet,Everyday,young,sides,0.42857142857142855
+Quiet,Everyday,mountain,everyday,0
+Quiet,Everyday,mountain,sides,0.5
+Girlfriend,Walk A Little Straighter,girlfriend,little,0.16666666666666666
+Girlfriend,Walk A Little Straighter,girlfriend,straighter,0
+Girlfriend,Walk A Little Straighter,girlfriend,walk,0.125
+Girlfriend,Walk A Little Straighter,girlfriend,right,0.13333333333333333
+Girlfriend,Walk A Little Straighter,girlfriend,billy,0.42105263157894735
+Girlfriend,Walk A Little Straighter,phoenix,little,0.11764705882352941
+Girlfriend,Walk A Little Straighter,phoenix,straighter,0
+Girlfriend,Walk A Little Straighter,phoenix,walk,0.09523809523809523
+Girlfriend,Walk A Little Straighter,phoenix,right,0.1
+Girlfriend,Walk A Little Straighter,phoenix,billy,0.2857142857142857
+Girlfriend,All Tomorrow's Parties,girlfriend,tomorrow,0.16666666666666666
+Girlfriend,All Tomorrow's Parties,girlfriend,parties,0.16666666666666666
+Girlfriend,All Tomorrow's Parties,girlfriend,velvet,0.5
+Girlfriend,All Tomorrow's Parties,girlfriend,underground,0.13333333333333333
+Girlfriend,All Tomorrow's Parties,phoenix,tomorrow,0.11764705882352941
+Girlfriend,All Tomorrow's Parties,phoenix,parties,0.11764705882352941
+Girlfriend,All Tomorrow's Parties,phoenix,velvet,0.3333333333333333
+Girlfriend,All Tomorrow's Parties,phoenix,underground,0.1
+Girlfriend,Devil's All You've Ever Had,girlfriend,ever,0
+Girlfriend,Devil's All You've Ever Had,girlfriend,devil,0.14285714285714285
+Girlfriend,Devil's All You've Ever Had,girlfriend,thief,0.5714285714285714
+Girlfriend,Devil's All You've Ever Had,girlfriend,heartbreaker,0.6666666666666666
+Girlfriend,Devil's All You've Ever Had,phoenix,ever,0
+Girlfriend,Devil's All You've Ever Had,phoenix,devil,0.10526315789473684
+Girlfriend,Devil's All You've Ever Had,phoenix,thief,0.2727272727272727
+Girlfriend,Devil's All You've Ever Had,phoenix,heartbreaker,0.3157894736842105
+Girlfriend,The Philosophy Of Time Travel,girlfriend,time,0.15384615384615385
+Girlfriend,The Philosophy Of Time Travel,girlfriend,travel,0.13333333333333333
+Girlfriend,The Philosophy Of Time Travel,girlfriend,philosophy,0.15384615384615385
+Girlfriend,The Philosophy Of Time Travel,girlfriend,felony,0.125
+Girlfriend,The Philosophy Of Time Travel,phoenix,time,0.1111111111111111
+Girlfriend,The Philosophy Of Time Travel,phoenix,travel,0.1
+Girlfriend,The Philosophy Of Time Travel,phoenix,philosophy,0.1111111111111111
+Girlfriend,The Philosophy Of Time Travel,phoenix,felony,0.09523809523809523
+Girlfriend,(They Long To Be) Close To You,girlfriend,long,0
+Girlfriend,(They Long To Be) Close To You,girlfriend,close,0.16666666666666666
+Girlfriend,(They Long To Be) Close To You,girlfriend,essential,0.4
+Girlfriend,(They Long To Be) Close To You,girlfriend,collection,0.2
+Girlfriend,(They Long To Be) Close To You,phoenix,long,0
+Girlfriend,(They Long To Be) Close To You,phoenix,close,0.11764705882352941
+Girlfriend,(They Long To Be) Close To You,phoenix,essential,0.26666666666666666
+Girlfriend,(They Long To Be) Close To You,phoenix,collection,0.13333333333333333
+Girlfriend,Miss World,girlfriend,miss,0.631578947368421
+Girlfriend,Miss World,girlfriend,world,0.5333333333333333
+Girlfriend,Miss World,girlfriend,sleepyheads,0.7058823529411765
+Girlfriend,Miss World,phoenix,miss,0.3
+Girlfriend,Miss World,phoenix,world,0.35294117647058826
+Girlfriend,Miss World,phoenix,sleepyheads,0.3333333333333333
+Girlfriend,Zopf: Pigtail,girlfriend,pigtail,0.4
+Girlfriend,Zopf: Pigtail,girlfriend,penguin,0.5217391304347826
+Girlfriend,Zopf: Pigtail,girlfriend,cafe,0.4444444444444444
+Girlfriend,Zopf: Pigtail,girlfriend,music,0.18181818181818182
+Girlfriend,Zopf: Pigtail,phoenix,pigtail,0.2727272727272727
+Girlfriend,Zopf: Pigtail,phoenix,penguin,0.24
+Girlfriend,Zopf: Pigtail,phoenix,cafe,0.3
+Girlfriend,Zopf: Pigtail,phoenix,music,0.125
+Girlfriend,Heaven Must Be Missing An Angel,girlfriend,heaven,0.42857142857142855
+Girlfriend,Heaven Must Be Missing An Angel,girlfriend,must,0.36363636363636365
+Girlfriend,Heaven Must Be Missing An Angel,girlfriend,missing,0
+Girlfriend,Heaven Must Be Missing An Angel,girlfriend,angel,0.14285714285714285
+Girlfriend,Heaven Must Be Missing An Angel,girlfriend,capitol,0.4444444444444444
+Girlfriend,Heaven Must Be Missing An Angel,girlfriend,gold,0.11764705882352941
+Girlfriend,Heaven Must Be Missing An Angel,girlfriend,best,0.14285714285714285
+Girlfriend,Heaven Must Be Missing An Angel,phoenix,heaven,0.47058823529411764
+Girlfriend,Heaven Must Be Missing An Angel,phoenix,must,0.25
+Girlfriend,Heaven Must Be Missing An Angel,phoenix,missing,0
+Girlfriend,Heaven Must Be Missing An Angel,phoenix,angel,0.10526315789473684
+Girlfriend,Heaven Must Be Missing An Angel,phoenix,capitol,0.3
+Girlfriend,Heaven Must Be Missing An Angel,phoenix,gold,0.09090909090909091
+Girlfriend,Heaven Must Be Missing An Angel,phoenix,best,0.10526315789473684
+Girlfriend,In Walks The Night,girlfriend,walks,0.125
+Girlfriend,In Walks The Night,girlfriend,night,0.16666666666666666
+Girlfriend,In Walks The Night,girlfriend,desire,0.16666666666666666
+Girlfriend,In Walks The Night,girlfriend,walks,0.125
+Girlfriend,In Walks The Night,girlfriend,l,0.14285714285714285
+Girlfriend,In Walks The Night,phoenix,walks,0.09523809523809523
+Girlfriend,In Walks The Night,phoenix,night,0.11764705882352941
+Girlfriend,In Walks The Night,phoenix,desire,0.11764705882352941
+Girlfriend,In Walks The Night,phoenix,walks,0.09523809523809523
+Girlfriend,In Walks The Night,phoenix,l,0.10526315789473684
+Girlfriend,Impossible,girlfriend,impossible,0.125
+Girlfriend,Impossible,girlfriend,stripped,0
+Girlfriend,Impossible,phoenix,impossible,0.09523809523809523
+Girlfriend,Impossible,phoenix,stripped,0
+Girlfriend,Umoja,girlfriend,unity,0.18181818181818182
+Girlfriend,Umoja,girlfriend,togetherness,0.13333333333333333
+Girlfriend,Umoja,girlfriend,spirit,0.5454545454545454
+Girlfriend,Umoja,phoenix,unity,0.125
+Girlfriend,Umoja,phoenix,togetherness,0.1
+Girlfriend,Umoja,phoenix,spirit,0.25
+Girlfriend,Everyday,girlfriend,everyday,0
+Girlfriend,Everyday,girlfriend,sides,0.42857142857142855
+Girlfriend,Everyday,phoenix,everyday,0
+Girlfriend,Everyday,phoenix,sides,0.47058823529411764
+Happiness: We're All In It Together,Walk A Little Straighter,together,little,0
+Happiness: We're All In It Together,Walk A Little Straighter,together,straighter,0
+Happiness: We're All In It Together,Walk A Little Straighter,together,walk,0
+Happiness: We're All In It Together,Walk A Little Straighter,together,right,0
+Happiness: We're All In It Together,Walk A Little Straighter,together,billy,0
+Happiness: We're All In It Together,Walk A Little Straighter,happiness,little,0.2857142857142857
+Happiness: We're All In It Together,Walk A Little Straighter,happiness,straighter,0
+Happiness: We're All In It Together,Walk A Little Straighter,happiness,walk,0.2222222222222222
+Happiness: We're All In It Together,Walk A Little Straighter,happiness,right,0.23529411764705882
+Happiness: We're All In It Together,Walk A Little Straighter,happiness,billy,0.1111111111111111
+Happiness: We're All In It Together,Walk A Little Straighter,young,little,0.14285714285714285
+Happiness: We're All In It Together,Walk A Little Straighter,young,straighter,0
+Happiness: We're All In It Together,Walk A Little Straighter,young,walk,0.1111111111111111
+Happiness: We're All In It Together,Walk A Little Straighter,young,right,0.11764705882352941
+Happiness: We're All In It Together,Walk A Little Straighter,young,billy,0.4444444444444444
+Happiness: We're All In It Together,Walk A Little Straighter,mountain,little,0.16666666666666666
+Happiness: We're All In It Together,Walk A Little Straighter,mountain,straighter,0
+Happiness: We're All In It Together,Walk A Little Straighter,mountain,walk,0.125
+Happiness: We're All In It Together,Walk A Little Straighter,mountain,right,0.13333333333333333
+Happiness: We're All In It Together,Walk A Little Straighter,mountain,billy,0.375
+Happiness: We're All In It Together,All Tomorrow's Parties,together,tomorrow,0
+Happiness: We're All In It Together,All Tomorrow's Parties,together,parties,0
+Happiness: We're All In It Together,All Tomorrow's Parties,together,velvet,0
+Happiness: We're All In It Together,All Tomorrow's Parties,together,underground,0
+Happiness: We're All In It Together,All Tomorrow's Parties,happiness,tomorrow,0.2857142857142857
+Happiness: We're All In It Together,All Tomorrow's Parties,happiness,parties,0.2857142857142857
+Happiness: We're All In It Together,All Tomorrow's Parties,happiness,velvet,0.13333333333333333
+Happiness: We're All In It Together,All Tomorrow's Parties,happiness,underground,0.23529411764705882
+Happiness: We're All In It Together,All Tomorrow's Parties,young,tomorrow,0.14285714285714285
+Happiness: We're All In It Together,All Tomorrow's Parties,young,parties,0.14285714285714285
+Happiness: We're All In It Together,All Tomorrow's Parties,young,velvet,0.5333333333333333
+Happiness: We're All In It Together,All Tomorrow's Parties,young,underground,0.11764705882352941
+Happiness: We're All In It Together,All Tomorrow's Parties,mountain,tomorrow,0.16666666666666666
+Happiness: We're All In It Together,All Tomorrow's Parties,mountain,parties,0.16666666666666666
+Happiness: We're All In It Together,All Tomorrow's Parties,mountain,velvet,0.46153846153846156
+Happiness: We're All In It Together,All Tomorrow's Parties,mountain,underground,0.13333333333333333
+Happiness: We're All In It Together,Devil's All You've Ever Had,together,ever,0
+Happiness: We're All In It Together,Devil's All You've Ever Had,together,devil,0
+Happiness: We're All In It Together,Devil's All You've Ever Had,together,thief,0
+Happiness: We're All In It Together,Devil's All You've Ever Had,together,heartbreaker,0
+Happiness: We're All In It Together,Devil's All You've Ever Had,happiness,ever,0
+Happiness: We're All In It Together,Devil's All You've Ever Had,happiness,devil,0.25
+Happiness: We're All In It Together,Devil's All You've Ever Had,happiness,thief,0.11764705882352941
+Happiness: We're All In It Together,Devil's All You've Ever Had,happiness,heartbreaker,0.14285714285714285
+Happiness: We're All In It Together,Devil's All You've Ever Had,young,ever,0
+Happiness: We're All In It Together,Devil's All You've Ever Had,young,devil,0.125
+Happiness: We're All In It Together,Devil's All You've Ever Had,young,thief,0.6
+Happiness: We're All In It Together,Devil's All You've Ever Had,young,heartbreaker,0.7058823529411765
+Happiness: We're All In It Together,Devil's All You've Ever Had,mountain,ever,0
+Happiness: We're All In It Together,Devil's All You've Ever Had,mountain,devil,0.14285714285714285
+Happiness: We're All In It Together,Devil's All You've Ever Had,mountain,thief,0.35294117647058826
+Happiness: We're All In It Together,Devil's All You've Ever Had,mountain,heartbreaker,0.42857142857142855
+Happiness: We're All In It Together,The Philosophy Of Time Travel,together,time,0
+Happiness: We're All In It Together,The Philosophy Of Time Travel,together,travel,0
+Happiness: We're All In It Together,The Philosophy Of Time Travel,together,philosophy,0
+Happiness: We're All In It Together,The Philosophy Of Time Travel,together,felony,0
+Happiness: We're All In It Together,The Philosophy Of Time Travel,happiness,time,0.26666666666666666
+Happiness: We're All In It Together,The Philosophy Of Time Travel,happiness,travel,0.23529411764705882
+Happiness: We're All In It Together,The Philosophy Of Time Travel,happiness,philosophy,0.26666666666666666
+Happiness: We're All In It Together,The Philosophy Of Time Travel,happiness,felony,0.2222222222222222
+Happiness: We're All In It Together,The Philosophy Of Time Travel,young,time,0.13333333333333333
+Happiness: We're All In It Together,The Philosophy Of Time Travel,young,travel,0.11764705882352941
+Happiness: We're All In It Together,The Philosophy Of Time Travel,young,philosophy,0.13333333333333333
+Happiness: We're All In It Together,The Philosophy Of Time Travel,young,felony,0.1111111111111111
+Happiness: We're All In It Together,The Philosophy Of Time Travel,mountain,time,0.15384615384615385
+Happiness: We're All In It Together,The Philosophy Of Time Travel,mountain,travel,0.13333333333333333
+Happiness: We're All In It Together,The Philosophy Of Time Travel,mountain,philosophy,0.15384615384615385
+Happiness: We're All In It Together,The Philosophy Of Time Travel,mountain,felony,0.125
+Happiness: We're All In It Together,(They Long To Be) Close To You,together,long,0
+Happiness: We're All In It Together,(They Long To Be) Close To You,together,close,0
+Happiness: We're All In It Together,(They Long To Be) Close To You,together,essential,0
+Happiness: We're All In It Together,(They Long To Be) Close To You,together,collection,0
+Happiness: We're All In It Together,(They Long To Be) Close To You,happiness,long,0
+Happiness: We're All In It Together,(They Long To Be) Close To You,happiness,close,0.2857142857142857
+Happiness: We're All In It Together,(They Long To Be) Close To You,happiness,essential,0.16666666666666666
+Happiness: We're All In It Together,(They Long To Be) Close To You,happiness,collection,0.3333333333333333
+Happiness: We're All In It Together,(They Long To Be) Close To You,young,long,0
+Happiness: We're All In It Together,(They Long To Be) Close To You,young,close,0.14285714285714285
+Happiness: We're All In It Together,(They Long To Be) Close To You,young,essential,0.3333333333333333
+Happiness: We're All In It Together,(They Long To Be) Close To You,young,collection,0.16666666666666666
+Happiness: We're All In It Together,(They Long To Be) Close To You,mountain,long,0
+Happiness: We're All In It Together,(They Long To Be) Close To You,mountain,close,0.16666666666666666
+Happiness: We're All In It Together,(They Long To Be) Close To You,mountain,essential,0.4
+Happiness: We're All In It Together,(They Long To Be) Close To You,mountain,collection,0.2
+Happiness: We're All In It Together,Miss World,together,miss,0
+Happiness: We're All In It Together,Miss World,together,world,0
+Happiness: We're All In It Together,Miss World,together,sleepyheads,0
+Happiness: We're All In It Together,Miss World,happiness,miss,0.13333333333333333
+Happiness: We're All In It Together,Miss World,happiness,world,0.14285714285714285
+Happiness: We're All In It Together,Miss World,happiness,sleepyheads,0.15384615384615385
+Happiness: We're All In It Together,Miss World,young,miss,0.6666666666666666
+Happiness: We're All In It Together,Miss World,young,world,0.5714285714285714
+Happiness: We're All In It Together,Miss World,young,sleepyheads,0.75
+Happiness: We're All In It Together,Miss World,mountain,miss,0.4
+Happiness: We're All In It Together,Miss World,mountain,world,0.5
+Happiness: We're All In It Together,Miss World,mountain,sleepyheads,0.46153846153846156
+Happiness: We're All In It Together,Zopf: Pigtail,together,pigtail,0
+Happiness: We're All In It Together,Zopf: Pigtail,together,penguin,0
+Happiness: We're All In It Together,Zopf: Pigtail,together,cafe,0
+Happiness: We're All In It Together,Zopf: Pigtail,together,music,0
+Happiness: We're All In It Together,Zopf: Pigtail,happiness,pigtail,0.10526315789473684
+Happiness: We're All In It Together,Zopf: Pigtail,happiness,penguin,0.09090909090909091
+Happiness: We're All In It Together,Zopf: Pigtail,happiness,cafe,0.11764705882352941
+Happiness: We're All In It Together,Zopf: Pigtail,happiness,music,0.3076923076923077
+Happiness: We're All In It Together,Zopf: Pigtail,young,pigtail,0.42105263157894735
+Happiness: We're All In It Together,Zopf: Pigtail,young,penguin,0.6363636363636364
+Happiness: We're All In It Together,Zopf: Pigtail,young,cafe,0.47058823529411764
+Happiness: We're All In It Together,Zopf: Pigtail,young,music,0.15384615384615385
+Happiness: We're All In It Together,Zopf: Pigtail,mountain,pigtail,0.35294117647058826
+Happiness: We're All In It Together,Zopf: Pigtail,mountain,penguin,0.3
+Happiness: We're All In It Together,Zopf: Pigtail,mountain,cafe,0.4
+Happiness: We're All In It Together,Zopf: Pigtail,mountain,music,0.18181818181818182
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,together,heaven,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,together,must,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,together,missing,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,together,angel,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,together,capitol,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,together,gold,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,together,best,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,happiness,heaven,0.14285714285714285
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,happiness,must,0.15384615384615385
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,happiness,missing,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,happiness,angel,0.25
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,happiness,capitol,0.11764705882352941
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,happiness,gold,0.21052631578947367
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,happiness,best,0.25
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,young,heaven,0.42857142857142855
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,young,must,0.3076923076923077
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,young,missing,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,young,angel,0.125
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,young,capitol,0.47058823529411764
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,young,gold,0.10526315789473684
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,young,best,0.125
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,mountain,heaven,0.5
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,mountain,must,0.36363636363636365
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,mountain,missing,0
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,mountain,angel,0.14285714285714285
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,mountain,capitol,0.4
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,mountain,gold,0.11764705882352941
+Happiness: We're All In It Together,Heaven Must Be Missing An Angel,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,In Walks The Night,together,walks,0
+Happiness: We're All In It Together,In Walks The Night,together,night,0
+Happiness: We're All In It Together,In Walks The Night,together,desire,0
+Happiness: We're All In It Together,In Walks The Night,together,walks,0
+Happiness: We're All In It Together,In Walks The Night,together,l,0
+Happiness: We're All In It Together,In Walks The Night,happiness,walks,0.2222222222222222
+Happiness: We're All In It Together,In Walks The Night,happiness,night,0.2857142857142857
+Happiness: We're All In It Together,In Walks The Night,happiness,desire,0.7142857142857143
+Happiness: We're All In It Together,In Walks The Night,happiness,walks,0.2222222222222222
+Happiness: We're All In It Together,In Walks The Night,happiness,l,0.25
+Happiness: We're All In It Together,In Walks The Night,young,walks,0.1111111111111111
+Happiness: We're All In It Together,In Walks The Night,young,night,0.14285714285714285
+Happiness: We're All In It Together,In Walks The Night,young,desire,0.14285714285714285
+Happiness: We're All In It Together,In Walks The Night,young,walks,0.1111111111111111
+Happiness: We're All In It Together,In Walks The Night,young,l,0.125
+Happiness: We're All In It Together,In Walks The Night,mountain,walks,0.125
+Happiness: We're All In It Together,In Walks The Night,mountain,night,0.16666666666666666
+Happiness: We're All In It Together,In Walks The Night,mountain,desire,0.16666666666666666
+Happiness: We're All In It Together,In Walks The Night,mountain,walks,0.125
+Happiness: We're All In It Together,In Walks The Night,mountain,l,0.14285714285714285
+Happiness: We're All In It Together,Impossible,together,impossible,0
+Happiness: We're All In It Together,Impossible,together,stripped,0
+Happiness: We're All In It Together,Impossible,happiness,impossible,0.2222222222222222
+Happiness: We're All In It Together,Impossible,happiness,stripped,0
+Happiness: We're All In It Together,Impossible,young,impossible,0.1111111111111111
+Happiness: We're All In It Together,Impossible,young,stripped,0
+Happiness: We're All In It Together,Impossible,mountain,impossible,0.125
+Happiness: We're All In It Together,Impossible,mountain,stripped,0
+Happiness: We're All In It Together,Umoja,together,unity,0
+Happiness: We're All In It Together,Umoja,together,togetherness,0
+Happiness: We're All In It Together,Umoja,together,spirit,0
+Happiness: We're All In It Together,Umoja,happiness,unity,0.6153846153846154
+Happiness: We're All In It Together,Umoja,happiness,togetherness,0.5882352941176471
+Happiness: We're All In It Together,Umoja,happiness,spirit,0.15384615384615385
+Happiness: We're All In It Together,Umoja,young,unity,0.15384615384615385
+Happiness: We're All In It Together,Umoja,young,togetherness,0.11764705882352941
+Happiness: We're All In It Together,Umoja,young,spirit,0.3076923076923077
+Happiness: We're All In It Together,Umoja,mountain,unity,0.18181818181818182
+Happiness: We're All In It Together,Umoja,mountain,togetherness,0.13333333333333333
+Happiness: We're All In It Together,Umoja,mountain,spirit,0.36363636363636365
+Happiness: We're All In It Together,Everyday,together,everyday,0
+Happiness: We're All In It Together,Everyday,together,sides,0
+Happiness: We're All In It Together,Everyday,happiness,everyday,0
+Happiness: We're All In It Together,Everyday,happiness,sides,0.14285714285714285
+Happiness: We're All In It Together,Everyday,young,everyday,0
+Happiness: We're All In It Together,Everyday,young,sides,0.42857142857142855
+Happiness: We're All In It Together,Everyday,mountain,everyday,0
+Happiness: We're All In It Together,Everyday,mountain,sides,0.5
+Armistice,Walk A Little Straighter,armistice,little,0.3076923076923077
+Armistice,Walk A Little Straighter,armistice,straighter,0
+Armistice,Walk A Little Straighter,armistice,walk,0.23529411764705882
+Armistice,Walk A Little Straighter,armistice,right,0.25
+Armistice,Walk A Little Straighter,armistice,billy,0.11764705882352941
+Armistice,Walk A Little Straighter,phoenix,little,0.11764705882352941
+Armistice,Walk A Little Straighter,phoenix,straighter,0
+Armistice,Walk A Little Straighter,phoenix,walk,0.09523809523809523
+Armistice,Walk A Little Straighter,phoenix,right,0.1
+Armistice,Walk A Little Straighter,phoenix,billy,0.2857142857142857
+Armistice,All Tomorrow's Parties,armistice,tomorrow,0.3076923076923077
+Armistice,All Tomorrow's Parties,armistice,parties,0.3076923076923077
+Armistice,All Tomorrow's Parties,armistice,velvet,0.14285714285714285
+Armistice,All Tomorrow's Parties,armistice,underground,0.25
+Armistice,All Tomorrow's Parties,phoenix,tomorrow,0.11764705882352941
+Armistice,All Tomorrow's Parties,phoenix,parties,0.11764705882352941
+Armistice,All Tomorrow's Parties,phoenix,velvet,0.3333333333333333
+Armistice,All Tomorrow's Parties,phoenix,underground,0.1
+Armistice,Devil's All You've Ever Had,armistice,ever,0
+Armistice,Devil's All You've Ever Had,armistice,devil,0.26666666666666666
+Armistice,Devil's All You've Ever Had,armistice,thief,0.125
+Armistice,Devil's All You've Ever Had,armistice,heartbreaker,0.15384615384615385
+Armistice,Devil's All You've Ever Had,phoenix,ever,0
+Armistice,Devil's All You've Ever Had,phoenix,devil,0.10526315789473684
+Armistice,Devil's All You've Ever Had,phoenix,thief,0.2727272727272727
+Armistice,Devil's All You've Ever Had,phoenix,heartbreaker,0.3157894736842105
+Armistice,The Philosophy Of Time Travel,armistice,time,0.2857142857142857
+Armistice,The Philosophy Of Time Travel,armistice,travel,0.25
+Armistice,The Philosophy Of Time Travel,armistice,philosophy,0.2857142857142857
+Armistice,The Philosophy Of Time Travel,armistice,felony,0.23529411764705882
+Armistice,The Philosophy Of Time Travel,phoenix,time,0.1111111111111111
+Armistice,The Philosophy Of Time Travel,phoenix,travel,0.1
+Armistice,The Philosophy Of Time Travel,phoenix,philosophy,0.1111111111111111
+Armistice,The Philosophy Of Time Travel,phoenix,felony,0.09523809523809523
+Armistice,(They Long To Be) Close To You,armistice,long,0
+Armistice,(They Long To Be) Close To You,armistice,close,0.3076923076923077
+Armistice,(They Long To Be) Close To You,armistice,essential,0.18181818181818182
+Armistice,(They Long To Be) Close To You,armistice,collection,0.36363636363636365
+Armistice,(They Long To Be) Close To You,phoenix,long,0
+Armistice,(They Long To Be) Close To You,phoenix,close,0.11764705882352941
+Armistice,(They Long To Be) Close To You,phoenix,essential,0.26666666666666666
+Armistice,(They Long To Be) Close To You,phoenix,collection,0.13333333333333333
+Armistice,Miss World,armistice,miss,0.14285714285714285
+Armistice,Miss World,armistice,world,0.15384615384615385
+Armistice,Miss World,armistice,sleepyheads,0.16666666666666666
+Armistice,Miss World,phoenix,miss,0.3
+Armistice,Miss World,phoenix,world,0.35294117647058826
+Armistice,Miss World,phoenix,sleepyheads,0.3333333333333333
+Armistice,Zopf: Pigtail,armistice,pigtail,0.1111111111111111
+Armistice,Zopf: Pigtail,armistice,penguin,0.09523809523809523
+Armistice,Zopf: Pigtail,armistice,cafe,0.125
+Armistice,Zopf: Pigtail,armistice,music,0.3333333333333333
+Armistice,Zopf: Pigtail,phoenix,pigtail,0.2727272727272727
+Armistice,Zopf: Pigtail,phoenix,penguin,0.24
+Armistice,Zopf: Pigtail,phoenix,cafe,0.3
+Armistice,Zopf: Pigtail,phoenix,music,0.125
+Armistice,Heaven Must Be Missing An Angel,armistice,heaven,0.15384615384615385
+Armistice,Heaven Must Be Missing An Angel,armistice,must,0.16666666666666666
+Armistice,Heaven Must Be Missing An Angel,armistice,missing,0
+Armistice,Heaven Must Be Missing An Angel,armistice,angel,0.26666666666666666
+Armistice,Heaven Must Be Missing An Angel,armistice,capitol,0.125
+Armistice,Heaven Must Be Missing An Angel,armistice,gold,0.2222222222222222
+Armistice,Heaven Must Be Missing An Angel,armistice,best,0.26666666666666666
+Armistice,Heaven Must Be Missing An Angel,phoenix,heaven,0.47058823529411764
+Armistice,Heaven Must Be Missing An Angel,phoenix,must,0.25
+Armistice,Heaven Must Be Missing An Angel,phoenix,missing,0
+Armistice,Heaven Must Be Missing An Angel,phoenix,angel,0.10526315789473684
+Armistice,Heaven Must Be Missing An Angel,phoenix,capitol,0.3
+Armistice,Heaven Must Be Missing An Angel,phoenix,gold,0.09090909090909091
+Armistice,Heaven Must Be Missing An Angel,phoenix,best,0.10526315789473684
+Armistice,In Walks The Night,armistice,walks,0.23529411764705882
+Armistice,In Walks The Night,armistice,night,0.3076923076923077
+Armistice,In Walks The Night,armistice,desire,0.6153846153846154
+Armistice,In Walks The Night,armistice,walks,0.23529411764705882
+Armistice,In Walks The Night,armistice,l,0.26666666666666666
+Armistice,In Walks The Night,phoenix,walks,0.09523809523809523
+Armistice,In Walks The Night,phoenix,night,0.11764705882352941
+Armistice,In Walks The Night,phoenix,desire,0.11764705882352941
+Armistice,In Walks The Night,phoenix,walks,0.09523809523809523
+Armistice,In Walks The Night,phoenix,l,0.10526315789473684
+Armistice,Impossible,armistice,impossible,0.23529411764705882
+Armistice,Impossible,armistice,stripped,0
+Armistice,Impossible,phoenix,impossible,0.09523809523809523
+Armistice,Impossible,phoenix,stripped,0
+Armistice,Umoja,armistice,unity,0.6666666666666666
+Armistice,Umoja,armistice,togetherness,0.5
+Armistice,Umoja,armistice,spirit,0.16666666666666666
+Armistice,Umoja,phoenix,unity,0.125
+Armistice,Umoja,phoenix,togetherness,0.1
+Armistice,Umoja,phoenix,spirit,0.25
+Armistice,Everyday,armistice,everyday,0
+Armistice,Everyday,armistice,sides,0.15384615384615385
+Armistice,Everyday,phoenix,everyday,0
+Armistice,Everyday,phoenix,sides,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,remedies,little,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,remedies,straighter,0
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,remedies,walk,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,remedies,right,0.3
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,remedies,billy,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,worse,little,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,worse,straighter,0
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,worse,walk,0.25
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,worse,right,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,worse,billy,0.125
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,disease,little,0.25
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,disease,straighter,0
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,disease,walk,0.2
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,disease,right,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,disease,billy,0.1
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,young,little,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,young,straighter,0
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,young,walk,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,young,right,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,young,billy,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,mountain,little,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,mountain,straighter,0
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,mountain,walk,0.125
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,mountain,right,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Walk A Little Straighter,mountain,billy,0.375
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,remedies,tomorrow,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,remedies,parties,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,remedies,velvet,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,remedies,underground,0.2
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,worse,tomorrow,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,worse,parties,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,worse,velvet,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,worse,underground,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,disease,tomorrow,0.25
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,disease,parties,0.25
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,disease,velvet,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,disease,underground,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,young,tomorrow,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,young,parties,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,young,velvet,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,young,underground,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,mountain,tomorrow,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,mountain,parties,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,mountain,velvet,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,All Tomorrow's Parties,mountain,underground,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,remedies,ever,0
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,remedies,devil,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,remedies,thief,0.1
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,remedies,heartbreaker,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,worse,ever,0
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,worse,devil,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,worse,thief,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,worse,heartbreaker,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,disease,ever,0
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,disease,devil,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,disease,thief,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,disease,heartbreaker,0.125
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,young,ever,0
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,young,devil,0.125
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,young,thief,0.6
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,young,heartbreaker,0.7058823529411765
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,mountain,ever,0
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,mountain,devil,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,mountain,thief,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Devil's All You've Ever Had,mountain,heartbreaker,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,remedies,time,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,remedies,travel,0.7
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,remedies,philosophy,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,remedies,felony,0.47619047619047616
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,worse,time,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,worse,travel,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,worse,philosophy,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,worse,felony,0.25
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,disease,time,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,disease,travel,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,disease,philosophy,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,disease,felony,0.2
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,young,time,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,young,travel,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,young,philosophy,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,young,felony,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,mountain,time,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,mountain,travel,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,mountain,philosophy,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,The Philosophy Of Time Travel,mountain,felony,0.125
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,remedies,long,0
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,remedies,close,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,remedies,essential,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,remedies,collection,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,worse,long,0
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,worse,close,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,worse,essential,0.2
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,worse,collection,0.4
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,disease,long,0
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,disease,close,0.25
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,disease,essential,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,disease,collection,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,young,long,0
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,young,close,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,young,essential,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,young,collection,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,mountain,long,0
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,mountain,close,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,mountain,essential,0.4
+There Are Some Remedies Worse Than The Disease,(They Long To Be) Close To You,mountain,collection,0.2
+There Are Some Remedies Worse Than The Disease,Miss World,remedies,miss,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Miss World,remedies,world,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Miss World,remedies,sleepyheads,0.125
+There Are Some Remedies Worse Than The Disease,Miss World,worse,miss,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Miss World,worse,world,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Miss World,worse,sleepyheads,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Miss World,disease,miss,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Miss World,disease,world,0.125
+There Are Some Remedies Worse Than The Disease,Miss World,disease,sleepyheads,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Miss World,young,miss,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Miss World,young,world,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,Miss World,young,sleepyheads,0.75
+There Are Some Remedies Worse Than The Disease,Miss World,mountain,miss,0.4
+There Are Some Remedies Worse Than The Disease,Miss World,mountain,world,0.5
+There Are Some Remedies Worse Than The Disease,Miss World,mountain,sleepyheads,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,remedies,pigtail,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,remedies,penguin,0.08
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,remedies,cafe,0.1
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,remedies,music,0.25
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,worse,pigtail,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,worse,penguin,0.1
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,worse,cafe,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,worse,music,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,disease,pigtail,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,disease,penguin,0.08333333333333333
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,disease,cafe,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,disease,music,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,young,pigtail,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,young,penguin,0.6363636363636364
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,young,cafe,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,young,music,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,mountain,pigtail,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,mountain,penguin,0.3
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,mountain,cafe,0.4
+There Are Some Remedies Worse Than The Disease,Zopf: Pigtail,mountain,music,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,remedies,heaven,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,remedies,must,0.125
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,remedies,missing,0
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,remedies,angel,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,remedies,capitol,0.1
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,remedies,gold,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,worse,heaven,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,worse,must,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,worse,missing,0
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,worse,angel,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,worse,capitol,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,worse,gold,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,disease,heaven,0.125
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,disease,must,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,disease,missing,0
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,disease,angel,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,disease,capitol,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,disease,gold,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,young,heaven,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,young,must,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,young,missing,0
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,young,angel,0.125
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,young,capitol,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,young,gold,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,young,best,0.125
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,mountain,heaven,0.5
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,mountain,must,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,mountain,missing,0
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,mountain,angel,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,mountain,capitol,0.4
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,mountain,gold,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Heaven Must Be Missing An Angel,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,In Walks The Night,remedies,walks,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,In Walks The Night,remedies,night,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,In Walks The Night,remedies,desire,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,In Walks The Night,remedies,walks,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,In Walks The Night,remedies,l,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,In Walks The Night,worse,walks,0.25
+There Are Some Remedies Worse Than The Disease,In Walks The Night,worse,night,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,In Walks The Night,worse,desire,0.5
+There Are Some Remedies Worse Than The Disease,In Walks The Night,worse,walks,0.25
+There Are Some Remedies Worse Than The Disease,In Walks The Night,worse,l,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,In Walks The Night,disease,walks,0.2
+There Are Some Remedies Worse Than The Disease,In Walks The Night,disease,night,0.25
+There Are Some Remedies Worse Than The Disease,In Walks The Night,disease,desire,0.5
+There Are Some Remedies Worse Than The Disease,In Walks The Night,disease,walks,0.2
+There Are Some Remedies Worse Than The Disease,In Walks The Night,disease,l,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,In Walks The Night,young,walks,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,In Walks The Night,young,night,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,In Walks The Night,young,desire,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,In Walks The Night,young,walks,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,In Walks The Night,young,l,0.125
+There Are Some Remedies Worse Than The Disease,In Walks The Night,mountain,walks,0.125
+There Are Some Remedies Worse Than The Disease,In Walks The Night,mountain,night,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,In Walks The Night,mountain,desire,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,In Walks The Night,mountain,walks,0.125
+There Are Some Remedies Worse Than The Disease,In Walks The Night,mountain,l,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Impossible,remedies,impossible,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Impossible,remedies,stripped,0
+There Are Some Remedies Worse Than The Disease,Impossible,worse,impossible,0.25
+There Are Some Remedies Worse Than The Disease,Impossible,worse,stripped,0
+There Are Some Remedies Worse Than The Disease,Impossible,disease,impossible,0.2
+There Are Some Remedies Worse Than The Disease,Impossible,disease,stripped,0
+There Are Some Remedies Worse Than The Disease,Impossible,young,impossible,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Impossible,young,stripped,0
+There Are Some Remedies Worse Than The Disease,Impossible,mountain,impossible,0.125
+There Are Some Remedies Worse Than The Disease,Impossible,mountain,stripped,0
+There Are Some Remedies Worse Than The Disease,Umoja,remedies,unity,0.25
+There Are Some Remedies Worse Than The Disease,Umoja,remedies,togetherness,0.2
+There Are Some Remedies Worse Than The Disease,Umoja,remedies,spirit,0.125
+There Are Some Remedies Worse Than The Disease,Umoja,worse,unity,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Umoja,worse,togetherness,0.4
+There Are Some Remedies Worse Than The Disease,Umoja,worse,spirit,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Umoja,disease,unity,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Umoja,disease,togetherness,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Umoja,disease,spirit,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Umoja,young,unity,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Umoja,young,togetherness,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Umoja,young,spirit,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Umoja,mountain,unity,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Umoja,mountain,togetherness,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Umoja,mountain,spirit,0.36363636363636365
+There Are Some Remedies Worse Than The Disease,Everyday,remedies,everyday,0
+There Are Some Remedies Worse Than The Disease,Everyday,remedies,sides,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Everyday,worse,everyday,0
+There Are Some Remedies Worse Than The Disease,Everyday,worse,sides,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Everyday,disease,everyday,0
+There Are Some Remedies Worse Than The Disease,Everyday,disease,sides,0.125
+There Are Some Remedies Worse Than The Disease,Everyday,young,everyday,0
+There Are Some Remedies Worse Than The Disease,Everyday,young,sides,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Everyday,mountain,everyday,0
+There Are Some Remedies Worse Than The Disease,Everyday,mountain,sides,0.5
+Swimming In The Flood,Walk A Little Straighter,swimming,little,0.25
+Swimming In The Flood,Walk A Little Straighter,swimming,straighter,0
+Swimming In The Flood,Walk A Little Straighter,swimming,walk,0.5
+Swimming In The Flood,Walk A Little Straighter,swimming,right,0.3157894736842105
+Swimming In The Flood,Walk A Little Straighter,swimming,billy,0.1
+Swimming In The Flood,Walk A Little Straighter,flood,little,0.15384615384615385
+Swimming In The Flood,Walk A Little Straighter,flood,straighter,0
+Swimming In The Flood,Walk A Little Straighter,flood,walk,0.11764705882352941
+Swimming In The Flood,Walk A Little Straighter,flood,right,0.125
+Swimming In The Flood,Walk A Little Straighter,flood,billy,0.23529411764705882
+Swimming In The Flood,Walk A Little Straighter,manners,little,0.3333333333333333
+Swimming In The Flood,Walk A Little Straighter,manners,straighter,0
+Swimming In The Flood,Walk A Little Straighter,manners,walk,0.25
+Swimming In The Flood,Walk A Little Straighter,manners,right,0.26666666666666666
+Swimming In The Flood,Walk A Little Straighter,manners,billy,0.125
+Swimming In The Flood,All Tomorrow's Parties,swimming,tomorrow,0.25
+Swimming In The Flood,All Tomorrow's Parties,swimming,parties,0.25
+Swimming In The Flood,All Tomorrow's Parties,swimming,velvet,0.11764705882352941
+Swimming In The Flood,All Tomorrow's Parties,swimming,underground,0.21052631578947367
+Swimming In The Flood,All Tomorrow's Parties,flood,tomorrow,0.15384615384615385
+Swimming In The Flood,All Tomorrow's Parties,flood,parties,0.15384615384615385
+Swimming In The Flood,All Tomorrow's Parties,flood,velvet,0.2857142857142857
+Swimming In The Flood,All Tomorrow's Parties,flood,underground,0.125
+Swimming In The Flood,All Tomorrow's Parties,manners,tomorrow,0.3333333333333333
+Swimming In The Flood,All Tomorrow's Parties,manners,parties,0.3333333333333333
+Swimming In The Flood,All Tomorrow's Parties,manners,velvet,0.15384615384615385
+Swimming In The Flood,All Tomorrow's Parties,manners,underground,0.26666666666666666
+Swimming In The Flood,Devil's All You've Ever Had,swimming,ever,0
+Swimming In The Flood,Devil's All You've Ever Had,swimming,devil,0.3333333333333333
+Swimming In The Flood,Devil's All You've Ever Had,swimming,thief,0.10526315789473684
+Swimming In The Flood,Devil's All You've Ever Had,swimming,heartbreaker,0.125
+Swimming In The Flood,Devil's All You've Ever Had,flood,ever,0
+Swimming In The Flood,Devil's All You've Ever Had,flood,devil,0.13333333333333333
+Swimming In The Flood,Devil's All You've Ever Had,flood,thief,0.25
+Swimming In The Flood,Devil's All You've Ever Had,flood,heartbreaker,0.3076923076923077
+Swimming In The Flood,Devil's All You've Ever Had,manners,ever,0
+Swimming In The Flood,Devil's All You've Ever Had,manners,devil,0.2857142857142857
+Swimming In The Flood,Devil's All You've Ever Had,manners,thief,0.13333333333333333
+Swimming In The Flood,Devil's All You've Ever Had,manners,heartbreaker,0.16666666666666666
+Swimming In The Flood,The Philosophy Of Time Travel,swimming,time,0.47058823529411764
+Swimming In The Flood,The Philosophy Of Time Travel,swimming,travel,0.5263157894736842
+Swimming In The Flood,The Philosophy Of Time Travel,swimming,philosophy,0.35294117647058826
+Swimming In The Flood,The Philosophy Of Time Travel,swimming,felony,0.6
+Swimming In The Flood,The Philosophy Of Time Travel,flood,time,0.14285714285714285
+Swimming In The Flood,The Philosophy Of Time Travel,flood,travel,0.125
+Swimming In The Flood,The Philosophy Of Time Travel,flood,philosophy,0.14285714285714285
+Swimming In The Flood,The Philosophy Of Time Travel,flood,felony,0.11764705882352941
+Swimming In The Flood,The Philosophy Of Time Travel,manners,time,0.3076923076923077
+Swimming In The Flood,The Philosophy Of Time Travel,manners,travel,0.26666666666666666
+Swimming In The Flood,The Philosophy Of Time Travel,manners,philosophy,0.3076923076923077
+Swimming In The Flood,The Philosophy Of Time Travel,manners,felony,0.25
+Swimming In The Flood,(They Long To Be) Close To You,swimming,long,0
+Swimming In The Flood,(They Long To Be) Close To You,swimming,close,0.25
+Swimming In The Flood,(They Long To Be) Close To You,swimming,essential,0.14285714285714285
+Swimming In The Flood,(They Long To Be) Close To You,swimming,collection,0.2857142857142857
+Swimming In The Flood,(They Long To Be) Close To You,flood,long,0
+Swimming In The Flood,(They Long To Be) Close To You,flood,close,0.15384615384615385
+Swimming In The Flood,(They Long To Be) Close To You,flood,essential,0.36363636363636365
+Swimming In The Flood,(They Long To Be) Close To You,flood,collection,0.18181818181818182
+Swimming In The Flood,(They Long To Be) Close To You,manners,long,0
+Swimming In The Flood,(They Long To Be) Close To You,manners,close,0.3333333333333333
+Swimming In The Flood,(They Long To Be) Close To You,manners,essential,0.2
+Swimming In The Flood,(They Long To Be) Close To You,manners,collection,0.4
+Swimming In The Flood,Miss World,swimming,miss,0.11764705882352941
+Swimming In The Flood,Miss World,swimming,world,0.125
+Swimming In The Flood,Miss World,swimming,sleepyheads,0.13333333333333333
+Swimming In The Flood,Miss World,flood,miss,0.2857142857142857
+Swimming In The Flood,Miss World,flood,world,0.3076923076923077
+Swimming In The Flood,Miss World,flood,sleepyheads,0.3333333333333333
+Swimming In The Flood,Miss World,manners,miss,0.15384615384615385
+Swimming In The Flood,Miss World,manners,world,0.16666666666666666
+Swimming In The Flood,Miss World,manners,sleepyheads,0.18181818181818182
+Swimming In The Flood,Zopf: Pigtail,swimming,pigtail,0.09523809523809523
+Swimming In The Flood,Zopf: Pigtail,swimming,penguin,0.08333333333333333
+Swimming In The Flood,Zopf: Pigtail,swimming,cafe,0.10526315789473684
+Swimming In The Flood,Zopf: Pigtail,swimming,music,0.26666666666666666
+Swimming In The Flood,Zopf: Pigtail,flood,pigtail,0.2222222222222222
+Swimming In The Flood,Zopf: Pigtail,flood,penguin,0.19047619047619047
+Swimming In The Flood,Zopf: Pigtail,flood,cafe,0.25
+Swimming In The Flood,Zopf: Pigtail,flood,music,0.16666666666666666
+Swimming In The Flood,Zopf: Pigtail,manners,pigtail,0.11764705882352941
+Swimming In The Flood,Zopf: Pigtail,manners,penguin,0.1
+Swimming In The Flood,Zopf: Pigtail,manners,cafe,0.13333333333333333
+Swimming In The Flood,Zopf: Pigtail,manners,music,0.36363636363636365
+Swimming In The Flood,Heaven Must Be Missing An Angel,swimming,heaven,0.125
+Swimming In The Flood,Heaven Must Be Missing An Angel,swimming,must,0.13333333333333333
+Swimming In The Flood,Heaven Must Be Missing An Angel,swimming,missing,0
+Swimming In The Flood,Heaven Must Be Missing An Angel,swimming,angel,0.3333333333333333
+Swimming In The Flood,Heaven Must Be Missing An Angel,swimming,capitol,0.10526315789473684
+Swimming In The Flood,Heaven Must Be Missing An Angel,swimming,gold,0.19047619047619047
+Swimming In The Flood,Heaven Must Be Missing An Angel,swimming,best,0.6666666666666666
+Swimming In The Flood,Heaven Must Be Missing An Angel,flood,heaven,0.3076923076923077
+Swimming In The Flood,Heaven Must Be Missing An Angel,flood,must,0.3333333333333333
+Swimming In The Flood,Heaven Must Be Missing An Angel,flood,missing,0
+Swimming In The Flood,Heaven Must Be Missing An Angel,flood,angel,0.13333333333333333
+Swimming In The Flood,Heaven Must Be Missing An Angel,flood,capitol,0.25
+Swimming In The Flood,Heaven Must Be Missing An Angel,flood,gold,0.1111111111111111
+Swimming In The Flood,Heaven Must Be Missing An Angel,flood,best,0.13333333333333333
+Swimming In The Flood,Heaven Must Be Missing An Angel,manners,heaven,0.16666666666666666
+Swimming In The Flood,Heaven Must Be Missing An Angel,manners,must,0.18181818181818182
+Swimming In The Flood,Heaven Must Be Missing An Angel,manners,missing,0
+Swimming In The Flood,Heaven Must Be Missing An Angel,manners,angel,0.2857142857142857
+Swimming In The Flood,Heaven Must Be Missing An Angel,manners,capitol,0.13333333333333333
+Swimming In The Flood,Heaven Must Be Missing An Angel,manners,gold,0.23529411764705882
+Swimming In The Flood,Heaven Must Be Missing An Angel,manners,best,0.2857142857142857
+Swimming In The Flood,In Walks The Night,swimming,walks,0.5
+Swimming In The Flood,In Walks The Night,swimming,night,0.25
+Swimming In The Flood,In Walks The Night,swimming,desire,0.25
+Swimming In The Flood,In Walks The Night,swimming,walks,0.5
+Swimming In The Flood,In Walks The Night,swimming,l,0.2222222222222222
+Swimming In The Flood,In Walks The Night,flood,walks,0.11764705882352941
+Swimming In The Flood,In Walks The Night,flood,night,0.15384615384615385
+Swimming In The Flood,In Walks The Night,flood,desire,0.15384615384615385
+Swimming In The Flood,In Walks The Night,flood,walks,0.11764705882352941
+Swimming In The Flood,In Walks The Night,flood,l,0.13333333333333333
+Swimming In The Flood,In Walks The Night,manners,walks,0.25
+Swimming In The Flood,In Walks The Night,manners,night,0.3333333333333333
+Swimming In The Flood,In Walks The Night,manners,desire,0.5
+Swimming In The Flood,In Walks The Night,manners,walks,0.25
+Swimming In The Flood,In Walks The Night,manners,l,0.2857142857142857
+Swimming In The Flood,Impossible,swimming,impossible,0.3
+Swimming In The Flood,Impossible,swimming,stripped,0
+Swimming In The Flood,Impossible,flood,impossible,0.11764705882352941
+Swimming In The Flood,Impossible,flood,stripped,0
+Swimming In The Flood,Impossible,manners,impossible,0.25
+Swimming In The Flood,Impossible,manners,stripped,0
+Swimming In The Flood,Umoja,swimming,unity,0.26666666666666666
+Swimming In The Flood,Umoja,swimming,togetherness,0.21052631578947367
+Swimming In The Flood,Umoja,swimming,spirit,0.13333333333333333
+Swimming In The Flood,Umoja,flood,unity,0.16666666666666666
+Swimming In The Flood,Umoja,flood,togetherness,0.125
+Swimming In The Flood,Umoja,flood,spirit,0.3333333333333333
+Swimming In The Flood,Umoja,manners,unity,0.5454545454545454
+Swimming In The Flood,Umoja,manners,togetherness,0.4
+Swimming In The Flood,Umoja,manners,spirit,0.18181818181818182
+Swimming In The Flood,Everyday,swimming,everyday,0
+Swimming In The Flood,Everyday,swimming,sides,0.125
+Swimming In The Flood,Everyday,flood,everyday,0
+Swimming In The Flood,Everyday,flood,sides,0.3076923076923077
+Swimming In The Flood,Everyday,manners,everyday,0
+Swimming In The Flood,Everyday,manners,sides,0.16666666666666666

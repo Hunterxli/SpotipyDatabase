@@ -1,0 +1,2184 @@
+the_first_song,the_second_song,word1,word2,result
+Sun Hands,This Cowboy Song,sun,cowboy,0.36363636363636365
+Sun Hands,This Cowboy Song,sun,song,0.13333333333333333
+Sun Hands,This Cowboy Song,sun,sting,0.11764705882352941
+Sun Hands,This Cowboy Song,sun,gold,0.10526315789473684
+Sun Hands,This Cowboy Song,sun,fields,0.42105263157894735
+Sun Hands,This Cowboy Song,sun,best,0.125
+Sun Hands,This Cowboy Song,hands,cowboy,0.1
+Sun Hands,This Cowboy Song,hands,song,0.25
+Sun Hands,This Cowboy Song,hands,sting,0.3333333333333333
+Sun Hands,This Cowboy Song,hands,gold,0.2
+Sun Hands,This Cowboy Song,hands,fields,0.11764705882352941
+Sun Hands,This Cowboy Song,hands,best,0.5555555555555556
+Sun Hands,This Cowboy Song,gorilla,cowboy,0.4
+Sun Hands,This Cowboy Song,gorilla,song,0.08695652173913043
+Sun Hands,This Cowboy Song,gorilla,sting,0.08
+Sun Hands,This Cowboy Song,gorilla,gold,0.07407407407407407
+Sun Hands,This Cowboy Song,gorilla,fields,0.4444444444444444
+Sun Hands,This Cowboy Song,gorilla,best,0.08333333333333333
+Sun Hands,This Cowboy Song,manor,cowboy,0.3333333333333333
+Sun Hands,This Cowboy Song,manor,song,0.11764705882352941
+Sun Hands,This Cowboy Song,manor,sting,0.10526315789473684
+Sun Hands,This Cowboy Song,manor,gold,0.09523809523809523
+Sun Hands,This Cowboy Song,manor,fields,0.38095238095238093
+Sun Hands,This Cowboy Song,manor,best,0.1111111111111111
+Sun Hands,Walk Of Life,sun,walk,0.1111111111111111
+Sun Hands,Walk Of Life,sun,life,0.14285714285714285
+Sun Hands,Walk Of Life,sun,brothers,0.42105263157894735
+Sun Hands,Walk Of Life,sun,arms,0.5333333333333333
+Sun Hands,Walk Of Life,hands,walk,0.5
+Sun Hands,Walk Of Life,hands,life,0.26666666666666666
+Sun Hands,Walk Of Life,hands,brothers,0.11764705882352941
+Sun Hands,Walk Of Life,hands,arms,0.125
+Sun Hands,Walk Of Life,gorilla,walk,0.07692307692307693
+Sun Hands,Walk Of Life,gorilla,life,0.09090909090909091
+Sun Hands,Walk Of Life,gorilla,brothers,0.4444444444444444
+Sun Hands,Walk Of Life,gorilla,arms,0.34782608695652173
+Sun Hands,Walk Of Life,manor,walk,0.1
+Sun Hands,Walk Of Life,manor,life,0.125
+Sun Hands,Walk Of Life,manor,brothers,0.38095238095238093
+Sun Hands,Walk Of Life,manor,arms,0.5882352941176471
+Sun Hands,Somewhere in the Middle,sun,somewhere,0.46153846153846156
+Sun Hands,Somewhere in the Middle,sun,middle,0.4
+Sun Hands,Somewhere in the Middle,sun,flow,0.125
+Sun Hands,Somewhere in the Middle,sun,state,0.375
+Sun Hands,Somewhere in the Middle,sun,live,0
+Sun Hands,Somewhere in the Middle,sun,greetings,0.14285714285714285
+Sun Hands,Somewhere in the Middle,hands,somewhere,0.14285714285714285
+Sun Hands,Somewhere in the Middle,hands,middle,0.125
+Sun Hands,Somewhere in the Middle,hands,flow,0.47058823529411764
+Sun Hands,Somewhere in the Middle,hands,state,0.11764705882352941
+Sun Hands,Somewhere in the Middle,hands,live,0
+Sun Hands,Somewhere in the Middle,hands,greetings,0.26666666666666666
+Sun Hands,Somewhere in the Middle,gorilla,somewhere,0.2857142857142857
+Sun Hands,Somewhere in the Middle,gorilla,middle,0.2608695652173913
+Sun Hands,Somewhere in the Middle,gorilla,flow,0.08333333333333333
+Sun Hands,Somewhere in the Middle,gorilla,state,0.25
+Sun Hands,Somewhere in the Middle,gorilla,live,0
+Sun Hands,Somewhere in the Middle,gorilla,greetings,0.09090909090909091
+Sun Hands,Somewhere in the Middle,manor,somewhere,0.4
+Sun Hands,Somewhere in the Middle,manor,middle,0.35294117647058826
+Sun Hands,Somewhere in the Middle,manor,flow,0.1111111111111111
+Sun Hands,Somewhere in the Middle,manor,state,0.3333333333333333
+Sun Hands,Somewhere in the Middle,manor,live,0
+Sun Hands,Somewhere in the Middle,manor,greetings,0.125
+Sun Hands,Ember Drive,sun,ember,0.2857142857142857
+Sun Hands,Ember Drive,sun,drive,0.13333333333333333
+Sun Hands,Ember Drive,sun,redemption,0.125
+Sun Hands,Ember Drive,hands,ember,0.13333333333333333
+Sun Hands,Ember Drive,hands,drive,0.5882352941176471
+Sun Hands,Ember Drive,hands,redemption,0.5555555555555556
+Sun Hands,Ember Drive,gorilla,ember,0.18181818181818182
+Sun Hands,Ember Drive,gorilla,drive,0.08695652173913043
+Sun Hands,Ember Drive,gorilla,redemption,0.08333333333333333
+Sun Hands,Ember Drive,manor,ember,0.25
+Sun Hands,Ember Drive,manor,drive,0.11764705882352941
+Sun Hands,Ember Drive,manor,redemption,0.1111111111111111
+Sun Hands,Cancun,sun,cancun,0.3333333333333333
+Sun Hands,Cancun,hands,cancun,0.10526315789473684
+Sun Hands,Cancun,gorilla,cancun,0.23076923076923078
+Sun Hands,Cancun,manor,cancun,0.3
+Sun Hands,How Deep Is Your Love,sun,love,0.13333333333333333
+Sun Hands,How Deep Is Your Love,sun,deep,0.14285714285714285
+Sun Hands,How Deep Is Your Love,sun,popular,0
+Sun Hands,How Deep Is Your Love,sun,pianist,0.42105263157894735
+Sun Hands,How Deep Is Your Love,sun,plays,0.13333333333333333
+Sun Hands,How Deep Is Your Love,sun,bee,0.4
+Sun Hands,How Deep Is Your Love,sun,john,0.47058823529411764
+Sun Hands,How Deep Is Your Love,sun,world,0.7142857142857143
+Sun Hands,How Deep Is Your Love,sun,favorites,0.11764705882352941
+Sun Hands,How Deep Is Your Love,hands,love,0.25
+Sun Hands,How Deep Is Your Love,hands,deep,0.26666666666666666
+Sun Hands,How Deep Is Your Love,hands,popular,0
+Sun Hands,How Deep Is Your Love,hands,pianist,0.11764705882352941
+Sun Hands,How Deep Is Your Love,hands,plays,0.25
+Sun Hands,How Deep Is Your Love,hands,bee,0.09523809523809523
+Sun Hands,How Deep Is Your Love,hands,john,0.1111111111111111
+Sun Hands,How Deep Is Your Love,hands,world,0.13333333333333333
+Sun Hands,How Deep Is Your Love,hands,favorites,0.3333333333333333
+Sun Hands,How Deep Is Your Love,gorilla,love,0.08695652173913043
+Sun Hands,How Deep Is Your Love,gorilla,deep,0.09090909090909091
+Sun Hands,How Deep Is Your Love,gorilla,popular,0
+Sun Hands,How Deep Is Your Love,gorilla,pianist,0.4444444444444444
+Sun Hands,How Deep Is Your Love,gorilla,plays,0.08695652173913043
+Sun Hands,How Deep Is Your Love,gorilla,bee,0.5
+Sun Hands,How Deep Is Your Love,gorilla,john,0.32
+Sun Hands,How Deep Is Your Love,gorilla,world,0.36363636363636365
+Sun Hands,How Deep Is Your Love,gorilla,favorites,0.08
+Sun Hands,How Deep Is Your Love,manor,love,0.11764705882352941
+Sun Hands,How Deep Is Your Love,manor,deep,0.125
+Sun Hands,How Deep Is Your Love,manor,popular,0
+Sun Hands,How Deep Is Your Love,manor,pianist,0.38095238095238093
+Sun Hands,How Deep Is Your Love,manor,plays,0.11764705882352941
+Sun Hands,How Deep Is Your Love,manor,bee,0.36363636363636365
+Sun Hands,How Deep Is Your Love,manor,john,0.631578947368421
+Sun Hands,How Deep Is Your Love,manor,world,0.5
+Sun Hands,How Deep Is Your Love,manor,favorites,0.10526315789473684
+Sun Hands,a.k.a. I.D.I.O.T.,sun,k,0.13333333333333333
+Sun Hands,a.k.a. I.D.I.O.T.,sun,barely,0
+Sun Hands,a.k.a. I.D.I.O.T.,sun,legal,0
+Sun Hands,a.k.a. I.D.I.O.T.,hands,k,0.25
+Sun Hands,a.k.a. I.D.I.O.T.,hands,barely,0
+Sun Hands,a.k.a. I.D.I.O.T.,hands,legal,0
+Sun Hands,a.k.a. I.D.I.O.T.,gorilla,k,0.08695652173913043
+Sun Hands,a.k.a. I.D.I.O.T.,gorilla,barely,0
+Sun Hands,a.k.a. I.D.I.O.T.,gorilla,legal,0
+Sun Hands,a.k.a. I.D.I.O.T.,manor,k,0.11764705882352941
+Sun Hands,a.k.a. I.D.I.O.T.,manor,barely,0
+Sun Hands,a.k.a. I.D.I.O.T.,manor,legal,0
+Sun Hands,I'm Your Baby Tonight,sun,baby,0.42105263157894735
+Sun Hands,I'm Your Baby Tonight,sun,tonight,0.14285714285714285
+Sun Hands,I'm Your Baby Tonight,sun,greatest,0
+Sun Hands,I'm Your Baby Tonight,sun,hits,0.11764705882352941
+Sun Hands,I'm Your Baby Tonight,sun,whitney,0.4444444444444444
+Sun Hands,I'm Your Baby Tonight,hands,baby,0.11764705882352941
+Sun Hands,I'm Your Baby Tonight,hands,tonight,0.26666666666666666
+Sun Hands,I'm Your Baby Tonight,hands,greatest,0
+Sun Hands,I'm Your Baby Tonight,hands,hits,0.5263157894736842
+Sun Hands,I'm Your Baby Tonight,hands,whitney,0.125
+Sun Hands,I'm Your Baby Tonight,gorilla,baby,0.4444444444444444
+Sun Hands,I'm Your Baby Tonight,gorilla,tonight,0.09090909090909091
+Sun Hands,I'm Your Baby Tonight,gorilla,greatest,0
+Sun Hands,I'm Your Baby Tonight,gorilla,hits,0.08
+Sun Hands,I'm Your Baby Tonight,gorilla,whitney,0.46153846153846156
+Sun Hands,I'm Your Baby Tonight,manor,baby,0.38095238095238093
+Sun Hands,I'm Your Baby Tonight,manor,tonight,0.125
+Sun Hands,I'm Your Baby Tonight,manor,greatest,0
+Sun Hands,I'm Your Baby Tonight,manor,hits,0.10526315789473684
+Sun Hands,I'm Your Baby Tonight,manor,whitney,0.4
+Sun Hands,Hello,sun,hello,0.13333333333333333
+Sun Hands,Hello,sun,popular,0
+Sun Hands,Hello,sun,pianist,0.42105263157894735
+Sun Hands,Hello,sun,plays,0.13333333333333333
+Sun Hands,Hello,sun,romantic,0.4444444444444444
+Sun Hands,Hello,sun,favorites,0.11764705882352941
+Sun Hands,Hello,sun,world,0.7142857142857143
+Sun Hands,Hello,hands,hello,0.25
+Sun Hands,Hello,hands,popular,0
+Sun Hands,Hello,hands,pianist,0.11764705882352941
+Sun Hands,Hello,hands,plays,0.25
+Sun Hands,Hello,hands,romantic,0.125
+Sun Hands,Hello,hands,favorites,0.3333333333333333
+Sun Hands,Hello,hands,world,0.13333333333333333
+Sun Hands,Hello,gorilla,hello,0.08695652173913043
+Sun Hands,Hello,gorilla,popular,0
+Sun Hands,Hello,gorilla,pianist,0.4444444444444444
+Sun Hands,Hello,gorilla,plays,0.08695652173913043
+Sun Hands,Hello,gorilla,romantic,0.46153846153846156
+Sun Hands,Hello,gorilla,favorites,0.08
+Sun Hands,Hello,gorilla,world,0.36363636363636365
+Sun Hands,Hello,manor,hello,0.11764705882352941
+Sun Hands,Hello,manor,popular,0
+Sun Hands,Hello,manor,pianist,0.38095238095238093
+Sun Hands,Hello,manor,plays,0.11764705882352941
+Sun Hands,Hello,manor,romantic,0.4
+Sun Hands,Hello,manor,favorites,0.10526315789473684
+Sun Hands,Hello,manor,world,0.5
+Sun Hands,Heartbreak Hotel,sun,heartbreak,0.125
+Sun Hands,Heartbreak Hotel,sun,hotel,0.5
+Sun Hands,Heartbreak Hotel,sun,greatest,0
+Sun Hands,Heartbreak Hotel,sun,hits,0.11764705882352941
+Sun Hands,Heartbreak Hotel,sun,whitney,0.4444444444444444
+Sun Hands,Heartbreak Hotel,hands,heartbreak,0.23529411764705882
+Sun Hands,Heartbreak Hotel,hands,hotel,0.11764705882352941
+Sun Hands,Heartbreak Hotel,hands,greatest,0
+Sun Hands,Heartbreak Hotel,hands,hits,0.5263157894736842
+Sun Hands,Heartbreak Hotel,hands,whitney,0.125
+Sun Hands,Heartbreak Hotel,gorilla,heartbreak,0.08333333333333333
+Sun Hands,Heartbreak Hotel,gorilla,hotel,0.3333333333333333
+Sun Hands,Heartbreak Hotel,gorilla,greatest,0
+Sun Hands,Heartbreak Hotel,gorilla,hits,0.08
+Sun Hands,Heartbreak Hotel,gorilla,whitney,0.46153846153846156
+Sun Hands,Heartbreak Hotel,manor,heartbreak,0.1111111111111111
+Sun Hands,Heartbreak Hotel,manor,hotel,0.7777777777777778
+Sun Hands,Heartbreak Hotel,manor,greatest,0
+Sun Hands,Heartbreak Hotel,manor,hits,0.10526315789473684
+Sun Hands,Heartbreak Hotel,manor,whitney,0.4
+Sun Hands,Fruit of love,sun,love,0.13333333333333333
+Sun Hands,Fruit of love,sun,fruit,0.5882352941176471
+Sun Hands,Fruit of love,sun,lounge,0.4444444444444444
+Sun Hands,Fruit of love,hands,love,0.25
+Sun Hands,Fruit of love,hands,fruit,0.1111111111111111
+Sun Hands,Fruit of love,hands,lounge,0.10526315789473684
+Sun Hands,Fruit of love,gorilla,love,0.08695652173913043
+Sun Hands,Fruit of love,gorilla,fruit,0.32
+Sun Hands,Fruit of love,gorilla,lounge,0.3076923076923077
+Sun Hands,Fruit of love,manor,love,0.11764705882352941
+Sun Hands,Fruit of love,manor,fruit,0.42105263157894735
+Sun Hands,Fruit of love,manor,lounge,0.5
+Sun Hands,King & Queen,sun,queen,0.42105263157894735
+Sun Hands,King & Queen,sun,king,0.4444444444444444
+Sun Hands,King & Queen,sun,retrospective,0.13333333333333333
+Sun Hands,King & Queen,sun,reflections,0.11764705882352941
+Sun Hands,King & Queen,hands,queen,0.1
+Sun Hands,King & Queen,hands,king,0.125
+Sun Hands,King & Queen,hands,retrospective,0.25
+Sun Hands,King & Queen,hands,reflections,0.3333333333333333
+Sun Hands,King & Queen,gorilla,queen,0.5185185185185185
+Sun Hands,King & Queen,gorilla,king,0.46153846153846156
+Sun Hands,King & Queen,gorilla,retrospective,0.08695652173913043
+Sun Hands,King & Queen,gorilla,reflections,0.08
+Sun Hands,King & Queen,manor,queen,0.38095238095238093
+Sun Hands,King & Queen,manor,king,0.4
+Sun Hands,King & Queen,manor,retrospective,0.11764705882352941
+Sun Hands,King & Queen,manor,reflections,0.10526315789473684
+Sun Hands,Light and space,sun,space,0.16666666666666666
+Sun Hands,Light and space,sun,light,0.21052631578947367
+Sun Hands,Light and space,sun,hypothetical,0.11764705882352941
+Sun Hands,Light and space,hands,space,0.3076923076923077
+Sun Hands,Light and space,hands,light,0.1
+Sun Hands,Light and space,hands,hypothetical,0.3333333333333333
+Sun Hands,Light and space,gorilla,space,0.1
+Sun Hands,Light and space,gorilla,light,0.14814814814814814
+Sun Hands,Light and space,gorilla,hypothetical,0.08
+Sun Hands,Light and space,manor,space,0.14285714285714285
+Sun Hands,Light and space,manor,light,0.19047619047619047
+Sun Hands,Light and space,manor,hypothetical,0.10526315789473684
+Camera Talk,This Cowboy Song,camera,cowboy,0.34782608695652173
+Camera Talk,This Cowboy Song,camera,song,0.125
+Camera Talk,This Cowboy Song,camera,sting,0.1111111111111111
+Camera Talk,This Cowboy Song,camera,gold,0.1
+Camera Talk,This Cowboy Song,camera,fields,0.4
+Camera Talk,This Cowboy Song,camera,best,0.11764705882352941
+Camera Talk,This Cowboy Song,talk,cowboy,0.1111111111111111
+Camera Talk,This Cowboy Song,talk,song,0.5714285714285714
+Camera Talk,This Cowboy Song,talk,sting,0.25
+Camera Talk,This Cowboy Song,talk,gold,0.2222222222222222
+Camera Talk,This Cowboy Song,talk,fields,0.13333333333333333
+Camera Talk,This Cowboy Song,talk,best,0.26666666666666666
+Camera Talk,This Cowboy Song,camera,cowboy,0.34782608695652173
+Camera Talk,This Cowboy Song,camera,song,0.125
+Camera Talk,This Cowboy Song,camera,sting,0.1111111111111111
+Camera Talk,This Cowboy Song,camera,gold,0.1
+Camera Talk,This Cowboy Song,camera,fields,0.4
+Camera Talk,This Cowboy Song,camera,best,0.11764705882352941
+Camera Talk,This Cowboy Song,talk,cowboy,0.1111111111111111
+Camera Talk,This Cowboy Song,talk,song,0.5714285714285714
+Camera Talk,This Cowboy Song,talk,sting,0.25
+Camera Talk,This Cowboy Song,talk,gold,0.2222222222222222
+Camera Talk,This Cowboy Song,talk,fields,0.13333333333333333
+Camera Talk,This Cowboy Song,talk,best,0.26666666666666666
+Camera Talk,Walk Of Life,camera,walk,0.10526315789473684
+Camera Talk,Walk Of Life,camera,life,0.13333333333333333
+Camera Talk,Walk Of Life,camera,brothers,0.4
+Camera Talk,Walk Of Life,camera,arms,0.75
+Camera Talk,Walk Of Life,talk,walk,0.23529411764705882
+Camera Talk,Walk Of Life,talk,life,0.3076923076923077
+Camera Talk,Walk Of Life,talk,brothers,0.13333333333333333
+Camera Talk,Walk Of Life,talk,arms,0.14285714285714285
+Camera Talk,Walk Of Life,camera,walk,0.10526315789473684
+Camera Talk,Walk Of Life,camera,life,0.13333333333333333
+Camera Talk,Walk Of Life,camera,brothers,0.4
+Camera Talk,Walk Of Life,camera,arms,0.75
+Camera Talk,Walk Of Life,talk,walk,0.23529411764705882
+Camera Talk,Walk Of Life,talk,life,0.3076923076923077
+Camera Talk,Walk Of Life,talk,brothers,0.13333333333333333
+Camera Talk,Walk Of Life,talk,arms,0.14285714285714285
+Camera Talk,Somewhere in the Middle,camera,somewhere,0.42857142857142855
+Camera Talk,Somewhere in the Middle,camera,middle,0.375
+Camera Talk,Somewhere in the Middle,camera,flow,0.11764705882352941
+Camera Talk,Somewhere in the Middle,camera,state,0.35294117647058826
+Camera Talk,Somewhere in the Middle,camera,live,0
+Camera Talk,Somewhere in the Middle,camera,greetings,0.13333333333333333
+Camera Talk,Somewhere in the Middle,talk,somewhere,0.16666666666666666
+Camera Talk,Somewhere in the Middle,talk,middle,0.14285714285714285
+Camera Talk,Somewhere in the Middle,talk,flow,0.26666666666666666
+Camera Talk,Somewhere in the Middle,talk,state,0.13333333333333333
+Camera Talk,Somewhere in the Middle,talk,live,0
+Camera Talk,Somewhere in the Middle,talk,greetings,0.46153846153846156
+Camera Talk,Somewhere in the Middle,camera,somewhere,0.42857142857142855
+Camera Talk,Somewhere in the Middle,camera,middle,0.375
+Camera Talk,Somewhere in the Middle,camera,flow,0.11764705882352941
+Camera Talk,Somewhere in the Middle,camera,state,0.35294117647058826
+Camera Talk,Somewhere in the Middle,camera,live,0
+Camera Talk,Somewhere in the Middle,camera,greetings,0.13333333333333333
+Camera Talk,Somewhere in the Middle,talk,somewhere,0.16666666666666666
+Camera Talk,Somewhere in the Middle,talk,middle,0.14285714285714285
+Camera Talk,Somewhere in the Middle,talk,flow,0.26666666666666666
+Camera Talk,Somewhere in the Middle,talk,state,0.13333333333333333
+Camera Talk,Somewhere in the Middle,talk,live,0
+Camera Talk,Somewhere in the Middle,talk,greetings,0.46153846153846156
+Camera Talk,Ember Drive,camera,ember,0.26666666666666666
+Camera Talk,Ember Drive,camera,drive,0.125
+Camera Talk,Ember Drive,camera,redemption,0.11764705882352941
+Camera Talk,Ember Drive,talk,ember,0.15384615384615385
+Camera Talk,Ember Drive,talk,drive,0.2857142857142857
+Camera Talk,Ember Drive,talk,redemption,0.26666666666666666
+Camera Talk,Ember Drive,camera,ember,0.26666666666666666
+Camera Talk,Ember Drive,camera,drive,0.125
+Camera Talk,Ember Drive,camera,redemption,0.11764705882352941
+Camera Talk,Ember Drive,talk,ember,0.15384615384615385
+Camera Talk,Ember Drive,talk,drive,0.2857142857142857
+Camera Talk,Ember Drive,talk,redemption,0.26666666666666666
+Camera Talk,Cancun,camera,cancun,0.3157894736842105
+Camera Talk,Cancun,talk,cancun,0.11764705882352941
+Camera Talk,Cancun,camera,cancun,0.3157894736842105
+Camera Talk,Cancun,talk,cancun,0.11764705882352941
+Camera Talk,How Deep Is Your Love,camera,love,0.125
+Camera Talk,How Deep Is Your Love,camera,deep,0.13333333333333333
+Camera Talk,How Deep Is Your Love,camera,popular,0
+Camera Talk,How Deep Is Your Love,camera,pianist,0.4
+Camera Talk,How Deep Is Your Love,camera,plays,0.125
+Camera Talk,How Deep Is Your Love,camera,bee,0.38095238095238093
+Camera Talk,How Deep Is Your Love,camera,john,0.5555555555555556
+Camera Talk,How Deep Is Your Love,camera,world,0.5333333333333333
+Camera Talk,How Deep Is Your Love,camera,favorites,0.1111111111111111
+Camera Talk,How Deep Is Your Love,talk,love,0.2857142857142857
+Camera Talk,How Deep Is Your Love,talk,deep,0.3076923076923077
+Camera Talk,How Deep Is Your Love,talk,popular,0
+Camera Talk,How Deep Is Your Love,talk,pianist,0.13333333333333333
+Camera Talk,How Deep Is Your Love,talk,plays,0.42857142857142855
+Camera Talk,How Deep Is Your Love,talk,bee,0.10526315789473684
+Camera Talk,How Deep Is Your Love,talk,john,0.125
+Camera Talk,How Deep Is Your Love,talk,world,0.15384615384615385
+Camera Talk,How Deep Is Your Love,talk,favorites,0.25
+Camera Talk,How Deep Is Your Love,camera,love,0.125
+Camera Talk,How Deep Is Your Love,camera,deep,0.13333333333333333
+Camera Talk,How Deep Is Your Love,camera,popular,0
+Camera Talk,How Deep Is Your Love,camera,pianist,0.4
+Camera Talk,How Deep Is Your Love,camera,plays,0.125
+Camera Talk,How Deep Is Your Love,camera,bee,0.38095238095238093
+Camera Talk,How Deep Is Your Love,camera,john,0.5555555555555556
+Camera Talk,How Deep Is Your Love,camera,world,0.5333333333333333
+Camera Talk,How Deep Is Your Love,camera,favorites,0.1111111111111111
+Camera Talk,How Deep Is Your Love,talk,love,0.2857142857142857
+Camera Talk,How Deep Is Your Love,talk,deep,0.3076923076923077
+Camera Talk,How Deep Is Your Love,talk,popular,0
+Camera Talk,How Deep Is Your Love,talk,pianist,0.13333333333333333
+Camera Talk,How Deep Is Your Love,talk,plays,0.42857142857142855
+Camera Talk,How Deep Is Your Love,talk,bee,0.10526315789473684
+Camera Talk,How Deep Is Your Love,talk,john,0.125
+Camera Talk,How Deep Is Your Love,talk,world,0.15384615384615385
+Camera Talk,How Deep Is Your Love,talk,favorites,0.25
+Camera Talk,a.k.a. I.D.I.O.T.,camera,k,0.125
+Camera Talk,a.k.a. I.D.I.O.T.,camera,barely,0
+Camera Talk,a.k.a. I.D.I.O.T.,camera,legal,0
+Camera Talk,a.k.a. I.D.I.O.T.,talk,k,0.2857142857142857
+Camera Talk,a.k.a. I.D.I.O.T.,talk,barely,0
+Camera Talk,a.k.a. I.D.I.O.T.,talk,legal,0
+Camera Talk,a.k.a. I.D.I.O.T.,camera,k,0.125
+Camera Talk,a.k.a. I.D.I.O.T.,camera,barely,0
+Camera Talk,a.k.a. I.D.I.O.T.,camera,legal,0
+Camera Talk,a.k.a. I.D.I.O.T.,talk,k,0.2857142857142857
+Camera Talk,a.k.a. I.D.I.O.T.,talk,barely,0
+Camera Talk,a.k.a. I.D.I.O.T.,talk,legal,0
+Camera Talk,I'm Your Baby Tonight,camera,baby,0.4
+Camera Talk,I'm Your Baby Tonight,camera,tonight,0.13333333333333333
+Camera Talk,I'm Your Baby Tonight,camera,greatest,0
+Camera Talk,I'm Your Baby Tonight,camera,hits,0.1111111111111111
+Camera Talk,I'm Your Baby Tonight,camera,whitney,0.42105263157894735
+Camera Talk,I'm Your Baby Tonight,talk,baby,0.13333333333333333
+Camera Talk,I'm Your Baby Tonight,talk,tonight,0.3076923076923077
+Camera Talk,I'm Your Baby Tonight,talk,greatest,0
+Camera Talk,I'm Your Baby Tonight,talk,hits,0.25
+Camera Talk,I'm Your Baby Tonight,talk,whitney,0.14285714285714285
+Camera Talk,I'm Your Baby Tonight,camera,baby,0.4
+Camera Talk,I'm Your Baby Tonight,camera,tonight,0.13333333333333333
+Camera Talk,I'm Your Baby Tonight,camera,greatest,0
+Camera Talk,I'm Your Baby Tonight,camera,hits,0.1111111111111111
+Camera Talk,I'm Your Baby Tonight,camera,whitney,0.42105263157894735
+Camera Talk,I'm Your Baby Tonight,talk,baby,0.13333333333333333
+Camera Talk,I'm Your Baby Tonight,talk,tonight,0.3076923076923077
+Camera Talk,I'm Your Baby Tonight,talk,greatest,0
+Camera Talk,I'm Your Baby Tonight,talk,hits,0.25
+Camera Talk,I'm Your Baby Tonight,talk,whitney,0.14285714285714285
+Camera Talk,Hello,camera,hello,0.125
+Camera Talk,Hello,camera,popular,0
+Camera Talk,Hello,camera,pianist,0.4
+Camera Talk,Hello,camera,plays,0.125
+Camera Talk,Hello,camera,romantic,0.42105263157894735
+Camera Talk,Hello,camera,favorites,0.1111111111111111
+Camera Talk,Hello,camera,world,0.5333333333333333
+Camera Talk,Hello,talk,hello,0.42857142857142855
+Camera Talk,Hello,talk,popular,0
+Camera Talk,Hello,talk,pianist,0.13333333333333333
+Camera Talk,Hello,talk,plays,0.42857142857142855
+Camera Talk,Hello,talk,romantic,0.14285714285714285
+Camera Talk,Hello,talk,favorites,0.25
+Camera Talk,Hello,talk,world,0.15384615384615385
+Camera Talk,Hello,camera,hello,0.125
+Camera Talk,Hello,camera,popular,0
+Camera Talk,Hello,camera,pianist,0.4
+Camera Talk,Hello,camera,plays,0.125
+Camera Talk,Hello,camera,romantic,0.42105263157894735
+Camera Talk,Hello,camera,favorites,0.1111111111111111
+Camera Talk,Hello,camera,world,0.5333333333333333
+Camera Talk,Hello,talk,hello,0.42857142857142855
+Camera Talk,Hello,talk,popular,0
+Camera Talk,Hello,talk,pianist,0.13333333333333333
+Camera Talk,Hello,talk,plays,0.42857142857142855
+Camera Talk,Hello,talk,romantic,0.14285714285714285
+Camera Talk,Hello,talk,favorites,0.25
+Camera Talk,Hello,talk,world,0.15384615384615385
+Camera Talk,Heartbreak Hotel,camera,heartbreak,0.11764705882352941
+Camera Talk,Heartbreak Hotel,camera,hotel,0.5882352941176471
+Camera Talk,Heartbreak Hotel,camera,greatest,0
+Camera Talk,Heartbreak Hotel,camera,hits,0.1111111111111111
+Camera Talk,Heartbreak Hotel,camera,whitney,0.42105263157894735
+Camera Talk,Heartbreak Hotel,talk,heartbreak,0.26666666666666666
+Camera Talk,Heartbreak Hotel,talk,hotel,0.13333333333333333
+Camera Talk,Heartbreak Hotel,talk,greatest,0
+Camera Talk,Heartbreak Hotel,talk,hits,0.25
+Camera Talk,Heartbreak Hotel,talk,whitney,0.14285714285714285
+Camera Talk,Heartbreak Hotel,camera,heartbreak,0.11764705882352941
+Camera Talk,Heartbreak Hotel,camera,hotel,0.5882352941176471
+Camera Talk,Heartbreak Hotel,camera,greatest,0
+Camera Talk,Heartbreak Hotel,camera,hits,0.1111111111111111
+Camera Talk,Heartbreak Hotel,camera,whitney,0.42105263157894735
+Camera Talk,Heartbreak Hotel,talk,heartbreak,0.26666666666666666
+Camera Talk,Heartbreak Hotel,talk,hotel,0.13333333333333333
+Camera Talk,Heartbreak Hotel,talk,greatest,0
+Camera Talk,Heartbreak Hotel,talk,hits,0.25
+Camera Talk,Heartbreak Hotel,talk,whitney,0.14285714285714285
+Camera Talk,Fruit of love,camera,love,0.125
+Camera Talk,Fruit of love,camera,fruit,0.4444444444444444
+Camera Talk,Fruit of love,camera,lounge,0.631578947368421
+Camera Talk,Fruit of love,talk,love,0.2857142857142857
+Camera Talk,Fruit of love,talk,fruit,0.125
+Camera Talk,Fruit of love,talk,lounge,0.11764705882352941
+Camera Talk,Fruit of love,camera,love,0.125
+Camera Talk,Fruit of love,camera,fruit,0.4444444444444444
+Camera Talk,Fruit of love,camera,lounge,0.631578947368421
+Camera Talk,Fruit of love,talk,love,0.2857142857142857
+Camera Talk,Fruit of love,talk,fruit,0.125
+Camera Talk,Fruit of love,talk,lounge,0.11764705882352941
+Camera Talk,King & Queen,camera,queen,0.4
+Camera Talk,King & Queen,camera,king,0.42105263157894735
+Camera Talk,King & Queen,camera,retrospective,0.125
+Camera Talk,King & Queen,camera,reflections,0.1111111111111111
+Camera Talk,King & Queen,talk,queen,0.1111111111111111
+Camera Talk,King & Queen,talk,king,0.14285714285714285
+Camera Talk,King & Queen,talk,retrospective,0.2857142857142857
+Camera Talk,King & Queen,talk,reflections,0.25
+Camera Talk,King & Queen,camera,queen,0.4
+Camera Talk,King & Queen,camera,king,0.42105263157894735
+Camera Talk,King & Queen,camera,retrospective,0.125
+Camera Talk,King & Queen,camera,reflections,0.1111111111111111
+Camera Talk,King & Queen,talk,queen,0.1111111111111111
+Camera Talk,King & Queen,talk,king,0.14285714285714285
+Camera Talk,King & Queen,talk,retrospective,0.2857142857142857
+Camera Talk,King & Queen,talk,reflections,0.25
+Camera Talk,Light and space,camera,space,0.15384615384615385
+Camera Talk,Light and space,camera,light,0.2
+Camera Talk,Light and space,camera,hypothetical,0.1111111111111111
+Camera Talk,Light and space,talk,space,0.36363636363636365
+Camera Talk,Light and space,talk,light,0.1111111111111111
+Camera Talk,Light and space,talk,hypothetical,0.25
+Camera Talk,Light and space,camera,space,0.15384615384615385
+Camera Talk,Light and space,camera,light,0.2
+Camera Talk,Light and space,camera,hypothetical,0.1111111111111111
+Camera Talk,Light and space,talk,space,0.36363636363636365
+Camera Talk,Light and space,talk,light,0.1111111111111111
+Camera Talk,Light and space,talk,hypothetical,0.25
+Belle,This Cowboy Song,beautiful,cowboy,0
+Belle,This Cowboy Song,beautiful,song,0
+Belle,This Cowboy Song,beautiful,sting,0
+Belle,This Cowboy Song,beautiful,gold,0
+Belle,This Cowboy Song,beautiful,fields,0
+Belle,This Cowboy Song,beautiful,best,0
+Belle,This Cowboy Song,dreams,cowboy,0.1
+Belle,This Cowboy Song,dreams,song,0.25
+Belle,This Cowboy Song,dreams,sting,0.4444444444444444
+Belle,This Cowboy Song,dreams,gold,0.2
+Belle,This Cowboy Song,dreams,fields,0.11764705882352941
+Belle,This Cowboy Song,dreams,best,0.35294117647058826
+Belle,Walk Of Life,beautiful,walk,0
+Belle,Walk Of Life,beautiful,life,0
+Belle,Walk Of Life,beautiful,brothers,0
+Belle,Walk Of Life,beautiful,arms,0
+Belle,Walk Of Life,dreams,walk,0.3157894736842105
+Belle,Walk Of Life,dreams,life,0.26666666666666666
+Belle,Walk Of Life,dreams,brothers,0.11764705882352941
+Belle,Walk Of Life,dreams,arms,0.125
+Belle,Somewhere in the Middle,beautiful,somewhere,0
+Belle,Somewhere in the Middle,beautiful,middle,0
+Belle,Somewhere in the Middle,beautiful,flow,0
+Belle,Somewhere in the Middle,beautiful,state,0
+Belle,Somewhere in the Middle,beautiful,live,0
+Belle,Somewhere in the Middle,beautiful,greetings,0
+Belle,Somewhere in the Middle,dreams,somewhere,0.14285714285714285
+Belle,Somewhere in the Middle,dreams,middle,0.125
+Belle,Somewhere in the Middle,dreams,flow,0.35294117647058826
+Belle,Somewhere in the Middle,dreams,state,0.11764705882352941
+Belle,Somewhere in the Middle,dreams,live,0
+Belle,Somewhere in the Middle,dreams,greetings,0.26666666666666666
+Belle,Ember Drive,beautiful,ember,0
+Belle,Ember Drive,beautiful,drive,0
+Belle,Ember Drive,beautiful,redemption,0
+Belle,Ember Drive,dreams,ember,0.13333333333333333
+Belle,Ember Drive,dreams,drive,0.375
+Belle,Ember Drive,dreams,redemption,0.35294117647058826
+Belle,Cancun,beautiful,cancun,0
+Belle,Cancun,dreams,cancun,0.10526315789473684
+Belle,How Deep Is Your Love,beautiful,love,0
+Belle,How Deep Is Your Love,beautiful,deep,0
+Belle,How Deep Is Your Love,beautiful,popular,0
+Belle,How Deep Is Your Love,beautiful,pianist,0
+Belle,How Deep Is Your Love,beautiful,plays,0
+Belle,How Deep Is Your Love,beautiful,bee,0
+Belle,How Deep Is Your Love,beautiful,john,0
+Belle,How Deep Is Your Love,beautiful,world,0
+Belle,How Deep Is Your Love,beautiful,favorites,0
+Belle,How Deep Is Your Love,dreams,love,0.25
+Belle,How Deep Is Your Love,dreams,deep,0.26666666666666666
+Belle,How Deep Is Your Love,dreams,popular,0
+Belle,How Deep Is Your Love,dreams,pianist,0.11764705882352941
+Belle,How Deep Is Your Love,dreams,plays,0.25
+Belle,How Deep Is Your Love,dreams,bee,0.09523809523809523
+Belle,How Deep Is Your Love,dreams,john,0.1111111111111111
+Belle,How Deep Is Your Love,dreams,world,0.13333333333333333
+Belle,How Deep Is Your Love,dreams,favorites,0.5555555555555556
+Belle,a.k.a. I.D.I.O.T.,beautiful,k,0
+Belle,a.k.a. I.D.I.O.T.,beautiful,barely,0
+Belle,a.k.a. I.D.I.O.T.,beautiful,legal,0
+Belle,a.k.a. I.D.I.O.T.,dreams,k,0.25
+Belle,a.k.a. I.D.I.O.T.,dreams,barely,0
+Belle,a.k.a. I.D.I.O.T.,dreams,legal,0
+Belle,I'm Your Baby Tonight,beautiful,baby,0
+Belle,I'm Your Baby Tonight,beautiful,tonight,0
+Belle,I'm Your Baby Tonight,beautiful,greatest,0
+Belle,I'm Your Baby Tonight,beautiful,hits,0
+Belle,I'm Your Baby Tonight,beautiful,whitney,0
+Belle,I'm Your Baby Tonight,dreams,baby,0.11764705882352941
+Belle,I'm Your Baby Tonight,dreams,tonight,0.26666666666666666
+Belle,I'm Your Baby Tonight,dreams,greatest,0
+Belle,I'm Your Baby Tonight,dreams,hits,0.3333333333333333
+Belle,I'm Your Baby Tonight,dreams,whitney,0.125
+Belle,Hello,beautiful,hello,0
+Belle,Hello,beautiful,popular,0
+Belle,Hello,beautiful,pianist,0
+Belle,Hello,beautiful,plays,0
+Belle,Hello,beautiful,romantic,0
+Belle,Hello,beautiful,favorites,0
+Belle,Hello,beautiful,world,0
+Belle,Hello,dreams,hello,0.25
+Belle,Hello,dreams,popular,0
+Belle,Hello,dreams,pianist,0.11764705882352941
+Belle,Hello,dreams,plays,0.25
+Belle,Hello,dreams,romantic,0.125
+Belle,Hello,dreams,favorites,0.5555555555555556
+Belle,Hello,dreams,world,0.13333333333333333
+Belle,Heartbreak Hotel,beautiful,heartbreak,0
+Belle,Heartbreak Hotel,beautiful,hotel,0
+Belle,Heartbreak Hotel,beautiful,greatest,0
+Belle,Heartbreak Hotel,beautiful,hits,0
+Belle,Heartbreak Hotel,beautiful,whitney,0
+Belle,Heartbreak Hotel,dreams,heartbreak,0.23529411764705882
+Belle,Heartbreak Hotel,dreams,hotel,0.11764705882352941
+Belle,Heartbreak Hotel,dreams,greatest,0
+Belle,Heartbreak Hotel,dreams,hits,0.3333333333333333
+Belle,Heartbreak Hotel,dreams,whitney,0.125
+Belle,Fruit of love,beautiful,love,0
+Belle,Fruit of love,beautiful,fruit,0
+Belle,Fruit of love,beautiful,lounge,0
+Belle,Fruit of love,dreams,love,0.25
+Belle,Fruit of love,dreams,fruit,0.1111111111111111
+Belle,Fruit of love,dreams,lounge,0.10526315789473684
+Belle,King & Queen,beautiful,queen,0
+Belle,King & Queen,beautiful,king,0
+Belle,King & Queen,beautiful,retrospective,0
+Belle,King & Queen,beautiful,reflections,0
+Belle,King & Queen,dreams,queen,0.1
+Belle,King & Queen,dreams,king,0.125
+Belle,King & Queen,dreams,retrospective,0.25
+Belle,King & Queen,dreams,reflections,0.5555555555555556
+Belle,Light and space,beautiful,space,0
+Belle,Light and space,beautiful,light,0
+Belle,Light and space,beautiful,hypothetical,0
+Belle,Light and space,dreams,space,0.3076923076923077
+Belle,Light and space,dreams,light,0.1
+Belle,Light and space,dreams,hypothetical,0.4444444444444444
+Auto Rock,This Cowboy Song,auto,cowboy,0.32
+Auto Rock,This Cowboy Song,auto,song,0.1111111111111111
+Auto Rock,This Cowboy Song,auto,sting,0.1
+Auto Rock,This Cowboy Song,auto,gold,0.09090909090909091
+Auto Rock,This Cowboy Song,auto,fields,0.36363636363636365
+Auto Rock,This Cowboy Song,auto,best,0.10526315789473684
+Auto Rock,This Cowboy Song,rock,cowboy,0.4
+Auto Rock,This Cowboy Song,rock,song,0.15384615384615385
+Auto Rock,This Cowboy Song,rock,sting,0.13333333333333333
+Auto Rock,This Cowboy Song,rock,gold,0.11764705882352941
+Auto Rock,This Cowboy Song,rock,fields,0.47058823529411764
+Auto Rock,This Cowboy Song,rock,best,0.14285714285714285
+Auto Rock,This Cowboy Song,mr,cowboy,0.1
+Auto Rock,This Cowboy Song,mr,song,0.25
+Auto Rock,This Cowboy Song,mr,sting,0.2222222222222222
+Auto Rock,This Cowboy Song,mr,gold,0.3
+Auto Rock,This Cowboy Song,mr,fields,0.11764705882352941
+Auto Rock,This Cowboy Song,mr,best,0.23529411764705882
+Auto Rock,This Cowboy Song,beast,cowboy,0.5714285714285714
+Auto Rock,This Cowboy Song,beast,song,0.14285714285714285
+Auto Rock,This Cowboy Song,beast,sting,0.125
+Auto Rock,This Cowboy Song,beast,gold,0.1111111111111111
+Auto Rock,This Cowboy Song,beast,fields,0.6666666666666666
+Auto Rock,This Cowboy Song,beast,best,0.13333333333333333
+Auto Rock,Walk Of Life,auto,walk,0.09523809523809523
+Auto Rock,Walk Of Life,auto,life,0.11764705882352941
+Auto Rock,Walk Of Life,auto,brothers,0.36363636363636365
+Auto Rock,Walk Of Life,auto,arms,0.6666666666666666
+Auto Rock,Walk Of Life,rock,walk,0.125
+Auto Rock,Walk Of Life,rock,life,0.16666666666666666
+Auto Rock,Walk Of Life,rock,brothers,0.47058823529411764
+Auto Rock,Walk Of Life,rock,arms,0.6153846153846154
+Auto Rock,Walk Of Life,mr,walk,0.21052631578947367
+Auto Rock,Walk Of Life,mr,life,0.26666666666666666
+Auto Rock,Walk Of Life,mr,brothers,0.11764705882352941
+Auto Rock,Walk Of Life,mr,arms,0.125
+Auto Rock,Walk Of Life,beast,walk,0.11764705882352941
+Auto Rock,Walk Of Life,beast,life,0.15384615384615385
+Auto Rock,Walk Of Life,beast,brothers,0.6666666666666666
+Auto Rock,Walk Of Life,beast,arms,0.5714285714285714
+Auto Rock,Somewhere in the Middle,auto,somewhere,0.375
+Auto Rock,Somewhere in the Middle,auto,middle,0.3333333333333333
+Auto Rock,Somewhere in the Middle,auto,flow,0.10526315789473684
+Auto Rock,Somewhere in the Middle,auto,state,0.3157894736842105
+Auto Rock,Somewhere in the Middle,auto,live,0
+Auto Rock,Somewhere in the Middle,auto,greetings,0.11764705882352941
+Auto Rock,Somewhere in the Middle,rock,somewhere,0.5454545454545454
+Auto Rock,Somewhere in the Middle,rock,middle,0.46153846153846156
+Auto Rock,Somewhere in the Middle,rock,flow,0.14285714285714285
+Auto Rock,Somewhere in the Middle,rock,state,0.42857142857142855
+Auto Rock,Somewhere in the Middle,rock,live,0
+Auto Rock,Somewhere in the Middle,rock,greetings,0.16666666666666666
+Auto Rock,Somewhere in the Middle,mr,somewhere,0.14285714285714285
+Auto Rock,Somewhere in the Middle,mr,middle,0.125
+Auto Rock,Somewhere in the Middle,mr,flow,0.23529411764705882
+Auto Rock,Somewhere in the Middle,mr,state,0.11764705882352941
+Auto Rock,Somewhere in the Middle,mr,live,0
+Auto Rock,Somewhere in the Middle,mr,greetings,0.26666666666666666
+Auto Rock,Somewhere in the Middle,beast,somewhere,0.5
+Auto Rock,Somewhere in the Middle,beast,middle,0.42857142857142855
+Auto Rock,Somewhere in the Middle,beast,flow,0.13333333333333333
+Auto Rock,Somewhere in the Middle,beast,state,0.4
+Auto Rock,Somewhere in the Middle,beast,live,0
+Auto Rock,Somewhere in the Middle,beast,greetings,0.15384615384615385
+Auto Rock,Ember Drive,auto,ember,0.23529411764705882
+Auto Rock,Ember Drive,auto,drive,0.1111111111111111
+Auto Rock,Ember Drive,auto,redemption,0.10526315789473684
+Auto Rock,Ember Drive,rock,ember,0.3333333333333333
+Auto Rock,Ember Drive,rock,drive,0.15384615384615385
+Auto Rock,Ember Drive,rock,redemption,0.14285714285714285
+Auto Rock,Ember Drive,mr,ember,0.13333333333333333
+Auto Rock,Ember Drive,mr,drive,0.25
+Auto Rock,Ember Drive,mr,redemption,0.23529411764705882
+Auto Rock,Ember Drive,beast,ember,0.3076923076923077
+Auto Rock,Ember Drive,beast,drive,0.14285714285714285
+Auto Rock,Ember Drive,beast,redemption,0.13333333333333333
+Auto Rock,Cancun,auto,cancun,0.2857142857142857
+Auto Rock,Cancun,rock,cancun,0.375
+Auto Rock,Cancun,mr,cancun,0.10526315789473684
+Auto Rock,Cancun,beast,cancun,0.35294117647058826
+Auto Rock,How Deep Is Your Love,auto,love,0.1111111111111111
+Auto Rock,How Deep Is Your Love,auto,deep,0.11764705882352941
+Auto Rock,How Deep Is Your Love,auto,popular,0
+Auto Rock,How Deep Is Your Love,auto,pianist,0.36363636363636365
+Auto Rock,How Deep Is Your Love,auto,plays,0.1111111111111111
+Auto Rock,How Deep Is Your Love,auto,bee,0.34782608695652173
+Auto Rock,How Deep Is Your Love,auto,john,0.5
+Auto Rock,How Deep Is Your Love,auto,world,0.47058823529411764
+Auto Rock,How Deep Is Your Love,auto,favorites,0.1
+Auto Rock,How Deep Is Your Love,rock,love,0.15384615384615385
+Auto Rock,How Deep Is Your Love,rock,deep,0.16666666666666666
+Auto Rock,How Deep Is Your Love,rock,popular,0
+Auto Rock,How Deep Is Your Love,rock,pianist,0.47058823529411764
+Auto Rock,How Deep Is Your Love,rock,plays,0.15384615384615385
+Auto Rock,How Deep Is Your Love,rock,bee,0.4444444444444444
+Auto Rock,How Deep Is Your Love,rock,john,0.5333333333333333
+Auto Rock,How Deep Is Your Love,rock,world,0.8333333333333334
+Auto Rock,How Deep Is Your Love,rock,favorites,0.13333333333333333
+Auto Rock,How Deep Is Your Love,mr,love,0.25
+Auto Rock,How Deep Is Your Love,mr,deep,0.26666666666666666
+Auto Rock,How Deep Is Your Love,mr,popular,0
+Auto Rock,How Deep Is Your Love,mr,pianist,0.11764705882352941
+Auto Rock,How Deep Is Your Love,mr,plays,0.25
+Auto Rock,How Deep Is Your Love,mr,bee,0.09523809523809523
+Auto Rock,How Deep Is Your Love,mr,john,0.1111111111111111
+Auto Rock,How Deep Is Your Love,mr,world,0.13333333333333333
+Auto Rock,How Deep Is Your Love,mr,favorites,0.2222222222222222
+Auto Rock,How Deep Is Your Love,beast,love,0.14285714285714285
+Auto Rock,How Deep Is Your Love,beast,deep,0.15384615384615385
+Auto Rock,How Deep Is Your Love,beast,popular,0
+Auto Rock,How Deep Is Your Love,beast,pianist,0.6666666666666666
+Auto Rock,How Deep Is Your Love,beast,plays,0.14285714285714285
+Auto Rock,How Deep Is Your Love,beast,bee,0.7368421052631579
+Auto Rock,How Deep Is Your Love,beast,john,0.5
+Auto Rock,How Deep Is Your Love,beast,world,0.6153846153846154
+Auto Rock,How Deep Is Your Love,beast,favorites,0.125
+Auto Rock,a.k.a. I.D.I.O.T.,auto,k,0.1111111111111111
+Auto Rock,a.k.a. I.D.I.O.T.,auto,barely,0
+Auto Rock,a.k.a. I.D.I.O.T.,auto,legal,0
+Auto Rock,a.k.a. I.D.I.O.T.,rock,k,0.15384615384615385
+Auto Rock,a.k.a. I.D.I.O.T.,rock,barely,0
+Auto Rock,a.k.a. I.D.I.O.T.,rock,legal,0
+Auto Rock,a.k.a. I.D.I.O.T.,mr,k,0.25
+Auto Rock,a.k.a. I.D.I.O.T.,mr,barely,0
+Auto Rock,a.k.a. I.D.I.O.T.,mr,legal,0
+Auto Rock,a.k.a. I.D.I.O.T.,beast,k,0.14285714285714285
+Auto Rock,a.k.a. I.D.I.O.T.,beast,barely,0
+Auto Rock,a.k.a. I.D.I.O.T.,beast,legal,0
+Auto Rock,I'm Your Baby Tonight,auto,baby,0.36363636363636365
+Auto Rock,I'm Your Baby Tonight,auto,tonight,0.11764705882352941
+Auto Rock,I'm Your Baby Tonight,auto,greatest,0
+Auto Rock,I'm Your Baby Tonight,auto,hits,0.1
+Auto Rock,I'm Your Baby Tonight,auto,whitney,0.38095238095238093
+Auto Rock,I'm Your Baby Tonight,rock,baby,0.47058823529411764
+Auto Rock,I'm Your Baby Tonight,rock,tonight,0.16666666666666666
+Auto Rock,I'm Your Baby Tonight,rock,greatest,0
+Auto Rock,I'm Your Baby Tonight,rock,hits,0.13333333333333333
+Auto Rock,I'm Your Baby Tonight,rock,whitney,0.5
+Auto Rock,I'm Your Baby Tonight,mr,baby,0.11764705882352941
+Auto Rock,I'm Your Baby Tonight,mr,tonight,0.26666666666666666
+Auto Rock,I'm Your Baby Tonight,mr,greatest,0
+Auto Rock,I'm Your Baby Tonight,mr,hits,0.2222222222222222
+Auto Rock,I'm Your Baby Tonight,mr,whitney,0.125
+Auto Rock,I'm Your Baby Tonight,beast,baby,0.6666666666666666
+Auto Rock,I'm Your Baby Tonight,beast,tonight,0.15384615384615385
+Auto Rock,I'm Your Baby Tonight,beast,greatest,0
+Auto Rock,I'm Your Baby Tonight,beast,hits,0.125
+Auto Rock,I'm Your Baby Tonight,beast,whitney,0.7058823529411765
+Auto Rock,Hello,auto,hello,0.1111111111111111
+Auto Rock,Hello,auto,popular,0
+Auto Rock,Hello,auto,pianist,0.36363636363636365
+Auto Rock,Hello,auto,plays,0.1111111111111111
+Auto Rock,Hello,auto,romantic,0.38095238095238093
+Auto Rock,Hello,auto,favorites,0.1
+Auto Rock,Hello,auto,world,0.47058823529411764
+Auto Rock,Hello,rock,hello,0.15384615384615385
+Auto Rock,Hello,rock,popular,0
+Auto Rock,Hello,rock,pianist,0.47058823529411764
+Auto Rock,Hello,rock,plays,0.15384615384615385
+Auto Rock,Hello,rock,romantic,0.5
+Auto Rock,Hello,rock,favorites,0.13333333333333333
+Auto Rock,Hello,rock,world,0.8333333333333334
+Auto Rock,Hello,mr,hello,0.25
+Auto Rock,Hello,mr,popular,0
+Auto Rock,Hello,mr,pianist,0.11764705882352941
+Auto Rock,Hello,mr,plays,0.25
+Auto Rock,Hello,mr,romantic,0.125
+Auto Rock,Hello,mr,favorites,0.2222222222222222
+Auto Rock,Hello,mr,world,0.13333333333333333
+Auto Rock,Hello,beast,hello,0.14285714285714285
+Auto Rock,Hello,beast,popular,0
+Auto Rock,Hello,beast,pianist,0.6666666666666666
+Auto Rock,Hello,beast,plays,0.14285714285714285
+Auto Rock,Hello,beast,romantic,0.7058823529411765
+Auto Rock,Hello,beast,favorites,0.125
+Auto Rock,Hello,beast,world,0.6153846153846154
+Auto Rock,Heartbreak Hotel,auto,heartbreak,0.10526315789473684
+Auto Rock,Heartbreak Hotel,auto,hotel,0.5263157894736842
+Auto Rock,Heartbreak Hotel,auto,greatest,0
+Auto Rock,Heartbreak Hotel,auto,hits,0.1
+Auto Rock,Heartbreak Hotel,auto,whitney,0.38095238095238093
+Auto Rock,Heartbreak Hotel,rock,heartbreak,0.14285714285714285
+Auto Rock,Heartbreak Hotel,rock,hotel,0.5714285714285714
+Auto Rock,Heartbreak Hotel,rock,greatest,0
+Auto Rock,Heartbreak Hotel,rock,hits,0.13333333333333333
+Auto Rock,Heartbreak Hotel,rock,whitney,0.5
+Auto Rock,Heartbreak Hotel,mr,heartbreak,0.23529411764705882
+Auto Rock,Heartbreak Hotel,mr,hotel,0.11764705882352941
+Auto Rock,Heartbreak Hotel,mr,greatest,0
+Auto Rock,Heartbreak Hotel,mr,hits,0.2222222222222222
+Auto Rock,Heartbreak Hotel,mr,whitney,0.125
+Auto Rock,Heartbreak Hotel,beast,heartbreak,0.13333333333333333
+Auto Rock,Heartbreak Hotel,beast,hotel,0.5333333333333333
+Auto Rock,Heartbreak Hotel,beast,greatest,0
+Auto Rock,Heartbreak Hotel,beast,hits,0.125
+Auto Rock,Heartbreak Hotel,beast,whitney,0.7058823529411765
+Auto Rock,Fruit of love,auto,love,0.1111111111111111
+Auto Rock,Fruit of love,auto,fruit,0.4
+Auto Rock,Fruit of love,auto,lounge,0.5714285714285714
+Auto Rock,Fruit of love,rock,love,0.15384615384615385
+Auto Rock,Fruit of love,rock,fruit,0.6666666666666666
+Auto Rock,Fruit of love,rock,lounge,0.5
+Auto Rock,Fruit of love,mr,love,0.25
+Auto Rock,Fruit of love,mr,fruit,0.1111111111111111
+Auto Rock,Fruit of love,mr,lounge,0.10526315789473684
+Auto Rock,Fruit of love,beast,love,0.14285714285714285
+Auto Rock,Fruit of love,beast,fruit,0.5
+Auto Rock,Fruit of love,beast,lounge,0.47058823529411764
+Auto Rock,King & Queen,auto,queen,0.36363636363636365
+Auto Rock,King & Queen,auto,king,0.38095238095238093
+Auto Rock,King & Queen,auto,retrospective,0.1111111111111111
+Auto Rock,King & Queen,auto,reflections,0.1
+Auto Rock,King & Queen,rock,queen,0.47058823529411764
+Auto Rock,King & Queen,rock,king,0.5
+Auto Rock,King & Queen,rock,retrospective,0.15384615384615385
+Auto Rock,King & Queen,rock,reflections,0.13333333333333333
+Auto Rock,King & Queen,mr,queen,0.1
+Auto Rock,King & Queen,mr,king,0.125
+Auto Rock,King & Queen,mr,retrospective,0.25
+Auto Rock,King & Queen,mr,reflections,0.2222222222222222
+Auto Rock,King & Queen,beast,queen,0.7777777777777778
+Auto Rock,King & Queen,beast,king,0.7058823529411765
+Auto Rock,King & Queen,beast,retrospective,0.14285714285714285
+Auto Rock,King & Queen,beast,reflections,0.125
+Auto Rock,Light and space,auto,space,0.13333333333333333
+Auto Rock,Light and space,auto,light,0.18181818181818182
+Auto Rock,Light and space,auto,hypothetical,0.1
+Auto Rock,Light and space,rock,space,0.2
+Auto Rock,Light and space,rock,light,0.23529411764705882
+Auto Rock,Light and space,rock,hypothetical,0.13333333333333333
+Auto Rock,Light and space,mr,space,0.3076923076923077
+Auto Rock,Light and space,mr,light,0.1
+Auto Rock,Light and space,mr,hypothetical,0.2222222222222222
+Auto Rock,Light and space,beast,space,0.18181818181818182
+Auto Rock,Light and space,beast,light,0.2222222222222222
+Auto Rock,Light and space,beast,hypothetical,0.125
+Who Knows Who Cares,This Cowboy Song,knows,cowboy,0.10526315789473684
+Who Knows Who Cares,This Cowboy Song,knows,song,0.26666666666666666
+Who Knows Who Cares,This Cowboy Song,knows,sting,0.47058823529411764
+Who Knows Who Cares,This Cowboy Song,knows,gold,0.21052631578947367
+Who Knows Who Cares,This Cowboy Song,knows,fields,0.125
+Who Knows Who Cares,This Cowboy Song,knows,best,0.375
+Who Knows Who Cares,This Cowboy Song,cares,cowboy,0.10526315789473684
+Who Knows Who Cares,This Cowboy Song,cares,song,0.26666666666666666
+Who Knows Who Cares,This Cowboy Song,cares,sting,0.35294117647058826
+Who Knows Who Cares,This Cowboy Song,cares,gold,0.21052631578947367
+Who Knows Who Cares,This Cowboy Song,cares,fields,0.125
+Who Knows Who Cares,This Cowboy Song,cares,best,0.75
+Who Knows Who Cares,This Cowboy Song,gorilla,cowboy,0.4
+Who Knows Who Cares,This Cowboy Song,gorilla,song,0.08695652173913043
+Who Knows Who Cares,This Cowboy Song,gorilla,sting,0.08
+Who Knows Who Cares,This Cowboy Song,gorilla,gold,0.07407407407407407
+Who Knows Who Cares,This Cowboy Song,gorilla,fields,0.4444444444444444
+Who Knows Who Cares,This Cowboy Song,gorilla,best,0.08333333333333333
+Who Knows Who Cares,This Cowboy Song,manor,cowboy,0.3333333333333333
+Who Knows Who Cares,This Cowboy Song,manor,song,0.11764705882352941
+Who Knows Who Cares,This Cowboy Song,manor,sting,0.10526315789473684
+Who Knows Who Cares,This Cowboy Song,manor,gold,0.09523809523809523
+Who Knows Who Cares,This Cowboy Song,manor,fields,0.38095238095238093
+Who Knows Who Cares,This Cowboy Song,manor,best,0.1111111111111111
+Who Knows Who Cares,Walk Of Life,knows,walk,0.3333333333333333
+Who Knows Who Cares,Walk Of Life,knows,life,0.2857142857142857
+Who Knows Who Cares,Walk Of Life,knows,brothers,0.125
+Who Knows Who Cares,Walk Of Life,knows,arms,0.13333333333333333
+Who Knows Who Cares,Walk Of Life,cares,walk,0.5555555555555556
+Who Knows Who Cares,Walk Of Life,cares,life,0.2857142857142857
+Who Knows Who Cares,Walk Of Life,cares,brothers,0.125
+Who Knows Who Cares,Walk Of Life,cares,arms,0.13333333333333333
+Who Knows Who Cares,Walk Of Life,gorilla,walk,0.07692307692307693
+Who Knows Who Cares,Walk Of Life,gorilla,life,0.09090909090909091
+Who Knows Who Cares,Walk Of Life,gorilla,brothers,0.4444444444444444
+Who Knows Who Cares,Walk Of Life,gorilla,arms,0.34782608695652173
+Who Knows Who Cares,Walk Of Life,manor,walk,0.1
+Who Knows Who Cares,Walk Of Life,manor,life,0.125
+Who Knows Who Cares,Walk Of Life,manor,brothers,0.38095238095238093
+Who Knows Who Cares,Walk Of Life,manor,arms,0.5882352941176471
+Who Knows Who Cares,Somewhere in the Middle,knows,somewhere,0.15384615384615385
+Who Knows Who Cares,Somewhere in the Middle,knows,middle,0.13333333333333333
+Who Knows Who Cares,Somewhere in the Middle,knows,flow,0.375
+Who Knows Who Cares,Somewhere in the Middle,knows,state,0.125
+Who Knows Who Cares,Somewhere in the Middle,knows,live,0
+Who Knows Who Cares,Somewhere in the Middle,knows,greetings,0.2857142857142857
+Who Knows Who Cares,Somewhere in the Middle,cares,somewhere,0.15384615384615385
+Who Knows Who Cares,Somewhere in the Middle,cares,middle,0.13333333333333333
+Who Knows Who Cares,Somewhere in the Middle,cares,flow,0.5
+Who Knows Who Cares,Somewhere in the Middle,cares,state,0.125
+Who Knows Who Cares,Somewhere in the Middle,cares,live,0
+Who Knows Who Cares,Somewhere in the Middle,cares,greetings,0.2857142857142857
+Who Knows Who Cares,Somewhere in the Middle,gorilla,somewhere,0.2857142857142857
+Who Knows Who Cares,Somewhere in the Middle,gorilla,middle,0.2608695652173913
+Who Knows Who Cares,Somewhere in the Middle,gorilla,flow,0.08333333333333333
+Who Knows Who Cares,Somewhere in the Middle,gorilla,state,0.25
+Who Knows Who Cares,Somewhere in the Middle,gorilla,live,0
+Who Knows Who Cares,Somewhere in the Middle,gorilla,greetings,0.09090909090909091
+Who Knows Who Cares,Somewhere in the Middle,manor,somewhere,0.4
+Who Knows Who Cares,Somewhere in the Middle,manor,middle,0.35294117647058826
+Who Knows Who Cares,Somewhere in the Middle,manor,flow,0.1111111111111111
+Who Knows Who Cares,Somewhere in the Middle,manor,state,0.3333333333333333
+Who Knows Who Cares,Somewhere in the Middle,manor,live,0
+Who Knows Who Cares,Somewhere in the Middle,manor,greetings,0.125
+Who Knows Who Cares,Ember Drive,knows,ember,0.14285714285714285
+Who Knows Who Cares,Ember Drive,knows,drive,0.4
+Who Knows Who Cares,Ember Drive,knows,redemption,0.375
+Who Knows Who Cares,Ember Drive,cares,ember,0.14285714285714285
+Who Knows Who Cares,Ember Drive,cares,drive,0.6666666666666666
+Who Knows Who Cares,Ember Drive,cares,redemption,0.625
+Who Knows Who Cares,Ember Drive,gorilla,ember,0.18181818181818182
+Who Knows Who Cares,Ember Drive,gorilla,drive,0.08695652173913043
+Who Knows Who Cares,Ember Drive,gorilla,redemption,0.08333333333333333
+Who Knows Who Cares,Ember Drive,manor,ember,0.25
+Who Knows Who Cares,Ember Drive,manor,drive,0.11764705882352941
+Who Knows Who Cares,Ember Drive,manor,redemption,0.1111111111111111
+Who Knows Who Cares,Cancun,knows,cancun,0.1111111111111111
+Who Knows Who Cares,Cancun,cares,cancun,0.1111111111111111
+Who Knows Who Cares,Cancun,gorilla,cancun,0.23076923076923078
+Who Knows Who Cares,Cancun,manor,cancun,0.3
+Who Knows Who Cares,How Deep Is Your Love,knows,love,0.26666666666666666
+Who Knows Who Cares,How Deep Is Your Love,knows,deep,0.2857142857142857
+Who Knows Who Cares,How Deep Is Your Love,knows,popular,0
+Who Knows Who Cares,How Deep Is Your Love,knows,pianist,0.125
+Who Knows Who Cares,How Deep Is Your Love,knows,plays,0.26666666666666666
+Who Knows Who Cares,How Deep Is Your Love,knows,bee,0.1
+Who Knows Who Cares,How Deep Is Your Love,knows,john,0.11764705882352941
+Who Knows Who Cares,How Deep Is Your Love,knows,world,0.14285714285714285
+Who Knows Who Cares,How Deep Is Your Love,knows,favorites,0.7058823529411765
+Who Knows Who Cares,How Deep Is Your Love,cares,love,0.26666666666666666
+Who Knows Who Cares,How Deep Is Your Love,cares,deep,0.2857142857142857
+Who Knows Who Cares,How Deep Is Your Love,cares,popular,0
+Who Knows Who Cares,How Deep Is Your Love,cares,pianist,0.125
+Who Knows Who Cares,How Deep Is Your Love,cares,plays,0.26666666666666666
+Who Knows Who Cares,How Deep Is Your Love,cares,bee,0.1
+Who Knows Who Cares,How Deep Is Your Love,cares,john,0.11764705882352941
+Who Knows Who Cares,How Deep Is Your Love,cares,world,0.14285714285714285
+Who Knows Who Cares,How Deep Is Your Love,cares,favorites,0.35294117647058826
+Who Knows Who Cares,How Deep Is Your Love,gorilla,love,0.08695652173913043
+Who Knows Who Cares,How Deep Is Your Love,gorilla,deep,0.09090909090909091
+Who Knows Who Cares,How Deep Is Your Love,gorilla,popular,0
+Who Knows Who Cares,How Deep Is Your Love,gorilla,pianist,0.4444444444444444
+Who Knows Who Cares,How Deep Is Your Love,gorilla,plays,0.08695652173913043
+Who Knows Who Cares,How Deep Is Your Love,gorilla,bee,0.5
+Who Knows Who Cares,How Deep Is Your Love,gorilla,john,0.32
+Who Knows Who Cares,How Deep Is Your Love,gorilla,world,0.36363636363636365
+Who Knows Who Cares,How Deep Is Your Love,gorilla,favorites,0.08
+Who Knows Who Cares,How Deep Is Your Love,manor,love,0.11764705882352941
+Who Knows Who Cares,How Deep Is Your Love,manor,deep,0.125
+Who Knows Who Cares,How Deep Is Your Love,manor,popular,0
+Who Knows Who Cares,How Deep Is Your Love,manor,pianist,0.38095238095238093
+Who Knows Who Cares,How Deep Is Your Love,manor,plays,0.11764705882352941
+Who Knows Who Cares,How Deep Is Your Love,manor,bee,0.36363636363636365
+Who Knows Who Cares,How Deep Is Your Love,manor,john,0.631578947368421
+Who Knows Who Cares,How Deep Is Your Love,manor,world,0.5
+Who Knows Who Cares,How Deep Is Your Love,manor,favorites,0.10526315789473684
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,knows,k,0.26666666666666666
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,knows,barely,0
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,knows,legal,0
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,cares,k,0.26666666666666666
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,cares,barely,0
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,cares,legal,0
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,gorilla,k,0.08695652173913043
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,gorilla,barely,0
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,gorilla,legal,0
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,manor,k,0.11764705882352941
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,manor,barely,0
+Who Knows Who Cares,a.k.a. I.D.I.O.T.,manor,legal,0
+Who Knows Who Cares,I'm Your Baby Tonight,knows,baby,0.125
+Who Knows Who Cares,I'm Your Baby Tonight,knows,tonight,0.2857142857142857
+Who Knows Who Cares,I'm Your Baby Tonight,knows,greatest,0
+Who Knows Who Cares,I'm Your Baby Tonight,knows,hits,0.35294117647058826
+Who Knows Who Cares,I'm Your Baby Tonight,knows,whitney,0.13333333333333333
+Who Knows Who Cares,I'm Your Baby Tonight,cares,baby,0.125
+Who Knows Who Cares,I'm Your Baby Tonight,cares,tonight,0.2857142857142857
+Who Knows Who Cares,I'm Your Baby Tonight,cares,greatest,0
+Who Knows Who Cares,I'm Your Baby Tonight,cares,hits,0.5882352941176471
+Who Knows Who Cares,I'm Your Baby Tonight,cares,whitney,0.13333333333333333
+Who Knows Who Cares,I'm Your Baby Tonight,gorilla,baby,0.4444444444444444
+Who Knows Who Cares,I'm Your Baby Tonight,gorilla,tonight,0.09090909090909091
+Who Knows Who Cares,I'm Your Baby Tonight,gorilla,greatest,0
+Who Knows Who Cares,I'm Your Baby Tonight,gorilla,hits,0.08
+Who Knows Who Cares,I'm Your Baby Tonight,gorilla,whitney,0.46153846153846156
+Who Knows Who Cares,I'm Your Baby Tonight,manor,baby,0.38095238095238093
+Who Knows Who Cares,I'm Your Baby Tonight,manor,tonight,0.125
+Who Knows Who Cares,I'm Your Baby Tonight,manor,greatest,0
+Who Knows Who Cares,I'm Your Baby Tonight,manor,hits,0.10526315789473684
+Who Knows Who Cares,I'm Your Baby Tonight,manor,whitney,0.4
+Who Knows Who Cares,Hello,knows,hello,0.26666666666666666
+Who Knows Who Cares,Hello,knows,popular,0
+Who Knows Who Cares,Hello,knows,pianist,0.125
+Who Knows Who Cares,Hello,knows,plays,0.26666666666666666
+Who Knows Who Cares,Hello,knows,romantic,0.13333333333333333
+Who Knows Who Cares,Hello,knows,favorites,0.7058823529411765
+Who Knows Who Cares,Hello,knows,world,0.14285714285714285
+Who Knows Who Cares,Hello,cares,hello,0.26666666666666666
+Who Knows Who Cares,Hello,cares,popular,0
+Who Knows Who Cares,Hello,cares,pianist,0.125
+Who Knows Who Cares,Hello,cares,plays,0.26666666666666666
+Who Knows Who Cares,Hello,cares,romantic,0.13333333333333333
+Who Knows Who Cares,Hello,cares,favorites,0.35294117647058826
+Who Knows Who Cares,Hello,cares,world,0.14285714285714285
+Who Knows Who Cares,Hello,gorilla,hello,0.08695652173913043
+Who Knows Who Cares,Hello,gorilla,popular,0
+Who Knows Who Cares,Hello,gorilla,pianist,0.4444444444444444
+Who Knows Who Cares,Hello,gorilla,plays,0.08695652173913043
+Who Knows Who Cares,Hello,gorilla,romantic,0.46153846153846156
+Who Knows Who Cares,Hello,gorilla,favorites,0.08
+Who Knows Who Cares,Hello,gorilla,world,0.36363636363636365
+Who Knows Who Cares,Hello,manor,hello,0.11764705882352941
+Who Knows Who Cares,Hello,manor,popular,0
+Who Knows Who Cares,Hello,manor,pianist,0.38095238095238093
+Who Knows Who Cares,Hello,manor,plays,0.11764705882352941
+Who Knows Who Cares,Hello,manor,romantic,0.4
+Who Knows Who Cares,Hello,manor,favorites,0.10526315789473684
+Who Knows Who Cares,Hello,manor,world,0.5
+Who Knows Who Cares,Heartbreak Hotel,knows,heartbreak,0.25
+Who Knows Who Cares,Heartbreak Hotel,knows,hotel,0.125
+Who Knows Who Cares,Heartbreak Hotel,knows,greatest,0
+Who Knows Who Cares,Heartbreak Hotel,knows,hits,0.35294117647058826
+Who Knows Who Cares,Heartbreak Hotel,knows,whitney,0.13333333333333333
+Who Knows Who Cares,Heartbreak Hotel,cares,heartbreak,0.25
+Who Knows Who Cares,Heartbreak Hotel,cares,hotel,0.125
+Who Knows Who Cares,Heartbreak Hotel,cares,greatest,0
+Who Knows Who Cares,Heartbreak Hotel,cares,hits,0.5882352941176471
+Who Knows Who Cares,Heartbreak Hotel,cares,whitney,0.13333333333333333
+Who Knows Who Cares,Heartbreak Hotel,gorilla,heartbreak,0.08333333333333333
+Who Knows Who Cares,Heartbreak Hotel,gorilla,hotel,0.3333333333333333
+Who Knows Who Cares,Heartbreak Hotel,gorilla,greatest,0
+Who Knows Who Cares,Heartbreak Hotel,gorilla,hits,0.08
+Who Knows Who Cares,Heartbreak Hotel,gorilla,whitney,0.46153846153846156
+Who Knows Who Cares,Heartbreak Hotel,manor,heartbreak,0.1111111111111111
+Who Knows Who Cares,Heartbreak Hotel,manor,hotel,0.7777777777777778
+Who Knows Who Cares,Heartbreak Hotel,manor,greatest,0
+Who Knows Who Cares,Heartbreak Hotel,manor,hits,0.10526315789473684
+Who Knows Who Cares,Heartbreak Hotel,manor,whitney,0.4
+Who Knows Who Cares,Fruit of love,knows,love,0.26666666666666666
+Who Knows Who Cares,Fruit of love,knows,fruit,0.11764705882352941
+Who Knows Who Cares,Fruit of love,knows,lounge,0.1111111111111111
+Who Knows Who Cares,Fruit of love,cares,love,0.26666666666666666
+Who Knows Who Cares,Fruit of love,cares,fruit,0.11764705882352941
+Who Knows Who Cares,Fruit of love,cares,lounge,0.1111111111111111
+Who Knows Who Cares,Fruit of love,gorilla,love,0.08695652173913043
+Who Knows Who Cares,Fruit of love,gorilla,fruit,0.32
+Who Knows Who Cares,Fruit of love,gorilla,lounge,0.3076923076923077
+Who Knows Who Cares,Fruit of love,manor,love,0.11764705882352941
+Who Knows Who Cares,Fruit of love,manor,fruit,0.42105263157894735
+Who Knows Who Cares,Fruit of love,manor,lounge,0.5
+Who Knows Who Cares,King & Queen,knows,queen,0.10526315789473684
+Who Knows Who Cares,King & Queen,knows,king,0.13333333333333333
+Who Knows Who Cares,King & Queen,knows,retrospective,0.26666666666666666
+Who Knows Who Cares,King & Queen,knows,reflections,0.7058823529411765
+Who Knows Who Cares,King & Queen,cares,queen,0.10526315789473684
+Who Knows Who Cares,King & Queen,cares,king,0.13333333333333333
+Who Knows Who Cares,King & Queen,cares,retrospective,0.26666666666666666
+Who Knows Who Cares,King & Queen,cares,reflections,0.35294117647058826
+Who Knows Who Cares,King & Queen,gorilla,queen,0.5185185185185185
+Who Knows Who Cares,King & Queen,gorilla,king,0.46153846153846156
+Who Knows Who Cares,King & Queen,gorilla,retrospective,0.08695652173913043
+Who Knows Who Cares,King & Queen,gorilla,reflections,0.08
+Who Knows Who Cares,King & Queen,manor,queen,0.38095238095238093
+Who Knows Who Cares,King & Queen,manor,king,0.4
+Who Knows Who Cares,King & Queen,manor,retrospective,0.11764705882352941
+Who Knows Who Cares,King & Queen,manor,reflections,0.10526315789473684
+Who Knows Who Cares,Light and space,knows,space,0.3333333333333333
+Who Knows Who Cares,Light and space,knows,light,0.10526315789473684
+Who Knows Who Cares,Light and space,knows,hypothetical,0.47058823529411764
+Who Knows Who Cares,Light and space,cares,space,0.3333333333333333
+Who Knows Who Cares,Light and space,cares,light,0.10526315789473684
+Who Knows Who Cares,Light and space,cares,hypothetical,0.35294117647058826
+Who Knows Who Cares,Light and space,gorilla,space,0.1
+Who Knows Who Cares,Light and space,gorilla,light,0.14814814814814814
+Who Knows Who Cares,Light and space,gorilla,hypothetical,0.08
+Who Knows Who Cares,Light and space,manor,space,0.14285714285714285
+Who Knows Who Cares,Light and space,manor,light,0.19047619047619047
+Who Knows Who Cares,Light and space,manor,hypothetical,0.10526315789473684
+Quiet,This Cowboy Song,quiet,cowboy,0.18181818181818182
+Quiet,This Cowboy Song,quiet,song,0.1111111111111111
+Quiet,This Cowboy Song,quiet,sting,0.1
+Quiet,This Cowboy Song,quiet,gold,0.09090909090909091
+Quiet,This Cowboy Song,quiet,fields,0.21052631578947367
+Quiet,This Cowboy Song,quiet,best,0.10526315789473684
+Quiet,This Cowboy Song,young,cowboy,0.5454545454545454
+Quiet,This Cowboy Song,young,song,0.13333333333333333
+Quiet,This Cowboy Song,young,sting,0.11764705882352941
+Quiet,This Cowboy Song,young,gold,0.10526315789473684
+Quiet,This Cowboy Song,young,fields,0.631578947368421
+Quiet,This Cowboy Song,young,best,0.125
+Quiet,This Cowboy Song,mountain,cowboy,0.3157894736842105
+Quiet,This Cowboy Song,mountain,song,0.15384615384615385
+Quiet,This Cowboy Song,mountain,sting,0.13333333333333333
+Quiet,This Cowboy Song,mountain,gold,0.11764705882352941
+Quiet,This Cowboy Song,mountain,fields,0.375
+Quiet,This Cowboy Song,mountain,best,0.14285714285714285
+Quiet,Walk Of Life,quiet,walk,0.09523809523809523
+Quiet,Walk Of Life,quiet,life,0.11764705882352941
+Quiet,Walk Of Life,quiet,brothers,0.21052631578947367
+Quiet,Walk Of Life,quiet,arms,0.2222222222222222
+Quiet,Walk Of Life,young,walk,0.1111111111111111
+Quiet,Walk Of Life,young,life,0.14285714285714285
+Quiet,Walk Of Life,young,brothers,0.631578947368421
+Quiet,Walk Of Life,young,arms,0.5333333333333333
+Quiet,Walk Of Life,mountain,walk,0.125
+Quiet,Walk Of Life,mountain,life,0.16666666666666666
+Quiet,Walk Of Life,mountain,brothers,0.375
+Quiet,Walk Of Life,mountain,arms,0.46153846153846156
+Quiet,Somewhere in the Middle,quiet,somewhere,0.25
+Quiet,Somewhere in the Middle,quiet,middle,0.2222222222222222
+Quiet,Somewhere in the Middle,quiet,flow,0.10526315789473684
+Quiet,Somewhere in the Middle,quiet,state,0.21052631578947367
+Quiet,Somewhere in the Middle,quiet,live,0
+Quiet,Somewhere in the Middle,quiet,greetings,0.11764705882352941
+Quiet,Somewhere in the Middle,young,somewhere,0.46153846153846156
+Quiet,Somewhere in the Middle,young,middle,0.4
+Quiet,Somewhere in the Middle,young,flow,0.125
+Quiet,Somewhere in the Middle,young,state,0.375
+Quiet,Somewhere in the Middle,young,live,0
+Quiet,Somewhere in the Middle,young,greetings,0.14285714285714285
+Quiet,Somewhere in the Middle,mountain,somewhere,0.5454545454545454
+Quiet,Somewhere in the Middle,mountain,middle,0.46153846153846156
+Quiet,Somewhere in the Middle,mountain,flow,0.14285714285714285
+Quiet,Somewhere in the Middle,mountain,state,0.42857142857142855
+Quiet,Somewhere in the Middle,mountain,live,0
+Quiet,Somewhere in the Middle,mountain,greetings,0.16666666666666666
+Quiet,Ember Drive,quiet,ember,0.23529411764705882
+Quiet,Ember Drive,quiet,drive,0.1111111111111111
+Quiet,Ember Drive,quiet,redemption,0.10526315789473684
+Quiet,Ember Drive,young,ember,0.2857142857142857
+Quiet,Ember Drive,young,drive,0.13333333333333333
+Quiet,Ember Drive,young,redemption,0.125
+Quiet,Ember Drive,mountain,ember,0.3333333333333333
+Quiet,Ember Drive,mountain,drive,0.15384615384615385
+Quiet,Ember Drive,mountain,redemption,0.14285714285714285
+Quiet,Cancun,quiet,cancun,0.19047619047619047
+Quiet,Cancun,young,cancun,0.3333333333333333
+Quiet,Cancun,mountain,cancun,0.375
+Quiet,How Deep Is Your Love,quiet,love,0.1111111111111111
+Quiet,How Deep Is Your Love,quiet,deep,0.11764705882352941
+Quiet,How Deep Is Your Love,quiet,popular,0
+Quiet,How Deep Is Your Love,quiet,pianist,0.21052631578947367
+Quiet,How Deep Is Your Love,quiet,plays,0.1111111111111111
+Quiet,How Deep Is Your Love,quiet,bee,0.17391304347826086
+Quiet,How Deep Is Your Love,quiet,john,0.2
+Quiet,How Deep Is Your Love,quiet,world,0.23529411764705882
+Quiet,How Deep Is Your Love,quiet,favorites,0.1
+Quiet,How Deep Is Your Love,young,love,0.13333333333333333
+Quiet,How Deep Is Your Love,young,deep,0.14285714285714285
+Quiet,How Deep Is Your Love,young,popular,0
+Quiet,How Deep Is Your Love,young,pianist,0.631578947368421
+Quiet,How Deep Is Your Love,young,plays,0.13333333333333333
+Quiet,How Deep Is Your Love,young,bee,0.7
+Quiet,How Deep Is Your Love,young,john,0.47058823529411764
+Quiet,How Deep Is Your Love,young,world,0.5714285714285714
+Quiet,How Deep Is Your Love,young,favorites,0.11764705882352941
+Quiet,How Deep Is Your Love,mountain,love,0.15384615384615385
+Quiet,How Deep Is Your Love,mountain,deep,0.16666666666666666
+Quiet,How Deep Is Your Love,mountain,popular,0
+Quiet,How Deep Is Your Love,mountain,pianist,0.375
+Quiet,How Deep Is Your Love,mountain,plays,0.15384615384615385
+Quiet,How Deep Is Your Love,mountain,bee,0.3333333333333333
+Quiet,How Deep Is Your Love,mountain,john,0.4
+Quiet,How Deep Is Your Love,mountain,world,0.5
+Quiet,How Deep Is Your Love,mountain,favorites,0.13333333333333333
+Quiet,a.k.a. I.D.I.O.T.,quiet,k,0.1111111111111111
+Quiet,a.k.a. I.D.I.O.T.,quiet,barely,0
+Quiet,a.k.a. I.D.I.O.T.,quiet,legal,0
+Quiet,a.k.a. I.D.I.O.T.,young,k,0.13333333333333333
+Quiet,a.k.a. I.D.I.O.T.,young,barely,0
+Quiet,a.k.a. I.D.I.O.T.,young,legal,0
+Quiet,a.k.a. I.D.I.O.T.,mountain,k,0.15384615384615385
+Quiet,a.k.a. I.D.I.O.T.,mountain,barely,0
+Quiet,a.k.a. I.D.I.O.T.,mountain,legal,0
+Quiet,I'm Your Baby Tonight,quiet,baby,0.21052631578947367
+Quiet,I'm Your Baby Tonight,quiet,tonight,0.11764705882352941
+Quiet,I'm Your Baby Tonight,quiet,greatest,0
+Quiet,I'm Your Baby Tonight,quiet,hits,0.1
+Quiet,I'm Your Baby Tonight,quiet,whitney,0.2222222222222222
+Quiet,I'm Your Baby Tonight,young,baby,0.631578947368421
+Quiet,I'm Your Baby Tonight,young,tonight,0.14285714285714285
+Quiet,I'm Your Baby Tonight,young,greatest,0
+Quiet,I'm Your Baby Tonight,young,hits,0.11764705882352941
+Quiet,I'm Your Baby Tonight,young,whitney,0.6666666666666666
+Quiet,I'm Your Baby Tonight,mountain,baby,0.375
+Quiet,I'm Your Baby Tonight,mountain,tonight,0.16666666666666666
+Quiet,I'm Your Baby Tonight,mountain,greatest,0
+Quiet,I'm Your Baby Tonight,mountain,hits,0.13333333333333333
+Quiet,I'm Your Baby Tonight,mountain,whitney,0.4
+Quiet,Hello,quiet,hello,0.1111111111111111
+Quiet,Hello,quiet,popular,0
+Quiet,Hello,quiet,pianist,0.21052631578947367
+Quiet,Hello,quiet,plays,0.1111111111111111
+Quiet,Hello,quiet,romantic,0.2222222222222222
+Quiet,Hello,quiet,favorites,0.1
+Quiet,Hello,quiet,world,0.23529411764705882
+Quiet,Hello,young,hello,0.13333333333333333
+Quiet,Hello,young,popular,0
+Quiet,Hello,young,pianist,0.631578947368421
+Quiet,Hello,young,plays,0.13333333333333333
+Quiet,Hello,young,romantic,0.6666666666666666
+Quiet,Hello,young,favorites,0.11764705882352941
+Quiet,Hello,young,world,0.5714285714285714
+Quiet,Hello,mountain,hello,0.15384615384615385
+Quiet,Hello,mountain,popular,0
+Quiet,Hello,mountain,pianist,0.375
+Quiet,Hello,mountain,plays,0.15384615384615385
+Quiet,Hello,mountain,romantic,0.4
+Quiet,Hello,mountain,favorites,0.13333333333333333
+Quiet,Hello,mountain,world,0.5
+Quiet,Heartbreak Hotel,quiet,heartbreak,0.10526315789473684
+Quiet,Heartbreak Hotel,quiet,hotel,0.21052631578947367
+Quiet,Heartbreak Hotel,quiet,greatest,0
+Quiet,Heartbreak Hotel,quiet,hits,0.1
+Quiet,Heartbreak Hotel,quiet,whitney,0.2222222222222222
+Quiet,Heartbreak Hotel,young,heartbreak,0.125
+Quiet,Heartbreak Hotel,young,hotel,0.5
+Quiet,Heartbreak Hotel,young,greatest,0
+Quiet,Heartbreak Hotel,young,hits,0.11764705882352941
+Quiet,Heartbreak Hotel,young,whitney,0.6666666666666666
+Quiet,Heartbreak Hotel,mountain,heartbreak,0.14285714285714285
+Quiet,Heartbreak Hotel,mountain,hotel,0.42857142857142855
+Quiet,Heartbreak Hotel,mountain,greatest,0
+Quiet,Heartbreak Hotel,mountain,hits,0.13333333333333333
+Quiet,Heartbreak Hotel,mountain,whitney,0.4
+Quiet,Fruit of love,quiet,love,0.1111111111111111
+Quiet,Fruit of love,quiet,fruit,0.2
+Quiet,Fruit of love,quiet,lounge,0.19047619047619047
+Quiet,Fruit of love,young,love,0.13333333333333333
+Quiet,Fruit of love,young,fruit,0.47058823529411764
+Quiet,Fruit of love,young,lounge,0.4444444444444444
+Quiet,Fruit of love,mountain,love,0.15384615384615385
+Quiet,Fruit of love,mountain,fruit,0.4
+Quiet,Fruit of love,mountain,lounge,0.375
+Quiet,King & Queen,quiet,queen,0.18181818181818182
+Quiet,King & Queen,quiet,king,0.2222222222222222
+Quiet,King & Queen,quiet,retrospective,0.1111111111111111
+Quiet,King & Queen,quiet,reflections,0.1
+Quiet,King & Queen,young,queen,0.7368421052631579
+Quiet,King & Queen,young,king,0.6666666666666666
+Quiet,King & Queen,young,retrospective,0.13333333333333333
+Quiet,King & Queen,young,reflections,0.11764705882352941
+Quiet,King & Queen,mountain,queen,0.35294117647058826
+Quiet,King & Queen,mountain,king,0.4
+Quiet,King & Queen,mountain,retrospective,0.15384615384615385
+Quiet,King & Queen,mountain,reflections,0.13333333333333333
+Quiet,Light and space,quiet,space,0.13333333333333333
+Quiet,Light and space,quiet,light,0.5454545454545454
+Quiet,Light and space,quiet,hypothetical,0.1
+Quiet,Light and space,young,space,0.16666666666666666
+Quiet,Light and space,young,light,0.21052631578947367
+Quiet,Light and space,young,hypothetical,0.11764705882352941
+Quiet,Light and space,mountain,space,0.2
+Quiet,Light and space,mountain,light,0.23529411764705882
+Quiet,Light and space,mountain,hypothetical,0.13333333333333333
+Girlfriend,This Cowboy Song,girlfriend,cowboy,0.5217391304347826
+Girlfriend,This Cowboy Song,girlfriend,song,0.15384615384615385
+Girlfriend,This Cowboy Song,girlfriend,sting,0.13333333333333333
+Girlfriend,This Cowboy Song,girlfriend,gold,0.11764705882352941
+Girlfriend,This Cowboy Song,girlfriend,fields,0.6
+Girlfriend,This Cowboy Song,girlfriend,best,0.14285714285714285
+Girlfriend,This Cowboy Song,phoenix,cowboy,0.25
+Girlfriend,This Cowboy Song,phoenix,song,0.1111111111111111
+Girlfriend,This Cowboy Song,phoenix,sting,0.1
+Girlfriend,This Cowboy Song,phoenix,gold,0.09090909090909091
+Girlfriend,This Cowboy Song,phoenix,fields,0.2857142857142857
+Girlfriend,This Cowboy Song,phoenix,best,0.10526315789473684
+Girlfriend,Walk Of Life,girlfriend,walk,0.125
+Girlfriend,Walk Of Life,girlfriend,life,0.16666666666666666
+Girlfriend,Walk Of Life,girlfriend,brothers,0.6
+Girlfriend,Walk Of Life,girlfriend,arms,0.5
+Girlfriend,Walk Of Life,phoenix,walk,0.09523809523809523
+Girlfriend,Walk Of Life,phoenix,life,0.11764705882352941
+Girlfriend,Walk Of Life,phoenix,brothers,0.2857142857142857
+Girlfriend,Walk Of Life,phoenix,arms,0.3333333333333333
+Girlfriend,Somewhere in the Middle,girlfriend,somewhere,0.46153846153846156
+Girlfriend,Somewhere in the Middle,girlfriend,middle,0.4
+Girlfriend,Somewhere in the Middle,girlfriend,flow,0.14285714285714285
+Girlfriend,Somewhere in the Middle,girlfriend,state,0.375
+Girlfriend,Somewhere in the Middle,girlfriend,live,0
+Girlfriend,Somewhere in the Middle,girlfriend,greetings,0.16666666666666666
+Girlfriend,Somewhere in the Middle,phoenix,somewhere,0.5
+Girlfriend,Somewhere in the Middle,phoenix,middle,0.7777777777777778
+Girlfriend,Somewhere in the Middle,phoenix,flow,0.10526315789473684
+Girlfriend,Somewhere in the Middle,phoenix,state,0.7368421052631579
+Girlfriend,Somewhere in the Middle,phoenix,live,0
+Girlfriend,Somewhere in the Middle,phoenix,greetings,0.11764705882352941
+Girlfriend,Ember Drive,girlfriend,ember,0.3333333333333333
+Girlfriend,Ember Drive,girlfriend,drive,0.15384615384615385
+Girlfriend,Ember Drive,girlfriend,redemption,0.14285714285714285
+Girlfriend,Ember Drive,phoenix,ember,0.23529411764705882
+Girlfriend,Ember Drive,phoenix,drive,0.1111111111111111
+Girlfriend,Ember Drive,phoenix,redemption,0.10526315789473684
+Girlfriend,Cancun,girlfriend,cancun,0.3333333333333333
+Girlfriend,Cancun,phoenix,cancun,0.8571428571428571
+Girlfriend,How Deep Is Your Love,girlfriend,love,0.15384615384615385
+Girlfriend,How Deep Is Your Love,girlfriend,deep,0.16666666666666666
+Girlfriend,How Deep Is Your Love,girlfriend,popular,0
+Girlfriend,How Deep Is Your Love,girlfriend,pianist,0.6
+Girlfriend,How Deep Is Your Love,girlfriend,plays,0.15384615384615385
+Girlfriend,How Deep Is Your Love,girlfriend,bee,0.5714285714285714
+Girlfriend,How Deep Is Your Love,girlfriend,john,0.4444444444444444
+Girlfriend,How Deep Is Your Love,girlfriend,world,0.5333333333333333
+Girlfriend,How Deep Is Your Love,girlfriend,favorites,0.13333333333333333
+Girlfriend,How Deep Is Your Love,phoenix,love,0.1111111111111111
+Girlfriend,How Deep Is Your Love,phoenix,deep,0.11764705882352941
+Girlfriend,How Deep Is Your Love,phoenix,popular,0
+Girlfriend,How Deep Is Your Love,phoenix,pianist,0.2857142857142857
+Girlfriend,How Deep Is Your Love,phoenix,plays,0.1111111111111111
+Girlfriend,How Deep Is Your Love,phoenix,bee,0.2608695652173913
+Girlfriend,How Deep Is Your Love,phoenix,john,0.3
+Girlfriend,How Deep Is Your Love,phoenix,world,0.35294117647058826
+Girlfriend,How Deep Is Your Love,phoenix,favorites,0.1
+Girlfriend,a.k.a. I.D.I.O.T.,girlfriend,k,0.15384615384615385
+Girlfriend,a.k.a. I.D.I.O.T.,girlfriend,barely,0
+Girlfriend,a.k.a. I.D.I.O.T.,girlfriend,legal,0
+Girlfriend,a.k.a. I.D.I.O.T.,phoenix,k,0.1111111111111111
+Girlfriend,a.k.a. I.D.I.O.T.,phoenix,barely,0
+Girlfriend,a.k.a. I.D.I.O.T.,phoenix,legal,0
+Girlfriend,I'm Your Baby Tonight,girlfriend,baby,0.6
+Girlfriend,I'm Your Baby Tonight,girlfriend,tonight,0.16666666666666666
+Girlfriend,I'm Your Baby Tonight,girlfriend,greatest,0
+Girlfriend,I'm Your Baby Tonight,girlfriend,hits,0.13333333333333333
+Girlfriend,I'm Your Baby Tonight,girlfriend,whitney,0.631578947368421
+Girlfriend,I'm Your Baby Tonight,phoenix,baby,0.2857142857142857
+Girlfriend,I'm Your Baby Tonight,phoenix,tonight,0.11764705882352941
+Girlfriend,I'm Your Baby Tonight,phoenix,greatest,0
+Girlfriend,I'm Your Baby Tonight,phoenix,hits,0.1
+Girlfriend,I'm Your Baby Tonight,phoenix,whitney,0.3
+Girlfriend,Hello,girlfriend,hello,0.15384615384615385
+Girlfriend,Hello,girlfriend,popular,0
+Girlfriend,Hello,girlfriend,pianist,0.6
+Girlfriend,Hello,girlfriend,plays,0.15384615384615385
+Girlfriend,Hello,girlfriend,romantic,0.631578947368421
+Girlfriend,Hello,girlfriend,favorites,0.13333333333333333
+Girlfriend,Hello,girlfriend,world,0.5333333333333333
+Girlfriend,Hello,phoenix,hello,0.1111111111111111
+Girlfriend,Hello,phoenix,popular,0
+Girlfriend,Hello,phoenix,pianist,0.2857142857142857
+Girlfriend,Hello,phoenix,plays,0.1111111111111111
+Girlfriend,Hello,phoenix,romantic,0.3
+Girlfriend,Hello,phoenix,favorites,0.1
+Girlfriend,Hello,phoenix,world,0.35294117647058826
+Girlfriend,Heartbreak Hotel,girlfriend,heartbreak,0.14285714285714285
+Girlfriend,Heartbreak Hotel,girlfriend,hotel,0.47058823529411764
+Girlfriend,Heartbreak Hotel,girlfriend,greatest,0
+Girlfriend,Heartbreak Hotel,girlfriend,hits,0.13333333333333333
+Girlfriend,Heartbreak Hotel,girlfriend,whitney,0.631578947368421
+Girlfriend,Heartbreak Hotel,phoenix,heartbreak,0.10526315789473684
+Girlfriend,Heartbreak Hotel,phoenix,hotel,0.3157894736842105
+Girlfriend,Heartbreak Hotel,phoenix,greatest,0
+Girlfriend,Heartbreak Hotel,phoenix,hits,0.1
+Girlfriend,Heartbreak Hotel,phoenix,whitney,0.3
+Girlfriend,Fruit of love,girlfriend,love,0.15384615384615385
+Girlfriend,Fruit of love,girlfriend,fruit,0.4444444444444444
+Girlfriend,Fruit of love,girlfriend,lounge,0.42105263157894735
+Girlfriend,Fruit of love,phoenix,love,0.1111111111111111
+Girlfriend,Fruit of love,phoenix,fruit,0.3
+Girlfriend,Fruit of love,phoenix,lounge,0.2857142857142857
+Girlfriend,King & Queen,girlfriend,queen,0.6
+Girlfriend,King & Queen,girlfriend,king,0.631578947368421
+Girlfriend,King & Queen,girlfriend,retrospective,0.15384615384615385
+Girlfriend,King & Queen,girlfriend,reflections,0.13333333333333333
+Girlfriend,King & Queen,phoenix,queen,0.2727272727272727
+Girlfriend,King & Queen,phoenix,king,0.3
+Girlfriend,King & Queen,phoenix,retrospective,0.1111111111111111
+Girlfriend,King & Queen,phoenix,reflections,0.1
+Girlfriend,Light and space,girlfriend,space,0.2
+Girlfriend,Light and space,girlfriend,light,0.23529411764705882
+Girlfriend,Light and space,girlfriend,hypothetical,0.13333333333333333
+Girlfriend,Light and space,phoenix,space,0.13333333333333333
+Girlfriend,Light and space,phoenix,light,0.18181818181818182
+Girlfriend,Light and space,phoenix,hypothetical,0.1
+Happiness: We're All In It Together,This Cowboy Song,together,cowboy,0
+Happiness: We're All In It Together,This Cowboy Song,together,song,0
+Happiness: We're All In It Together,This Cowboy Song,together,sting,0
+Happiness: We're All In It Together,This Cowboy Song,together,gold,0
+Happiness: We're All In It Together,This Cowboy Song,together,fields,0
+Happiness: We're All In It Together,This Cowboy Song,together,best,0
+Happiness: We're All In It Together,This Cowboy Song,happiness,cowboy,0.10526315789473684
+Happiness: We're All In It Together,This Cowboy Song,happiness,song,0.26666666666666666
+Happiness: We're All In It Together,This Cowboy Song,happiness,sting,0.23529411764705882
+Happiness: We're All In It Together,This Cowboy Song,happiness,gold,0.21052631578947367
+Happiness: We're All In It Together,This Cowboy Song,happiness,fields,0.125
+Happiness: We're All In It Together,This Cowboy Song,happiness,best,0.25
+Happiness: We're All In It Together,This Cowboy Song,young,cowboy,0.5454545454545454
+Happiness: We're All In It Together,This Cowboy Song,young,song,0.13333333333333333
+Happiness: We're All In It Together,This Cowboy Song,young,sting,0.11764705882352941
+Happiness: We're All In It Together,This Cowboy Song,young,gold,0.10526315789473684
+Happiness: We're All In It Together,This Cowboy Song,young,fields,0.631578947368421
+Happiness: We're All In It Together,This Cowboy Song,young,best,0.125
+Happiness: We're All In It Together,This Cowboy Song,mountain,cowboy,0.3157894736842105
+Happiness: We're All In It Together,This Cowboy Song,mountain,song,0.15384615384615385
+Happiness: We're All In It Together,This Cowboy Song,mountain,sting,0.13333333333333333
+Happiness: We're All In It Together,This Cowboy Song,mountain,gold,0.11764705882352941
+Happiness: We're All In It Together,This Cowboy Song,mountain,fields,0.375
+Happiness: We're All In It Together,This Cowboy Song,mountain,best,0.14285714285714285
+Happiness: We're All In It Together,Walk Of Life,together,walk,0
+Happiness: We're All In It Together,Walk Of Life,together,life,0
+Happiness: We're All In It Together,Walk Of Life,together,brothers,0
+Happiness: We're All In It Together,Walk Of Life,together,arms,0
+Happiness: We're All In It Together,Walk Of Life,happiness,walk,0.2222222222222222
+Happiness: We're All In It Together,Walk Of Life,happiness,life,0.5714285714285714
+Happiness: We're All In It Together,Walk Of Life,happiness,brothers,0.125
+Happiness: We're All In It Together,Walk Of Life,happiness,arms,0.13333333333333333
+Happiness: We're All In It Together,Walk Of Life,young,walk,0.1111111111111111
+Happiness: We're All In It Together,Walk Of Life,young,life,0.14285714285714285
+Happiness: We're All In It Together,Walk Of Life,young,brothers,0.631578947368421
+Happiness: We're All In It Together,Walk Of Life,young,arms,0.5333333333333333
+Happiness: We're All In It Together,Walk Of Life,mountain,walk,0.125
+Happiness: We're All In It Together,Walk Of Life,mountain,life,0.16666666666666666
+Happiness: We're All In It Together,Walk Of Life,mountain,brothers,0.375
+Happiness: We're All In It Together,Walk Of Life,mountain,arms,0.46153846153846156
+Happiness: We're All In It Together,Somewhere in the Middle,together,somewhere,0
+Happiness: We're All In It Together,Somewhere in the Middle,together,middle,0
+Happiness: We're All In It Together,Somewhere in the Middle,together,flow,0
+Happiness: We're All In It Together,Somewhere in the Middle,together,state,0
+Happiness: We're All In It Together,Somewhere in the Middle,together,live,0
+Happiness: We're All In It Together,Somewhere in the Middle,together,greetings,0
+Happiness: We're All In It Together,Somewhere in the Middle,happiness,somewhere,0.15384615384615385
+Happiness: We're All In It Together,Somewhere in the Middle,happiness,middle,0.13333333333333333
+Happiness: We're All In It Together,Somewhere in the Middle,happiness,flow,0.25
+Happiness: We're All In It Together,Somewhere in the Middle,happiness,state,0.125
+Happiness: We're All In It Together,Somewhere in the Middle,happiness,live,0
+Happiness: We're All In It Together,Somewhere in the Middle,happiness,greetings,0.2857142857142857
+Happiness: We're All In It Together,Somewhere in the Middle,young,somewhere,0.46153846153846156
+Happiness: We're All In It Together,Somewhere in the Middle,young,middle,0.4
+Happiness: We're All In It Together,Somewhere in the Middle,young,flow,0.125
+Happiness: We're All In It Together,Somewhere in the Middle,young,state,0.375
+Happiness: We're All In It Together,Somewhere in the Middle,young,live,0
+Happiness: We're All In It Together,Somewhere in the Middle,young,greetings,0.14285714285714285
+Happiness: We're All In It Together,Somewhere in the Middle,mountain,somewhere,0.5454545454545454
+Happiness: We're All In It Together,Somewhere in the Middle,mountain,middle,0.46153846153846156
+Happiness: We're All In It Together,Somewhere in the Middle,mountain,flow,0.14285714285714285
+Happiness: We're All In It Together,Somewhere in the Middle,mountain,state,0.42857142857142855
+Happiness: We're All In It Together,Somewhere in the Middle,mountain,live,0
+Happiness: We're All In It Together,Somewhere in the Middle,mountain,greetings,0.16666666666666666
+Happiness: We're All In It Together,Ember Drive,together,ember,0
+Happiness: We're All In It Together,Ember Drive,together,drive,0
+Happiness: We're All In It Together,Ember Drive,together,redemption,0
+Happiness: We're All In It Together,Ember Drive,happiness,ember,0.14285714285714285
+Happiness: We're All In It Together,Ember Drive,happiness,drive,0.26666666666666666
+Happiness: We're All In It Together,Ember Drive,happiness,redemption,0.25
+Happiness: We're All In It Together,Ember Drive,young,ember,0.2857142857142857
+Happiness: We're All In It Together,Ember Drive,young,drive,0.13333333333333333
+Happiness: We're All In It Together,Ember Drive,young,redemption,0.125
+Happiness: We're All In It Together,Ember Drive,mountain,ember,0.3333333333333333
+Happiness: We're All In It Together,Ember Drive,mountain,drive,0.15384615384615385
+Happiness: We're All In It Together,Ember Drive,mountain,redemption,0.14285714285714285
+Happiness: We're All In It Together,Cancun,together,cancun,0
+Happiness: We're All In It Together,Cancun,happiness,cancun,0.1111111111111111
+Happiness: We're All In It Together,Cancun,young,cancun,0.3333333333333333
+Happiness: We're All In It Together,Cancun,mountain,cancun,0.375
+Happiness: We're All In It Together,How Deep Is Your Love,together,love,0
+Happiness: We're All In It Together,How Deep Is Your Love,together,deep,0
+Happiness: We're All In It Together,How Deep Is Your Love,together,popular,0
+Happiness: We're All In It Together,How Deep Is Your Love,together,pianist,0
+Happiness: We're All In It Together,How Deep Is Your Love,together,plays,0
+Happiness: We're All In It Together,How Deep Is Your Love,together,bee,0
+Happiness: We're All In It Together,How Deep Is Your Love,together,john,0
+Happiness: We're All In It Together,How Deep Is Your Love,together,world,0
+Happiness: We're All In It Together,How Deep Is Your Love,together,favorites,0
+Happiness: We're All In It Together,How Deep Is Your Love,happiness,love,0.8
+Happiness: We're All In It Together,How Deep Is Your Love,happiness,deep,0.2857142857142857
+Happiness: We're All In It Together,How Deep Is Your Love,happiness,popular,0
+Happiness: We're All In It Together,How Deep Is Your Love,happiness,pianist,0.125
+Happiness: We're All In It Together,How Deep Is Your Love,happiness,plays,0.26666666666666666
+Happiness: We're All In It Together,How Deep Is Your Love,happiness,bee,0.1
+Happiness: We're All In It Together,How Deep Is Your Love,happiness,john,0.11764705882352941
+Happiness: We're All In It Together,How Deep Is Your Love,happiness,world,0.14285714285714285
+Happiness: We're All In It Together,How Deep Is Your Love,happiness,favorites,0.23529411764705882
+Happiness: We're All In It Together,How Deep Is Your Love,young,love,0.13333333333333333
+Happiness: We're All In It Together,How Deep Is Your Love,young,deep,0.14285714285714285
+Happiness: We're All In It Together,How Deep Is Your Love,young,popular,0
+Happiness: We're All In It Together,How Deep Is Your Love,young,pianist,0.631578947368421
+Happiness: We're All In It Together,How Deep Is Your Love,young,plays,0.13333333333333333
+Happiness: We're All In It Together,How Deep Is Your Love,young,bee,0.7
+Happiness: We're All In It Together,How Deep Is Your Love,young,john,0.47058823529411764
+Happiness: We're All In It Together,How Deep Is Your Love,young,world,0.5714285714285714
+Happiness: We're All In It Together,How Deep Is Your Love,young,favorites,0.11764705882352941
+Happiness: We're All In It Together,How Deep Is Your Love,mountain,love,0.15384615384615385
+Happiness: We're All In It Together,How Deep Is Your Love,mountain,deep,0.16666666666666666
+Happiness: We're All In It Together,How Deep Is Your Love,mountain,popular,0
+Happiness: We're All In It Together,How Deep Is Your Love,mountain,pianist,0.375
+Happiness: We're All In It Together,How Deep Is Your Love,mountain,plays,0.15384615384615385
+Happiness: We're All In It Together,How Deep Is Your Love,mountain,bee,0.3333333333333333
+Happiness: We're All In It Together,How Deep Is Your Love,mountain,john,0.4
+Happiness: We're All In It Together,How Deep Is Your Love,mountain,world,0.5
+Happiness: We're All In It Together,How Deep Is Your Love,mountain,favorites,0.13333333333333333
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,together,k,0
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,together,barely,0
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,together,legal,0
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,happiness,k,0.26666666666666666
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,happiness,barely,0
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,happiness,legal,0
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,young,k,0.13333333333333333
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,young,barely,0
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,young,legal,0
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,mountain,k,0.15384615384615385
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,mountain,barely,0
+Happiness: We're All In It Together,a.k.a. I.D.I.O.T.,mountain,legal,0
+Happiness: We're All In It Together,I'm Your Baby Tonight,together,baby,0
+Happiness: We're All In It Together,I'm Your Baby Tonight,together,tonight,0
+Happiness: We're All In It Together,I'm Your Baby Tonight,together,greatest,0
+Happiness: We're All In It Together,I'm Your Baby Tonight,together,hits,0
+Happiness: We're All In It Together,I'm Your Baby Tonight,together,whitney,0
+Happiness: We're All In It Together,I'm Your Baby Tonight,happiness,baby,0.125
+Happiness: We're All In It Together,I'm Your Baby Tonight,happiness,tonight,0.42857142857142855
+Happiness: We're All In It Together,I'm Your Baby Tonight,happiness,greatest,0
+Happiness: We're All In It Together,I'm Your Baby Tonight,happiness,hits,0.23529411764705882
+Happiness: We're All In It Together,I'm Your Baby Tonight,happiness,whitney,0.13333333333333333
+Happiness: We're All In It Together,I'm Your Baby Tonight,young,baby,0.631578947368421
+Happiness: We're All In It Together,I'm Your Baby Tonight,young,tonight,0.14285714285714285
+Happiness: We're All In It Together,I'm Your Baby Tonight,young,greatest,0
+Happiness: We're All In It Together,I'm Your Baby Tonight,young,hits,0.11764705882352941
+Happiness: We're All In It Together,I'm Your Baby Tonight,young,whitney,0.6666666666666666
+Happiness: We're All In It Together,I'm Your Baby Tonight,mountain,baby,0.375
+Happiness: We're All In It Together,I'm Your Baby Tonight,mountain,tonight,0.16666666666666666
+Happiness: We're All In It Together,I'm Your Baby Tonight,mountain,greatest,0
+Happiness: We're All In It Together,I'm Your Baby Tonight,mountain,hits,0.13333333333333333
+Happiness: We're All In It Together,I'm Your Baby Tonight,mountain,whitney,0.4
+Happiness: We're All In It Together,Hello,together,hello,0
+Happiness: We're All In It Together,Hello,together,popular,0
+Happiness: We're All In It Together,Hello,together,pianist,0
+Happiness: We're All In It Together,Hello,together,plays,0
+Happiness: We're All In It Together,Hello,together,romantic,0
+Happiness: We're All In It Together,Hello,together,favorites,0
+Happiness: We're All In It Together,Hello,together,world,0
+Happiness: We're All In It Together,Hello,happiness,hello,0.26666666666666666
+Happiness: We're All In It Together,Hello,happiness,popular,0
+Happiness: We're All In It Together,Hello,happiness,pianist,0.125
+Happiness: We're All In It Together,Hello,happiness,plays,0.26666666666666666
+Happiness: We're All In It Together,Hello,happiness,romantic,0.13333333333333333
+Happiness: We're All In It Together,Hello,happiness,favorites,0.23529411764705882
+Happiness: We're All In It Together,Hello,happiness,world,0.14285714285714285
+Happiness: We're All In It Together,Hello,young,hello,0.13333333333333333
+Happiness: We're All In It Together,Hello,young,popular,0
+Happiness: We're All In It Together,Hello,young,pianist,0.631578947368421
+Happiness: We're All In It Together,Hello,young,plays,0.13333333333333333
+Happiness: We're All In It Together,Hello,young,romantic,0.6666666666666666
+Happiness: We're All In It Together,Hello,young,favorites,0.11764705882352941
+Happiness: We're All In It Together,Hello,young,world,0.5714285714285714
+Happiness: We're All In It Together,Hello,mountain,hello,0.15384615384615385
+Happiness: We're All In It Together,Hello,mountain,popular,0
+Happiness: We're All In It Together,Hello,mountain,pianist,0.375
+Happiness: We're All In It Together,Hello,mountain,plays,0.15384615384615385
+Happiness: We're All In It Together,Hello,mountain,romantic,0.4
+Happiness: We're All In It Together,Hello,mountain,favorites,0.13333333333333333
+Happiness: We're All In It Together,Hello,mountain,world,0.5
+Happiness: We're All In It Together,Heartbreak Hotel,together,heartbreak,0
+Happiness: We're All In It Together,Heartbreak Hotel,together,hotel,0
+Happiness: We're All In It Together,Heartbreak Hotel,together,greatest,0
+Happiness: We're All In It Together,Heartbreak Hotel,together,hits,0
+Happiness: We're All In It Together,Heartbreak Hotel,together,whitney,0
+Happiness: We're All In It Together,Heartbreak Hotel,happiness,heartbreak,0.625
+Happiness: We're All In It Together,Heartbreak Hotel,happiness,hotel,0.125
+Happiness: We're All In It Together,Heartbreak Hotel,happiness,greatest,0
+Happiness: We're All In It Together,Heartbreak Hotel,happiness,hits,0.23529411764705882
+Happiness: We're All In It Together,Heartbreak Hotel,happiness,whitney,0.13333333333333333
+Happiness: We're All In It Together,Heartbreak Hotel,young,heartbreak,0.125
+Happiness: We're All In It Together,Heartbreak Hotel,young,hotel,0.5
+Happiness: We're All In It Together,Heartbreak Hotel,young,greatest,0
+Happiness: We're All In It Together,Heartbreak Hotel,young,hits,0.11764705882352941
+Happiness: We're All In It Together,Heartbreak Hotel,young,whitney,0.6666666666666666
+Happiness: We're All In It Together,Heartbreak Hotel,mountain,heartbreak,0.14285714285714285
+Happiness: We're All In It Together,Heartbreak Hotel,mountain,hotel,0.42857142857142855
+Happiness: We're All In It Together,Heartbreak Hotel,mountain,greatest,0
+Happiness: We're All In It Together,Heartbreak Hotel,mountain,hits,0.13333333333333333
+Happiness: We're All In It Together,Heartbreak Hotel,mountain,whitney,0.4
+Happiness: We're All In It Together,Fruit of love,together,love,0
+Happiness: We're All In It Together,Fruit of love,together,fruit,0
+Happiness: We're All In It Together,Fruit of love,together,lounge,0
+Happiness: We're All In It Together,Fruit of love,happiness,love,0.8
+Happiness: We're All In It Together,Fruit of love,happiness,fruit,0.11764705882352941
+Happiness: We're All In It Together,Fruit of love,happiness,lounge,0.1111111111111111
+Happiness: We're All In It Together,Fruit of love,young,love,0.13333333333333333
+Happiness: We're All In It Together,Fruit of love,young,fruit,0.47058823529411764
+Happiness: We're All In It Together,Fruit of love,young,lounge,0.4444444444444444
+Happiness: We're All In It Together,Fruit of love,mountain,love,0.15384615384615385
+Happiness: We're All In It Together,Fruit of love,mountain,fruit,0.4
+Happiness: We're All In It Together,Fruit of love,mountain,lounge,0.375
+Happiness: We're All In It Together,King & Queen,together,queen,0
+Happiness: We're All In It Together,King & Queen,together,king,0
+Happiness: We're All In It Together,King & Queen,together,retrospective,0
+Happiness: We're All In It Together,King & Queen,together,reflections,0
+Happiness: We're All In It Together,King & Queen,happiness,queen,0.10526315789473684
+Happiness: We're All In It Together,King & Queen,happiness,king,0.13333333333333333
+Happiness: We're All In It Together,King & Queen,happiness,retrospective,0.26666666666666666
+Happiness: We're All In It Together,King & Queen,happiness,reflections,0.23529411764705882
+Happiness: We're All In It Together,King & Queen,young,queen,0.7368421052631579
+Happiness: We're All In It Together,King & Queen,young,king,0.6666666666666666
+Happiness: We're All In It Together,King & Queen,young,retrospective,0.13333333333333333
+Happiness: We're All In It Together,King & Queen,young,reflections,0.11764705882352941
+Happiness: We're All In It Together,King & Queen,mountain,queen,0.35294117647058826
+Happiness: We're All In It Together,King & Queen,mountain,king,0.4
+Happiness: We're All In It Together,King & Queen,mountain,retrospective,0.15384615384615385
+Happiness: We're All In It Together,King & Queen,mountain,reflections,0.13333333333333333
+Happiness: We're All In It Together,Light and space,together,space,0
+Happiness: We're All In It Together,Light and space,together,light,0
+Happiness: We're All In It Together,Light and space,together,hypothetical,0
+Happiness: We're All In It Together,Light and space,happiness,space,0.5
+Happiness: We're All In It Together,Light and space,happiness,light,0.10526315789473684
+Happiness: We're All In It Together,Light and space,happiness,hypothetical,0.23529411764705882
+Happiness: We're All In It Together,Light and space,young,space,0.16666666666666666
+Happiness: We're All In It Together,Light and space,young,light,0.21052631578947367
+Happiness: We're All In It Together,Light and space,young,hypothetical,0.11764705882352941
+Happiness: We're All In It Together,Light and space,mountain,space,0.2
+Happiness: We're All In It Together,Light and space,mountain,light,0.23529411764705882
+Happiness: We're All In It Together,Light and space,mountain,hypothetical,0.13333333333333333
+Armistice,This Cowboy Song,armistice,cowboy,0.1111111111111111
+Armistice,This Cowboy Song,armistice,song,0.2857142857142857
+Armistice,This Cowboy Song,armistice,sting,0.25
+Armistice,This Cowboy Song,armistice,gold,0.2222222222222222
+Armistice,This Cowboy Song,armistice,fields,0.13333333333333333
+Armistice,This Cowboy Song,armistice,best,0.26666666666666666
+Armistice,This Cowboy Song,phoenix,cowboy,0.25
+Armistice,This Cowboy Song,phoenix,song,0.1111111111111111
+Armistice,This Cowboy Song,phoenix,sting,0.1
+Armistice,This Cowboy Song,phoenix,gold,0.09090909090909091
+Armistice,This Cowboy Song,phoenix,fields,0.2857142857142857
+Armistice,This Cowboy Song,phoenix,best,0.10526315789473684
+Armistice,Walk Of Life,armistice,walk,0.23529411764705882
+Armistice,Walk Of Life,armistice,life,0.6153846153846154
+Armistice,Walk Of Life,armistice,brothers,0.13333333333333333
+Armistice,Walk Of Life,armistice,arms,0.14285714285714285
+Armistice,Walk Of Life,phoenix,walk,0.09523809523809523
+Armistice,Walk Of Life,phoenix,life,0.11764705882352941
+Armistice,Walk Of Life,phoenix,brothers,0.2857142857142857
+Armistice,Walk Of Life,phoenix,arms,0.3333333333333333
+Armistice,Somewhere in the Middle,armistice,somewhere,0.16666666666666666
+Armistice,Somewhere in the Middle,armistice,middle,0.14285714285714285
+Armistice,Somewhere in the Middle,armistice,flow,0.26666666666666666
+Armistice,Somewhere in the Middle,armistice,state,0.13333333333333333
+Armistice,Somewhere in the Middle,armistice,live,0
+Armistice,Somewhere in the Middle,armistice,greetings,0.3076923076923077
+Armistice,Somewhere in the Middle,phoenix,somewhere,0.5
+Armistice,Somewhere in the Middle,phoenix,middle,0.7777777777777778
+Armistice,Somewhere in the Middle,phoenix,flow,0.10526315789473684
+Armistice,Somewhere in the Middle,phoenix,state,0.7368421052631579
+Armistice,Somewhere in the Middle,phoenix,live,0
+Armistice,Somewhere in the Middle,phoenix,greetings,0.11764705882352941
+Armistice,Ember Drive,armistice,ember,0.15384615384615385
+Armistice,Ember Drive,armistice,drive,0.2857142857142857
+Armistice,Ember Drive,armistice,redemption,0.26666666666666666
+Armistice,Ember Drive,phoenix,ember,0.23529411764705882
+Armistice,Ember Drive,phoenix,drive,0.1111111111111111
+Armistice,Ember Drive,phoenix,redemption,0.10526315789473684
+Armistice,Cancun,armistice,cancun,0.11764705882352941
+Armistice,Cancun,phoenix,cancun,0.8571428571428571
+Armistice,How Deep Is Your Love,armistice,love,0.5714285714285714
+Armistice,How Deep Is Your Love,armistice,deep,0.3076923076923077
+Armistice,How Deep Is Your Love,armistice,popular,0
+Armistice,How Deep Is Your Love,armistice,pianist,0.13333333333333333
+Armistice,How Deep Is Your Love,armistice,plays,0.2857142857142857
+Armistice,How Deep Is Your Love,armistice,bee,0.10526315789473684
+Armistice,How Deep Is Your Love,armistice,john,0.125
+Armistice,How Deep Is Your Love,armistice,world,0.15384615384615385
+Armistice,How Deep Is Your Love,armistice,favorites,0.25
+Armistice,How Deep Is Your Love,phoenix,love,0.1111111111111111
+Armistice,How Deep Is Your Love,phoenix,deep,0.11764705882352941
+Armistice,How Deep Is Your Love,phoenix,popular,0
+Armistice,How Deep Is Your Love,phoenix,pianist,0.2857142857142857
+Armistice,How Deep Is Your Love,phoenix,plays,0.1111111111111111
+Armistice,How Deep Is Your Love,phoenix,bee,0.2608695652173913
+Armistice,How Deep Is Your Love,phoenix,john,0.3
+Armistice,How Deep Is Your Love,phoenix,world,0.35294117647058826
+Armistice,How Deep Is Your Love,phoenix,favorites,0.1
+Armistice,a.k.a. I.D.I.O.T.,armistice,k,0.2857142857142857
+Armistice,a.k.a. I.D.I.O.T.,armistice,barely,0
+Armistice,a.k.a. I.D.I.O.T.,armistice,legal,0
+Armistice,a.k.a. I.D.I.O.T.,phoenix,k,0.1111111111111111
+Armistice,a.k.a. I.D.I.O.T.,phoenix,barely,0
+Armistice,a.k.a. I.D.I.O.T.,phoenix,legal,0
+Armistice,I'm Your Baby Tonight,armistice,baby,0.13333333333333333
+Armistice,I'm Your Baby Tonight,armistice,tonight,0.46153846153846156
+Armistice,I'm Your Baby Tonight,armistice,greatest,0
+Armistice,I'm Your Baby Tonight,armistice,hits,0.25
+Armistice,I'm Your Baby Tonight,armistice,whitney,0.14285714285714285
+Armistice,I'm Your Baby Tonight,phoenix,baby,0.2857142857142857
+Armistice,I'm Your Baby Tonight,phoenix,tonight,0.11764705882352941
+Armistice,I'm Your Baby Tonight,phoenix,greatest,0
+Armistice,I'm Your Baby Tonight,phoenix,hits,0.1
+Armistice,I'm Your Baby Tonight,phoenix,whitney,0.3
+Armistice,Hello,armistice,hello,0.2857142857142857
+Armistice,Hello,armistice,popular,0
+Armistice,Hello,armistice,pianist,0.13333333333333333
+Armistice,Hello,armistice,plays,0.2857142857142857
+Armistice,Hello,armistice,romantic,0.14285714285714285
+Armistice,Hello,armistice,favorites,0.25
+Armistice,Hello,armistice,world,0.15384615384615385
+Armistice,Hello,phoenix,hello,0.1111111111111111
+Armistice,Hello,phoenix,popular,0
+Armistice,Hello,phoenix,pianist,0.2857142857142857
+Armistice,Hello,phoenix,plays,0.1111111111111111
+Armistice,Hello,phoenix,romantic,0.3
+Armistice,Hello,phoenix,favorites,0.1
+Armistice,Hello,phoenix,world,0.35294117647058826
+Armistice,Heartbreak Hotel,armistice,heartbreak,0.5333333333333333
+Armistice,Heartbreak Hotel,armistice,hotel,0.13333333333333333
+Armistice,Heartbreak Hotel,armistice,greatest,0
+Armistice,Heartbreak Hotel,armistice,hits,0.25
+Armistice,Heartbreak Hotel,armistice,whitney,0.14285714285714285
+Armistice,Heartbreak Hotel,phoenix,heartbreak,0.10526315789473684
+Armistice,Heartbreak Hotel,phoenix,hotel,0.3157894736842105
+Armistice,Heartbreak Hotel,phoenix,greatest,0
+Armistice,Heartbreak Hotel,phoenix,hits,0.1
+Armistice,Heartbreak Hotel,phoenix,whitney,0.3
+Armistice,Fruit of love,armistice,love,0.5714285714285714
+Armistice,Fruit of love,armistice,fruit,0.125
+Armistice,Fruit of love,armistice,lounge,0.11764705882352941
+Armistice,Fruit of love,phoenix,love,0.1111111111111111
+Armistice,Fruit of love,phoenix,fruit,0.3
+Armistice,Fruit of love,phoenix,lounge,0.2857142857142857
+Armistice,King & Queen,armistice,queen,0.1111111111111111
+Armistice,King & Queen,armistice,king,0.14285714285714285
+Armistice,King & Queen,armistice,retrospective,0.2857142857142857
+Armistice,King & Queen,armistice,reflections,0.25
+Armistice,King & Queen,phoenix,queen,0.2727272727272727
+Armistice,King & Queen,phoenix,king,0.3
+Armistice,King & Queen,phoenix,retrospective,0.1111111111111111
+Armistice,King & Queen,phoenix,reflections,0.1
+Armistice,Light and space,armistice,space,0.5454545454545454
+Armistice,Light and space,armistice,light,0.1111111111111111
+Armistice,Light and space,armistice,hypothetical,0.25
+Armistice,Light and space,phoenix,space,0.13333333333333333
+Armistice,Light and space,phoenix,light,0.18181818181818182
+Armistice,Light and space,phoenix,hypothetical,0.1
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,remedies,cowboy,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,remedies,song,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,remedies,sting,0.3
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,remedies,gold,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,remedies,fields,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,remedies,best,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,worse,cowboy,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,worse,song,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,worse,sting,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,worse,gold,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,worse,fields,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,worse,best,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,disease,cowboy,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,disease,song,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,disease,sting,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,disease,gold,0.19047619047619047
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,disease,fields,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,disease,best,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,young,cowboy,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,young,song,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,young,sting,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,young,gold,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,young,fields,0.631578947368421
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,young,best,0.125
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,mountain,cowboy,0.3157894736842105
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,mountain,song,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,mountain,sting,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,mountain,gold,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,mountain,fields,0.375
+There Are Some Remedies Worse Than The Disease,This Cowboy Song,mountain,best,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Walk Of Life,remedies,walk,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Walk Of Life,remedies,life,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Walk Of Life,remedies,brothers,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Walk Of Life,remedies,arms,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Walk Of Life,worse,walk,0.25
+There Are Some Remedies Worse Than The Disease,Walk Of Life,worse,life,0.5
+There Are Some Remedies Worse Than The Disease,Walk Of Life,worse,brothers,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Walk Of Life,worse,arms,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Walk Of Life,disease,walk,0.2
+There Are Some Remedies Worse Than The Disease,Walk Of Life,disease,life,0.5
+There Are Some Remedies Worse Than The Disease,Walk Of Life,disease,brothers,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Walk Of Life,disease,arms,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Walk Of Life,young,walk,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Walk Of Life,young,life,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Walk Of Life,young,brothers,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Walk Of Life,young,arms,0.5333333333333333
+There Are Some Remedies Worse Than The Disease,Walk Of Life,mountain,walk,0.125
+There Are Some Remedies Worse Than The Disease,Walk Of Life,mountain,life,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Walk Of Life,mountain,brothers,0.375
+There Are Some Remedies Worse Than The Disease,Walk Of Life,mountain,arms,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,remedies,somewhere,0.125
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,remedies,middle,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,remedies,flow,0.42105263157894735
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,remedies,state,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,remedies,live,0
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,remedies,greetings,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,worse,somewhere,0.18181818181818182
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,worse,middle,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,worse,flow,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,worse,state,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,worse,live,0
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,worse,greetings,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,disease,somewhere,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,disease,middle,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,disease,flow,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,disease,state,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,disease,live,0
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,disease,greetings,0.25
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,young,somewhere,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,young,middle,0.4
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,young,flow,0.125
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,young,state,0.375
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,young,live,0
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,young,greetings,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,mountain,somewhere,0.5454545454545454
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,mountain,middle,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,mountain,flow,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,mountain,state,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,mountain,live,0
+There Are Some Remedies Worse Than The Disease,Somewhere in the Middle,mountain,greetings,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Ember Drive,remedies,ember,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Ember Drive,remedies,drive,0.5555555555555556
+There Are Some Remedies Worse Than The Disease,Ember Drive,remedies,redemption,0.5263157894736842
+There Are Some Remedies Worse Than The Disease,Ember Drive,worse,ember,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Ember Drive,worse,drive,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Ember Drive,worse,redemption,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Ember Drive,disease,ember,0.125
+There Are Some Remedies Worse Than The Disease,Ember Drive,disease,drive,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Ember Drive,disease,redemption,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Ember Drive,young,ember,0.2857142857142857
+There Are Some Remedies Worse Than The Disease,Ember Drive,young,drive,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Ember Drive,young,redemption,0.125
+There Are Some Remedies Worse Than The Disease,Ember Drive,mountain,ember,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Ember Drive,mountain,drive,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Ember Drive,mountain,redemption,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Cancun,remedies,cancun,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Cancun,worse,cancun,0.125
+There Are Some Remedies Worse Than The Disease,Cancun,disease,cancun,0.1
+There Are Some Remedies Worse Than The Disease,Cancun,young,cancun,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,Cancun,mountain,cancun,0.375
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,remedies,love,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,remedies,deep,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,remedies,popular,0
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,remedies,pianist,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,remedies,plays,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,remedies,bee,0.08695652173913043
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,remedies,john,0.1
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,remedies,world,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,remedies,favorites,0.3
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,worse,love,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,worse,deep,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,worse,popular,0
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,worse,pianist,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,worse,plays,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,worse,bee,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,worse,john,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,worse,world,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,worse,favorites,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,disease,love,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,disease,deep,0.25
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,disease,popular,0
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,disease,pianist,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,disease,plays,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,disease,bee,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,disease,john,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,disease,world,0.125
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,disease,favorites,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,young,love,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,young,deep,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,young,popular,0
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,young,pianist,0.631578947368421
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,young,plays,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,young,bee,0.7
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,young,john,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,young,world,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,young,favorites,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,mountain,love,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,mountain,deep,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,mountain,popular,0
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,mountain,pianist,0.375
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,mountain,plays,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,mountain,bee,0.3333333333333333
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,mountain,john,0.4
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,mountain,world,0.5
+There Are Some Remedies Worse Than The Disease,How Deep Is Your Love,mountain,favorites,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,remedies,k,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,remedies,barely,0
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,remedies,legal,0
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,worse,k,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,worse,barely,0
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,worse,legal,0
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,disease,k,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,disease,barely,0
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,disease,legal,0
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,young,k,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,young,barely,0
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,young,legal,0
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,mountain,k,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,mountain,barely,0
+There Are Some Remedies Worse Than The Disease,a.k.a. I.D.I.O.T.,mountain,legal,0
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,remedies,baby,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,remedies,tonight,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,remedies,greatest,0
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,remedies,hits,0.6
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,remedies,whitney,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,worse,baby,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,worse,tonight,0.5
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,worse,greatest,0
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,worse,hits,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,worse,whitney,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,disease,baby,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,disease,tonight,0.375
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,disease,greatest,0
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,disease,hits,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,disease,whitney,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,young,baby,0.631578947368421
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,young,tonight,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,young,greatest,0
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,young,hits,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,young,whitney,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,mountain,baby,0.375
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,mountain,tonight,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,mountain,greatest,0
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,mountain,hits,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,I'm Your Baby Tonight,mountain,whitney,0.4
+There Are Some Remedies Worse Than The Disease,Hello,remedies,hello,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Hello,remedies,popular,0
+There Are Some Remedies Worse Than The Disease,Hello,remedies,pianist,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Hello,remedies,plays,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Hello,remedies,romantic,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Hello,remedies,favorites,0.3
+There Are Some Remedies Worse Than The Disease,Hello,remedies,world,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hello,worse,hello,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Hello,worse,popular,0
+There Are Some Remedies Worse Than The Disease,Hello,worse,pianist,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Hello,worse,plays,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,Hello,worse,romantic,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Hello,worse,favorites,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Hello,worse,world,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Hello,disease,hello,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Hello,disease,popular,0
+There Are Some Remedies Worse Than The Disease,Hello,disease,pianist,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Hello,disease,plays,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Hello,disease,romantic,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hello,disease,favorites,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Hello,disease,world,0.125
+There Are Some Remedies Worse Than The Disease,Hello,young,hello,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Hello,young,popular,0
+There Are Some Remedies Worse Than The Disease,Hello,young,pianist,0.631578947368421
+There Are Some Remedies Worse Than The Disease,Hello,young,plays,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Hello,young,romantic,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Hello,young,favorites,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Hello,young,world,0.5714285714285714
+There Are Some Remedies Worse Than The Disease,Hello,mountain,hello,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Hello,mountain,popular,0
+There Are Some Remedies Worse Than The Disease,Hello,mountain,pianist,0.375
+There Are Some Remedies Worse Than The Disease,Hello,mountain,plays,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Hello,mountain,romantic,0.4
+There Are Some Remedies Worse Than The Disease,Hello,mountain,favorites,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Hello,mountain,world,0.5
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,remedies,heartbreak,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,remedies,hotel,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,remedies,greatest,0
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,remedies,hits,0.6
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,remedies,whitney,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,worse,heartbreak,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,worse,hotel,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,worse,greatest,0
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,worse,hits,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,worse,whitney,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,disease,heartbreak,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,disease,hotel,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,disease,greatest,0
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,disease,hits,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,disease,whitney,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,young,heartbreak,0.125
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,young,hotel,0.5
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,young,greatest,0
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,young,hits,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,young,whitney,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,mountain,heartbreak,0.14285714285714285
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,mountain,hotel,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,mountain,greatest,0
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,mountain,hits,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Heartbreak Hotel,mountain,whitney,0.4
+There Are Some Remedies Worse Than The Disease,Fruit of love,remedies,love,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,Fruit of love,remedies,fruit,0.1
+There Are Some Remedies Worse Than The Disease,Fruit of love,remedies,lounge,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Fruit of love,worse,love,0.46153846153846156
+There Are Some Remedies Worse Than The Disease,Fruit of love,worse,fruit,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Fruit of love,worse,lounge,0.125
+There Are Some Remedies Worse Than The Disease,Fruit of love,disease,love,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Fruit of love,disease,fruit,0.10526315789473684
+There Are Some Remedies Worse Than The Disease,Fruit of love,disease,lounge,0.1
+There Are Some Remedies Worse Than The Disease,Fruit of love,young,love,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Fruit of love,young,fruit,0.47058823529411764
+There Are Some Remedies Worse Than The Disease,Fruit of love,young,lounge,0.4444444444444444
+There Are Some Remedies Worse Than The Disease,Fruit of love,mountain,love,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,Fruit of love,mountain,fruit,0.4
+There Are Some Remedies Worse Than The Disease,Fruit of love,mountain,lounge,0.375
+There Are Some Remedies Worse Than The Disease,King & Queen,remedies,queen,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,King & Queen,remedies,king,0.1111111111111111
+There Are Some Remedies Worse Than The Disease,King & Queen,remedies,retrospective,0.2222222222222222
+There Are Some Remedies Worse Than The Disease,King & Queen,remedies,reflections,0.3
+There Are Some Remedies Worse Than The Disease,King & Queen,worse,queen,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,King & Queen,worse,king,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,King & Queen,worse,retrospective,0.3076923076923077
+There Are Some Remedies Worse Than The Disease,King & Queen,worse,reflections,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,King & Queen,disease,queen,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,King & Queen,disease,king,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,King & Queen,disease,retrospective,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,King & Queen,disease,reflections,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,King & Queen,young,queen,0.7368421052631579
+There Are Some Remedies Worse Than The Disease,King & Queen,young,king,0.6666666666666666
+There Are Some Remedies Worse Than The Disease,King & Queen,young,retrospective,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,King & Queen,young,reflections,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,King & Queen,mountain,queen,0.35294117647058826
+There Are Some Remedies Worse Than The Disease,King & Queen,mountain,king,0.4
+There Are Some Remedies Worse Than The Disease,King & Queen,mountain,retrospective,0.15384615384615385
+There Are Some Remedies Worse Than The Disease,King & Queen,mountain,reflections,0.13333333333333333
+There Are Some Remedies Worse Than The Disease,Light and space,remedies,space,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Light and space,remedies,light,0.09090909090909091
+There Are Some Remedies Worse Than The Disease,Light and space,remedies,hypothetical,0.3
+There Are Some Remedies Worse Than The Disease,Light and space,worse,space,0.6
+There Are Some Remedies Worse Than The Disease,Light and space,worse,light,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Light and space,worse,hypothetical,0.26666666666666666
+There Are Some Remedies Worse Than The Disease,Light and space,disease,space,0.42857142857142855
+There Are Some Remedies Worse Than The Disease,Light and space,disease,light,0.09523809523809523
+There Are Some Remedies Worse Than The Disease,Light and space,disease,hypothetical,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Light and space,young,space,0.16666666666666666
+There Are Some Remedies Worse Than The Disease,Light and space,young,light,0.21052631578947367
+There Are Some Remedies Worse Than The Disease,Light and space,young,hypothetical,0.11764705882352941
+There Are Some Remedies Worse Than The Disease,Light and space,mountain,space,0.2
+There Are Some Remedies Worse Than The Disease,Light and space,mountain,light,0.23529411764705882
+There Are Some Remedies Worse Than The Disease,Light and space,mountain,hypothetical,0.13333333333333333
+Swimming In The Flood,This Cowboy Song,swimming,cowboy,0.09523809523809523
+Swimming In The Flood,This Cowboy Song,swimming,song,0.23529411764705882
+Swimming In The Flood,This Cowboy Song,swimming,sting,0.3157894736842105
+Swimming In The Flood,This Cowboy Song,swimming,gold,0.19047619047619047
+Swimming In The Flood,This Cowboy Song,swimming,fields,0.1111111111111111
+Swimming In The Flood,This Cowboy Song,swimming,best,0.6666666666666666
+Swimming In The Flood,This Cowboy Song,flood,cowboy,0.2222222222222222
+Swimming In The Flood,This Cowboy Song,flood,song,0.14285714285714285
+Swimming In The Flood,This Cowboy Song,flood,sting,0.125
+Swimming In The Flood,This Cowboy Song,flood,gold,0.1111111111111111
+Swimming In The Flood,This Cowboy Song,flood,fields,0.26666666666666666
+Swimming In The Flood,This Cowboy Song,flood,best,0.13333333333333333
+Swimming In The Flood,This Cowboy Song,manners,cowboy,0.11764705882352941
+Swimming In The Flood,This Cowboy Song,manners,song,0.3076923076923077
+Swimming In The Flood,This Cowboy Song,manners,sting,0.26666666666666666
+Swimming In The Flood,This Cowboy Song,manners,gold,0.23529411764705882
+Swimming In The Flood,This Cowboy Song,manners,fields,0.14285714285714285
+Swimming In The Flood,This Cowboy Song,manners,best,0.2857142857142857
+Swimming In The Flood,Walk Of Life,swimming,walk,0.5
+Swimming In The Flood,Walk Of Life,swimming,life,0.25
+Swimming In The Flood,Walk Of Life,swimming,brothers,0.1111111111111111
+Swimming In The Flood,Walk Of Life,swimming,arms,0.11764705882352941
+Swimming In The Flood,Walk Of Life,flood,walk,0.11764705882352941
+Swimming In The Flood,Walk Of Life,flood,life,0.15384615384615385
+Swimming In The Flood,Walk Of Life,flood,brothers,0.26666666666666666
+Swimming In The Flood,Walk Of Life,flood,arms,0.2857142857142857
+Swimming In The Flood,Walk Of Life,manners,walk,0.25
+Swimming In The Flood,Walk Of Life,manners,life,0.5
+Swimming In The Flood,Walk Of Life,manners,brothers,0.14285714285714285
+Swimming In The Flood,Walk Of Life,manners,arms,0.15384615384615385
+Swimming In The Flood,Somewhere in the Middle,swimming,somewhere,0.13333333333333333
+Swimming In The Flood,Somewhere in the Middle,swimming,middle,0.11764705882352941
+Swimming In The Flood,Somewhere in the Middle,swimming,flow,0.4444444444444444
+Swimming In The Flood,Somewhere in the Middle,swimming,state,0.1111111111111111
+Swimming In The Flood,Somewhere in the Middle,swimming,live,0
+Swimming In The Flood,Somewhere in the Middle,swimming,greetings,0.25
+Swimming In The Flood,Somewhere in the Middle,flood,somewhere,0.3333333333333333
+Swimming In The Flood,Somewhere in the Middle,flood,middle,0.2857142857142857
+Swimming In The Flood,Somewhere in the Middle,flood,flow,0.13333333333333333
+Swimming In The Flood,Somewhere in the Middle,flood,state,0.26666666666666666
+Swimming In The Flood,Somewhere in the Middle,flood,live,0
+Swimming In The Flood,Somewhere in the Middle,flood,greetings,0.15384615384615385
+Swimming In The Flood,Somewhere in the Middle,manners,somewhere,0.18181818181818182
+Swimming In The Flood,Somewhere in the Middle,manners,middle,0.15384615384615385
+Swimming In The Flood,Somewhere in the Middle,manners,flow,0.2857142857142857
+Swimming In The Flood,Somewhere in the Middle,manners,state,0.14285714285714285
+Swimming In The Flood,Somewhere in the Middle,manners,live,0
+Swimming In The Flood,Somewhere in the Middle,manners,greetings,0.3333333333333333
+Swimming In The Flood,Ember Drive,swimming,ember,0.125
+Swimming In The Flood,Ember Drive,swimming,drive,0.5882352941176471
+Swimming In The Flood,Ember Drive,swimming,redemption,0.5555555555555556
+Swimming In The Flood,Ember Drive,flood,ember,0.3076923076923077
+Swimming In The Flood,Ember Drive,flood,drive,0.14285714285714285
+Swimming In The Flood,Ember Drive,flood,redemption,0.13333333333333333
+Swimming In The Flood,Ember Drive,manners,ember,0.16666666666666666
+Swimming In The Flood,Ember Drive,manners,drive,0.3076923076923077
+Swimming In The Flood,Ember Drive,manners,redemption,0.2857142857142857
+Swimming In The Flood,Cancun,swimming,cancun,0.1
+Swimming In The Flood,Cancun,flood,cancun,0.23529411764705882
+Swimming In The Flood,Cancun,manners,cancun,0.125
+Swimming In The Flood,How Deep Is Your Love,swimming,love,0.23529411764705882
+Swimming In The Flood,How Deep Is Your Love,swimming,deep,0.25
+Swimming In The Flood,How Deep Is Your Love,swimming,popular,0
+Swimming In The Flood,How Deep Is Your Love,swimming,pianist,0.1111111111111111
+Swimming In The Flood,How Deep Is Your Love,swimming,plays,0.23529411764705882
+Swimming In The Flood,How Deep Is Your Love,swimming,bee,0.09090909090909091
+Swimming In The Flood,How Deep Is Your Love,swimming,john,0.10526315789473684
+Swimming In The Flood,How Deep Is Your Love,swimming,world,0.125
+Swimming In The Flood,How Deep Is Your Love,swimming,favorites,0.3157894736842105
+Swimming In The Flood,How Deep Is Your Love,flood,love,0.14285714285714285
+Swimming In The Flood,How Deep Is Your Love,flood,deep,0.15384615384615385
+Swimming In The Flood,How Deep Is Your Love,flood,popular,0
+Swimming In The Flood,How Deep Is Your Love,flood,pianist,0.26666666666666666
+Swimming In The Flood,How Deep Is Your Love,flood,plays,0.14285714285714285
+Swimming In The Flood,How Deep Is Your Love,flood,bee,0.21052631578947367
+Swimming In The Flood,How Deep Is Your Love,flood,john,0.25
+Swimming In The Flood,How Deep Is Your Love,flood,world,0.3076923076923077
+Swimming In The Flood,How Deep Is Your Love,flood,favorites,0.125
+Swimming In The Flood,How Deep Is Your Love,manners,love,0.46153846153846156
+Swimming In The Flood,How Deep Is Your Love,manners,deep,0.3333333333333333
+Swimming In The Flood,How Deep Is Your Love,manners,popular,0
+Swimming In The Flood,How Deep Is Your Love,manners,pianist,0.14285714285714285
+Swimming In The Flood,How Deep Is Your Love,manners,plays,0.3076923076923077
+Swimming In The Flood,How Deep Is Your Love,manners,bee,0.1111111111111111
+Swimming In The Flood,How Deep Is Your Love,manners,john,0.13333333333333333
+Swimming In The Flood,How Deep Is Your Love,manners,world,0.16666666666666666
+Swimming In The Flood,How Deep Is Your Love,manners,favorites,0.26666666666666666
+Swimming In The Flood,a.k.a. I.D.I.O.T.,swimming,k,0.23529411764705882
+Swimming In The Flood,a.k.a. I.D.I.O.T.,swimming,barely,0
+Swimming In The Flood,a.k.a. I.D.I.O.T.,swimming,legal,0
+Swimming In The Flood,a.k.a. I.D.I.O.T.,flood,k,0.14285714285714285
+Swimming In The Flood,a.k.a. I.D.I.O.T.,flood,barely,0
+Swimming In The Flood,a.k.a. I.D.I.O.T.,flood,legal,0
+Swimming In The Flood,a.k.a. I.D.I.O.T.,manners,k,0.3076923076923077
+Swimming In The Flood,a.k.a. I.D.I.O.T.,manners,barely,0
+Swimming In The Flood,a.k.a. I.D.I.O.T.,manners,legal,0
+Swimming In The Flood,I'm Your Baby Tonight,swimming,baby,0.1111111111111111
+Swimming In The Flood,I'm Your Baby Tonight,swimming,tonight,0.25
+Swimming In The Flood,I'm Your Baby Tonight,swimming,greatest,0
+Swimming In The Flood,I'm Your Baby Tonight,swimming,hits,0.5263157894736842
+Swimming In The Flood,I'm Your Baby Tonight,swimming,whitney,0.11764705882352941
+Swimming In The Flood,I'm Your Baby Tonight,flood,baby,0.26666666666666666
+Swimming In The Flood,I'm Your Baby Tonight,flood,tonight,0.15384615384615385
+Swimming In The Flood,I'm Your Baby Tonight,flood,greatest,0
+Swimming In The Flood,I'm Your Baby Tonight,flood,hits,0.125
+Swimming In The Flood,I'm Your Baby Tonight,flood,whitney,0.2857142857142857
+Swimming In The Flood,I'm Your Baby Tonight,manners,baby,0.14285714285714285
+Swimming In The Flood,I'm Your Baby Tonight,manners,tonight,0.5
+Swimming In The Flood,I'm Your Baby Tonight,manners,greatest,0
+Swimming In The Flood,I'm Your Baby Tonight,manners,hits,0.26666666666666666
+Swimming In The Flood,I'm Your Baby Tonight,manners,whitney,0.15384615384615385
+Swimming In The Flood,Hello,swimming,hello,0.23529411764705882
+Swimming In The Flood,Hello,swimming,popular,0
+Swimming In The Flood,Hello,swimming,pianist,0.1111111111111111
+Swimming In The Flood,Hello,swimming,plays,0.23529411764705882
+Swimming In The Flood,Hello,swimming,romantic,0.11764705882352941
+Swimming In The Flood,Hello,swimming,favorites,0.3157894736842105
+Swimming In The Flood,Hello,swimming,world,0.125
+Swimming In The Flood,Hello,flood,hello,0.14285714285714285
+Swimming In The Flood,Hello,flood,popular,0
+Swimming In The Flood,Hello,flood,pianist,0.26666666666666666
+Swimming In The Flood,Hello,flood,plays,0.14285714285714285
+Swimming In The Flood,Hello,flood,romantic,0.2857142857142857
+Swimming In The Flood,Hello,flood,favorites,0.125
+Swimming In The Flood,Hello,flood,world,0.3076923076923077
+Swimming In The Flood,Hello,manners,hello,0.3076923076923077
+Swimming In The Flood,Hello,manners,popular,0
+Swimming In The Flood,Hello,manners,pianist,0.14285714285714285
+Swimming In The Flood,Hello,manners,plays,0.3076923076923077
+Swimming In The Flood,Hello,manners,romantic,0.15384615384615385
+Swimming In The Flood,Hello,manners,favorites,0.26666666666666666
+Swimming In The Flood,Hello,manners,world,0.16666666666666666
+Swimming In The Flood,Heartbreak Hotel,swimming,heartbreak,0.2222222222222222
+Swimming In The Flood,Heartbreak Hotel,swimming,hotel,0.1111111111111111
+Swimming In The Flood,Heartbreak Hotel,swimming,greatest,0
+Swimming In The Flood,Heartbreak Hotel,swimming,hits,0.5263157894736842
+Swimming In The Flood,Heartbreak Hotel,swimming,whitney,0.11764705882352941
+Swimming In The Flood,Heartbreak Hotel,flood,heartbreak,0.13333333333333333
+Swimming In The Flood,Heartbreak Hotel,flood,hotel,0.26666666666666666
+Swimming In The Flood,Heartbreak Hotel,flood,greatest,0
+Swimming In The Flood,Heartbreak Hotel,flood,hits,0.125
+Swimming In The Flood,Heartbreak Hotel,flood,whitney,0.2857142857142857
+Swimming In The Flood,Heartbreak Hotel,manners,heartbreak,0.42857142857142855
+Swimming In The Flood,Heartbreak Hotel,manners,hotel,0.14285714285714285
+Swimming In The Flood,Heartbreak Hotel,manners,greatest,0
+Swimming In The Flood,Heartbreak Hotel,manners,hits,0.26666666666666666
+Swimming In The Flood,Heartbreak Hotel,manners,whitney,0.15384615384615385
+Swimming In The Flood,Fruit of love,swimming,love,0.23529411764705882
+Swimming In The Flood,Fruit of love,swimming,fruit,0.10526315789473684
+Swimming In The Flood,Fruit of love,swimming,lounge,0.1
+Swimming In The Flood,Fruit of love,flood,love,0.14285714285714285
+Swimming In The Flood,Fruit of love,flood,fruit,0.25
+Swimming In The Flood,Fruit of love,flood,lounge,0.23529411764705882
+Swimming In The Flood,Fruit of love,manners,love,0.46153846153846156
+Swimming In The Flood,Fruit of love,manners,fruit,0.13333333333333333
+Swimming In The Flood,Fruit of love,manners,lounge,0.125
+Swimming In The Flood,King & Queen,swimming,queen,0.09523809523809523
+Swimming In The Flood,King & Queen,swimming,king,0.11764705882352941
+Swimming In The Flood,King & Queen,swimming,retrospective,0.23529411764705882
+Swimming In The Flood,King & Queen,swimming,reflections,0.3157894736842105
+Swimming In The Flood,King & Queen,flood,queen,0.2222222222222222
+Swimming In The Flood,King & Queen,flood,king,0.2857142857142857
+Swimming In The Flood,King & Queen,flood,retrospective,0.14285714285714285
+Swimming In The Flood,King & Queen,flood,reflections,0.125
+Swimming In The Flood,King & Queen,manners,queen,0.11764705882352941
+Swimming In The Flood,King & Queen,manners,king,0.15384615384615385
+Swimming In The Flood,King & Queen,manners,retrospective,0.3076923076923077
+Swimming In The Flood,King & Queen,manners,reflections,0.26666666666666666
+Swimming In The Flood,Light and space,swimming,space,0.2857142857142857
+Swimming In The Flood,Light and space,swimming,light,0.09523809523809523
+Swimming In The Flood,Light and space,swimming,hypothetical,0.3157894736842105
+Swimming In The Flood,Light and space,flood,space,0.18181818181818182
+Swimming In The Flood,Light and space,flood,light,0.5555555555555556
+Swimming In The Flood,Light and space,flood,hypothetical,0.125
+Swimming In The Flood,Light and space,manners,space,0.6
+Swimming In The Flood,Light and space,manners,light,0.11764705882352941
+Swimming In The Flood,Light and space,manners,hypothetical,0.26666666666666666
